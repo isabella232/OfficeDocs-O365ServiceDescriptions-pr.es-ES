@@ -1,0 +1,64 @@
+---
+title: Privacidad, seguridad y transparencia
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.date: 6/13/2018
+ms.audience: ITPro
+ms.topic: reference
+f1_keywords:
+- office-365-privacy-security-transparency
+ms.service: o365-administration
+localization_priority: Normal
+ms.custom: Adm_ServiceDesc
+ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
+description: Microsoft valora las asociaciones que tenemos con nuestros clientes y pone mucho énfasis en la protección de la privacidad y seguridad de los datos de los clientes. Para obtener más información, visite el Centro de confianza de Microsoft.
+ms.openlocfilehash: 8a50f2bbf2a4890c9f4d77f9b68f186de79867cc
+ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.translationtype: MT
+ms.contentlocale: es-ES
+ms.lasthandoff: 09/19/2018
+ms.locfileid: "24037027"
+---
+# <a name="privacy-security-and-transparency"></a><span data-ttu-id="2f4f5-104">Privacidad, seguridad y transparencia</span><span class="sxs-lookup"><span data-stu-id="2f4f5-104">Privacy, Security, and Transparency</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="2f4f5-p102">La información descrita en este artículo se aplica a las versiones internacionales de Office 365. Si usa una instancia en la nube nacional de Office 365, incluido Office 365 U.S. Government, Office 365 Germany y Office 365 ofrecido por 21Vianet, consulte [Microsoft National Clouds (Nubes nacionales de Microsoft](https://go.microsoft.com/fwlink/?linkid=841582).</span><span class="sxs-lookup"><span data-stu-id="2f4f5-p102">The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582).</span></span> 
+  
+<span data-ttu-id="2f4f5-p103">Microsoft valora las asociaciones que tenemos con nuestros clientes y pone mucho énfasis en la protección de la privacidad y seguridad de los datos de los clientes. Para obtener más información, visite el [Centro de confianza de Microsoft](http://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="2f4f5-p103">Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](http://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).</span></span>
+  
+## <a name="privacy"></a><span data-ttu-id="2f4f5-109">Privacidad</span><span class="sxs-lookup"><span data-stu-id="2f4f5-109">Privacy</span></span>
+
+<span data-ttu-id="2f4f5-110">Para obtener información sobre cómo Microsoft Office 365 protege la privacidad de los datos, consulte [Privacidad](http://go.microsoft.com/fwlink/?LinkID=717953&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="2f4f5-110">To learn about how Microsoft Office 365 protects the privacy of your data, see [Privacy](http://go.microsoft.com/fwlink/?LinkID=717953&amp;clcid=0x409).</span></span> 
+  
+<span data-ttu-id="2f4f5-111">Para conocer los pasos específicos que los administradores de las versiones Enterprise, Empresa, Administración Pública y Ámbito Educativo pueden realizar para configurar las opciones de privacidad de Office 365, vea [Opciones avanzadas de privacidad para administradores](https://go.microsoft.com/fwlink/p/?LinkID=285202).</span><span class="sxs-lookup"><span data-stu-id="2f4f5-111">For specific steps Enterprise, Business, Government, and Education admins can take to configure Office 365 privacy settings, see [Advanced Privacy Options for Administrators](https://go.microsoft.com/fwlink/p/?LinkID=285202).</span></span>
+  
+<span data-ttu-id="2f4f5-112">Para obtener información sobre seguridad y privacidad para otros servicios Microsoft, como Office 365 ProPlus, vea [¿A qué servicios en línea se aplica el Centro de confianza?](https://go.microsoft.com/fwlink/p/?LinkID=281962)</span><span class="sxs-lookup"><span data-stu-id="2f4f5-112">For information about security and privacy for other Microsoft services, including Office 365 ProPlus, see [To which online services does the Trust Center apply?](https://go.microsoft.com/fwlink/p/?LinkID=281962)</span></span>
+  
+## <a name="security"></a><span data-ttu-id="2f4f5-113">Seguridad</span><span class="sxs-lookup"><span data-stu-id="2f4f5-113">Security</span></span>
+
+<span data-ttu-id="2f4f5-114">Para obtener información sobre cómo Microsoft proporciona servicios de Office 365 de manera segura y fiable, consulte [Seguridad](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="2f4f5-114">To learn how Microsoft delivers Office 365 services securely and reliably, see [Security](http://go.microsoft.com/fwlink/?LinkID=717954&amp;clcid=0x409).</span></span>
+  
+## <a name="transparency"></a><span data-ttu-id="2f4f5-115">Transparencia</span><span class="sxs-lookup"><span data-stu-id="2f4f5-115">Transparency</span></span>
+
+<span data-ttu-id="2f4f5-p104">Como cliente de Office 365, puede saber dónde residen sus datos, quiénes de Microsoft pueden acceder a ellos y las tareas que realizamos con dicha información internamente. Para obtener más información, consulte [Transparencia](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="2f4f5-p104">As an Office 365 customer, you can find out where your data resides, who at Microsoft can access it, and what we do with that information internally. For more information, see [Transparency](http://go.microsoft.com/fwlink/?LinkID=717955&amp;clcid=0x409).</span></span>
+  
+## <a name="office-365-advanced-ediscovery"></a><span data-ttu-id="2f4f5-118">Exhibición de documentos electrónicos avanzada de Office 365</span><span class="sxs-lookup"><span data-stu-id="2f4f5-118">Office 365 Advanced eDiscovery</span></span>
+
+<span data-ttu-id="2f4f5-p105">La exhibición de documentos electrónicos, o eDiscovery, es el proceso de identificación y entrega de información electrónica que se puede usar como prueba en casos legales. La Exhibición de documentos electrónicos avanzada de Office 365 se basa en el conjunto existente de capacidades de exhibición de documentos electrónicos en Office 365, lo que le permite analizar grandes conjuntos de datos no estructurados y reducir la cantidad de datos que sea relevante para un caso legal. Puede usar la característica de búsqueda en el Centro de cumplimiento de Office 365 para realizar una búsqueda inicial de todos los orígenes de contenido que hay en la organización e identificar y recopilar los datos que pueden ser relevantes para un caso legal específico. A continuación, puede analizar esos datos mediante análisis de texto, aprendizaje automático y funciones de codificación predictiva de relevancia de Exhibición de documentos electrónicos avanzada. Para obtener más información, consulte [Exhibición de documentos electrónicos avanzada de Office 365](http://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="2f4f5-p105">Electronic discovery, or eDiscovery, is the process of identifying and delivering electronic information that can be used as evidence in legal cases. Office 365 Advanced eDiscovery builds on the existing set of eDiscovery capabilities in Office 365, allowing you to analyze large, unstructured data sets and reduce the amount of data that's relevant to a legal case. You can use the Search feature in the Office 365 Compliance Center to perform an initial search of all the content sources in your organization to identify and collect the data that might be relevant to a specific legal case. You can then analyze that data by applying the text analytics, machine learning, and relevance/predictive coding capabilities of Advanced eDiscovery. For more information, see [Office 365 Advanced eDiscovery](http://go.microsoft.com/fwlink/?LinkID=717971&amp;clcid=0x409).</span></span>
+  
+## <a name="customer-lockbox"></a><span data-ttu-id="2f4f5-124">Caja de seguridad del cliente</span><span class="sxs-lookup"><span data-stu-id="2f4f5-124">Customer Lockbox</span></span>
+
+<span data-ttu-id="2f4f5-p106">Como administrador de Office 365, puede usar la Caja de seguridad del cliente para controlar el acceso de un ingeniero de soporte técnico de Microsoft a sus datos durante una sesión de ayuda. En casos donde el ingeniero requiere acceso a los datos para solucionar un problema, la Caja de seguridad del cliente le permite aprobar o rechazar la solicitud de acceso. Si se aprueba, el ingeniero puede tener acceso a los datos. Cada solicitud tiene una fecha de expiración y, una vez resuelto el problema, se cierra la solicitud y se revoca el acceso.</span><span class="sxs-lookup"><span data-stu-id="2f4f5-p106">As an Office 365 admin, you can use Customer Lockbox to control how a Microsoft support engineer accesses your data during a help session. In cases where the engineer requires access to your data to troubleshoot and fix an issue, Customer Lockbox allows you to approve or reject the access request. If you approve it, the engineer is able to access the data. Each request has an expiration time, and once the issue is resolved, the request is closed and access is revoked.</span></span>
+  
+<span data-ttu-id="2f4f5-p107">La Caja de seguridad del cliente se incluye en el plan de Office 365 Enterprise 5 o se puede comprar una suscripción independiente con cualquier otro plan de Office 365 Enterprise. Para obtener más información, consulte [Solicitudes de caja de seguridad del cliente de Office 365](http://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="2f4f5-p107">Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](http://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).</span></span>
+  
+## <a name="advanced-threat-protection"></a><span data-ttu-id="2f4f5-131">Protección contra amenazas avanzada</span><span class="sxs-lookup"><span data-stu-id="2f4f5-131">Advanced Threat Protection</span></span>
+
+<span data-ttu-id="2f4f5-p108">La Protección contra amenazas avanzada de Exchange Online es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger la organización contra virus y malware. ATP incluye las características Vínculos seguros y Datos adjuntos seguros. Vínculos seguros protege proactivamente a los usuarios contra hipervínculos malintencionados en un mensaje, es decir, que ofrece protección cada vez que se hace clic en el vínculo. Datos adjuntos seguros protege contra malware y virus desconocidos enrutando todos los mensajes y datos adjuntos que no tienen una firma de virus y malware conocida hacia un entorno especial donde ATP puede detectar las malas intenciones. Para obtener más información sobre ATP, consulte [Descripción del servicio de protección contra amenazas avanzada de Exchange Online](https://technet.microsoft.com/en-us/library/exchange-online-advanced-threat-protection-service-description.aspx).</span><span class="sxs-lookup"><span data-stu-id="2f4f5-p108">Exchange Online Advanced Threat Protection is a cloud-based email filtering service that helps protect your organization against malware and viruses. ATP includes the Safe Links and Safe Attachments features. Safe Links proactively protects your users from malicious hyperlinks in a message, providing protection every time the link is clicked. Safe Attachments protects against unknown malware and viruses, routing all messages and attachments that don't have a known virus/malware signature to a special environment where ATP can detect malicious intent. For more information about ATP, see [Exchange Online Advanced Threat Protection Service Description](https://technet.microsoft.com/en-us/library/exchange-online-advanced-threat-protection-service-description.aspx).</span></span>
+  
+## <a name="feature-availability"></a><span data-ttu-id="2f4f5-137">Disponibilidad de características</span><span class="sxs-lookup"><span data-stu-id="2f4f5-137">Feature availability</span></span>
+
+<span data-ttu-id="2f4f5-138">Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span><span class="sxs-lookup"><span data-stu-id="2f4f5-138">To view feature availability across Office 365 plans, see [Office 365 Platform Service Description](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).</span></span>
+  
+
