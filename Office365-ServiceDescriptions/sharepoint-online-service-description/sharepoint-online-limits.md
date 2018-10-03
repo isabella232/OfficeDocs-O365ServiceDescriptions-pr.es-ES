@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Busque los límites de SharePoint Online para planes de Office 365 Enterprise e independientes.
-ms.openlocfilehash: af1916877f6da46af61034706d036125ba73d935
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 08d7319364ea39107fbe957f857b3df7f5d8866c
+ms.sourcegitcommit: fd9ad844e1812a80f28b9c0119519b0c5ad03004
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036929"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25359596"
 ---
 # <a name="sharepoint-online-limits"></a>Límites de SharePoint Online
 
@@ -25,7 +25,7 @@ Busque los límites de SharePoint Online para planes de Office 365 Enterprise e 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Característica** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Almacenamiento<sup>1, 2</sup> <br/> |1 TB por organización más de 10 GB por cada licencia adquirida  <br/> |1 TB por organización más de 10 GB por cada licencia adquirida  <br/> |1 TB por organización más de 10 GB por licencia adquirieron<sup>3</sup> <br/> |1 TB por organización más de 10 GB por licencia adquirieron<sup>3</sup> <br/> |1 TB por organización más de 10 GB por licencia adquirieron<sup>3</sup> <br/> |1 TB por organización <sup>3</sup> <br/> |
 |Términos en la tienda  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |200,000  <br/> |
 |Almacenamiento para colecciones de sitios  <br/> |Hasta 25 TB por colección de sitios o grupo<sup>4</sup> <br/> |Hasta 25 TB por colección de sitios o grupo<sup>4</sup> <br/> |Hasta 25 TB por colección de sitios o grupo<sup>4</sup> <br/> |Hasta 25 TB por colección de sitios o grupo<sup>4</sup> <br/> |Hasta 25 TB por colección de sitios o grupo<sup>4</sup> <br/> |Hasta 25 TB por colección de sitios o grupo<sup>5</sup> <br/> |
@@ -41,7 +41,7 @@ Busque los límites de SharePoint Online para planes de Office 365 Enterprise e 
 ||||
 |:-----|:-----|:-----|
 |**Característica** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |
-|Almacenamiento<sup>1, 2</sup> <br/> |1 TB por organización, además de 0,5 GB por cada licencia adquirida<sup>3</sup> <br/> |1 TB por organización, además de 0,5 GB por cada licencia adquirida<sup>3</sup> <br/> |
+|Almacenamiento<sup>1, 2</sup> <br/> |1 TB por organización más de 10 GB por licencia adquirieron<sup>3</sup> <br/> |1 TB por organización más de 10 GB por licencia adquirieron<sup>3</sup> <br/> |
 |Términos en la tienda  <br/> |200,000  <br/> |200,000  <br/> |
 |Almacenamiento para colecciones de sitios  <br/> |Hasta 25 TB por colección de sitios o grupo<sup>4</sup> <br/> |Hasta 25 TB por colección de sitios o grupo<sup>4</sup> <br/> |
 |Colecciones de sitios por inquilino  <br/> |500.000 por organización<sup>5</sup> <br/> |500.000 por organización<sup>5</sup> <br/> |
