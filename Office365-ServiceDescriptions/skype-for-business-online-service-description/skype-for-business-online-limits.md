@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Los límites en Skype para profesionales en línea se dividen en las siguientes categorías:'
-ms.openlocfilehash: 5b57270db1110d9d66624f975b049e2b47143bc7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036974"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362885"
 ---
 # <a name="skype-for-business-online-limits"></a>Límites de Skype Empresarial Online
 
@@ -48,7 +48,7 @@ Los límites en Skype para profesionales en línea se dividen en las siguientes 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
 |Límite de transferencia de archivos  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |No aplicable  <br/> |
 |Conversación límite<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Límite de conversaciones en pestañas abiertas  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |No aplicable  <br/> |
@@ -87,7 +87,7 @@ Los límites en Skype para profesionales en línea se dividen en las siguientes 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
 |Límite de carga de archivos  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |No aplicable  <br/> |
 |Participantes en una reunión de Skype Empresarial<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
 |Moderadores en una reunión de Skype Empresarial  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
@@ -126,12 +126,12 @@ Los límites en Skype para profesionales en línea se dividen en las siguientes 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Retención del contenido de la reunión: Reunión única  <br/> |Configurable<sup>1</sup> <br/> |15 días  <br/> |15 días  <br/> |15 días  <br/> |15 días  <br/> |No aplicable  <br/> |
-|Retención del contenido de la reunión: Reunión periódica  <br/> |Configurable<sup>1</sup> <br/> |15 días  <br/> |15 días  <br/> |15 días  <br/> |15 días  <br/> |No aplicable  <br/> |
+|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
+|Retención del contenido de la reunión: Reunión única  <br/> |Configurable<sup>1</sup> <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |No aplicable  <br/> |
+|Retención del contenido de la reunión: Reunión periódica  <br/> |Configurable<sup>1</sup> <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |No aplicable  <br/> |
 |Retención del contenido de la reunión: Reunión ahora  <br/> |Configurable<sup>1</sup> <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |No aplicable  <br/> |
 |Expiración de la reunión: Reunión única  <br/> |Fecha de finalización más 365 días<sup>2</sup> <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |No aplicable  <br/> |
-|Expiración de la reunión: Reunión periódica  <br/> |Con fecha de finalización: Fecha de finalización más 365 días<sup>2</sup> <br/> Sin fecha de finalización: Última conferencia más seis meses<sup>3</sup> <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |No aplicable  <br/> |
+|Expiración de la reunión: Reunión periódica  <br/> |Con fecha de finalización: Fecha de finalización más 365 días<sup>2</sup> <br/> Sin fecha de finalización: if siempre accesible actualizado 1/año<sup>3</sup> <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |No aplicable  <br/> |
 |Expiración de la reunión: Reunión ahora  <br/> |8 horas  <br/> | 8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |No aplicable  <br/> |
    
 > [!NOTE]
@@ -145,11 +145,11 @@ Los límites en Skype para profesionales en línea se dividen en las siguientes 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Skype Empresarial Online Plan independiente 1** <br/> |**Skype Empresarial Online Plan independiente 2** <br/> |
-|Retención del contenido de la reunión: Reunión única  <br/> |Configurable<sup>1</sup> <br/> |No disponible  <br/> |15 días  <br/> |
-|Retención del contenido de la reunión: Reunión periódica  <br/> |Configurable<sup>1</sup> <br/> |No disponible  <br/> |15 días  <br/> |
+|Retención del contenido de la reunión: Reunión única  <br/> |Configurable<sup>1</sup> <br/> |No disponible  <br/> |14 días  <br/> |
+|Retención del contenido de la reunión: Reunión periódica  <br/> |Configurable<sup>1</sup> <br/> |No disponible  <br/> |14 días  <br/> |
 |Retención del contenido de la reunión: Reunión ahora  <br/> |Configurable<sup>1</sup> <br/> |No disponible  <br/> |8 horas  <br/> |
 |Expiración de la reunión: Reunión única  <br/> |Fecha de finalización más 365 días<sup>2</sup> <br/> |No disponible  <br/> |14 días  <br/> |
-|Expiración de la reunión: Reunión periódica  <br/> |Con fecha de finalización: Fecha de finalización más 365 días<sup>2</sup> <br/> Sin fecha de finalización: Última conferencia más seis meses<sup>3</sup> <br/> |No disponible  <br/> |14 días  <br/> |
+|Expiración de la reunión: Reunión periódica  <br/> |Con fecha de finalización: Fecha de finalización más 365 días<sup>2</sup> <br/> Sin fecha de finalización: if siempre accesible actualizado 1/año<sup>3</sup> <br/> |No disponible  <br/> |14 días  <br/> |
 |Expiración de la reunión: Reunión ahora  <br/> |8 horas  <br/> |No aplicable  <br/> |8 horas  <br/> |
    
 > [!NOTE]

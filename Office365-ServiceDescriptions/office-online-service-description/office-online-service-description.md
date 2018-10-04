@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anteriormente Office Web Apps) se abre documentos de Word, Excel, OneNote y PowerPoint en el explorador web. Office Online facilita el trabajo y compartir los archivos de Office desde cualquier lugar con una conexión a Internet, desde casi cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier lugar.
-ms.openlocfilehash: 31b412fb86ffb48cc14b8aacfbae281a124907ae
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037127"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362875"
 ---
 # <a name="office-online-service-description"></a>Descripción del servicio de Office Online
 
@@ -123,7 +123,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Filtro de tiempo avanzado (segmentación de escala de tiempo)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |No  <br/> |Sí  <br/> |
 |[Alineación](excel-online.md#alignment) <br/> |Sí  <br/> |Sí  <br/> |
 |[Aplicar formato condicional](excel-online.md#apply-conditional-formatting) <br/> |No  <br/> |Sí  <br/> |
-|[Aplicar validación de datos a celdas](excel-online.md#apply-data-validation-to-cells) <br/> |No  <br/> |Sí  <br/> |
+|[Aplicar validación de datos a celdas](excel-online.md#apply-data-validation-to-cells) <br/> |Sí  <br/> |Sí  <br/> |
 |[Aplicar formato inteligente/recomendado](excel-online.md#apply-smartrecommended-formatting) <br/> |No  <br/> |Sí  <br/> |
 |[Grabación de notas de audio](onenote-online.md#audio-notes-recording) <br/> |No  <br/> |Sí  <br/> |
 |[Autocompletar](excel-online.md#autocomplete) <br/> |Sí  <br/> |Sí  <br/> |

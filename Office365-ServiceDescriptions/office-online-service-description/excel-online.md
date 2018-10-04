@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel Online (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel en el explorador web, donde puede trabajar con libros directamente en el sitio Web donde está almacenado el libro. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office Online.
-ms.openlocfilehash: daff8cabad339eec8d46703e4e081d607ec90fd5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1cf8b3f9144a940b2e79958455c08fee2d1e7365
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036981"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362905"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -57,7 +57,7 @@ En Excel Online, el formato condicional puede verse pero no aplicarse. La aplica
 ## <a name="apply-data-validation-to-cells"></a>Aplicar validación de datos a celdas
 <a name="bkmk_Applydatavalidationtocells"> </a>
 
-No disponible en Excel Online. Las características avanzadas, como la validación de datos, solo están disponibles en la aplicación de escritorio de Excel. En cambio, puede ver e interactuar con datos habilitados para la validación en Excel Online. Obtenga más información sobre cómo [aplicar la validación de datos a celdas en Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282328).
+Esta característica está disponible en Excel en línea. Otras características avanzadas sólo están disponibles en la aplicación de escritorio de Excel.
   
 ## <a name="apply-smartrecommended-formatting"></a>Aplicar formato inteligente/recomendado
 <a name="bkmk_Applysmartformatting"> </a>

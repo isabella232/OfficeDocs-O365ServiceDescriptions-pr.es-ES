@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemania es una opción diferenciada desde los servicios de Office 365 ya está disponibles en Europa. Ayuda a dirección centros de las necesidades de los clientes más regulados en Alemania, la Unión Europea (UE) y la Asociación Europea de libre comercio (AELC) mediante la implementación de nuestros servicios de productividad de líderes de la industria para el trabajo digital, desde datos alemán, con residencia de datos en Alemania y acceso a datos estricto y control de las medidas a través de un modelo de usuario de confianza de datos único regirá derecho alemán.
-ms.openlocfilehash: ee91b0d097693488895e022641e92705c9b82e43
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f027174c203f2f370c442b2efa5d4a3513607bb1
+ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037068"
+ms.lasthandoff: 10/03/2018
+ms.locfileid: "25362965"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -24,7 +24,7 @@ Office 365 Alemania es una opción diferenciada desde los servicios de Office 36
   
 La administración de los datos la realiza T-Systems International, una compañía independiente alemana y subsidiaria de Deutsche Telekom, controlando el acceso físico y lógico a los datos de los clientes. No se puede acceder a dichos datos sin la aprobación o la supervisión del administrador de datos, que se rige por la legislación alemana. 
   
-Debido a la naturaleza única de Office 365 Germany, hay algunas características que todavía no se han habilitado. Observará cómo estos servicios se irán acercando al estado de función completa, igual a la de los servicios globales, de manera progresiva. Para obtener información general sobre las características incluidas y recibir asistencia, vea [Información sobre Office 365 Germany](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
+En función de esta evolución de las necesidades de los clientes, nuestra estrategia de nube para Alemania se centrará en la entrega de las áreas nuevas de nube en Alemania que son coherentes con nuestra en la nube global que ofrece. Con este enfoque, se se ya no acepta a nuevos clientes o implementación de los servicios nuevos desde la Alemania Microsoft Cloud actualmente disponible. Los clientes existentes pueden seguir usando la actual en la nube servicios disponibles en la actualidad, que se debe mantener con actualizaciones de seguridad necesarias. [Obtenga información sobre Office 365 Alemania](https://support.office.com/en-us/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilidad del servicio para cada plan
 
@@ -85,7 +85,7 @@ Para obtener información específica sobre los precios y las características d
 |Microsoft StaffHub<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Balanceo de Microsoft<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Microsoft Teams  <br/> |No hay<sup>9</sup> <br/> |No  <br/> |No hay<sup>9</sup> <br/> |No  <br/> |No hay<sup>9</sup> <br/> |No hay<sup>9</sup> <br/> |No hay<sup>9</sup> <br/> |No  <br/> |
-|Office Delve<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Office Delve<sup></sup> <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Grupos de Office 365  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Office 365 Video  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |**[Administración de cuentas de usuario](user-account-management.md)** <br/> |**Office 365 Germany Business Essentials** <br/> |**Office 365 Germany Business** <br/> |**Office 365 Germany Business Premium** <br/> |**Office 365 Germany Education A1** <br/> |**Office 365 Germany Enterprise E1** <br/> |**Office 365 Germany Enterprise E3** <br/> |**Office 365 Germany Enterprise E4** <br/> |**Office 365 Germany Enterprise K1** <br/> |
@@ -265,7 +265,8 @@ Use las tablas siguientes para comparar la disponibilidad de las característica
 |[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Outlook para Android<sup>11</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**Valor empresarial** <br/> |**Office Professional Plus 2013** <br/> |**Office Profesional Plus 2016** <br/> |**Office 365 ProPlus** <br/> |
+|**Valor empresarial** <br/> |**Office Professional Plus 2013** <br/> |**Office Profesional Plus 2016** <br/> |
+  **Office 365 ProPlus** <br/> |
 |Cinco instalaciones por usuario en PC o Mac  <br/> |No  <br/> |Sí  <br/> |Sí<sup>8</sup> <br/> |
 |Aprovisionamiento de cuentas de usuario automatizado  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
 |Interfaz de usuario multilingüe  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
