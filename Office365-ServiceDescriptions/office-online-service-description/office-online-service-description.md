@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anteriormente Office Web Apps) se abre documentos de Word, Excel, OneNote y PowerPoint en el explorador web. Office Online facilita el trabajo y compartir los archivos de Office desde cualquier lugar con una conexión a Internet, desde casi cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier lugar.
-ms.openlocfilehash: e3127ec7d65821ed45bf4c513d3715ee115d8714
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
+ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362875"
+ms.lasthandoff: 10/05/2018
+ms.locfileid: "25435828"
 ---
 # <a name="office-online-service-description"></a>Descripción del servicio de Office Online
 
@@ -119,24 +119,22 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 ||||
 |:-----|:-----|:-----|
 |**Características de aplicaciones** <br/> |**Excel Online** <br/> |**Aplicación de escritorio de Excel** <br/> |
+|[Comprobador de accesibilidad](excel-online.md#add-hyperlinks) <br/> |Sí  <br/> |Sí  <br/> |
 |[Agregar hipervínculos](excel-online.md#add-hyperlinks) <br/> |Sí  <br/> |Sí  <br/> |
 |[Filtro de tiempo avanzado (segmentación de escala de tiempo)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |No  <br/> |Sí  <br/> |
 |[Alineación](excel-online.md#alignment) <br/> |Sí  <br/> |Sí  <br/> |
-|[Aplicar formato condicional](excel-online.md#apply-conditional-formatting) <br/> |No  <br/> |Sí  <br/> |
-|[Aplicar validación de datos a celdas](excel-online.md#apply-data-validation-to-cells) <br/> |Sí  <br/> |Sí  <br/> |
+|[Aplicar formato condicional](excel-online.md#apply-conditional-formatting) <br/> |Sí  <br/> |Sí  <br/> |
 |[Aplicar formato inteligente/recomendado](excel-online.md#apply-smartrecommended-formatting) <br/> |No  <br/> |Sí  <br/> |
 |[Grabación de notas de audio](onenote-online.md#audio-notes-recording) <br/> |No  <br/> |Sí  <br/> |
 |[Autocompletar](excel-online.md#autocomplete) <br/> |Sí  <br/> |Sí  <br/> |
 |[Autosuma](excel-online.md#autosum) <br/> |Sí  <br/> |Sí  <br/> |
 |[Cálculos](excel-online.md#calculations) <br/> |Sí  <br/> |Sí  <br/> |
-|[Gráficos y tablas, incluidos los informes de gráfico dinámico y de tabla dinámica](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Sí,<sup>1, 2</sup> <br/> |Sí  <br/> |
-|[Las animaciones de gráficos se adaptan a los datos nuevos](excel-online.md#chart-animations-adapt-to-new-data) <br/> |No  <br/> |Sí  <br/> |
 |[Creación de comentarios](excel-online.md#comment-creation) <br/> |Sí  <br/> |Sí  <br/> |
 |[Copiar y pegar](excel-online.md#copy-and-paste) <br/> |Sí  <br/> |Sí  <br/> |
-|[Crear conexiones a datos externos](excel-online.md#create-external-data-connections) <br/> |No hay<sup>3</sup> <br/> |Sí  <br/> |
+|[Creación de conexiones de datos externos<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |No hay<sup>3</sup> <br/> |Sí  <br/> |
 |[Crear tablas](excel-online.md#create-tables) <br/> |Sí  <br/> |Sí  <br/> |
 |[Crear vistas de análisis avanzadas (Power View, Power Pivot, Segmentaciones de datos)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |No  <br/> |Sí  <br/> |
-|[Validación de datos](excel-online.md#data-validation) <br/> |Sí<sup>4</sup> <br/> |Sí  <br/> |
+|[Validación de datos](excel-online.md#data-validation) <br/> |Sí <br/> |Sí  <br/> |
 |[Arrastrar y colocar celdas](excel-online.md#drag-and-drop-cells) <br/> |Sí  <br/> |Sí  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |Sí  <br/> |Sí  <br/> |
 |[Insertar libros en páginas web o de blog (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Sí  <br/> |No  <br/> |
@@ -146,17 +144,20 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Fuente y formato de celda](excel-online.md#font-and-cell-formatting) <br/> |Sí  <br/> |Sí  <br/> |
 |[Barra de fórmulas](excel-online.md#formula-bar) <br/> |Sí  <br/> |Sí  <br/> |
 |[Herramientas de fórmula avanzadas](excel-online.md#formula-tools--advanced) <br/> |No  <br/> |Sí  <br/> |
-|[Inmovilizar paneles](excel-online.md#freeze-panes) <br/> |No hay<sup>6</sup> <br/> |Sí  <br/> |
+|[Inmovilizar paneles](excel-online.md#freeze-panes) <br/> |Sí <br/> |Sí  <br/> |
 |[Vista de lectura de total fidelidad](excel-online.md#full-fidelity-reading-view) <br/> |Sí  <br/> |Sí  <br/> |
 |[Funciones](excel-online.md#functions) <br/> |Sí  <br/> |Sí  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |Sí  <br/> |Sí  <br/> |
 |[Ocultar/mostrar filas, columnas y hojas](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Sí  <br/> |Sí  <br/> |
+|[Insertar forma o imagen](excel-online.md#insert-charts) <br/> |Sí  <br/> |Sí  <br/> |
 |[Insertar gráficos](excel-online.md#insert-charts) <br/> |Sí  <br/> |Sí  <br/> |
 |[Insertar/eliminar filas y columnas](excel-online.md#insertdelete-rows-and-columns) <br/> |Sí  <br/> |Sí  <br/> |
 |[Combinar celdas](excel-online.md#merge-cells) <br/> |Sí  <br/> |Sí  <br/> |
 |[Formato de los números](excel-online.md#number-formatting) <br/> |Sí  <br/> |Sí  <br/> |
-|[Complementos de Office](excel-online.md#office-add-ins) <br/> |Sí<sup>7</sup> <br/> |Sí  <br/> |
+|[Complementos de Office](excel-online.md#office-add-ins) <br/> |Sí <br/> |Sí  <br/> |
 |[Visualización y creación sin conexión](excel-online.md#offline-viewing-and-authoring) <br/> |No  <br/> |Sí  <br/> |
+|[Gráficos dinámicos](excel-online.md#post-to-social-network-and-present-online) <br/> |Sí<sup>1</sup>  <br/> |Sí  <br/> |
+|[Tablas dinámicas](excel-online.md#post-to-social-network-and-present-online) <br/> |Sí  <br/> |Sí  <br/> |
 |[Publicación en red social y presentación en línea](excel-online.md#post-to-social-network-and-present-online) <br/> |No  <br/> |Sí  <br/> |
 |[Visualización de Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Sí  <br/> |Sí  <br/> |
 |[Visualización de Power View](excel-online.md#power-view-viewing) <br/> |Sí  <br/> |Sí  <br/> |
@@ -176,14 +177,15 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Cumplimiento normativo y auditoría de hojas de cálculo](excel-online.md#spreadsheet-audit-and-compliance) <br/> |No  <br/> |Sí  <br/> |
 |[Agregados de la barra de estado](excel-online.md#status-bar-aggregates) <br/> |Sí  <br/> |Sí  <br/> |
 |[Encuestas](excel-online.md#surveys) <br/> |Sí  <br/> |No  <br/> |
-|[Información](excel-online.md#tell-me) <br/> |Sí  <br/> |No  <br/> |
+|[Información](excel-online.md#tell-me) <br/> |Sí  <br/> |Sí  <br/> |
 |[Deshacer y rehacer](excel-online.md#undo-and-redo) <br/> |Sí  <br/> |Sí  <br/> |
-|[Scripting de macros y VBA](excel-online.md#vba-and-macro-scripting) <br/> |Sí  <br/> |Sí  <br/> |
+|[Scripting de macros y VBA](excel-online.md#vba-and-macro-scripting) <br/> |Sí<sup>3</sup>  <br/> |Sí  <br/> |
 |[Visualizar gráficos 3D](excel-online.md#view-3d-charts) <br/> |Sí  <br/> |Sí  <br/> |
 |[Herramientas de análisis de condiciones](excel-online.md#what-if-analysis-tools) <br/> |No  <br/> |Sí  <br/> |
 
-> <sup>1</sup> no se puede crear tablas dinámicas o gráficos dinámicos, pero se puede ver en el Visor. 
- <br/><sup>2</sup> en los gráficos de la mayoría de los casos, las tablas, los informes de gráfico dinámico y los informes de tabla dinámica aparecen como lo harían en la versión de escritorio. Algunas excepciones, como los gráficos que forman parte de un grupo de gráficos, los gráficos que se basan en las referencias externas y gráficos que utilizan orígenes de datos que no se admiten para los libros que se ven en un explorador. <br/><sup>3</sup> dependiendo de cómo se configura el entorno, algunos tipos de conexiones de datos se admiten para los libros que se muestran en Excel Online. Para obtener más información, vea [la actualización de datos en un libro en una ventana del explorador](https://go.microsoft.com/fwlink/?linkid=847468). <br/><sup>4</sup> los libros que usan la validación de datos se pueden editar en Excel en línea, pero no se puede configurar la validación de datos en Excel Online. 
+> <sup>1</sup> no se puede crear gráficos dinámicos, sólo vista.
+ <br/><sup>2</sup> dependiendo de cómo se configura el entorno, algunos tipos de conexiones de datos se admiten para los libros que se muestran en Excel Online. Para obtener más información, vea la actualización de datos en un libro en una ventana del explorador. <br/><sup>3</sup> no se puede crear macros con VBA en Excel en línea, pero puede abrir y editar hojas de cálculo habilitadas para VBA sin quitar (o dañar) el contenido en el archivo de VBA.
+ <br/><sup>4</sup> los libros que usan la validación de datos se pueden editar en Excel en línea, pero no se puede configurar la validación de datos en Excel Online. 
  <br/><sup>5</sup> muestra el último valor de referencia conocidos en Excel Online, en la ventana del explorador; Sin embargo, debe actualizarse con el escritorio de Excel. 
  <br/><sup>6</sup> puede ver Inmovilizar paneles que se crearon con la aplicación de escritorio de Excel, pero no se puede crear los paneles inmovilizados en Excel Online. 
  <br/><sup>7</sup> algunas, pero no todos los complementos Office están disponibles. 
