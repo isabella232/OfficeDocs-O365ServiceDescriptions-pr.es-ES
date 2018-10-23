@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de los Estados Unidos, Microsoft ha creado planes de Office 365 gobierno de Estados Unidos (orOffice 365 gobierno de Estados Unidos). En esta sección se proporciona una visión general de las características que son específicos de Office 365 gobierno de Estados Unidos. Se recomienda que lea esta sección adicional junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: 9e67115b0d25e82613de02ba73613a71aa7d7a42
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
+ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435838"
+ms.lasthandoff: 10/22/2018
+ms.locfileid: "25696145"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -343,7 +343,7 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 |[Office Mobile para Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
 |[Office Mobile para Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
 |[Office Mobile para Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
-|Outlook para iOS y Android<sup>5</sup>  <br/> |Sí <br/> |Sí <br/> |Sí <br/> |Sí <br/> |
+|Outlook para iOS y Android<sup>5, 4</sup>  <br/> |Sí <br/> |Sí <br/> |Sí <br/> |Sí <br/> |
 |**Valor empresarial** <br/> |**Office 365 G1 de gobierno de Estados Unidos** <br/> |**Office 365 G3 de gobierno de Estados Unidos** <br/> |**Office 365 G5 de gobierno de Estados Unidos** <br/> |**Office 365 F1 de gobierno de Estados Unidos** <br/> |
 |Cinco instalaciones por usuario en PC o Mac  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Aprovisionamiento de cuentas de usuario automatizado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
