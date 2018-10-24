@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Para satisfacer los requisitos únicos y evoluciona del departamento de defensa de Estados Unidos, así como los contratistas posesión o procesamiento DoD controlados sin clasificar información (CUI) o sujetos a tráfico internacional en las normativas de armas (ITAR), Microsoft ofrece Entornos de GCC alta y DoD. Disponible a través de licencias por volumen, las organizaciones interesadas vaya a través de un proceso de validación para asegurarse de idoneidad antes de establece un entorno. Ensayos no están disponibles en este momento.
-ms.openlocfilehash: cb20461e3aa25b23d2fd5cd7ef8ad0761ccbdef7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
+ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037086"
+ms.lasthandoff: 10/23/2018
+ms.locfileid: "25719074"
 ---
 # <a name="gcc-high-and-dod"></a>GCC alta y DoD
 
@@ -76,7 +76,7 @@ Las suscripciones de Office 365 en los entornos de GCC alta y DoD incluyen el n�
     
 4. Personas específicas
     
-Los clientes que usen SharePoint Online y OneDrive para la empresa en los entornos de GCC alta o DoD puede mantener documentos privados (opción primero), compartir con cualquier persona de su organización (segunda opción), compartir con cualquier persona que tiene el vínculo al documento (tercera opción), y compartir con personas específicas dentro de la alta de GCC y entornos de DoD (cuarto opción); por supuesto, estas opciones se pueden restringidas según así como los controles de acceso de nivel de inquilino.
+Los clientes que usen SharePoint Online y OneDrive para la empresa en los entornos de GCC alta o DoD puede mantener documentos privados (opción primero), compartir con cualquier persona de su organización (segunda opción), compartir con cualquier persona que tiene el vínculo al documento (tercera opción), y compartir con personas específicas dentro de entornos de GCC alta y DoD (opción cuarto); por supuesto, estas opciones se pueden restringidas según así como los controles de acceso de nivel de inquilino.
   
 Los inquilinos GCC alta sólo pueden compartir con otros inquilinos GCC alta. Por ejemplo:
   
