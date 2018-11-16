@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de los Estados Unidos, Microsoft ha creado planes de Office 365 gobierno de Estados Unidos (orOffice 365 gobierno de Estados Unidos). En esta sección se proporciona una visión general de las características que son específicos de Office 365 gobierno de Estados Unidos. Se recomienda que lea esta sección adicional junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: 84b961924968bd9be7c0590fa3deb43573aeb438
-ms.sourcegitcommit: 3edb9ce51fa18a32e7baf047140db70c4dced9b5
+ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
+ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2018
-ms.locfileid: "25696145"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26293521"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -185,8 +185,7 @@ Cada plan de Office 365 incluye varios servicios individuales, como Exchange Onl
 |Project Online  <br/> |No hay<sup>2</sup> <br/> |No hay<sup>2</sup> <br/> |No hay<sup>2</sup> <br/> |No hay<sup>2</sup> <br/> |
 |Yammer Enterprise  <br/> |No hay<sup>4</sup> <br/> |No hay<sup>4</sup> <br/> |No hay<sup>4</sup> <br/> |No hay<sup>4</sup> <br/> |
    
-> <sup>1</sup> Skype para empresarial básica está disponible para todos los clientes. El Skype para el cliente de escritorio empresarial es una aplicación instalada localmente que proporciona características de presencia, mensajería instantánea y conferencias para los planes de Office 365 que incluir Skype para profesionales en línea. Office 365 ProPlus, G3 y G5 incluyen la aplicación de Skype completa, que incluye características adicionales, como las características de soporte técnico, archivado y cumplimiento de normas de telefonía avanzadas. Debe asignar un Skype para licencia empresarial en línea para cada usuario.<br/><sup>2</sup> no incluyen, pero puede adquirirse como un complemento independiente. 
-<br/> <sup>3</sup> aún no está disponible en los planes de GCC alta o DoD, pero próximamente. 
+> <sup>1</sup> Skype para empresarial básica está disponible para todos los clientes. El Skype para el cliente de escritorio empresarial es una aplicación instalada localmente que proporciona características de presencia, mensajería instantánea y conferencias para los planes de Office 365 que incluir Skype para profesionales en línea. Office 365 ProPlus, G3 y G5 incluyen la aplicación de Skype completa, que incluye características adicionales, como las características de soporte técnico, archivado y cumplimiento de normas de telefonía avanzadas. Debe asignar un Skype para licencia empresarial en línea para cada usuario.<br/><sup>2</sup> no incluyen, pero puede adquirirse como un complemento independiente. Project Online incluye el proyecto de cliente de escritorio en línea como parte de la suscripción.<br/> <sup>3</sup> aún no está disponible en los planes de GCC alta o DoD, pero próximamente. 
 <br/><sup>4</sup> yammer Enterprise no es un componente de Office 365 gobierno de Estados Unidos, pero puede ser adquirido sin costo como una oferta independiente para cada usuario con licencia para Office 365 GCC en. Esta oferta está actualmente limitada a los clientes que Office 365 GCC en acuerdos de empresa y Enterprise Agreements de suscripción de compra. Yammer no está disponible en GCC alta o DoD.<br/><sup>5</sup> planeación de la llamada es un complemento. 
   
 ## <a name="platform-features"></a>Características de plataforma
@@ -284,7 +283,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |**Confianza** <br/> |**Office 365 G1 de gobierno de Estados Unidos** <br/> |**Office 365 G3 de gobierno de Estados Unidos** <br/> |**Office 365 G5 de gobierno de Estados Unidos** <br/> |**Office 365 F1 de gobierno de Estados Unidos** <br/> |
 |**[Privacidad, seguridad y transparencia](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |Gobierno de datos avanzado  <br/> |No hay<sup>12, 15</sup> <br/> |No hay<sup>12, 15</sup> <br/> |Sí<sup>15</sup> <br/> |No hay<sup>12, 15</sup> <br/> |
-|Seguridad de la aplicación en la nube  <br/> |No hay<sup>11, 12</sup> <br/> |No hay<sup>11, 12</sup> <br/> |Sí<sup>11</sup> <br/> |No hay<sup>11, 12</sup> <br/> |
+|Cloud App Security  <br/> |No hay<sup>11, 12</sup> <br/> |No hay<sup>11, 12</sup> <br/> |Sí<sup>11</sup> <br/> |No hay<sup>11, 12</sup> <br/> |
 |Protección contra amenazas avanzada  <br/> |No hay<sup>12</sup> <br/> |No hay<sup>12</sup> <br/> |Sí  <br/> |No hay<sup>12</sup> <br/> |
 |Caja de seguridad del cliente  <br/> |No hay<sup>9, 12, 15</sup> <br/> |No hay<sup>9, 12, 15</sup> <br/> |Sí<sup>9, 15</sup> <br/> |No hay<sup>9, 12, 15</sup> <br/> |
 |Exhibición de documentos electrónicos avanzada de Office 365  <br/> |No hay<sup>12, 15</sup> <br/> |No hay<sup>12, 15</sup> <br/> |Sí  <br/> |No hay<sup>9, 15</sup> <br/> |

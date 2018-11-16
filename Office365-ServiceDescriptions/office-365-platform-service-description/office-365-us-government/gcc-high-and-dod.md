@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Para satisfacer los requisitos únicos y evoluciona del departamento de defensa de Estados Unidos, así como los contratistas posesión o procesamiento DoD controlados sin clasificar información (CUI) o sujetos a tráfico internacional en las normativas de armas (ITAR), Microsoft ofrece Entornos de GCC alta y DoD. Disponible a través de licencias por volumen, las organizaciones interesadas vaya a través de un proceso de validación para asegurarse de idoneidad antes de establece un entorno. Ensayos no están disponibles en este momento.
-ms.openlocfilehash: 4fd893157eb12f470c78f8d8c88fa1ab6e5c1772
-ms.sourcegitcommit: de65f864b9c82d5e163a2c59beb2aaec7bb3f5d5
+ms.openlocfilehash: 62a5011564856c879a153ec88db965fda5d96002
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/23/2018
-ms.locfileid: "25719074"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215375"
 ---
 # <a name="gcc-high-and-dod"></a>GCC alta y DoD
 
@@ -104,6 +104,6 @@ Multi-Factor Authentication con un modelo de identidad federado permite el uso d
   
 ### <a name="yammer"></a>Yammer
 
-Yammer no está disponible en los entornos de GCC alta y DoD.
+Yammer que Enterprise no está disponible en los entornos de GCC alta y DoD.
   
 

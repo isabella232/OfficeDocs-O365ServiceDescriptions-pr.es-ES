@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 'Microsoft Office 365 está disponible en una gran variedad de planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de formación de Office 365, en este artículo se muestra las características que se incluyen en cada una de ellas. Office 365 combina el conjunto de aplicaciones de escritorio familiar de Microsoft Office con versiones basadas en nube de servicios de colaboración y comunicaciones de próxima generación de Microsoft, incluidos Microsoft Exchange Online, SharePoint Online de Microsoft Office Online, y Microsoft Skype para profesionales Online: para ayudar a los usuarios que sean productivos desde prácticamente cualquier lugar a través de Internet.'
-ms.openlocfilehash: 90b530ae0188637d04b76396a9e1f46ca3478ccd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037048"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215405"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
@@ -197,7 +197,7 @@ El [Office 365 seguridad &amp; centro de cumplimiento](https://go.microsoft.com/
 |[Prevención de pérdida de datos](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Gobierno de datos](https://go.microsoft.com/fwlink/?linkid=824871) <sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Avanzada de gobierno de datos](https://go.microsoft.com/fwlink/?linkid=842991) <sup>2</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Búsqueda e investigación](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Búsqueda e investigación]<br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[búsqueda de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[exportación de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Avanzada de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=715714) <sup>4</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
@@ -314,7 +314,7 @@ En la siguiente tabla se enumera las características de Exchange Online que est
 |Exhibición de documentos electrónicos en contexto  <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |
 |Reglas de transporte  <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |
 |Prevención de pérdida de datos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Registro en diario  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Registro en diario   <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Protección contra correo electrónico no deseado y antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Protección contra correo no deseado integrada  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Personalizar directivas contra correo no deseado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -332,7 +332,7 @@ En la siguiente tabla se enumera las características de Exchange Online que est
 |**[Destinatarios](../exchange-online-service-description/recipients.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Alertas de capacidad  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Otros correos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Sugerencias de correo electrónico  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|MailTips  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Acceso delegado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Reglas de la Bandeja de entrada  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cuentas conectadas  <br/> |Sí<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |
@@ -668,7 +668,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |Número máximo de miembros de un grupo de distribución<sup>1</sup> <br/> |100 000 miembros  <br/> |100 000 miembros  <br/> |100 000 miembros  <br/> |
 |Límite de envío de mensajes a un grupo de distribución grande  <br/> |5 000 o más miembros  <br/> |5 000 o más miembros  <br/> |5 000 o más miembros  <br/> |
 |Tamaño máximo de mensaje para grandes grupos de distribución  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|Número máximo de propietarios de un grupo de distribución  <br/> |10    <br/> |10    <br/> |10    <br/> |
+|Número máximo de propietarios de un grupo de distribución  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Número máximo de grupos que un usuario puede crear  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -823,7 +823,7 @@ En la siguiente tabla se describe las características de SharePoint disponibles
 |[Soluciones de espacio aislado](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |Sí<sup>12</sup> <br/> |Sí<sup>12</sup> <br/> |Sí<sup>12</sup> <br/> |
 |[Administrador de diseño de SharePoint](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Almacén de SharePoint <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Tienda SharePoint <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Flujos de trabajo de SharePoint 2010 (.NET 3.5) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Flujos de trabajo de SharePoint 2010 (implementación inmediata)](../sharepoint-online-service-description/developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Flujos de trabajo de SharePoint 2013 y SharePoint 2016](../sharepoint-online-service-description/developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |

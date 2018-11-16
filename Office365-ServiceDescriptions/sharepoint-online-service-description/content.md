@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online es una colección de herramientas basadas en Web y tecnologías que ayudan a su organización almacenar, compartir y administrar información digital. Se basa en Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central y compartir información con otras personas. Las siguientes características de contenido facilita la administración de contenido empresarial (ECM) para todos los usuarios. Es la combinación de administración de contenido tradicional, funciones sociales y eficaces de búsqueda.
-ms.openlocfilehash: 4d091a912d90028be32269cc91692155b146e671
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 771806f7b65246a48e7549493f4c899617135a86
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037061"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215385"
 ---
 # <a name="content"></a>Contenido
 
@@ -39,7 +39,7 @@ Una biblioteca de activos está preconfigurada para usar características especi
 ## <a name="auditing"></a>Auditoría
 <a name="bkmk_Auditing"> </a>
 
-Los administradores de la colección de sitios de SharePoint Online pueden usar la característica de auditoría para realizar un seguimiento de las acciones de los usuarios en los sitios, los tipos de contenido, las listas, las bibliotecas, los elementos de lista y los archivos de la biblioteca de las colecciones de sitios. Obtenga más información sobre cómo [configurar la auditoría para una colección de sitios](https://go.microsoft.com/fwlink/?LinkId=270950).
+Administradores de colección de sitios de SharePoint Online pueden usar la característica de auditoría para realizar un seguimiento de los usuarios que han tenido qué acciones en los sitios, tipos de contenido, listas, bibliotecas, elementos de lista y archivos de biblioteca de colecciones de sitios. Obtener más información acerca de cómo [Configurar opciones de auditoría para una colección de sitios](https://go.microsoft.com/fwlink/?LinkId=270950).
   
 ## <a name="auditing-amp-reporting-eg-doc-edits-policy-edits-deletes"></a>Auditoría &amp; informes (por ejemplo, doc modificaciones, las modificaciones de la directiva, eliminaciones)
 <a name="bkmk_AuditingReporting"> </a>
@@ -239,7 +239,7 @@ Una biblioteca de activos está preconfigurada para usar características especi
 ## <a name="wcm-search-engine-optimizations-seo"></a>WCM: Optimizaciones del motor de búsqueda (SEO)
 <a name="bkmk_WCMSearchEngineOptimizations"> </a>
 
-Para conectarse con clientes nuevos y recurrentes es importante optimizar los sitios web públicos para la búsqueda. SharePoint Online incluye características de SEO integradas (como el metaetiquetado en el nivel de página y archivos robots.txt personalizables) para que las organizaciones optimicen fácilmente los sitios y mejoren así los resultados de la búsqueda. Obtenga más información sobre cómo [optimizar su sitio web para búsqueda](https://go.microsoft.com/fwlink/?LinkId=270932).
+Optimización de un sitio Web público para la búsqueda es muy importante para la conexión con los clientes nuevos y devolución. SharePoint Online incluye las características integradas de SEO, como robots.txt personalizable y metatagging de nivel de página, por lo que las organizaciones pueden ajustar fácilmente sitios para obtener mejores resultados de búsqueda.
   
 ## <a name="word-automation-services"></a>Word Automation Services
 <a name="bkmk_WordAutomationServices"> </a>

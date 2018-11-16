@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Los límites en Skype para profesionales en línea se dividen en las siguientes categorías:'
-ms.openlocfilehash: ebab5138d22dc6776caa8f2b05715202c4504176
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
+ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362885"
+ms.lasthandoff: 11/13/2018
+ms.locfileid: "26296870"
 ---
 # <a name="skype-for-business-online-limits"></a>Límites de Skype Empresarial Online
 
@@ -119,41 +119,20 @@ Los límites en Skype para profesionales en línea se dividen en las siguientes 
     
 - **Período de caducidad de la reunión** La cantidad de tiempo durante el cual los usuarios pueden tener acceso a la reunión después de haber terminado. 
     
-### <a name="meeting-retention-limits-across-office-365-options"></a>Límites de retención de las reuniones en las opciones de Office 365
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Los límites de retención de la reunión a través de opciones de Office 365 y los planes independientes
 
 > [!NOTE]
 > Cada persona puede tener un máximo de 1000 conferencias en la base de datos en cualquier momento. 
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Retención del contenido de la reunión: Reunión única  <br/> |Configurable<sup>1</sup> <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |No aplicable  <br/> |
-|Retención del contenido de la reunión: Reunión periódica  <br/> |Configurable<sup>1</sup> <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |No aplicable  <br/> |
-|Retención del contenido de la reunión: Reunión ahora  <br/> |Configurable<sup>1</sup> <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |No aplicable  <br/> |
-|Expiración de la reunión: Reunión única  <br/> |Fecha de finalización más 365 días<sup>2</sup> <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |No aplicable  <br/> |
-|Expiración de la reunión: Reunión periódica  <br/> |Con fecha de finalización: Fecha de finalización más 365 días<sup>2</sup> <br/> Sin fecha de finalización: if siempre accesible actualizado 1/año<sup>3</sup> <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |No aplicable  <br/> |
-|Expiración de la reunión: Reunión ahora  <br/> |8 horas  <br/> | 8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |No aplicable  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> es configurable a través de la Skype para la característica de archivado de Business Server 2015 retención de contenido de reuniones en una implementación local de Skype para Business Server 2015. Para la biblioteca de TechNet de Business Server 2015, vea [Planear el archivado](https://go.microsoft.com/fwlink/p/?LinkId=398299) en el Skype.<br/> <sup>2</sup> Una vez que la reunión está activada, esta fecha de caducidad se extiende durante 365 días más.<br/><sup>3</sup> Una vez que la reunión está activada, esta fecha de caducidad se extiende durante seis meses más. 
-  
-### <a name="meeting-retention-limits-across-standalone-options"></a>Límites de retención de las reuniones en las opciones independientes
+|**Tipo de reunión** <br/> |**Descripción** <br/> 
+|Reunión única| 14 días después de end, la última activación de reunión o la última actualización de la reunión - lo que sea más reciente.
+|Reunión periódica con fecha de finalización| Reunión será accesible al menos hasta 14 días después de la hora de finalización programada de la última aparición de reunión, o la activación de la reunión por última vez o última actualización de la reunión, lo que sea más reciente.
+|Reunión periódica sin fecha de finalización| Reunión siempre será accesible, proporciona hay nuevas combinaciones de conferencia (activaciones) o la programación de actualizaciones al menos una vez al año
+|     Reunirse ahora|Reunión será accesible para al menos 8 horas.
 
-> [!NOTE]
-> Cada persona puede tener un máximo de 1000 conferencias en la base de datos en cualquier momento. 
-  
-|||||
-|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Skype Empresarial Online Plan independiente 1** <br/> |**Skype Empresarial Online Plan independiente 2** <br/> |
-|Retención del contenido de la reunión: Reunión única  <br/> |Configurable<sup>1</sup> <br/> |No disponible  <br/> |14 días  <br/> |
-|Retención del contenido de la reunión: Reunión periódica  <br/> |Configurable<sup>1</sup> <br/> |No disponible  <br/> |14 días  <br/> |
-|Retención del contenido de la reunión: Reunión ahora  <br/> |Configurable<sup>1</sup> <br/> |No disponible  <br/> |8 horas  <br/> |
-|Expiración de la reunión: Reunión única  <br/> |Fecha de finalización más 365 días<sup>2</sup> <br/> |No disponible  <br/> |14 días  <br/> |
-|Expiración de la reunión: Reunión periódica  <br/> |Con fecha de finalización: Fecha de finalización más 365 días<sup>2</sup> <br/> Sin fecha de finalización: if siempre accesible actualizado 1/año<sup>3</sup> <br/> |No disponible  <br/> |14 días  <br/> |
-|Expiración de la reunión: Reunión ahora  <br/> |8 horas  <br/> |No aplicable  <br/> |8 horas  <br/> |
-   
-> [!NOTE]
-> <sup>1</sup> es configurable a través de la Skype para la característica de archivado de Business Server 2015 retención de contenido de reuniones en una implementación local de Skype para Business Server 2015. Para la biblioteca de TechNet de Business Server 2015, vea [Planear el archivado](https://go.microsoft.com/fwlink/p/?LinkId=398299) en el Skype.<br/><sup>2</sup> Una vez que la reunión está activada, esta fecha de caducidad se extiende durante 365 días más.<br/><sup>3</sup> Una vez que la reunión está activada, esta fecha de caducidad se extiende durante seis meses más. 
+
   
 ## <a name="minute-limits"></a>Límites de minutos
 <a name="bkmk_Minute_LyncOnlineLimits"> </a>

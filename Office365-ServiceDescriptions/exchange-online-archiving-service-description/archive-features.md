@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: En las secciones siguientes se describen las características de archivo de archivado de Microsoft Exchange Online.
-ms.openlocfilehash: 2bffa9fccb2c040fde4edcf8a5c80f3bc109bba2
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037035"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215355"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Características de archivo de Archivado de Exchange Online
 
@@ -37,7 +37,7 @@ Los administradores pueden habilitar la característica de archivo para usuarios
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Mover mensajes a Exchange Online Archiving
 
-Para facilitar el acceso en línea a sus mensajes, los usuarios pueden arrastrar mensajes desde archivos .pst y colocarlos en el archivo. También pueden mover de manera automática elementos de correo desde el buzón principal hasta el buzón de archivo con ayuda de las directivas de archivo. Así, se reduce el tamaño del buzón principal y se consigue un mejor rendimiento. Aunque Exchange Hosted Archive funciona de otra manera (crea una copia secundaria de todos los mensajes en el archivo), los requisitos de retención pueden cumplirse en ambos escenarios. Para obtener más información sobre otros métodos que permiten mover mensajes al archivo, vea [Buzones de archivo en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=404421).
+Los usuarios pueden arrastrar y colocar los mensajes de los archivos .pst en el archivo, para facilitar el acceso en línea. Los usuarios también pueden mover los elementos de correo electrónico desde el buzón principal para el buzón de archivo automáticamente, uso de las directivas de archivo, para reducir el tamaño y mejorar el rendimiento del buzón principal. Aunque este comportamiento es diferente de Exchange Hosted Archive, que se va a crear una copia secundaria de cada mensaje en el archivo, se pueden lograr los requisitos de retención en los dos casos. 
   
 ### <a name="import-data-to-the-archive"></a>Importar datos al archivo
 
