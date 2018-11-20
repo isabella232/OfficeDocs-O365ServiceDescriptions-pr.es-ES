@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: OneDrive para la Empresa es un espacio de almacenamiento personal en línea, que proporciona su empresa. Úselo para almacenar y proteger los archivos de trabajo mientras accede a ellos a través de distintos dispositivos con facilidad. Comparta sus archivos con compañeros de trabajo según necesite y colabore con ellos en los documentos de Office en tiempo real con el escritorio de Office, el sitio web y las aplicaciones móviles más recientes. Sincronice archivos en su equipo local usando el cliente de sincronización de OneDrive para la Empresa.
-ms.openlocfilehash: aaafbc2ff4b2e9ac1b98bf0b62f934ad34be6485
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
+ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036954"
+ms.lasthandoff: 11/08/2018
+ms.locfileid: "26215365"
 ---
 # <a name="onedrive-for-business-service-description"></a>Descripción del servicio de OneDrive para la Empresa
 
@@ -101,7 +101,7 @@ Los siguientes planes proporcionan espacio de almacenamiento en la nube ilimitad
     
 Las suscripciones con menos de cinco usuarios reciben 1 TB de almacenamiento en la nube personal por usuario. 
   
-Inicialmente a los clientes se les proporcionará 1 TB de almacenamiento en la nube personal por usuario en OneDrive para la Empresa. Puede [aumentar el espacio de almacenamiento de OneDrive para la Empresa](https://go.microsoft.com/fwlink/?linkid=838024) hasta 5 TB por usuario con la ayuda de su administrador de Office 365. 
+Inicialmente, a los clientes se les aprovisionará 1 TB de almacenamiento personal en la nube por usuario en OneDrive para la Empresa. Puede [aumentar el espacio de almacenamiento predeterminado de OneDrive para la Empresa](https://go.microsoft.com/fwlink/?linkid=838024) hasta 5 TB por usuario con la ayuda de su administrador de Office 365 cuando la cuota de 1 TB alcance el 90 %. 
   
 > [!NOTE]
 > Debe asignar como mínimo una licencia para un usuario antes de aumentar el espacio de almacenamiento de OneDrive predeterminado. 
