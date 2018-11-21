@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Los límites en Skype para profesionales en línea se dividen en las siguientes categorías:'
-ms.openlocfilehash: 5ac8361d782998bd252b6c91045b3a581deec917
-ms.sourcegitcommit: 8e476ac4cc791e9be70fae577716e31472edf842
+ms.openlocfilehash: 92d0aed201504d711a6e4a896b533fd3a4e9567e
+ms.sourcegitcommit: f8c966f88eb4f49f62d796f6992a65f4a207869c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26296870"
+ms.lasthandoff: 11/20/2018
+ms.locfileid: "26625895"
 ---
 # <a name="skype-for-business-online-limits"></a>Límites de Skype Empresarial Online
 
@@ -127,7 +127,7 @@ Los límites en Skype para profesionales en línea se dividen en las siguientes 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Tipo de reunión** <br/> |**Descripción** <br/> 
-|Reunión única| 14 días después de end, la última activación de reunión o la última actualización de la reunión - lo que sea más reciente.
+|Reunión única| Reunión será accesible al menos hasta 14 días después de la hora programada, o la activación de la reunión por última vez o la última actualización de la reunión, lo que sea más reciente.
 |Reunión periódica con fecha de finalización| Reunión será accesible al menos hasta 14 días después de la hora de finalización programada de la última aparición de reunión, o la activación de la reunión por última vez o última actualización de la reunión, lo que sea más reciente.
 |Reunión periódica sin fecha de finalización| Reunión siempre será accesible, proporciona hay nuevas combinaciones de conferencia (activaciones) o la programación de actualizaciones al menos una vez al año
 |     Reunirse ahora|Reunión será accesible para al menos 8 horas.
