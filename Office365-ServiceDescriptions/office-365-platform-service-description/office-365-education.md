@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 'Microsoft Office 365 está disponible en una gran variedad de planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de formación de Office 365, en este artículo se muestra las características que se incluyen en cada una de ellas. Office 365 combina el conjunto de aplicaciones de escritorio familiar de Microsoft Office con versiones basadas en nube de servicios de colaboración y comunicaciones de próxima generación de Microsoft, incluidos Microsoft Exchange Online, SharePoint Online de Microsoft Office Online, y Microsoft Skype para profesionales Online: para ayudar a los usuarios que sean productivos desde prácticamente cualquier lugar a través de Internet.'
-ms.openlocfilehash: f15586aae46fb964639fbc4602ab8353e7884f1b
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 69b35b10c0295f1ef41c8c1454e0bb8a7a5626be
+ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215405"
+ms.lasthandoff: 11/30/2018
+ms.locfileid: "26988581"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
@@ -195,7 +195,7 @@ El [Office 365 seguridad &amp; centro de cumplimiento](https://go.microsoft.com/
 |[Administración de amenaza avanzada](https://go.microsoft.com/fwlink/?linkid=846673) , como el Explorador de amenaza y de caja de seguridad del cliente para las campañas de suplantación de identidad <sup>5</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |[Administración de dispositivos móviles](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Prevención de pérdida de datos](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Gobierno de datos](https://go.microsoft.com/fwlink/?linkid=824871) <sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Gobierno de datos](https://go.microsoft.com/fwlink/?linkid=863925) <sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Avanzada de gobierno de datos](https://go.microsoft.com/fwlink/?linkid=842991) <sup>2</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |[Búsqueda e investigación]<br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[búsqueda de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
