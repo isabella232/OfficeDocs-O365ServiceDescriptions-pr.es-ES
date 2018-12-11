@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de los Estados Unidos, Microsoft ha creado planes de Office 365 gobierno de Estados Unidos (orOffice 365 gobierno de Estados Unidos). En esta sección se proporciona una visión general de las características que son específicos de Office 365 gobierno de Estados Unidos. Se recomienda que lea esta sección adicional junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: 6ec220c2db6ce437abd9dba20462e5b10a1752fc
-ms.sourcegitcommit: 64dcd8c58007efb116067eee6117a12a8a3301f4
+ms.openlocfilehash: d8fa877b912b76cc1f862f4305292d0699e79d0d
+ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/13/2018
-ms.locfileid: "26293521"
+ms.lasthandoff: 12/10/2018
+ms.locfileid: "27213917"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -380,3 +380,4 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 <br/><sup>5</sup> vea [Usar Outlook para iOS y Android en la nube de la Comunidad de gobierno](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) para obtener más detalles.
   
 [Cómo utilizar esta sección de descripción del servicio](office-365-us-government.md#how-to-use-this-service-description-section)
+
