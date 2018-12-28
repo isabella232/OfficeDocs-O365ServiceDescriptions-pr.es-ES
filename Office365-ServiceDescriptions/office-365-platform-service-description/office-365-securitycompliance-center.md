@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: La seguridad de Office 365 &amp; centro de cumplimiento está diseñada para ayudar a administrar características de cumplimiento en Office 365 para su organización. Vínculos a las características de cumplimiento existentes de SharePoint y Exchange reunir las capacidades de cumplimiento de normas a través de Office 365.
-ms.openlocfilehash: 7b480e21ed1fbc9d7d2039ef822c91331af3ccf2
-ms.sourcegitcommit: 3a0c01b734c36a42bbb8003379907c2c717ecbda
+ms.openlocfilehash: b1d2e28e38cc156dd84a195a698f546b43ef7ccc
+ms.sourcegitcommit: 451566be3a538320c86d284a893235b253743b31
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/30/2018
-ms.locfileid: "26988561"
+ms.lasthandoff: 12/27/2018
+ms.locfileid: "27449914"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Centro de seguridad y cumplimiento de Office 365
 
@@ -29,7 +29,7 @@ El [Office 365 seguridad &amp; centro de cumplimiento](https://go.microsoft.com/
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 G1 de gobierno de Estados Unidos** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Administración Pública de EE. UU. G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 F1 de gobierno de Estados Unidos** <br/> |
+|**Característica** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 G1 de gobierno de Estados Unidos** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 G3 de gobierno de Estados Unidos** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 F1 de gobierno de Estados Unidos** <br/> |
 |[Acceso a la seguridad &amp; centro de cumplimiento](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Administración de amenaza](https://go.microsoft.com/fwlink/?linkid=845550) como anti-malware y filtrado de correo  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -69,7 +69,7 @@ El [Office 365 seguridad &amp; centro de cumplimiento](https://go.microsoft.com/
 |[las suspensiones de exhibición de documentos electrónicos (incluidas las suspensiones de exhibición de documentos electrónicos basada en consultas)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
 |[Avanzada de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=715714) <sup>5</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Archivado](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx) <sup>6</sup> <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
-|Directivas de retención y eliminación manual  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
+|Directivas de retención y eliminación manual  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
    
 > <sup>1</sup> gobierno de datos permite a los usuarios crear, publicar y aplicar manualmente las etiquetas a los documentos; importar datos de uso de unidad de trasvase de registros o a través de la red; crear y aplicar directivas de retención y eliminación de las cargas de trabajo, los usuarios y grupos. Las directivas de retención aplicadas a buzones de correo requieren Office 365 Enterprise E3 o E5.<br/><sup>2</sup> requiere la adquisición de complemento de archivado de Exchange Online. 
 <br/><sup>3</sup> gobierno avanzada de datos le permite conservar información importante y eliminar la información importante al clasificar la información según una retención o directiva de eliminación o ambos. Incluye inteligente/automatizada acciones como recomendar directivas, automáticamente aplicar etiquetas a los datos, aplicar etiquetas basadas en tipos de datos confidenciales o consultas, revisión de disposición y uso de los filtros inteligentes de importación. También incluye la característica de supervisión para revisar las comunicaciones de los empleados con fines de seguridad y cumplimiento de normas.<br/><sup>4</sup> las conversaciones de Skype se almacenan como parte del buzón. 
