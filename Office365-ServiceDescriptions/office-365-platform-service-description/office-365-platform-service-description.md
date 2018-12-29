@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 está disponible en una gran variedad de planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365, incluidos los planes de Exchange Online, este artículo muestra las características que se incluyen en cada una de ellas.
-ms.openlocfilehash: aababb56a4202d0358fbf01601e2d43f7ac92df3
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 698d6ed370cf8836befd48cd07933e4175d88311
+ms.sourcegitcommit: 317b7058f4514061701c9b7f8dc18e526d43a027
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362865"
+ms.lasthandoff: 12/28/2018
+ms.locfileid: "27459713"
 ---
 # <a name="office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Office 365
 
@@ -157,10 +157,10 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 |Malware principal para correo  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Coincidencias con reglas para correo  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Coincidencias de reglas principales para correo  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Coincidencias de directivas de DLP principales para correo  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Coincidencias de directivas de DLP por gravedad para correo  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Coincidencias de directivas de DLP, invalidaciones y falsos positivos para correo  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Principales coincidencias de reglas de DLP para correo  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Coincidencias de directivas de DLP principales para correo  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
+|Coincidencias de directivas de DLP por gravedad para correo  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
+|Coincidencias de directivas de DLP, invalidaciones y falsos positivos para correo  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
+|Principales coincidencias de reglas de DLP para correo  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Mensajería instantánea y sesiones de audio  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Uso compartido de aplicaciones, web y conferencias de acceso telefónico local  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Vídeo, uso compartido de aplicaciones y sesiones de transferencia de archivos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
