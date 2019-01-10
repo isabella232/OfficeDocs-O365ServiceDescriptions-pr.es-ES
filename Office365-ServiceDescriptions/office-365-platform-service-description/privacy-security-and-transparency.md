@@ -3,7 +3,7 @@ title: Privacidad, seguridad y transparencia
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft valora las asociaciones que tenemos con nuestros clientes y pone mucho énfasis en la protección de la privacidad y seguridad de los datos de los clientes. Para obtener más información, visite el Centro de confianza de Microsoft.
-ms.openlocfilehash: 8a50f2bbf2a4890c9f4d77f9b68f186de79867cc
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 1a6e3320c5c285462b0f891927ccd0279c39be9a
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037027"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784862"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacidad, seguridad y transparencia
 
@@ -55,7 +55,7 @@ La Caja de seguridad del cliente se incluye en el plan de Office 365 Enterprise 
   
 ## <a name="advanced-threat-protection"></a>Protección contra amenazas avanzada
 
-La Protección contra amenazas avanzada de Exchange Online es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger la organización contra virus y malware. ATP incluye las características Vínculos seguros y Datos adjuntos seguros. Vínculos seguros protege proactivamente a los usuarios contra hipervínculos malintencionados en un mensaje, es decir, que ofrece protección cada vez que se hace clic en el vínculo. Datos adjuntos seguros protege contra malware y virus desconocidos enrutando todos los mensajes y datos adjuntos que no tienen una firma de virus y malware conocida hacia un entorno especial donde ATP puede detectar las malas intenciones. Para obtener más información sobre ATP, consulte [Descripción del servicio de protección contra amenazas avanzada de Exchange Online](https://technet.microsoft.com/en-us/library/exchange-online-advanced-threat-protection-service-description.aspx).
+Protección de amenaza avanzada de Office 365 ayuda a proteger su organización contra malware y los virus. ATP incluye características de [Vínculos seguros](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [Los datos adjuntos seguros](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [Anti-phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)e [inteligencia de suplantación](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Vínculos seguros protege de forma preventiva los usuarios de los hipervínculos malintencionados en un mensaje, lo que proporciona protección cada vez que se hace clic en el vínculo. Los datos adjuntos seguros protege contra malware desconocido y virus, el enrutamiento de todos los mensajes y datos adjuntos que no tengan una firma de virus y malware conocido para un entorno especial donde ATP puede detectar malintencionados. Para obtener más información acerca de ATP, vea [Office 365 avanzada Threat Protection Service Description](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

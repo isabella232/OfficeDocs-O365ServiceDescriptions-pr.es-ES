@@ -3,7 +3,7 @@ title: Descripción del servicio de Protección contra amenazas avanzada de Offi
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 01/02/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,22 +13,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 avanzada amenaza protección (ATP) es un correo electrónico basada en la nube de servicio que ayuda a proteger su organización contra malware desconocido y virus proporcionando sólida protección de día cero e incluye características como medida de seguridad de filtrado su organización de vínculos dañinos en tiempo real. ATP tiene informes enriquecidos y capacidades de seguimiento de dirección URL que proporcionan a los administradores de idea en el tipo de ataques ocurre en su organización.
-ms.openlocfilehash: 6c7ce44932312b82293b19d85ebac07137716617
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: f8a44cdebebafe575f5c22a3a491671f57b05d49
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037037"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784872"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descripción del servicio de Protección contra amenazas avanzada de Office 365
 
 Microsoft Office 365 avanzada amenaza protección (ATP) es un correo electrónico basada en la nube de servicio que ayuda a proteger su organización contra malware desconocido y virus proporcionando sólida protección de día cero e incluye características como medida de seguridad de filtrado su organización de vínculos dañinos en tiempo real. ATP tiene informes enriquecidos y capacidades de seguimiento de dirección URL que proporcionan a los administradores de idea en el tipo de ataques ocurre en su organización.
   
-Estas son las principales formas en las que se puede usar ATP para la protección de mensajes:
+Los siguientes son las formas principales que puede usar ATP para la protección de mensajes:
   
 - En un escenario de filtrado sólo Office 365 ATP, ATP ofrece protección de correo electrónico basada en la nube para su entorno de Exchange Server 2013 local, versiones heredadas de Exchange Server o cualquier otra solución de correo electrónico SMTP de local.
     
-- Office 365 ATP puede habilitarse para proteger los buzones de correo Exchange Online hospedada en la nube. Para obtener más información acerca de Exchange Online, vea la [Descripción del servicio en línea de Exchange](https://technet.microsoft.com/en-us/library/exchange-online-service-description.aspx).
+- Office 365 ATP puede habilitarse para proteger los buzones de correo Exchange Online hospedada en la nube. Para obtener más información acerca de Exchange Online, vea la [Descripción del servicio en línea de Exchange](exchange-online-service-description/exchange-online-service-description.md).
     
 - En una implementación híbrida, ATP puede configurarse para proteger el entorno de mensajería y controlar el enrutamiento de correo cuando tiene una mezcla de local y en la nube de buzones de correo con Exchange Online Protection para el filtrado de correo electrónico entrante.
     
@@ -49,9 +49,9 @@ Puede agregar ATP en los siguientes planes de suscripción de Exchange y Office 
     
 - Exchange Online Protection
     
-- Office 365 Empresa Essentials
+- Office 365 Empresa Essentials
     
-- Office 365 Empresa Premium
+- Office 365 Empresa Premium
     
 - Office 365 Enterprise E1
     
@@ -69,7 +69,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
   
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>¿Qué es nuevo en 365 avanzada amenaza protección (ATP) de Office
 
-Para obtener información acerca de las nuevas características de ATP, consulte [vínculos seguros de ATP en Office 365](https://go.microsoft.com/fwlink/?linkid=846016).
+Para obtener información acerca de las nuevas características de ATP, vea [las nuevas características de ATP](https://docs.microsoft.com/office365/securitycompliance/office-365-atp#new-features-are-continually-being-added-to-atp).
   
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Requisitos para Office 365 protección avanzada (ATP)
 

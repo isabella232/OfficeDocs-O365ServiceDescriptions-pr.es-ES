@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de los Estados Unidos, Microsoft ha creado planes de Office 365 gobierno de Estados Unidos (orOffice 365 gobierno de Estados Unidos). En esta sección se proporciona una visión general de las características que son específicos de Office 365 gobierno de Estados Unidos. Se recomienda que lea esta sección adicional junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: 68e2d354c8b83b44f9d395fb4ab49db16a52ddb5
-ms.sourcegitcommit: 451566be3a538320c86d284a893235b253743b31
+ms.openlocfilehash: 30c7f998d57ddcf47922a39fd5492dcdac560ddf
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/27/2018
-ms.locfileid: "27449924"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784912"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -339,10 +339,10 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Skype Empresarial](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>3</sup> <br/> |
 |[Office para Mac para Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|[Office Mobile para iPhone o iPad](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
-|[Office Mobile para Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
+|[Office Mobile para iPhone o iPad](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
+|[Office Mobile para Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
 |[Office Mobile para Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
-|[Office Mobile para Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
+|Office Mobile para tabletas con Windows 10 <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
 |Outlook para iOS y Android<sup>5, 4</sup>  <br/> |Sí <br/> |Sí <br/> |Sí <br/> |Sí <br/> |
 |**Valor empresarial** <br/> |**Office 365 G1 de gobierno de Estados Unidos** <br/> |**Office 365 G3 de gobierno de Estados Unidos** <br/> |**Office 365 G5 de gobierno de Estados Unidos** <br/> |**Office 365 F1 de gobierno de Estados Unidos** <br/> |
 |Cinco instalaciones por usuario en PC o Mac  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
@@ -358,7 +358,7 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 |Consulta de hojas de cálculo de Excel  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Archivado y cumplimiento de Exchange Online y SharePoint Online  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Soporte para directivas de grupos  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|Information Rights Management con protección de la información de Azure  <br/> |No hay<sup>1</sup> <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No hay<sup>1</sup> <br/> |
+|Information Rights Management con protección de la información de Azure  <br/> |No hay<sup>1</sup> <br/> |Sí<sup>6</sup> <br/> |Sí<sup>6</sup> <br/> |No hay<sup>1</sup> <br/> |
 |Information Rights Management mediante Windows Server AD RMS  <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |
 |Complemento de Office, ActiveX y soporte de BHO  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Acceso de cliente de OneNote a blocs de notas en SharePoint Server, SharePoint Online, OneDrive para la Empresa y Office 365  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
@@ -370,7 +370,7 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 |Power Pivot para Excel  <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
 |Power Query para Excel  <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
 |Power View para Excel  <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
-|Configuración de movilidad  <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
+|Configuración de movilidad  <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
 |Activación en equipos compartidos  <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
 |Soporte para bloquear el almacenamiento de archivos basados en la nube  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Actualizaciones de versión  <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
@@ -379,5 +379,5 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 > <sup>1</sup> protección de la información de azure no se incluye, pero puede adquirirse como un complemento independiente y habilitará las características de Information Rights Management (IRM) compatibles. Algunas características de protección de la información de Azure requieren una suscripción a Office 365 ProPlus, que no se incluye con Office 365 nos administración pública G1 o Office 365 nos gobierno F1.<br/><sup>2</sup> Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características IRM admitidas. 
 <br/><sup>3</sup> Skype para empresarial básica está disponible para todos los clientes. El Skype para el cliente de escritorio empresarial es una aplicación instalada localmente que proporciona características de presencia, mensajería instantánea y conferencias para los planes de Office 365 que incluir Skype para profesionales en línea. Office 365 ProPlus y Office 365 Enterprise E3 incluyen la aplicación de Skype completa, que incluye características adicionales, como las características de soporte técnico, archivado y cumplimiento de normas de telefonía avanzadas. Debe asignar un Skype para licencia empresarial en línea para cada usuario. Para obtener más información sobre las características de Lync Basic, vea [Skype para las tablas de comparación de cliente en línea de negocio](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx).<br/><sup>4</sup> aún no está disponible en GCC alta o entornos de DoD, pero próximamente.
 <br/><sup>5</sup> vea [Usar Outlook para iOS y Android en la nube de la Comunidad de gobierno](https://docs.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud) para obtener más detalles.
-  
-[Cómo utilizar esta sección de descripción del servicio](office-365-us-government.md#how-to-use-this-service-description-section)
+  <br/><sup>6</sup> aún no está disponible en el entorno de Office 365 DoD, pero próximamente.
+<br/><br/>[Cómo utilizar esta sección de descripción del servicio](office-365-us-government.md#how-to-use-this-service-description-section)

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business es una solución integrada que reúne la productividad en su clase de Office 365 con capacidades avanzadas de administración de dispositivos y la seguridad para ayudar a proteger su negocio. . Esta descripción de servicio describe las características y opciones de planes. Para obtener más información acerca de Office 365, vea las descripciones de servicio de Office 365.
-ms.openlocfilehash: 23f3d4032da18de3ba10155942dfe5bd08c5d574
-ms.sourcegitcommit: 6009866151bd0907ebf0b34ccea578efd6b1eb61
+ms.openlocfilehash: 0aeaea88fa368aa8d133f5e2bfb24547a8f89452
+ms.sourcegitcommit: d1d7309e864398e7d029956231cbaee054a2a0cf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2018
-ms.locfileid: "26674227"
+ms.lasthandoff: 01/09/2019
+ms.locfileid: "27784892"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descripción del servicio de Microsoft 365 Empresa
 
@@ -122,7 +122,7 @@ Para ver la disponibilidad de características en los planes de Office 365, vea 
 |Detección de aplicaciones en la nube  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Grupos dinámicos  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Restablecimiento de identidades en la nube de contraseña self-service  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Contraseñas de autoservicio restablecer con escritura diferida AD local  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|Contraseñas de autoservicio restablecer con escritura diferida AD local  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Sincronización bidireccional de objetos de dispositivo entre directorios locales y Azure AD (dispositivo escritura diferida)  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Acceso condicional (basado en grupo, ubicación, estado del dispositivo, inicio de sesión o riesgo de usuario)  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Marca (personalización de panel páginas o acceso de inicio de sesión de la empresa  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
