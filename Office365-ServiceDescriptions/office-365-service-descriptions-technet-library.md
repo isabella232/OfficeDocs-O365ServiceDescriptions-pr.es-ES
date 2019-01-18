@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 es un servicio basado en la nube que está diseñado para ayudar a satisfacer las necesidades de su organización de seguridad sólida, confiabilidad y productividad de los usuarios.
-ms.openlocfilehash: f52133b8faf1071a6fbbf07b634e5cae4286bf13
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 31f85abc3c129c1b89a0d170b2bdb6537660772d
+ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036924"
+ms.lasthandoff: 01/17/2019
+ms.locfileid: "28694664"
 ---
 # <a name="office-365-service-descriptions"></a>Descripciones de servicio de Office 365  
 
@@ -33,7 +33,7 @@ Para buscar artículos de servicio técnico e información, consulte [Servicio t
 > [!NOTE]
 > Si está buscando la hoja de cálculo de comparación de descripción del servicio, se ha retirado. Las tablas de disponibilidad de características del producto de cada página de descripción del servicio se han actualizado para ayudarle a elegir la versión de Office 365 que mejor se adapta a sus necesidades. 
   
-Microsoft ofrece la ventaja de incorporación de Office 365 para los servicios elegibles en los planes elegibles. La ventaja de incorporación le permite trabajar de forma remota con especialistas de Microsoft para dejar el entorno de Office 365 listo para su uso. Para más información, vea [Office 365 Onboarding Benefit](http://technet.microsoft.com/library/cb4d7c0f-ad86-4134-a5fe-92a250cd3003.aspx).
+Microsoft ofrece la ventaja de centro de FastTrack para Office 365 para servicios válidos en planes aptos. La ventaja le permite trabajar de forma remota con especialistas de Microsoft para que el entorno de Office 365 listo para su uso. Para obtener más información, vea [FastTrack centro de beneficios para Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Para empezar, consulte las siguientes descripciones de servicios:
   
