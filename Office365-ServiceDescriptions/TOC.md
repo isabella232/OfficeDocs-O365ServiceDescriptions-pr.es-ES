@@ -1,14 +1,3 @@
----
-ms.openlocfilehash: 1275e75d58e1f96cdf1c7c21dbcb8f9003e2154a
-ms.sourcegitcommit: 4fe0681e4bbfb5ffd36d1a5517b1a34e0eced7cf
-ms.translationtype: HT
-ms.contentlocale: es-ES
-ms.lasthandoff: 01/18/2019
-ms.locfileid: "28728674"
----
-
-  
-
 # [Descripciones de servicio de Office 365 ](office-365-service-descriptions-technet-library.md)
 ## [Descripción del servicio de Microsoft 365 Empresa](microsoft-365-business-service-description.md)
 ## [Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
