@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: ¿Desea saber qué licencias que necesitará comprar para obtener determinado Skype para las características de Business? Vea el Skype para información general de licencias empresarial.
-ms.openlocfilehash: 4b25d8b5b67e2c53acdb76530c15c16ea945f074
-ms.sourcegitcommit: 1ab13384025545fa0bb053de8fc20c8956d82119
+ms.openlocfilehash: 000095f2f0f6831bc796915905b507ff7f037c5b
+ms.sourcegitcommit: 6bc22caa49b04042d17dc551628a6824fc3f93aa
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/03/2018
-ms.locfileid: "25362935"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29506664"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descripción del servicio Skype Empresarial Online
 
@@ -123,7 +123,7 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.
 |Control de admisión de llamadas  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Respuesta/inicio de llamada  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Delegación de llamadas  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
-|Desvío de llamadas y llamada simultánea  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
+|Desvío de llamadas y llamada simultánea  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Historial de llamadas  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Retención y recuperación de llamadas  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Estacionamiento de llamadas  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -299,7 +299,7 @@ La tabla siguiente muestra las opciones de licencia para Difusión de reunión d
 |||
 |:-----|:-----|
 |**Plan de Office 365** <br/> |**Características de Skype Empresarial Online** <br/> |
-|Skype Empresarial Online Plan independiente 2  <br/> | Difusión de reunión de Skype  <br/>  Se requiere una licencia de Office 365 para el organizador, el productor, el miembro del equipo de eventos y los asistentes autenticados.  <br/>  No se requiere ninguna licencia de Office 365 para los asistentes anónimos.  <br/>  Con el Plan independiente 2 de Skype Empresarial Online o con cualquier conjunto de aplicaciones de Office 365 que contenga el Plan 2, están disponibles los complementos siguientes:  <br/>  Audioconferencia (disponible en países limitados)  <br/>  Sistema telefónico  <br/> > [!NOTE]> Cuando adquirido por sí mismo sin llamar a planes, sistema telefónico permite una capacidad de voz híbrida solo. Voz híbrida requiere una implementación de voz híbrida de cliente local para habilitar las llamadas RTC con su proveedor o proveedores de servicio de existente RTC. Los complementos de sistema telefónico siguientes están disponibles para habilitar las llamadas RTC entrantes y salientes, uso de Microsoft como su proveedor de servicios de RTC: > nacionales llamar a planear (disponible en países limitados) > llamar a planear internacional (disponible en limitado países)           |
+|Skype Empresarial Online Plan independiente 2  <br/> | Difusión de reunión de Skype  <br/>  Se requiere una licencia de Office 365 para el organizador, el productor, el miembro del equipo de eventos y los asistentes autenticados.  <br/>  No se requiere ninguna licencia de Office 365 para los asistentes anónimos.  <br/>  Con el Plan independiente 2 de Skype Empresarial Online o con cualquier conjunto de aplicaciones de Office 365 que contenga el Plan 2, están disponibles los complementos siguientes:  <br/>  Audioconferencia (disponible en países limitados)  <br/>  Sistema telefónico  <br/> > [!NOTE]> al adquirir por separado sin llamar a planes, el sistema telefónico permite una capacidad de voz híbrida solo. Voz híbrida requiere una implementación de voz híbrida de cliente local para habilitar las llamadas RTC con su proveedor o proveedores de servicio de existente RTC. Los complementos de sistema telefónico siguientes están disponibles para habilitar las llamadas RTC entrantes y salientes, uso de Microsoft como su proveedor de servicios de RTC: llamar a planear internacional de > nacionales llamar a planear (disponible en países limitados) > (disponible en limitado países)           |
 |Plan independiente 3 de Skype Empresarial Online  <br/> |Plan independiente 3 de Skype Empresarial Online.  <br/> > [!NOTE]> Este plan se usa únicamente para proveedores de servicios de voz de terceros y  *no*  proporciona servicios de llamadas, por ejemplo, servicios como Audioconferencia, Sistema telefónico ni Planes de llamadas nacionales o internacionales.           |
 |Office 365 Empresa Premium  <br/> | Difusión de reunión de Skype:  <br/>  Se requiere una licencia de Office 365 para el organizador, el productor, el miembro del equipo de eventos y los asistentes autenticados.  <br/>  No se requiere ninguna licencia de Office 365 para los asistentes anónimos.  <br/>  Audioconferencia (en los países en los que esté disponible)  <br/> |
 |Office 365 Enterprise E1  <br/> |Plan independiente 2 de Skype Empresarial Online (vea más arriba en Plan independiente 2 de Skype Empresarial Online las características incluidas).  <br/> |
