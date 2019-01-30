@@ -42,4 +42,13 @@
 |------|------------|--------|
 | 17/1/2019 | [Office 365 Administración Pública de EE. UU.](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | modificado  |
 | 17/1/2019 | [Descripciones de servicio de Office 365 ](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | modificado  |
-| 18/1/2019 | [Cambios recientes de descripciones de servicio](/Office365/ServiceDescriptions/recent-service-descriptions-changes) | Fecha de modificación |
+| 18/1/2019 | [Cambios recientes de descripciones de servicio](/Office365/ServiceDescriptions/recent-service-descriptions-changes) | modificado  |
+
+
+## <a name="week-of-january-21-2019"></a>Semana del 21 de enero de 2019
+
+
+| Publicado en |Título del tema | Cambio |
+|------|------------|--------|
+| 24/1/2019 | [Descripción del servicio Skype Empresarial Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | modificado  |
+| 24/1/2019 | [Descripción del servicio de la plataforma de Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | Fecha de modificación |

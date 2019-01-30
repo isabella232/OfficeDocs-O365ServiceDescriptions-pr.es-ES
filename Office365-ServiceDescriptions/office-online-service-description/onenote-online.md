@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Usar OneNote en línea (anteriormente OneNote Web App) para tomar notas en línea en un bloc de notas de OneNote que se puede agregar a desde cualquier lugar y compartir fácilmente con otros usuarios. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office Online.
-ms.openlocfilehash: a85614afd9b1757c619e75d4274285b366be88b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 19725db54781c872d720767c1419f9b7529cb6df
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037033"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612753"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -124,7 +124,8 @@ Con OneNote Online, puede usar los botones al estilo del explorador Atrás y Ade
 ## <a name="notebook-management-cross-sectionnotebook-page-filing-section-re-order-createdelete-section-groups"></a>Administración del bloc de notas: Archivado de páginas del bloc de notas/sección transversal, reordenación de secciones, creación/eliminación de grupos de secciones
 <a name="bkmk_AdvancedNotebookManagement"> </a>
 
-No disponible en OneNote Online. Las características avanzadas de administración, como la reordenación de secciones, la creación y eliminación de grupos de secciones y el archivado de páginas mediante arrastrar y soltar, solo están disponibles en la aplicación de escritorio de OneNote. 
+Con OneNote en línea, puede arrastrar y colocar para cambiar el orden de las páginas y secciones.  
+Funcionalidades avanzadas de administración, como la creación, eliminación y reorganización de la sección grupos sólo están disponibles en la aplicación de escritorio de OneNote.
   
 ## <a name="offline-viewing-and-authoring"></a>Visualización y creación sin conexión
 <a name="bkmk_Offlineviewing"> </a>

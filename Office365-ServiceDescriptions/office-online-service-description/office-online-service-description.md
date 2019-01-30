@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anteriormente Office Web Apps) se abre documentos de Word, Excel, OneNote y PowerPoint en el explorador web. Office Online facilita el trabajo y compartir los archivos de Office desde cualquier lugar con una conexión a Internet, desde casi cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier lugar.
-ms.openlocfilehash: 23eb27211f6225ec0e6b70b3993356cec693adc9
-ms.sourcegitcommit: 99af1d00c4bca7ae4ebfe08a30223196a5ac88ef
+ms.openlocfilehash: cbdde47716f983928ac83fa67b09d420c43fedc5
+ms.sourcegitcommit: ea7700776c85e879eda75f74fb03bd26a28f4714
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2018
-ms.locfileid: "25435828"
+ms.lasthandoff: 01/29/2019
+ms.locfileid: "29612773"
 ---
 # <a name="office-online-service-description"></a>Descripción del servicio de Office Online
 
@@ -32,7 +32,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 ¿Necesita ayuda saber qué solución de Office que mejor se adapta a su organización? Las siguientes tablas comparan las capacidades de característica Office Online para aplicaciones de escritorio de Microsoft Office enriquecido de característica. Use las tablas para descubrir qué características están disponibles en Office Online y, a continuación, haga clic en el nombre de la característica para leer una breve descripción acerca de cómo funciona esa característica. Es posible que descubra que algunas personas de la organización necesitan la capacidad de gráfico avanzada de la aplicación de escritorio de Excel, mientras que otros sólo necesitan ver y modificar ligeramente los documentos de Word y presentaciones de PowerPoint con Office Online. 
   
 > [!NOTE]
->  Se ha elegido una selección limitada de las características de Office para representar las capacidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de las características de Microsoft Office. > Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. > Los clientes locales de Microsoft Office Online Server obtienen un Office Online edición de licencia si se ha comprado una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Office 365 ProPlus). 
+>  Se ha elegido una selección limitada de las características de Office para representar las capacidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de las características de Microsoft Office. > Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. > Microsoft Office Online Server local a los clientes obtienen una licencia de edición en línea de Office si se ha comprado una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Office 365 ProPlus). 
   
 > [!NOTE]
 > Cuando abre un documento de Office, ya sea un adjunto de correo electrónico de Outlook o desde una biblioteca de documentos de SharePoint, el documento se iniciará en Office Online y será de solo lectura. Para editar un documento en Office Online (modo de edición), necesita una licencia del conjunto de Office 365, como Office 365 Enterprise E1. Para editar un documento en la aplicación de escritorio, deberá contar con una licencia del conjunto de escritorio de Office, como una suscripción de Office 365 ProPlus o una versión instalada de Office Professional Plus 2010. 
@@ -204,6 +204,9 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Coautoría](onenote-online.md#co-authoring) <br/> |Sí  <br/> |Sí  <br/> |
 |[Crear y administrar páginas y secciones](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Sí  <br/> |Sí  <br/> |
 |[Descargar copias de archivos de Office insertados](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Sí  <br/> |Sí<sup>4</sup> <br/> |
+|[Arrastrar y colocar páginas] <br/> |Sí  <br/> |Sí <br/> |
+|[Arrastrar y colocar en las secciones] <br/> |Sí  <br/> |Sí <br/> |
+|[Arrastrar y colocar grupos de sección] <br/> |No  <br/> |Sí <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Sí  <br/> |Sí  <br/> |
 |[Edición de archivos incrustados](onenote-online.md#EmbeddedFileEdit) <br/> |No  <br/> |Sí  <br/> |
 |[Ecuaciones](onenote-online.md#equations) <br/> |Sí  <br/> |Sí  <br/> |
