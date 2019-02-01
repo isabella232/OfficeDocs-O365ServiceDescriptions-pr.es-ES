@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de los Estados Unidos, Microsoft ha creado planes de Office 365 gobierno de Estados Unidos (orOffice 365 gobierno de Estados Unidos). En esta sección se proporciona una visión general de las características que son específicos de Office 365 gobierno de Estados Unidos. Se recomienda que lea esta sección adicional junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: 05da74a6efad6834f2108c83126aa1522ae62776
-ms.sourcegitcommit: 389748748f04e29e096c0971707b5993f56dd6c6
+ms.openlocfilehash: b3c4a6ff79be71a288752349b5b6c6c7c7587ab3
+ms.sourcegitcommit: ddfa315cedb1f3c5a5ff94cc33c9b591d396901d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/17/2019
-ms.locfileid: "28694684"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29690401"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -102,8 +102,10 @@ El acceso al contenido del cliente de Office 365 Administración Pública por pa
 |Office of Foreign Assets Control List (OFAC)  <br/> |Sí  <br/> |Sí  <br/> |
 |Bureau of industry and security List (BIS)  <br/> |Sí  <br/> |Sí  <br/> |
 |Comprobación basada en las huellas digitales en las bases de datos de antecedentes penales del FBI  <br/> |Sí  <br/> |Sí  <br/> |
-|Comprobación de antecedentes criminales de los CJIS  <br/> |Sí  <br/> |No  <br/> |
+|Comprobación de estado local CJIS fondo penales  <br/> |Sí<sup>1</sup>   <br/> |No  <br/> |
 |DOD IT-2 basado en la investigación de nivel 3 de OPM  <br/> |No  <br/> |Solo para inquilinos de DOD SRG L5  <br/> |
+
+<sup>1</sup> para esos Estados inscriben en el programa de MSFT gob. nube CJIS
    
 [Cómo utilizar esta sección de descripción del servicio](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -173,13 +175,13 @@ Cada plan de Office 365 incluye varios servicios individuales, como Exchange Onl
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Servicios de Office 365** <br/> |**Office 365 G1 de gobierno de Estados Unidos** <br/> |**Office 365 G3 de gobierno de Estados Unidos** <br/> |**Office 365 G5 de gobierno de Estados Unidos** <br/> |**Office 365 F1 de gobierno de Estados Unidos** <br/> |
-|Office Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Office Online  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
 |Office 365 ProPlus  <br/> |No <br/> |Sí <br/> |Sí <br/> |No  <br/> |
-|Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Protección de Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|SharePoint Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|OneDrive para la Empresa  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Skype para la empresa (mensajería instantánea &amp; presencia)  <br/> |Sí<sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>1</sup> <br/> |
+|Exchange Online  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
+|Protección de Exchange Online  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
+|SharePoint Online  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
+|OneDrive para la Empresa  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
+|Skype para la empresa (mensajería instantánea &amp; presencia)  <br/> |Sí<sup>1</sup> <br/> |Sí  <br/> |Sí   <br/> |Sí<sup>1</sup> <br/> |
 | Conferencia de Audio de voz - el sistema telefónico,  <br/> |No<sup>2, 3</sup> <br/> |No<sup>2, 3</sup> <br/> |Sí, <sup>3, 5</sup> <br/> |No  <br/> |
 |Power BI Pro  <br/> |No hay<sup>2</sup> <br/> |No hay<sup>2</sup> <br/> |Sí  <br/> |No hay<sup>2</sup> <br/> |
 |Project Online  <br/> |No hay<sup>2</sup> <br/> |No hay<sup>2</sup> <br/> |No hay<sup>2</sup> <br/> |No hay<sup>2</sup> <br/> |
@@ -198,8 +200,8 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |**Característica** <br/> |**Office 365 G1 de gobierno de Estados Unidos** <br/> |**Office 365 G3 de gobierno de Estados Unidos** <br/> |**Office 365 G5 de gobierno de Estados Unidos** <br/> |**Office 365 F1 de gobierno de Estados Unidos** <br/> |
 |**Administración de Office 365** <br/> |||||
 |Administrar Office 365 mediante el centro de administración de Office 365  <br/> |Sí<sup>16</sup> <br/> |Sí<sup>16</sup> <br/> |Sí  <br/> |Sí<sup>16</sup> <br/> |
-|Administrar la configuración principal del servicio desde Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Uso de Windows PowerShell para administrar Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Administrar la configuración principal del servicio desde Office 365  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
+|Uso de Windows PowerShell para administrar Office 365  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
 |Proteger el contenido con Azure Information Protection  <br/> |No hay<sup>1</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup>  <br/> |No hay<sup>1</sup> <br/> |
 |**[Características del conjunto de aplicaciones de Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 G1 de gobierno de Estados Unidos** <br/> |**Office 365 G3 de gobierno de Estados Unidos** <br/> |**Office 365 G5 de gobierno de Estados Unidos** <br/> |**Office 365 F1 de gobierno de Estados Unidos** <br/> |
 |Reservas de Microsoft  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -212,7 +214,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Microsoft StaffHub  <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |
 |Microsoft Stream  <br/> |Sí<sup>11</sup> <br/> |Sí<sup>11</sup> <br/> |Sí<sup>11</sup> <br/> |No  <br/> |
 |Microsoft Sway  <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |
-|Microsoft Teams  <br/> |Sí<sup>9, 15</sup> <br/> |Sí<sup>9, 15</sup> <br/> |Sí<sup>9, 15</sup> <br/> |Sí<sup>9, 15</sup> <br/> |
+|Microsoft Teams  <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |
 |Office Delve  <br/> |Sí<sup>17</sup> <br/> |Sí<sup>17</sup> <br/> |Sí  <br/> |Sí<sup>17</sup> <br/> |
 |Grupos de Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Stream  <br/> |Sí<sup>9, 15</sup> <br/> |Sí<sup>9, 15</sup> <br/> |Sí<sup>9, 15</sup> <br/> |No  <br/> |
@@ -291,23 +293,23 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Cifrado de mensajes de Office  <br/> |No  <br/> |Sí <br/> |Sí <br/> |No  <br/> |
 |Inteligencia de amenazas  <br/> |No hay<sup>12</sup> <br/> |No hay<sup>12</sup> <br/> |Sí <br/> |No hay<sup>12</sup> <br/> |
 |**[Cumplimiento [ServiceDesc]](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
-|Evaluaciones SAS 70 / SSAE16  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Certificación ISO 27001  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Cláusulas del modelo de UE  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Acuerdo "Puerto seguro" de EE. UU.  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Acuerdo de asociados de negocios HIPAA  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Autoridad FISMA para operar  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Acuerdo de procesamiento de datos de Microsoft  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|PCI DSS Nivel Uno  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Evaluaciones SAS 70 / SSAE16  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
+|Certificación ISO 27001  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
+|Cláusulas del modelo de UE  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
+|Acuerdo "Puerto seguro" de EE. UU.  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
+|Acuerdo de asociados de negocios HIPAA  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
+|Autoridad FISMA para operar  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
+|Acuerdo de procesamiento de datos de Microsoft  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
+|PCI DSS Nivel Uno  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
 |Datos PAN regidos por PCI  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**[Continuidad del servicio](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|**[Continuidad del servicio](../../office-365-platform-service-description/service-health-and-continuity.md)** <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
 |**[BlackBerry](../../office-365-platform-service-description/blackberry.md)** <br/> |**Office 365 G1 de gobierno de Estados Unidos** <br/> |**Office 365 G3 de gobierno de Estados Unidos** <br/> |**Office 365 G5 de gobierno de Estados Unidos** <br/> |**Office 365 F1 de gobierno de Estados Unidos** <br/> |
 |Uso del Servicio Internet BlackBerry (BIS)  <br/> |No hay<sup>2</sup> <br/> |No hay<sup>2</sup> <br/> |No hay<sup>2</sup> <br/> |No hay<sup>2</sup> <br/> |
 |**[Asociados](../../office-365-platform-service-description/partners.md)** <br/> |||||
 |Creación de invitaciones y pedidos de compra de prueba para un cliente que utiliza el plan especificado  <br/> |No hay<sup>11</sup> <br/> |No hay<sup>11</sup> <br/> |No hay<sup>11</sup> <br/> |No hay<sup>11</sup> <br/> |
 |Proporcionar administración delegada  <br/> |No hay<sup>11</sup> <br/> |No hay<sup>11</sup> <br/> |No hay<sup>11</sup> <br/> |No hay<sup>11</sup> <br/> |
-|**[Contrato de nivel de servicio](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Derechos de uso de producto](../../office-365-platform-service-description/product-use-rights.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|**[Contrato de nivel de servicio](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
+|**[Derechos de uso de producto](../../office-365-platform-service-description/product-use-rights.md)** <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
    
 > <sup>1</sup> protección de la información de azure no se incluye, pero puede adquirirse como un complemento independiente y habilitará las características de Information Rights Management (IRM) compatibles. Algunas características de protección de la información de Azure requieren una suscripción a Office 365 ProPlus, que no se incluye con Office 365 nos administración pública G1 o Office 365 nos gobierno F1. ><br/><sup>2</sup> los clientes de BBCS existente y BIS pueden continuar el uso del servicio. No se aceptan nuevos clientes.<br/><sup>3</sup> si usa la sincronización de Active directory, debe eliminar las cuentas o cambiar las contraseñas mediante Active Directory, en lugar del portal de Office 365 o con el módulo Azure Active Directory para Windows PowerShell. 
 <br/><sup>4</sup> si usa la sincronización de contraseña, los usuarios deben cambiar sus contraseñas en el Active Directory local. 
@@ -337,16 +339,16 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 |[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|[Skype Empresarial](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>3</sup> <br/> |
+|[Skype Empresarial](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |Sí   <br/> |Sí<sup>3</sup> <br/> |
 |[Office para Mac para Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Office Mobile para iPhone o iPad](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
 |[Office Mobile para Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
 |[Office Mobile para Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
 |Office Mobile para tabletas con Windows 10 <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
-|Outlook para iOS y Android<sup>5, 4</sup>  <br/> |Sí <br/> |Sí <br/> |Sí <br/> |Sí <br/> |
+|Outlook para iOS y Android<sup>5, 4</sup>  <br/> |Sí <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**Valor empresarial** <br/> |**Office 365 G1 de gobierno de Estados Unidos** <br/> |**Office 365 G3 de gobierno de Estados Unidos** <br/> |**Office 365 G5 de gobierno de Estados Unidos** <br/> |**Office 365 F1 de gobierno de Estados Unidos** <br/> |
 |Cinco instalaciones por usuario en PC o Mac  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|Aprovisionamiento de cuentas de usuario automatizado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Aprovisionamiento de cuentas de usuario automatizado  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
 |Interfaz de usuario multilingüe  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Implementación de comandos de cliente  <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
 |Soporte para clientes sobre Exchange local  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
