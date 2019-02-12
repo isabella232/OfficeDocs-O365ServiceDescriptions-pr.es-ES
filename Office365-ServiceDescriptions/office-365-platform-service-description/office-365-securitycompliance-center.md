@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: La seguridad de Office 365 &amp; centro de cumplimiento está diseñada para ayudar a administrar características de cumplimiento en Office 365 para su organización. Vínculos a las características de cumplimiento existentes de SharePoint y Exchange reunir las capacidades de cumplimiento de normas a través de Office 365.
-ms.openlocfilehash: b1d2e28e38cc156dd84a195a698f546b43ef7ccc
-ms.sourcegitcommit: 451566be3a538320c86d284a893235b253743b31
+ms.openlocfilehash: 5f8690afc3d5ebaa7b9f2a1975a4fbf46370effd
+ms.sourcegitcommit: 30a452b9b9a0d8fc288e5911235454cc8f1907be
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/27/2018
-ms.locfileid: "27449914"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "27472204"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Centro de seguridad y cumplimiento de Office 365
 
@@ -30,21 +30,21 @@ El [Office 365 seguridad &amp; centro de cumplimiento](https://go.microsoft.com/
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 G1 de gobierno de Estados Unidos** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 G3 de gobierno de Estados Unidos** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 F1 de gobierno de Estados Unidos** <br/> |
-|[Acceso a la seguridad &amp; centro de cumplimiento](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Acceso a la seguridad &amp; centro de cumplimiento](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
-|[Administración de amenaza](https://go.microsoft.com/fwlink/?linkid=845550) como anti-malware y filtrado de correo  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Administración de amenaza](https://go.microsoft.com/fwlink/?linkid=845550) como anti-malware y filtrado de correo  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
 |[Administración de amenaza avanzada](https://go.microsoft.com/fwlink/?linkid=846673) , como el Explorador de amenaza y de caja de seguridad del cliente para las campañas de suplantación de identidad <sup>6</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
-|[Administración de dispositivos móviles](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Administración de dispositivos móviles](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
 |[Prevención de pérdida de datos](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|[Gobierno de datos](https://go.microsoft.com/fwlink/?linkid=863925) <sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Gobierno de datos](https://go.microsoft.com/fwlink/?linkid=863925) <sup>1</sup> <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
 |[Avanzada de gobierno de datos](https://go.microsoft.com/fwlink/?linkid=842991) <sup>2</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
-|[Búsqueda e investigación](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[búsqueda de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Búsqueda e investigación](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
+|[búsqueda de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
 |[exportación de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[las suspensiones de exhibición de documentos electrónicos (incluidas las suspensiones de exhibición de documentos electrónicos basada en consultas)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Avanzada de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=715714) <sup>5</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Archivado](https://technet.microsoft.com/en-us/library/exchange-online-limits.aspx) <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
-|Directivas de retención y eliminación manual  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
+|Directivas de retención y eliminación manual  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
    
 > <sup>1</sup> gobierno de datos permite a los usuarios crear, publicar y aplicar manualmente las etiquetas a los documentos; importar datos de uso de unidad de trasvase de registros o a través de la red; crear y aplicar directivas de retención y eliminación de las cargas de trabajo, los usuarios y grupos. Las directivas de retención aplicadas a buzones de correo requieren Office 365 Enterprise E3 o E5.<br/><sup>2</sup> gobierno avanzada de datos le permite conservar información importante y eliminar la información importante al clasificar la información según una retención o directiva de eliminación o ambos. Incluye inteligente/automatizada acciones como recomendar directivas, automáticamente aplicar etiquetas a los datos, aplicar etiquetas basadas en tipos de datos confidenciales o consultas, revisión de disposición y uso de los filtros inteligentes de importación. También incluye la característica de supervisión para revisar las comunicaciones de los empleados con fines de seguridad y cumplimiento de normas.<br/>Límite de 50 GB <sup>3</sup> . 
 <br/><sup>4</sup> ilimitado. 
@@ -55,16 +55,16 @@ El [Office 365 seguridad &amp; centro de cumplimiento](https://go.microsoft.com/
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Exchange Online (plan 1)** <br/> |**Exchange Online (plan 2)** <br/> |**Quiosco de Exchange Online** <br/> |**SharePoint Online plan 1** <br/> |**SharePoint Online plan 2** <br/> |**Skype Empresarial Online (plan 1)** <br/> |**Skype Empresarial Online (plan 2)** <br/> |
-|[Acceso a la seguridad &amp; centro de cumplimiento](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Acceso a la seguridad &amp; centro de cumplimiento](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Administración de amenaza](https://go.microsoft.com/fwlink/?linkid=845550) como anti-malware y filtrado de correo  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Administración de amenaza](https://go.microsoft.com/fwlink/?linkid=845550) como anti-malware y filtrado de correo  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
 |[Administración de amenaza avanzada](https://go.microsoft.com/fwlink/?linkid=846673) , como el Explorador de amenaza y de caja de seguridad del cliente para las campañas de suplantación de identidad  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|[Administración de dispositivos móviles](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Prevención de pérdida de datos](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
-|[Gobierno de datos](https://go.microsoft.com/fwlink/?linkid=863925) <sup>1</sup> <br/> |Sí<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Administración de dispositivos móviles](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
+|[Prevención de pérdida de datos](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No   <br/> |Sí  <br/> |
+|[Gobierno de datos](https://go.microsoft.com/fwlink/?linkid=863925) <sup>1</sup> <br/> |Sí<sup>2</sup> <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
 |[Avanzada de gobierno de datos](https://go.microsoft.com/fwlink/?linkid=842991) <sup>3</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|[Búsqueda e investigación](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[búsqueda de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
+|[Búsqueda e investigación](https://go.microsoft.com/fwlink/?linkid=824872) <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
+|[búsqueda de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |No  <br/> |No  <br/> |
 |[exportación de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No hay<sup>4</sup> <br/> |No hay<sup>4</sup> <br/> |
 |[las suspensiones de exhibición de documentos electrónicos (incluidas las suspensiones de exhibición de documentos electrónicos basada en consultas)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1) <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
 |[Avanzada de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=715714) <sup>5</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
