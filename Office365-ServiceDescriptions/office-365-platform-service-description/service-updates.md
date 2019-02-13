@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Para obtener información sobre las características de Office 365 lanzadas recientemente, o las de próximo lanzamiento, consulte el mapa de ruta de Office 365.
 ms.openlocfilehash: e0f679a3e3b272dca90f4a416b9b232af9221a86
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.sourcegitcommit: 9c751127339ea6a50184daa34f7da18e13361d52
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036945"
+ms.lasthandoff: 02/13/2019
+ms.locfileid: "29966224"
 ---
 # <a name="service-updates"></a>Actualizaciones de servicio
 
@@ -30,7 +30,7 @@ Para obtener información sobre las características de Office 365 lanzadas reci
 > [!NOTE]
 > Actualizaciones y mejoras se ha implantado a los clientes en función de muchos factores, como la geografía, idioma, centro de datos y suscripción. Esto significa que no todas las actualizaciones están disponibles inmediatamente para los clientes existentes. 
   
-## <a name="targeted-release"></a>Versión de destino
+## <a name="targeted-release"></a>Versión dirigida
 
 Con la versión de destino, su organización o un conjunto de los usuarios reciben un conjunto de actualizaciones de servicio aproximadamente una semana antes de comenzar nuestro proceso de publicación estándar. Para obtener más información, vea [programas de la versión de Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823). 
   
