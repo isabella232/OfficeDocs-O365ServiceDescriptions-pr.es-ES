@@ -3,7 +3,7 @@ title: Límites de Exchange Online
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 02/19/2019
+ms.date: 02/21/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 5e52414fddae0fd1482fbad3bdffa44b081c3ed5
-ms.sourcegitcommit: de3d6f2aa5af01645705efe88bb41f9f3a5eef04
+ms.openlocfilehash: ce25d57281cd9a5260b34f2d33d7cf4a490ac866
+ms.sourcegitcommit: 30c7b713cbe28bc2ce1f0bd850e48fbc9b1d63f7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/20/2019
-ms.locfileid: "30103118"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30199925"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -246,6 +246,8 @@ Los siguientes límites se aplican a todos los mensajes de correo electrónico.
     > [!NOTE]
     > Los clientes de correo electrónico particulares pueden tener límites de tamaño de mensajes más bajos o pueden limitar el tamaño de un archivo adjunto concreto a un valor inferior al límite de tamaño del mensaje de Exchange Online. 
   
+- **Límite de tamaño de encabezado de mensaje** Especifica el tamaño máximo de todos los campos de encabezado de mensaje de un mensaje. El límite actual es de 256 KB. Si el tamaño total de todos los encabezados de mensaje supera los 256 KB, Exchange Online rechazará el mensaje con el error "552 el tamaño del encabezado de 5.3.4 supera el tamaño máximo fijo". No se tiene en cuenta el tamaño del cuerpo del mensaje o de los datos adjuntos. Debido a que los campos de encabezado son texto sin formato, el tamaño del encabezado se determina por el número de caracteres de cada campo de encabezado y por el número total de campos de encabezado. Cada carácter de texto consume 1 byte.
+
 - **Límite de longitud del asunto** La cantidad máxima de caracteres de texto permitidos en la línea de asunto de un mensaje de correo electrónico. 
     
 - **Límite de datos adjuntos del archivo** El número máximo de datos adjuntos permitidos en un mensaje de correo electrónico. Aunque el tamaño total de todos los datos adjuntos no infrinja el límite de tamaño del mensaje, sigue habiendo un límite en cuanto al número de datos adjuntos permitidos en el mensaje. Este límite está controlado por el límite de mensaje con varias partes. 
