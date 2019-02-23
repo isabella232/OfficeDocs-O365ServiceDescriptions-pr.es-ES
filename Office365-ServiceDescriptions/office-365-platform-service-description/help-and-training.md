@@ -12,22 +12,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
-description: Microsoft Office 365 proporciona los siguiente ayuda y recursos de aprendizaje.
-ms.openlocfilehash: fb923c0b2323011c9ae61d0ca748af017cd22a06
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office 365 proporciona los siguientes recursos de ayuda y aprendizaje.
+ms.openlocfilehash: 4ea99142d70bec44a3c30875c22979c5f405fdd8
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037034"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210293"
 ---
 # <a name="help-and-training"></a>Ayuda y formación
 
-Microsoft Office 365 proporciona los siguiente ayuda y recursos de aprendizaje.
+Microsoft Office 365 proporciona los siguientes recursos de ayuda y aprendizaje.
   
 ## <a name="online-help"></a>Ayuda en línea
 <a name="BKMK_Online_Help"> </a>
 
-Los vídeos y artículos de ayuda están disponibles en cualquier vínculo de ayuda en línea del servicio, incluido el icono de ayuda de la barra de navegación superior del portal Office 365 y del Centro de administración de Office 365. También puede buscar en toda la ayuda de Office 365 en [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
+Los artículos y vídeos de ayuda están disponibles en cualquier vínculo de ayuda en línea del servicio, incluido el icono de ayuda de la barra de navegación superior del portal de Office 365 y del centro de administración de Microsoft 365. También puede buscar en toda la ayuda de [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)Office 365. 
   
 ## <a name="training"></a>Formación
 <a name="BKMK_Online_Help"> </a>
@@ -124,32 +124,32 @@ Los recursos de capacitación y ayuda están disponibles en los siguientes idiom
 |Árabe  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Búlgaro  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Chino simplificado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Chino tradicional  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Chino tradicional  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |
 |Checo  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Danés  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Holandés  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Danés  <br/> |Sí  <br/> |Sí   <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Holandés  <br/> |Sí  <br/> |Sí   <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Estonio  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Finlandés  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Francés  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Alemán  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Francés  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |
+|Alemán  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |
 |Griego  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Húngaro  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Italiano  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Japonés  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Italiano  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |
+|Japonés  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |
 |Coreano  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Letón  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Lituano  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Noruego  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Polaco  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
+|Noruego  <br/> |Sí  <br/> |Sí   <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Polaco  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |No  <br/> |Sí  <br/> |
 |Portugués  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Portugués (Brasil)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Portugués (Brasil)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |
 |Rumano  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Ruso  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Serbio  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Eslovaco  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Esloveno  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Español  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Sueco  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Sueco  <br/> |Sí  <br/> |Sí   <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Tailandés  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Turco  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Ucraniano  <br/> |Sí  <br/> | No  <br/> |No  <br/> |No  <br/> |No  <br/> |

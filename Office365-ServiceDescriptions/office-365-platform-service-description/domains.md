@@ -14,22 +14,22 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: Cuando se agrega un dominio, un asistente paso a paso le ayuda a agregar usuarios y convertir las direcciones de correo electrónico de Office 365 y otros servicios de su nombre empresarial. Cuando se complete el asistente, su dirección de correo empresarial empieza a Office 365 en lugar de a su proveedor de correo electrónico actual. Para obtener más información, vea Agregar los usuarios y dominios a Office 365. Si usa Office 365 operado por 21Vianet, vea Verify su dominio.
-ms.openlocfilehash: 47c378482b8a8d09e2f2516968af99af9472c641
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Cuando agrega un dominio, un asistente paso a paso le ayuda a agregar usuarios y convertir las direcciones de correo electrónico de Office 365 y otros servicios al nombre de la empresa. Al completar el asistente, el correo electrónico de la empresa empieza a llegar a Office 365 en lugar de ir a su proveedor de correo electrónico actual. Para obtener más información, vea Agregar usuarios y dominios a Office 365. Si usa Office 365 operado por 21Vianet, consulte comprobar el dominio.
+ms.openlocfilehash: 15254355d2bb7aed01d7be8c8e56d455409a51a5
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036967"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210243"
 ---
 # <a name="domains"></a>Dominios
 
-Cuando se agrega un dominio, un asistente paso a paso le ayuda a agregar usuarios y convertir las direcciones de correo electrónico de Office 365 y otros servicios de su nombre empresarial. Cuando se complete el asistente, su dirección de correo empresarial empieza a Office 365 en lugar de a su proveedor de correo electrónico actual. Para obtener más información, vea [Agregar los usuarios y dominios a Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611). Si usa Office 365 operado por 21Vianet, vea [Verify su dominio](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409).
+Cuando agrega un dominio, un asistente paso a paso le ayuda a agregar usuarios y convertir las direcciones de correo electrónico de Office 365 y otros servicios al nombre de la empresa. Al completar el asistente, el correo electrónico de la empresa empieza a llegar a Office 365 en lugar de ir a su proveedor de correo electrónico actual. Para obtener más información, vea [Agregar usuarios y dominios a Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611). Si usa Office 365 operado por 21Vianet, consulte [comprobar el dominio](http://go.microsoft.com/fwlink/?LinkID=733344&amp;clcid=0x409).
   
 ## <a name="custom-domains"></a>Dominios personalizados
 <a name="BKMK_CustomDomains"> </a>
 
-Puede agregar hasta 900 dominios a su suscripción de Office 365. Sin embargo, no se puede agregar un dominio a Office 365 que ya está usando en otro servicio de nube de Microsoft. Esto significa que no se puede agregar el mismo dominio para varias suscripciones de Office 365. Para obtener más información, consulte [Preguntas más frecuentes de dominios](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
+Puede Agregar hasta 900 dominios a su suscripción de Office 365. Sin embargo, no puede Agregar un dominio a Office 365 que ya está usando en otro servicio en la nube de Microsoft. Esto significa que no puede Agregar el mismo dominio a varias suscripciones de Office 365. Para obtener más información, consulte [preguntas más frecuentes sobre dominios](https://support.office.com/en-us/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
   
 ### <a name="second-and-third-level-domains"></a>Dominios de segundo y tercer nivel
 <a name="BKMK_SecondAndThirdLevelDomains"> </a>
@@ -47,14 +47,14 @@ Si su dominio está registrado en GoDaddy, Office 365 puede crear los registros 
   
 Sin importar dónde estén albergados sus registros DNS, puede configurar los registros DNS para utilizar un sitio web público albergado en Office 365 o con un proveedor de host diferente. 
   
-Office 365comprueba de forma proactiva los registros DNS para buscar y solucionar problemas relacionados con el DNS. Si los registros de DNS no coinciden con los resultados esperados, recibirá una notificación en el Centro de administración de Office 365 con información que le indica cómo solucionar los posibles problemas identificados.
+Office 365 comprueba proactivamente los registros DNS para encontrar y ayudar a solucionar problemas de DNS. Si sus registros DNS no coinciden con lo que esperamos que sean, recibirá una notificación en el centro de administración de 365 de Microsoft, junto con información que le indicará cómo corregir los posibles problemas que se han identificado.
   
 Para obtener más información, vea [Cómo administra Office 365 los registros DNS](https://go.microsoft.com/fwlink/p/?LinkID=270144) o, para Office 365 operado por 21Vianet, vea [Create DNS records for Office 365 when you manage your DNS records ](http://go.microsoft.com/fwlink/?LinkID=817326&amp;clcid=0x409).
   
 ## <a name="sharing-a-domain"></a>Compartir un dominio
 <a name="BKMK_ManagingDNSRecords"> </a>
 
-Puede probar Office 365 con algunos direcciones de correo electrónico para un dominio en Office 365 y algunas en su proveedor de correo electrónico anterior. Esto se recomienda sólo para su uso durante una prueba piloto de Office 365, ya que requiere pasos de configuración adicionales y tiene algunas limitaciones para servicios de Office 365. Para obtener más información, vea:
+Puede probar Office 365 con algunas direcciones de correo electrónico de un dominio de Office 365 y algunas en su proveedor de correo electrónico anterior. Esto solo se recomienda para su uso durante una prueba piloto de Office 365, ya que requiere pasos de configuración adicionales y tiene algunas limitaciones para los servicios de Office 365. Para obtener más información, vea:
   
 - [Pilotar Office 365 para una empresa pequeña](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

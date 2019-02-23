@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: En esta sección se describe los controles de administración y soporte técnico que están disponibles para personalizar la configuración de Exchange Online y mantener el entorno de Exchange Online de una organización de seguridad, ejecuta y actual. Incluye información acerca de las herramientas de administración de autoservicio y funciones disponibles para las organizaciones; Las responsabilidades de administración de Microsoft y los compromisos de rendimiento; y las actualizaciones de productos y servicios.
-ms.openlocfilehash: 6b7bb1d68e6d676c39e9ebb254305b2799cc0931
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: En esta sección se describen los controles de administración y la compatibilidad que hay disponibles para personalizar la configuración de Exchange Online y mantener el entorno de Exchange online en funcionamiento, en ejecución y actualizado de la organización. Incluye información sobre las herramientas de administración de autoservicio y las capacidades disponibles para las organizaciones; Responsabilidades de administración de Microsoft y compromisos de rendimiento; y actualizaciones de productos y servicios.
+ms.openlocfilehash: 6a7b7883292f84dcd38480c6065b8f64dafb3e25
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036944"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210203"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Administración y configuración de Exchange Online
 
-En esta sección se describe los controles de administración y soporte técnico que están disponibles para personalizar la configuración de Exchange Online y mantener el entorno de Exchange Online de una organización de seguridad, ejecuta y actual. Incluye información acerca de las herramientas de administración de autoservicio y funciones disponibles para las organizaciones; Las responsabilidades de administración de Microsoft y los compromisos de rendimiento; y las actualizaciones de productos y servicios.
+En esta sección se describen los controles de administración y la compatibilidad que hay disponibles para personalizar la configuración de Exchange Online y mantener el entorno de Exchange online en funcionamiento, en ejecución y actualizado de la organización. Incluye información sobre las herramientas de administración de autoservicio y las capacidades disponibles para las organizaciones; Responsabilidades de administración de Microsoft y compromisos de rendimiento; y actualizaciones de productos y servicios.
   
 ## <a name="self-service-administration-tools"></a>Herramientas de administración de autoservicio
 
@@ -34,7 +34,7 @@ Por lo tanto, Exchange Online ofrece a los administradores de clientes las sigui
   
 - [Portal de Microsoft Office 365](exchange-online-setup-and-administration.md#microsoft-office-365-portal)
     
-- [Centro de administración de Microsoft Office 365](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
+- [Centro de administración de 365 de Microsoft](exchange-online-setup-and-administration.md#microsoft-office-365-admin-center)
     
 - [Centro de administración de Exchange](exchange-online-setup-and-administration.md#exchange-admin-center)
     
@@ -45,10 +45,10 @@ Por lo tanto, Exchange Online ofrece a los administradores de clientes las sigui
 
 El portal de Microsoft Office 365 en [https://portal.office.com](https://portal.office.com) es el sitio web a través del cual los administradores y los socios compran y administran los servicios de Office 365 y donde los usuarios tienen acceso a las herramientas de colaboración de Office 365 y las utilizan.
   
-### <a name="microsoft-office-365-admin-center"></a>Centro de administración de Microsoft Office 365
+### <a name="microsoft-365-admin-center"></a>Centro de administración de 365 de Microsoft
 <a name="BKMK_Office365admincenterl"> </a>
 
-El Centro de administración de Microsoft Office 365 es el portal web desde donde el administrador de servicios de cada empresa puede administrar las cuentas de usuario y la configuración de los servicios de Office 365 a los que se suscriben. Desde el Centro de administración de Office 365, los administradores pueden seguir los vínculos al Centro de administración de Exchange (EAC), donde pueden administrar la configuración específica de Exchange Online. Para obtener más información sobre cómo garantizar un funcionamiento correcto con el Centro de administración de Office 365, vea el vídeo siguiente: [Presentación de Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
+El centro de administración de 365 de Microsoft es el portal web desde el que el administrador de servicios de cada empresa puede administrar la configuración y las cuentas de usuario para cada uno de los servicios de Office 365 a los que se suscriben. Desde el centro de administración de 365 de Microsoft, los administradores pueden seguir los vínculos al centro de administración de Exchange (EAC), donde pueden administrar la configuración específica de Exchange Online. Para obtener más información acerca de cómo empezar a usar el centro de administración de Microsoft 365, consulte el siguiente vídeo: [Introducción a Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
   
 ### <a name="exchange-admin-center"></a>Centro de administración de Exchange
 <a name="BKMK_ExchangeAdministrationCenter"> </a>

@@ -12,24 +12,24 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
-description: Microsoft Exchange Online Protection (EOP) ofrece varias formas de administrar los destinatario, el dominio y la información de la compañía. Como administrador, puede realizar algunas tareas de administración en el centro de administración de Exchange (EAC) y compruebe otras tareas de administración que se realizan en el centro de administración de Microsoft Office 365.
-ms.openlocfilehash: 17a87a85611dc286e3d19eaeefe04466a1ac62d0
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) ofrece varios medios para administrar la información de destinatarios, dominios y compañías. Como administrador, puede realizar ciertas tareas de administración dentro del centro de administración de Exchange (EAC) y comprobar otras tareas de administración realizadas en el centro de administración de Microsoft 365.
+ms.openlocfilehash: fcae2c3ad93b977fb197089e2c8809b74ada7bd7
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037085"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210333"
 ---
 # <a name="recipient-domain-and-company-management"></a>Administración de destinatarios, dominios e información de la compañía
 
-Microsoft Exchange Online Protection (EOP) ofrece varias formas de administrar los destinatario, el dominio y la información de la compañía. Como administrador, puede realizar algunas tareas de administración en el centro de administración de Exchange (EAC) y compruebe otras tareas de administración que se realizan en el centro de administración de Microsoft Office 365.
+Microsoft Exchange Online Protection (EOP) ofrece varios medios para administrar la información de destinatarios, dominios y compañías. Como administrador, puede realizar ciertas tareas de administración dentro del centro de administración de Exchange (EAC) y comprobar otras tareas de administración realizadas en el centro de administración de Microsoft 365.
   
 ¿Busca información sobre todas las características de EOP? Vea [Descripción de servicio Protección en línea de Exchange](exchange-online-protection-service-description.md).
   
 ## <a name="mail-recipients"></a>Destinatarios de correo
 <a name="BKMK_mailrecipients"> </a>
 
-Los destinatarios de correo se clasifican como grupos o usuarios de correo y se pueden administrar mediante la sincronización de directorios, directamente en el EAC o mediante el modo remoto de Windows PowerShell. Si va a administrar los destinatarios localmente, debe ejecutar la sincronización de directorios para que los destinatarios de correo se reflejen en el EAC. Los usuarios administrados exclusivamente en el Centro de administración de Office 365 no están disponibles en el EAC, pero se puede agregar o quitar su pertenencia en un grupo de roles de administrador en el EAC. Para más información sobre los destinatarios en EOP, vea [Administrar destinatarios en EOP](https://go.microsoft.com/fwlink/p/?LinkId=280011).
+Los destinatarios de correo se clasifican como usuarios o grupos de correo y se pueden administrar a través de la sincronización de directorios, directamente en el EAC o a través de Windows PowerShell remoto. Si está administrando a los destinatarios locales, debe ejecutar la sincronización de directorios para que los destinatarios de correo se reflejen en el EAC. Los usuarios administrados únicamente en el centro de administración de Microsoft 365 no se pueden ver en el EAC, pero se pueden agregar o quitar de la pertenencia a un grupo de roles de administrador en el EAC. Para obtener más información sobre los destinatarios en EOP, vea [destinatarios en EOP](https://go.microsoft.com/fwlink/p/?LinkId=280011).
   
 ## <a name="admin-role-group-permissions"></a>Permisos de grupo de roles administrativos
 <a name="BKMK_adminrolegrouppermissions"> </a>
@@ -39,7 +39,7 @@ En EOP, solo puede configurar roles administrativos. Puede agregar y quitar usua
 ## <a name="domain-management"></a>Administración de dominios
 <a name="BKMK_domainmanagement"> </a>
 
-Los dominios administrados son dominios que están protegidos por EOP. En el EAC, se pueden ver los dominios administrados y editar los tipos de dominio. El aprovisionamiento y la administración de dominios se realizan en el Centro de administración de Office 365 y los cambios se reflejan en el EAC. Para obtener más información, vea [Administrar dominios aceptados en EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+Los dominios administrados son dominios protegidos por EOP. Los dominios administrados se pueden ver y los tipos de dominio se pueden editar en el EAC. El aprovisionamiento y la administración de dominios se produce en el centro de administración de Microsoft 365 y los cambios se reflejan en el EAC. Para obtener más información, vea [ver o editar dominios administrados en EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
   
 ## <a name="match-subdomains"></a>Subdominios coincidentes
 <a name="BKMK_EOP_Match_Subdomains"> </a>

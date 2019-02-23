@@ -12,33 +12,33 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
-description: Microsoft Exchange Online ofrece una variedad de características y cerrar el centro de administración de Exchange (EAC) de informes.
-ms.openlocfilehash: b95ab58d2ec09f5e6bae32a3902e92deb75d789f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online ofrece una variedad de características de generación de informes dentro y fuera del centro de administración de Exchange (EAC).
+ms.openlocfilehash: 16bcea7f90115ca3238e502e5b57d756d24025ba
+ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036970"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30210223"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Herramientas de resolución de problemas y características de informes
 
-Microsoft Exchange Online ofrece una variedad de características y cerrar el centro de administración de Exchange (EAC) de informes.
+Microsoft Exchange Online ofrece una variedad de características de generación de informes dentro y fuera del centro de administración de Exchange (EAC).
   
 ## <a name="reporting-features"></a>Características de presentación de informes
 
-Los clientes de Exchange Online pueden acceder a los informes en el Centro de administración de Office 365; para ello, deben descargar un libro de informes de Excel o utilizar los servicios web.
+Los clientes de Exchange online pueden tener acceso a los informes en el centro de administración de Microsoft 365, descargar un libro de informes de Excel o usar los servicios Web.
   
-### <a name="reporting-in-the-office-365-admin-center"></a>Generación de informes en el Centro de administración de Office 365
+### <a name="reporting-in-the-microsoft-365-admin-center"></a>Informes en el centro de administración de 365 de Microsoft
 
-En la página Informes del Centro de administración de Microsoft Office 365, hay informes que brindan información resumida sobre buzones de correo y grupos. Por ejemplo, en un informe se enumeran los grupos creados y eliminados por día, semana, mes o año. También hay informes resumidos sobre buzones nuevos y eliminados, y sobre buzones activos e inactivos. 
+Hay informes en la página informes en el centro de administración de Microsoft 365 que proporcionan información resumida sobre los buzones de correo y los grupos. Por ejemplo, un informe muestra el número de grupos creados y eliminados por día, semana, mes o año. También hay informes de Resumen de los buzones de correo nuevos y eliminados, así como los buzones activos e inactivos. 
   
-Además, la página Informes del Centro de administración de Microsoft Office 365 incluye informes sobre datos de mensajería, los cuales brindan información sobre el tráfico de mensajes, detecciones de correo no deseado y malware, y mensajes afectados por las directivas de las reglas de transporte de Exchange o de prevención de pérdida de datos (DLP). Los informes mejorados para protección, reglas y DLP ofrecen una experiencia interactiva de informes para los administradores de Exchange Online. Estos informes proporcionan datos de resumen y la capacidad de rastrear desagrupando datos en detalles sobre mensajes individuales.
+Además, la página de informes en el centro de administración de Microsoft 365 contiene informes de datos de mensajería, que proporcionan información sobre el tráfico de mensajes, detecciones de correo no deseado y malware, y mensajes afectados por las reglas de transporte de Exchange o la prevención de pérdida de datos (DLP) cies. Los informes mejorados para protección, reglas y DLP ofrecen una experiencia de creación de informes interactiva para los administradores de Exchange Online. Estos informes proporcionan datos de Resumen y la capacidad de profundizar en los detalles sobre los mensajes individuales.
   
-Para obtener más información sobre los tipos de informes que están disponibles con cada suscripción de Office 365, vea [Informes](../office-365-platform-service-description/reports.md). Para obtener más información sobre la página Informes del Centro de administración de Office 365, vea el tema [Ver y descargar informes sobre el uso de los servicios en Office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) y el artículo [Uso de informes de protección de correo en Office 365 para ver datos sobre malware, correo no deseado y detecciones de reglas](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+Para obtener más información acerca de los informes que están disponibles en cada suscripción de [](../office-365-platform-service-description/reports.md)Office 365, consulte Reports. Para obtener información más detallada acerca de la página informes en el centro de administración de Microsoft 365, vea [ver y descargar informes sobre el uso del servicio en office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) y [usar informes de protección de correo en Office 365 para ver datos sobre malware, correo no deseado y detecciones de reglas. ](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Generación de informes mediante el libro de informes de Excel
 
-También puede usar el libro de informes de Excel 2013 para ver informes resumidos con funciones de exploración en profundidad. Pero, en su lugar, le recomendamos que use los informes mejorados del Centro de administración de Office 365. Está previsto que el libro de informes de Excel 2013 quede en desuso en el futuro. Para obtener información general y vínculos para descargar e instalar el libro, vea la siguiente [página de descarga](https://go.microsoft.com/fwlink/p/?LinkId=271776). Para obtener información sobre cómo usar el libro, vea [Informes de protección de correo con el libro de informes de Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
+También puede usar el libro de informes de Excel 2013 para ver informes de resumen con capacidades de desglose. Sin embargo, se recomienda usar en su lugar los informes mejorados del centro de administración de Microsoft 365. Se planea que el libro de informes de Excel 2013 quede en desuso en el futuro. Para obtener más información general y vínculos para descargar e instalar el libro, consulte la siguiente [Página de descarga](https://go.microsoft.com/fwlink/p/?LinkId=271776). Para obtener información sobre cómo usar el libro, vea [informes de protección de correo mediante el libro de informes de Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
   
 ### <a name="reporting-using-web-services"></a>Informes mediante servicios web
 
