@@ -3,7 +3,7 @@ title: Descripción del servicio de Microsoft 365 Empresa
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 02/27/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business es una solución integrada que reúne la mejor productividad en su clase de Office 365 con funciones avanzadas de seguridad y administración de dispositivos para ayudarle a proteger su empresa. . Esta descripción de servicio describe las opciones y características del plan. Para obtener más información acerca de Office 365, consulte las deScripciones de servicio de Office 365.
-ms.openlocfilehash: a85f8c0a5186097e9a8b7d8fb7a9fbf0eb0f917c
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 498334db4672e186d7e02bfcec3a519178e71197
+ms.sourcegitcommit: 7020c5cb68748694d05e23265e23eef2be3bc076
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210303"
+ms.lasthandoff: 02/27/2019
+ms.locfileid: "30312127"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descripción del servicio de Microsoft 365 Empresa
 
@@ -116,7 +116,7 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Características de administración de identidades y acceso** <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility Suite** <br/> |
+|**Características de administración de identidades y acceso** <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E5** <br/> |
 |Office 365 multi-factor Authentication (MFA)  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |
 |Unidades administrativas  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Detección de aplicaciones en la nube  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
