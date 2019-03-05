@@ -1,9 +1,9 @@
 ---
-title: GCC
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 9/26/2017
+title: Office 365 GCC
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: 'Microsoft ofrece los servicios de Office 365 US Government Community (GCC) para cumplir los requisitos únicos y en constante evolución del gobierno federal de los Estados Unidos, así como de los gobiernos estatales, locales y tribales y de los contratistas que mantienen o procesan datos en nombre del gobierno de los Estados Unidos. Está disponible mediante varios canales, como el de licencias por volumen. Las organizaciones que estén interesadas en usarlo pueden participar en un proceso de validación para certificar su idoneidad antes de establecer el entorno. Actualmente, las pruebas solo están disponibles para las entidades del gobierno de los Estados Unidos. '
-ms.openlocfilehash: 75fcb85c4c79506b15e382d5482ab81938f978db
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036941"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379032"
 ---
-# <a name="gcc"></a>GCC
+# <a name="office-365-gcc"></a>Office 365 GCC
 
 Microsoft ofrece los servicios de Office 365 US Government Community (GCC) para cumplir los requisitos únicos y en constante evolución del gobierno federal de los Estados Unidos, así como de los gobiernos estatales, locales y tribales y de los contratistas que mantienen o procesan datos en nombre del gobierno de los Estados Unidos. Está disponible mediante varios canales, como el de licencias por volumen. Las organizaciones que estén interesadas en usarlo pueden participar en un proceso de validación para certificar su idoneidad antes de establecer el entorno. Actualmente, las pruebas solo están disponibles para las entidades del gobierno de los Estados Unidos.  
   
@@ -42,7 +42,7 @@ El personal de Office 365 no tiene acceso permanente al contenido de los cliente
   
 |||
 |:-----|:-----|
-|**Investigación del personal de Microsoft y comprobaciones de antecedentes** <br/> |**Descripción** <br/> |
+|**Comprobaciones de antecedentes y examen del personal de Microsoft** <sup>1</sup> <br/> |**Descripción** <br/> |
 |EE.UU. Ciudadanía  <br/> |Comprobación de la ciudadanía estadounidense  <br/> |
 |Comprobación del historial de empleo  <br/> |Comprobación del historial de empleo (7 años)  <br/> |
 |Comprobación de la formación académica  <br/> |Comprobación del grado más alto obtenido  <br/> |
@@ -53,7 +53,8 @@ El personal de Office 365 no tiene acceso permanente al contenido de los cliente
 |Office of Defense Trade Controls Debarred Persons List (DDTC)  <br/> |Una comprobación que valida la información según la lista de individuos y entidades que no pueden realizar actividades de exportación relacionadas con la industria militar que elabora el Departamento de Estado.  <br/> |
 |Comprobación de las huellas digitales  <br/> |Una comprobación de antecedentes mediante las huellas digitales consultando las bases de datos del FBI.  <br/> |
 |Investigación en segundo plano de los CJIS  <br/> |Comprobación de los antecedentes penales a nivel federal y estatal adjudicada por el estado y que realiza la autoridad de CSA designada en cada estado que se haya registrado en el programa Microsoft CJIS IA.  <br/> |
-   
+
+<sup>1</sup> solo se aplica al personal con acceso temporal o permanente al contenido de cliente hospedado en Office 365 US Government Community Community Cloud (GCC)  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 Administración Pública Community y Yammer
 
 Yammer Enterprise no es un componente de Office 365 Administración Pública, pero puede adquirirse gratuitamente como oferta independiente para cada usuario con licencia para Office 365 Administración Pública, planes E1 y E3. Esta oferta actualmente está limitada a los clientes que compren Office 365 Administración Pública con contrato Enterprise y contratos de suscripción Enterprise. 
@@ -66,4 +67,9 @@ Si decide que el uso de Yammer es adecuado para su organización como parte de s
 
 MyAnalytics está diseñado y funciona según la implementación de controles del programa FedRAMP de los servicios de Office 365, pero aún no ha pasado la revisión de una 3PAO (organización de evaluación de terceros) en el marco de la auditoría del FedRAMP anual de Office 365. Si lo necesita, puede solicitar más información a su oficina de cumplimiento antes de habilitar los servicios de MyAnalytics para los usuarios de su organización. 
   
+## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Asistencia al cliente de Office 365 de la comunidad de administración de Estados Unidos (GCC)
 
+El soporte técnico al cliente de Office 365 GCC se proporciona en los mismos términos y condiciones ofrecidos a [las versiones en todo el mundo de Office 365](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/support 
+), incluida la ubicación física del agente de soporte o las garantías de ciudadanía. Office 365 GCC funciona junto con la nube pública de Azure, que es compatible con los siguientes [términos y condiciones.](https://azure.microsoft.com/en-us/support/plans/)
+
+Microsoft le recuerda que no debe compartir ninguna información controlada, confidencial o confidencial con el personal de soporte técnico como parte de su incidente de soporte técnico de Office 365 GCC, hasta que confirme su autorización para ver o acceder a dichos datos. Microsoft se compromete a [proteger su privacidad.](https://privacy.microsoft.com/en-US/privacystatement ) El soporte técnico al cliente de Office 365 GCC no se incluye en el límite de la acreditación de servicios y no proporciona FedRAMP, SRG, ITAR, IRS 1075 o CJIS garantías de cumplimiento.

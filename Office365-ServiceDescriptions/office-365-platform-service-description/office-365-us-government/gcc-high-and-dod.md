@@ -1,26 +1,26 @@
 ---
-title: GCC alta y DoD
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
-ms.date: 5/23/2018
+title: Office 365 GCC High y DoD
+ms.author: danarl
+author: danarl
+manager: dianap
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: Para satisfacer los requisitos únicos y evoluciona del departamento de defensa de Estados Unidos, así como los contratistas posesión o procesamiento DoD controlados sin clasificar información (CUI) o sujetos a tráfico internacional en las normativas de armas (ITAR), Microsoft ofrece Entornos de GCC alta y DoD. Disponible a través de licencias por volumen, las organizaciones interesadas vaya a través de un proceso de validación para asegurarse de idoneidad antes de establece un entorno. Ensayos no están disponibles en este momento.
-ms.openlocfilehash: 62a5011564856c879a153ec88db965fda5d96002
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+description: 'Para satisfacer los requisitos exclusivos y en constante evolución del Departamento de defensa de los Estados Unidos, así como los contratistas que retienen o procesan la información sin clasificar (CUI) o el tráfico internacional en las regulaciones de brazos (ITAR), Microsoft ofrece GCC: entornos altos y DoD. Disponible a través del otorgamiento de licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Las versiones de prueba no están disponibles en este momento.'
+ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215375"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379042"
 ---
-# <a name="gcc-high-and-dod"></a>GCC alta y DoD
+# <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High y DoD
 
-Para satisfacer los requisitos únicos y evoluciona del departamento de defensa de Estados Unidos, así como los contratistas posesión o procesamiento DoD controlados sin clasificar información (CUI) o sujetos a tráfico internacional en las normativas de armas (ITAR), Microsoft ofrece Entornos de GCC alta y DoD. Disponible a través de licencias por volumen, las organizaciones interesadas vaya a través de un proceso de validación para asegurarse de idoneidad antes de establece un entorno. Ensayos no están disponibles en este momento. 
+Para satisfacer los requisitos exclusivos y en constante evolución del Departamento de defensa de los Estados Unidos, así como los contratistas que retienen o procesan la información sin clasificar (CUI) o el tráfico internacional en las regulaciones de brazos (ITAR), Microsoft ofrece GCC: entornos altos y DoD. Disponible a través del otorgamiento de licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Las versiones de prueba no están disponibles en este momento. 
   
 Póngase en contacto con su equipo de la cuenta o con su partner de confianza para obtener más información o iniciar el proceso de validación.
   
@@ -30,21 +30,21 @@ La descripción del servicio Office 365 Administración Pública está diseñada
   
 ## <a name="compliance"></a>Cumplimiento
 
-GCC alta y DoD cumplen los requisitos de cumplimiento para las siguientes certificaciones y acreditaciones: 
+GCC High y DoD cumplen los requisitos de cumplimiento para las siguientes certificaciones y acreditaciones: 
   
 - Federal Risk and Authorization Management Program en una línea base moderada (FedRAMP moderado), incluidos esos controles de seguridad y mejoras de los controles como se indica en la publicación especial 800-53 del Instituto Nacional de Normas y Tecnología (NIST).
     
 - Controles de seguridad y mejoras de los controles para la Guía de requisitos de seguridad (SRG) sobre informática en la nube del Departamento de Defensa de Estados Unidos para la información hasta el nivel de impacto 5 (L5).
     
-Los suscriptores de departamento de defensa a Office 365 recibirán servicios proporcionados desde el entorno exclusivo de DOD que cumpla DOD SRG L5. Departamento de que no son de suscriptores de defensa recibirán servicios desde el entorno de defensa del gobierno nos que se evalúa en L5, pero se usa la segmentación de L4.
+Los suscriptores de Departamento de defensa de Office 365 recibirán los servicios proporcionados desde el entorno exclusivo de DOD que cumpla con DOD SRG L5. Los suscriptores que no son de Departamento de defensa recibirán los servicios del entorno estadounidense Government Defense, que se evalúa en el L5, pero usa la segmentación L4.
   
-## <a name="background-screening"></a>Filtrado de fondo
+## <a name="background-screening"></a>Detección en segundo plano
 
-Personal de Office 365 no tienen acceso permanente a la producción de GCC alta y DoD. El personal que lo soliciten la elevación de permisos temporal que se les concede acceso al contenido del cliente en primer lugar debe ha pasado las siguientes comprobaciones de fondo.
+El personal de Office 365 no tiene acceso permanente a la producción de GCC alta y DoD. Cualquier personal que solicite la elevación de permisos temporales que concedería el acceso al contenido del cliente debe haber aprobado primero las siguientes comprobaciones de antecedentes.
   
 |||
 |:-----|:-----|
-|**Investigación del personal de Microsoft y comprobaciones de antecedentes** <br/> |**Descripción** <br/> |
+|**Comprobaciones de antecedentes y examen del personal de Microsoft** <sup>1</sup> <br/> |**Descripción** <br/> |
 |EE.UU. Ciudadanía  <br/> |Comprobación de la ciudadanía estadounidense  <br/> |
 |Comprobación del historial de empleo  <br/> |Comprobación del historial de empleo (7 años)  <br/> |
 |Comprobación de la formación académica  <br/> |Comprobación del grado más alto obtenido  <br/> |
@@ -55,48 +55,49 @@ Personal de Office 365 no tienen acceso permanente a la producción de GCC alta 
 |Office of Defense Trade Controls Debarred Persons List (DDTC)  <br/> |Una comprobación que valida la información según la lista de individuos y entidades que no pueden realizar actividades de exportación relacionadas con la industria militar que elabora el Departamento de Estado.  <br/> |
 |Comprobación de las huellas digitales  <br/> |Una comprobación de antecedentes mediante las huellas digitales consultando las bases de datos del FBI.  <br/> |
 |Departamento de Defensa IT-2  <br/> |El personal que solicite permisos elevados para los datos de los clientes o un acceso administrativo privilegiado a las funciones del servicio SRG L5 del Departamento de Defensa debe pasar la adjudicación IT-2 del Departamento de Defensa en función de una investigación correcta de OPM Nivel 3  <br/> |
-   
-## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>Matices basados en la arquitectura de nube compatible con la característica
 
-Las suscripciones de Office 365 en los entornos de GCC alta y DoD incluyen el núcleo de Exchange Online, SharePoint Online y Skype para las características de negocio. Dado el aumento de certificación y acreditación de la infraestructura, existen algunas diferencias de características entre las ofertas de Office 365 comerciales generales y los que están disponibles en GCC alta y DoD.
+<sup>1</sup> solo se aplica al personal con acceso temporal o permanente al contenido de cliente hospedado en Office 365 US GCC-nubes altas o DoD
+## <a name="feature-nuances-based-on-compliant-cloud-architecture"></a>Características de matices basadas en la arquitectura de nube compatible
+
+Las suscripciones de Office 365 en los entornos altos y DoD de GCC incluyen las características principales de Exchange Online, SharePoint Online y Skype empresarial. Dada la mayor certificación y acreditación de la infraestructura, existen algunas diferencias de características entre las ofertas de Office Commercial Office 365 y las que están disponibles en GCC High y DoD.
   
 ### <a name="exchange-online"></a>Exchange Online
 
- **Exchange Unified Messaging soporte técnico en línea para local IP-PBX** - soporte técnico para la integración de sistemas de IP-PBX local con Online mensajería unificada de Exchange no se admite en GCC alta y suscripciones de DoD. 
+ La **compatibilidad de mensajería unificada de Exchange Online con IP-PBX local** es compatible con la integración de sistemas de IP-PBX local con mensajería unificaDa de Exchange online no se admite en las suscripciones alta y DoD de GCC. 
   
 ### <a name="sharepoint-online"></a>SharePoint Online
 
- El **uso compartido de documentos** - SharePoint Online y OneDrive para la empresa Habilitar uso compartido de información sin problemas y la colaboración entre los usuarios y equipos. Los propietarios de documentos pueden proporcionar otros usuarios con acceso a sus documentos a través de la interfaz web o modernos datos adjuntos en Outlook. Al compartir un documento, hay varias opciones para la administración de permisos: 
+ **Uso compartido de documentos** : SharePoint Online y OneDrive para la empresa permiten compartir información y colaborar de forma sencilla entre usuarios y equipos. Los propietarios de los documentos pueden proporcionar a otros usuarios acceso a sus documentos a través de la interfaz web o los datos adjuntos modernos de Outlook. Al compartir un documento, hay varias opciones para administrar permisos: 
   
-1. Sólo yo
+1. Solo yo
     
 2. Cualquier persona dentro de mi compañía
     
-3. Cualquier usuario con este vínculo
+3. Cualquier persona con este vínculo
     
 4. Personas específicas
     
-Los clientes que usen SharePoint Online y OneDrive para la empresa en los entornos de GCC alta o DoD puede mantener documentos privados (opción primero), compartir con cualquier persona de su organización (segunda opción), compartir con cualquier persona que tiene el vínculo al documento (tercera opción), y compartir con personas específicas dentro de entornos de GCC alta y DoD (opción cuarto); por supuesto, estas opciones se pueden restringidas según así como los controles de acceso de nivel de inquilino.
+Los clientes que usan SharePoint Online y OneDrive para la empresa en los entornos de GCC High o DoD pueden mantener los documentos privados (primera opción), compartir con cualquier persona de su organización (segunda opción), compartir con cualquier persona que tenga el vínculo al documento (tercera opción) y compartir con personas específicas sólo en los entornos de GCC altos y DoD (cuarta opción); por supuesto, estas opciones se pueden restringir basándose también en controles de acceso a nivel de inquilino.
   
-Los inquilinos GCC alta sólo pueden compartir con otros inquilinos GCC alta. Por ejemplo:
+Los inquilinos altos de GCC solo se pueden compartir con otros inquilinos de GCC High. Por ejemplo:
   
-- GCC alta inquilino A puede compartir con alta GCC inquilino B.
+- GCC High tenant A puede compartirse con GCC High tenant B.
     
-- Inquilino no GCC C puede compartir con GCC alta A inquilino o B.
+- El inquilino C que no es GCC puede compartirse con GCC High tenant A o B.
     
-- GCC alta inquilino A o B no se puede compartir con los inquilinos no GCC alta C.
+- El espacio empresarial de GCC A o B no puede compartirse con un espacio empresarial de alto nivel de GCC C.
     
-Además, direcciones de correo electrónico que no sean - GCC alta vinculadas a perfiles de usuario no se admiten y no permitirá que los correos electrónicos de alerta que se envíen. Por ejemplo, local el usuario A se asigna una dirección de correo electrónico de Gmail y sincronizado, a continuación, en el inquilino de Azure GCC alta. Un usuario se desplaza a una biblioteca de y crea una alerta para los cambios. La alerta no se enviarán a la dirección de Gmail.
+Además, no se admiten las direcciones de correo electrónico de alta disponibilidad que no sean de GCC adjuntas a perfiles de usuario y no permitirá el envío de mensajes de alerta. Por ejemplo, en el caso del usuario A local se le asigna una dirección de correo de gmail y, a continuación, se sincroniza con Azure GCC High tenant. El usuario A visita una biblioteca y crea una alerta para los cambios. La alerta no se enviará a la dirección de gmail.
   
- **Acceso a las aplicaciones externas** : conexiones a las aplicaciones externas como orígenes de datos para los complementos están limitados a los orígenes que se encuentran dentro de los límites de seguridad del sistema compatibles con GCC alta y DoD. 
+ **Acceso a aplicaciones externas** : las conexiones a aplicaciones externas como orígenes de datos para complementos están limitadas a los orígenes que se encuentran dentro de los límites de seguridad del sistema admitidos por GCC High y DoD. 
   
- **Servicios de conectividad empresarial** - BCS funcionalidad se admite para escenarios de conectividad en las que los orígenes de datos sean accesibles dentro del límite de seguridad para el servicio de nube. 
+ **Servicios de conectividad empresarial** : la funcionalidad BCS se admite en escenarios de conectividad en los que los orígenes de datos permanecen accesibles dentro del límite de seguridad del servicio de nube. 
   
- **Soluciones de espacio aislado** - esta característica ha quedado obsoleto y no está disponible. Las soluciones de espacio aislado se deben migrar al [modelo de extensibilidad de complemento de SharePoint ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
+ **Soluciones de espacio aislado** : esta característica está en desuso y no está disponible. Las soluciones de espacio aislado deben migrarse al [modelo de extensibilidad de complementos de SharePoint ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
   
 ### <a name="skype-for-business-online"></a>Skype Empresarial Online
 
- **Llamar a RTC &amp; conferencia RTC** - debido a la necesidad de usar el pública red de telefónica conmutada (RTC) para los servicios orientados a la telefonía, llamar a RTC &amp; servicios de conferencia de RTC actualmente no están disponibles en GCC alta y DoD. 
+ **Conferencias RTC &amp; de llamadas RTC** : debido a la necesidad de usar la red telefónica conmutada (RTC) para los servicios orientados a la &amp; telefonía, los servicios de conferencia RTC de llamadas RTC no están disponibles actualmente en gcc High y DoD. 
   
 ### <a name="identity"></a>Identidad
 
@@ -104,6 +105,6 @@ Multi-Factor Authentication con un modelo de identidad federado permite el uso d
   
 ### <a name="yammer"></a>Yammer
 
-Yammer que Enterprise no está disponible en los entornos de GCC alta y DoD.
+Yammer Enterprise no está disponible en los entornos de GCC alto y DoD.
   
 

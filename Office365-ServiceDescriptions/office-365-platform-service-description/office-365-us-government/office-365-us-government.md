@@ -3,7 +3,7 @@ title: Office 365 Administración Pública
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 1/9/2019
+ms.date: 3/4/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado los planes de Office 365 US Government (orOffice 365 US Government). En esta sección se proporciona una introducción a las características específicas de Office 365 US Government. Se recomienda leer esta sección complementaria junto con las deScripciones de servicio de Office 365.
-ms.openlocfilehash: 34f0ce3259ec3a1a1c4c1111e69026e622861ad8
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 271cc53cdf87553d60c14c793a72509e014cc739
+ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210443"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30379062"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -89,25 +89,8 @@ Office 365 proporciona la capacidad de integrar aplicaciones de terceros en siti
 ## <a name="restricted-data-access-by-administrators"></a>Acceso a datos restringido por los administradores
 <a name="BM5-Restricted"> </a>
 
-El acceso al contenido del cliente de Office 365 Administración Pública por parte de los administradores de Microsoft está restringido al personal ciudadano de los Estados Unidos. Estas personas se someten a una investigación de antecedentes, de conformidad con los estándares gubernamentales pertinentes.
-  
-||||
-|:-----|:-----|:-----|
-|**Investigación de antecedentes** <br/> |**GCC** <br/> |**GCC High y DoD** <br/> |
-|Comprobación de la ciudadanía estadounidense  <br/> |Sí  <br/> |Sí  <br/> |
-|Comprobación del historial de empleo  <br/> |Sí  <br/> |Sí  <br/> |
-|Comprobación de la formación académica  <br/> |Sí  <br/> |Sí  <br/> |
-|Búsqueda del número de la seguridad social (SSN)  <br/> |Sí  <br/> |Sí  <br/> |
-|Comprobación de los antecedentes penales (7 años)  <br/> |Sí  <br/> |Sí  <br/> |
-|Office of Foreign Assets Control List (OFAC)  <br/> |Sí  <br/> |Sí  <br/> |
-|Bureau of industry and security List (BIS)  <br/> |Sí  <br/> |Sí  <br/> |
-|Comprobación basada en las huellas digitales en las bases de datos de antecedentes penales del FBI  <br/> |Sí  <br/> |Sí  <br/> |
-|Comprobación de fondo penal de estado local CJIS  <br/> |Sí<sup>1</sup>   <br/> |No  <br/> |
-|DOD IT-2 basado en la investigación de nivel 3 de OPM  <br/> |No  <br/> |Solo para inquilinos de DOD SRG L5  <br/> |
+Acceso a Office 365 US Government el contenido del cliente por parte de los administradores de Microsoft está restringido al personal de la pantalla. Para obtener más información sobre los niveles de filtrado, consulte la página de Descripción del servicio para cada entorno respectivo (GCC o GCC High y DoD). 
 
-<sup>1</sup> para los Estados inscritos en el programa de CJIS de la nube msft govt
-   
-[Cómo utilizar esta sección de descripción del servicio](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="fasttrack-center-onboarding-assistance"></a>Asistencia para la incorporación del centro de FastTrack
 <a name="BM5-Restricted"> </a>
@@ -136,11 +119,11 @@ Los clientes que elijan la ventaja de migración de [FastTrack](https://fasttrac
 ||||
 |:-----|:-----|:-----|
 |**Investigación de antecedentes** <br/> |**GCC** <br/> |**GCC High y DoD** <br/> |
-|Comprobación de la ciudadanía estadounidense  <br/> |Sí  <br/> |Sí  <br/> |
-|Comprobación del historial de empleo  <br/> |Sí  <br/> |Sí  <br/> |
-|Comprobación de la formación académica  <br/> |Sí  <br/> |Sí  <br/> |
+|Comprobación de la ciudadanía estadounidense  <br/> |Sí  <br/> |Sí   <br/> |
+|Comprobación del historial de empleo  <br/> |Sí  <br/> |Sí   <br/> |
+|Comprobación de la formación académica  <br/> |Sí  <br/> |Sí   <br/> |
 |Búsqueda en el número de la seguridad social (SSN)  <br/> |Sí  <br/> |Sí  <br/> |
-|Comprobación de los antecedentes penales (7 años)  <br/> |Sí  <br/> |Sí  <br/> |
+|Comprobación de los antecedentes penales (7 años)  <br/> |Sí  <br/> |Sí   <br/> |
    
 [Cómo utilizar esta sección de descripción del servicio](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -179,9 +162,9 @@ Cada plan de Office 365 incluye varios servicios individuales, como Exchange Onl
 |Office 365 ProPlus  <br/> |No <br/> |Sí <br/> |Sí <br/> |No  <br/> |
 |Exchange Online  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
 |Protección de Exchange Online  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
-|SharePoint Online  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
-|OneDrive para la Empresa  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
-|Skype empresarial (presencia de mensajería &amp; instantánea)  <br/> |Sí<sup>1</sup> <br/> |Sí  <br/> |Sí   <br/> |Sí<sup>1</sup> <br/> |
+|SharePoint Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|OneDrive para la Empresa  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Skype empresarial (presencia de mensajería &amp; instantánea)  <br/> |Sí<sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>1</sup> <br/> |
 | Sistema de telefonía por voz, audioconferencia  <br/> |No<sup>2, 3</sup> <br/> |No<sup>2, 3</sup> <br/> |Sí <sup>3, 5</sup> <br/> |No  <br/> |
 |Power BI Pro  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |No<sup>2</sup> <br/> |
 |Project Online  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |
@@ -200,8 +183,8 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |**Característica** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 US Government, F1** <br/> |
 |**Administración de Office 365** <br/> |||||
 |Administración de Office 365 mediante el centro de administración de Microsoft 365  <br/> |Sí<sup>16</sup> <br/> |Sí<sup>16</sup> <br/> |Sí  <br/> |Sí<sup>16</sup> <br/> |
-|Administrar la configuración principal del servicio desde Office 365  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí  <br/> |
-|Uso de Windows PowerShell para administrar Office 365  <br/> |Sí  <br/> |Sí   <br/> |Sí   <br/> |Sí   <br/> |
+|Administrar la configuración principal del servicio desde Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Uso de Windows PowerShell para administrar Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Proteger el contenido con Azure Information Protection  <br/> |No<sup>1</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup>  <br/> |No<sup>1</sup> <br/> |
 |**[Características del conjunto de aplicaciones de Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 US Government, F1** <br/> |
 |Reservas de Microsoft  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -339,7 +322,7 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 |[Microsoft Outlook](../../office-applications-service-description/office-applications.md#microsoft-outlook) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Microsoft Publisher](../../office-applications-service-description/office-applications.md#microsoft-publisher) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|[Skype Empresarial](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |Sí   <br/> |Sí<sup>3</sup> <br/> |
+|[Skype Empresarial](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>3</sup> <br/> |
 |[Office para Mac para Office 365](https://support.office.com/en-us/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Office Mobile para iPhone o iPad](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
 |[Office Mobile para Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
