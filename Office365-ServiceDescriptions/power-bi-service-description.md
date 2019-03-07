@@ -1,7 +1,7 @@
 ---
 title: Descripción del servicio de Power BI
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,27 +13,27 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI es un conjunto de herramientas de análisis de negocio basados en nube que permite que cualquiera pueda conectarse, visualizar y analizar los datos con mayor rapidez, eficiencia y descripción. Se conecta a los usuarios a una amplia gama de datos activos a través de paneles de fácil de usar, proporciona informes interactivos y visualizaciones atractivas que aportan los datos para la vida de entrega.
-ms.openlocfilehash: 023685efebad6dd56975af85ffa9c8e9fd071e30
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 0288fc982e8662d52d9c05e7a71a2976dee8be31
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036934"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466457"
 ---
-# <a name="power-bi-service-description"></a><span data-ttu-id="bd468-104">Descripción del servicio de Power BI</span><span class="sxs-lookup"><span data-stu-id="bd468-104">Power BI Service Description</span></span>
+# <a name="power-bi-service-description"></a><span data-ttu-id="54705-104">Descripción del servicio de Power BI</span><span class="sxs-lookup"><span data-stu-id="54705-104">Power BI Service Description</span></span>
 
-<span data-ttu-id="bd468-p102">Power BI es un conjunto de herramientas de análisis de negocio basados en nube que permite que cualquiera pueda conectarse, visualizar y analizar los datos con mayor rapidez, eficiencia y descripción. Se conecta a los usuarios a una amplia gama de datos activos a través de paneles de fácil de usar, proporciona informes interactivos y visualizaciones atractivas que aportan los datos para la vida de entrega.</span><span class="sxs-lookup"><span data-stu-id="bd468-p102">Power BI is a cloud-based suite of business analytics tools that enables anyone to connect to, visualize, and analyze data with greater speed, efficiency, and understanding. It connects users to a broad range of live data through easy-to-use dashboards, provides interactive reports, and delivers compelling visualizations that bring data to life.</span></span>
+<span data-ttu-id="54705-p102">Power BI es un conjunto de herramientas de análisis de negocio basados en nube que permite que cualquiera pueda conectarse, visualizar y analizar los datos con mayor rapidez, eficiencia y descripción. Se conecta a los usuarios a una amplia gama de datos activos a través de paneles de fácil de usar, proporciona informes interactivos y visualizaciones atractivas que aportan los datos para la vida de entrega.</span><span class="sxs-lookup"><span data-stu-id="54705-p102">Power BI is a cloud-based suite of business analytics tools that enables anyone to connect to, visualize, and analyze data with greater speed, efficiency, and understanding. It connects users to a broad range of live data through easy-to-use dashboards, provides interactive reports, and delivers compelling visualizations that bring data to life.</span></span>
   
-<span data-ttu-id="bd468-p103">Power BI está disponible actualmente como parte de la versión de Office 365 Enterprise E5. Para obtener más información, visite [Power BI](https://powerbi.microsoft.com/).</span><span class="sxs-lookup"><span data-stu-id="bd468-p103">Power BI is currently available as part of the Office 365 Enterprise E5 version. To learn more, visit [Power BI](https://powerbi.microsoft.com/).</span></span>
+<span data-ttu-id="54705-p103">Power BI está disponible actualmente como parte de la versión de Office 365 Enterprise E5. Para obtener más información, visite [Power BI](https://powerbi.microsoft.com/).</span><span class="sxs-lookup"><span data-stu-id="54705-p103">Power BI is currently available as part of the Office 365 Enterprise E5 version. To learn more, visit [Power BI](https://powerbi.microsoft.com/).</span></span>
   
-<span data-ttu-id="bd468-109">Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="bd468-109">To compare features across plans, see [Compare Office 365 for Business plans](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).</span></span>
+<span data-ttu-id="54705-109">Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="54705-109">To compare features across plans, see [Compare Office 365 for Business plans](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).</span></span>
   
-## <a name="power-bi-plans"></a><span data-ttu-id="bd468-110">Planes de Power BI</span><span class="sxs-lookup"><span data-stu-id="bd468-110">Power BI plans</span></span>
-<span data-ttu-id="bd468-111"><a name="BKMK_PowerBIPlans"> </a></span><span class="sxs-lookup"><span data-stu-id="bd468-111"></span></span>
+## <a name="power-bi-plans"></a><span data-ttu-id="54705-110">Planes de Power BI</span><span class="sxs-lookup"><span data-stu-id="54705-110">Power BI plans</span></span>
+<span data-ttu-id="54705-111"><a name="BKMK_PowerBIPlans"> </a></span><span class="sxs-lookup"><span data-stu-id="54705-111"></span></span>
 
-<span data-ttu-id="bd468-112">Puede registrarse en unos de los [planes de Power BI](https://go.microsoft.com/fwlink/?LinkID=786854) que mejor se adapte a sus necesidades.</span><span class="sxs-lookup"><span data-stu-id="bd468-112">You can sign up for one of the available [Power BI plans](https://go.microsoft.com/fwlink/?LinkID=786854) that best suits your needs.</span></span> 
+<span data-ttu-id="54705-112">Puede registrarse en unos de los [planes de Power BI](https://go.microsoft.com/fwlink/?LinkID=786854) que mejor se adapte a sus necesidades.</span><span class="sxs-lookup"><span data-stu-id="54705-112">You can sign up for one of the available [Power BI plans](https://go.microsoft.com/fwlink/?LinkID=786854) that best suits your needs.</span></span> 
   
 > [!NOTE]
-> <span data-ttu-id="bd468-p104">Power BI y Power BI para Office 365 son diferentes productos. Power BI para Office 365 es un servicio de la versión 1 y está desusado.</span><span class="sxs-lookup"><span data-stu-id="bd468-p104">Power BI and Power BI for Office 365 are different products. Power BI for Office 365 is a version 1 service and has been deprecated.</span></span> 
+> <span data-ttu-id="54705-p104">Power BI y Power BI para Office 365 son diferentes productos. Power BI para Office 365 es un servicio de la versión 1 y está desusado.</span><span class="sxs-lookup"><span data-stu-id="54705-p104">Power BI and Power BI for Office 365 are different products. Power BI for Office 365 is a version 1 service and has been deprecated.</span></span> 
   
 
