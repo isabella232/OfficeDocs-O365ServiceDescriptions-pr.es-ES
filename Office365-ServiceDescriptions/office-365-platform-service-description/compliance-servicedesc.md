@@ -1,7 +1,7 @@
 ---
 title: Cumplimiento [ServiceDesc]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,13 +14,13 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
-description: Microsoft Office 365 cumple con las reglamentaciones y los estándares del sector y está diseñada para ayudarle a satisfacer los requisitos legales de su negocio. Para obtener más información, vea las ofertas de cumplimiento de normas.
-ms.openlocfilehash: 5c88a6b52988893b60a46775a0043d7bd2b7a2ab
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Office 365 cumple con los estándares y regulaciones de la industria y está diseñado para ayudarle a cumplir los requisitos normativos de su empresa. Para obtener más información, vea ofertas de cumplimiento.
+ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036951"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466887"
 ---
 # <a name="complianceservicedesc"></a>Cumplimiento [ServiceDesc]
 
@@ -30,25 +30,25 @@ ms.locfileid: "24036951"
 > [!NOTE]
 > La disponibilidad de las características para los asociados varía según la región. 
   
-Microsoft Office 365 cumple con las reglamentaciones y los estándares del sector y está diseñada para ayudarle a satisfacer los requisitos legales de su negocio. Para obtener más información, vea [Las ofertas de cumplimiento de normas](https://go.microsoft.com/fwlink/?linkid=864391).
+Microsoft Office 365 cumple con los estándares y regulaciones de la industria y está diseñado para ayudarle a cumplir los requisitos normativos de su empresa. Para obtener más información, vea [ofertas de cumplimiento](https://go.microsoft.com/fwlink/?linkid=864391).
   
 ## <a name="industry-certifications"></a>Certificaciones de la industria
 
-Para ayudar a las organizaciones a cumplir con los requisitos específicos de la industria, regionales y nacionales que rigen la recopilación y uso de datos de personas, cumple con Office 365 o puede ayudar a su organización a cumplir con el conjunto más completo de gobierno o los requisitos de terceros, certificaciones y certificados de cualquier proveedor de servicios de nube:
+Para ayudar a las organizaciones a cumplir con los requisitos nacionales, regionales y de la industria que rigen la recopilación y el uso de datos de personas, Office 365 cumple o puede ayudar a su organización a cumplir el conjunto más completo de gobierno o requisitos de terceros, certificaciones y atestaciones de cualquier proveedor de servicios en la nube:
   
 - Argentina PDPA
     
-- CSA MCC
+- CSA-CCM
     
-- Marca de CS (oro)
+- Marca CS (oro)
     
-- DISA
+- TOTALIDAD
     
-- IAF ENISA
+- ENISA IAF
     
 - Cláusulas del modelo de UE
     
-- FDA 21 CFR Parte 11
+- FDA 21 CFR parte 11
     
 - FedRAMP
     
@@ -60,9 +60,9 @@ Para ayudar a las organizaciones a cumplir con los requisitos específicos de la
     
 - FISMA
     
-- GxP
+- Normas
     
-- HIPAA/HITECH
+- HIPAA/ALTA TECNOLOGÍA
     
 - CCSL (IRAP)
     
@@ -70,45 +70,45 @@ Para ayudar a las organizaciones a cumplir con los requisitos específicos de la
     
 - ISO/IEC 27018
     
-- Japón mi número Act
+- Mi número Act de Japón
     
 - MTCS
     
 - NZ CC Framework
     
-- Sección 508 / VPATs
+- Sección 508/VPATs
     
 - EVALUACIONES COMPARTIDAS
     
-- SEGURIDAD SOCIAL 1
+- SOC 1
     
-- SEGURIDAD SOCIAL 2
+- SOC 2
     
 - ENS España
     
-- Nube Reino Unido G
+- G-nube en Reino Unido
     
 - PCI DSS Nivel Uno
     
-Puede encontrar más información sobre la compatibilidad con Office 365 e informes de auditoría en el Portal de servicio de confianza.
+Puede encontrar más información sobre los informes de auditoría y cumplimiento de Office 365 en el portal de confianza de servicios.
   
-Además, tenga en cuenta las siguientes preguntas para PCI DSS:
+Además, tenga en cuenta las siguientes preguntas para PCI-DSS:
   
 - **¿Puede mi organización usar Office 365 y seguir siendo compatible con PCI-DSS?**
     
-  - El pago tarjeta Industry Data Security Standard (PCI-DSS) es un global estándar de seguridad de información diseñado para evitar que loterías a través de un mayor control de los datos de la tarjeta de crédito. PCI DSS se ha escrito por el Consejo de estándares de seguridad de PCI para crear un conjunto de estándares de seguridad para cualquier organización controlar las tarjetas de debe y haber.
+  - El estándar de seguridad de datos de la industria de las tarjetas de pago (PCI-DSS) es un estándar de seguridad de la información global diseñado para evitar el fraude mediante un mayor control de los datos de las tarjetas de crédito. PCI-DSS fue escrito por el Consejo de normas de seguridad PCI para crear un conjunto de estándares de seguridad para cualquier organización que administra tarjetas de crédito y débito.
     
-  - Los clientes pueden usar tarjetas de crédito a orden y de pago para los servicios de Office 365 con confianza debido a que el sistema de comercio a través del cual los clientes pueden comprar suscripciones a Office 365 ha logrado el cumplimiento de PCI DSS nivel 1. Un auditor de otro fabricante independiente determina que plataforma de comercio en línea de Microsoft (OCP) satisfactoriamente cumple con la versión 1.2 de PCI DSS. Como se explicó anteriormente, las organizaciones pueden usar los servicios de Office 365 para ayudarles a cumplir con los requerimientos de PCI DSS.
+  - Los clientes pueden usar tarjetas de crédito para ordenar y pagar los servicios de Office 365 con confianza porque el sistema de comercio a través del cual los clientes pueden comprar suscripciones a Office 365 ha alcanzado el cumplimiento del nivel 1 de PCI-DSS. Un auditor independiente de terceros determina que la plataforma de comercio en línea (OCP) de Microsoft cumple satisfactoriamente la versión 1,2 de PCI-DSS. Como se explica a continuación, las organizaciones pueden usar los servicios de Office 365 para cumplir con los requisitos de PCI-DSS.
     
-- **¿Cómo Office 365 puede ayudar a mi organización con PCI DSS?**
+- **¿Cómo puede Office 365 ayudar a mi organización con PCI-DSS?**
     
-  - Office 365 proporciona una plataforma segura para los clientes para comunicarse y colaborar. Microsoft funciona el servicio de forma segura y proporciona con un amplio conjunto de características de cumplimiento y seguridad que puede utilizar para proteger los datos a lo largo de su ciclo de vida. Con características como la [Prevención de pérdida de datos (DLP)](https://go.microsoft.com/fwlink/?linkid=868520), el [Gobierno avanzada de datos](https://go.microsoft.com/fwlink/?linkid=863925), la [Protección de información de Azure (AIP)](https://go.microsoft.com/fwlink/?linkid=868521), puede activar las directivas para detectar automáticamente y etiquetar contenido confidencial cuando datos como números de tarjeta de crédito, SWIFT códigos, ABA enrutamiento de números, etc. está presente. Puede encontrar una lista de tipos de nuestra información confidencial integradas [aquí](https://go.microsoft.com/fwlink/?linkid=868522)y que también puede seguir a la instrucción [aquí](https://go.microsoft.com/fwlink/?linkid=868523) para crear sus propios tipos de información confidencial. Con las directivas apropiadas aplicadas por el cliente, las organizaciones pueden conservar los datos para un determinado período de tiempo y proteger su contenido al impedir que los usuarios compartir datos confidenciales automáticamente. Si los clientes necesitan compartir datos confidenciales a través de correo electrónico con cualquier usuario dentro o fuera de la organización, los clientes pueden aplicar la protección de derechos y cifrado con [Cifrado de mensajes de Office 365](https://go.microsoft.com/fwlink/?linkid=858986) para que sólo las partes autorizadas pueden leer el mensaje protegido. 
+  - Office 365 proporciona una plataforma segura para que los clientes se comuniquen y colaboren. Microsoft opera el servicio de forma segura y le proporciona un amplio conjunto de características de cumplimiento y seguridad que puede usar para proteger sus datos durante su ciclo de vida. Con características como [prevención de pérdida de datos (DLP)](https://go.microsoft.com/fwlink/?linkid=868520), [gobierno de datos avanzado](https://go.microsoft.com/fwlink/?linkid=863925), [Azure Information Protection (AIP)](https://go.microsoft.com/fwlink/?linkid=868521), puede activar directivas para detectar y etiquetar automáticamente contenido confidencial cuando datos como números de tarjetas de crédito, SWIFT están presentes los códigos, los números de enrutamiento ABA, etc. Puede encontrar una lista de nuestros tipos de información confidencial integrada [aquí](https://go.microsoft.com/fwlink/?linkid=868522)y también puede seguir las instrucciones [aquí](https://go.microsoft.com/fwlink/?linkid=868523) para crear sus propios tipos de información confidencial. Con las directivas adecuadas aplicadas por el cliente, las organizaciones pueden retener los datos automáticamente durante un período de tiempo determinado y proteger su contenido evitando que los usuarios compartan datos confidenciales. Si los clientes necesitan compartir datos confidenciales por correo electrónico con cualquier persona dentro o fuera de la organización, los clientes pueden aplicar el cifrado y la protección de derechos con el cifrado de [mensajes de Office 365](https://go.microsoft.com/fwlink/?linkid=858986) de modo que solo las partes autorizadas puedan leer el mensaje protegido. 
     
 - **Gramm-Leach-Bliley Act (GLB)** La GLB estable requisitos mínimos de seguridad y privacidad para instituciones financieras en los Estados Unidos. El software ni los servicios no pueden declarar que "cumplen con GLB", debido a que el cumplimiento con GLB requiere procedimientos y directivas. Dos de las principales reglamentaciones de GLB que afectan los servicios de Office 365 son: 
     
   - **Regla de privacidad financiera** Esta regla rige la recopilación y divulgación de la información financiera personal de los clientes mediante instituciones financieras. 
     
-  - **Regla de medidas de seguridad** Esta regla requiere todas las entidades financieras para diseñar, implementar y mantener las medidas de seguridad para proteger la información de cliente, si éstas recopilan dicha información a sí mismos o reciben desde otras entidades financieras 
+  - **Regla** de salvaguardias Esta regla requiere que todas las instituciones financieras diseñen, implementen y mantengan salvaguardas para proteger la información de los clientes, independientemente de si recopilan dicha información por sí mismos o la reciben de otras instituciones financieras. 
     
 ## <a name="feature-availability"></a>Disponibilidad de características
 

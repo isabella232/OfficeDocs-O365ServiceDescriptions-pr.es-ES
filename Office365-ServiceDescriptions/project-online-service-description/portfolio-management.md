@@ -1,7 +1,7 @@
 ---
 title: Administración de carteras
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
-description: Las siguientes características de administración de cartera de proyectos están disponibles en Project Online.
-ms.openlocfilehash: c279338ee9ee2c6911e308cb3da65f4aa9f360c6
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Las siguientes características de administración de cartera están disponibles en Project online.
+ms.openlocfilehash: d6d2993906bdb05ba248108110f0cc44030926d2
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037025"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466627"
 ---
 # <a name="portfolio-management"></a>Administración de carteras
 
-Las siguientes características de administración de cartera de proyectos están disponibles en Project Online.
+Las siguientes características de administración de cartera están disponibles en Project online.
   
 ¿Está buscando información sobre todas las características de Project Online? Vea [Descripción del servicio Project Online](project-online-service-description.md).
   
@@ -54,7 +54,7 @@ Los flujos de trabajo ofrecen una forma estructurada de que los proyectos contin
 
 Identifique, seleccione y entregue con eficacia las carteras de proyectos que mejor se adapten a la estrategia empresarial de su organización y maximice el retorno de la inversión (ROI). Para obtener más información, vea [Guía de soluciones de administración de carteras de proyectos (notas del producto)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
-## <a name="program-management"></a>Administración de programas
+## <a name="program-management"></a>Administración del programa
 <a name="bkmk_ProgramManagement"> </a>
 
 En la administración de programas, cada proyecto tiene su conjunto de objetivos que, cuando se combinan, permiten lograr los beneficios previstos para todo el programa. Para obtener más información, vea [Guía de soluciones de administración de carteras de proyectos (notas del producto)](https://go.microsoft.com/fwlink/p/?LinkId=402633).

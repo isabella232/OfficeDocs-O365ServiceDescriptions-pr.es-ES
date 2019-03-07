@@ -1,7 +1,7 @@
 ---
 title: Características de cliente de Exchange Online Archiving
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: Microsoft Exchange Online Archiving permite a los usuarios conectarse a sus buzones de archivo desde una variedad de plataformas y dispositivos. Toda la conectividad de red para el archivo del usuario se produce a través de Internet, y no se requieren conexiones de red privada virtual (VPN). Las organizaciones pueden publicar un servidor de acceso de cliente local para permitir a los usuarios tener acceso a su buzón principal con Outlook en cualquier lugar, sin necesidad de una conexión VPN. Si se requiere acceso VPN para tener acceso a buzón principal del usuario que se encuentra en un servidor local, este requisito no cambia.
-ms.openlocfilehash: 90f384e990363294c8972a79e8b500d97ca4a839
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: El archivado de Microsoft Exchange Online permite a los usuarios conectarse a sus buzones de archivo desde una amplia variedad de dispositivos y plataformas. La conectividad de red al archivo del usuario se realiza íntegramente a través de Internet, de modo que no se precisan conexiones de red privada virtual (VPN). Para permitir el acceso de los usuarios a su buzón principal con Outlook en cualquier lugar, sin necesidad de conexión VPN, las organizaciones pueden publicar en un servidor de acceso de cliente local. Si se requiere acceso a VPN para acceder al buzón de correo principal del usuario en un servidor local, este requisito no cambiará.
+ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036925"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467187"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Características de cliente de Exchange Online Archiving
 
-Microsoft Exchange Online Archiving permite a los usuarios conectarse a sus buzones de archivo desde una variedad de plataformas y dispositivos. Toda la conectividad de red para el archivo del usuario se produce a través de Internet, y no se requieren conexiones de red privada virtual (VPN). Las organizaciones pueden publicar un servidor de acceso de cliente local para permitir a los usuarios tener acceso a su buzón principal con Outlook en cualquier lugar, sin necesidad de una conexión VPN. Si se requiere acceso VPN para tener acceso a buzón principal del usuario que se encuentra en un servidor local, este requisito no cambia.
+El archivado de Microsoft Exchange Online permite a los usuarios conectarse a sus buzones de archivo desde una amplia variedad de dispositivos y plataformas. La conectividad de red al archivo del usuario se realiza íntegramente a través de Internet, de modo que no se precisan conexiones de red privada virtual (VPN). Para permitir el acceso de los usuarios a su buzón principal con Outlook en cualquier lugar, sin necesidad de conexión VPN, las organizaciones pueden publicar en un servidor de acceso de cliente local. Si se requiere acceso a VPN para acceder al buzón de correo principal del usuario en un servidor local, este requisito no cambiará.
   
 > [!IMPORTANT]
 > Microsoft se reserva el derecho a bloquear o limitar las conexiones de cualquier software de cliente que afecte negativamente al estado del servicio de Archivado de Exchange Online. 
@@ -50,15 +50,15 @@ La tabla siguiente contiene los clientes compatibles con Archivado de Exchange O
 |:-----|:-----|
 |Outlook 2010 y versiones posteriores  <br/> |Compatible con las últimas características de Archivado de Exchange Online.<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |Compatible con Archivado de Exchange Online.<sup>1,2</sup> <br/> |
-|Outlook 2003  <br/> |No se admite  <br/> |
-|Outlook para Mac 2011  <br/> |No se admite  <br/> |
-|Outlook para Mac  <br/> |Compatibles para su uso con Exchange Online Archiving. <sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008, Web Services Edition  <br/> |No se admite  <br/> |
-|IMAP y POP  <br/> |No se admite  <br/> |
+|Outlook 2003  <br/> |exExchange2k7 y versiones anteriores  <br/> |
+|Outlook para Mac 2011  <br/> |exExchange2k7 y versiones anteriores  <br/> |
+|Outlook para Mac  <br/> |Admitido para su uso con archivado de Exchange Online. <sup>3</sup> <br/> |
+|Microsoft Office Entourage 2008, Web Services Edition  <br/> |exExchange2k7 y versiones anteriores  <br/> |
+|IMAP y POP  <br/> |exExchange2k7 y versiones anteriores  <br/> |
 |Exchange ActiveSync (dispositivos móviles)  <br/> |No se admite  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> no se admite outlook incluido con Microsoft Office Standard. Para obtener más información, vea [requisitos de licencia para archivo Personal y las directivas de retención](https://go.microsoft.com/fwlink/?LinkId=389396). > <sup>2</sup> requiere actualización para habilitar la compatibilidad de archivado. Los usuarios de Outlook 2007 no pueden ver o aplicar una retención o archivar las directivas a los elementos en sus buzones de archivo; deben basarse en las directivas aprovisionado por el administrador. Además, los usuarios de Outlook 2007 no pueden buscar el buzón de correo local y el archivo al mismo tiempo. > <sup>3</sup> no se puede usar 2016 de Outlook para Mac o Outlook para Mac para mover o copiar carpetas, elementos de calendario, contactos, tareas o notas a su archivo o verlas en el buzón de archivo, si los elementos anteriormente se movieron existe mediante el uso de cualquier otra versión de Outlook ( Por ejemplo, 2016 Outlook para Windows). Para obtener más información, vea [Use su archivo en línea con 2016 de Outlook para Mac](https://support.office.com/en-us/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238). 
+> <sup>1</sup> Outlook incluido con Microsoft Office Standard no es compatible. Para obtener más información, consulte [License Requirements for personal Archive and Retention Policies](https://go.microsoft.com/fwlink/?LinkId=389396). > <sup>2</sup> requiere actualización para habilitar la compatibilidad de archivado. Los usuarios de Outlook 2007 no pueden ver ni aplicar directivas de retención o archivo a los elementos de sus buzones de archivo; deben basarse en las directivas aprovisionadas por el administrador. Además, los usuarios de Outlook 2007 no pueden buscar el buzón local y el archivo al mismo tiempo. > <sup>3</sup> no puede usar Outlook 2016 para Mac o Outlook para Mac para mover o copiar carpetas, elementos de calendario, contactos, tareas o notas a su archivo, o verlos en el buzón de archivo, si los elementos se movieron anteriormente mediante cualquier otra versión de Outlook (por ejemplo, Outlook 2016 para Windows). Para obtener más información, vea [usar el archivo en línea con Outlook 2016 para Mac](https://support.office.com/en-us/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238). 
   
 ## <a name="outlook-web-app"></a>Outlook Web App
 

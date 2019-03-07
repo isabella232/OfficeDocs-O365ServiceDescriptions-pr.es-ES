@@ -1,7 +1,7 @@
 ---
 title: Características de Skype Empresarial Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: supotter
 ms.date: 10/9/2017
 ms.audience: ITPro
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si es administrador, puede encontrar instrucciones detalladas para configurar las características de Skype empresarial online en configurar Skype empresarial online.
-ms.openlocfilehash: 57b7a6fa23b69e56432a8778f059b5ea6fc99703
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210263"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467437"
 ---
 # <a name="skype-for-business-online-features"></a>Características de Skype Empresarial Online
 
@@ -43,7 +43,7 @@ Skype Empresarial proporciona soporte técnico para los dispositivos de salas de
 
 Con Skype Empresarial los usuarios pueden:
   
-- Mostrar el estado de presencia (por ejemplo, disponible, ausente, no molestar o sin conexión) para que otras personas sepan su disponibilidad. La información de presencia de Skype Empresarial se presenta en todo el conjunto de aplicaciones de Office 365.
+- Mostrar el estado de presencia (por ejemplo, disponible, ausente, no molestar o sin conexión) para que otras personas sepan su disponibilidad. La información de presencia de Skype Empresarial se presenta en todo el conjunto de aplicaciones de Office 365.
     
 - Enviar y recibir mensajes de texto en tiempo real a través de una red de protocolo de Internet (IP) como Internet o una red corporativa de la organización. La mensajería instantánea está disponible para una comunicación de Skype a Skype o entre varias entidades. El texto de MI se cifra para mayor seguridad.
     
@@ -70,7 +70,7 @@ La conectividad externa de Skype Empresarial requiere el consentimiento y la con
 
 Los usuarios pueden iniciar reuniones de Skype Empresarial ad hoc o unirse a ellas con solo unos clics en el cliente de Skype Empresarial o en Office. Skype Empresarial permite a los usuarios convertir conversaciones simples de mensajería instantánea o de correo electrónico en reuniones de audio y vídeo entre varios usuarios (tres o más) basadas en PC, con documentos, aplicaciones y escritorios compartidos.
   
-El audio entre varias entidades de Skype Empresarial ofrece a los usuarios un códec de audio adaptable para alcanzar un rendimiento óptimo bajo diferentes condiciones de ancho de banda, controles de lista y llamada visual, indicador de calidad de red y características eficaces de administración de usuarios (por ejemplo, arrastrar y soltar el nombre de un participante para agregarlo a una reunión).
+El audio entre varias entidades de Skype Empresarial ofrece a los usuarios un códec de audio adaptable para alcanzar un rendimiento óptimo bajo diferentes condiciones de ancho de banda, controles de lista y llamada visual, indicador de calidad de red y características eficaces de administración de usuarios (por ejemplo, arrastrar y soltar el nombre de un participante para agregarlo a una reunión).
   
 Además del audio, Skype Empresarial permite a los usuarios conectarse a través de sesiones de vídeo de alta calidad. Se admiten las sesiones de persona a persona o de varias partes (tres o más usuarios). El vídeo del participante activo está disponible únicamente para las sesiones de varios participantes. Con Skype Empresarial, los usuarios pueden programar fácilmente una reunión en línea con vídeo o convertir sin problemas una sesión de mensajería instantánea a una videollamada.
   
@@ -101,7 +101,7 @@ En algunos planes de suscripción, Skype Empresarial puede integrarse con la Men
     
 Skype Empresarial interopera con Microsoft SharePoint Server local para la presencia y comunicación con clic en sitios de SharePoint. Esta interoperabilidad requiere la ejecución del cliente de Skype Empresarial en el escritorio del usuario. 
   
-## <a name="skype-for-business-online-administration-and-management"></a>Gestión y administración de Skype Empresarial Online
+## <a name="skype-for-business-online-administration-and-management"></a>Gestión y administración de Skype Empresarial Online
 <a name="BKMK_Admin"> </a>
 
 Si bien Microsoft controla directamente todos los centros de datos de Skype Empresarial Online y es responsable del rendimiento general del sistema, puede controlar solo una parte de los elementos que se combinan para ofrecer una experiencia completa a los usuarios de Office 365. Las organizaciones son responsables de las conexiones de red a los centros de datos, la red de área extensa (WAN) del cliente y las redes de área local (LAN) del cliente. Además, administran los dispositivos de usuario y de su configuración. También son responsables del mantenimiento de las licencias necesarias por usuario para todas las características deseadas, entre ellas, la capacidad de administrar esas características siempre que el usuario necesite acceso a la característica.

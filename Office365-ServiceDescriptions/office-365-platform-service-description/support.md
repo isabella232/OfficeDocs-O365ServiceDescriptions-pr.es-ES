@@ -1,7 +1,7 @@
 ---
 title: Soporte técnico
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Con cada suscripción a Microsoft Office 365 Enterprise, empresarial, educación y gubernamentales, Microsoft Support proporciona global técnica, previas a la venta y facturación, compatibilidad con la suscripción. Soporte técnico está disponible tanto en línea a través del portal de Office 365 y por teléfono para las suscripciones de pagadas y prueba. Para obtener más información, vea Opciones de soporte técnico de Office 365.
-ms.openlocfilehash: bb93982e24065abbf558145afcff07f10181ceb7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Con cada suscripción de Microsoft Office 365 Enterprise, Empresa, Educación y Administración Pública, el soporte técnico de Microsoft proporciona soporte técnico, soporte de preventas, facturación y suscripciones en general. El soporte técnico está disponible en línea a través del portal de Office 365 y por teléfono para las suscripciones de pago y de prueba. Para más información, vea las opciones del Soporte técnico de Office 365.
+ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037069"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467537"
 ---
-# <a name="support"></a>Soporte técnico
+# <a name="support"></a>Compatibilidad
 
 > [!NOTE]
-> Todas las opciones de soporte técnico que aparece a continuación son para las versiones internacionales de Office 365. Para admitir todos los para Office 365 operado por 21Vianet en China, vea [contacto Office 365 para profesionales compatibles para Office 365 operado por 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). Para Office 365 Alemania, vea [contacto Office 365 para la empresa con soporte para Office 365 Alemania](https://go.microsoft.com/fwlink/?linkid=846979). 
+> Todas las opciones de soporte indicadas a continuación son para las versiones internacionales de Office 365. Para obtener toda la compatibilidad de Office 365 operado por 21Vianet en China, consulte [Contact Office 365 for Business Support for Office 365 operado por 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). Para Office 365 Germany, consulte [Contact Office 365 for Business Support for Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=846979). 
   
-Con cada suscripción a Microsoft Office 365 Enterprise, empresarial, educación y gubernamentales, Microsoft Support proporciona global técnica, previas a la venta y facturación, compatibilidad con la suscripción. Soporte técnico está disponible tanto en línea a través del portal de Office 365 y por teléfono para las suscripciones de pagadas y prueba. Para obtener más información, vea [Opciones de soporte técnico de Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279810).
+Con cada suscripción de Microsoft Office 365 Enterprise, Empresa, Educación y Administración Pública, el soporte técnico de Microsoft proporciona soporte técnico, soporte de preventas, facturación y suscripciones en general. El soporte técnico está disponible en línea a través del portal de Office 365 y por teléfono para las suscripciones de pago y de prueba. Para más información, vea las [opciones del Soporte técnico de Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279810).
   
 Los administradores autorizados pueden usar el portal de Office 365 para enviar solicitudes de servicio en línea, obtener acceso a los números telefónicos del soporte técnico y ver todas las solicitudes de servicio recientemente abiertas y cerradas. Las solicitudes de servicio enviadas en el portal de Office 365 se pueden volver a abrir hasta 14 días después de que se haya cerrado la solicitud. Para obtener instrucciones, vea [Ponerse en contacto con el equipo de soporte de Office 365 para empresas](https://go.microsoft.com/fwlink/p/?LinkID=279815).
   
@@ -83,14 +83,14 @@ Microsoft asigna un nivel de gravedad a un caso cuando se abre, en función de u
 |Gravedad B (alta)  <br/> |El servicio se puede utilizar pero de forma limitada. La situación tiene un impacto moderado en el negocio y se puede tratar durante el horario comercial. Un solo usuario, cliente o servicio se ve afectado parcialmente.  <br/> | El botón Enviar es confuso en Outlook.  <br/>  La configuración es imposible desde EAC (Centro de administración de Exchange) pero posible en PowerShell.  <br/> |
 |Gravedad C (no crítica)  <br/> |La situación genera un mínimo impacto en el negocio. El problema es importante pero no genera un impacto significativo en la productividad o el servicio actual para el cliente. Un solo usuario sufre una interrupción parcial, pero existe una solución alternativa aceptable.  <br/> | Cómo establecer una contraseña de usuario que nunca caduca.  <br/>  El usuario no puede eliminar la información de contacto en Exchange Online.  <br/> |
    
-### <a name="technical-support-initial-response-times"></a>Tiempos de respuesta inicial del Soporte técnico
+### <a name="technical-support-initial-response-times"></a>Tiempos de respuesta inicial del soporte técnico
 <a name="InitialResponse"> </a>
 
 El tiempo de respuesta inicial se basa en los niveles de gravedad descritos anteriormente y el tipo de suscripción de Office 365. En la tabla siguiente se describen los objetivos de tiempo de respuesta. 
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
-|**Nivel de gravedad** <br/> |**Office 365 Business Essentials<sup>1</sup>** <br/> **Office 365 empresarial<sup>1</sup>** <br/> **Office 365 Business Premium<sup>1</sup>** <br/> **Office 365 educación<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Gobierno de Office 365 G2<sup>2</sup>** <br/> **Office 365 gobierno de Estados Unidos E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 gobierno de Estados Unidos K1<sup>2</sup>** <br/> |**Opciones de soporte elevado<sup>3</sup>** <br/> |
+|**Nivel de gravedad** <br/> |**Office 365 empresa Essentials<sup>1</sup>** <br/> **Office 365 empresa<sup>1</sup>** <br/> **Office 365 empresa Premium<sup>1</sup>** <br/> **Office 365 educación<sup>1</sup>** <br/> |**Office 365 Enterprise E1<sup>2</sup>** <br/> **Office 365 Enterprise E3<sup>2</sup>** <br/> **Office 365 Government G2<sup>2</sup>** <br/> **Office 365 US Government E3<sup>2</sup>** <br/> |**Office 365 Enterprise F1<sup>2</sup>** <br/> **Office 365 US Government K1<sup>2</sup>** <br/> |**Opciones de soporte elevado<sup>3</sup>** <br/> |
 | Gravedad A (crítica)  <br/> |Disponible: 24/7<sup>4</sup> <br/> Tiempo de respuesta: una hora  <br/> |Disponible: 24/7<sup>4</sup> <br/> Tiempo de respuesta: una hora  <br/> |Disponible: 24/7<sup>4</sup> <br/> Tiempo de respuesta: una hora  <br/> |Disponible: 24/7<sup>4</sup> <br/> Tiempo de respuesta: una hora  <br/> |
 |Gravedad B (alta)  <br/> |Disponible: horario comercial  <br/> Tiempo de respuesta: sin compromiso  <br/> |Disponible: 24/7<sup>4</sup> <br/> Tiempo de respuesta: día siguiente  <br/> |Disponible: 24/7<sup>4</sup> <br/> Tiempo de respuesta: día siguiente  <br/> |Disponible: 24/7<sup>4</sup> <br/> Tiempo de respuesta: 2 horas  <br/> |
 |Gravedad C (media)  <br/> |Disponible: horario comercial  <br/> Tiempo de respuesta: sin compromiso  <br/> |Disponible: 24/7<sup>4</sup> <br/> Tiempo de respuesta: sin compromiso  <br/> |Disponible: 24/7<sup>4</sup> <br/> Tiempo de respuesta: sin compromiso  <br/> |Disponible: 24/7<sup>4</sup> <br/> Tiempo de respuesta: 4 horas  <br/> |

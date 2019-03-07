@@ -1,7 +1,7 @@
 ---
 title: Descripción del servicio de Power BI
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI es un conjunto de herramientas de análisis de negocio basados en nube que permite que cualquiera pueda conectarse, visualizar y analizar los datos con mayor rapidez, eficiencia y descripción. Se conecta a los usuarios a una amplia gama de datos activos a través de paneles de fácil de usar, proporciona informes interactivos y visualizaciones atractivas que aportan los datos para la vida de entrega.
-ms.openlocfilehash: 023685efebad6dd56975af85ffa9c8e9fd071e30
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 0288fc982e8662d52d9c05e7a71a2976dee8be31
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036934"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466457"
 ---
 # <a name="power-bi-service-description"></a>Descripción del servicio de Power BI
 

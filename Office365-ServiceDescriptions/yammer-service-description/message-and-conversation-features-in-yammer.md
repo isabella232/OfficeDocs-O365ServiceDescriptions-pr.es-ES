@@ -1,7 +1,7 @@
 ---
 title: Características de conversación y mensajería de Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: A continuación se describen las características de conversación y mensajería disponibles en Yammer.
-ms.openlocfilehash: 3578b282cd25d45963b645552aa3fcf473e01aff
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: eaf713948a36579ef75f48fb42f47f3175395c71
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036963"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468167"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Características de conversación y mensajería de Yammer
 
@@ -29,7 +29,7 @@ A continuación se describen las características de conversación y mensajería
 
 Use el publicador para compartir actualizaciones, agregar documentos, publicar un sondeo, elogiar a otro usuario o publicar un evento.
   
-## <a name="mention"></a>@Mención
+## <a name="mention"></a>@Mention
 <a name="bkmk_AtMention"> </a>
 
 Notifique a otros compañeros e inclúyalos en una conversación @mencionando su nombre.
@@ -39,7 +39,7 @@ Notifique a otros compañeros e inclúyalos en una conversación @mencionando su
 
 Vea quién está en línea e inicie al instante una discusión privada con uno o varios compañeros. La lista de contactos se ordenará automáticamente en función de las personas con las que más interactúa.
   
-## <a name="private-messages"></a>Mensajes privados
+## <a name="private-messages"></a>Private Messages
 <a name="bkmk_PrivateMessages"> </a>
 
 Inicie un diálogo privado con uno o varios compañeros. Puede agregar más participantes en cualquier momento.
@@ -49,7 +49,7 @@ Inicie un diálogo privado con uno o varios compañeros. Puede agregar más part
 
 Comparta conversaciones en el suministro de otro grupo o mediante mensaje privado para reenviar información y mensajes importantes.
   
-## <a name="office-online-support"></a>Soporte técnico en línea de Office
+## <a name="office-online-support"></a>Office Online support
 <a name="bkmk_ShareConversations"> </a>
 
 Con el soporte técnico de Office Online en Yammer, los documentos cargados a Yammer se pueden ver y editar con Office Online, directamente en Yammer. De esta manera, es posible mostrar documentos de forma prolija con Office Online, habilitar la coautoría por diferentes usuarios simultáneamente y mostrar las conversaciones relevantes de Yammer, directamente en el explorador.

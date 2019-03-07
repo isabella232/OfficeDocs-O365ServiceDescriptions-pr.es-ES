@@ -1,7 +1,7 @@
 ---
 title: Actualizaciones de servicio
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Para obtener información sobre las características de Office 365 lanzadas recientemente, o las de próximo lanzamiento, consulte el mapa de ruta de Office 365.
-ms.openlocfilehash: e0f679a3e3b272dca90f4a416b9b232af9221a86
-ms.sourcegitcommit: 9c751127339ea6a50184daa34f7da18e13361d52
+ms.openlocfilehash: b2ba1896f3c1acd616c62a82e7a8a1f25744d26f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/13/2019
-ms.locfileid: "29966224"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467767"
 ---
 # <a name="service-updates"></a>Actualizaciones de servicio
 
@@ -28,11 +28,11 @@ ms.locfileid: "29966224"
 Para obtener información sobre las características de Office 365 lanzadas recientemente, o las de próximo lanzamiento, consulte el [mapa de ruta de Office 365](https://go.microsoft.com/fwlink/?LinkId=509914).
   
 > [!NOTE]
-> Actualizaciones y mejoras se ha implantado a los clientes en función de muchos factores, como la geografía, idioma, centro de datos y suscripción. Esto significa que no todas las actualizaciones están disponibles inmediatamente para los clientes existentes. 
+> Las actualizaciones y las actualizaciones se distribuyen a los clientes en función de muchos factores, como geografía, idioma, centro de datos y suscripción. Esto significa que no todas las actualizaciones están disponibles inmediatamente para los clientes existentes. 
   
 ## <a name="targeted-release"></a>Versión dirigida
 
-Con la versión de destino, su organización o un conjunto de los usuarios reciben un conjunto de actualizaciones de servicio aproximadamente una semana antes de comenzar nuestro proceso de publicación estándar. Para obtener más información, vea [programas de la versión de Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823). 
+Con la versión dirigida, su organización o un conjunto de los usuarios recibirán un conjunto seleccionado de actualizaciones de servicio aproximadamente una semana antes de comenzar con el proceso de publicación estándar. Para obtener más información, vea [Configurar las opciones de los programas Estándar o First Release de Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823). 
   
 ## <a name="update-notifications"></a>Notificaciones de actualización
 

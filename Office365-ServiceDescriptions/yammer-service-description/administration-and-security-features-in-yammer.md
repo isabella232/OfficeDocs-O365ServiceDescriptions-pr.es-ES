@@ -1,7 +1,7 @@
 ---
 title: Características de administración y seguridad de Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,20 +13,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: A continuación se describen las características de administración y seguridad disponibles en Yammer.
-ms.openlocfilehash: 78aa673b4bb5da2bd5aca57bba6e532f9521a2bb
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: d68cf69d069998fd4a92d86ff5132678095f8783
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037093"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466747"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Características de administración y seguridad de Yammer
 
 A continuación se describen las características de administración y seguridad disponibles en Yammer.
   
-Para obtener una explicación detallada y los procedimientos, vea el [Centro de administración de Yammer](https://go.microsoft.com/fwlink/?LinkId=869688).
+Para obtener explicaciones y procedimientos detallados, consulte el [centro de administración de Yammer](https://go.microsoft.com/fwlink/?LinkId=869688).
   
-## <a name="custom-network-branding"></a>Personalización de la red
+## <a name="custom-network-branding"></a>Custom Network Branding
 <a name="bkmk_CustomNetworkBranding"> </a>
 
 Personalice su red de Yammer con la apariencia de su compañía. Los administradores de red pueden cargar logotipos e imágenes de su compañía para crear un diseño de cabecera personalizado.
@@ -36,17 +36,17 @@ Personalice su red de Yammer con la apariencia de su compañía. Los administrad
 
 Administre fácilmente el acceso a la red de su compañía. Yammer permite sincronizar directorios usados, agregar o quitar usuarios (tanto de forma individual como masiva), invitar a usuarios a su red o nombrar otros administradores.
   
-## <a name="admin-private-content-mode"></a>Modo de contenido de administración privada
+## <a name="admin-private-content-mode"></a>Admin Private Content Mode
 <a name="bkmk_AdminPrivate"> </a>
 
 Un administrador superior de una red de Yammer puede ver los mensajes privados y grupos en toda la red.  Los administradores superiores pueden ver contenido privado solo cuando se conceden a sí mismos acceso temporal a contenido privado para investigar problemas.  Para obtener más información, vea [Supervisar contenido privado en Yammer (administradores superiores)](https://go.microsoft.com/fwlink/?LinkId=627479).
   
-## <a name="single-identity"></a>Identidad única
+## <a name="single-identity"></a>Single Identity
 <a name="bkmk_o365_user_mapping"> </a>
 
 Cuando elige Yammer como experiencia social predeterminada en Office 365 para su organización, los empleados se asignan a sus cuentas existentes de Yammer. Esto significa que no tendrán que volver a iniciar sesión cuando naveguen a Yammer en Office 365. Cuando los empleados acceden a Yammer (ya sea desde Office 365, a través de una aplicación móvil de Yammer o visitando Yammer.com), inician sesión automáticamente con base en sus credenciales existentes de la organización.
   
-## <a name="directory-synchronization"></a>Sincronización de directorios
+## <a name="directory-synchronization"></a>Directory Synchronization
 <a name="bkmk_DirectorySynchronization"> </a>
 
 Estandarice los datos de perfiles de usuarios en varios sistemas. Sincronice de forma automática desde un directorio empresarial existente la incorporación de nuevos usuarios, la eliminación de usuarios o la información sobre perfiles.
@@ -77,7 +77,7 @@ Hágase con perspectivas obtenidas a partir del análisis de la red y sepa en to
 ## <a name="company-resources"></a>Recursos de la compañía
 <a name="bkmk_CompanyResources"> </a>
 
-Agregue archivos importantes y vínculos a proporcionar a los empleados un acceso rápido a los recursos de empresa al igual que las directivas de recursos humanos, las ventajas de los calendarios de vacaciones o de información.
+Agregue archivos y vínculos importantes para proporcionar a los empleados acceso rápido a los recursos de la compañía, como las directivas de recursos humanos, la información sobre beneficios o los calendarios de vacaciones.
   
 ## <a name="password-policies"></a>Directivas de contraseñas
 <a name="bkmk_PasswordPolicies"> </a>

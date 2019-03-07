@@ -1,7 +1,7 @@
 ---
 title: Ayuda y formación
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 proporciona los siguientes recursos de ayuda y aprendizaje.
-ms.openlocfilehash: 4ea99142d70bec44a3c30875c22979c5f405fdd8
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: 295faf2dbaf866b3110beef2b547893d7248f52a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210293"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467087"
 ---
 # <a name="help-and-training"></a>Ayuda y formación
 
@@ -27,7 +27,7 @@ Microsoft Office 365 proporciona los siguientes recursos de ayuda y aprendizaje.
 ## <a name="online-help"></a>Ayuda en línea
 <a name="BKMK_Online_Help"> </a>
 
-Los artículos y vídeos de ayuda están disponibles en cualquier vínculo de ayuda en línea del servicio, incluido el icono de ayuda de la barra de navegación superior del portal de Office 365 y del centro de administración de Microsoft 365. También puede buscar en toda la ayuda de [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056)Office 365. 
+Los artículos y vídeos de ayuda están disponibles en cualquier vínculo de ayuda en línea del servicio, incluido el icono de ayuda de la barra de navegación superior del portal de Office 365 y del centro de administración de Microsoft 365. También puede buscar en toda la ayuda de Office 365 en [http://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
 ## <a name="training"></a>Formación
 <a name="BKMK_Online_Help"> </a>
@@ -94,7 +94,7 @@ En la página de inicio de la Comunidad de Office 365, los clientes pueden obten
     
 Para obtener más información, visite la [Comunidad de Office 365](https://go.microsoft.com/fwlink/?LinkId=272057).
   
-## <a name="office-365-techcenter"></a>TechCenter de Office 365
+## <a name="office-365-techcenter"></a>TechCenter de Office 365
 <a name="BKMK_O365TechCenter"> </a>
 
 Los profesionales de TI de las grandes empresas pueden visitar el TechCenter de Office 365 en TechNet. El TechCenter de Office 365 proporciona una guía de implementación compleja destinada a grandes organizaciones.
@@ -124,32 +124,32 @@ Los recursos de capacitación y ayuda están disponibles en los siguientes idiom
 |Árabe  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Búlgaro  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Chino simplificado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Chino tradicional  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |
+|Chino tradicional  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Checo  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Danés  <br/> |Sí  <br/> |Sí   <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Holandés  <br/> |Sí  <br/> |Sí   <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Danés  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Holandés  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Estonio  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Finlandés  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Francés  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |
-|Alemán  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |
+|Francés  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Alemán  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Griego  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Húngaro  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Italiano  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |
-|Japonés  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |
+|Italiano  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Japonés  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Coreano  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Letón  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Lituano  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Noruego  <br/> |Sí  <br/> |Sí   <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Polaco  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |No  <br/> |Sí  <br/> |
+|Noruego  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Polaco  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
 |Portugués  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Portugués (Brasil)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí   <br/> |
+|Portugués (Brasil)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Rumano  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Ruso  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Serbio  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Eslovaco  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Esloveno  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Español  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Sueco  <br/> |Sí  <br/> |Sí   <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Sueco  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Tailandés  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Turco  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Ucraniano  <br/> |Sí  <br/> | No  <br/> |No  <br/> |No  <br/> |No  <br/> |

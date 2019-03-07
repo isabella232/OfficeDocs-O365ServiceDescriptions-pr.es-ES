@@ -1,7 +1,7 @@
 ---
 title: Complementos
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,19 +12,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
-description: Microsoft SharePoint es una colección de herramientas basadas en Web y tecnologías que ayudan a su organización almacenar, compartir y administrar información digital. Se basa en Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central y compartir información con otras personas. Los clientes de Office 365 también pueden comprar funcionalidades adicionales que se asocia a SharePoint Online.
-ms.openlocfilehash: a3fc73f53fd0f6dd8e68392430412e2ed0f135b7
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint es un conjunto de herramientas y tecnologías basadas en web que permiten almacenar, compartir y administrar información digital en la organización. Integrado en Microsoft SharePoint Server 2013, este servicio hospedado resulta ideal para trabajar con proyectos, almacenar datos y documentos en una ubicación central y compartir información con otros usuarios. Los clientes de Office 365 también pueden adquirir complementos adicionales relacionados con SharePoint Online.
+ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037017"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466407"
 ---
 # <a name="add-ons"></a>Complementos
 
-Microsoft SharePoint es una colección de herramientas basadas en Web y tecnologías que ayudan a su organización almacenar, compartir y administrar información digital. Se basa en Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central y compartir información con otras personas. Los clientes de Office 365 también pueden comprar funcionalidades adicionales que se asocia a SharePoint Online.
+Microsoft SharePoint es un conjunto de herramientas y tecnologías basadas en web que permiten almacenar, compartir y administrar información digital en la organización. Integrado en Microsoft SharePoint Server 2013, este servicio hospedado resulta ideal para trabajar con proyectos, almacenar datos y documentos en una ubicación central y compartir información con otros usuarios. Los clientes de Office 365 también pueden adquirir complementos adicionales relacionados con SharePoint Online.
   
-## <a name="additional-storage"></a>Almacenamiento adicional
+## <a name="additional-storage"></a>Additional Storage
 <a name="bkmk_AdditionalStorage"> </a>
 
 Si necesita más almacenamiento, puede obtenerlo por un coste por gibabyte (GB) al mes.

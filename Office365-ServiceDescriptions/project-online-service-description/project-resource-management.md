@@ -1,7 +1,7 @@
 ---
 title: Administración de recursos del proyecto
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,21 +12,21 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: Las siguientes características de administración de recursos están disponibles en Project Online.
-ms.openlocfilehash: f6b5dbf1eb4958421b7a9b1e34e77ca950cf14e5
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Las siguientes características de administración de recursos están disponibles en Project online.
+ms.openlocfilehash: 5c1f60e5bf27ec245fe2a5ef21f6fce4500e97cc
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037065"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467557"
 ---
 # <a name="project-resource-management"></a>Administración de recursos del proyecto
 
-Las siguientes características de administración de recursos están disponibles en Project Online.
+Las siguientes características de administración de recursos están disponibles en Project online.
   
 ¿Está buscando información sobre todas las características de Project Online? Vea [Descripción del servicio Project Online](project-online-service-description.md).
   
-## <a name="cost-resources"></a>Recursos de costes
+## <a name="cost-resources"></a>Cost resources
 <a name="bkmk_CostResources"> </a>
 
 Administre los costes de su proyecto.
@@ -36,27 +36,27 @@ Administre los costes de su proyecto.
 
 Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no laborables a la programación de su proyecto. Obtenga más información sobre cómo [agregar días festivos y de descanso a su proyecto](https://go.microsoft.com/fwlink/p/?LinkId=271337).
   
-## <a name="resource-leveling"></a>Redistribución de recursos
+## <a name="resource-leveling"></a>Resource leveling
 <a name="bkmk_Resourceleveling"> </a>
 
 Cuando las personas del proyecto trabajen en demasiadas asignaciones a la vez, puede ajustar las asignaciones automáticamente. Esto se denomina redistribución de recursos. Vea [Redistribuir las asignaciones de recursos](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
-## <a name="resource-sheet-and-usage-views"></a>Vistas de hoja y uso de recursos
+## <a name="resource-sheet-and-usage-views"></a>Resource sheet and usage views
 <a name="bkmk_resourcesheetandusageviews"> </a>
 
 Presente información de los recursos de manera gráfica mediante el uso de recursos, hojas, gráficos y vistas de formulario. Vea [Elegir el informe adecuado](https://go.microsoft.com/fwlink/?LinkId=402920).
   
-## <a name="resource-substitution"></a>Sustitución de recursos
+## <a name="resource-substitution"></a>Resource substitution
 <a name="bkmk_ResourceSubstitution"> </a>
 
 Permite sustituir recursos genéricos como carpinteros con personas reales. Vea [Crear y compartir un grupo de recursos](https://go.microsoft.com/fwlink/?LinkId=402921).
   
-## <a name="team-resources"></a>Recursos de equipos
+## <a name="team-resources"></a>Team resources
 <a name="bkmk_Teamresources"> </a>
 
 Agregue recursos a un proyecto del equipo, Por ejemplo, recursos materiales tales como equipos y cemento. Obtenga más información sobre cómo [agregar personas al proyecto](https://go.microsoft.com/fwlink/p/?LinkId=271347).
   
-## <a name="work-generic-and-material-resources"></a>Recursos de trabajo, genéricos y materiales
+## <a name="work-generic-and-material-resources"></a>Work, generic, and material resources
 <a name="bkmk_WorkGenericMaterialResources"> </a>
 
 Agregue recursos al proyecto, tales como recursos de trabajo (personas), recursos genéricos (carpinteros) y recursos materiales (equipos y cemento). Vea [Especificación de costos de equipo y de otros recursos de costo](https://go.microsoft.com/fwlink/?LinkId=402922).

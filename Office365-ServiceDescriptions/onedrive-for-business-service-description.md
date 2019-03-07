@@ -1,7 +1,7 @@
 ---
 title: Descripción del servicio de OneDrive para la Empresa
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: OneDrive para la Empresa es un espacio de almacenamiento personal en línea, que proporciona su empresa. Úselo para almacenar y proteger los archivos de trabajo mientras accede a ellos a través de distintos dispositivos con facilidad. Comparta sus archivos con compañeros de trabajo según necesite y colabore con ellos en los documentos de Office en tiempo real con el escritorio de Office, el sitio web y las aplicaciones móviles más recientes. Sincronice archivos en su equipo local usando el cliente de sincronización de OneDrive para la Empresa.
-ms.openlocfilehash: 4fca7cfff8db13e15b6c79ee3add0d103dd2e26d
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+ms.openlocfilehash: 4a367c37794e2ff9355f0e88cb8ca0e50394e77c
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215365"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467197"
 ---
 # <a name="onedrive-for-business-service-description"></a>Descripción del servicio de OneDrive para la Empresa
 

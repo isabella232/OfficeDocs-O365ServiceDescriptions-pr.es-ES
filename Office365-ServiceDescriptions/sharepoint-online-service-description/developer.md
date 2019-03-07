@@ -1,7 +1,7 @@
 ---
 title: Desarrollador
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
-description: SharePoint Online es una colección de herramientas basadas en Web y tecnologías que ayudan a su organización almacenar, compartir y administrar información digital. Se basa en Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central y compartir información con otras personas. Las siguientes características admiten los desarrolladores que desean crear aplicaciones y soluciones para ampliar la funcionalidad de SharePoint.
-ms.openlocfilehash: e34ab0ca07fadb171a6e2fa52ec37daf7dcd60ac
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado a Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación centralizada, y compartir información con otros. Las siguientes características admiten la creación por parte de desarrolladores de aplicaciones y soluciones para ampliar la funcionalidad de SharePoint.
+ms.openlocfilehash: 055f669be2703a562aae56f6a7bcda6f708c4de8
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037020"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467717"
 ---
 # <a name="developer"></a>Desarrollador
 
-SharePoint Online es una colección de herramientas basadas en Web y tecnologías que ayudan a su organización almacenar, compartir y administrar información digital. Se basa en Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central y compartir información con otras personas. Las siguientes características admiten los desarrolladores que desean crear aplicaciones y soluciones para ampliar la funcionalidad de SharePoint.
+SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado a Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación centralizada, y compartir información con otros. Las siguientes características admiten la creación por parte de desarrolladores de aplicaciones y soluciones para ampliar la funcionalidad de SharePoint.
   
 ## <a name="access-services"></a>Servicios de Access
 <a name="bkmk_AccessServices"> </a>
@@ -54,12 +54,12 @@ La base de datos del servicio de administración de aplicaciones almacena inform
 ## <a name="bcs-app-scoped-external-content-types-ects"></a>BCS: Tipos de contenido externo (ECT) con ámbito en la aplicación
 <a name="bkmk_AppScopedExternalContentTypes"> </a>
 
-Con la incorporación del nuevo modelo de aplicación en SharePoint, servicios de conectividad empresarial (BCS) ahora puede delimitar los tipos de contenido externo en el nivel de aplicación en lugar de hacerlo en el nivel de granja de servidores. Esto proporciona gran flexibilidad a los desarrolladores de aplicaciones por lo que les permite utilizar datos externos dentro de sus aplicaciones. Obtenga más información acerca de [tipos de contenido externo con ámbito de aplicación](https://go.microsoft.com/fwlink/?LinkId=271279).
+Con la adición del nuevo modelo de aplicaciones en SharePoint, servicios de conectividad empresarial (BCS) ahora puede limitar los tipos de contenido externo en el nivel de aplicación en lugar de en el nivel de granja de servidores. Esto proporciona una gran flexibilidad a los desarrolladores de aplicaciones permitiéndoles usar datos externos dentro de sus aplicaciones. Obtenga más información sobre los[tipos de contenido externo con ámbito en la aplicación](https://go.microsoft.com/fwlink/?LinkId=271279).
   
-## <a name="bcs-business-data-web-parts"></a>BCS: Elementos de Web de datos profesionales
+## <a name="bcs-business-data-web-parts"></a>BCS: elementos Web de datos profesionales
 <a name="bkmk_BCSBusinessDataWebparts"> </a>
 
-Elementos Web de datos profesionales son elementos web especiales que trabajan con datos externos. Se utilizan como elementos Web de SharePoint estándar, pero se basan en tipos de contenido externo, que son descripciones XML de las conexiones a los datos externos. 
+Los elementos Web de datos profesionales son elementos Web especiales que funcionan con datos externos. Se usan como elementos Web de SharePoint estándar, pero se basan en tipos de contenido externo, que son descripciones XML de las conexiones a los datos externos. 
   
 ## <a name="bcs-external-list"></a>BCS: Lista externa
 <a name="bkmk_BCSExternalList"> </a>
@@ -101,7 +101,7 @@ Una vista de formulario es básicamente una vista que contiene controles. Una ap
 
 No disponible para clientes de SharePoint Online. Los clientes de SharePoint Server 2013 pueden crear soluciones de plena confianza. También llamadas soluciones de granja de servidores. A diferencia de las aplicaciones de SharePoint, las soluciones de granja contienen un código implementado en los servidores de SharePoint y realizan llamadas a un modelo de objetos de servidor de SharePoint. Estos ensamblados siempre se ejecutan con plena confianza. Las soluciones de granja deben usarse para las personalizaciones de las funciones administrativas de SharePoint, como trabajos del temporizador personalizados, cmdlets de Windows PowerShell personalizados y extensiones de Administración central. Obtenga más información sobre [creación de soluciones de granja en SharePoint 2013](https://go.microsoft.com/fwlink/?LinkId=271287).
   
-## <a name="infopath-forms-services"></a>Servicios de formularios de InfoPath
+## <a name="infopath-forms-services"></a>InfoPath Forms Services
 <a name="bkmk_InfoPathFormsServices"> </a>
 
 Forms Service ofrece una experiencia de rellenado de formularios del explorador web en SharePoint, basada en plantillas de formulario diseñadas en InfoPath. Obtenga más información sobre [InfoPath Forms Services](https://go.microsoft.com/fwlink/?LinkId=271288)
@@ -136,10 +136,10 @@ El Administrador de diseño proporciona un enfoque paso a paso para la creación
 
 Con SharePoint Designer, los desarrolladores y usuarios avanzados pueden crear rápidamente soluciones de SharePoint en respuesta a necesidades empresariales. Obtenga más información sobre [SharePoint Designer para desarrolladores](https://go.microsoft.com/fwlink/?LinkId=271294).
   
-## <a name="sharepoint-framework"></a>Marco de trabajo de SharePoint
+## <a name="sharepoint-framework"></a>SharePoint Framework
 <a name="bkmk_SharePointFramework"> </a>
 
-El marco de trabajo de SharePoint (SPFx) es un modelo de elemento web y página que proporciona compatibilidad completa para el desarrollo de SharePoint en el cliente, una integración más fácil con datos de SharePoint y la compatibilidad con herramientas de código abierto. Obtenga más información sobre el [Marco de trabajo de SharePoint](https://go.microsoft.com/fwlink/?linkid=869276).
+SharePoint Framework (SPFx) es un modelo de elementos web y páginas que proporciona compatibilidad completa con el desarrollo de SharePoint del lado cliente, integración fácil con los datos de SharePoint y compatibilidad con herramientas de código abierto. Obtenga más información sobre [SharePoint Framework](https://go.microsoft.com/fwlink/?linkid=869276).
   
 ## <a name="sharepoint-2010-workflows-out-of-the-box"></a>Flujos de trabajo de SharePoint 2010 (implementación inmediata)
 <a name="bkmk_Worflow2010outofthebox"> </a>
@@ -149,7 +149,7 @@ Use los flujos de trabajo originales incluidos con SharePoint para modelar proce
 ## <a name="sharepoint-2013-and-sharepoint-2016-workflows"></a>Flujos de trabajo de SharePoint 2013 y SharePoint 2016
 <a name="bkmk_Workflow2013"> </a>
 
-Los flujos de trabajo de SharePoint 2013 y SharePoint 2016 alimentan por Windows Workflow Foundation 4 (WF), que se ha rediseñado significativamente desde versiones anteriores. Quizás la función más relevante de la nueva infraestructura de flujo de trabajo es la introducción de Azure como el host de ejecución de flujo de trabajo. Obtener más información acerca de [Cuáles son las novedades en flujos de trabajo de SharePoint](https://go.microsoft.com/fwlink/?LinkId=271297).
+Los flujos de trabajo de SharePoint 2013 y SharePoint 2016 funcionan con Windows Workflow Foundation 4 (WF), que se ha rediseñado significativamente de versiones anteriores. Es posible que la característica más prominente de la nueva infraestructura de flujo de trabajo sea la introducción de Azure como host de ejecución del flujo de trabajo. Obtenga más información sobre las novedades [de los flujos de trabajo de SharePoint](https://go.microsoft.com/fwlink/?LinkId=271297).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 <a name="bkmk_Workflow2013"> </a>

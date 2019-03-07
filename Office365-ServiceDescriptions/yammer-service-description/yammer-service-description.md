@@ -1,7 +1,7 @@
 ---
 title: Descripción del servicio Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
-description: Yammer es un mejor en su clase, seguro y redes sociales de empresa privada. Yammer permite a los empleados a ser más productivos y correcta por lo que les permite colaborar fácilmente, tomar decisiones con mayor rapidez y se organizan automáticamente en los equipos para tomar en cualquier desafío para el negocio. Es una nueva forma de trabajar que impulsa el alineamiento del negocio y la agilidad, reduce los tiempos de ciclo, contrata a los empleados y mejora las relaciones con los clientes y socios con naturalidad.
-ms.openlocfilehash: 7feac0f0b107a159dd7d0545632815ec24679040
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Yammer es la mejor red social de su clase, segura y privada empresarial. Yammer faculta a los empleados para que sean más productivos y exitosos, ya que les permite colaborar fácilmente, tomar decisiones con mayor rapidez y organizarse a sí mismos en Teams para realizar cualquier desafío de la empresa. Se trata de una nueva forma de trabajar que lógicamente impulsa la alineación y la agilidad de los negocios, reduce los tiempos de ciclo, implica a los empleados y mejora las relaciones con clientes y socios.
+ms.openlocfilehash: 4d94fafd21a1022b19ae71503b777263250d74ff
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036966"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467157"
 ---
 # <a name="yammer-service-description"></a>Descripción del servicio Yammer
 
-Yammer es un mejor en su clase, seguro y redes sociales de empresa privada. Yammer permite a los empleados a ser más productivos y correcta por lo que les permite colaborar fácilmente, tomar decisiones con mayor rapidez y se organizan automáticamente en los equipos para tomar en cualquier desafío para el negocio. Es una nueva forma de trabajar que impulsa el alineamiento del negocio y la agilidad, reduce los tiempos de ciclo, contrata a los empleados y mejora las relaciones con los clientes y socios con naturalidad.
+Yammer es la mejor red social de su clase, segura y privada empresarial. Yammer faculta a los empleados para que sean más productivos y exitosos, ya que les permite colaborar fácilmente, tomar decisiones con mayor rapidez y organizarse a sí mismos en Teams para realizar cualquier desafío de la empresa. Se trata de una nueva forma de trabajar que lógicamente impulsa la alineación y la agilidad de los negocios, reduce los tiempos de ciclo, implica a los empleados y mejora las relaciones con clientes y socios.
   
 Para ver una lista de los planes de Office 365 que incluyen Yammer, vea [Planes y familias de servicios de Office 365](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
   
@@ -50,7 +50,7 @@ Yammer está disponible con los siguientes planes:
 ## <a name="yammer-enterprise-service-communications-policy"></a>Directiva de comunicaciones de servicio de Yammer Enterprise
 <a name="YammerCommsPolicy"> </a>
 
-Yammer es una parte de Office 365 y cumpla la [Directiva de administración de cambios de Office 365](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), pero no utiliza la versión de destino a implantar las actualizaciones. 
+Yammer es una parte de Office 365 y se adhiere a la [Directiva de administración de cambios de office 365](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), pero no usa la versión dirigida para distribuir actualizaciones. 
   
 Todos los usuarios de Yammer están sujetos a pruebas A/B de las características. Esto permite a Microsoft probar mejoras en estabilidad, rendimiento y experiencia de las características en muchos entornos y dispositivos. Los usuarios que están en la misma red pueden tener distintas experiencias debido a las pruebas. Los clientes no puedan anular las pruebas A/B.
   

@@ -1,7 +1,7 @@
 ---
 title: Alta disponibilidad y continuidad comercial
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
-description: Microsoft Exchange Online ofrece un amplio soporte de retención y recuperación para la infraestructura de correo electrónico de una organización. Esto incluye la replicación de buzones de correo en centros de datos y la capacidad de restaurar buzones y elementos eliminados.
-ms.openlocfilehash: ec9d598fe2c0af2cc9af9a879c91a99a78baf883
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: Microsoft Exchange Online ofrece un amplio soporte de retención y recuperación para la infraestructura de correo electrónico de una organización. Este servicio incluye replicación de buzón en centros de datos y la capacidad de recuperar buzones y elementos eliminados.
+ms.openlocfilehash: 2da41ba335faa4cf18228a64fbb1b420d438e503
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210233"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466517"
 ---
 # <a name="high-availability-and-business-continuity"></a>Alta disponibilidad y continuidad comercial
 
-Microsoft Exchange Online ofrece un amplio soporte de retención y recuperación para la infraestructura de correo electrónico de una organización. Esto incluye la replicación de buzones de correo en centros de datos y la capacidad de restaurar buzones y elementos eliminados.
+Microsoft Exchange Online ofrece un amplio soporte de retención y recuperación para la infraestructura de correo electrónico de una organización. Este servicio incluye replicación de buzón en centros de datos y la capacidad de recuperar buzones y elementos eliminados.
   
 ## <a name="mailbox-replication-at-data-centers"></a>Replicación de buzón en centros de datos
 
@@ -32,7 +32,7 @@ Para obtener más información sobre cómo protege Microsoft sus datos, vea [Cen
   
 ## <a name="deleted-mailbox-recovery"></a>Recuperación de buzones eliminados
 
-Los administradores pueden eliminar buzones de Exchange online mediante el centro de administración de Microsoft 365 para eliminar la cuenta de usuario correspondiente o quitar la licencia de Exchange Online, o mediante el cmdlet **Remove-Mailbox** en Windows PowerShell remoto. Cuando se elimina un buzón, Exchange Online conserva el buzón y su contenido durante 30 días de forma predeterminada. TransCurrido el plazo de 30 días, el buzón no es recuperable. Un buzón de correo recuperado contiene todos los datos almacenados en el momento en que se eliminó. Los administradores pueden recuperar un buzón de correo eliminado dentro del período de retención a través del centro de administración 365 de Microsoft. Para recuperar un buzón de correo eliminado, los administradores deben restaurar la cuenta de usuario de Office 365 correspondiente o volver a asignar una licencia de Exchange Online a la cuenta de usuario. Para obtener más información, vea [eliminar o restaurar buzones de usuario en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286992).
+Los administradores pueden eliminar buzones de Exchange online mediante el centro de administración de Microsoft 365 para eliminar la cuenta de usuario correspondiente o quitar la licencia de Exchange Online, o mediante el cmdlet **Remove-Mailbox** en Windows PowerShell remoto. Cuando se elimina un buzón, Exchange Online conserva el buzón y su contenido durante 30 días de forma predeterminada. TransCurrido el plazo de 30 días, el buzón no es recuperable. Un buzón de correo recuperado contiene todos los datos almacenados en el momento en que se eliminó. Los administradores pueden recuperar un buzón de correo eliminado dentro del período de retención a través del centro de administración 365 de Microsoft. Para recuperar un buzón de correo eliminado, los administradores deben restaurar la cuenta de usuario de Office 365 correspondiente o volver a asignar una licencia de Exchange Online a la cuenta de usuario. Para obtener más información, vea [Eliminar o restaurar buzones de usuario en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=286992).
   
 ## <a name="deleted-item-recovery"></a>Recuperación de elementos eliminados
 

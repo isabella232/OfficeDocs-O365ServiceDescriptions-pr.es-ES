@@ -1,7 +1,7 @@
 ---
 title: Sitios [ServiceDesc]
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,24 +14,24 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
-description: Microsoft SharePoint Online es una colección de herramientas basadas en Web y tecnologías que ayudan a su organización almacenar, compartir y administrar información digital. Se basa en Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central y compartir información con otras personas. Las siguientes características de sitios proporcionan un conjunto completo de herramientas que su organización puede usar para crear cualquier tipo de sitio, además de una sola infraestructura que simplifica la administración de sitios. Para obtener que información más detallada, vea Buscar contenido sobre SharePoint Online.
-ms.openlocfilehash: c154bbd75accb312e3415b820b5ed1439f28e7b8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Creado en Microsoft SharePoint Server 2013, este servicio alojado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central, y compartir información con otros individuos. Las siguientes características de sitios proporcionan un conjunto completo de herramientas que su organización puede usar para crear cualquier tipo de sitio, además de una sola infraestructura que simplifica la administración de los sitios. Para obtener información más detallada, consulte Encontrar el contenido sobre SharePoint Online.
+ms.openlocfilehash: 1cd3f25d6fbf156f6b9dc120e9b8c0bb3e39a202
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037016"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467887"
 ---
 # <a name="sitesservicedesc"></a>Sitios [ServiceDesc]
 
-Microsoft SharePoint Online es una colección de herramientas basadas en Web y tecnologías que ayudan a su organización almacenar, compartir y administrar información digital. Se basa en Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central y compartir información con otras personas. Las siguientes características de sitios proporcionan un conjunto completo de herramientas que su organización puede usar para crear cualquier tipo de sitio, además de una sola infraestructura que simplifica la administración de sitios. Para obtener información más detallada, vea [Buscar contenido sobre SharePoint Online](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7).
+Microsoft SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Creado en Microsoft SharePoint Server 2013, este servicio alojado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central, y compartir información con otros individuos. Las siguientes características de sitios proporcionan un conjunto completo de herramientas que su organización puede usar para crear cualquier tipo de sitio, además de una sola infraestructura que simplifica la administración de los sitios. Para obtener información más detallada, consulte [Encontrar el contenido sobre SharePoint Online](https://support.office.com/Article/Find-content-about-SharePoint-Online-0ff4f5c6-b8b3-4d6a-be9a-99e6dcb9a3b7).
   
-## <a name="cross-browser-support"></a>Compatibilidad entre exploradores
+## <a name="cross-browser-support"></a>Cross Browser Support
 <a name="bkmk_CrossBrowserSupport"> </a>
 
 SharePoint Online es compatible con los exploradores web más usados, como las tres últimas versiones de Internet Explorer y las versiones más recientes de Google Chrome, Mozilla Firefox y Apple Safari. Obtenga más información sobre el [planeamiento de la compatibilidad de exploradores](https://go.microsoft.com/fwlink/?LinkId=271048).
   
-## <a name="custom-managed-paths"></a>Rutas administradas personalizadas
+## <a name="custom-managed-paths"></a>Custom Managed Paths
 <a name="bkmk_CustomManagedPaths"> </a>
 
 Al definir rutas administradas, puede especificar las rutas en el espacio de nombres de URL de una aplicación Web que se usen para colecciones de sitios. Puede especificar que una o más colecciones de sitios existan en una ruta especificada. Puede ser un método práctico de consolidar varios accesos a sitios para los usuarios en varios departamentos. Obtenga más información sobre las [rutas administradas](https://go.microsoft.com/fwlink/?LinkId=271049).
@@ -46,22 +46,22 @@ Con las carpetas del sitio, se puede desplazar fácilmente hasta el contenido qu
 
 Una parte importante (pero invisible) de cualquier sitio es su modelo de gobierno: el conjunto de directivas, roles, responsabilidades y procesos que establece para determinar cómo usan el SharePoint las personas de su grupo. Obtenga más información sobre los [procedimientos recomendados para crear y administrar sitios de grupo](https://go.microsoft.com/fwlink/?LinkId=271050).
   
-## <a name="large-list-scalability-and-management"></a>Administración y gran escalabilidad de listas
+## <a name="large-list-scalability-and-management"></a>Large List Scalability and Management
 <a name="bkmk_LargeListScalabilityManagement"> </a>
 
 Con el planeamiento y el uso de características de bibliotecas y listas clave, puede garantizar que los usuarios encuentren información rápidamente sin que afecte negativamente al rendimiento del resto del sitio. Obtenga más información sobre la [administración de listas y bibliotecas](https://go.microsoft.com/fwlink/?LinkId=271051).
   
-## <a name="mobile-connectivity"></a>Conectividad móvil
+## <a name="mobile-connectivity"></a>Mobile Connectivity
 <a name="bkmk_MobileConnectivity"> </a>
 
 Obtenga acceso a los sitios de SharePoint en los desplazamientos con un teléfono móvil o una tableta con conexión a Internet. Puede ver y actualizar documentos, listas y otros contenidos de sitios y colaborar con compañeros, todo desde su dispositivo móvil. Obtenga más información sobre cómo [usar un dispositivo móvil para trabajar con sitios de SharePoint Online](https://go.microsoft.com/fwlink/?LinkId=271052).
   
-## <a name="multi-lingual-user-interface"></a>Interfaz de usuario multilingüe
+## <a name="multi-lingual-user-interface"></a>Multi-Lingual User Interface
 <a name="bkmk_MultiLingualUserInterface"> </a>
 
 Use la característica Interfaz de usuario multilingüe (MUI) para crear sitios en idiomas distintos del idioma predeterminado de su instalación de SharePoint. Obtenga más información sobre las [características multilingües](https://go.microsoft.com/fwlink/?LinkId=271053).
   
-## <a name="ootb-web-parts"></a>Elementos web OOTB
+## <a name="ootb-web-parts"></a>OOTB Web Parts
 <a name="bkmk_OOTBWebParts"> </a>
 
 Un elemento web es una unidad modular de información que forma un bloque básico de una página de elementos web.
@@ -71,7 +71,7 @@ Un elemento web es una unidad modular de información que forma un bloque básic
 
 Los permisos de SharePoint son lo suficientemente flexibles y configurables para que una organización administre los permisos en el nivel de detalle que necesite. Tres elementos clave de seguridad trabajan en conjunto para controlar el acceso de usuarios a los sitios y sus contenidos: herencia de permisos, niveles de permisos (a veces conocidos como roles de SharePoint) y grupos de SharePoint (o grupos de seguridad de SharePoint). Obtenga más información sobre el [control del acceso del usuario con permisos](https://go.microsoft.com/fwlink/?LinkId=271054).
   
-## <a name="project-site-template"></a>Plantilla de sitio de proyectos
+## <a name="project-site-template"></a>Project site template
 <a name="bkmk_Projectsitetemplate"> </a>
 
 Use esta plantilla de sitio de proyecto para crear un sitio donde pueda capturar tareas y asignarlas a las personas de su organización, almacenar y administrar documentación relacionada con un proyecto y hacer un seguimiento de los eventos de equipos de proyectos en un calendario común. Obtenga más información sobre los [sitios de proyectos](https://go.microsoft.com/fwlink/?LinkId=271228).
@@ -81,7 +81,7 @@ Use esta plantilla de sitio de proyecto para crear un sitio donde pueda capturar
 
 Una lista es una recopilación de datos que puede compartir con miembros del equipo y otros usuarios del sitio. Por ejemplo, puede crear una hoja de inscripción de un evento o puede realizar el seguimiento de eventos de equipo en un calendario con una lista. Puede usar varias listas y plantillas de listas preparadas para su uso, ya que ofrecen un buen punto de inicio para los elementos de lista de organización. Obtenga más información sobre las [listas de SharePoint](https://go.microsoft.com/fwlink/?LinkId=271056).
   
-## <a name="site-designs"></a>Diseños de sitios
+## <a name="site-designs"></a>Diseños de sitio
 <a name="bkmk_Templates"> </a>
 
 Al crear un sitio en SharePoint, empiece seleccionando una plantilla de sitio como base del sitio. Las plantillas de sitio contienen listas, bibliotecas, páginas y otros elementos o características que se adaptan a las necesidades de una organización. Obtenga más información sobre la [personalización de su sitio de grupo](https://go.microsoft.com/fwlink/?LinkId=271058).

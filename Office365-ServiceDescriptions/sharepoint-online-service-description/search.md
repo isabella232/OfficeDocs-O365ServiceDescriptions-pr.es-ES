@@ -1,7 +1,7 @@
 ---
 title: Búsqueda
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
-description: SharePoint Online es una colección de herramientas basadas en Web y tecnologías que ayudan a su organización almacenar, compartir y administrar información digital. Se basa en Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central y compartir información con otras personas. Las siguientes características de búsqueda ayudan a las personas a encontrar la información que necesitan para realizar sus trabajos. La búsqueda es una combinación de personas, refinamiento y relevancia.
-ms.openlocfilehash: 2aceab27cf37ac27e11a1b4cac105592a2419e5f
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado en Microsoft SharePoint Server 2013, este servicio alojado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central, y compartir información con otros individuos. Las siguientes características de Búsqueda ayudan a los usuarios a encontrar la información que necesitan para hacer su trabajo. La Búsqueda es una combinación de relevancia, refinamiento y personas.
+ms.openlocfilehash: 2dc56b1bafaf25c61d07052108267d8beebc0c03
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036975"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467641"
 ---
-# <a name="search"></a>Búsqueda
+# <a name="search"></a>Buscar
 
-SharePoint Online es una colección de herramientas basadas en Web y tecnologías que ayudan a su organización almacenar, compartir y administrar información digital. Se basa en Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central y compartir información con otras personas. Las siguientes características de búsqueda ayudan a las personas a encontrar la información que necesitan para realizar sus trabajos. La búsqueda es una combinación de personas, refinamiento y relevancia.
+SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado en Microsoft SharePoint Server 2013, este servicio alojado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central, y compartir información con otros individuos. Las siguientes características de Búsqueda ayudan a los usuarios a encontrar la información que necesitan para hacer su trabajo. La Búsqueda es una combinación de relevancia, refinamiento y personas.
   
 ## <a name="continuous-crawls"></a>Rastreos continuos
 <a name="bkmk_ContinuousCrawl"> </a>
@@ -59,7 +59,7 @@ En una implementación híbrida de SharePoint, el contenido de los resultados de
 
 Cuando los usuarios buscan contenido en los sitios de SharePoint, el contenido del índice de búsqueda determina lo que encontrarán. El índice de búsqueda contiene información de todos los documentos y páginas en el sitio y se crea rastreando el contenido del sitio de SharePoint. El esquema de búsqueda ayuda al rastreador a decidir qué contenido y metadatos seleccionar y cómo indexarlos. Si cambia el esquema de búsqueda, podrá crear una experiencia de búsqueda personalizada para sus usuarios. Obtenga más información sobre cómo [administrar el esquema de búsqueda en SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkId=392427).
   
-## <a name="on-hover-preview"></a>Vista previa en activable
+## <a name="on-hover-preview"></a>Vista previa al activar el puntero
 <a name="bkmk_Quickpreview"> </a>
 
 Los usuarios pueden colocar el puntero en un resultado de la búsqueda para obtener una vista previa e interactuar con el contenido del documento o sitio en el panel flotante que aparece a la derecha de los resultados. La vista previa muestra los metadatos enriquecidos y contiene vínculos profundos a las secciones principales del documento o sitio. Obtenga más información sobre las [sugerencias de búsqueda](https://go.microsoft.com/fwlink/p/?LinkId=286614).

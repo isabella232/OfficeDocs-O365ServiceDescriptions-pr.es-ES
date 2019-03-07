@@ -1,7 +1,7 @@
 ---
 title: Características del conjunto de aplicaciones de Office 365
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
-description: Las características que aparecen en este tema son una colección de herramientas basadas en web que le ayudarán a colaborar y comunicarse de forma segura a través de muchos dispositivos y varios servicios de Office 365. Estas características ayudan a conseguir nuevas conexiones dentro de la organización mediante la unificación de creación de contenido digital, almacenamiento y administración con las herramientas sociales para descubrir y compartir información entre los usuarios.
-ms.openlocfilehash: cdc7803a1373f5442e768dc5c8a6b26dff9d5ab8
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Las características enumeradas en este tema son una colección de herramientas basadas en Web que le ayudarán a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
+ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036928"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466947"
 ---
 # <a name="office-365-suite-features"></a>Características del conjunto de aplicaciones de Office 365
 
-Las características que aparecen en este tema son una colección de herramientas basadas en web que le ayudarán a colaborar y comunicarse de forma segura a través de muchos dispositivos y varios servicios de Office 365. Estas características ayudan a conseguir nuevas conexiones dentro de la organización mediante la unificación de creación de contenido digital, almacenamiento y administración con las herramientas sociales para descubrir y compartir información entre los usuarios.
+Las características enumeradas en este tema son una colección de herramientas basadas en Web que le ayudarán a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
   
 ## <a name="microsoft-bookings"></a>Reservas de Microsoft
 <a name="BKMK_Bookings"> </a>
@@ -91,7 +91,7 @@ Office Delve permite a los usuarios buscar y descubrir contenido en Office 365 b
 
 Los grupos de Office 365 conectan a los usuarios con los compañeros, la información y las aplicaciones que más necesitan para trabajar. Los grupos son públicos de forma predeterminada para mejorar y facilitar la búsqueda de información y compartirla, pero los usuarios pueden crear también grupos privados para proteger información confidencial. Para saber más acerca de los grupos, vea [Grupos de Office 365](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Para obtener información acerca de límites de grupos, vea "¿Cómo administrar mis grupos?" en [Obtenga más información sobre los grupos de Office 365](https://go.microsoft.com/fwlink/?linkid=846714).
   
-## <a name="office-365-video"></a>Office 365 Video
+## <a name="office-365-video"></a>Office 365 Video
 <a name="BKMK_Video"> </a>
 
 Office 365 Video es un destino seguro para toda la compañía donde puede cargar, compartir y descubrir los vídeos en sus dispositivos, con tecnología de Microsoft Azure Media Services. Office 365 Video puede ayudar a mantener a los usuarios atentos e informados, a difundir ideas y hacer que las organizaciones actúen de forma conjunta. Para obtener más información, vea [Introducción a Office 365 Video](https://blogs.office.com/2014/11/18/introducing-office-365-video/).

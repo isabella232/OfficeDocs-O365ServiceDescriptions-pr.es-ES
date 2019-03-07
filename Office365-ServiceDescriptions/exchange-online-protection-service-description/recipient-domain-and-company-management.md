@@ -1,7 +1,7 @@
 ---
 title: Administración de destinatarios, dominios e información de la compañía
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 10812b48-7df5-47e9-b643-dbc3c85d7de0
 description: Microsoft Exchange Online Protection (EOP) ofrece varios medios para administrar la información de destinatarios, dominios y compañías. Como administrador, puede realizar ciertas tareas de administración dentro del centro de administración de Exchange (EAC) y comprobar otras tareas de administración realizadas en el centro de administración de Microsoft 365.
-ms.openlocfilehash: fcae2c3ad93b977fb197089e2c8809b74ada7bd7
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: ff773ca3e19c9f9419ad907ed102f6af8a3567c2
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210333"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466907"
 ---
 # <a name="recipient-domain-and-company-management"></a>Administración de destinatarios, dominios e información de la compañía
 
@@ -26,27 +26,27 @@ Microsoft Exchange Online Protection (EOP) ofrece varios medios para administrar
   
 ¿Busca información sobre todas las características de EOP? Vea [Descripción de servicio Protección en línea de Exchange](exchange-online-protection-service-description.md).
   
-## <a name="mail-recipients"></a>Destinatarios de correo
+## <a name="mail-recipients"></a>Mail recipients
 <a name="BKMK_mailrecipients"> </a>
 
-Los destinatarios de correo se clasifican como usuarios o grupos de correo y se pueden administrar a través de la sincronización de directorios, directamente en el EAC o a través de Windows PowerShell remoto. Si está administrando a los destinatarios locales, debe ejecutar la sincronización de directorios para que los destinatarios de correo se reflejen en el EAC. Los usuarios administrados únicamente en el centro de administración de Microsoft 365 no se pueden ver en el EAC, pero se pueden agregar o quitar de la pertenencia a un grupo de roles de administrador en el EAC. Para obtener más información sobre los destinatarios en EOP, vea [destinatarios en EOP](https://go.microsoft.com/fwlink/p/?LinkId=280011).
+Los destinatarios de correo se clasifican como grupos o usuarios de correo y se pueden administrar mediante la sincronización de directorios, directamente en el EAC o mediante el modo remoto de Windows PowerShell. Si va a administrar los destinatarios localmente, debe ejecutar la sincronización de directorios para que los destinatarios de correo se reflejen en el EAC. Los usuarios administrados únicamente en el centro de administración de Microsoft 365 no se pueden ver en el EAC, pero se pueden agregar o quitar de la pertenencia a un grupo de roles de administrador en el EAC. Para más información sobre los destinatarios en EOP, vea [Administrar destinatarios en EOP](https://go.microsoft.com/fwlink/p/?LinkId=280011).
   
-## <a name="admin-role-group-permissions"></a>Permisos de grupo de roles administrativos
+## <a name="admin-role-group-permissions"></a>Admin role group permissions
 <a name="BKMK_adminrolegrouppermissions"> </a>
 
 En EOP, solo puede configurar roles administrativos. Puede agregar y quitar usuarios de los grupos de roles administrativos predeterminados directamente en el EAC, pero no puede personalizar el control de acceso basado en funciones (RBAC). Para más información, vea [Administrar permisos de grupos de roles de administración en EOP](https://go.microsoft.com/fwlink/p/?LinkId=282238).
   
-## <a name="domain-management"></a>Administración de dominios
+## <a name="domain-management"></a>Domain management
 <a name="BKMK_domainmanagement"> </a>
 
-Los dominios administrados son dominios protegidos por EOP. Los dominios administrados se pueden ver y los tipos de dominio se pueden editar en el EAC. El aprovisionamiento y la administración de dominios se produce en el centro de administración de Microsoft 365 y los cambios se reflejan en el EAC. Para obtener más información, vea [ver o editar dominios administrados en EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+Los dominios administrados son dominios que están protegidos por EOP. En el EAC, se pueden ver los dominios administrados y editar los tipos de dominio. El aprovisionamiento y la administración de dominios se produce en el centro de administración de Microsoft 365 y los cambios se reflejan en el EAC. Para obtener más información, vea [Administrar dominios aceptados en EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
   
 ## <a name="match-subdomains"></a>Subdominios coincidentes
 <a name="BKMK_EOP_Match_Subdomains"> </a>
 
 En EOP, puede habilitar el flujo del correo para los subdominios de un dominio administrado. Para obtener más información, vea [Habilitar el flujo de correo electrónico para los subdominios en EOP](https://go.microsoft.com/fwlink/p/?LinkId=397213). 
   
-## <a name="directory-based-edge-blocking-dbeb"></a>Bloqueo perimetral basado en directorios (DBEB)
+## <a name="directory-based-edge-blocking-dbeb"></a>Directory Based Edge Blocking (DBEB)
 <a name="BKMK_DBEB"> </a>
 
 La característica Bloqueo perimetral basado en directorios permite rechazar mensajes para destinatarios no válidos en el perímetro de la red de servicio. El DBEB permite que los administradores agreguen destinatarios habilitados para correo a Office 365 y bloqueen todos los mensajes enviados a direcciones de correo electrónico que no están presentes en Office 365. Si un mensaje se envía a una dirección de correo electrónico válida que está presente en Office 365, el mensaje continúa a través de las demás capas de filtrado del servicio (antimalware, correo no deseado, reglas de transporte). Si la dirección no se encuentra, el servicio bloquea el mensaje incluso antes de que se produzca el filtrado y se envía un informe de no entrega (NDR) al remitente informándole que su mensaje no se entregó. 

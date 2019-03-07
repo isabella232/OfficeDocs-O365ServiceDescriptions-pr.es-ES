@@ -1,7 +1,7 @@
 ---
 title: Administración y configuración de Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
-description: En esta sección se describen los controles de administración y la compatibilidad que hay disponibles para personalizar la configuración de Exchange Online y mantener el entorno de Exchange online en funcionamiento, en ejecución y actualizado de la organización. Incluye información sobre las herramientas de administración de autoservicio y las capacidades disponibles para las organizaciones; Responsabilidades de administración de Microsoft y compromisos de rendimiento; y actualizaciones de productos y servicios.
-ms.openlocfilehash: 6a7b7883292f84dcd38480c6065b8f64dafb3e25
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: En esta sección se describen los controles de administración y la compatibilidad que hay disponibles para personalizar la configuración de Exchange Online y mantener el entorno de Exchange online en funcionamiento, en ejecución y actualizado de la organización. Incluye información sobre las herramientas de administración de autoservicio y las capacidades disponibles para las organizaciones, las responsabilidades de administración de Microsoft y los compromisos de rendimiento, además de las actualizaciones de productos y servicios.
+ms.openlocfilehash: 909806b0bd62b989081f36a8588cd813b1ee1717
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210203"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467807"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Administración y configuración de Exchange Online
 
-En esta sección se describen los controles de administración y la compatibilidad que hay disponibles para personalizar la configuración de Exchange Online y mantener el entorno de Exchange online en funcionamiento, en ejecución y actualizado de la organización. Incluye información sobre las herramientas de administración de autoservicio y las capacidades disponibles para las organizaciones; Responsabilidades de administración de Microsoft y compromisos de rendimiento; y actualizaciones de productos y servicios.
+En esta sección se describen los controles de administración y la compatibilidad que hay disponibles para personalizar la configuración de Exchange Online y mantener el entorno de Exchange online en funcionamiento, en ejecución y actualizado de la organización. Incluye información sobre las herramientas de administración de autoservicio y las capacidades disponibles para las organizaciones, las responsabilidades de administración de Microsoft y los compromisos de rendimiento, además de las actualizaciones de productos y servicios.
   
 ## <a name="self-service-administration-tools"></a>Herramientas de administración de autoservicio
 

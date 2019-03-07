@@ -1,7 +1,7 @@
 ---
 title: Características de archivo de Archivado de Exchange Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
-description: En las secciones siguientes se describen las características de archivo de archivado de Microsoft Exchange Online.
-ms.openlocfilehash: f14d8e5c6acefef6fd08cf8e8edf5f33acb9f9df
-ms.sourcegitcommit: 433b170b26fbd9c2e9b0e520adfef6f0804df25a
+description: En las siguientes secciones se describen las características de archivo de archivado de Microsoft Exchange Online.
+ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/08/2018
-ms.locfileid: "26215355"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467207"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Características de archivo de Archivado de Exchange Online
 
-En las secciones siguientes se describen las características de archivo de archivado de Microsoft Exchange Online.
+En las siguientes secciones se describen las características de archivo de archivado de Microsoft Exchange Online.
   
 ## <a name="archive-mailbox"></a>Buzón de archivo
 
@@ -37,7 +37,7 @@ Los administradores pueden habilitar la característica de archivo para usuarios
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Mover mensajes a Exchange Online Archiving
 
-Los usuarios pueden arrastrar y colocar los mensajes de los archivos .pst en el archivo, para facilitar el acceso en línea. Los usuarios también pueden mover los elementos de correo electrónico desde el buzón principal para el buzón de archivo automáticamente, uso de las directivas de archivo, para reducir el tamaño y mejorar el rendimiento del buzón principal. Aunque este comportamiento es diferente de Exchange Hosted Archive, que se va a crear una copia secundaria de cada mensaje en el archivo, se pueden lograr los requisitos de retención en los dos casos. 
+Los usuarios pueden arrastrar y soltar mensajes de archivos. pst en el archivo para facilitar el acceso en línea. Los usuarios también pueden mover elementos de correo electrónico desde el buzón principal al buzón de archivo automáticamente, mediante directivas de archivo, para reducir el tamaño y mejorar el rendimiento del buzón principal. Aunque este comportamiento es diferente de Exchange Hosted Archive, que creará una copia secundaria de cada mensaje en el archivo, se pueden cumplir los requisitos de retención en ambos casos. 
   
 ### <a name="import-data-to-the-archive"></a>Importar datos al archivo
 
@@ -74,7 +74,7 @@ Cuando los administradores eliminan usuarios de una implementación local de Exc
   
 ## <a name="mailbox-service-redundancy"></a>Redundancia de servicios de buzón
 
-Buzones de archivo en Archiving en línea de Exchange se replican en varias copias de base de datos, en centros de datos dispersos geográficamente de Microsoft, para proporcionar capacidad de restauración de datos en caso de error de infraestructura de mensajería. Si hay errores a gran escala, se inicia la administración de continuidad empresarial. 
+Los buzones de archivo de Exchange Online archiving se replican en varias copias de bases de datos, en centros de datos de Microsoft dispersos geográficamente, para proporcionar la capacidad de restauración de datos en caso de que se produzca un error en la infraestructura de mensajería. Para los errores a gran escala, se inicia la administración de la continuidad empresarial. 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

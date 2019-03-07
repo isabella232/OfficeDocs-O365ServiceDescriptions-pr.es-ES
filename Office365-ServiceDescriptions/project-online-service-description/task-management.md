@@ -1,7 +1,7 @@
 ---
 title: Administración de tareas
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,21 +12,21 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: Las siguientes características de administración de tareas están disponibles en Project Online.
-ms.openlocfilehash: e646577d086d0d1a024d4f6705bc54c8b4f1fcdd
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Las siguientes características de administración de tareas están disponibles en Project online.
+ms.openlocfilehash: 5d83b81be8b31518b640e016f827becc6e592151
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036940"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468197"
 ---
 # <a name="task-management"></a>Administración de tareas
 
-Las siguientes características de administración de tareas están disponibles en Project Online.
+Las siguientes características de administración de tareas están disponibles en Project online.
   
 ¿Está buscando información sobre todas las características de Project Online? Vea [Descripción del servicio Project Online](project-online-service-description.md).
   
-## <a name="active-and-inactive-tasks"></a>Tareas activas e inactivas
+## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 <a name="bkmk_ActiveInactiveTasks"> </a>
 
 Cuando se desactiva una tarea, permanece en el plan del proyecto, pero no afecta lo siguiente: la disponibilidad de los recursos, la programación del proyecto o la forma en que se programan otras tareas. Obtenga más información sobre [cómo desactivar una tarea](https://go.microsoft.com/fwlink/p/?LinkId=271335).
@@ -41,7 +41,7 @@ Obtenga sugerencias para nombres de tareas o recursos mientras escribe.
 
 Use el modo de programación automática para programar las tareas automáticamente. Obtenga más información sobre [cómo programa tareas Project](https://go.microsoft.com/fwlink/p/?LinkId=271331). 
   
-## <a name="calendar-date-extended-to-2149"></a>Fecha del calendario ampliada a 2149
+## <a name="calendar-date-extended-to-2149"></a>Calendar date extended to 2149
 <a name="bkmk_Calendardatextended"> </a>
 
 Ahora las tareas de proyectos pueden usar fechas hasta 2149. 
@@ -61,12 +61,12 @@ Vea los factores que afectan la programación de una tarea, como la fecha de ini
 
 Vea la manera en que una tarea se conecta con otras tareas al resaltar la ruta de acceso a la tarea en todo el proyecto. Obtenga más información sobre [resaltar cómo se vinculan las tareas entre sí](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
-## <a name="top-down-summary-tasks"></a>Tareas de resumen descendentes
+## <a name="top-down-summary-tasks"></a>Top-down summary tasks
 <a name="bkmk_Topdownsummarytasks"> </a>
 
 Cree una asignación de recursos en una tarea de resumen. Obtenga más información sobre la [planeación descendente](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
-## <a name="update-progress"></a>Actualizar el progreso
+## <a name="update-progress"></a>Update progress
 <a name="bkmk_Updateprogress"> </a>
 
 Actualice el progreso de una tarea para mostrar el porcentaje completado.

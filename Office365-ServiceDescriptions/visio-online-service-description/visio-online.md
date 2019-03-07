@@ -1,7 +1,7 @@
 ---
 title: Visio Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 ms.date: 6/28/2017
 ms.audience: ITPro
 ms.topic: reference
@@ -13,141 +13,141 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio Online amplía su experiencia de Microsoft Visio en el explorador web, donde puede trabajar con diagramas directamente en el sitio Web donde está almacenado el diagrama. Los clientes de Microsoft Office 365 con Office Online pueden ver y compartir diagramas e insertar comentarios sobre la marcha.
-ms.openlocfilehash: 2b6c62b68b984479d2995ef91db17627653828fe
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Visio Online amplía su experiencia de Microsoft Visio al explorador Web, donde puede trabajar con diagramas directamente en el sitio web donde se almacena el diagrama. Los clientes de Microsoft Office 365 con Office online pueden ver y compartir diagramas e insertar comentarios en el viaje.
+ms.openlocfilehash: 54c57a095d3689e9e6879f8c4a74ae4bbaeac315
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036937"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467567"
 ---
 # <a name="visio-online"></a>Visio Online
 
-Visio Online amplía su experiencia de Microsoft Visio en el explorador web, donde puede trabajar con diagramas directamente en el sitio Web donde está almacenado el diagrama. Los clientes de Microsoft Office 365 con Office Online pueden ver y compartir diagramas e insertar comentarios sobre la marcha.
+Visio Online amplía su experiencia de Microsoft Visio al explorador Web, donde puede trabajar con diagramas directamente en el sitio web donde se almacena el diagrama. Los clientes de Microsoft Office 365 con Office online pueden ver y compartir diagramas e insertar comentarios en el viaje.
   
-## <a name="apply-rich-formatting-to-text-and-shapes"></a>Aplicar formato enriquecido para texto y formas
+## <a name="apply-rich-formatting-to-text-and-shapes"></a>Aplicar formato enriquecido a texto y formas
 <a name="BM_1"> </a>
 
-No está disponible en Visio en línea. Edición de las características, como más colores, degradados, efectos y estilos, están disponibles en la aplicación de escritorio de Visio. Con Visio Online, puede agregar un cuadro de texto o elegir en una galería de formas y aplicar estilos, que definen el relleno, esquema y efectos de sombra.
+No disponible en Visio online. Las características de edición, como más colores, degradados, efectos y estilos, están disponibles en la aplicación de escritorio de Visio. Con Visio online, puede Agregar un cuadro de texto o elegir una galería de formas y aplicar estilos, que definen el relleno, el contorno y los efectos de sombra.
   
-## <a name="arrange-objects"></a>Organizar objetos
+## <a name="arrange-objects"></a>Arrange objects
 <a name="BM_2"> </a>
 
-No está disponible todavía en Visio en línea. En la aplicación de escritorio de Visio, puede mover, cambiar el tamaño, girar o las formas de orden y cuadros de texto y se pueden desagrupar formas para trabajar con ellos de forma individual. 
+Todavía no está disponible en Visio online. En la aplicación de escritorio de Visio, puede mover, cambiar el tamaño, girar o ordenar formas y cuadros de texto, y puede desagrupar formas para trabajar con ellas de forma individual. 
   
 ## <a name="build-mashup-solutions"></a>Crear soluciones de mashup
 <a name="BM_3"> </a>
 
-La API de Mashup de JavaScript en línea de Visio permite a los programadores a tener acceso y manipular un diagrama web de Visio, las páginas y sus formas. Para obtener más información, vea [Visio Online Preguntas más frecuentes](https://go.microsoft.com/fwlink/?linkid=825706).
+La API de mashup de JavaScript en línea de Visio online permite a los programadores tener acceso y manipular un diagrama Web de Visio, sus páginas y sus formas. Para obtener más información, vea [preguntas más frecuentes sobre Visio online](https://go.microsoft.com/fwlink/?linkid=825706).
   
-## <a name="create-diagrams"></a>Creación de diagramas
+## <a name="create-diagrams"></a>Crear diagramas
 <a name="BM_4"> </a>
 
-No se puede crear diagramas en Visio Online; Sin embargo, puede crear diagramas de la aplicación de escritorio de Visio y, a continuación, cargarlos en SharePoint o OneDrive para la empresa. A continuación, se puede compartir con otros usuarios.
+No puede crear diagramas en Visio online; sin embargo, puede crear diagramas en la aplicación de escritorio de Visio y, a continuación, cargarlos en SharePoint o en OneDrive para la empresa. A continuación, puede compartirlas con otros usuarios.
   
 ## <a name="cut-copy-and-paste"></a>Cortar, copiar y pegar
 <a name="BM_5"> </a>
 
-No está disponible todavía en Visio en línea. Puede usar la aplicación de escritorio de Visio para cortar, copiar y pegar funciones para mover o quitar formas y el texto dentro de un diagrama.
+Todavía no está disponible en Visio online. Puede usar la aplicación de escritorio de Visio para cortar, copiar y pegar características para mover o quitar formas y texto en un diagrama.
   
-## <a name="edit-diagrams"></a>Editar diagramas
+## <a name="edit-diagrams"></a>Edición de diagramas
 <a name="BM_6"> </a>
 
-No se puede realizar cambios en un diagrama de Visio en línea. Si necesita realizar cambios en un diagrama, use la aplicación de escritorio de Visio.
+No puede realizar cambios en un diagrama en Visio online. Si necesita realizar cambios en un diagrama, use la aplicación de escritorio de Visio.
   
-## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>Insertar diagrama en una página de SharePoint, web o blog
+## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>Insertar diagrama en una página de blog, web o SharePoint
 <a name="BM_7"> </a>
 
-Puede usar Visio en línea para insertar un diagrama de Visio (creado en la aplicación de escritorio de Visio) en una página de SharePoint, web o blog. Para obtener más información, vea [Visio Online Preguntas más frecuentes](https://go.microsoft.com/fwlink/?linkid=825706).
+Puede usar Visio online para insertar un diagrama de Visio (creado en la aplicación de escritorio de Visio) en una página de SharePoint, web o blog. Para obtener más información, vea [preguntas más frecuentes sobre Visio online](https://go.microsoft.com/fwlink/?linkid=825706).
   
 ## <a name="find"></a>Buscar
 <a name="BM_8"> </a>
 
-En Visio Online, puede buscar todas las apariciones de una palabra, un número o una frase en la página haciendo clic en el botón de puntos suspensivos (...) y, a continuación, seleccionando Buscar (o presione Ctrl + F). Los resultados aparecen junto a su diagrama. Visio buscará en los nombres de las formas, texto de la forma, datos de formas y celdas definidas por el usuario.
+En Visio online, puede buscar todas las apariciones de una palabra, número o frase en la página haciendo clic en el botón de puntos suspensivos (...) y, a continuación, seleccionando buscar (o presionando Ctrl + F). Los resultados aparecen junto al diagrama. Visio buscará en los nombres de las formas, el texto de las formas, los datos de formas y las celdas definidas por el usuario.
   
-## <a name="font-formatting"></a>Formato de fuente
+## <a name="font-formatting"></a>Font formatting
 <a name="BM_9"> </a>
 
-No se puede cambiar la fuente, el tamaño de fuente u otros atributos de apariencia de fuente (por ejemplo, negrita, cursiva, superíndice o subrayado) en Visio en línea.
+No puede cambiar la fuente, el tamaño de fuente ni otros atributos de apariencia de fuente (como negrita, cursiva, superíndice o subrayado) en Visio online.
   
-## <a name="hyperlinks"></a>Hipervínculos
+## <a name="hyperlinks"></a>Hyperlinks
 <a name="BM_10"> </a>
 
-En Visio Online, puede obtener acceso directamente a los hipervínculos haciendo clic en la forma.
+En Visio online, puede tener acceso directamente a los hipervínculos haciendo clic en la forma.
   
 ## <a name="navigation"></a>Navegación
 <a name="BM_11"> </a>
 
-En Visio Online, puede ir a otras páginas, haga clic en las fichas en la parte inferior izquierda.
+En Visio online, puede ir a otras páginas haciendo clic en las pestañas de la parte inferior izquierda.
   
 ## <a name="office-add-ins"></a>Complementos de Office
 <a name="BM_12"> </a>
 
-Complementos de Office no están disponibles en Visio en línea.
+Los complementos de Office no están disponibles en Visio online.
   
 ## <a name="offline-viewing"></a>Visualización sin conexión
 <a name="BM_13"> </a>
 
-No está disponible en Visio en línea. Office Online requiere una conexión a Internet y un explorador de Internet. Necesita la aplicación de escritorio de Visio instalada en su equipo para ver y editar un diagrama mientras está desconectado de Internet o de la organización local de Office Web Apps Server. Si tiene instalada la aplicación de escritorio de Visio, puede usar la funcionalidad completa de Visio para ver y editar el diagrama. Cuando se guarda, se actualiza el diagrama en línea con los cambios. También puede descargar y guardar una copia sin conexión del diagrama, pero no estará sincronizada con la versión en línea. Obtenga más información acerca de [Office Web Apps Server](https://technet.microsoft.com/library/ff431685.aspx).
+No disponible en Visio online. Office Online necesita una conexión a Internet y el explorador correspondiente. Necesita la aplicación de escritorio de Visio instalada en el equipo para ver y editar un diagrama mientras está desconectado de Internet o del servidor de Office Web Apps local de su organización. Si tiene instalada la aplicación de escritorio de Visio, puede usar todas las funciones de Visio para ver y editar el diagrama. Al guardar, se actualiza el diagrama en línea con los cambios. También puede descargar y guardar una copia sin conexión del diagrama, pero no estará sincronizada con la versión en línea. Obtenga más información sobre [Office Online Server](https://technet.microsoft.com/library/ff431685.aspx).
   
-## <a name="print-to-pdf"></a>Impresión en PDF
+## <a name="print-to-pdf"></a>Print to PDF
 <a name="BM_14"> </a>
 
-La impresión en PDF no está disponible en Visio en línea.
+La impresión en PDF no está disponible en Visio online.
   
-## <a name="proofing-tools"></a>Herramientas de corrección
+## <a name="proofing-tools"></a>Proofing tools
 <a name="BM_15"> </a>
 
-Herramientas de corrección, como comprobar la ortografía, traducción y diccionarios personalizados no están disponibles en Visio en línea.
+Las herramientas de corrección, como la ortografía, la traducción y los diccionarios personalizados, no están disponibles en Visio online.
   
-## <a name="real-time-co-authoring"></a>Co-autoría en tiempo real
+## <a name="real-time-co-authoring"></a>Real-time co-authoring
 <a name="BM_16"> </a>
 
-No está disponible en Visio en línea. Características de revisor avanzadas, como conflictos de combinación y comparar diagramas, sólo están disponibles en la aplicación de escritorio de Visio. Con Visio Online, puede ver, agregar o eliminar comentarios.
+No disponible en Visio online. Las características avanzadas de revisor, como los conflictos de combinación y los diagramas de comparación, solo están disponibles en la aplicación de escritorio de Visio. Con Visio online, puede ver, agregar o eliminar Comentarios.
   
-## <a name="save-as-or-download-a-copy"></a>Guardar como o descargar una copia
+## <a name="save-as-or-download-a-copy"></a>Save As or Download a copy
 <a name="BM_17"> </a>
 
-Visio en línea le permite usar Guardar como o descargar una copia del diagrama, pero debe tener la aplicación de escritorio de Microsoft Visio para editar una copia local.
+Visio online le permite usar guardar como o descargar una copia del diagrama, pero debe tener la aplicación de escritorio de Microsoft Visio para editar una copia local.
   
 ## <a name="share-a-diagram"></a>Compartir un diagrama
 <a name="BM_18"> </a>
 
-Si se guarda el diagrama en una biblioteca de documentos de SharePoint o en OneDrive para la empresa, a continuación, el diagrama está conectado y puede compartir mediante el envío de un vínculo en lugar de adjuntos de correo electrónico. Las personas con los permisos adecuados pueden verlo en un explorador web o un dispositivo móvil. Haga clic en **recurso compartido** en la superior derecha. 
+Si el diagrama se guarda en una biblioteca de documentos de SharePoint o en OneDrive para la empresa, el diagrama está en línea y puede compartirlo enviando un vínculo en lugar de un archivo adjunto de correo electrónico. Los usuarios con los permisos adecuados pueden verlo en un explorador Web o un dispositivo móvil. Solo tiene que hacer clic en **compartir** en la esquina superior derecha. 
   
 ## <a name="smartart"></a>SmartArt
 <a name="BM_19"> </a>
 
-Con Visio Online, no puede agregar a un diagrama de SmartArt. Sin embargo, si SmartArt se agregó mediante la aplicación de escritorio de Visio, estarán visible en Visio en línea.
+Con Visio online, no puede Agregar SmartArt a un diagrama. Sin embargo, si se agregó SmartArt mediante la aplicación de escritorio de Visio, será visible en Visio online.
   
-## <a name="tell-me"></a>Información
+## <a name="tell-me"></a>Tell Me
 <a name="BM_20"> </a>
 
-La característica Llámame de explicar no está disponible en Visio en línea. En la aplicación de escritorio de Visio, puede usar la característica para encontrar rápidamente ayuda con una tarea que desea realizar la búsqueda de explicar.
+La característica información no está disponible en Visio online. En la aplicación de escritorio de Visio, puede usar la característica de búsqueda información para encontrar rápidamente la ayuda con una tarea que desea realizar.
   
-## <a name="undo-and-redo"></a>Deshacer y rehacer
+## <a name="undo-and-redo"></a>Undo and redo
 <a name="BM_21"> </a>
 
-Las características de deshacer y rehacer no están disponibles en Visio en línea.
+Las características de desHacer y reHacer no están disponibles en Visio online.
   
-## <a name="view-and-add-comments"></a>Ver y agregar comentarios
+## <a name="view-and-add-comments"></a>View and add comments
 <a name="BM_22"> </a>
 
- En Visio Online, puede colaborar con otros usuarios por ver, agregar y responder a comentarios en el diagrama. 
+ En Visio online, puede colaborar con otros usuarios viendo, agregando y respondiendo a comentarios en el diagrama. 
   
-## <a name="view-shape-data"></a>Ver datos de forma
+## <a name="view-shape-data"></a>Ver datos de formas
 <a name="BM_23"> </a>
 
-Puede usar Visio en línea para ver los metadatos de un diagrama: simplemente haga clic en la forma y, a continuación, haga clic en **Información de la forma**.
+Puede usar Visio online para ver los metadatos de un diagrama: solo tiene que hacer clic en la forma y, a continuación, hacer clic en **información de forma**.
   
 ## <a name="view-visio-files-in-the-browser"></a>Ver archivos de Visio en el explorador
 <a name="BM_24"> </a>
 
-Debido a que el diagrama de Visio se guarda en línea, puede enviar un vínculo a ella. Personas, a continuación, pueden ver en cualquier explorador. No es necesario tener instalada la aplicación de escritorio de Visio.
+Como el diagrama de Visio se guarda en línea, puede enviarle un vínculo. Los usuarios pueden verlo en cualquier explorador. No es necesario que tengan instalada la aplicación de escritorio de Visio.
   
 ## <a name="zoom"></a>Zoom
 <a name="BM_25"> </a>
 
-Visio Online incluye un control deslizante que permite acercar o alejar. Además, puede usar la herramienta mano &amp; característica de Zoom para acercar una región del diagrama.
+Visio online incluye un control deslizante que permite acercar y alejar. Además, puede usar la característica de &amp; zoom panorámico para acercar una región del diagrama.
   
 

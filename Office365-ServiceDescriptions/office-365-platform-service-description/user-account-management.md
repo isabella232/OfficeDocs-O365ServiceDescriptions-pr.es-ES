@@ -1,7 +1,7 @@
 ---
 title: Administración de cuentas de usuario
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 admite los siguientes métodos para crear, administrar y autenticar usuarios.
-ms.openlocfilehash: 27c8cc588720eac081856bedf979a7b004a0d1ec
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+ms.openlocfilehash: edb1f321761409eda0ae6b0e7180bc317f4a7bd5
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210283"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467747"
 ---
 # <a name="user-account-management"></a>Administración de cuentas de usuario
 
@@ -49,7 +49,7 @@ El tipo de identidad influye en la experiencia del usuario y en las opciones de 
   
 ### <a name="custom-domains-and-identity-options"></a>Dominios personalizados y opciones de identidad
 
-Al crear un nuevo usuario, el nombre de inicio de sesión y la dirección de correo electrónico del usuario se asignan al dominio predeterminado, tal como se establece en el centro de administración de Microsoft 365. Para obtener más información, vea [Agregar usuarios y un dominio a Office 365](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
+Al crear un nuevo usuario, el nombre de inicio de sesión y la dirección de correo electrónico del usuario se asignan al dominio predeterminado, tal como se establece en el centro de administración de Microsoft 365. Para obtener más información, vea [Agregar usuarios y dominio a Office 365](https://support.office.com/en-us/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
   
 De manera predeterminada, la suscripción a Office 365 usa el dominio \< _company name_\> **.onmicrosoft.com** que se ha creado con la cuenta.\* Puede agregar uno o más dominios personalizados a Office 365 en lugar de mantener el dominio onmicrosoft.com, y puede asignar usuarios para que inicien sesión en cualquiera de los dominios validados. Cada dominio asignado al usuario es la dirección de correo electrónico que aparecerá en los mensajes de correo electrónico enviados y recibidos. 
   
@@ -75,9 +75,9 @@ A excepción de los sitios de Internet para acceso anónimo creados con SharePoi
     
 Office 365 usa la autenticación basada en formularios, y el tráfico de autenticación a través de la red se cifra siempre con TLS/SSL mediante el puerto 443. El tráfico de autenticación utiliza un porcentaje mínimo de ancho de banda para los servicios de Office 365. 
   
-### <a name="multi-factor-authentication-for-office-365"></a>Autenticación multifactor para Office 365
+### <a name="multi-factor-authentication-for-office-365"></a>Autenticación multifactor para Office 365
 
-Con multi-factor Authentication para Office 365\*, los usuarios deben confirmar una llamada de teléfono, un mensaje de texto o una notificación de la aplicación en su smartphone después de escribir correctamente su contraseña. Solo después de esta segunda autenticación, el usuario puede iniciar sesión. Office 365 los administradores pueden inscribir usuarios para la autenticación multifactor en el centro de administración de Microsoft 365. Obtenga más información sobre [multi-factor Authentication para Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
+Con Multi-Factor Authentication para Office 365\*, los usuarios necesitan confirmar una llamada telefónica, un mensaje de texto o una notificación de aplicación en su smartphone después de escribir correctamente la contraseña. Solo después de esta segunda autenticación, el usuario podrá iniciar sesión. Office 365 los administradores pueden inscribir usuarios para la autenticación multifactor en el centro de administración de Microsoft 365. Obtenga más información sobre [Multi-Factor Authentication para Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>Autenticación de clientes enriquecidos
 
@@ -115,7 +115,7 @@ La experiencia de inicio de sesión cambia en función del tipo de identidad de 
   
 ## <a name="creating-user-accounts"></a>Creación de cuentas de usuario
 
-Hay varias formas de agregar usuarios a Office 365. Para obtener más información, vea [Agregar usuarios individualmente o de forma masiva a Office 365-ayuda de administración](https://go.microsoft.com/fwlink/p/?linkid=860006) y [Agregar, quitar y administrar usuarios en la vista previa del centro de administración de Microsoft 365](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409). Si usa Office 365 ofrecido por 21Vianet en China, consulte [crear o Editar cuentas de usuario en Office 365 operado por 21Vianet-ayuda para administradores](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409).
+Existen varias maneras de agregar usuarios a Office 365. Para obtener más información, vea [Agregar usuarios individualmente o de forma masiva a Office 365-ayuda de administración](https://go.microsoft.com/fwlink/p/?linkid=860006) y [Agregar, quitar y administrar usuarios en la vista previa del centro de administración de Microsoft 365](http://go.microsoft.com/fwlink/?LinkID=624101&amp;clcid=0x409). Si usa Office 365 operado por 21Vianet en China, vea [Crear o modificar cuentas de usuario en Office 365 operado por 21Vianet: ayuda para administradores](http://go.microsoft.com/fwlink/?LinkID=730724&amp;clcid=0x409).
   
 ## <a name="deleting-accounts"></a>Eliminación de cuentas
 
@@ -145,7 +145,7 @@ Existen varias herramientas para restablecer las contraseñas de los usuarios co
   
 - **El administrador restablece la contraseña** Si los usuarios pierden u olvidan las contraseñas, los administradores pueden restablecer las contraseñas de los usuarios en el portal de Office 365 o mediante Windows PowerShell. Los usuarios solo pueden cambiar su contraseña si conocen la contraseña existente. 
     
-    Para los planes empresariales, si los administradores pierden u olvidan sus contraseñas, un administrador diferente con la función de administrador global puede restablecer las contraseñas de los administradores en el centro de administración de Microsoft 365 o mediante Windows PowerShell. Para obtener más información, consulte [restablecer contraseñas para administradores](https://go.microsoft.com/fwlink/p/?LinkID=270062). Si está trabajando en Office 365 operado por 21Vianet en China, vea [cambiar o restablecer contraseñas en office 365 operado por 21Vianet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409).
+    Para los planes empresariales, si los administradores pierden u olvidan sus contraseñas, un administrador diferente con la función de administrador global puede restablecer las contraseñas de los administradores en el centro de administración de Microsoft 365 o mediante Windows PowerShell. Para obtener más información, vea [Restablecer las contraseñas de los administradores](https://go.microsoft.com/fwlink/p/?LinkID=270062). Si trabaja con Office 365 ofrecido por 21Vianet en China, vea [Cambiar o restablecer contraseñas en Office 365 ofrecido por 21Vianet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409).
     
 - **El usuario cambia la contraseña con Outlook Web App** En la página de opciones de Outlook Web App se incluye un hipervínculo de cambio de contraseña que redirige a los usuarios a la página **Cambiar contraseña**. El usuario necesita conocer la contraseña anterior. Para obtener más información, vea [Cambiar contraseña](https://go.microsoft.com/fwlink/p/?LinkID=270063). Si usa Office 365 ofrecido por 21Vianet en China, vea [Cambiar o restablecer contraseñas en Office 365 ofrecido por 21Vianet](http://go.microsoft.com/fwlink/?LinkID=730731&amp;clcid=0x409).
     
@@ -167,7 +167,7 @@ Los administradores de facturación de Office 365 pueden realizar cambios en los
   
 ## <a name="group-management"></a>Administración de grupos
 
-Los grupos de seguridad se usan en SharePoint Online para controlar el acceso a los sitios. Se pueden crear grupos de seguridad en el centro de administración de Microsoft 365. Para obtener más información acerca de los grupos de seguridad, vea [crear, editar o eliminar un grupo de seguridad](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409).
+Los grupos de seguridad se usan en SharePoint Online para controlar el acceso a los sitios. Se pueden crear grupos de seguridad en el centro de administración de Microsoft 365. Para obtener más información sobre los grupos de seguridad, vea [Crear, editar o eliminar un grupo de seguridad](http://go.microsoft.com/fwlink/?LinkID=733611&amp;clcid=0x409).
   
 ## <a name="administrator-roles"></a>Funciones de administrador
 

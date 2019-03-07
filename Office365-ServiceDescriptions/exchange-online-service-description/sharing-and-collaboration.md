@@ -1,7 +1,7 @@
 ---
 title: Uso compartido y colaboración
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 13ab2163b76b5ccc4732659a64be5fcead01dc9d
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: ca55a389f5ed117b09b6c10ca1b2caf42bf01be0
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036977"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466927"
 ---
 # <a name="sharing-and-collaboration"></a>Uso compartido y colaboración
 
@@ -43,7 +43,7 @@ Para obtener más información sobre los buzones de sitio, vea [Buzones del siti
   
 ## <a name="public-folders"></a>Carpetas públicas
 
-Las carpetas públicas en Exchange Online se ha han modernos para aprovechar las ventajas de la alta disponibilidad y almacenamiento de las tecnologías existentes de la base de datos de buzón de correo. La arquitectura de carpetas públicas utiliza buzones especialmente diseñados para almacenar la jerarquía y el contenido de carpetas públicas. Esto significa que ya no es una base de datos de carpetas públicas independientes. Replicación de carpetas públicas ahora usa el modelo de replicación continua. Alta disponibilidad para los buzones de jerarquía y contenido se proporciona mediante un grupo de disponibilidad de base de datos (DAG) en el centro de datos. En Exchange Online, está limitado a 1000 buzones de carpetas públicas. Cada buzón de carpeta pública tiene también un tamaño máximo de almacenamiento. Para obtener más información, vea la sección "Límites de carpeta de buzón de correo" en [Límites de Exchange Online](exchange-online-limits.md). Buzones de carpetas públicas tienen el mismo mensaje, destinatario y límites de capacidad de alerta como buzones regulares. Para obtener más información, vea [los destinatarios](recipients.md). 
+Las carpetas públicas en Exchange Online se han modernizado para aprovechar las tecnologías de almacenamiento y alta disponibilidad existentes de la base de datos de buzones. La arquitectura de carpeta pública usa buzones especialmente diseñados para almacenar la jerarquía y el contenido de carpeta pública. Esto significa que ya no hay una base de datos de carpetas públicas independiente. La replicación de carpetas públicas ahora utiliza el modelo de replicación continua. La alta disponibilidad para los buzones de contenido y jerarquía está suministrada por un grupo de disponibilidad de base de datos (DAG) en el centro de datos. En Exchange Online, se limita a 1000 buzones de carpetas públicas. Cada buzón de carpeta pública también tiene un tamaño de almacenamiento máximo. Para obtener más información, vea la sección "Límites de carpeta de buzones de correo" en [Límites de Exchange Online](exchange-online-limits.md). Los buzones de carpetas públicas tienen los mismos límites de mensajes, destinatarios y alertas de capacidad que los buzones normales. Para más información, consulte [Destinatarios](recipients.md). 
   
 Para obtener más información sobre las carpetas públicas, vea [Carpetas públicas](https://go.microsoft.com/fwlink/p/?LinkId=271790).
   

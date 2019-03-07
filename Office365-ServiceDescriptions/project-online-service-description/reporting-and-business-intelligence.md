@@ -1,7 +1,7 @@
 ---
 title: Creación de informes y Business Intelligence
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 22e85387-8f5f-4b85-b064-b3c4eda8916d
-description: Las características de inteligencia empresarial e informes siguientes están disponibles en Project Online.
-ms.openlocfilehash: eee05d4f12af50e0df090cf21b8bc9f6c73ba7ad
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Las siguientes características de informes y Business Intelligence están disponibles en Project online.
+ms.openlocfilehash: 37bad29131a8c18a312bfc1b7b784e07080c4203
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037015"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466487"
 ---
 # <a name="reporting-and-business-intelligence"></a>Creación de informes y Business Intelligence
 
-Las características de inteligencia empresarial e informes siguientes están disponibles en Project Online.
+Las siguientes características de informes y Business Intelligence están disponibles en Project online.
   
 ## <a name="odata-feeds"></a>Fuentes de OData
 <a name="bkmk_ODataFeeds"> </a>
@@ -30,7 +30,7 @@ Las fuentes OData permiten consultas REST y diversas bibliotecas de cliente de O
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Paneles de cartera predeterminados
 <a name="bkmk_OutOfTheBoxPortfolioDashboards"> </a>
 
-Informes enriquecidos, de fábrica están diseñados para ser inmediatamente útil para muchos clientes, y la aplicación web también permite la personalización de los paneles de cartera de proyectos para ayudar a satisfacer las necesidades específicas de la organización. Elegir entre una variedad de proyecto, tarea e informes basados en recursos, incluidos informes de problemas, riesgos, entregas, así como varias opciones de filtrado, incluido el filtrado por los campos personalizados. Los informes se pueden personalizar con unos cuantos clics sin salir de la aplicación. 
+Los informes completos y prediseñados están diseñados para que sean útiles de forma inmediata para muchos clientes y la aplicación web también permite personalizar el panel de la cartera de proyectos para satisfacer necesidades organizativas específicas. Elija entre una amplia variedad de informes basados en recursos, tareas y proyectos, incluidos los informes de problemas/riesgos/resultados, así como varias opciones de filtrado, incluido el filtrado por campos personalizados. Los informes se pueden personalizar con solo unos clics sin salir de la aplicación. 
   
 ## <a name="project-desktop-reporting"></a>Informes de escritorio de proyecto
 <a name="bkmk_ProjectDesktopReporting"> </a>

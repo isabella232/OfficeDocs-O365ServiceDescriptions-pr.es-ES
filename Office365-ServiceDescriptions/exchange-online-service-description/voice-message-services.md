@@ -1,7 +1,7 @@
 ---
 title: Servicios de mensajes de voz
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 98591e47ece7c59581824c6df375c41c66b7d2d1
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+ms.openlocfilehash: 3879252927a26f47cd5d92f0fbcfbdecf4466c2a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24037062"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467927"
 ---
 # <a name="voice-message-services"></a>Servicios de mensajes de voz
 
@@ -25,9 +25,9 @@ ms.locfileid: "24037062"
 
 Microsoft Exchange Online ofrece servicios de correo de voz hospedado, que brindan:
   
-- Contestador automático (correo de voz)
+- Microsoft Exchange Online ofrece servicios de correo de voz hospedado, que brindan:
     
-- Interfaz de usuario de acceso telefónico a Exchange (Outlook Voice Access)
+- Contestador automático (correo de voz)
     
 - Interfaz de usuario de acceso telefónico a Exchange (Outlook Voice Access)
     
@@ -41,33 +41,33 @@ Los servicios de mensajería de voz hospedados permiten a una empresa conectar s
     
 - Notificaciones de llamadas perdidas.
     
-- Restablecimiento de Outlook en el web y Outlook (consulte [Restablecer un PIN del correo de voz](https://go.microsoft.com/fwlink/p/?LinkId=286328)) del PIN del correo de voz.
+- Voice mail PIN reset from Outlook on the web and Outlook (see [Reset a Voice Mail PIN](https://go.microsoft.com/fwlink/p/?LinkId=286328)).
     
 - Restablecimiento de PIN del correo de voz desde Outlook Web App y Outlook (vea [Restablecer un PIN del correo de voz](https://go.microsoft.com/fwlink/p/?LinkId=271794)). 
     
-- Reglas del contestador automático (para obtener más información, vea [Permitir a los usuarios de correo de voz reenviar llamadas](https://go.microsoft.com/fwlink/p/?LinkId=271795)). 
+- Indicador de mensajes en espera (para obtener más información, vea [Indicador de mensajes en espera en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271795)). 
     
-- Correo de voz protegido en Exchange Online (para obtener más información, vea [Proteger el correo de voz en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796)). 
+- Reglas del contestador automático (para obtener más información, vea [Permitir a los usuarios de correo de voz reenviar llamadas](https://go.microsoft.com/fwlink/p/?LinkId=271796)). 
     
-- Vista previa de correo de voz (vea la lista de idiomas admitidos en [Permitir a usuarios ver las transcripciones de correo de voz](https://go.microsoft.com/fwlink/p/?LinkId=271797)). 
+- Correo de voz protegido en Exchange Online (para obtener más información, vea [Proteger el correo de voz en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271797)). 
+    
+- Speech access to email, voice mail, calendar, personal contacts, and personal contact groups.
     
 - Acceso por voz a correo, correo de voz, calendario, contactos personales y grupos de contactos personales.
     
 - Búsqueda de directorios con Outlook Voice Access o un operador automático.
     
-- Los administradores configuran y administran la interoperabilidad de los servicios de mensajería de voz en el Centro de administración de Exchange (EAC).
-    
-Para obtener más información sobre las características del correo de voz, vea [Correo de voz en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
+For more information about voice mail features, see [Voice Mail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
   
 > [!IMPORTANT]
-> La característica Reconocimiento de voz automático (ARS) no está disponible en la navegación de menús o la búsqueda de directorios para usuarios de Outlook Voice Access o llamadores de operador automático que utilizan comandos de voz. > El cliente debe proporcionar una conexión telefónica desde la red telefónica conmutada pública (PSTN) con una puerta de enlace VoIP y PBX, IP PBX o Skype Empresarial Server 2015. > El cliente debe proporcionar los dispositivos de hardware SBC locales y garantizar que estén configurados correctamente para conectarse a los servicios de correo de voz en línea. Esto incluye configurar el nivel apropiado de seguridad mediante certificados, interfaces IP públicas y privadas, y la habilitación de los puertos TCP correctos a través de sus firewalls locales. > El correo de voz hospedado está disponible solamente para suscriptores de Exchange Online Plan 2 y Office 365 Enterprise E3. 
+> The Automatic Speech Recognition (ASR) feature isn't available in menu navigation or directory search for Outlook Voice Access users or auto attendant callers using voice commands. > The customer must provide a telephony connection from the public switched telephone network (PSTN) using a VoIP gateway and PBX, IP PBX, or Skype for Business Server 2015. > The customer must provide the on-premises SBC hardware devices and ensure that the SBCs are correctly configured to connect to the online voice mail services. This includes configuring the appropriate level of security by using certificates and public and private IP interfaces and by enabling the correct TCP ports through their on-premises firewalls. > Hosted voice mail is available only to Exchange Online Plan 2 and Office 365 Enterprise E3 subscribers. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interoperabilidad del correo de voz de terceros
 
-Las soluciones de correo de voz locales de terceros pueden interoperar con Exchange Online si pueden reenviar mensajes de voz a través de SMTP o si admiten los servicios web de Microsoft Exchange. Si el sistema de correo de voz no admite de manera nativa el reenvío de mensajes de voz a través de SMTP, es posible tener un servidor en forma local para recibir mensajes del sistema de correo de voz y luego reenviarlos a la nube a través de SMTP. Debido a que muchos sistemas de correo de voz de terceros utilizan MAPI/CDO para interoperar con Exchange Server para características de mensajería unificada avanzadas, las capacidades completas de estos sistemas podrían no estar disponibles cuando SMTP se utiliza para la interoperabilidad con Exchange Online.
+Interoperabilidad del correo de voz de terceros
   
 > [!NOTE]
-> Exchange Online mensajería unificada compatibilidad con sistemas PBX de terceros a través de conexiones directas de cliente que se emplean SBCs finalizará en julio de 2018. Para obtener más información, consulte [fin de la asistencia para controladores de borde de sesión en Online mensajería unificada de Exchange](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) . 
+> Exchange Online UM support for third-party PBX systems via direct connections from customer operated SBCs will end in July 2018. Please see [Discontinuation of support for Session Border Controllers in Exchange Online Unified Messaging](https://blogs.technet.microsoft.com/exchange/2017/07/18/discontinuation-of-support-for-session-border-controllers-in-exchange-online-unified-messaging/) for more information. 
   
 ## <a name="skype-for-business-integration"></a>Integración con Skype Empresarial
 

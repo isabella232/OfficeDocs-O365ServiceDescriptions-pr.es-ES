@@ -1,7 +1,7 @@
 ---
 title: Creación de informes y seguimiento de mensajes
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,35 +12,35 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
-description: Microsoft Exchange Online Protection (EOP) ofrece muchos informes distintos que pueden ayudarle a determinar el estado general y el estado de su organización. Algunos informes están disponibles en el centro de administración de Microsoft 365, mientras que otros están disponibles en el centro de administración de Exchange (EAC).
-ms.openlocfilehash: b52e1e33a8eec0694143c3dc277481fff79bf918
-ms.sourcegitcommit: 4abe1be8a63406e8a8c1a4a69f95386906ea1499
+description: Microsoft Exchange Online Protection (EOP) ofrece muchos informes distintos que le permitirán averiguar el estado general y el mantenimiento de la organización. Algunos informes están disponibles en el centro de administración de Microsoft 365, mientras que otros están disponibles en el centro de administración de Exchange (EAC).
+ms.openlocfilehash: 9ad043776baf9c9a2e5ea8ca7cead0811ca66d3a
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30210213"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466827"
 ---
 # <a name="reporting-and-message-trace"></a>Creación de informes y seguimiento de mensajes
 
-Microsoft Exchange Online Protection (EOP) ofrece muchos informes distintos que pueden ayudarle a determinar el estado general y el estado de su organización. Algunos informes están disponibles en el centro de administración de Microsoft 365, mientras que otros están disponibles en el centro de administración de Exchange (EAC).
+Microsoft Exchange Online Protection (EOP) ofrece muchos informes distintos que le permitirán averiguar el estado general y el mantenimiento de la organización. Algunos informes están disponibles en el centro de administración de Microsoft 365, mientras que otros están disponibles en el centro de administración de Exchange (EAC).
   
 ¿Busca información sobre todas las características de EOP? Vea [Descripción de servicio Protección en línea de Exchange](exchange-online-protection-service-description.md).
   
 ## <a name="microsoft-365-admin-center-reports"></a>Informes del centro de administración de Microsoft 365
 <a name="BKMK_office365admincenterreports"> </a>
 
-La página informes del centro de administración de Microsoft 365 proporciona información sobre el tráfico de mensajes, las detecciones de correo no deseado y malware, y los mensajes afectados por las directivas de transporte de Exchange o de prevención de pérdida de datos (DLP). Los informes mejorados para protección, reglas y DLP ofrecen una experiencia de informes interactiva para los administradores de EOP. Estos informes proporcionan datos de Resumen y la capacidad de profundizar en los detalles sobre los mensajes individuales.
+La página informes del centro de administración de Microsoft 365 proporciona información sobre el tráfico de mensajes, las detecciones de correo no deseado y malware, y los mensajes afectados por las directivas de transporte de Exchange o de prevención de pérdida de datos (DLP). Los informes mejorados para protección, reglas y DLP ofrecen una experiencia interactiva de informes para los administradores de EOP. Estos informes proporcionan datos de resumen y la capacidad de rastrear desagrupando datos en detalles sobre mensajes individuales.
   
 Para obtener más información sobre estos informes, vea [Uso de informes de protección de correo en Office 365 para ver datos sobre malware, correo no deseado y detecciones de reglas](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
-## <a name="excel-download-application-reports"></a>Informes de aplicaciones de descarga de Excel
+## <a name="excel-download-application-reports"></a>Excel download application reports
 <a name="BKMK_exceldownloadapplicationreports"> </a>
 
-Los informes de protección de correo electrónico también están disponibles en el libro de informes de Excel 2013, que proporciona informes de resumen con capacidades de desglose. Sin embargo, se recomienda usar en su lugar los informes mejorados del centro de administración de Microsoft 365. Se planea que el libro de informes de Excel 2013 quede en desuso en el futuro. 
+Los informes de protección de correo electrónico también están disponibles en el libro de informes de Excel 2013, que proporciona informes de resumen con capacidades de exploración en profundidad. Sin embargo, se recomienda usar en su lugar los informes mejorados del centro de administración de Microsoft 365. Está previsto que el libro de informes de Excel 2013 quede en desuso en el futuro. 
   
 Para obtener información general y vínculos para descargar e instalar el libro, vea [Informes de protección de correo para Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271776). Para obtener información sobre cómo usar el libro, vea [Informes de protección de correo con el libro de informes de Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211).
   
-## <a name="reporting-using-web-services"></a>Creación de informes mediante servicios web
+## <a name="reporting-using-web-services"></a>Reporting using web services
 <a name="BKMK_reportingusingwebservices"> </a>
 
 No está disponible para clientes independientes de EOP. Puede usar el servicio web Informes de espacio empresarial de REST/OData para recopilar con programación informes resumidos y detallados sobre datos de mensajes, y puede visualizar los datos en una página web de un portal web personalizado de administración. Para obtener más información, vea [Servicios web de informes de Office 365](https://go.microsoft.com/fwlink/?LinkId=279926).

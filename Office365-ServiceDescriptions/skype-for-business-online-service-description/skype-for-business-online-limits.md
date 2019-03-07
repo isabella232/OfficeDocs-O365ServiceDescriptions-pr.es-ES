@@ -1,7 +1,7 @@
 ---
 title: Límites de Skype Empresarial Online
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: 'Los límites en Skype para profesionales en línea se dividen en las siguientes categorías:'
-ms.openlocfilehash: 85d1d9ec41f9ae39c85beac69e85c740acf2bcfe
-ms.sourcegitcommit: 028de610eca1404216c28912940a6d8ee72bdebc
+description: 'Los límites en Skype empresarial online entran en las siguientes categorías:'
+ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/10/2018
-ms.locfileid: "27213897"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466967"
 ---
 # <a name="skype-for-business-online-limits"></a>Límites de Skype Empresarial Online
 
-Los límites en Skype para profesionales en línea se dividen en las siguientes categorías:
+Los límites en Skype empresarial online entran en las siguientes categorías:
   
 - [Límites de punto a punto](skype-for-business-online-limits.md#peer-to-peer-limits)
     
@@ -44,17 +44,17 @@ Los límites en Skype para profesionales en línea se dividen en las siguientes 
     
 - **Límite de conversaciones en pestañas abiertas** El número máximo de pestañas de conversación que un usuario de Skype Empresarial puede tener abiertas a la vez. 
     
-### <a name="peer-to-peer-limits-across-office-365-options"></a>Límites de punto a punto a través de opciones de Office 365
+### <a name="peer-to-peer-limits-across-office-365-options"></a>Límites de punto a punto a través de opciones de Office 365
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
 |Límite de transferencia de archivos  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |No aplicable  <br/> |
-|Conversación límite<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
+|Límite de conversaciones<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Límite de conversaciones en pestañas abiertas  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |No aplicable  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> un cliente puede iniciar una charla con los usuarios hasta 99 manualmente agregando ellos o enviar un mensaje instantáneo desde el menú contextual de un grupo o lista de distribución. Para obtener más información acerca de la mensajería instantánea en Skype para profesionales en línea, vea [Enviar un mensaje instantáneo en Skype para la empresa](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> un cliente puede iniciar un chat con hasta 99 usuarios si los agrega manualmente o envía un mensaje instantáneo desde el menú contextual de un grupo o una lista de distribución. Para obtener más información acerca de la mensajería instantánea en Skype empresarial online, consulte [Enviar un mensaje instantáneo en Skype empresarial](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Límites de punto a punto a través de opciones independientes
 
@@ -62,11 +62,11 @@ Los límites en Skype para profesionales en línea se dividen en las siguientes 
 |:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Skype Empresarial Online Plan independiente 1** <br/> |**Skype Empresarial Online Plan independiente 2** <br/> |
 |Límite de transferencia de archivos  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |
-|Conversación límite<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
+|Límite de conversaciones<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Límite de conversaciones en pestañas abiertas  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> un cliente puede iniciar una charla con los usuarios hasta 99 manualmente agregando ellos o enviar un mensaje instantáneo desde el menú contextual de un grupo o lista de distribución. Para obtener más información acerca de la mensajería instantánea en Skype para profesionales en línea, vea [Enviar un mensaje instantáneo en Skype para la empresa](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> un cliente puede iniciar un chat con hasta 99 usuarios si los agrega manualmente o envía un mensaje instantáneo desde el menú contextual de un grupo o una lista de distribución. Para obtener más información acerca de la mensajería instantánea en Skype empresarial online, consulte [Enviar un mensaje instantáneo en Skype empresarial](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>Límites de reuniones
 <a name="bkmk_Meeting_LyncOnlineLimits"> </a>
@@ -83,18 +83,18 @@ Los límites en Skype para profesionales en línea se dividen en las siguientes 
     
 - **Invitados que se unen por teléfono** El número máximo de invitados que pueden llamar a una reunión. 
     
-### <a name="meeting-limits-across-office-365-options"></a>Límites de reuniones en las opciones de Office 365
+### <a name="meeting-limits-across-office-365-options"></a>Límites de reuniones en las opciones de Office 365
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Límite de carga de archivos  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |No aplicable  <br/> |
+|Límite de carga de archivos  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |No aplicable  <br/> |
 |Participantes en una reunión de Skype Empresarial<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
 |Moderadores en una reunión de Skype Empresarial  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
 |Participantes de una reunión en la aplicación web de Skype Empresarial  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
 |Participantes anónimos de una reunión en la aplicación web de Skype Empresarial  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
 |Invitados que se unen por teléfono  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
-|Usuarios en un grupo de llamada de equipo  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |25  <br/> |No aplicable  <br/> |
+|Usuarios en un grupo de llamada de equipo  <br/> |IVA  <br/> |IVA  <br/> |IVA  <br/> |IVA  <br/> |IVA  <br/> |No aplicable  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Si el número de participantes en una reunión de Skype Empresarial supera los 75, la lista de participantes (moderadores y asistentes) de la lista de reuniones se truncará para que un asistente en particular vea solo los moderadores y el propio nombre del asistente en cuestión. La lista completa de participantes permanece visible para los presentadores de la reunión. Además, los errores de la Vista Galería y de mensajería instantánea quedarán ocultos para los asistentes. 
@@ -104,13 +104,13 @@ Los límites en Skype para profesionales en línea se dividen en las siguientes 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Skype Empresarial Online Plan independiente 1** <br/> |**Skype Empresarial Online Plan independiente 2** <br/> |
-|Límite de carga de archivos  <br/> |500 MB  <br/> |No disponible  <br/> |500 MB  <br/> |
+|Límite de carga de archivos  <br/> |500 MB  <br/> |No disponible  <br/> |500 MB  <br/> |
 |Participantes en una reunión de Skype Empresarial  <br/> |250  <br/> |No aplicable  <br/> |250  <br/> |
 |Moderadores en una reunión de Skype Empresarial  <br/> |250  <br/> |No aplicable  <br/> |250  <br/> |
 |Participantes de una reunión en la aplicación web de Skype Empresarial  <br/> |250  <br/> |No aplicable  <br/> |250  <br/> |
 |Participantes anónimos de una reunión en la aplicación web de Skype Empresarial  <br/> |250  <br/> |No aplicable  <br/> |250  <br/> |
 |Invitados que se unen por teléfono  <br/> |250  <br/> |No aplicable  <br/> |250  <br/> |
-|Usuarios en un grupo de llamada de equipo  <br/> |25  <br/> |No aplicable  <br/> |25  <br/> |
+|Usuarios en un grupo de llamada de equipo  <br/> |IVA  <br/> |No aplicable  <br/> |IVA  <br/> |
    
 ## <a name="meeting-retention-limits"></a>Límites de retención de reunión
 <a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>
@@ -119,7 +119,7 @@ Los límites en Skype para profesionales en línea se dividen en las siguientes 
     
 - **Período de caducidad de la reunión** La cantidad de tiempo durante el cual los usuarios pueden tener acceso a la reunión después de haber terminado. 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Los límites de retención de la reunión a través de opciones de Office 365 y los planes independientes
+### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Límites de retención de reunión en las opciones de Office 365 y los planes independientes
 
 > [!NOTE]
 > Cada persona puede tener un máximo de 1000 conferencias en la base de datos en cualquier momento. 
@@ -127,10 +127,10 @@ Los límites en Skype para profesionales en línea se dividen en las siguientes 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Tipo de reunión** <br/> |**Descripción** <br/> 
-|Reunión única| Reunión será accesible al menos hasta 14 días después de la hora programada, o la activación de la reunión por última vez o la última actualización de la reunión, lo que sea más reciente.
-|Reunión periódica con fecha de finalización| Reunión será accesible al menos hasta 14 días después de la hora de finalización programada de la última aparición de reunión, o la activación de la reunión por última vez o última actualización de la reunión, lo que sea más reciente.
-|Reunión periódica sin fecha de finalización| Reunión siempre será accesible, proporciona hay nuevas combinaciones de conferencia (activaciones) o la programación de actualizaciones al menos una vez al año
-|     Reunirse ahora|Reunión será accesible para al menos 8 horas.
+|Reunión única| Se podrá tener acceso a la reunión al menos hasta 14 días después de la hora programada, o la última activación de reunión o la última actualización de la reunión, lo que sea más reciente.
+|Reunión periódica con fecha de finalización| Se podrá tener acceso a la reunión al menos hasta 14 días después de la hora de finalización programada de la última reunión, o bien la última activación de la reunión o la última actualización de la reunión, lo que sea más reciente.
+|Reunión periódica sin fecha de finalización| La reunión siempre será accesible, siempre que haya nuevas incorporaciones de conferencia (activaciones) o que programe actualizaciones al menos una vez al año
+|Reunirse ahora|Se podrá tener acceso a la reunión durante al menos 8 horas.
 
 
   

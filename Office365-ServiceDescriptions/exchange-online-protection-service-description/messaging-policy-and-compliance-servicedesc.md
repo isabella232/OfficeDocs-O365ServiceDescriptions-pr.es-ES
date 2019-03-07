@@ -1,7 +1,7 @@
 ---
 title: Cumplimiento y directivas de mensajería (ServiceDesc)
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection (EOP) proporciona la directiva de mensajería y características de cumplimiento que le ayudan a administración los datos de correo electrónico.
-ms.openlocfilehash: f88cd016586384f4617cd4899708c811a32af980
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y de directivas de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
+ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036953"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30466977"
 ---
 # <a name="messaging-policy-and-complianceservicedesc"></a>Cumplimiento y directivas de mensajería (ServiceDesc)
 
-Microsoft Exchange Online Protection (EOP) proporciona la directiva de mensajería y características de cumplimiento que le ayudan a administración los datos de correo electrónico.
+Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y de directivas de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
   
 ¿Busca información sobre todas las características de EOP? Vea [Descripción de servicio Protección en línea de Exchange](exchange-online-protection-service-description.md).
   
@@ -64,10 +64,10 @@ Puede configurar directivas de DLP en el EAC, lo que le permite:
   
 Para obtener más información sobre DLP, vea [Prevención de pérdida de datos](https://go.microsoft.com/fwlink/p/?LinkId=320398).
   
-## <a name="office-365-message-encryption"></a>Cifrado de mensajes de Office 365
+## <a name="office-365-message-encryption"></a>Cifrado de mensajes de Office 365
 <a name="BKMK_OME_in_EOP"> </a>
 
-Cifrado de mensajes de Office 365, una parte de la protección de la información de Azure, es un servicio en línea que permite a los usuarios de correo electrónico enviar mensajes de correo electrónico cifrado a cualquier persona. Los clientes locales pueden tener acceso a cifrado de mensajes de Office 365 mediante la compra de protección de la información de Azure y uso de Exchange Online Protection para configurar el flujo de correo a través de Exchange Online. Para obtener más información acerca del cifrado de mensajes de Office 365 en Exchange Online, vea [Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) en la descripción del servicio Exchange Online. 
+El cifrado de mensajes de Office 365, una parte de Azure Information Protection, es un servicio en línea que permite a los usuarios de correo electrónico enviar mensajes de correo electrónico cifrados a cualquier persona. Los clientes locales pueden obtener acceso al cifrado de mensajes de Office 365 mediante la compra de Azure Information Protection y el uso de Exchange Online Protection para configurar el flujo de correo a través de Exchange Online. Para obtener más información sobre el cifrado de mensajes de Office 365 en Exchange Online, consulte [Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) en la Descripción del servicio de Exchange Online. 
   
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Características de cumplimiento y de directivas de mensajería en las opciones de EOP.
 <a name="BKMK_OME_in_EOP"> </a>
@@ -80,6 +80,6 @@ Cifrado de mensajes de Office 365, una parte de la protección de la informació
 |Cifrado de mensajes de Office 365  <br/> |Sí<sup>4</sup> <br/> |Sí  <br/> |Sí<sup>4</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> los criterios disponibles y las acciones difieren de elevación de privilegios y Exchange Online. Para obtener una lista de criterios disponibles y acciones en EOP, vea [Criterios de la regla de transporte](https://go.microsoft.com/fwlink/p/?LinkId=320392) y [Acciones de regla de transporte](https://go.microsoft.com/fwlink/p/?LinkId=320393). Para obtener una lista de criterios disponibles y acciones en Exchange Online, vea [Criterios de la regla de transporte](https://go.microsoft.com/fwlink/p/?LinkId=320394) y [Acciones de regla de transporte](https://go.microsoft.com/fwlink/p/?LinkId=320395). > Informes de auditoría de <sup>2</sup> EOP es un subconjunto de Exchange Online de auditoría informes que excluyen la información acerca de los buzones de correo. > <sup>3</sup> sugerencias de directivas DLP no están disponibles para Exchange Enterprise CAL con los clientes de servicios. > <sup>4</sup> compatibles para los clientes locales que adquieren el complemento de protección de la información de Azure y usar Exchange Online Protection para enrutar el correo electrónico a través de Exchange Online. Para la experiencia de escritorio, además de complemento de protección de la información de Azure, Office 365 ProPlus debe adquirirse. 
+> <sup>1</sup> Los criterios y las acciones disponibles varían entre Exchange Online y EOP. Para obtener una lista de los criterios y acciones disponibles en EOP, vea [Condiciones de reglas de transporte (predicados)](https://go.microsoft.com/fwlink/p/?LinkId=320392) y [Acciones de reglas de transporte](https://go.microsoft.com/fwlink/p/?LinkId=320393). Para obtener una lista de los criterios y acciones disponibles en Exchange Online, vea [Condiciones de reglas de flujo de correo (predicados)](https://go.microsoft.com/fwlink/p/?LinkId=320394) y [Transport Rule Actions](https://go.microsoft.com/fwlink/p/?LinkId=320395). > <sup>2</sup> Los informes de auditoría de EOP son un subconjunto de informes de auditoría de Exchange Online que excluyen información sobre los buzones. > <sup>3</sup> Las sugerencias de directiva DLP no están disponibles para los clientes de Exchange Enterprise CAL con servicios. > <sup>4</sup> se admite para los clientes locales que adquieren el complemento Azure Information Protection y usan Exchange Online Protection para redirigir el correo electrónico a través de Exchange Online. Para la experiencia de escritorio, además del complemento Azure Information Protection, es necesario comprar Office 365 proPlus. 
   
 

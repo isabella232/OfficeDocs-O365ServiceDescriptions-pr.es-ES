@@ -1,7 +1,7 @@
 ---
 title: Características de perfiles de Yammer
-ms.author: pebaum
-author: pebaum
+ms.author: sharik
+author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
-description: A continuación se describen las características de perfiles disponibles en Yammer.
-ms.openlocfilehash: c79b75a8540bf1c141d61d47cc966abc98e54865
-ms.sourcegitcommit: d6dfbaacd56c0855e12500b38acd06be16cd1560
+description: Las siguientes características de perfil están disponibles en Yammer.
+ms.openlocfilehash: 08c1a39a7f0e2aab5d16b2290cce7e5563ea4e37
+ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2018
-ms.locfileid: "24036932"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30467647"
 ---
 # <a name="profile-features-in-yammer"></a>Características de perfiles de Yammer
 
-A continuación se describen las características de perfiles disponibles en Yammer.
+Las siguientes características de perfil están disponibles en Yammer.
   
 ## <a name="user-profiles"></a>Perfiles de usuario
 <a name="bkmk_UserProfiles"> </a>
@@ -34,12 +34,12 @@ Cargue imágenes, especifique detalles de contacto y muestre información sobre 
 
 Busque en la compañía y localice los expertos que necesita. Puesto que es posible realizar búsquedas de experiencia de forma instantánea, podrá encontrar información útil bajo demanda.
   
-## <a name="member-directory"></a>Directorio de socios
+## <a name="member-directory"></a>Member Directory
 <a name="bkmk_MemberDirectory"> </a>
 
 Examine el Directorio de socios para encontrar miembros de su equipo y compañeros en toda la compañía.
   
-## <a name="org-chart"></a>Organigrama
+## <a name="org-chart"></a>Org Chart
 <a name="bkmk_OrgChart"> </a>
 
 Agregue administradores e informes para crear, junto con sus compañeros, un organigrama de la compañía. La información del organigrama aparecerá automáticamente en los perfiles.
