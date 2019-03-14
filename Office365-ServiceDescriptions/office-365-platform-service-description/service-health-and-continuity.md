@@ -3,7 +3,7 @@ title: Continuidad y estado del servicio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 03/12/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Los administradores de Microsoft Office 365 pueden ver el estado de los servicios y saber cuándo está programado el mantenimiento. La información de estado del servicio está disponible en cualquier momento iniciando sesión en Office 365.
-ms.openlocfilehash: 010d93d70ce69717d4b02e752fcafc7734851b5e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
+ms.sourcegitcommit: 61351f48b8662ed5b39b9cce896dd6bb2db0fe32
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466958"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30574144"
 ---
 # <a name="service-health-and-continuity"></a>Continuidad y estado del servicio
 
@@ -40,7 +40,25 @@ Hay dos tipos de notificaciones sobre las horas en las que los servicios pueden 
 - **Eventos de mantenimiento planeados:** El mantenimiento planeado es la actualización periódica del servicio Iniciado por Microsoft para las aplicaciones de infraestructura y software. Las notificaciones de mantenimiento planificadas informan a los clientes sobre el trabajo de servicio que puede afectar a la funcionalidad de un servicio de Office 365. A los clientes se les notifica en un plazo de cinco días antes de todo el mantenimiento planeado a través del centro de mensajes en el portal de administración de Office 365. Microsoft suele planear el mantenimiento de las horas en las que el uso del servicio se encuentra siempre a su nivel más bajo en función de las zonas horarias regionales. 
     
 - **Tiempo de inactividad no planificado:** Los incidentes de servicio no planificados ocurren cuando uno de los servicios en el conjunto de aplicaciones de Office 365 no está disponible o no responde. 
-    
+
+### <a name="recent-worldwide-uptimes"></a>Recientes plazos de actividad en todo el mundo
+
+El cambio a un servicio en la nube no debería significar la pérdida de la capacidad de saber lo que está ocurriendo. Con Office 365, no es así. Nuestro objetivo es ser transparente en nuestras operaciones para que pueda supervisar el estado de su servicio, realizar un seguimiento de los problemas y tener una vista histórica de la disponibilidad. En las siguientes tablas se muestran los datos recientes de actividad en todo el mundo.
+
+<br/>
+
+|**2018** <br/>||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **Trim** <br/> |**Q3** <br/> |**Tercer** <br/> |
+| 99,99% <br/> | 99,98% <br/> | 99,97% <br/> | 99,98% <br/> |
+
+<br/>
+
+|**2017** <br/> ||||
+|:-----|:-----|:-----|:-----|
+| **Q1** <br/> | **Trim** <br/> |**Q3** <br/> |**Tercer** <br/> |
+| 99,99% <br/> | 99,97% <br/> | 99,98% <br/> | 99,99% <br/> |
+
 ## <a name="notification-policy"></a>Directiva de notificación
 
 Cuando ocurre un incidente de servicio, Microsoft es consciente de que una comunicación precisa, destinada a las personas indicadas y a tiempo resulta fundamental para los clientes. Microsoft notifica a los administradores de Office 365 mediante la actualización del panel de estado del servicio específico del inquilino (publicación) en el portal de administración de Office 365. Las actualizaciones de incidentes de servicio se proporcionan en una cadencia por horas o, si se requiere una cadencia distinta, se indicará en el registro de comunicación de publicación. 
