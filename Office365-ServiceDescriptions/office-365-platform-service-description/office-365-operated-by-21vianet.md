@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 ofrecido por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: a34a4f4a2a96254a65f04e934b3c1c7c178d9088
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 1af7e17c1ab006ef06c1f5d5b0714e10b389379e
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468087"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955809"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -438,19 +438,19 @@ Para obtener información acerca de los límites de Exchange Online, consulte lo
 - [Límites de la libreta de direcciones](../exchange-online-service-description/exchange-online-limits.md#address-book-limits)
     
     
-- [Alertas de capacidad](../exchange-online-service-description/exchange-online-limits.md#capacity-alerts)
+- [Capacity alerts](../exchange-online-service-description/exchange-online-limits.md#capacity-alerts)
     
-- [Límites de la carpeta de buzón de correo](../exchange-online-service-description/exchange-online-limits.md#mailbox-folder-limits)
+- [Mailbox folder limits](../exchange-online-service-description/exchange-online-limits.md#mailbox-folder-limits)
     
-- [Límites de mensajes](../exchange-online-service-description/exchange-online-limits.md#message-limits)
+- [Message limits](../exchange-online-service-description/exchange-online-limits.md#message-limits)
     
 - [Límites de envío y recepción](../exchange-online-service-description/exchange-online-limits.md#receiving-and-sending-limits)
     
-- [Límites de seguimiento de mensajes y creación de informes](../exchange-online-service-description/exchange-online-limits.md#reporting-and-message-trace-limits)
+- [Reporting and message trace limits](../exchange-online-service-description/exchange-online-limits.md#reporting-and-message-trace-limits)
     
-- [Límites de retención](../exchange-online-service-description/exchange-online-limits.md#retention-limits)
+- [Retention limits](../exchange-online-service-description/exchange-online-limits.md#retention-limits)
     
-- [Límites de grupos de distribución](../exchange-online-service-description/exchange-online-limits.md#distribution-group-limits)
+- [Distribution group limits](../exchange-online-service-description/exchange-online-limits.md#distribution-group-limits)
     
 - [Límites de las reglas de la Bandeja de entrada, del diario y de transporte](../exchange-online-service-description/exchange-online-limits.md#journal-transport-and-inbox-rule-limits)
     
@@ -497,11 +497,11 @@ En la siguiente tabla se enumeran las características de Exchange Online Protec
 |[Incluir en una lista segura la dirección IP de un socio](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address) <br/> |Sí  <br/> |Sí  <br/> |
 |[Enrutamiento de correo condicional](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing) <br/> |Sí  <br/> |Sí  <br/> |
 |[Enrutamiento de correo híbrido](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing) <br/> |No  <br/> |Sí  <br/> |
-|[Informes del centro de administración de Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#office-365-admin-center-reports) <br/> |No<sup>8</sup> <br/> |Sí<sup>8, 9</sup> <br/> |
+|[Informes del centro de administración de Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |No<sup>8</sup> <br/> |Sí<sup>8, 9</sup> <br/> |
 |[Informes de aplicaciones de descarga de Excel](../exchange-online-protection-service-description/reporting-and-message-trace.md#excel-download-application-reports) <br/> |No  <br/> |Sí  <br/> |
 |[Creación de informes mediante servicios web](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services) <br/> |No  <br/> |Sí  <br/> |
 |[Seguimiento de mensajes](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace) <br/> |Sí<sup>12</sup> <br/> |Sí<sup>12</sup> <br/> |
-|[Acceso al centro de administración de Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-office-365-admin-center) <br/> |Sí  <br/> |Sí  <br/> |
+|[Acceso al centro de administración de Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Sí  <br/> |Sí  <br/> |
 |[Acceso al Centro de administración de Exchange](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-exchange-admin-center) (EAC)  <br/> |Sí  <br/> |Sí  <br/> |
 |[Acceso a Windows PowerShell remoto](../exchange-online-protection-service-description/administration-and-management-eop.md#remote-windows-powershell-access) <br/> |Sí<sup>2</sup> <br/> |Sí  <br/> |
    
@@ -689,7 +689,7 @@ Todos los planes de Office 365 incluyen el servicio SharePoint Online, pero no t
 |[Identificaciones de documento único](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Búsqueda de vídeo](../sharepoint-online-service-description/content.md#video-search) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Análisis de publicación](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
-|[Tarifas](../sharepoint-online-service-description/content.md#catalog) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
+|[Catalog](../sharepoint-online-service-description/content.md#catalog) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Página de categorías y página de elementos de catálogo](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Elementos Web de búsqueda](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Publicación entre sitios](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |

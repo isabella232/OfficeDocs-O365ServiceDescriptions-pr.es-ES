@@ -1,9 +1,9 @@
 ---
-title: Descripción del servicio de protección contra amenazas avanzada de Office 365
+title: Descripción del servicio de Protección contra amenazas avanzada de Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 02/20/2019
+ms.date: 03/28/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,14 +13,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger su Organización de vínculos perjudiciales en tiempo real. ATP tiene capacidades enriquecidas de informes y seguimiento de URL que proporcionan a los administradores información sobre el tipo de ataques que ocurren en la organización.
-ms.openlocfilehash: 4bdd657ba517db072cf73a5e313d93ce2805b7b3
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: e07691851cdad9bce3f2989e2e6f1665569ec2b5
+ms.sourcegitcommit: de7d615d8967b1acc98a077337a0a2939c782481
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468047"
+ms.lasthandoff: 03/29/2019
+ms.locfileid: "30955759"
 ---
-# <a name="office-365-advanced-threat-protection-service-description"></a>Descripción del servicio de protección contra amenazas avanzada de Office 365
+# <a name="office-365-advanced-threat-protection-service-description"></a>Descripción del servicio de Protección contra amenazas avanzada de Office 365
 
 Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger su Organización de vínculos perjudiciales en tiempo real. ATP tiene capacidades enriquecidas de informes y seguimiento de URL que proporcionan a los administradores información sobre el tipo de ataques que ocurren en la organización.
   
@@ -70,13 +70,13 @@ Seguimos agregando nuevas características a Office 365 ATP. A continuación se 
 
 |Actualizaciones de características  |Elementos de acción  |
 |---------|---------|
-|A partir de febrero de 2019 y la implementación en los próximos meses, las capacidades de [inteligencia sobre amenazas](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) se agregan a ATP. <br>Si su organización no tiene ATP, tiene nuevas opciones que hay que tener en cuenta, incluido el plan 1 de ATP y el plan ATP 2. <br>Para obtener más información, consulte [disponibilidad de características en los planes de protección contra amenazas avanzada (ATP)](#feature-availability-across-advanced-threat-protection-atp-plans) (en este artículo) y [planes y precios de la protección contra amenazas avanzada de Office 365](https://products.office.com/exchange/advance-threat-protection). |Revise la suscripción de su organización y, si es necesario, [compre o edite un complemento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).  |
-|A partir de octubre de 2018 y de implementarse durante los próximos meses, cuando los usuarios usan Outlook o Outlook Web Application (OWA), los [vínculos seguros ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) representan las direcciones URL originales, no las URL reescritas. (Llamamos a esta representación de vínculos nativos).<br>Cuando la representación de vínculos nativos está disponible para su organización, esta característica funcionará en Outlook 365 (hacer clic y ejecutar) y en OWA.|Ninguno         |
-|A partir de 2018 de septiembre, [las páginas de advertencia de ATP de Office 365](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages) presentan una nueva combinación de colores, más detalles y la posibilidad de continuar a un sitio a pesar de determinadas advertencias y recomendaciones. |Ninguno         |
-|A partir de la segunda mitad de 2018, la protección de [vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) se extiende para aplicarse a las direcciones URL en Office Online (Word online, Excel online, PowerPoint online, OneNote online) y Office 365 ProPlus en Mac.   |[Revisar y editar las directivas de vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
-|Desde tarde Mayo 2018, las capacidades de cuarentena del centro &amp; de seguridad y cumplimiento se amplían a [ATP para SharePoint Online, OneDrive para la empresa y Microsoft Teams](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams). |[Revisar y editar las directivas de datos adJuntos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies) |
-|A partir de 2018 de marzo, la protección de [vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) se extiende para aplicarse al correo electrónico que se envía entre personas de una organización. |[Revisar y editar las directivas de vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies) |
-|A partir de la 2017 de octubre de, la protección de [vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) se extiende para aplicarse a las direcciones URL en el correo electrónico, así como a las direcciones URL de los documentos de Office 365 ProPlus, como Word, Excel, PowerPoint y Visio en Windows, así como las aplicaciones de Office en dispositivos iOS y Android.  |Asegurarse de que está usando la [autenticación moderna para Office](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) |
+|[Inteligencia sobre amenazas de Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) Las capacidades de (TI) ahora son capacidades de investigación y respuesta de amenazas como parte del plan ATP 2. Se están implementando nuevas características, como la [investigación y la respuesta automatizadas](https://docs.microsoft.com/office365/securitycompliance/automated-investigation-response-office), y las mejoras en el [Explorador de amenazas](https://docs.microsoft.com/office365/securitycompliance/use-explorer-in-security-and-compliance).<br/>Si su organización no tiene ATP, o si había ATP pero no TI, ahora tiene varias opciones que debe tener en cuenta, con la disponibilidad del plan de ATP 1 y el plan de ATP 2. Para obtener más información, consulte [disponibilidad de características en los planes de protección contra amenazas avanzada (ATP)](#feature-availability-across-advanced-threat-protection-atp-plans) (en este artículo) y [planes y precios de la protección contra amenazas avanzada de Office 365](https://products.office.com/exchange/advance-threat-protection). |Revise la suscripción de su organización y, si es necesario, [compre o edite un complemento](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-or-edit-an-add-on).  |
+|Cuando los usuarios usan Outlook o la aplicación Web de Outlook (OWA), los [vínculos seguros ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) representan las direcciones URL originales, no las direcciones URL reescritas. (Llamamos a esta representación de vínculos nativos).<br>Cuando la representación de vínculos nativos está disponible para su organización, esta característica funcionará en Outlook 365 (hacer clic y ejecutar), OWA y en Windows y Mac OS. |Ninguno         |
+|[Las páginas de advertencia de ATP de Office 365](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages) presentan una nueva combinación de colores, más detalles y la posibilidad de continuar a un sitio a pesar de determinadas advertencias y recomendaciones. |Ninguno         |
+|La protección de [vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) se extiende para aplicarse a las direcciones URL en Office Online (Word online, Excel online, PowerPoint online y OneNote online) y Office 365 ProPlus en Mac.   |[Revisar y editar las directivas de vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
+|Las funciones de cuarentena del &amp; centro de seguridad y cumplimiento se amplían a [ATP para SharePoint Online, OneDrive para la empresa y Microsoft Teams](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams). |[Revisar y editar las directivas de datos adJuntos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies) |
+|La protección de [vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) se extiende para aplicarse al correo electrónico enviado entre personas dentro de una organización. |[Revisar y editar las directivas de vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies) |
+|La protección de [vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) se extiende para aplicarse a las direcciones URL en el correo electrónico, así como a las direcciones URL de los documentos de Office 365 ProPlus, como Word, Excel, PowerPoint y Visio en Windows, así como las aplicaciones de Office en dispositivos iOS y Android.  |Asegurarse de que está usando la [autenticación moderna para Office](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) |
 
   
 ## <a name="requirements-for-office-365-advanced-threat-protection-atp"></a>Requisitos para la protección contra amenazas avanzada de Office 365 (ATP)
@@ -99,7 +99,7 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 |*Automatización, investigación, corrección y educación* |
 |Rastreadores de amenazas |No |Sí |Sí |
 |Explorer (investigación de amenazas avanzada) |No |Sí |Sí |
-|Investigación y respuesta automatizadas  |No |Sí |Sí |
+|Investigación y respuesta de amenazas  |No |Sí |Sí |
 |Simulador de ataque |No |Sí |Sí |
 
    
