@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro de seguridad &amp; y cumplimiento de Office 365 está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 01d739ae1fb363265716021c15b11e51d5daac3e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: a3534103053d4299177880ef1992ad0b7b36b5f7
+ms.sourcegitcommit: d8369cb3d7886e33f9738ad3e95b02de0b54184e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467987"
+ms.lasthandoff: 04/03/2019
+ms.locfileid: "31411869"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -29,8 +29,8 @@ El [centro de seguridad &amp; y cumplimiento de Office 365](https://go.microsoft
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US Government G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 Administración Pública de EE. UU. F1** <br/> |
-|[Acceso al centro de &amp; seguridad y cumplimiento](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|**Característica** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US Government G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Administración Pública de EE. UU. G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 Administración Pública de EE. UU. F1** <br/> |
+|[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Administración de amenazas](https://go.microsoft.com/fwlink/?linkid=845550) , como filtrado de correo y antimalware  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Administración avanzada de amenazas](https://go.microsoft.com/fwlink/?linkid=846673) , como caja de caja de clientes y explorador de amenazas para las campañas de suplantación de identidad <sup>6</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
@@ -56,8 +56,8 @@ El [centro de seguridad &amp; y cumplimiento de Office 365](https://go.microsoft
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Exchange Online (plan 1)** <br/> |**Exchange Online (plan 2)** <br/> |**Quiosco de Exchange Online** <br/> |**SharePoint Online plan 1** <br/> |**SharePoint Online plan 2** <br/> |**Skype Empresarial Online (plan 1)** <br/> |**Skype Empresarial Online (plan 2)** <br/> |
-|[Acceso al centro de &amp; seguridad y cumplimiento](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|**Característica** <br/> |**Plan 1 de Exchange Online** <br/> |**Plan 2 de Exchange Online** <br/> |**Quiosco de Exchange Online** <br/> |**SharePoint Online Plan 1** <br/> |**SharePoint Online Plan 2** <br/> |**Skype Empresarial Online plan 1** <br/> |**Skype Empresarial Online Plan 2** <br/> |
+|[Access to the Security &amp; Compliance Center](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Office 365 Cloud App Security](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |[Administración de amenazas](https://go.microsoft.com/fwlink/?linkid=845550) , como filtrado de correo y antimalware  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Administración avanzada de amenazas](https://go.microsoft.com/fwlink/?linkid=846673) , como caja de caja de clientes y explorador de amenazas para campañas de suplantación de identidad  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -81,10 +81,10 @@ El [centro de seguridad &amp; y cumplimiento de Office 365](https://go.microsoft
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Disponibilidad &amp; del centro de cumplimiento de seguridad en Office 365 operado por 21Vianet
 
-Para obtener información sobre la disponibilidad &amp; del centro de seguridad y cumplimiento de Office 365 en Office [ ](office-365-operated-by-21vianet.md#security--compliance-center-availability-in-office-365-operated-by-21vianet)365 operado por 21Vianet, consulte.
+El centro de seguridad & cumplimiento no está disponible en ningún plan de Office 365 operado por 21Vianet.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-Para obtener información sobre la disponibilidad &amp; del centro de cumplimiento de seguridad de Office 365 en Office [ ](office-365-germany.md#security--compliance-center-availability-in-office-365-germany)365 Germany Enterprise E3, consulte.
+El centro de seguridad & cumplimiento está disponible para Office 365 Germany. Para obtener información sobre Office 365 Germany, consulte [office 365 Germany](office-365-germany.md).
   
 
