@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 admite los siguientes métodos para crear, administrar y autenticar usuarios.
-ms.openlocfilehash: edb1f321761409eda0ae6b0e7180bc317f4a7bd5
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467747"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764858"
 ---
 # <a name="user-account-management"></a>Administración de cuentas de usuario
 
@@ -55,7 +55,7 @@ De manera predeterminada, la suscripción a Office 365 usa el dominio \< _compan
   
 Puede hospedar hasta 900 dominios de Internet registrados en Office 365, cada uno de ellos representado por un espacio de nombres diferente. 
   
-Para las organizaciones que utilizan el inicio de sesión único, todos los usuarios de un dominio deben usar el mismo sistema de identidad: identidad de nube o identidad federada. Por ejemplo, imagine que tiene un grupo de usuarios que solo necesita una identidad de nube porque no tienen acceso a sistemas locales, y otro grupo que usa Office 365 y sistemas locales. Tendría que agregar dos dominios a Office 365, como contractors.contoso.com y staff.contoso.com, y configurar el SSO solo en uno de ellos. Un dominio completo de identidad de nube puede convertirse a identidad federada, o viceversa.
+Para las organizaciones que utilizan el inicio de sesión único, todos los usuarios de un dominio deben usar el mismo sistema de identidad: identidad de nube o identidad federada. Por ejemplo, imagine que tiene un grupo de usuarios que solo necesita una identidad de nube porque no tienen acceso a sistemas locales, y otro grupo que usa Office 365 y sistemas locales. Agregaría dos dominios a Office 365, como contractors.contoso.com y staff.contoso.com, y configurar solo SSO para uno de ellos. Un dominio completo de identidad de nube puede convertirse a identidad federada, o viceversa.
   
 Para más información acerca de los dominios en Office 365, vea la descripción del servicio de [Dominios](domains.md). 
   
@@ -71,13 +71,13 @@ A excepción de los sitios de Internet para acceso anónimo creados con SharePoi
     
 - **Autenticación de identidad de nube** Los usuarios con identidades de nube se autentican mediante el sistema de desafío/respuesta tradicional. El explorador web se redirecciona al servicio de inicio de sesión de Office 365, donde se escribe el nombre de usuario y la contraseña de la cuenta profesional o educativa. El servicio de inicio de sesión autentica las credenciales y genera un token de servicio, que el explorador web publica en el servicio solicitado e inicia su sesión. 
     
-- **Autenticación de identidad federada** Los usuarios con identidades federadas se autentican con Servicios de federación de Active Directory (AD FS) 2.0 u otros servicios de token de seguridad. El explorador web se redirige al servicio de inicio de sesión de Office 365, donde se escribe el id. corporativo con el formato de un nombre principal de usuario (UPN; por ejemplo, isabel@contoso.com). El servicio de inicio de sesión determina si forma parte de un dominio federado y le ofrece la opción de redireccionarle al servidor de federación local para la autenticación. Si inició sesión en el escritorio (unido a dominio), significa que está autenticado (con Kerberos o NTLMv2) y el servicio de token de seguridad local genera un token de inicio de sesión que el explorador web publica en el servicio de inicio de sesión de Office 365. A través del token de inicio de sesión, el servicio de inicio de sesión genera un token de servicio que el explorador web publica en el servicio pedido e inicia su sesión. Para obtener una lista de los servicios de token de seguridad disponibles, vea el [Plan de desarrollo del inicio de sesión único](https://go.microsoft.com/fwlink/p/?LinkID=270015).
+- **Autenticación de identidad federada** Los usuarios con identidades federadas se autentican con los servicios de Federación de Active Directory (AD FS) 2,0 u otros servicios de token de seguridad. El explorador Web se redirige al servicio de inicio de sesión de Office 365, donde se escribe el identificador corporativo en el formulario, un nombre principal de usuario (UPN isabel@contoso.com; por ejemplo,). El servicio de inicio de sesión determina si forma parte de un dominio federado y le ofrece la opción de redireccionarle al servidor de federación local para la autenticación. Si ha iniciado sesión en el escritorio (unido a dominio), se le autentica (mediante Kerberos o NTLMv2) y el servicio de token de seguridad local genera un token de inicio de sesión, que el explorador Web envía al servicio de inicio de sesión de Office 365. A través del token de inicio de sesión, el servicio de inicio de sesión genera un token de servicio que el explorador web publica en el servicio pedido e inicia su sesión. Para obtener una lista de los servicios de token de seguridad disponibles, consulte [plan de inicio de sesión único (Single Sign-on](https://go.microsoft.com/fwlink/p/?LinkID=270015)).
     
 Office 365 usa la autenticación basada en formularios, y el tráfico de autenticación a través de la red se cifra siempre con TLS/SSL mediante el puerto 443. El tráfico de autenticación utiliza un porcentaje mínimo de ancho de banda para los servicios de Office 365. 
   
 ### <a name="multi-factor-authentication-for-office-365"></a>Autenticación multifactor para Office 365
 
-Con Multi-Factor Authentication para Office 365\*, los usuarios necesitan confirmar una llamada telefónica, un mensaje de texto o una notificación de aplicación en su smartphone después de escribir correctamente la contraseña. Solo después de esta segunda autenticación, el usuario podrá iniciar sesión. Office 365 los administradores pueden inscribir usuarios para la autenticación multifactor en el centro de administración de Microsoft 365. Obtenga más información sobre [Multi-Factor Authentication para Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
+Con multi-factor Authentication para Office 365, los usuarios deben confirmar una llamada de teléfono, un mensaje de texto o una notificación de la aplicación en su smartphone después de escribir correctamente su contraseña. Solo después de esta segunda autenticación, el usuario podrá iniciar sesión. Office 365 los administradores pueden inscribir usuarios para la autenticación multifactor en el centro de administración de Microsoft 365. Obtenga más información sobre [Multi-Factor Authentication para Office 365](https://go.microsoft.com/fwlink/p/?LinkId=392429).
   
 ### <a name="rich-client-authentication"></a>Autenticación de clientes enriquecidos
 
@@ -175,7 +175,7 @@ Office 365 Enterprise sigue el modelo de control de acceso basado en roles (RBAC
   
 ## <a name="delegated-administration-and-support-for-partners"></a>Soporte y administración delegada para socios
 
-Los socios se pueden autorizar para administrar cuentas en nombre de los clientes. El cliente no necesita ninguna cuenta de usuario para que la usen los socios y no consume ninguna licencia de Office 365 cuando se concede la autoridad de administración delegada. Los socios pueden asignar el acceso completo o limitado a los usuarios de su organización. El acceso limitado incluye los derechos para restablecer contraseñas, administrar solicitudes de servicio y supervisar el estado del servicio. Para obtener más información, vea [Agregar o eliminar un administrador delegado](https://go.microsoft.com/fwlink/p/?LinkID=270055).
+Los socios se pueden autorizar para administrar cuentas en nombre de los clientes. El cliente no necesita ninguna cuenta de usuario para que la usen los socios y no consume ninguna licencia de Office 365 cuando se concede la autoridad de administración delegada. Los socios pueden asignar el acceso completo o limitado a los usuarios de su organización. El acceso limitado incluye los derechos para restablecer contraseñas, administrar solicitudes de servicio y supervisar el estado del servicio. 
   
 > [!NOTE]
 > La capacidad de usar y especificar un socio como administrador delegado varía según la región. 

@@ -3,7 +3,7 @@ title: Características del conjunto de aplicaciones de Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/08/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Las características enumeradas en este tema son una colección de herramientas basadas en Web que le ayudarán a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
-ms.openlocfilehash: b595a0315beb72d5120c78b4df93b959b19a0efc
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: cfa63b50540a4681796fcaad3dc4a0887f5cc111
+ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466947"
+ms.lasthandoff: 04/10/2019
+ms.locfileid: "31764838"
 ---
 # <a name="office-365-suite-features"></a>Características del conjunto de aplicaciones de Office 365
 
@@ -97,12 +97,14 @@ Los grupos de Office 365 conectan a los usuarios con los compañeros, la informa
 Office 365 Video es un destino seguro para toda la compañía donde puede cargar, compartir y descubrir los vídeos en sus dispositivos, con tecnología de Microsoft Azure Media Services. Office 365 Video puede ayudar a mantener a los usuarios atentos e informados, a difundir ideas y hacer que las organizaciones actúen de forma conjunta. Para obtener más información, vea [Introducción a Office 365 Video](https://blogs.office.com/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>Bloc de notas de clase de OneNote
-<a name="BKMK_Video"> </a>
 
 Bloc de notas de clase forma parte de OneNote y está disponible para Office 365 Educación y Office 365 E5 Educación. Cada bloc de notas incluye una biblioteca de contenido para que los profesores compartan contenido del curso, un espacio de colaboración donde los profesores y los alumnos pueden trabajar juntos, y un bloc de notas privado para cada alumno. Después de crear un bloc de notas de clase, los profesores y los alumnos pueden usar la aplicación de OneNote para tener acceso al bloc desde cualquier dispositivo.
+
+## <a name="microsoft-kaizala"></a>Microsoft Kaizala
+
+Microsoft Kaizala es una aplicación de administración de trabajo móvil sencilla y segura, que aporta capacidades únicas a Microsoft 365, con su capacidad para conectarse y atraer a personas tanto dentro como fuera del directorio de una organización, incluidos los trabajadores contractuales, proveedores, socios, proveedores, clientes y ciudadanos: uso de tipos de [Grupo](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)grandes y flexibles. El modelo de directorio abierto de Kaizala permite la identidad basada en números de teléfono para facilitar la incorporación y una experiencia de usuario sencilla para la administración de trabajos y mensajería. La aplicación móvil de Kaizala permite a los usuarios enviar mensajes instantáneos y datos adjuntos, como imágenes, documentos, vídeos, audio, etc., y usar tarjetas de acción para encuestas, sondeos, asignaciones de trabajo, anuncios, entrenamientos y mucho más. [Kaizala está disponible con Office 365](https://products.office.com/en/business/microsoft-kaizala) y funciona en iPhone y Android. Para obtener más información, vaya al [sitio web de Kaizala](https://products.office.com/en/business/microsoft-kaizala). 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
-<a name="BKMK_Video"> </a>
 
 Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
   

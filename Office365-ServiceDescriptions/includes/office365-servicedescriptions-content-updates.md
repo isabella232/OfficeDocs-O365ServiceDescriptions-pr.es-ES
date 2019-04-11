@@ -8,8 +8,8 @@
 
 | Fecha de publicación |Título del tema | Cambio |
 |------|------------|--------|
-| 3/4/2019 | [Office 365 GCC High y DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | Fecha de modificación |
-| 3/4/2019 | [Office 365 GCC](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc) | Fecha de modificación |
+| 3/4/2019 | [Office 365 GCC High y DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | modificado |
+| 3/4/2019 | [Office 365 GCC](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc) | modificado |
 | 3/4/2019 | [Office 365 Administración Pública](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) | modificado |
 | 6/3/2019 | [Descripción del servicio Direct Engineer de Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | modificado |
 | 6/3/2019 | [Características de archivo de Archivado de Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | modificado |
@@ -64,7 +64,7 @@
 | 6/3/2019 | [Continuidad y estado del servicio](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | modificado |
 | 6/3/2019 | [Contrato de nivel de servicio](/Office365/ServiceDescriptions/office-365-platform-service-description/service-level-agreement) | modificado |
 | 6/3/2019 | [Actualizaciones de servicio](/Office365/ServiceDescriptions/office-365-platform-service-description/service-updates) | modificado |
-| 6/3/2019 | [Compatibilidad](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | modificado |
+| 6/3/2019 | [Soporte técnico](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | modificado |
 | 6/3/2019 | [Administración de cuentas de usuario](/Office365/ServiceDescriptions/office-365-platform-service-description/user-account-management) | modificado |
 | 6/3/2019 | [Descripciones de servicio de Office 365  ](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | modificado |
 | 6/3/2019 | [Descripción del servicio de aplicaciones de Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificado |
@@ -93,7 +93,7 @@
 | 6/3/2019 | [Desarrollador](/Office365/ServiceDescriptions/sharepoint-online-service-description/developer) | modificado |
 | 6/3/2019 | [Información](/Office365/ServiceDescriptions/sharepoint-online-service-description/insights) | modificado |
 | 6/3/2019 | [Profesionales de TI](/Office365/ServiceDescriptions/sharepoint-online-service-description/it-professional) | modificado |
-| 6/3/2019 | [Buscar](/Office365/ServiceDescriptions/sharepoint-online-service-description/search) | modificado |
+| 6/3/2019 | [Hallar](/Office365/ServiceDescriptions/sharepoint-online-service-description/search) | modificado |
 | 6/3/2019 | [Límites de SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modificado |
 | 6/3/2019 | [Descripción del servicio SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | modificado |
 | 6/3/2019 | [Sitios [ServiceDesc]](/Office365/ServiceDescriptions/sharepoint-online-service-description/sites-servicedesc) | modificado |
@@ -106,15 +106,15 @@
 | 6/3/2019 | [Descripción del servicio Workplace Analytics](/Office365/ServiceDescriptions/workplace-analytics-service-description) | modificado |
 | 6/3/2019 | [Características de administración y seguridad de Yammer](/Office365/ServiceDescriptions/yammer-service-description/administration-and-security-features-in-yammer) | modificado |
 | 6/3/2019 | [Características de detección de Yammer](/Office365/ServiceDescriptions/yammer-service-description/discovery-features-in-yammer) | modificado |
-| 6/3/2019 | [Características de colaboración de documentos de Yammer](/Office365/ServiceDescriptions/yammer-service-description/document-collaboration-features-in-yammer) | Fecha de modificación |
-| 6/3/2019 | [Características de red externa de Yammer](/Office365/ServiceDescriptions/yammer-service-description/external-network-features-in-yammer) | Fecha de modificación |
-| 6/3/2019 | [Características de grupo de Yammer](/Office365/ServiceDescriptions/yammer-service-description/group-features-in-yammer) | Fecha de modificación |
-| 6/3/2019 | [Características de bandeja de entrada de Yammer](/Office365/ServiceDescriptions/yammer-service-description/inbox-features-in-yammer) | Fecha de modificación |
-| 6/3/2019 | [Características de conversación y mensajería de Yammer](/Office365/ServiceDescriptions/yammer-service-description/message-and-conversation-features-in-yammer) | Fecha de modificación |
-| 6/3/2019 | [Características de perfiles de Yammer](/Office365/ServiceDescriptions/yammer-service-description/profile-features-in-yammer) | Fecha de modificación |
-| 6/3/2019 | [Características de soporte técnico de Yammer](/Office365/ServiceDescriptions/yammer-service-description/support-features-in-yammer) | Fecha de modificación |
-| 6/3/2019 | [Características de plataforma de Yammer](/Office365/ServiceDescriptions/yammer-service-description/yammer-platform-features) | Fecha de modificación |
-| 6/3/2019 | [Descripción del servicio Yammer](/Office365/ServiceDescriptions/yammer-service-description/yammer-service-description) | Fecha de modificación |
+| 6/3/2019 | [Características de colaboración de documentos de Yammer](/Office365/ServiceDescriptions/yammer-service-description/document-collaboration-features-in-yammer) | modificado |
+| 6/3/2019 | [Características de red externa de Yammer](/Office365/ServiceDescriptions/yammer-service-description/external-network-features-in-yammer) | modificado |
+| 6/3/2019 | [Características de grupo de Yammer](/Office365/ServiceDescriptions/yammer-service-description/group-features-in-yammer) | modificado |
+| 6/3/2019 | [Características de bandeja de entrada de Yammer](/Office365/ServiceDescriptions/yammer-service-description/inbox-features-in-yammer) | modificado |
+| 6/3/2019 | [Características de conversación y mensajería de Yammer](/Office365/ServiceDescriptions/yammer-service-description/message-and-conversation-features-in-yammer) | modificado |
+| 6/3/2019 | [Características de perfiles de Yammer](/Office365/ServiceDescriptions/yammer-service-description/profile-features-in-yammer) | modificado |
+| 6/3/2019 | [Características de soporte técnico de Yammer](/Office365/ServiceDescriptions/yammer-service-description/support-features-in-yammer) | modificado |
+| 6/3/2019 | [Características de plataforma de Yammer](/Office365/ServiceDescriptions/yammer-service-description/yammer-platform-features) | modificado |
+| 6/3/2019 | [Descripción del servicio Yammer](/Office365/ServiceDescriptions/yammer-service-description/yammer-service-description) | modificado |
 
 
 ## <a name="week-of-march-11-2019"></a>Semana del 11 de marzo de 2019
@@ -122,10 +122,10 @@
 
 | Fecha de publicación |Título del tema | Cambio |
 |------|------------|--------|
-| 3/12/2019 | [Continuidad y estado del servicio](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | Fecha de modificación |
-| 3/14/2019 | [Descripción del servicio de Microsoft 365 Empresa](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Fecha de modificación |
+| 3/12/2019 | [Continuidad y estado del servicio](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | modificado |
+| 3/14/2019 | [Descripción del servicio de Microsoft 365 Empresa](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificado |
 | 3/14/2019 | [Descripción del servicio MyAnalytics](/Office365/ServiceDescriptions/mya-service-description) | agregado |
-| 3/14/2019 | [Descripciones de servicio de Office 365  ](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | Fecha de modificación |
+| 3/14/2019 | [Descripciones de servicio de Office 365  ](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | modificado |
 | 3/14/2019 | [Límites de Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
 
 
@@ -134,8 +134,8 @@
 
 | Fecha de publicación |Título del tema | Cambio |
 |------|------------|--------|
-| 3/18/2019 | [Límites de Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | Fecha de modificación |
-| 3/18/2019 | [Derechos de uso de producto](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | Fecha de modificación |
+| 3/18/2019 | [Límites de Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
+| 3/18/2019 | [Derechos de uso de producto](/Office365/ServiceDescriptions/office-365-platform-service-description/product-use-rights) | modificado |
 
 
 ## <a name="week-of-march-25-2019"></a>Semana del 25 de marzo de 2019
@@ -143,18 +143,19 @@
 
 | Fecha de publicación |Título del tema | Cambio |
 |------|------------|--------|
-| 3/26/2019 | [Descripción del servicio Direct Engineer de Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | Fecha de modificación |
-| 3/28/2019 | [Descripción de servicio Protección en línea de Exchange](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | Fecha de modificación |
-| 3/28/2019 | [Administración y configuración de Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | Fecha de modificación |
-| 3/28/2019 | [Descripción del servicio de Protección contra amenazas avanzada de Office 365](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | Fecha de modificación |
-| 3/28/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | Fecha de modificación |
-| 3/28/2019 | [Office 365 operado por 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | Fecha de modificación |
-| 3/28/2019 | [Descripción del servicio de la plataforma de Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | Fecha de modificación |
+| 3/26/2019 | [Descripción del servicio Direct Engineer de Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | modificado |
+| 3/28/2019 | [Descripción de servicio Protección en línea de Exchange](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | modificado |
+| 3/28/2019 | [Administración y configuración de Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-setup-and-administration) | modificado |
+| 3/28/2019 | [Descripción del servicio de Protección contra amenazas avanzada de Office 365](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | modificado |
+| 3/28/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | modificado |
+| 3/28/2019 | [Office 365 operado por 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | modificado |
+| 3/28/2019 | [Descripción del servicio de la plataforma de Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modificado |
 
 
-## <a name="week-of-february-25-2019"></a>Semana del 25 de febrero de 2019
+## <a name="week-of-april-01-2019"></a>Semana del 1 de abril de 2019
 
 
 | Fecha de publicación |Título del tema | Cambio |
 |------|------------|--------|
-| 2/27/2019 | [Descripción del servicio de Microsoft 365 Empresa](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | Fecha de modificación |
+| 4/3/2019 | [Centro de seguridad y cumplimiento de Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificado |
+| 4/4/2019 | [Descripción del servicio de Protección contra amenazas avanzada de Office 365](/Office365/ServiceDescriptions/office-365-advanced-threat-protection-service-description) | Fecha de modificación |
