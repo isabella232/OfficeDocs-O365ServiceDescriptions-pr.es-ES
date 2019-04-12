@@ -3,7 +3,7 @@ title: Clientes y dispositivos móviles
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: e58ff18b8d926e7aa705d0715d77ee37be6e3101
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: b5755b76445ddc186d02e5b8a499d905636bd311
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467617"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825210"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients and Mobile Devices
 
@@ -40,7 +40,7 @@ Para obtener información sobre qué clientes de Outlook son compatibles con Exc
   
 ## <a name="outlook-on-the-web"></a>Outlook en la Web
 
-Outlook en la web es una versión basada en web del programa de correo electrónico Outlook que se usa con Exchange Online. Permite a los usuarios tener acceso al correo electrónico, al calendario y a los contactos a través de un explorador web desde donde quiera que se conecten a Internet. Para obtener información sobre los exploradores compatibles, vea [Exploradores compatibles con Outlook en la web para la empresa](https://go.microsoft.com/fwlink/p/?LinkId=287032).
+Outlook en la web es una versión basada en web del programa de correo electrónico Outlook que se usa con Exchange Online. Permite a los usuarios tener acceso al correo electrónico, al calendario y a los contactos a través de un explorador web desde donde quiera que se conecten a Internet. Para obtener información sobre los exploradores compatibles, vea [Exploradores compatibles con Outlook en la web para la empresa](https://support.office.com/article/Supported-browsers-for-Outlook-Web-App-c89774d6-0722-4c93-a547-ef45e693e006).
   
 Outlook en la web tiene dos versiones de cliente y ambas se pueden usar con Exchange Online:
   
@@ -60,7 +60,7 @@ Exchange Online funciona con las aplicaciones de Outlook disponibles para iOS, A
   
 |||||
 |:-----|:-----|:-----|:-----|
-|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Dispositivo  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Disponibilidad de aplicaciones móviles de Outlook  <br/> |Sí  <br/> [Obtener Outlook para Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sí  <br/> [Obtener Outlook para iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Integrado  <br/> |
 |Aplicaciones de correo electrónico integradas compatibles con Exchange Online  <br/> |Aplicación de gmail/aplicación de correo electrónico de Samsung  <br/> |aplicación de correo de iOS  <br/> |Correo, calendario, contactos de Outlook  <br/> |
 |Más información  <br/> |[Configuración móvil de Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[instalación de iPhone o iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configuración de Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |

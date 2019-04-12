@@ -1,9 +1,9 @@
 ---
-title: Cumplimiento [ServiceDesc]
+title: Cumplimiento
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,14 +15,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 cumple con los estándares y regulaciones de la industria y está diseñado para ayudarle a cumplir los requisitos normativos de su empresa. Para obtener más información, vea ofertas de cumplimiento.
-ms.openlocfilehash: 46c444003a927227905fc8fef338d256cba92add
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ad4b2a0cbc43f2eb4e6070fc5d41159f54141fbc
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466887"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825148"
 ---
-# <a name="complianceservicedesc"></a>Cumplimiento [ServiceDesc]
+# <a name="compliance"></a>Cumplimiento
 
 > [!NOTE]
 > La información descrita en este artículo se aplica a las versiones internacionales de Office 365. Si usa una instancia en la nube nacional de Office 365, incluido Office 365 U.S. Government, Office 365 Germany y Office 365 ofrecido por 21Vianet, consulte [Microsoft National Clouds (Nubes nacionales de Microsoft](https://go.microsoft.com/fwlink/?linkid=841582). 

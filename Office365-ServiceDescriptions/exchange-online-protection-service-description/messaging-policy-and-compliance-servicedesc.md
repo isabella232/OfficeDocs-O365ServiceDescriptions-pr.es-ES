@@ -1,9 +1,9 @@
 ---
-title: Cumplimiento y directivas de mensajería (ServiceDesc)
+title: Directiva de mensajería y cumplimiento normativo
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/10/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,14 +13,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y de directivas de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
-ms.openlocfilehash: 7ac2ad58bd4eeebc7ee0af3f5befcaab8959beec
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: a37ad3c1bcecb73f7c903b553bdcb43935dc9ed7
+ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466977"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31825188"
 ---
-# <a name="messaging-policy-and-complianceservicedesc"></a>Cumplimiento y directivas de mensajería (ServiceDesc)
+# <a name="messaging-policy-and-compliance"></a>Directiva de mensajería y cumplimiento normativo
 
 Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y de directivas de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
   
@@ -80,6 +80,9 @@ El cifrado de mensajes de Office 365, una parte de Azure Information Protection,
 |Cifrado de mensajes de Office 365  <br/> |Sí<sup>4</sup> <br/> |Sí  <br/> |Sí<sup>4</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Los criterios y las acciones disponibles varían entre Exchange Online y EOP. Para obtener una lista de los criterios y acciones disponibles en EOP, vea [Condiciones de reglas de transporte (predicados)](https://go.microsoft.com/fwlink/p/?LinkId=320392) y [Acciones de reglas de transporte](https://go.microsoft.com/fwlink/p/?LinkId=320393). Para obtener una lista de los criterios y acciones disponibles en Exchange Online, vea [Condiciones de reglas de flujo de correo (predicados)](https://go.microsoft.com/fwlink/p/?LinkId=320394) y [Transport Rule Actions](https://go.microsoft.com/fwlink/p/?LinkId=320395). > <sup>2</sup> Los informes de auditoría de EOP son un subconjunto de informes de auditoría de Exchange Online que excluyen información sobre los buzones. > <sup>3</sup> Las sugerencias de directiva DLP no están disponibles para los clientes de Exchange Enterprise CAL con servicios. > <sup>4</sup> se admite para los clientes locales que adquieren el complemento Azure Information Protection y usan Exchange Online Protection para redirigir el correo electrónico a través de Exchange Online. Para la experiencia de escritorio, además del complemento Azure Information Protection, es necesario comprar Office 365 proPlus. 
+> <sup>1</sup> Los criterios y las acciones disponibles varían entre Exchange Online y EOP. Para obtener una lista de los criterios y acciones disponibles en EOP, vea [Condiciones de reglas de transporte (predicados)](https://go.microsoft.com/fwlink/p/?LinkId=320392) y [Acciones de reglas de transporte](https://go.microsoft.com/fwlink/p/?LinkId=320393). Para obtener una lista de los criterios y acciones disponibles en Exchange Online, vea [Condiciones de reglas de flujo de correo (predicados)](https://go.microsoft.com/fwlink/p/?LinkId=320394) y [Transport Rule Actions](https://go.microsoft.com/fwlink/p/?LinkId=320395). <br/>
+> <sup>2</sup> Los informes de auditoría de EOP son un subconjunto de informes de auditoría de Exchange Online que excluyen información sobre los buzones. <br/>
+> <sup>3</sup> Las sugerencias de directiva DLP no están disponibles para los clientes de Exchange Enterprise CAL con servicios. <br/>
+> <sup>4</sup> se admite para los clientes locales que adquieren el complemento Azure Information Protection y usan Exchange Online Protection para redirigir el correo electrónico a través de Exchange Online. Para la experiencia de escritorio, además del complemento Azure Information Protection, es necesario comprar Office 365 proPlus. <br/>
   
 
