@@ -3,7 +3,7 @@ title: Descripción del servicio Skype Empresarial Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: ¿Quiere saber qué licencias necesita comprar para obtener características específicas de Skype Empresarial? Vea información general sobre las licencias de Skype empresarial.
-ms.openlocfilehash: d96ff935b03efdd3db8af6bcc6d35f842a221588
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 311bba2c1d2600136644acef05f2360c4355068b
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467967"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833872"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descripción del servicio Skype Empresarial Online
 
@@ -28,7 +28,7 @@ ms.locfileid: "30467967"
 > Microsoft Teams es ahora el cliente principal para mensajería, reuniones y llamadas en Office 365. Al iniciar Oct. 1, 2018, los nuevos clientes de Office 365 con 500 puestos o menos estarán integrados en Microsoft Teams y no tendrán acceso a Skype empresarial online. Los inquilinos que ya usan Skype empresarial online podrán seguir haciéndolo (incluido el aprovisionamiento de nuevos usuarios) hasta que completen la transición a Microsoft Teams.
 
 > [!NOTE]
-> El plan 1 de Skype empresarial online se está sacando de la venta a partir del 10 de octubre. Esto significa que ya no podrá adquirir el plan 1 de Skype empresarial online para mensajería instantánea, presencia y voz y vídeo punto a punto. Estas características seguirán siendo compatibles con todas las ofertas de Office 365 que incluyen Teams, incluido Office 365 F1. Cuando el plan expire al final de su período actual, para poder seguir teniendo acceso a estas características, tendrá que cambiar a un plan diferente. Le recomendamos que evalúe el plan de Office 365 F1 para los usuarios que actualmente tienen asignado el plan 1 de Skype empresarial online. 
+> El plan 2 de Skype empresarial online se ha retirado a la venta a partir del 1 de julio de 2019. Esto significa que ya no podrá adquirir Skype empresarial online (plan 2) para mensajería instantánea, presencia, reuniones y voz y vídeo de punto a punto. Estas características seguirán siendo compatibles con todas las ofertas de Office 365 que incluyen Teams, incluidos los conjuntos de programas de Office 365. Cuando el plan expire al final de su período actual, para poder seguir teniendo acceso a estas características, tendrá que cambiar a un plan diferente. Le recomendamos que evalúe Office 365 Business Essentials, Business Premium o cualquier otro conjunto de Office para los usuarios que actualmente tienen asignado el plan 2 de Skype empresarial online. 
 
  **¿Desea saber qué licencias necesita comprar para obtener ciertas características de Skype empresarial? Vea [información general sobre las licencias de Skype empresarial](https://go.microsoft.com/fwlink/?LinkID=799524).**
   

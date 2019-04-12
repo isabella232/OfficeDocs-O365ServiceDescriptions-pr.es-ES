@@ -3,7 +3,7 @@ title: Características de archivo de Archivado de Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 04/11/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: En las siguientes secciones se describen las características de archivo de archivado de Microsoft Exchange Online.
-ms.openlocfilehash: 78b33911a583c1cc50d910e9ebd6fd2aebbfc697
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: ba1617cfad392290dd9259d8f4eb87860f58eb73
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467207"
+ms.lasthandoff: 04/12/2019
+ms.locfileid: "31833852"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Características de archivo de Archivado de Exchange Online
 
@@ -37,7 +37,7 @@ Los administradores pueden habilitar la característica de archivo para usuarios
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Mover mensajes a Exchange Online Archiving
 
-Los usuarios pueden arrastrar y soltar mensajes de archivos. pst en el archivo para facilitar el acceso en línea. Los usuarios también pueden mover elementos de correo electrónico desde el buzón principal al buzón de archivo automáticamente, mediante directivas de archivo, para reducir el tamaño y mejorar el rendimiento del buzón principal. Aunque este comportamiento es diferente de Exchange Hosted Archive, que creará una copia secundaria de cada mensaje en el archivo, se pueden cumplir los requisitos de retención en ambos casos. 
+Los usuarios pueden arrastrar y soltar mensajes de archivos. pst en el archivo para facilitar el acceso en línea. Los usuarios también pueden mover elementos de correo electrónico desde el buzón principal al buzón de archivo automáticamente, mediante directivas de archivo, para reducir el tamaño y mejorar el rendimiento del buzón principal. 
   
 ### <a name="import-data-to-the-archive"></a>Importar datos al archivo
 

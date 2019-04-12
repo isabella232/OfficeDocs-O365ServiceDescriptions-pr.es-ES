@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Para obtener información sobre las características de Office 365 que acaban de publicar, o que están a punto de publicarse, consulte el mapa de ruta de Microsoft 365.
-ms.openlocfilehash: 7d20dac14670a2e158125f507a69c43e606ac574
-ms.sourcegitcommit: 7248888900104d79c5f53cafb1000140eefac7eb
+ms.openlocfilehash: dc9896215787cbd2477ddbf7826415d98b98616b
+ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 04/12/2019
-ms.locfileid: "31825158"
+ms.locfileid: "31833851"
 ---
 # <a name="service-updates"></a>Actualizaciones de servicio
 
@@ -32,7 +32,7 @@ Para obtener información sobre las características de Office 365 que acaban de
   
 ## <a name="targeted-release"></a>Versión dirigida
 
-Con la versión dirigida, su organización o un conjunto de los usuarios recibirán un conjunto seleccionado de actualizaciones de servicio aproximadamente una semana antes de comenzar con el proceso de publicación estándar. Para obtener más información, vea [Configurar las opciones de los programas Estándar o First Release de Office 365](https://go.microsoft.com/fwlink/p/?LinkId=509823). 
+Con la versión dirigida, su organización o un conjunto de los usuarios recibirán un conjunto seleccionado de actualizaciones de servicio aproximadamente una semana antes de comenzar con el proceso de publicación estándar. Para obtener más información, consulte Opciones de la [versión 365 de Office](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365?view=o365-worldwide). 
   
 ## <a name="update-notifications"></a>Notificaciones de actualización
 
