@@ -3,7 +3,7 @@ title: Contenido
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 4/17/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado en Microsoft SharePoint Server 2013, este servicio alojado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central, y compartir información con otros individuos. Las siguientes características de Contenido facilitan a todos los usuarios el uso de la administración de contenido empresarial (ECM). Es la combinación de la administración de contenido tradicional, las funcionalidades sociales y una búsqueda potente.
-ms.openlocfilehash: cfa36cfa492b1abf7e98be2b259fcd267d7d7930
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
+ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467517"
+ms.lasthandoff: 04/22/2019
+ms.locfileid: "31981684"
 ---
 # <a name="content"></a>Contenido
 
@@ -29,7 +29,7 @@ SharePoint Online es una colección de herramientas y tecnologías basadas en We
 ## <a name="accessibility-standards-support"></a>Accessibility Standards Support
 <a name="bkmk_AccessibilitySS"> </a>
 
-La mayoría de los elementos de la interfaz de usuario de SharePoint (como los vínculos, controles de formulario y botones) están diseñados para usar Microsoft Active Accessibility (MSAA). MSA permite que los usuarios con discapacidades puedan interactuar con el contenido a través de tecnologías de asistencia (por ejemplo, un lector de pantalla). Obtenga más información sobre las [Características de accesibilidad](https://go.microsoft.com/fwlink/?LinkId=270947).
+La mayoría de los elementos de la interfaz de usuario de SharePoint (como los vínculos, controles de formulario y botones) están diseñados para usar Microsoft Active Accessibility (MSAA). MSA permite que los usuarios con discapacidades puedan interactuar con el contenido a través de tecnologías de asistencia (por ejemplo, un lector de pantalla). Obtenga más información sobre las [Características de accesibilidad](https://www.microsoft.com/accessibility/features?activetab=pivot_1%3aprimaryr2).
   
 ## <a name="asset-library-enhancementsvideo-support"></a>Asset Library Enhancements/Video Support
 <a name="bkmk_AssetLibraryEnhancementsViseoSupport"> </a>
@@ -46,7 +46,7 @@ Los administradores de la colección de sitios de SharePoint Online pueden usar 
 
 Los administradores de la colección de sitios de SharePoint Online pueden usar la característica de auditoría para realizar un seguimiento de las acciones de los usuarios en los sitios, los tipos de contenido, las listas, las bibliotecas y los elementos de lista de las colecciones de sitios. Obtenga más información sobre cómo [configurar la auditoría para una colección de sitios](https://go.microsoft.com/fwlink/?LinkId=270950).
   
-## <a name="catalog"></a>Tarifas
+## <a name="catalog"></a>Catalog
 <a name="bkmk_WCMCatalog"> </a>
 
 Solo está disponible para las colecciones de sitios privados. Un catálogo es una biblioteca o lista compartida entre otros sitios y colecciones de sitios. Obtenga información sobre cómo [habilitar una lista o biblioteca como un catálogo](https://go.microsoft.com/fwlink/p/?LinkId=330809).
@@ -84,17 +84,17 @@ En la vista de lectura, Word Online ahora incluye una opción para que las organ
 ## <a name="ediscovery-search"></a>eDiscovery Search
 <a name="bkmk_eDiscovery_Search"> </a>
 
-La búsqueda de eDiscovery permite a los usuarios buscar información almacenada de forma electrónica (ESI) que se pueda usar como prueba en caso de juicios y cumplimiento normativo. El contenido de búsqueda incluye contenido estructurado, como documentos y elementos de lista, así como blogs, wikis, suministros de noticias y contenido de los buzones de Exchange. Para que sea reconocible, el contenido necesita estar indexado por la búsqueda. Para obtener más información, vea [Crear e iniciar consultas de eDiscovery](https://go.microsoft.com/fwlink/?LinkId=402985).
+La búsqueda de eDiscovery permite a los usuarios buscar información almacenada de forma electrónica (ESI) que se pueda usar como prueba en caso de juicios y cumplimiento normativo. El contenido de búsqueda incluye contenido estructurado, como documentos y elementos de lista, así como blogs, wikis, suministros de noticias y contenido de los buzones de Exchange. Para que sea reconocible, el contenido necesita estar indexado por la búsqueda. Para obtener más información, vea [Crear e iniciar consultas de eDiscovery](https://docs.microsoft.com/sharepoint/governance/create-and-run-queries-in-the-ediscovery-center).
   
 ## <a name="ediscovery-hold"></a>eDiscovery Hold
 <a name="bkmk_eDiscovery_Hold"> </a>
 
-Aplicar una retención significa conservar una copia del contenido original por si un usuario lo modifica o lo elimina. Se puede retener contenido en los sitios de SharePoint (incluidos los de OneDrive para la Empresa) y en los buzones de Exchange (incluidas las conversaciones de Skype Empresarial archivadas). La retención se usa para conservar el contenido en su forma original en el momento en el que se aplica la retención. Cuando los usuarios aplican una retención a un sitio o a un buzón de correo, el contenido se conserva de forma local en su ubicación original. Para obtener más información, vea [Agregar contenido a un caso de eDiscovery y poner orígenes en espera](https://go.microsoft.com/fwlink/?LinkId=270964).
+Aplicar una retención significa conservar una copia del contenido original por si un usuario lo modifica o lo elimina. Se puede retener contenido en los sitios de SharePoint (incluidos los de OneDrive para la Empresa) y en los buzones de Exchange (incluidas las conversaciones de Skype Empresarial archivadas). La retención se usa para conservar el contenido en su forma original en el momento en el que se aplica la retención. Cuando los usuarios aplican una retención a un sitio o a un buzón de correo, el contenido se conserva de forma local en su ubicación original. Para obtener más información, vea [Agregar contenido a un caso de eDiscovery y poner orígenes en espera](https://docs.microsoft.com/sharepoint/governance/add-content-to-a-case-and-place-sources-on-hold-in-the-ediscovery-center).
   
 ## <a name="ediscovery-export"></a>eDiscovery Export
 <a name="bkmk_eDiscovery_export"> </a>
 
-Cuando los usuarios estén listos para entregar el contenido de eDiscovery a una autoridad o quieran trabajar en él con otro programa legal, pueden exportar el contenido desde el Centro de eDiscovery. Cuando se exporta el contenido, se entrega en un formato de EDRM estándar que pueden usar otros programas de eDiscovery. Además, se incluye un manifiesto de XML del modelo de referencia de exhibición de documentos electrónicos con los resultados de la búsqueda para proporcionar metadatos sobre los elementos exportados. Para obtener más información, vea [Exportar contenido de eDiscovery y crear informes](https://go.microsoft.com/fwlink/?LinkId=402986).
+Cuando los usuarios estén listos para entregar el contenido de eDiscovery a una autoridad o quieran trabajar en él con otro programa legal, pueden exportar el contenido desde el Centro de eDiscovery. Cuando se exporta el contenido, se entrega en un formato de EDRM estándar que pueden usar otros programas de eDiscovery. Además, se incluye un manifiesto de XML del modelo de referencia de exhibición de documentos electrónicos con los resultados de la búsqueda para proporcionar metadatos sobre los elementos exportados. Para obtener más información, vea [Exportar contenido de eDiscovery y crear informes](https://docs.microsoft.com/office365/securitycompliance/export-case-data-in-advanced-ediscovery).
   
 ## <a name="external-sharing-external-access"></a>External Sharing: External Access
 <a name="bkmk_ExternalSharingExternalAccess"> </a>
@@ -124,7 +124,7 @@ Los procesamientos de imágenes permiten que la organización tenga imágenes de
 ## <a name="information-rights-management-irm"></a>Information Rights Management (IRM)
 <a name="bkmk_InformationRightsManagement"> </a>
 
-IRM de SharePoint Online usa Azure Information Protection, una tecnología de protección de la información en Office 365. La protección IRM se aplica en los archivos en los niveles de lista y biblioteca de SharePoint. Obtenga más información sobre [IRM en SharePoint Online](https://go.microsoft.com/fwlink/?LinkId=270963).
+IRM de SharePoint Online usa Azure Information Protection, una tecnología de protección de la información en Office 365. La protección IRM se aplica en los archivos en los niveles de lista y biblioteca de SharePoint. Obtenga más información sobre [IRM en SharePoint Online](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
   
 ## <a name="managed-metadata-service"></a>Servicio de metadatos administrados
 <a name="bkmk_ManagedMetadataService"> </a>
@@ -154,7 +154,7 @@ De forma predeterminada, Office Online es de solo lectura. La función de solo l
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps Server integration
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>
 
-No disponible para clientes de SharePoint Online. En SharePoint Server 2010, Office Web Apps es una aplicación de servicio de SharePoint. En SharePoint Server 2013 hay un nuevo producto de servidor de Office: Office Online Server. Una sola granja de servidores de Office Online Server admite usuarios que tienen acceso a los archivos de Office a través de SharePoint Server 2013, Exchange Server 2013, carpetas compartidas y sitios web. Esto permite implementar y administrar la versión en línea de Office en un entorno local. Obtenga más información sobre [Integración de Office Online Server](https://go.microsoft.com/fwlink/?LinkId=270911).
+No disponible para clientes de SharePoint Online. En SharePoint Server 2010, Office Web Apps es una aplicación de servicio de SharePoint. En SharePoint Server 2013 hay un nuevo producto de servidor de Office: Office Online Server. Una sola granja de servidores de Office Online Server admite usuarios que tienen acceso a los archivos de Office a través de SharePoint Server 2013, Exchange Server 2013, carpetas compartidas y sitios web. Esto permite implementar y administrar la versión en línea de Office en un entorno local. Obtenga más información sobre [Integración de Office Online Server](https://docs.microsoft.comskypeforbusiness/help-topics/help-topobld/add-office-web-apps-server).
   
 ## <a name="preservation-hold-library"></a>Preservation hold library
 <a name="bkmk_PreservationHoldLibrary"> </a>
@@ -179,7 +179,7 @@ En SharePoint, puede administrar registros en un archivo o de forma local en el 
 ## <a name="recycle-bin-sharepoint-admin-center"></a>Recycle Bin (SharePoint admin center)
 <a name="bkmk_RecycleBinadmincenter"> </a>
 
-Los administradores de SharePoint Online pueden restaurar una colección de sitios eliminada desde el Centro de administración de SharePoint. Para obtener más información, vea [Restaurar una colección de sitios eliminada](https://go.microsoft.com/fwlink/p/?LinkId=286114). 
+Los administradores de SharePoint Online pueden restaurar una colección de sitios eliminada desde el Centro de administración de SharePoint. Para obtener más información, vea [Restaurar una colección de sitios eliminada](https://docs.microsoft.com/sharepoint/sites/delete-and-restore-site-collections). 
   
 ## <a name="recycle-bin-site-collection"></a>Recycle Bin (site collection)
 <a name="bkmk_RecycleBinSC"> </a>
