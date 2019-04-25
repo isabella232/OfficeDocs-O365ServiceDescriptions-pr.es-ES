@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio de Visio online
+title: Descripción del servicio Visio Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Con Visio online, puede ver, editar y compartir diagramas de Visio en la Web. Empiece con un diagrama básico para expresar ideas comunes, como representar un plan, realizar una propuesta o describir una secuencia de pasos en un proceso. Es fácil y sencillo crear diagramas de primera clase con los tipos de diagramas más usados y conjuntos de formas enriquecidas. Los usuarios de Visio online pueden ver y colaborar compartiendo diagramas e insertando comentarios en los archivos cargados en SharePoint Online o OneDrive para la empresa online.
 ms.openlocfilehash: 56f7d1d8878cd9543e206b856a2dfddd9267aa28
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466507"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246836"
 ---
-# <a name="visio-online-service-description"></a>Descripción del servicio de Visio online
+# <a name="visio-online-service-description"></a>Descripción del servicio Visio Online
 
 Con Visio online, puede ver, editar y compartir diagramas de Visio en la Web. Empiece con un diagrama básico para expresar ideas comunes, como representar un plan, realizar una propuesta o describir una secuencia de pasos en un proceso. Es fácil y sencillo crear diagramas de primera clase con los tipos de diagramas más usados y conjuntos de formas enriquecidas. Los usuarios de Visio online pueden ver y colaborar compartiendo diagramas e insertando comentarios en los archivos cargados en SharePoint Online o OneDrive para la empresa online.
   

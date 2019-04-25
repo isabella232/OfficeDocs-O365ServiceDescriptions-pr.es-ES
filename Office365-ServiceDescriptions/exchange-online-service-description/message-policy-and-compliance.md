@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467257"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246546"
 ---
 # <a name="message-policy-and-compliance"></a>Regulación de mensajes y cumplimiento normativo
 
@@ -128,7 +128,7 @@ También puede usar la retención local para:
   
 Para obtener más información, vea [Conservación local y retención por juicio](https://go.microsoft.com/fwlink/p/?LinkId=271746).
   
-## <a name="in-place-ediscovery"></a>Exhibición de documentos electrónicos en contexto
+## <a name="in-place-ediscovery"></a>eDiscovery local
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Exchange Online permite a los clientes buscar en el contenido de los buzones de una organización con una interfaz web. Los administradores o funcionarios de seguridad y cumplimiento normativo autorizados a realizar búsquedas de Exhibición de documentos electrónicos en contexto (mediante asignación) pueden buscar mensajes de correo electrónico, documentos adjuntos, citas de calendario, tareas, contactos y otros elementos. La Exhibición de documentos electrónicos en contexto permite realizar búsquedas entre los archivos y buzones principales de manera simultánea. Las capacidades de filtrado enriquecidas incluyen remitente, destinatario, tipo de mensaje, fecha de envío/recepción y copia carbón/copia carbón oculta, junto con sintaxis de KQL. Los resultados de búsqueda también incluirán elementos de la carpeta Elementos eliminados, si coinciden con una consulta de búsqueda.

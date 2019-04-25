@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
-description: 'Para satisfacer los requisitos exclusivos y en constante evolución del Departamento de defensa de los Estados Unidos, así como los contratistas que retienen o procesan la información sin clasificar (CUI) o el tráfico internacional en las regulaciones de brazos (ITAR), Microsoft ofrece GCC: entornos altos y DoD. Disponible a través del otorgamiento de licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Las versiones de prueba no están disponibles en este momento.'
+description: 'Para satisfacer los requisitos exclusivos y en constante evolución del Departamento de defensa de los Estados Unidos, así como los contratistas que retienen o procesan la información sin clasificar (CUI) o el tráfico internacional en las regulaciones de brazos (ITAR), Microsoft ofrece GCC: entornos altos y DoD. Disponible mediante las licencias por volumen, las organizaciones que estén interesadas pueden participar en un proceso de validación para certificar su idoneidad antes de establecer el entorno. Las pruebas no están disponibles en este momento.'
 ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379042"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247116"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High y DoD
 
-Para satisfacer los requisitos exclusivos y en constante evolución del Departamento de defensa de los Estados Unidos, así como los contratistas que retienen o procesan la información sin clasificar (CUI) o el tráfico internacional en las regulaciones de brazos (ITAR), Microsoft ofrece GCC: entornos altos y DoD. Disponible a través del otorgamiento de licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Las versiones de prueba no están disponibles en este momento. 
+Para satisfacer los requisitos exclusivos y en constante evolución del Departamento de defensa de los Estados Unidos, así como los contratistas que retienen o procesan la información sin clasificar (CUI) o el tráfico internacional en las regulaciones de brazos (ITAR), Microsoft ofrece GCC: entornos altos y DoD. Disponible mediante las licencias por volumen, las organizaciones que estén interesadas pueden participar en un proceso de validación para certificar su idoneidad antes de establecer el entorno. Las pruebas no están disponibles en este momento. 
   
 Póngase en contacto con su equipo de la cuenta o con su partner de confianza para obtener más información o iniciar el proceso de validación.
   
@@ -40,7 +40,7 @@ Los suscriptores de Departamento de defensa de Office 365 recibirán los servici
   
 ## <a name="background-screening"></a>Detección en segundo plano
 
-El personal de Office 365 no tiene acceso permanente a la producción de GCC alta y DoD. Cualquier personal que solicite la elevación de permisos temporales que concedería el acceso al contenido del cliente debe haber aprobado primero las siguientes comprobaciones de antecedentes.
+El personal de Office 365 no tiene acceso permanente a la producción de GCC alta y DoD. Cualquier miembro del personal que solicite que se eleven sus permisos temporalmente para acceder al contenido de los clientes debe superar primero las siguientes comprobaciones de antecedentes.
   
 |||
 |:-----|:-----|
@@ -93,7 +93,7 @@ Además, no se admiten las direcciones de correo electrónico de alta disponibil
   
  **Servicios de conectividad empresarial** : la funcionalidad BCS se admite en escenarios de conectividad en los que los orígenes de datos permanecen accesibles dentro del límite de seguridad del servicio de nube. 
   
- **Soluciones de espacio aislado** : esta característica está en desuso y no está disponible. Las soluciones de espacio aislado deben migrarse al [modelo de extensibilidad de complementos de SharePoint ]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
+ **Soluciones de espacio aislado** : esta característica está en desuso y no está disponible. Cualquier solución de espacio aislado debe migrarse al [modelo de extensibilidad de complementos de SharePoint]( https://msdn.microsoft.com/en-us/library/office/fp179930.aspx).
   
 ### <a name="skype-for-business-online"></a>Skype Empresarial Online
 

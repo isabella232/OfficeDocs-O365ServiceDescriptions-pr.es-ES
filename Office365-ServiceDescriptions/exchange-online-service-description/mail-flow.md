@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Para la mayoría de las organizaciones que usan Office 365, hospedamos sus buzones y nos ocupamos del flujo de correo. Es la configuración más sencilla y significa que Office 365 administra todos los buzones y el filtrado. En cambio, algunas organizaciones necesitan una configuración del flujo de correo más compleja para asegurarse de que cumplen con necesidades normativas o empresariales específicas. Puede obtener información sobre esas opciones aquí. '
 ms.openlocfilehash: e5b56712a3c88c91b943d681f927cea480776839
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467297"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246406"
 ---
 # <a name="mail-flow"></a>Mail Flow
 

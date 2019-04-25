@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Para la mayoría de las organizaciones que usan Office 365, hospedamos sus buzones y nos ocupamos del flujo de correo. Es la configuración más sencilla y significa que Office 365 administra todos los buzones y el filtrado. En cambio, algunas organizaciones tienen una empresa que necesita mantener todos sus buzones de manera local. Exchange Online Protection (EOP) le permite hacer esto y proporciona un procesamiento contra correo no deseado y antivirus en la nube. Para obtener más información y para comprar EOP, vaya a Exchange Online Protection.
 ms.openlocfilehash: 0e9e5fffaa88b2ec654cb90dc5d432875336328e
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467577"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33244916"
 ---
 # <a name="mail-floweop"></a>Flujo del correo (EOP)
 
@@ -43,7 +43,7 @@ Para más información, vea [Configurar conectores para flujo de correo seguro c
 
 Puede agregar la dirección IP de un socio de confianza a una lista segura para garantizar que los mensajes procedentes de este socio no se someterán al filtrado contra correo no deseado. Para ello, use la lista de direcciones IP permitidas de filtro de conexión. Para obtener más información, vea [Configurar la directiva de filtro de conexión](https://go.microsoft.com/fwlink/p/?LinkID=287108).
   
-## <a name="conditional-mail-routing"></a>Conditional mail routing
+## <a name="conditional-mail-routing"></a>Enrutamiento de correo condicional
 <a name="BKMK_conditionalmailrouting"> </a>
 
 Puede configurar un conector con una regla de transporte que enrute el correo a un sitio concreto según ciertas condiciones. Para obtener más información, vea [Scenario: Conditional email routing](http://technet.microsoft.com/library/82d105e2-e955-4e03-99c3-3314a5d21a4c.aspx).

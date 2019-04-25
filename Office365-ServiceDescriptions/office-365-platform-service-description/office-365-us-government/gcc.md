@@ -10,23 +10,23 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
-description: 'Microsoft ofrece los servicios de Office 365 US Government Community (GCC) para cumplir los requisitos únicos y en constante evolución del gobierno federal de los Estados Unidos, así como de los gobiernos estatales, locales y tribales y de los contratistas que mantienen o procesan datos en nombre del gobierno de los Estados Unidos. Está disponible mediante varios canales, como el de licencias por volumen. Las organizaciones que estén interesadas en usarlo pueden participar en un proceso de validación para certificar su idoneidad antes de establecer el entorno. Actualmente, las pruebas solo están disponibles para las entidades del gobierno de los Estados Unidos. '
+description: Para cumplir con los requisitos exclusivos y en constante evolución de los gobiernos federales, estatales, locales y Tribals, así como los contratistas que retienen o procesan datos en nombre del gobierno de Estados Unidos, Microsoft ofrece los servicios de Office 365 US Government Community (GCC). Disponible a través de varios canales, incluidas las licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Los ensayos solo están disponibles para entidades gubernamentales de Estados Unidos en este momento.
 ms.openlocfilehash: 7df7e2eec3de11513370f14fe5d1ebfd2faac24a
-ms.sourcegitcommit: 7202e8b38e3dd241bfc0d26825e75fd740d46151
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30379032"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247136"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
-Microsoft ofrece los servicios de Office 365 US Government Community (GCC) para cumplir los requisitos únicos y en constante evolución del gobierno federal de los Estados Unidos, así como de los gobiernos estatales, locales y tribales y de los contratistas que mantienen o procesan datos en nombre del gobierno de los Estados Unidos. Está disponible mediante varios canales, como el de licencias por volumen. Las organizaciones que estén interesadas en usarlo pueden participar en un proceso de validación para certificar su idoneidad antes de establecer el entorno. Actualmente, las pruebas solo están disponibles para las entidades del gobierno de los Estados Unidos.  
+Para cumplir con los requisitos exclusivos y en constante evolución de los gobiernos federales, estatales, locales y Tribals, así como los contratistas que retienen o procesan datos en nombre del gobierno de Estados Unidos, Microsoft ofrece los servicios de Office 365 US Government Community (GCC). Disponible a través de varios canales, incluidas las licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Los ensayos solo están disponibles para entidades gubernamentales de Estados Unidos en este momento. 
   
 Póngase en contacto con su equipo de la cuenta o con su partner de confianza para obtener más información o iniciar el proceso de validación. Puede obtener más información en la página [Comparación de los planes de Office 365 Administración Pública](https://products.office.com/en-us/government/compare-office-365-government-plans) página. 
   
 ## <a name="how-to-use-this-service-description-section"></a>Cómo utilizar esta sección de descripción del servicio
 
-La descripción del servicio Office 365 US Government está diseñado para servir como una superposición a la descripción general de servicios de Office 365. Define los compromisos y diferencias únicos con respecto a las ofertas empresariales de Office 365.
+La descripción del servicio Office 365 Administración Pública está diseñada para servir como una superposición a la descripción general de servicios de Office 365. Define los compromisos y diferencias únicos con respecto a las ofertas de Office 365 Enterprise.
   
 ## <a name="us-government-community-compliance"></a>Cumplimiento de US Government Community
 

@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Use OneNote online (anteriormente OneNote Web App) para tomar notas en línea en un bloc de notas de OneNote que puede Agregar desde cualquier lugar y compartir fácilmente con otros usuarios. Todos los clientes de Office 365 pueden ver y editar fácilmente archivos de Office con Office Online.
 ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467027"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247186"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -147,7 +147,7 @@ Con OneNote Online, puede cambiar la alineación del párrafo, aumentar o dismin
 
 Con OneNote Online, puede insertar una imagen desde un archivo o desde imágenes de Bing. También puede cambiar el tamaño de las imágenes y agregar texto alternativo. Para usar características de imágenes más avanzadas, como recortes de pantalla, imágenes digitalizadas o imágenes en línea, tendrá que usar la aplicación de escritorio de OneNote. Obtenga más información sobre las [diferencias entre el uso de un bloc de notas en el explorador y en la aplicación de escritorio de OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="print"></a>Imprimir
+## <a name="print"></a>Print
 <a name="BKMK_Print_OneNote"> </a>
 
 Puede imprimir notas en OneNote Online.
@@ -187,7 +187,7 @@ Con OneNote Online, puede desactivar las etiquetas de autor que se muestran cuan
 
 Con OneNote Online, puede usar estilos de texto de manera sencilla para aplicar formato rápidamente. Obtenga más información sobre las [diferencias entre el uso de un bloc de notas en el explorador y en la aplicación de escritorio de OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="tables"></a>Tablas
+## <a name="tables"></a>Tables
 <a name="bkmk_Tables"> </a>
 
 Con OneNote Online, puede insertar una tabla, editar texto de una tabla y editar fácilmente la estructura básica de una tabla (por ejemplo, agregar o eliminar filas y columnas). Para usar las características de tablas más avanzadas (como la conversión de una tabla a una hoja de cálculo de Excel o sombreado de celdas, filas de encabezado y ordenación de datos dentro de las celdas de la tabla), tendrá que usar la aplicación de escritorio de OneNote. Obtenga más información sobre las [diferencias entre el uso de un bloc de notas en el explorador y en la aplicación de escritorio de OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).

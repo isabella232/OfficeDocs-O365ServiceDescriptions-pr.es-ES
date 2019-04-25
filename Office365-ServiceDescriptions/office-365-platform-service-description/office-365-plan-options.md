@@ -18,11 +18,11 @@ ms.custom:
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización.
 ms.openlocfilehash: 8776294c2a9e03d625b84ac4568e397605e294eb
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764818"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247236"
 ---
 # <a name="office-365-plan-options"></a>Opciones de planes de Office 365
 
@@ -35,11 +35,11 @@ En la tabla siguiente se enumeran los diferentes planes y familias de servicios 
   
 |**Familia de servicios de Office 365**|**Planes**|
 |:-----|:-----|
-|**Empresa (máximo: 300 usuarios)** <br/> |[Office 365 Empresa Essentials](https://go.microsoft.com/fwlink/?LinkId=517487) <br/> [Office 365 Empresa](https://go.microsoft.com/fwlink/?linkid=625101) <br/> [Office 365 Empresa Premium](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
+|**Empresa (máximo: 300 usuarios)** <br/> |[Office 365 Empresa Essentials](https://go.microsoft.com/fwlink/?LinkId=517487) <br/> [Office 365 Empresa](https://go.microsoft.com/fwlink/?linkid=625101) <br/> [Office 365 Empresa Premium](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |**Enterprise (número ilimitado de usuarios)** <br/> |[Office 365 Enterprise E1](https://go.microsoft.com/fwlink/p/?LinkId=286413) <br/> [Office 365 Enterprise E3](https://go.microsoft.com/fwlink/p/?LinkId=286417) <br/> [Office 365 Enterprise E5](https://go.microsoft.com/fwlink/?linkid=786444) <br/> [Office 365 Enterprise F1](https://go.microsoft.com/fwlink/p/?LinkId=286418) <br/> |
-|**Educación (número ilimitado de usuarios)** <br/> |[Office 365 Educación](https://go.microsoft.com/fwlink/?linkid=824860) <br/> [Office 365 Educación E5](https://go.microsoft.com/fwlink/?linkid=824860) <br/> |
+|**Educación (número ilimitado de usuarios)** <br/> |[Office 365 Educación](https://go.microsoft.com/fwlink/?linkid=824860) <br/> [Office 365 Educación E5](https://go.microsoft.com/fwlink/?linkid=824860) <br/> |
 |**Administración Pública (número ilimitado de usuarios)** <br/> |[Ver todos los planes de empresa disponibles](http://go.microsoft.com/fwlink/?LinkID=827898) <br/> |
-|**Office 365 operado por 21Vianet en China** <br/> |[Ver todos los planes de empresa disponibles](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
+|**Office 365 operado por 21Vianet en China** <br/> |[Ver todos los planes de negocio disponibles](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
 |**Office 365 Germany** <br/> |[Ver todos los planes de empresa disponibles](https://go.microsoft.com/fwlink/?linkid=839016) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Disponibilidad del servicio en cada plan de Office 365
@@ -51,7 +51,7 @@ Cada plan de Office 365 incluye varios servicios individuales, como Exchange Onl
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Servicio** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F1** <br/> |
+|**Servicio** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F1** <br/> |
 |Plataforma Office 365  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Exchange Online  <br/> |Sí<sup>6</sup> <br/> |No  <br/> |Sí<sup>6</sup> <br/> |Sí<sup>6</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -120,10 +120,10 @@ Los siguientes servicios en línea están disponibles por sí mismos, como plane
   
 |**Servicio**|**Planes**|
 |:-----|:-----|
-|Exchange Online  <br/> |[Plan 1 de Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Plan 2 de Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Protección contra amenazas avanzada de Exchange Online](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Archivado de Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Quiosco de Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
-|SharePoint Online  <br/> |[SharePoint Online Plan 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online Plan 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
-|OneDrive para la Empresa  <br/> |[OneDrive para la Empresa Plan 1](https://onedrive.live.com/about/en-us/business/) <br/> [OneDrive para la Empresa Plan 2](https://onedrive.live.com/about/en-us/business/) <br/> |
-|Skype Empresarial Online  <br/> |[Skype Empresarial Online plan 1](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype Empresarial Online Plan 2](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
+|Exchange Online  <br/> |[Exchange Online (plan 1)](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online (plan 2)](https://go.microsoft.com/fwlink/p/?LinkId=294197) <br/> [Exchange Online Protection](https://go.microsoft.com/fwlink/p/?LinkId=294201) <br/> [Protección contra amenazas avanzada de Exchange Online](http://go.microsoft.com/fwlink/?LinkID=718026&amp;clcid=0x409) <br/> [Archivado de Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=314176) <br/> [Quiosco de Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=294202) <br/> |
+|SharePoint Online  <br/> |[SharePoint Online plan 1](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> [SharePoint Online plan 2](https://go.microsoft.com/fwlink/p/?LinkId=294198) <br/> |
+|OneDrive para la Empresa  <br/> |[Plan 1 de OneDrive para la Empresa](https://onedrive.live.com/about/en-us/business/) <br/> [Plan 2 de OneDrive para la Empresa](https://onedrive.live.com/about/en-us/business/) <br/> |
+|Skype Empresarial Online  <br/> |[Skype Empresarial Online (plan 1)](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> [Skype Empresarial Online (plan 2)](https://go.microsoft.com/fwlink/p/?LinkId=294199) <br/> |
 |Aplicaciones de Office  <br/> |[Office 365 ProPlus](https://go.microsoft.com/fwlink/p/?LinkId=294195) <br/> [Office 365 Empresa](https://office.microsoft.com/en-us/office-365-business-FX104355718.aspx) <br/> [Office 365 Empresa Premium](https://go.microsoft.com/fwlink/p/?LinkId=286411) <br/> |
 |Administración de cartera de proyectos  <br/> |[Project Online](https://go.microsoft.com/fwlink/p/?LinkId=294196) <br/> |
 |Yammer  <br/> |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkID=691112) <br/> |

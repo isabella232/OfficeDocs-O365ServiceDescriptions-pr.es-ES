@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 admite los siguientes métodos para crear, administrar y autenticar usuarios.
 ms.openlocfilehash: 76a47ba99c9b163c98b7370407d3390c20235ed5
-ms.sourcegitcommit: a6d9057a955ca220db9e4dbc29cd9ea0053616fc
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/10/2019
-ms.locfileid: "31764858"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247206"
 ---
 # <a name="user-account-management"></a>Administración de cuentas de usuario
 
@@ -71,7 +71,7 @@ A excepción de los sitios de Internet para acceso anónimo creados con SharePoi
     
 - **Autenticación de identidad de nube** Los usuarios con identidades de nube se autentican mediante el sistema de desafío/respuesta tradicional. El explorador web se redirecciona al servicio de inicio de sesión de Office 365, donde se escribe el nombre de usuario y la contraseña de la cuenta profesional o educativa. El servicio de inicio de sesión autentica las credenciales y genera un token de servicio, que el explorador web publica en el servicio solicitado e inicia su sesión. 
     
-- **Autenticación de identidad federada** Los usuarios con identidades federadas se autentican con los servicios de Federación de Active Directory (AD FS) 2,0 u otros servicios de token de seguridad. El explorador Web se redirige al servicio de inicio de sesión de Office 365, donde se escribe el identificador corporativo en el formulario, un nombre principal de usuario (UPN isabel@contoso.com; por ejemplo,). El servicio de inicio de sesión determina si forma parte de un dominio federado y le ofrece la opción de redireccionarle al servidor de federación local para la autenticación. Si ha iniciado sesión en el escritorio (unido a dominio), se le autentica (mediante Kerberos o NTLMv2) y el servicio de token de seguridad local genera un token de inicio de sesión, que el explorador Web envía al servicio de inicio de sesión de Office 365. A través del token de inicio de sesión, el servicio de inicio de sesión genera un token de servicio que el explorador web publica en el servicio pedido e inicia su sesión. Para obtener una lista de los servicios de token de seguridad disponibles, consulte [plan de inicio de sesión único (Single Sign-on](https://go.microsoft.com/fwlink/p/?LinkID=270015)).
+- **Autenticación de identidad federada** Los usuarios con identidades federadas se autentican con Servicios de federación de Active Directory (AD FS) 2.0 u otros servicios de token de seguridad. El explorador web se redirige al servicio de inicio de sesión de Office 365, donde se escribe el id. corporativo con el formato de un nombre principal de usuario (UPN; por ejemplo, isabel@contoso.com). El servicio de inicio de sesión determina si forma parte de un dominio federado y le ofrece la opción de redireccionarle al servidor de federación local para la autenticación. Si inició sesión en el escritorio (unido a dominio), significa que está autenticado (con Kerberos o NTLMv2) y el servicio de token de seguridad local genera un token de inicio de sesión que el explorador web publica en el servicio de inicio de sesión de Office 365. A través del token de inicio de sesión, el servicio de inicio de sesión genera un token de servicio que el explorador web publica en el servicio pedido e inicia su sesión. Para obtener una lista de los servicios de token de seguridad disponibles, vea el [Plan de desarrollo del inicio de sesión único](https://go.microsoft.com/fwlink/p/?LinkID=270015).
     
 Office 365 usa la autenticación basada en formularios, y el tráfico de autenticación a través de la red se cifra siempre con TLS/SSL mediante el puerto 443. El tráfico de autenticación utiliza un porcentaje mínimo de ancho de banda para los servicios de Office 365. 
   

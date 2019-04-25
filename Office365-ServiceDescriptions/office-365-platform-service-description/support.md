@@ -16,13 +16,13 @@ ms.custom:
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Con cada suscripción de Microsoft Office 365 Enterprise, Empresa, Educación y Administración Pública, el soporte técnico de Microsoft proporciona soporte técnico, soporte de preventas, facturación y suscripciones en general. El soporte técnico está disponible en línea a través del portal de Office 365 y por teléfono para las suscripciones de pago y de prueba. Para más información, vea las opciones del Soporte técnico de Office 365.
 ms.openlocfilehash: 3192d778f402e5a0a64c00f0928ce185b3bb81de
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467537"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247006"
 ---
-# <a name="support"></a>Compatibilidad
+# <a name="support"></a>Soporte técnico
 
 > [!NOTE]
 > Todas las opciones de soporte indicadas a continuación son para las versiones internacionales de Office 365. Para obtener toda la compatibilidad de Office 365 operado por 21Vianet en China, consulte [Contact Office 365 for Business Support for Office 365 operado por 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). Para Office 365 Germany, consulte [Contact Office 365 for Business Support for Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=846979). 
@@ -67,7 +67,7 @@ El soporte técnico para las suscripciones de Office 365 ofrece asistencia para 
   
 |**Categoría de soporte**|**Ejemplos**|
 |:-----|:-----|
-|Instalación y configuración  <br/> | Exchange Online:  <br/>  Migración del buzón de correo de Office 365  <br/>  Configuración de destinatario (permisos de buzón de correo, configuración de reenvío de correo, configuración de buzón de correo compartido)  <br/>  Configuración de Detección automática  <br/>  SharePoint Online:  <br/>  Permisos y grupos de usuarios  <br/>  Configuración de usuarios externos  <br/>  Skype Empresarial Online:  <br/>  Instalación y creación de contactos  <br/>  Microsoft Office 365 ProPlus: asistencia en la instalación y configuración  <br/> |
+|Instalación y configuración  <br/> | Exchange Online:  <br/>  Migraciones de buzones de Office 365  <br/>  Configuración de destinatario (permisos de buzón de correo, configuración de reenvío de correo, configuración de buzón de correo compartido)  <br/>  Configuración de detección automática  <br/>  SharePoint Online:  <br/>  Permisos y grupos de usuarios  <br/>  Configuración de usuarios externos  <br/>  Skype Empresarial Online:  <br/>  Instalación y creación de contactos  <br/>  Microsoft Office 365 ProPlus: asistencia en la instalación y configuración  <br/> |
 |Configuración  <br/> | Errores de configuración del servicio  <br/>  Problemas de aprovisionamiento  <br/>  Redelegación y configuración de dominios  <br/>  Problemas de configuración del servicio  <br/>  Inicio de sesión único (SSO)  <br/>  Sincronización de Active Directory  <br/> |
    
 > [!NOTE]

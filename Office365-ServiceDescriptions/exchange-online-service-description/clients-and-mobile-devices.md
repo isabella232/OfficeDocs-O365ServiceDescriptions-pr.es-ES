@@ -13,11 +13,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
 ms.openlocfilehash: 380f542c6db323d5dac647dc694c0b320bf13be6
-ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31981644"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246236"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients and Mobile Devices
 
@@ -60,7 +60,7 @@ Exchange Online funciona con las aplicaciones de Outlook disponibles para iOS, A
   
 |||||
 |:-----|:-----|:-----|:-----|
-|Dispositivo  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
+|Device  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Disponibilidad de aplicaciones móviles de Outlook  <br/> |Sí  <br/> [Obtener Outlook para Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sí  <br/> [Obtener Outlook para iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Integrado  <br/> |
 |Aplicaciones de correo electrónico integradas compatibles con Exchange Online  <br/> |Aplicación de gmail/aplicación de correo electrónico de Samsung  <br/> |aplicación de correo de iOS  <br/> |Correo, calendario, contactos de Outlook  <br/> |
 |Más información  <br/> |[Configuración móvil de Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[instalación de iPhone o iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configuración de Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |

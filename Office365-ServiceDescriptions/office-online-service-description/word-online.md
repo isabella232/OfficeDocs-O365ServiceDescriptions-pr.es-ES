@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word online (anteriormente Word Web App) amplía su experiencia de Microsoft Word al explorador Web, donde puede trabajar con documentos directamente en el sitio web en el que está almacenado el documento.
 ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467307"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246956"
 ---
 # <a name="word-online"></a>Word Online
 

@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Como socio autorizado de Microsoft, Microsoft Office 365 le ofrece la oportunidad de ampliar su base de clientes y crear relaciones duraderas con ellos. Por un precio mensual o anual que los clientes deben pagarle a usted, pueden usar servicios basados en la nube, por lo que no tendrán que administrar copias de seguridad de datos, hardware de servidores o actualizaciones de servidores. Los servicios que tiene a su disposición dependen de los tipos de servicios que usted está autorizado a proporcionar.
 ms.openlocfilehash: 5967b661ce698479cf618bad06ff3cf75a2f7d47
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467627"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247096"
 ---
 # <a name="partners"></a>Asociados
 

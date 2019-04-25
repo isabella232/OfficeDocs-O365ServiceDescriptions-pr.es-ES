@@ -16,13 +16,13 @@ ms.custom:
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado en Microsoft SharePoint Server 2013, este servicio alojado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central, y compartir información con otros individuos. Las siguientes características de Contenido facilitan a todos los usuarios el uso de la administración de contenido empresarial (ECM). Es la combinación de la administración de contenido tradicional, las funcionalidades sociales y una búsqueda potente.
 ms.openlocfilehash: 71307d6c268a6060ebcacdcfa082a494a7b6059e
-ms.sourcegitcommit: a2746a765ff23624c62e617bcd521b5276bec57b
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/22/2019
-ms.locfileid: "31981684"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246676"
 ---
-# <a name="content"></a>Contenido
+# <a name="content"></a>Content
 
 SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado en Microsoft SharePoint Server 2013, este servicio alojado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central, y compartir información con otros individuos. Las siguientes características de Contenido facilitan a todos los usuarios el uso de la administración de contenido empresarial (ECM). Es la combinación de la administración de contenido tradicional, las funcionalidades sociales y una búsqueda potente.
   

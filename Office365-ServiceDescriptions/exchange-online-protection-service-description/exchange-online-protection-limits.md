@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no son configurables, a menos que se especifique lo contrario.
 ms.openlocfilehash: 3c96449b2694dba470f6860f8324d86bb84d3774
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468147"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245636"
 ---
 # <a name="exchange-online-protection-limits"></a>Límites de Exchange Online Protection
 
@@ -50,7 +50,7 @@ Los siguientes límites existen actualmente para Exchange Online Protection. Est
 |**Característica**|****EOP independiente****|****Características de EOP en Exchange Online****|****Exchange Enterprise CAL con servicios****|
 |:-----|:-----|:-----|:-----|
 |Límite de dominio  <br/> |900  <br/> |900  <br/> |900  <br/> |
-|Límite de tamaño de mensaje (incluidos datos adjuntos)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|Límite de tamaño de mensaje (incluidos datos adjuntos)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Límite de destinatarios  <br/> |Consulte "Límite de destinatarios" en la sección anterior  <br/> |500 destinatarios al enviar desde un buzón de correo hospedado; consulte "Límite de destinatarios" en la sección anterior para ver otros escenarios  <br/> |Consulte "Límite de destinatarios" en la sección anterior  <br/> |
 |Límite de remitentes seguros  <br/> |1024 entradas  <br/> |1024 entradas  <br/> ||
 |Límite de remitentes bloqueados  <br/> |1024 entradas  <br/> |1024 entradas  <br/> ||

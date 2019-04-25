@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint online (anteriormente PowerPoint Web App) amplía su experiencia de Microsoft PowerPoint al explorador Web, donde puede trabajar con presentaciones directamente en el sitio web en el que está almacenada la presentación. Los clientes de Microsoft Office 365 con Office Online pueden ver, crear y editar archivos desde cualquier lugar.
 ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467347"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246946"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 

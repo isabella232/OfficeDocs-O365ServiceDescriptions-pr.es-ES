@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado a Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación centralizada, y compartir información con otros. Las siguientes características admiten la creación por parte de desarrolladores de aplicaciones y soluciones para ampliar la funcionalidad de SharePoint.
 ms.openlocfilehash: 055f669be2703a562aae56f6a7bcda6f708c4de8
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467717"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246726"
 ---
 # <a name="developer"></a>Desarrollador
 
@@ -111,7 +111,7 @@ Forms Service ofrece una experiencia de rellenado de formularios del explorador 
 
 SharePoint ofrece un modelo de objeto de JavaScript para usar en un script en línea o en archivos .js independientes. Incluye la misma funcionalidad que los modelos de objeto de cliente Silverlight y .NET Framework. El modelo de objeto de JavaScript es una forma útil de incluir código de SharePoint personalizado en una aplicación. También permite a los desarrolladores web usar sus conocimientos JavaScript existentes para crear aplicaciones SharePoint con una curva de aprendizaje mínima. Obtenga más información sobre [Referencia de API de JavaScript para SharePoint 2013](https://go.microsoft.com/fwlink/?LinkId=271289).
   
-## <a name="remote-event-receiver"></a>Receptor remoto de eventos
+## <a name="remote-event-receiver"></a>Receptor de eventos remotos
 <a name="bkmk_RemoteEventReceiver"> </a>
 
 Para manejar eventos en una aplicación de SharePoint, los desarrolladores pueden crear receptores de eventos remotos y receptores de eventos de aplicaciones. Los receptores de eventos remotos administran los eventos que ocurren en un elemento de la aplicación, como una lista, un elemento de lista o un sitio web. Obtenga más información sobre cómo [Aprovechar eventos en aplicaciones de SharePoint](https://go.microsoft.com/fwlink/?LinkId=271735). 

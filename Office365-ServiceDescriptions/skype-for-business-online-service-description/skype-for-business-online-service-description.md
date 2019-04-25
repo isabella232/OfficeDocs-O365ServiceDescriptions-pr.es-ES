@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: ¿Quiere saber qué licencias necesita comprar para obtener características específicas de Skype Empresarial? Vea información general sobre las licencias de Skype empresarial.
 ms.openlocfilehash: 311bba2c1d2600136644acef05f2360c4355068b
-ms.sourcegitcommit: 74e81cb28482d8659e5923df133bbc116b6aa3a8
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/12/2019
-ms.locfileid: "31833872"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246866"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descripción del servicio Skype Empresarial Online
 

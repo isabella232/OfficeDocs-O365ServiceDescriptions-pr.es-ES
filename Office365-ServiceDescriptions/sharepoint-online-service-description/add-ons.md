@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
 description: Microsoft SharePoint es un conjunto de herramientas y tecnologías basadas en web que permiten almacenar, compartir y administrar información digital en la organización. Integrado en Microsoft SharePoint Server 2013, este servicio hospedado resulta ideal para trabajar con proyectos, almacenar datos y documentos en una ubicación central y compartir información con otros usuarios. Los clientes de Office 365 también pueden adquirir complementos adicionales relacionados con SharePoint Online.
 ms.openlocfilehash: 3fd453bf37e68defdd9aad60cb9185c4190caa7f
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30466407"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246646"
 ---
 # <a name="add-ons"></a>Complementos
 

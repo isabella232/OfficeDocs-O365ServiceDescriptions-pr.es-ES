@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio Microsoft Dynamics 365 (en línea)
+title: Descripción del servicio Microsoft Dynamics 365 (Online)
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,13 +14,13 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: A partir de la actualización de diciembre de 2016 para Dynamics 365 (en línea y local), la funcionalidad de Dynamics CRM ahora se incluye como parte de Dynamics 365, un conjunto de aplicaciones empresariales inteligentes. Dynamics 365 agrupa las funciones de administración de las relaciones con el cliente (CRM) y planeación de recursos empresariales (ERP) al ofrecer nuevas aplicaciones para ayudar a administrar funciones empresariales específicas.
 ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467217"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246526"
 ---
-# <a name="microsoft-dynamics-365-online-service-description"></a>Descripción del servicio Microsoft Dynamics 365 (en línea)
+# <a name="microsoft-dynamics-365-online-service-description"></a>Descripción del servicio Microsoft Dynamics 365 (Online)
 
 A partir de la actualización de diciembre de 2016 para Dynamics 365 (en línea y local), la funcionalidad de Dynamics CRM ahora se incluye como parte de Dynamics 365, un conjunto de aplicaciones empresariales inteligentes. Dynamics 365 agrupa las funciones de administración de las relaciones con el cliente (CRM) y planeación de recursos empresariales (ERP) al ofrecer nuevas aplicaciones para ayudar a administrar funciones empresariales específicas. 
   
@@ -73,7 +73,7 @@ A continuación, se proporciona un resumen de alto nivel de los derechos de uso 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 ||**Integrantes de grupo** <br/> |**Lín** <br/> |**Servicio de atención al cliente** <br/> |**Servicio de campo** <br/> |**Automatización del servicio de Project** <br/> |**Plan 1** <br/> |
-|**Todos los datos de Dynamics 365 Enterprise Edition** <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |
+|**Todos los datos de Dynamics 365 Enterprise Edition** <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |
 |**Dynamics 365 for Operations Functionality: Record Time and gastos; crear solicitudes; administrar presupuestos; aprobación del tiempo de operaciones; gastos y facturas; editar y responder a consultas para: control de calidad, pedidos de servicio** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**Cuentas y contactos, actividades y notas** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**Administración del conocimiento, centro de servicios interActivos** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
@@ -85,13 +85,13 @@ A continuación, se proporciona un resumen de alto nivel de los derechos de uso 
 |**Portal solo: envío de casos de autoservicio y inicio de chat como soporte técnico (no agente)** <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |
 |**Solo portal, no empleado: actualizar las órdenes de trabajo, crear y actualizar oportunidades** <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup>`  <br/> |
 |**Informes de usuario, paneles y gráficos** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Configuración de informes del sistema, gráficos del sistema, paneles del sistema** <br/> |Ninguno  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |Full  <br/> |
-|**Clientes potenciales, oportunidades, objetivos, contratos, ofertas, pedidos, facturas, competidores** <br/> |De solo lectura.  <br/> |Full  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |Full  <br/> |
-|**Campañas de ventas, campañas exprés, listas de marketing, listas de precios, listas de productos** <br/> |De solo lectura.  <br/> |Full  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |Full  <br/> |
-|**Servicio de escritorio unificado** <br/> |De solo lectura.  <br/> |Full  <br/> |Full  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |Full  <br/> |
-|**Administración completa de casos, servicios, recursos (no bookable), horas laborables, instalaciones, equipamiento, artículos** <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |Full  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |Full  <br/> |
-|**Pedidos de trabajo, programación y envío con panel de programación, contratos de servicio, facturas de servicio de campo y pedidos de compra, activos de clientes, inventario, reparaciones y devoluciones** <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |Full  <br/> |De solo lectura.  <br/> |Full  <br/> |
-|**Proyecto, estimaciones y gastos de proyectos, disponibilidad de recursos y administración de programación, listas de precios/contratos/facturas de proyecto, aprobar transacciones de proyecto, Microsoft Project online Premium** <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |De solo lectura.  <br/> |Full  <br/> |Full  <br/> |
+|**Configuración de informes del sistema, gráficos del sistema, paneles del sistema** <br/> |Ninguno  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
+|**Clientes potenciales, oportunidades, objetivos, contratos, ofertas, pedidos, facturas, competidores** <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
+|**Campañas de ventas, campañas exprés, listas de marketing, listas de precios, listas de productos** <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
+|**Servicio de escritorio unificado** <br/> |Solo lectura  <br/> |Full  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
+|**Administración completa de casos, servicios, recursos (no bookable), horas laborables, instalaciones, equipamiento, artículos** <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
+|**Pedidos de trabajo, programación y envío con panel de programación, contratos de servicio, facturas de servicio de campo y pedidos de compra, activos de clientes, inventario, reparaciones y devoluciones** <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Full  <br/> |
+|**Proyecto, estimaciones y gastos de proyectos, disponibilidad de recursos y administración de programación, listas de precios/contratos/facturas de proyecto, aprobar transacciones de proyecto, Microsoft Project online Premium** <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |Full  <br/> |
 |**PowerApps** <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Full  <br/> |
 |**Microsoft social Engagement, Voice of Customer, Mobile offline, Gamification Player y admin** <br/> |Ninguno  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**Crear flujos de trabajo, importación masiva de datos y personalizaciones entre entidades incluidas en la aplicación** <br/> |Ninguno  <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Full  <br/> |

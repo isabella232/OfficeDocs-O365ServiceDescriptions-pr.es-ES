@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel online (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web donde se almacena el libro. Todos los clientes de Office 365 pueden ver y editar fácilmente archivos de Office con Office Online.
 ms.openlocfilehash: bfbf1f354d7bc5fdc4e8539885498d360ef67faa
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467387"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246986"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -234,7 +234,7 @@ Excel Online le permite ver gráficos y tablas de Power Pivot, pero necesita la 
 
 Puede ver e interactuar con hojas de Power View de un libro, pero no puede crear Power View con Excel Online. La creación de Power View solo está disponible con la aplicación de escritorio. Power View le permite crear, compartir y explorar los datos en las vistas interactivas y de presentación. Visualice información en tablas, gráficos y mapas interactivos vinculados entre sí en una sola hoja de cálculo. Obtenga más información sobre [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
   
-## <a name="print"></a>Imprimir
+## <a name="print"></a>Print
 <a name="bkmk_Print"> </a>
 
 Use el comando Imprimir en Excel Online para enviar la hoja de cálculo completa o la selección actual a la impresora. Obtenga más información sobre [cómo imprimir en Excel Online](https://go.microsoft.com/fwlink/p/?LinkId=271676).
@@ -264,7 +264,7 @@ Haga clic en el icono Hoja nueva para agregar una hoja. Haga clic con el botón 
 
 En Excel Online, puede cambiar el nombre de un archivo de libro sin cerrarlo. Para ello, haga clic en el nombre de archivo del encabezado y escriba un nombre nuevo. Para cambiar el nombre de un archivo con la aplicación de escritorio de Excel, cierre el archivo, navegue hasta su ubicación en el dispositivo y cámbiele el nombre.
   
-## <a name="replace"></a>Reemplazar
+## <a name="replace"></a>Replace
 <a name="bkmk_Replace"> </a>
 
 No disponible en Excel Online. Si la aplicación de escritorio de Excel está instalada en el equipo, puede usar Excel para buscar y reemplazar contenido en un documento. Obtenga más información sobre el [uso de la función Buscar y reemplazar en Excel 2013](https://go.microsoft.com/fwlink/p/?LinkId=282333).

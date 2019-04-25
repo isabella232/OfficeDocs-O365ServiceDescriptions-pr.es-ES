@@ -12,11 +12,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si es administrador, puede encontrar instrucciones detalladas para configurar las características de Skype empresarial online en configurar Skype empresarial online.
 ms.openlocfilehash: cb7d2d64f12561b97290148045dc2280718011d4
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467437"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246396"
 ---
 # <a name="skype-for-business-online-features"></a>Características de Skype Empresarial Online
 

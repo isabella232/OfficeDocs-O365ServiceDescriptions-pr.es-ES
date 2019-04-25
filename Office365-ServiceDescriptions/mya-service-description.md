@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio myanalytics
+title: Descripción del servicio MyAnalytics
 ms.author: sharik
 author: skjerland
 ms.reviewer: v-pascha
@@ -11,13 +11,13 @@ ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: Myanalytics--características, distribuciones, privacidad y requisitos previos
 ms.openlocfilehash: e0e060674b72bd278ef237e505ca05ef1e082db1
-ms.sourcegitcommit: 2bfe568fee1abb958ba6546a79bb27c01325ee9f
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/15/2019
-ms.locfileid: "30642232"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246506"
 ---
-# <a name="myanalytics-service-description"></a>Descripción del servicio myanalytics
+# <a name="myanalytics-service-description"></a>Descripción del servicio MyAnalytics
 
 Myanalytics resume cómo dedica su tiempo en el trabajo y, a continuación, sugiere formas de trabajar de forma más inteligente. Myanalytics proporciona esta información a través de elementos a [los](#elements) que se puede obtener acceso en Microsoft Outlook o a través del explorador Web.
 

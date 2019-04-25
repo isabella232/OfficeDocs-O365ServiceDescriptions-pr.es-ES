@@ -11,11 +11,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Office 365 Engineering Direct es un servicio de soporte técnico a nivel empresarial para un contrato de soporte técnico Premier de Microsoft. La descripción del servicio Direct Engineer de Office 365 contiene información adicional sobre las características ofrecidas y los requisitos de implementación.
 ms.openlocfilehash: 628d705e6b5c762ee619c7034f5c86f48e26f19d
-ms.sourcegitcommit: 83cfa1d7892cb6b8fb91ac28ce0182fe786b6810
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2019
-ms.locfileid: "30867926"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245016"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Descripción del servicio Direct Engineer de Office 365
 

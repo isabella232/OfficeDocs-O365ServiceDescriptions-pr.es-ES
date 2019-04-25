@@ -16,11 +16,11 @@ ms.custom:
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: El archivado de Microsoft Exchange Online es una solución de archivado de clase empresarial, basada en la nube de Microsoft Office 365, para organizaciones que han implementado Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 y versiones posteriores ) o suscribirse a determinados planes de Exchange Online u Office 365. Archivado de Exchange Online ayuda a satisfacer las necesidades de estas organizaciones relacionadas con el archivo, el cumplimiento normativo, las disposiciones legales y la exhibición de documentos electrónicos, al mismo tiempo que simplifica la infraestructura local, reduce costes y facilita el trabajo de TI.
 ms.openlocfilehash: 20c22a644e43377c6a8b28011412ff78f802f742
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467097"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246156"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de archivado de Exchange Online
 

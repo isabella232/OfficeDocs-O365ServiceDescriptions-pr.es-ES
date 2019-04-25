@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: El archivado de Microsoft Exchange Online permite a los usuarios conectarse a sus buzones de archivo desde una amplia variedad de dispositivos y plataformas. La conectividad de red al archivo del usuario se realiza íntegramente a través de Internet, de modo que no se precisan conexiones de red privada virtual (VPN). Para permitir el acceso de los usuarios a su buzón principal con Outlook en cualquier lugar, sin necesidad de conexión VPN, las organizaciones pueden publicar en un servidor de acceso de cliente local. Si se requiere acceso a VPN para acceder al buzón de correo principal del usuario en un servidor local, este requisito no cambiará.
 ms.openlocfilehash: d1f304936d184dc30826d6e60552d4e186bb2a41
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467187"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33245066"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Características de cliente de Exchange Online Archiving
 
@@ -50,11 +50,11 @@ La tabla siguiente contiene los clientes compatibles con Archivado de Exchange O
 |:-----|:-----|
 |Outlook 2010 y versiones posteriores  <br/> |Compatible con las últimas características de Archivado de Exchange Online.<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |Compatible con Archivado de Exchange Online.<sup>1,2</sup> <br/> |
-|Outlook 2003  <br/> |exExchange2k7 y versiones anteriores  <br/> |
-|Outlook para Mac 2011  <br/> |exExchange2k7 y versiones anteriores  <br/> |
+|Outlook 2003  <br/> |No admitido  <br/> |
+|Outlook para Mac 2011  <br/> |No admitido  <br/> |
 |Outlook para Mac  <br/> |Admitido para su uso con archivado de Exchange Online. <sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008, Web Services Edition  <br/> |exExchange2k7 y versiones anteriores  <br/> |
-|IMAP y POP  <br/> |exExchange2k7 y versiones anteriores  <br/> |
+|Microsoft Office Entourage 2008, Web Services Edition  <br/> |No admitido  <br/> |
+|IMAP y POP  <br/> |No admitido  <br/> |
 |Exchange ActiveSync (dispositivos móviles)  <br/> |No se admite  <br/> |
    
 > [!NOTE]

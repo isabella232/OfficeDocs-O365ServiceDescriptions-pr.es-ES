@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger su Organización de vínculos perjudiciales en tiempo real. ATP tiene capacidades enriquecidas de informes y seguimiento de URL que proporcionan a los administradores información sobre el tipo de ataques que ocurren en la organización.
 ms.openlocfilehash: e0b3b686f707063bff2433f1ed6acd368a08aab6
-ms.sourcegitcommit: 5fabae12930bc8d815cdbb3af9d36af4be7c6c53
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/05/2019
-ms.locfileid: "31479748"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246266"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descripción del servicio de Protección contra amenazas avanzada de Office 365
 
@@ -99,7 +99,7 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 |*Automatización, investigación, corrección y educación* |
 |Rastreadores de amenazas |No |Sí |Sí |
 |Explorer (investigación de amenazas avanzada) |No |Sí |Sí |
-|Investigación y respuesta de amenazas  |No |Sí |Sí |
+|Investigación y respuesta automatizada  |No |Sí |Sí |
 |Simulador de ataque |No |Sí |Sí |
 
    

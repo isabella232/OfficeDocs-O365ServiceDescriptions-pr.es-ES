@@ -14,11 +14,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Los administradores de Microsoft Office 365 pueden ver el estado de los servicios y saber cuándo está programado el mantenimiento. La información de estado del servicio está disponible en cualquier momento iniciando sesión en Office 365.
 ms.openlocfilehash: 4273cba15423c40c0c9bdb36ff649782bed90cdf
-ms.sourcegitcommit: 61351f48b8662ed5b39b9cce896dd6bb2db0fe32
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/14/2019
-ms.locfileid: "30574144"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33247046"
 ---
 # <a name="service-health-and-continuity"></a>Continuidad y estado del servicio
 
@@ -129,7 +129,7 @@ Microsoft garantiza que los datos del cliente estén siempre disponibles cuando 
     
 - **Realización de mantenimientos preventivos:** El mantenimiento preventivo incluye las comprobaciones de coherencia de bases de datos, la compresión periódica de los datos y las revisiones de registros de errores. 
     
-## <a name="support"></a>Compatibilidad
+## <a name="support"></a>Soporte técnico
 
 Los equipos de operaciones y desarrollo de Office 365 se complementan con una estructura de soporte dedicado de Office 365, que juega un papel importe en el suministro de continuidad del negocio a los clientes. El personal de soporte posee un amplio conocimiento del servicio y de las aplicaciones asociadas, así como la posibilidad de consultar directamente a expertos en arquitectura, desarrollo y pruebas de Microsoft.
   

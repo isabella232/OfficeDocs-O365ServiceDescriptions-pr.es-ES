@@ -10,11 +10,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Busque los límites de SharePoint Online para planes de Office 365 Enterprise e independientes.
 ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 68eee0c2885fd112e37eea27370c3f8c1f0831cb
+ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30467877"
+ms.lasthandoff: 04/25/2019
+ms.locfileid: "33246616"
 ---
 # <a name="sharepoint-online-limits"></a>Límites de SharePoint Online
 
@@ -27,7 +27,7 @@ Busque los límites de SharePoint para los planes de Office 365 y los planes ind
 |**Característica** <br/> |**Office 365 empresa Essentials o empresa Premium** <br/> |**Office 365 Enterprise E1, E3 o E5, o SharePoint Online plan 1 o 2** <br/> | **Office 365 Enterprise F1** <br/> |
 |Almacenamiento<sup>1, 2</sup> <br/> |1 TB por organización más 10 GB por licencia adquirida  <br/> |1 TB por organización más 10 GB por licencia comprado<sup>3</sup> <br/> |1 TB por organización <sup>3</sup> <br/> |
 |Almacenamiento para colecciones de sitios  <br/> |Hasta 25 TB por colección de sitios o grupo<sup>4</sup> <br/> |Hasta 25 TB por colección de sitios o grupo<sup>4</sup> <br/> |Hasta 25 TB por colección de sitios o grupo<sup>5</sup> <br/> |
-|Colecciones de sitios por organización  <br/> |500.000<sup>6</sup> <br/> |500.000<sup>6</sup> <br/> |500,000<br/> |
+|Colecciones de sitios por organización  <br/> |500.000<sup>6</sup> <br/> |500.000<sup>6</sup> <br/> |500 000<br/> |
 |Número de usuarios  <br/> |Hasta 300  <br/> |1- 500 000<sup>7</sup> <br/> |1- 500 000<sup>7</sup> <br/> |
    
 > [!NOTE]
@@ -68,6 +68,6 @@ Busque los límites de SharePoint para los planes de Office 365 y los planes ind
 > [!NOTE]
 > No hay ningún límite en el número de usuarios externos que puede invitar a las colecciones de sitios de SharePoint Online. Para más información, vea [Administrar el uso compartido externo en su entorno de SharePoint Online](/sharepoint/external-sharing-overview)
 
-## <a name="see-also"></a>Ver también
+## <a name="see-also"></a>Vea también
 
 [Límites de búsqueda para SharePoint Online](/sharepoint/search-limits)
