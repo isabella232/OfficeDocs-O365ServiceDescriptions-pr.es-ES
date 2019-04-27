@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-march-11-2019"></a>Semana del 11 de marzo de 2019
-
-
-| Fecha de publicación |Título del tema | Cambio |
-|------|------------|--------|
-| 3/12/2019 | [Continuidad y estado del servicio](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | modificado |
-| 3/14/2019 | [Descripción del servicio de Microsoft 365 Empresa](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificado |
-| 3/14/2019 | [Descripción del servicio MyAnalytics](/Office365/ServiceDescriptions/mya-service-description) | agregado |
-| 3/14/2019 | [Descripciones de servicio de Office 365 ](/Office365/ServiceDescriptions/office-365-service-descriptions-technet-library) | modificado |
-| 3/14/2019 | [Límites de Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
-
-
 ## <a name="week-of-march-18-2019"></a>Semana del 18 de marzo de 2019
 
 
@@ -68,4 +56,15 @@
 | 4/11/2019 | [Sitios](/Office365/ServiceDescriptions/sharepoint-online-service-description/sites-servicedesc) | modificado |
 | 4/11/2019 | [Características de archivo de Archivado de Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | modificado |
 | 4/11/2019 | [Centro de seguridad y cumplimiento de Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificado |
-| 4/11/2019 | [Descripción del servicio Skype Empresarial Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | Fecha de modificación |
+| 4/11/2019 | [Descripción del servicio Skype Empresarial Online](/Office365/ServiceDescriptions/skype-for-business-online-service-description/skype-for-business-online-service-description) | modificado |
+
+
+## <a name="week-of-april-15-2019"></a>Semana del 15 de abril de 2019
+
+
+| Fecha de publicación |Título del tema | Cambio |
+|------|------------|--------|
+| 4/18/2019 | [Clientes y dispositivos móviles](/Office365/ServiceDescriptions/exchange-online-service-description/clients-and-mobile-devices) | modificado |
+| 4/18/2019 | [Límites de Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
+| 4/18/2019 | [Descripción del servicio de aplicaciones de Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificado |
+| 4/18/2019 | [Contenido](/Office365/ServiceDescriptions/sharepoint-online-service-description/content) | modificado |

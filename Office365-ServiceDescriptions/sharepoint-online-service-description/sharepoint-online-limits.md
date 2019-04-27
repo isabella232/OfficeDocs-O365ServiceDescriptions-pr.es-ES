@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Busque los límites de SharePoint Online para planes de Office 365 Enterprise e independientes.
-ms.openlocfilehash: c1b6185c46be6f1343e6679a5b887bab5b393708
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4615eeefe2f9f172a5baa43ce3a506015bfe159e
+ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246616"
+ms.lasthandoff: 04/27/2019
+ms.locfileid: "33368373"
 ---
 # <a name="sharepoint-online-limits"></a>Límites de SharePoint Online
 
@@ -43,7 +43,7 @@ Busque los límites de SharePoint para los planes de Office 365 y los planes ind
   
 ## <a name="service-limits-for-all-plans"></a>Límites de servicio para todos los planes
 
-- **Elementos en listas y bibliotecas** : una lista puede tener hasta 30 millones elementos y una biblioteca puede tener hasta 30 millones archivos y carpetas. Las vistas pueden tener hasta 12 columnas de búsqueda. Para obtener más información sobre otras restricciones para ver listas de gran tamaño, vea [administrar listas y bibliotecas de gran tamaño en Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Para obtener información sobre los caracteres que no se pueden usar en los nombres de archivo, vea [caracteres no válidos en los nombres de archivos y carpetas](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **Elementos en listas y bibliotecas** : una lista puede tener hasta 30 millones elementos y una biblioteca puede tener hasta 30 millones archivos y carpetas. Después de 100, 00 elementos que se agregan a una lista, biblioteca o carpeta, no se puede cambiar la herencia de permisos para la lista, biblioteca o carpeta. Para obtener más información sobre otras restricciones para ver listas de gran tamaño, vea [administrar listas y bibliotecas de gran tamaño en Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784). Para obtener información sobre los caracteres que no se pueden usar en los nombres de archivo, vea [caracteres no válidos en los nombres de archivos y carpetas](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 - **Tamaño de archivo y longitud de ruta de acceso de archivo** : 15 GB. Para obtener más información sobre las restricciones y los límites al usar el nuevo cliente de sincronización de OneDrive (OneDrive. exe), vea [nombres de archivo y tipos de archivo no válidos en onedrive, onedrive para la empresa y SharePoint](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
