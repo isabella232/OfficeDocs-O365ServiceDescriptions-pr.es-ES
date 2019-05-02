@@ -3,7 +3,7 @@ title: Descripción del servicio de Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/01/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anteriormente Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office Online facilita el trabajo y el uso compartido de archivos de Office en cualquier lugar con una conexión a Internet, desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina.
-ms.openlocfilehash: ccab7cffeac239c8cdab20d9496d5e6bff943632
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 4e5e66791af7a71bf877ec89dfa959be6e30064a
+ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246966"
+ms.lasthandoff: 05/02/2019
+ms.locfileid: "33544967"
 ---
 # <a name="office-online-service-description"></a>Descripción del servicio de Office Online
 
@@ -32,7 +32,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 ¿Necesita ayuda para saber qué solución de Office se adapta mejor a su organización? En las tablas siguientes se comparan las capacidades de las características de Office online para las aplicaciones de escritorio de Microsoft Office con características enriquecidas. Use las tablas para descubrir qué características están disponibles en Office Online y, a continuación, haga clic en el nombre de la característica para leer una breve descripción de cómo funciona la característica. Es posible que algunas personas de la organización necesiten la funcionalidad de gráficos avanzada de la aplicación de escritorio de Excel mientras que otras solo tienen que ver y editar ligeramente documentos de Word y presentaciones de PowerPoint con Office online. 
   
 > [!NOTE]
->  Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de las características de Microsoft Office. >  Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. > Microsoft Office Online Server los clientes locales obtienen una licencia de edición de Office Online si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Office 365 proPlus). 
+>  Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de las características de Microsoft Office. >  Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. > Microsoft Office Online Server los clientes locales obtienen una licencia de edición de Office Online si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Office 365 ProPlus). 
   
 > [!NOTE]
 > Cuando abre un documento de Office, ya sea un adjunto de correo electrónico de Outlook o desde una biblioteca de documentos de SharePoint, el documento se iniciará en Office Online y será de solo lectura. Para editar un documento en Office Online (modo de edición), necesita una licencia del conjunto de Office 365, como Office 365 Enterprise E1. Para editar un documento en la aplicación de escritorio, deberá contar con una licencia del conjunto de escritorio de Office, como una suscripción de Office 365 ProPlus o una versión instalada de Office Professional Plus 2010. 
@@ -119,7 +119,8 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 ||||
 |:-----|:-----|:-----|
 |**Características de aplicaciones** <br/> |**Excel Online** <br/> |**Aplicación de escritorio de Excel** <br/> |
-|[ComProbador de accesibilidad](excel-online.md#add-hyperlinks) <br/> |Sí  <br/> |Sí  <br/> |
+|[Comprobador de accesibilidad](excel-online.md#add-hyperlinks) <br/> |Sí  <br/> |Sí  <br/> |
+|[Agregar color de fondo a las pestañas de hoja](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Sí  <br/> |Sí  <br/> |
 |[Agregar hipervínculos](excel-online.md#add-hyperlinks) <br/> |Sí  <br/> |Sí  <br/> |
 |[Filtro de tiempo avanzado (segmentación de escala de tiempo)](excel-online.md#advanced-time-filtering-timeline-slicer) <br/> |No  <br/> |Sí  <br/> |
 |[Alineación](excel-online.md#alignment) <br/> |Sí  <br/> |Sí  <br/> |
@@ -129,6 +130,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Autocompletar](excel-online.md#autocomplete) <br/> |Sí  <br/> |Sí  <br/> |
 |[AutoSum](excel-online.md#autosum) <br/> |Sí  <br/> |Sí  <br/> |
 |[Cálculo](excel-online.md#calculations) <br/> |Sí  <br/> |Sí  <br/> |
+|[Referencias de llamadas en fórmulas](excel-online.md#call-reference-in-formulas) <br/> |Sí  <br/> |Sí  <br/> |
 |[Creación de comentarios](excel-online.md#comment-creation) <br/> |Sí  <br/> |Sí  <br/> |
 |[Copiar y pegar](excel-online.md#copy-and-paste) <br/> |Sí  <br/> |Sí  <br/> |
 |[Crear conexiones de datos externos<sup>2</sup>](excel-online.md#create-external-data-connections) <br/> |No<sup>3</sup> <br/> |Sí  <br/> |
@@ -136,9 +138,10 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Crear vistas de análisis avanzadas (Power View, Power Pivot, Segmentaciones de datos)](excel-online.md#creation-of-advanced-analysis-views-power-view-power-pivot-slicers) <br/> |No  <br/> |Sí  <br/> |
 |[Validación de datos](excel-online.md#data-validation) <br/> |Sí <br/> |Sí  <br/> |
 |[Arrastrar y colocar celdas](excel-online.md#drag-and-drop-cells) <br/> |Sí  <br/> |Sí  <br/> |
-|[Dropbox](excel-online.md#dropbox) <br/> |Sí  <br/> |Sí  <br/> |
+|[Dropbox](excel-online.md#dropbox) <br/> |Sí  <br/> |Sí  <br/>|
+|[Duplicar (copiar) workseets](excel-online.md#duplicate-copy-worksheets) <br/> |Sí  <br/> |Sí  <br/>|
 |[Insertar libros en páginas web o de blog (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Sí  <br/> |No  <br/> |
-|[Referencias externas](excel-online.md#external-references-links) <br/> |N°<sup>5</sup> <br/> |Sí  <br/> |
+|[Referencias externas](excel-online.md#external-references-links) <br/> |No<sup>4</sup> <br/> |Sí  <br/> |
 |[Controlador de relleno](excel-online.md#fill-handle) <br/> |Sí  <br/> |Sí  <br/> |
 |[Buscar](excel-online.md#find) <br/> |Sí  <br/> |Sí  <br/> |
 |[Fuente y formato de celda](excel-online.md#font-and-cell-formatting) <br/> |Sí  <br/> |Sí  <br/> |
@@ -148,16 +151,20 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Vista de lectura de total fidelidad](excel-online.md#full-fidelity-reading-view) <br/> |Sí  <br/> |Sí  <br/> |
 |[Funciones](excel-online.md#functions) <br/> |Sí  <br/> |Sí  <br/> |
 |[GoTo](excel-online.md#goto) <br/> |Sí  <br/> |Sí  <br/> |
+|[Datos de grupo](excel-online.md#group-data) <br/> |Sí  <br/> |Sí  <br/> |
 |[Ocultar/mostrar filas, columnas y hojas](excel-online.md#hideunhide-rows-columns-and-sheets) <br/> |Sí  <br/> |Sí  <br/> |
-|[Insertar forma o imagen](excel-online.md#insert-charts) <br/> |Sí  <br/> |Sí  <br/> |
+|[Ideas](excel-online.md#ideas) <br/> |Sí  <br/> |Sí  <br/> |
 |[Insertar gráficos](excel-online.md#insert-charts) <br/> |Sí  <br/> |Sí  <br/> |
 |[Insertar/eliminar filas y columnas](excel-online.md#insertdelete-rows-and-columns) <br/> |Sí  <br/> |Sí  <br/> |
+|[Insertar imágenes](excel-online.md#insert-pictures) <br/> |Sí  <br/> |Sí  <br/> |
+|[Insertar formas](excel-online.md#insert-shapes) <br/> |Sí  <br/> |Sí  <br/> |
 |[Combinar celdas](excel-online.md#merge-cells) <br/> |Sí  <br/> |Sí  <br/> |
+|[Rango con nombre](excel-online.md#named-ranges) <br/> |Sí  <br/> |Sí  <br/> |
 |[Formato de los números](excel-online.md#number-formatting) <br/> |Sí  <br/> |Sí  <br/> |
 |[Complementos de Office](excel-online.md#office-add-ins) <br/> |Sí <br/> |Sí  <br/> |
 |[Visualización y creación sin conexión](excel-online.md#offline-viewing-and-authoring) <br/> |No  <br/> |Sí  <br/> |
-|[Gráficos dinámicos](excel-online.md#post-to-social-network-and-present-online) <br/> |Sí<sup>1</sup>  <br/> |Sí  <br/> |
-|[Tablas dinámicas](excel-online.md#post-to-social-network-and-present-online) <br/> |Sí  <br/> |Sí  <br/> |
+|[Gráficos dinámicos](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Sí<sup>1</sup>  <br/> |Sí  <br/> |
+|[Tablas dinámicas](excel-online.md#pivot-tables) <br/> |Sí  <br/> |Sí  <br/> |
 |[Publicación en red social y presentación en línea](excel-online.md#post-to-social-network-and-present-online) <br/> |No  <br/> |Sí  <br/> |
 |[Visualización de Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Sí  <br/> |Sí  <br/> |
 |[Visualización de Power View](excel-online.md#power-view-viewing) <br/> |Sí  <br/> |Sí  <br/> |
@@ -165,6 +172,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Coautoría en tiempo real](excel-online.md#real-time-co-authoring) <br/> |Sí  <br/> |Sí  <br/> |
 |[Creación y edición de gráficos recomendados con controles de formato](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |No  <br/> |Sí  <br/> |
 |[Actualizar las conexiones de datos existentes](excel-online.md#refresh-existing-data-connections) <br/> |Sí  <br/> |Sí  <br/> |
+|[Quitar valores duplicados](excel-online.md#remove-duplicate-values) <br/> |Sí  <br/> |Sí  <br/> |
 |[Cambiar de nombre y agregar hojas](excel-online.md#rename-and-add-sheets) <br/> |Sí  <br/> |Sí  <br/> |
 |[Cambiar el nombre de archivo con el libro abierto](excel-online.md#rename-file-while-workbook-is-open) <br/> |Sí  <br/> |No  <br/> |
 |[Reemplazar](excel-online.md#replace) <br/> |Sí  <br/> |Sí  <br/> |
@@ -177,7 +185,9 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Cumplimiento normativo y auditoría de hojas de cálculo](excel-online.md#spreadsheet-audit-and-compliance) <br/> |No  <br/> |Sí  <br/> |
 |[Agregados de la barra de estado](excel-online.md#status-bar-aggregates) <br/> |Sí  <br/> |Sí  <br/> |
 |[Encuestas](excel-online.md#surveys) <br/> |Sí  <br/> |No  <br/> |
-|[Información](excel-online.md#tell-me) <br/> |Sí  <br/> |Sí  <br/> |
+|[Información](excel-online.md#tell-me) <br/> |Sí  <br/> |Sí  <br/>|
+|[Formato de texto](excel-online.md#text-formatting) <br/> |Sí  <br/> |Sí  <br/>|
+|[Datos totales](excel-online.md#total-data) <br/> |Sí  <br/> |Sí  <br/>|
 |[Deshacer y rehacer](excel-online.md#undo-and-redo) <br/> |Sí  <br/> |Sí  <br/> |
 |[Scripting de macros y VBA](excel-online.md#vba-and-macro-scripting) <br/> |Sí<sup>3</sup>  <br/> |Sí  <br/> |
 |[Visualizar gráficos 3D](excel-online.md#view-3d-charts) <br/> |Sí  <br/> |Sí  <br/> |
@@ -186,10 +196,8 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 > <sup>1</sup> no se pueden crear gráficos dinámicos, solo vista.
  <br/><sup>2</sup> según cómo esté configurado el entorno, algunos tipos de conexiones de datos se admiten para los libros que se muestran en Excel online. Para obtener más información, consulte Actualización de datos en un libro en la ventana de un explorador. 
  <br/><sup>3</sup> no puede crear macros con VBA en Excel online, pero puede abrir y editar hojas de cálculo habilitaDAS para VBA sin tener que quitar (o dañar) el VBA contenido en el archivo.
- <br/><sup>4</sup> los libros que usan la validación de datos se pueden editar en Excel online, pero no se puede configurar la validación de datos en Excel online. 
- <br/><sup>5</sup> en Excel online, el último valor de referencia conocido se muestra en la ventana del explorador; sin embargo, debe actualizarse con el escritorio de Excel. 
- <br/><sup>6</sup> puede ver los paneles inmovilizados que se han creado con la aplicación de escritorio de Excel, pero no puede crear paneles inmovilizados en Excel online. 
- <br/><sup>7</sup> algunos complementos de Office están disponibles, pero no todos. 
+ <br/><sup>4</sup> en Excel online, el último valor de referencia conocido se muestra en la ventana del explorador; sin embargo, debe actualizarse con la aplicación de escritorio de Excel. 
+ <br/><sup>5</sup> Algunos complementos de Office están disponibles, pero no todos. 
   
 ### <a name="onenote"></a>OneNote
 <a name="BKMK_OneNoteFeatures"> </a>
