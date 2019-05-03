@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 7b3910ea194e7e8be2d4ba221252e7e0a3c9d748
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: 1fe0b98ab37061312c1b419304ae91d394dd2b2d
+ms.sourcegitcommit: b92efda3126d52cd58a524bceb816abe18d59856
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544847"
+ms.locfileid: "33553489"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -456,6 +456,8 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
     
 - **Número de veces que se redirige un mensaje** El número de veces que se redirigirá, reenviará o responderá automáticamente un mensaje en función de las reglas de la Bandeja de entrada. Por ejemplo, el usuario A tiene una regla de Bandeja de entrada que redirige los mensajes al usuario B, en función del remitente. El usuario B tiene una regla de Bandeja de entrada que reenvía los mensajes al usuario C, en función de palabras clave en la línea del asunto. Si un mensaje cumple estas dos condiciones, el mensaje solo se envía al usuario B; no se reenvía al usuario C ya que solo se permite un redireccionamiento. En este caso, el mensaje se elimina sin enviar un informe de no entrega (NDR) al usuario B que indica que el mensaje no se entregó al usuario C. Usamos el encabezado X-MS-Exchange-Inbox-rules-loop para determinar el número de veces que se redirigió un mensaje. Este encabezado también se mantiene entre los límites de la organización de Exchange.
 
+- **Número de veces que las reglas de transporte redirigen un mensaje** El número de veces que se redirigirá un mensaje en función de las reglas de transporte. Por ejemplo, la organización de Exchange Tailspin Toys tiene una regla de transporte para redirigir todos los mensajes enviados al usuario a al usuario B, que se encuentra en la organización de Exchange contoso. En la organización de Exchange contoso hay una regla de transporte en su ubicación para redirigir todos los mensajes enviados al usuario B al usuario C que se encuentra en la organización de Exchange a. Datum Corporation. En este caso, el mensaje se elimina y un informe de no entrega (NDR) con código de estado y el mensaje de rechazo *550 5.7.128 transporte. Reglas. RejectMessage Se superó el número de bucles de reglas de transporte y el mensaje rechazado* es enviar al usuario a. Usamos el encabezado X-MS-Exchange-Transport-rules-loop para determinar el número de veces que un mensaje fue redirigido por las reglas de transporte. Este encabezado también se mantiene entre los límites de la organización de Exchange.
+
 ### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Límites de reglas del diario, transporte y Bandeja de entrada en las opciones de Office 365
 
 ||||||||
@@ -468,7 +470,8 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 |Límites de análisis para el contenido de datos adjuntos|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |Número máximo de destinatarios agregados a un mensaje por todas las reglas de trasporte|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|
 |Límite de reenvío|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|
-|Número de veces que se redirige un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que se redirige un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que las reglas de transporte redirigen un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Límites de reglas del diario, transporte y Bandeja de entrada en las opciones independientes
 
@@ -481,7 +484,8 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 |Límite de caracteres para todas las expresiones regulares usadas en todas las reglas de transporte|Sin límite|20 KB|20 KB|20 KB|
 |Número máximo de destinatarios agregados a un mensaje por todas las reglas de trasporte|Sin límite|100 destinatarios|100 destinatarios|100 destinatarios|
 |Límite de reenvío|Sin límite|10 destinatarios|10 destinatarios|10 destinatarios|
-|Número de veces que se redirige un mensaje|3 redireccionamientos|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que se redirige un mensaje|3 redireccionamientos|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que las reglas de transporte redirigen un mensaje|Sin límite|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
 
 ## <a name="moderation-limits"></a>Límites de moderación
 <a name="ModerationLimits"> </a>
@@ -539,7 +543,7 @@ Los siguientes límites se aplican a Microsoft Exchange ActiveSync, un protocolo
 |**Característica**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Límite de dispositivos de Exchange ActiveSync|100|100|100|100|100|100|
 |Límite de eliminación de dispositivos de Exchange ActiveSync|20|20|20|20|20|20|
-|Límite de datos adjuntos del archivo de Exchange ActiveSync|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
+|Límite de datos adjuntos del archivo de Exchange ActiveSync|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>Límites de Exchange ActiveSync en opciones independientes
 
