@@ -3,7 +3,7 @@ title: Regulación de mensajes y cumplimiento normativo
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 806476eb165bb4e98fe5c9d73b878aaa7e32b66c
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 15456686dfb5f50a21541fd431ba35f2052541a6
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246546"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621880"
 ---
 # <a name="message-policy-and-compliance"></a>Regulación de mensajes y cumplimiento normativo
 
@@ -84,13 +84,15 @@ Además de BitLocker, usamos una tecnología denominada administrador de claves 
   
 ## <a name="customer-key"></a>Clave del cliente
 
-Con la clave de cliente, puede controlar las claves de cifrado de la organización y, después, configurar Office 365 para usarlas y cifrar los datos en reposo en los centros de datos de Microsoft. Los datos en reposo incluyen datos de Exchange Online y Skype Empresarial que se almacenan en buzones y archivos en SharePoint Online y OneDrive para la Empresa. Para obtener más información, vea [controlar los datos en Office 365 mediante](https://go.microsoft.com/fwlink/?linkid=863349) la clave de cliente y el cifraDo de [servicio con la clave de cliente de Office 365 FAQ](https://go.microsoft.com/fwlink/?linkid=869438).
+Con la clave de cliente, puede controlar las claves de cifrado de la organización y, después, configurar Office 365 para usarlas y cifrar los datos en reposo en los centros de datos de Microsoft. Los datos en reposo incluyen datos de Exchange Online y Skype Empresarial que se almacenan en buzones y archivos en SharePoint Online y OneDrive para la Empresa. Para obtener más información, vea [controlar los datos en Office 365 mediante](https://go.microsoft.com/fwlink/?linkid=863349) la clave de cliente y el cifrado de [servicio con la clave de cliente de Office 365 FAQ](https://go.microsoft.com/fwlink/?linkid=869438).
   
 ## <a name="office-365-message-encryption"></a>Cifrado de mensajes de Office 365
 <a name="bkmk_O365_MessageEncryption"> </a>
 
-El cifrado de mensajes de Office 365 permite a los usuarios enviar mensajes de correo electrónico cifrados a cualquier persona. Anunciamos nuevas capacidades en el cifrado de mensajes de Office que aprovechan las características de protección de Azure Information Encryption. Estas nuevas funciones ofrecen experiencias de usuario final mejoradas que facilitan el uso compartido y la colaboración en mensajes protegidos con cualquier usuario dentro o fuera de la organización. Las nuevas capacidades de cifrado de mensajes de Office tienen algunos requisitos de configuración. Consulte configurar las nuevas capacidades de cifrado de mensajes de Office 365 basadas en Azure Information Protection. Los clientes en el cifrado de mensajes de Office 365 heredado no obtienen las nuevas funciones sin seguir la guía de configuración que se proporciona más arriba. Consulte las [preguntas más frecuentes](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) para obtener más información sobre lo que se incluye en las funciones de cifraDo de mensajes de Office 365 heredado. 
-  
+El cifrado de mensajes de Office 365 permite a los usuarios enviar mensajes de correo electrónico cifrados a cualquier persona. Anunciamos nuevas capacidades en el cifrado de mensajes de Office que aprovechan las características de protección de Azure Information Encryption. Estas nuevas funciones ofrecen experiencias de usuario final mejoradas que facilitan el uso compartido y la colaboración en mensajes protegidos con cualquier usuario dentro o fuera de la organización. Las nuevas capacidades de cifrado de mensajes de Office tienen algunos requisitos de configuración. Consulte configurar las nuevas capacidades de cifrado de mensajes de Office 365 basadas en Azure Information Protection. Los clientes en el cifrado de mensajes de Office 365 heredado no obtienen las nuevas funciones sin seguir la guía de configuración que se proporciona más arriba. Consulte las [preguntas más frecuentes](https://support.office.com/en-us/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) para obtener más información sobre lo que se incluye en las funciones de cifrado de mensajes de Office 365 heredado. 
+
+El cifrado de mensajes avanzado de Office 365 proporciona protección adicional al permitir la caducidad y revocación de mensajes.  También puede crear varias plantillas para los mensajes de correo electrónico cifrados que se originan desde su organización.  El cifrado de mensajes avanzado se incluye en Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (precio del personal sin ánimo de lucro), Office 365 Enterprise E5 (precio del personal sin ánimo de lucro) u Office 365 Education A5. Si su organización tiene una suscripción de Office 365 que no incluye el cifrado avanzado de mensajes de Office 365, puede adquirir el cumplimiento de Microsoft 365 E5 o el SKU de Office 365 Advanced Compliance como complemento.
+
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Extensiones seguras multipropósito al correo de Internet (S/MIME)
 <a name="bkmk_O365_MessageEncryption"> </a>
 
@@ -128,7 +130,7 @@ También puede usar la retención local para:
   
 Para obtener más información, vea [Conservación local y retención por juicio](https://go.microsoft.com/fwlink/p/?LinkId=271746).
   
-## <a name="in-place-ediscovery"></a>eDiscovery local
+## <a name="in-place-ediscovery"></a>Exhibición de documentos electrónicos en contexto
 <a name="bkmk_O365_MessageEncryption"> </a>
 
 Exchange Online permite a los clientes buscar en el contenido de los buzones de una organización con una interfaz web. Los administradores o funcionarios de seguridad y cumplimiento normativo autorizados a realizar búsquedas de Exhibición de documentos electrónicos en contexto (mediante asignación) pueden buscar mensajes de correo electrónico, documentos adjuntos, citas de calendario, tareas, contactos y otros elementos. La Exhibición de documentos electrónicos en contexto permite realizar búsquedas entre los archivos y buzones principales de manera simultánea. Las capacidades de filtrado enriquecidas incluyen remitente, destinatario, tipo de mensaje, fecha de envío/recepción y copia carbón/copia carbón oculta, junto con sintaxis de KQL. Los resultados de búsqueda también incluirán elementos de la carpeta Elementos eliminados, si coinciden con una consulta de búsqueda.
@@ -171,7 +173,7 @@ Hoy en día, muchas organizaciones son obligadas por ley, requisitos legales o d
 - Aplicar avisos de declinación de responsabilidades a los mensajes conforme pasan por la organización
     
 > [!IMPORTANT]
-> Los tipos de archivo de datos adJuntos que requieren la instalación de iFilters de terceros en el servidor de correo electrónico (como Adobe. pdf) no se pueden inspeccionar con reglas de flujo de correo hasta que se instale un iFilter adecuado. Para obtener más información acerca de los tipos de archivo admitidos por las reglas de flujo de correo, consulte [usar reglas de flujo de correo para inspeccionar datos adjuntos de mensajes en Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271748). 
+> Los tipos de archivo de datos adjuntos que requieren la instalación de iFilters de terceros en el servidor de correo electrónico (como Adobe. pdf) no se pueden inspeccionar con reglas de flujo de correo hasta que se instale un iFilter adecuado. Para obtener más información acerca de los tipos de archivo admitidos por las reglas de flujo de correo, consulte [usar reglas de flujo de correo para inspeccionar datos adjuntos de mensajes en Office 365](https://go.microsoft.com/fwlink/p/?LinkId=271748). 
   
 Para obtener más información acerca de las reglas de flujo de correo, consulte [reglas de flujo de correo en Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkId=296488).
   

@@ -3,7 +3,7 @@ title: Límites de Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 1fe0b98ab37061312c1b419304ae91d394dd2b2d
-ms.sourcegitcommit: b92efda3126d52cd58a524bceb816abe18d59856
+ms.openlocfilehash: dd9d4584115fa32a5ae69b4481d43256a1d1f179
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33553489"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621890"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -463,7 +463,7 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Número máximo de reglas del diario|10 reglas|10 reglas|10 reglas|10 reglas|10 reglas|10 reglas|
+|Número máximo de reglas del diario|reglas de 50|reglas de 50|reglas de 50|reglas de 50|reglas de 50|reglas de 50|
 |Número máximo de reglas de transporte|300 reglas|300 reglas|300 reglas|300 reglas|300 reglas|300 reglas|
 |Tamaño máximo de una regla de transporte individual|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
 |Límite de caracteres para todas las expresiones regulares usadas en todas las reglas de transporte|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
@@ -478,7 +478,7 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Característica**|**Exchange Server 2013**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
-|Número máximo de reglas del diario|Sin límite|10 reglas|10 reglas|10 reglas|
+|Número máximo de reglas del diario|Sin límite|reglas de 50|reglas de 50|reglas de 50|
 |Número máximo de reglas de transporte|Sin límite|300 reglas|300 reglas|300 reglas|
 |Tamaño máximo de una regla de transporte individual|40 KB|8 KB|8 KB|8 KB|
 |Límite de caracteres para todas las expresiones regulares usadas en todas las reglas de transporte|Sin límite|20 KB|20 KB|20 KB|

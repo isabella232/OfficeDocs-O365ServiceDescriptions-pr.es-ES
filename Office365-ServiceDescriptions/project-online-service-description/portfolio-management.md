@@ -3,7 +3,7 @@ title: Administración de carteras
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
+ms.date: 05/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Las siguientes características de administración de cartera están disponibles en Project online.
-ms.openlocfilehash: d6d2993906bdb05ba248108110f0cc44030926d2
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 50db84a3a8251b577e51680f1b8b88e002f79c98
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247036"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621820"
 ---
 # <a name="portfolio-management"></a>Administración de carteras
 
@@ -59,4 +59,6 @@ Identifique, seleccione y entregue con eficacia las carteras de proyectos que me
 
 En la administración de programas, cada proyecto tiene su conjunto de objetivos que, cuando se combinan, permiten lograr los beneficios previstos para todo el programa. Para obtener más información, vea [Guía de soluciones de administración de carteras de proyectos (notas del producto)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
+## <a name="roadmap"></a>Plan de desarrollo
+Roadmap combina información de varios proyectos en cascada y ágiles para proporcionar una vista de escala de tiempo agregada y muy visual. Para obtener más información, vea [Bienvenido a Roadmap](https://support.office.com/article/video-welcome-to-roadmap-57764149-51b8-468f-a50d-9ea6a4fd835a).
 

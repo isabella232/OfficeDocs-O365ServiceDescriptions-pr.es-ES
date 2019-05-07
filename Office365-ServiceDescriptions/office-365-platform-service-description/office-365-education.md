@@ -3,7 +3,7 @@ title: Office 365 Educación
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/28/2018
+ms.date: 5/03/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de escritorio de Microsoft Office con versiones de servicios de colaboración y comunicaciones de próxima generación de Microsoft basados en la nube, entre ellos Microsoft Exchange Online, Microsoft SharePoint Online, Office Online y Microsoft Skype Empresarial Online, para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
-ms.openlocfilehash: 6f6bcf8780be134b88043740973ca9f8d4380626
-ms.sourcegitcommit: e1d43b4c907511c7a859928490e5a0d60cc9ae69
+ms.openlocfilehash: c03a69c5d85f156f5aa7f6d6b6f7ae8b2e1a4c51
+ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/02/2019
-ms.locfileid: "33544977"
+ms.lasthandoff: 05/06/2019
+ms.locfileid: "33621930"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
@@ -277,7 +277,7 @@ En la tabla siguiente se proporcionan vínculos a las comparaciones de las capac
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office Online** <br/> |**Vínculo a una comparación de características detallada** <br/> |
+|**Aplicación** <br/> |**Office Online** <br/> |**Vínculo a una comparación de características detallada** <br/> |
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -698,7 +698,7 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 |||||
 |:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Número máximo de reglas del diario  <br/> |10 reglas  <br/> |10 reglas  <br/> |10 reglas  <br/> |
+|Número máximo de reglas del diario  <br/> |reglas de 50  <br/> |reglas de 50  <br/> |reglas de 50  <br/> |
 |Número máximo de reglas de transporte  <br/> |300 reglas  <br/> |300 reglas  <br/> |300 reglas  <br/> |
 |Tamaño máximo de una regla de transporte individual  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
 |Límite de caracteres para todas las expresiones regulares usadas en todas las reglas de transporte  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
@@ -1261,7 +1261,7 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 |Retención del contenido de la reunión: Reunión ahora  <br/> |8 horas  <br/> |8 horas   <br/> |8 horas  <br/> |
 |Expiración de la reunión: Reunión única  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |
 |Expiración de la reunión: Reunión periódica  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |
-|Expiración de la reunión: Reunión ahora  <br/> |8 horas   <br/> |8 horas   <br/> |8 horas  <br/> |
+|Expiración de la reunión: Reunión ahora  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |
    
 #### <a name="minute-limits"></a>Límites de minutos
 
