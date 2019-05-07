@@ -3,7 +3,7 @@ title: Excel Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/01/2019
+ms.date: 05/06/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel online (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web donde se almacena el libro. Todos los clientes de Office 365 pueden ver y editar fácilmente archivos de Office con Office Online.
-ms.openlocfilehash: e429ff99f195a24480d79cace60889aeade3bfea
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 16f5f8fb606277f58f4b6ba5cff91b51656c441f
+ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621830"
+ms.lasthandoff: 05/07/2019
+ms.locfileid: "33641626"
 ---
 # <a name="excel-online"></a>Excel Online
 
@@ -203,13 +203,7 @@ Navegue rápidamente por la hoja de cálculo con la característica Ir a. Escrib
 <a name="bkmk_HideUnhide"> </a>
 
 Puede ocultar o mostrar filas, columnas y hojas de un libro en Excel Online.
- 
-## <a name="ideas"></a>Ideas
-<a name="Ideas"> </a>
-
-Las ideas le permiten comprender los datos a través de resúmenes visuales de alto nivel, tendencias y patrones. Simplemente haga clic en una celda de un rango de datos y, a continuación, haga clic en el botón ideas de la ficha Inicio. Obtenga más información sobre las [ideas](https://support.office.com/article/ideas-in-excel-3223aab8-f543-4fda-85ed-76bb0295ffc4?ui=en-US&rs=en-001&ad=US).
-
- 
+  
 ## <a name="insert-charts"></a>Insert charts
 <a name="bkmk_InsertCharts"> </a>
 
@@ -382,5 +376,4 @@ No disponible en Excel Online. Puede ver los resultados del análisis de hipóte
 ## <a name="feature-availability"></a>Disponibilidad de características
 <a name="bkmk_WhatIfAnalysis"> </a>
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio de Office Online](office-online-service-description.md). 
-
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio de Office Online](office-online-service-description.md).
