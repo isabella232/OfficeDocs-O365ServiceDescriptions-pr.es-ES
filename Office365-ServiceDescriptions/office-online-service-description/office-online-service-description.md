@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anteriormente Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office Online facilita el trabajo y el uso compartido de archivos de Office en cualquier lugar con una conexión a Internet, desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina.
-ms.openlocfilehash: 922dba2570dc7989af7f1667eaaf9108978852a2
-ms.sourcegitcommit: 9165092387bf80e02c022e9569f63901f820f2b1
+ms.openlocfilehash: e9c486f9066b0bd2513bd0d0fb288da89db721a3
+ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33641636"
+ms.lasthandoff: 05/08/2019
+ms.locfileid: "33663294"
 ---
 # <a name="office-online-service-description"></a>Descripción del servicio de Office Online
 
@@ -336,7 +336,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
    
 > [!NOTE]
 > <sup>1</sup> Las macros no se pueden ejecutar ni modificar.<br/>
-> <sup>2</sup> Si existen macros, se les solicitará a los usuarios que tengan una copia del archivo con las macros eliminadas.<br/> 
+> <sup>2</sup> si existen macros, se les pedirá a los usuarios que guarden una copia del archivo con las macros eliminadas.<br/> 
   
 > [!NOTE]
 > Se pueden crear formatos de archivos más nuevos (por ejemplo, .docx, .xlsl y .pptx) en Office 2016, 2013, 2010 o 2007, o en Office 2000 y posterior con el paquete de compatibilidad. 
