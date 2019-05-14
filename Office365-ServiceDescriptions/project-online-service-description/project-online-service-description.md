@@ -3,7 +3,7 @@ title: Descripción del servicio Project Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/03/2019
+ms.date: 05/13/2019
 ms.audience: End User
 ms.topic: reference
 f1_keywords:
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project Online, que se suministra con Office 365, ofrece prácticas capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de carteras de proyectos prácticamente desde cualquier lugar y con cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 6f55d69126ec2eff471f19cf8f018f7c8f1f6fb0
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 45d071b980536dcba61f88fcb5717abcfc566e9f
+ms.sourcegitcommit: daf388cc1f51774cb254b0d41b4aeea74aeac0dc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621920"
+ms.lasthandoff: 05/14/2019
+ms.locfileid: "33970074"
 ---
 # <a name="project-online-service-description"></a>Descripción del servicio Project Online
 
@@ -65,7 +65,7 @@ Las licencias de Project online para usuarios externos siguen la misma directiva
   
 ## <a name="project-online-plans"></a>Planes de Project Online
 
-Están disponibles los siguientes planes de Project Online. Para obtener más información acerca de Project online, consulte [Getting Started with Project online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+Están disponibles los siguientes planes de Project Online. Para obtener más información acerca de Project online, consulte [Getting Started with Project online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
   
 ||||
 |:-----|:-----|:-----|
