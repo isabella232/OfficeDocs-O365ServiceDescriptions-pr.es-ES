@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - microsoft-dynamics-crm-online-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: A partir de la actualización de diciembre de 2016 para Dynamics 365 (en línea y local), la funcionalidad de Dynamics CRM ahora se incluye como parte de Dynamics 365, un conjunto de aplicaciones empresariales inteligentes. Dynamics 365 agrupa las funciones de administración de las relaciones con el cliente (CRM) y planeación de recursos empresariales (ERP) al ofrecer nuevas aplicaciones para ayudar a administrar funciones empresariales específicas.
-ms.openlocfilehash: 0701f6dc7470caed6c607fcfba0ce8615793132b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 953ed920abbeec655fbe04ef68f48a7ec386e182
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246526"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342970"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Descripción del servicio Microsoft Dynamics 365 (Online)
 
@@ -76,7 +76,7 @@ A continuación, se proporciona un resumen de alto nivel de los derechos de uso 
 |**Todos los datos de Dynamics 365 Enterprise Edition** <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |
 |**Dynamics 365 for Operations Functionality: Record Time and gastos; crear solicitudes; administrar presupuestos; aprobación del tiempo de operaciones; gastos y facturas; editar y responder a consultas para: control de calidad, pedidos de servicio** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**Cuentas y contactos, actividades y notas** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Administración del conocimiento, centro de servicios interActivos** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
+|**Administración del conocimiento, centro de servicios interactivos** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**Registrar tiempo y gastos, administrar información personal, aplicar para proyectos** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
 |**Entidades personalizadas** <br/> |Total<sup>1</sup> <br/> |Total<sup>1</sup> <br/> |Total<sup>1</sup> <br/> |Total<sup>1</sup> <br/> |Total<sup>1</sup> <br/> |Total<sup>1</sup> <br/> |
 |**Derechos de uso dual para Dynamics 365 CAL equivalente (si existe)** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
@@ -88,7 +88,7 @@ A continuación, se proporciona un resumen de alto nivel de los derechos de uso 
 |**Configuración de informes del sistema, gráficos del sistema, paneles del sistema** <br/> |Ninguno  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Clientes potenciales, oportunidades, objetivos, contratos, ofertas, pedidos, facturas, competidores** <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Campañas de ventas, campañas exprés, listas de marketing, listas de precios, listas de productos** <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
-|**Servicio de escritorio unificado** <br/> |Solo lectura  <br/> |Full  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
+|**Unified Service Desk** <br/> |Solo lectura  <br/> |Full  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Administración completa de casos, servicios, recursos (no bookable), horas laborables, instalaciones, equipamiento, artículos** <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Pedidos de trabajo, programación y envío con panel de programación, contratos de servicio, facturas de servicio de campo y pedidos de compra, activos de clientes, inventario, reparaciones y devoluciones** <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Proyecto, estimaciones y gastos de proyectos, disponibilidad de recursos y administración de programación, listas de precios/contratos/facturas de proyecto, aprobar transacciones de proyecto, Microsoft Project online Premium** <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |Full  <br/> |
@@ -112,15 +112,15 @@ Para obtener información sobre los términos de la licencia, las condiciones y 
   
 ## <a name="dynamics-365-service-downtime-windows"></a>Ventana de tiempo de inactividad de Dynamics 365
 
-Las ventanas de tiempo de inActividad para el servicio Dynamics 365 se definen de la siguiente manera:
+Las ventanas de tiempo de inactividad para el servicio Dynamics 365 se definen de la siguiente manera:
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Categoría** <br/> |**Impacto/tiempo de inActividad** <br/> |**Notificación** <br/> |**Acuerdo de nivel operativo\*** <br/> |
-|Semanalmente  <br/> |Sin impacto/sin tiempo de inactividad  <br/> |Centro de mensajes  <br/> |48 horas  <br/> |
+|**Categoría** <br/> |**Impacto/tiempo de inactividad** <br/> |**Notificación** <br/> |**Acuerdo de nivel operativo\*** <br/> |
+|Semanal  <br/> |Sin impacto/sin tiempo de inactividad  <br/> |Centro de mensajes  <br/> |48 horas  <br/> |
 |Cada mes  <br/> |Sin impacto/sin tiempo de inactividad  <br/> |Centro de mensajes  <br/> |48 horas  <br/> |
 |Paquete acumulativo de actualizaciones  <br/> |Sin impacto/sin tiempo de inactividad  <br/> |Centro de mensajes  <br/> |48 horas  <br/> |
-|Actualización principal  <br/> |Programada por el cliente y completada dentro de la ventana seleccionada  <br/> |Centro de mensajes  <br/> |90 días  <br/> |
+|Actualización principal  <br/> |Programada por el cliente y completada dentro de la ventana seleccionada  <br/> |Centro de mensajes  <br/> |90 días  <br/> |
    
 Consulte el [contrato de nivel de servicio de descarga de Microsoft Online Services](http://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=12249) para obtener la información más reciente sobre Windows de tiempo de inactividad. 
   

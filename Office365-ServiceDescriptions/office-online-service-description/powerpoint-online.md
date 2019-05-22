@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - powerpoint-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint online (anteriormente PowerPoint Web App) amplía su experiencia de Microsoft PowerPoint al explorador Web, donde puede trabajar con presentaciones directamente en el sitio web en el que está almacenada la presentación. Los clientes de Microsoft Office 365 con Office Online pueden ver, crear y editar archivos desde cualquier lugar.
-ms.openlocfilehash: ba8108b54ee93bd0dd8906f971081688e215ece1
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 058cc9c8621fbec4a8788cbbc1ab32a541558b11
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246946"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343749"
 ---
 # <a name="powerpoint-online"></a>PowerPoint Online
 
@@ -127,7 +127,7 @@ En PowerPoint Online no se pueden insertar, editar o eliminar encabezados y pies
 
 Inserción, edición y seguimiento de hipervínculos. Los vínculos de marcadores funcionan, pero no se pueden editar en PowerPoint Online.
   
-## <a name="insert-online-video"></a>Insertar vídeo en línea
+## <a name="insert-online-video"></a>Insertar vídeos en línea
 <a name="bkmk_InsertOnlineVideo"> </a>
 
 El contenido de audio y vídeo se reproduce en la vista de lectura y presentación de diapositivas, con un límite de tamaño de archivo de 100 MB. Pueden insertarse vídeos en línea desde YouTube y los controles de medios pueden cambiarse de tamaño, moverse y eliminarse en PowerPoint Online. Pero para insertar audio y vídeo que no sea de YouTube, necesita la aplicación de escritorio de Microsoft PowerPoint.
@@ -207,7 +207,7 @@ PowerPoint Online guarda su trabajo cada vez que realiza un cambio. No existe el
 
 WordArt y los gráficos no se pueden insertar en PowerPoint Online, pero PowerPoint Online los muestra de la forma deseada En la vista de edición, puede editar texto y cambiar su formato. Si desea aplicar efecto de texto a WordArt, necesitará la aplicación de escritorio de Microsoft PowerPoint.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Uso compartido
 <a name="bkmk_Share"> </a>
 
 Si guarda su presentación en una biblioteca de documentos de SharePoint, su presentación está en línea y puede compartirla mediante el envío de un vínculo en lugar de un adjunto de correo electrónico. Los usuarios con los permisos correspondientes pueden verla en su explorador web o dispositivo móvil. Obtenga más información sobre cómo [compartir una presentación](https://go.microsoft.com/fwlink/?LinkId=272776).
@@ -227,7 +227,7 @@ Puede insertar SmartArt, cambiar a otro diseño o a otra combinación de colores
 
 Las tablas pueden crearse y editarse en PowerPoint Online, y PowerPoint Online admite la mayoría de las funciones de tabla. Para las funciones avanzadas, como combinar y dividir celdas, use la aplicación de escritorio de PowerPoint. Obtenga más información sobre las [diferencias entre el uso de una presentación en el explorador y en la aplicación de escritorio de PowerPoint](https://go.microsoft.com/fwlink/?LinkId=272763).
   
-## <a name="tell-me"></a>Tell Me
+## <a name="tell-me"></a>Información
 <a name="Bkmk_TellMe_PPT"> </a>
 
 Cuando necesite realizar algo en PowerPoint Online pero no sepa cómo hacerlo, puede usar la característica de búsqueda Información para encontrar rápidamente lo que esté buscando. Esta característica comprende lo que intenta realizar y le sugiere cómo hacerlo rápidamente.

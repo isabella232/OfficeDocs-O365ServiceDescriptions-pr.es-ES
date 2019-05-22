@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - onenote-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Use OneNote online (anteriormente OneNote Web App) para tomar notas en línea en un bloc de notas de OneNote que puede Agregar desde cualquier lugar y compartir fácilmente con otros usuarios. Todos los clientes de Office 365 pueden ver y editar fácilmente archivos de Office con Office Online.
-ms.openlocfilehash: 55efffccc87e895cd1aabba244a96989f1dae020
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: cf0e1ceec9577d84402ae6106b6a3561c9aa628c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247186"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343759"
 ---
 # <a name="onenote-online"></a>OneNote Online
 
@@ -172,7 +172,7 @@ Con OneNote Online, puede usar Búsqueda instantánea para recuperar cualquier e
 
 No disponible en OneNote Online. Las características de búsqueda avanzada, como buscar por etiqueta, por título, por autor/fecha y por archivo de audio, solo están disponibles en la aplicación de escritorio de OneNote.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Uso compartido
 <a name="bkmk_Share"> </a>
 
 Si guardó el bloc de notas de OneNote en una biblioteca de documentos de SharePoint, el bloc de notas de OneNote estará en línea. Esto implica que puede compartirlo enviando un vínculo, en lugar de usar un archivo adjunto de correo electrónico. Al hacer clic en el vínculo, los usuarios pueden leer sus notas en el explorador web. Obtenga más información sobre cómo [compartir notas de OneNote en línea](https://go.microsoft.com/fwlink/p/?LinkID=272945).

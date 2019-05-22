@@ -4,23 +4,23 @@ ms.author: danarl
 author: danarl
 manager: mnirkhe
 ms.date: 1/28/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: 0f62679cf706c6ffab86e801b27c91555e06834b
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: c01d790b6c484aa618bc98b8def3bfa0c098a16c
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247176"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343239"
 ---
 ---
 
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government: Cómo comprar
 
-En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado entornos específicos de Microsoft 365 Government para clientes del sector público de Estados Unidos. En esta sección se proporciona información general sobre los entornos y más información sobre cómo comprar. Se recomienda leer esta sección complementaria junto con las deScripciones de [servicio de Office 365 ](../../office-365-service-descriptions-technet-library.md).
+En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado entornos específicos de Microsoft 365 Government para clientes del sector público de Estados Unidos. En esta sección se proporciona información general sobre los entornos y más información sobre cómo comprar. Se recomienda leer esta sección complementaria junto con las descripciones de [servicio de Office 365 ](../../office-365-service-descriptions-technet-library.md).
   
 ## <a name="whats-microsoft-365-government"></a>¿Qué es Microsoft 365 Government?
 <a name="TopOfPage"> </a>

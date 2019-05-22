@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/08/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-platform-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si quiere conocer las diferencias entre los planes de Office 365, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: 0dc130b5efb9ae0735a509ad26ffe26859cd4f31
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 356e988c9532d58ffe89971754cdf861e4d767a7
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247226"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343309"
 ---
 # <a name="office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Office 365
 
@@ -64,9 +64,9 @@ Para obtener información acerca del &amp; centro de seguridad y cumplimiento, a
 
 Para obtener información sobre el lugar donde se almacenan los datos, vea la [Asignación del almacenamiento de datos](https://go.microsoft.com/fwlink/?linkid=401277). 
   
-## <a name="multi-geo-capabilities-in-office-365"></a>Capacidades multiGeográficas en Office 365
+## <a name="multi-geo-capabilities-in-office-365"></a>Capacidades multigeográficas en Office 365
 
-MultiGeográfico permite que un solo inquilino de Office 365 abarque varias ubicaciones geográficas del centro de datos de Office 365 y le ofrece la posibilidad de almacenar datos de Office 365 para Exchange Online y OneDrive para la empresa, en la ubicación geográfica elegida para cada usuario. 
+Multigeográfico permite que un solo inquilino de Office 365 abarque varias ubicaciones geográficas del centro de datos de Office 365 y le ofrece la posibilidad de almacenar datos de Office 365 para Exchange Online y OneDrive para la empresa, en la ubicación geográfica elegida para cada usuario. 
   
 Disponible GEOS: Asia Pacífico, Australia, Canadá, Europa Europea, India, Japón, Corea, Reino Unido, Estados Unidos. 
   

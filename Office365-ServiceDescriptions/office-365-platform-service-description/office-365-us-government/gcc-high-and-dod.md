@@ -4,19 +4,19 @@ ms.author: danarl
 author: danarl
 manager: dianap
 ms.date: 3/4/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Para satisfacer los requisitos exclusivos y en constante evolución del Departamento de defensa de los Estados Unidos, así como los contratistas que retienen o procesan la información sin clasificar (CUI) o el tráfico internacional en las regulaciones de brazos (ITAR), Microsoft ofrece GCC: entornos altos y DoD. Disponible mediante las licencias por volumen, las organizaciones que estén interesadas pueden participar en un proceso de validación para certificar su idoneidad antes de establecer el entorno. Las pruebas no están disponibles en este momento.'
-ms.openlocfilehash: 85ce02eeb414fc2b7ce27c55ca07d32ac0207707
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 1809f7baa9b6cc1375ca20d9786a64ff41056fec
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247116"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343259"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High y DoD
 
@@ -63,7 +63,7 @@ Las suscripciones de Office 365 en los entornos altos y DoD de GCC incluyen las 
   
 ### <a name="exchange-online"></a>Exchange Online
 
- La **compatibilidad de mensajería unificada de Exchange Online con IP-PBX local** es compatible con la integración de sistemas de IP-PBX local con mensajería unificaDa de Exchange online no se admite en las suscripciones alta y DoD de GCC. 
+ La **compatibilidad de mensajería unificada de Exchange Online con IP-PBX local** es compatible con la integración de sistemas de IP-PBX local con mensajería unificada de Exchange online no se admite en las suscripciones alta y DoD de GCC. 
   
 ### <a name="sharepoint-online"></a>SharePoint Online
 
@@ -75,7 +75,7 @@ Las suscripciones de Office 365 en los entornos altos y DoD de GCC incluyen las 
     
 3. Cualquier persona con este vínculo
     
-4. Personas específicas
+4. Usuarios específicos
     
 Los clientes que usan SharePoint Online y OneDrive para la empresa en los entornos de GCC High o DoD pueden mantener los documentos privados (primera opción), compartir con cualquier persona de su organización (segunda opción), compartir con cualquier persona que tenga el vínculo al documento (tercera opción) y compartir con personas específicas sólo en los entornos de GCC altos y DoD (cuarta opción); por supuesto, estas opciones se pueden restringir basándose también en controles de acceso a nivel de inquilino.
   

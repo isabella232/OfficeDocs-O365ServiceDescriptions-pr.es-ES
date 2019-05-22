@@ -3,7 +3,7 @@ title: Office 365 Educación
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 5/03/2019
+ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de escritorio de Microsoft Office con versiones de servicios de colaboración y comunicaciones de próxima generación de Microsoft basados en la nube, entre ellos Microsoft Exchange Online, Microsoft SharePoint Online, Office Online y Microsoft Skype Empresarial Online, para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
-ms.openlocfilehash: c03a69c5d85f156f5aa7f6d6b6f7ae8b2e1a4c51
-ms.sourcegitcommit: 32fa7eb1a32f2f1d89f359af0c01f7cc62ab396a
+ms.openlocfilehash: 4b0835673a5c78c9751f802632c3b96900237a13
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33621930"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343619"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
 Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de escritorio de Microsoft Office con versiones de servicios de colaboración y comunicaciones de próxima generación de Microsoft basados en la nube, entre ellos Microsoft Exchange Online, Microsoft SharePoint Online, Office Online y Microsoft Skype Empresarial Online, para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
   
-En este artículo se enumeran las características de los planes de Office 365 Education (a1, a3 y A5). Para comparar las características de los planes empresariales y empresariales, vea [comparar los planes de office 365 para empresas](https://go.microsoft.com/fwlink/?linkid=799177) o, para obtener una lista más detallada de las características, vea la descripción del servicio relevante en [Office 365 Service](https://technet.microsoft.com/en-us/library/jj819284.aspx)descriptions.
+En este artículo se enumeran las características de los planes de Office 365 Education (a1, a3 y A5). Para comparar las características de los planes empresariales y empresariales, vea [comparar los planes de office 365 para empresas](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda) o, para obtener una lista más detallada de las características, vea la descripción del servicio relevante en [Office 365 Service](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)descriptions.
   
 Para buscar artículos de soporte técnico e información, consulte [ayuda y aprendizaje de Office](https://support.office.com/).
   
@@ -46,7 +46,11 @@ Cada plan de Office 365 Education incluye una serie de servicios individuales, c
 |Azure Information Protection<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Project online no se incluye, pero puede agregarse de forma gratuita al plan de Office 365 Education. > <sup>2</sup> para obtener más información sobre las características de Azure Information Protection que se incluyen con los planes de Office 365, consulte [Azure Information Protection](https://technet.microsoft.com/en-us/dn858608). > <sup>3</sup> Office 365 A5 contiene capacidades de sistema telefónico, audioconferencia y plan de llamadas. Para implementar el plan de llamadas es necesario adquirir un plan adicional (ya sea plan de llamadas nacionales o plan de llamadas internacionales). > <sup>4</sup> incluye Exchange Online (plan 2). > <sup>5</sup> incluye Exchange Online (plan 1) más características adicionales. > <sup>6</sup> incluye Skype empresarial online (plan 2). > <sup>7</sup> incluye Skype empresarial online (plan 1) más características adicionales. 
+> <sup>1</sup> Project online no se incluye, pero puede agregarse de forma gratuita al plan de Office 365 Education. <br/> 
+<sup>2</sup> para obtener más información sobre las características de Azure Information Protection que se incluyen con los planes de Office 365, consulte [Azure Information Protection](https://azure.microsoft.com/services/information-protection/).<br/> 
+<sup>3</sup> Office 365 A5 contiene capacidades de sistema telefónico, audioconferencia y plan de llamadas. Para implementar el plan de llamadas es necesario adquirir un plan adicional (ya sea plan de llamadas nacionales o plan de llamadas internacionales). <br/> <sup>4</sup> incluye Exchange Online (plan 2). <br/> 
+<sup>5</sup> incluye Exchange Online (plan 1) más características adicionales. <br/> 
+<sup>6</sup> incluye Skype empresarial online (plan 2). <br> <sup>7</sup> incluye Skype empresarial online (plan 1) más características adicionales. 
   
 ## <a name="system-requirements"></a>Requisitos del sistema
 
@@ -54,7 +58,7 @@ Para conocer los requisitos del sistema para Office 365, consulte [office 365 Sy
   
 ## <a name="service-level-agreement"></a>Contrato de nivel de servicio
 
-Para obtener información acerca de los Contratos de nivel de servicio, consulte [Contrato de nivel de servicio](https://go.microsoft.com/fwlink/?linkid=843153). Para obtener información acerca de los tiempos de actividad recientes de Office 365, consulte [Operaciones transparentes desde Office 365](https://go.microsoft.com/fwlink/?linkid=848695).
+Para obtener información acerca de los Contratos de nivel de servicio, consulte [Contrato de nivel de servicio](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-level-agreement). Para obtener información acerca de los tiempos de actividad recientes de Office 365, consulte [Operaciones transparentes desde Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity).
   
 ## <a name="platform-features"></a>Características de plataforma 
 
@@ -176,12 +180,19 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 |**[Derechos de uso de producto](product-use-rights.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Office 365 no proporciona soporte técnico a ningún sistema operativo que no sea compatible con el fabricante. > <sup>2</sup> si se usa la sincronización de directorios con Active Directory local, debe eliminar las cuentas o cambiar las contraseñas con Active Directory local, en lugar del portal de Office 365 o mediante el módulo Azure Active Directory para Windows PowerShell. > <sup>3</sup> para aprender a establecer directivas de administración de contraseñas de autoservicio para los usuarios, consulte [Administrar contraseñas en Azure ad](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). > <sup>4</sup> reducir los puestos que se han comprado con un descuento de términos puede estar sujeto a una cuota de finalización anticipada. Esto no se aplica a las suscripciones pagadas con carácter mensual. > <sup>5</sup> disponible en [https://securescore.office.com](https://securescore.office.com/) (el vínculo requiere permisos de administrador). Para obtener más información, vea [Introducción a la puntuación segura de Office 365](https://go.microsoft.com/fwlink/?linkid=836894). > <sup>6</sup> Microsoft Sway no está disponible actualmente para los clientes de algunas ubicaciones geográficas. Es posible que algunos planes de Office 365 heredados que ya no están en el mercado desde agosto de 2015 tampoco tengan acceso a Microsoft Sway. > <sup>7</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de clientes de Europa, Oriente Medio y África se exportan a Europa occidental [Países Bajos]). > <sup>8</sup> para obtener información acerca de las características de Microsoft Stream incluidas en cada plan, consulte la [Introducción a las licencias por secuencias](https://stream.microsoft.com/en-us/documentation/stream-license-overview/). 
+> <sup>1</sup> Office 365 no proporciona soporte técnico a ningún sistema operativo que no sea compatible con el fabricante.<br/> 
+<sup>2</sup> si se usa la sincronización de directorios con Active Directory local, debe eliminar las cuentas o cambiar las contraseñas con Active Directory local, en lugar del portal de Office 365 o mediante el módulo Azure Active Directory para Windows PowerShell. <br/> 
+<sup>3</sup> para aprender a establecer directivas de administración de contraseñas de autoservicio para los usuarios, consulte [Administrar contraseñas en Azure ad](https://azure.microsoft.com/documentation/articles/active-directory-manage-passwords/). <br/> 
+<sup>4</sup> reducir los puestos que se han comprado con un descuento de términos puede estar sujeto a una cuota de finalización anticipada. Esto no se aplica a las suscripciones pagadas con carácter mensual. <br/> 
+<sup>5</sup> disponible en [https://securescore.office.com](https://securescore.office.com/) (el vínculo requiere permisos de administrador). Para obtener más información, vea [Introducción a la puntuación segura de Office 365](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).<br/> 
+<sup>6</sup> Microsoft Sway no está disponible actualmente para los clientes de algunas ubicaciones geográficas. Es posible que algunos planes de Office 365 heredados que ya no están en el mercado desde agosto de 2015 tampoco tengan acceso a Microsoft Sway. <br/> 
+<sup>7</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]). <br>
+<sup>8</sup> para obtener información acerca de las características de Microsoft Stream incluidas en cada plan, consulte la [Introducción a las licencias por secuencias](https://stream.microsoft.com/documentation/stream-license-overview/). 
   
 ## <a name="office-365-security-amp-compliance-center-features"></a>Características del centro &amp; de seguridad y cumplimiento de Office 365
 <a name="SCC"> </a>
 
-El [centro de seguridad &amp; y cumplimiento de Office 365](https://go.microsoft.com/fwlink/?LinkID=824876) está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
+El [centro de seguridad &amp; y cumplimiento de Office 365](https://docs.microsoft.com/office365/securitycompliance/?redirectSourcePath=%252fen-us%252farticle%252fSecurity-and-Compliance-in-Office-365-for-business-Admin-Help-7fe448f7-49bd-4d3e-919d-0a6d1cf675bb) está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365. 
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center. 
@@ -189,24 +200,28 @@ El [centro de seguridad &amp; y cumplimiento de Office 365](https://go.microsoft
 |||||
 |:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Acceso al centro de &amp; seguridad y cumplimiento](https://go.microsoft.com/fwlink/?linkid=841313) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración de seguridad avanzada](https://go.microsoft.com/fwlink/?linkid=845423) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración de amenazas](https://go.microsoft.com/fwlink/?linkid=845550) , como filtrado de correo y antimalware  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración avanzada de amenazas](https://go.microsoft.com/fwlink/?linkid=846673) , como caja de caja de clientes y explorador de amenazas para las campañas de suplantación de identidad <sup>5</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Administración de dispositivos móviles](https://go.microsoft.com/fwlink/?linkid=524859) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Prevención de pérdida de datos](https://go.microsoft.com/fwlink/?linkid=846843) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Gobierno de datos](https://go.microsoft.com/fwlink/?linkid=863925) <sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Gobierno de datos avanzado](https://go.microsoft.com/fwlink/?linkid=842991) <sup>2</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|[Acceso al centro de &amp; seguridad y cumplimiento](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center?redirectSourcePath=%252fen-us%252farticle%252f7e696a40-b86b-4a20-afcc-559218b7b1b8) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Administración de seguridad avanzada](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
+|[Administración de amenazas](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) , como filtrado de correo y antimalware  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Administración avanzada de amenazas](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512) , como caja de caja de clientes y explorador de amenazas para las campañas de suplantación de identidad <sup>5</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|[Administración de dispositivos móviles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Prevención de pérdida de datos](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Gobierno de datos](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09) <sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Gobierno de datos avanzado](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30) <sup>2</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |[Búsqueda e investigación]<br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[búsqueda de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[exportación de exhibición de documentos electrónicos](https://go.microsoft.com/fwlink/?linkid=837776) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Exhibición avanzada](https://go.microsoft.com/fwlink/?linkid=715714) de documentos electrónicos <sup>4</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|[búsqueda de exhibición de documentos electrónicos](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases?redirectSourcePath=%252farticle%252feDiscovery-in-Office-365-143b3ab8-8cb0-4036-a5fc-6536d837bfce) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[exportación de exhibición de documentos electrónicos](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases?redirectSourcePath=%252farticle%252feDiscovery-in-Office-365-143b3ab8-8cb0-4036-a5fc-6536d837bfce) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Exhibición avanzada](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery?redirectSourcePath=%252farticle%252ffd53438a-a760-45f6-9df4-861b50161ae4) de documentos electrónicos <sup>4</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |suspensiones de eDiscovery (incluidas las suspensiones de exhibición de documentos electrónicos basadas en consultas)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Archivado](https://go.microsoft.com/fwlink/?linkid=844060) <sup>3</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Archivado](https://docs.microsoft.com/office365/securitycompliance/office-365-advanced-ediscovery?redirectSourcePath=%252farticle%252ffd53438a-a760-45f6-9df4-861b50161ae4) <sup>3</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Directivas de retención/eliminación manual  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> el gobierno de datos permite a los usuarios crear, publicar y aplicar manualmente etiquetas a los documentos; importar datos mediante el envío de unidades o a través de la red; y crear y aplicar directivas de retención y eliminación en cargas de trabajo, usuarios y grupos. Las directivas de retención que se aplican a los buzones requieren Office 365 Enterprise E3 o E5. > <sup>2</sup> el gobierno de datos avanzado le permite conservar información importante y eliminar información inimportante mediante la clasificación de la información basándose en una directiva de retención o eliminación o en ambas. Incluye acciones inteligentes/automatizadas, como recomendaciones de directivas; aplicar automáticamente etiquetas a los datos; aplicar etiquetas basadas en consultas o tipos de datos confidenciales; y el uso de filtros de importación inteligente. También incluye la característica de supervisión para revisar las comunicaciones de los empleados con fines de seguridad y cumplimiento. > <sup>3</sup> ilimitado. > <sup>4</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de clientes de Europa, Oriente Medio y África se exportan a Europa occidental [Países Bajos]). > <sup>5</sup> la protección contra amenazas avanzada está disponible en Office 365 A5 y como un servicio independiente para Office 365 a1 y Office 365 a3. 
+> <sup>1</sup> el gobierno de datos permite a los usuarios crear, publicar y aplicar manualmente etiquetas a los documentos; importar datos mediante el envío de unidades o a través de la red; y crear y aplicar directivas de retención y eliminación en cargas de trabajo, usuarios y grupos. Las directivas de retención que se aplican a los buzones requieren Office 365 Enterprise E3 o E5. <br/> 
+<sup>2</sup> el gobierno de datos avanzado le permite conservar información importante y eliminar información inimportante mediante la clasificación de la información basándose en una directiva de retención o eliminación o en ambas. Incluye acciones inteligentes/automatizadas, como recomendaciones de directivas; aplicar automáticamente etiquetas a los datos; aplicar etiquetas basadas en consultas o tipos de datos confidenciales; y el uso de filtros de importación inteligente. También incluye la característica de supervisión para revisar las comunicaciones de los empleados con fines de seguridad y cumplimiento. <br/> 
+<sup>3</sup> ilimitado. <br/> 
+<sup>4</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]). <br/> 
+<sup>5</sup> la protección contra amenazas avanzada está disponible en Office 365 A5 y como un servicio independiente para Office 365 a1 y Office 365 a3. 
   
 ## <a name="office-application-features"></a>Características de aplicaciones de Office
 <a name="SCC"> </a>
@@ -265,7 +280,10 @@ Use la tabla siguiente para comparar la disponibilidad de las características e
 |Volume activation (KMS/MAK)  <br/> |No  <br/> |No  <br/> |No  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM admitidas. > <sup>2</sup> Skype empresarial Basic está disponible para todos los clientes. El cliente de escritorio de Skype Empresarial es una aplicación instalada localmente que proporciona funciones de presencia, de mensajería instantánea y de conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus y Office 365 Enterprise E3 incorporan la aplicación de Skype completa, que proporciona características adicionales, incluida la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. Debe asignarse una licencia de Skype Empresarial Online a cada usuario. For more information on Lync Basic features, see [Clients for Skype for Business Online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx). > <sup>3</sup> algunas escuelas son aptas para educación Plus, que incluye Office 365 ProPlus, y permite que los estudiantes, los profesores y el personal instalen la última versión de Office en un máximo de cinco equipos PC o Mac y en otros dispositivos móviles, como tabletas Windows y el dispositivos. Las escuelas pueden optar a Office 365 Educación Plus cuando conceden una licencia de Office en toda la institución para los profesores y el personal a través de la inscripción en soluciones educativas, soluciones educativas Open Value Subscription o un contrato para escuelas. Tenga en cuenta que Access y Publisher solo están disponibles en PC. OneNote para Mac está disponible como descarga independiente en Mac App Store. > se incluyen <sup>cuatro</sup> versiones de Office online. Para obtener más información, vea [características de Office Online](office-365-education.md#office-online-features)
+> <sup>1</sup> Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM admitidas. <br/> 
+<sup>2</sup> Skype empresarial Basic está disponible para todos los clientes. El cliente de escritorio de Skype Empresarial es una aplicación instalada localmente que proporciona funciones de presencia, de mensajería instantánea y de conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus y Office 365 Enterprise E3 incorporan la aplicación de Skype completa, que proporciona características adicionales, incluida la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. Debe asignarse una licencia de Skype Empresarial Online a cada usuario. Para obtener más información sobre las características de Lync Basic, consulte [tablas de comparación de clientes de escritorio](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). <br/> 
+<sup>3</sup> algunas escuelas son aptas para educación Plus, que incluye Office 365 ProPlus, y permite que los estudiantes, los profesores y el personal instalen la última versión de Office en un máximo de cinco equipos PC o Mac y en otros dispositivos móviles, como tabletas Windows y el dispositivos. Las escuelas pueden optar a Office 365 Educación Plus cuando conceden una licencia de Office en toda la institución para los profesores y el personal a través de la inscripción en soluciones educativas, soluciones educativas Open Value Subscription o un contrato para escuelas. Tenga en cuenta que Access y Publisher solo están disponibles en PC. OneNote para Mac está disponible como descarga independiente en Mac App Store. <br/> 
+se incluyen <sup>cuatro</sup> versiones de Office online. Para obtener más información, vea [características de Office Online](office-365-education.md#office-online-features)
   
 ## <a name="office-online-features"></a>Características de Office Online
 <a name="OfcOnline"> </a>
@@ -273,11 +291,14 @@ Use la tabla siguiente para comparar la disponibilidad de las características e
 En la tabla siguiente se proporcionan vínculos a las comparaciones de las capacidades de características de Office online disponibles en los planes de Office 365 Education para las aplicaciones de escritorio de Microsoft Office con multitud de características. Use las comparaciones para descubrir qué características están disponibles en Office Online y, a continuación, haga clic en el nombre de la característica para leer una breve descripción de cómo funciona la característica. Puede descubrir que algunas personas de su organización posiblemente necesiten la capacidad avanzada de gráficos de la aplicación de escritorio de Excel mientras que otros quizá solo necesiten ver y editar documentos de Word y presentaciones de PowerPoint con Office Online.
   
 > [!NOTE]
->  Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de las características de Microsoft Office. >  Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. > Microsoft Office Online Server los clientes locales obtienen una licencia de edición de Office Online si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Office 365 ProPlus). 
+> - Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. <br/>
+> - Las tablas no son una lista completa de las características de Microsoft Office. <br/> 
+> - Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. <br/>
+> - Los clientes locales de Microsoft Office Online Server obtienen una licencia de edición de Office Online si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Office 365 ProPlus). 
   
 ||||
 |:-----|:-----|:-----|
-|**Aplicación** <br/> |**Office Online** <br/> |**Vínculo a una comparación de características detallada** <br/> |
+|**Application** <br/> |**Office Online** <br/> |**Vínculo a una comparación de características detallada** <br/> |
 |Word  <br/> |Word Online  <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel Online  <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote Online  <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -397,15 +418,28 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Complementos de Outlook y MAPI de Outlook  <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM admitidas. > <sup>2</sup> las reglas de transporte se componen de criterios flexibles, que permiten definir las condiciones y excepciones, así como las acciones que se deben realizar en función de los criterios. Los criterios y las acciones disponibles varían entre Exchange Online y Microsoft Exchange Server 2013. Para obtener una lista de todos los criterios y las acciones disponibles, vea los temas de criterios y acciones correspondientes para cada producto. > <sup>3</sup> Exchange Server 2013 usa solo el motor antimalware de Microsoft. Exchange Online usa varios motores antimalware para buscar malware en los mensajes internos, entrantes y salientes. > <sup>4</sup> SharePoint Online se debe incluir en el plan de suscripción de Office 365. > <sup>5</sup> las cuentas conectadas se admiten para cuentas pop e IMAP, pero están deshabilitadas para Outlook.com (hotmail). > <sup>6</sup> no se puede usar un cmdlet para trabajar con la lista de direcciones ni con la lista global de direcciones. > <sup>7</sup> algunos complementos y elementos Web de terceros podrían no estar disponibles. > <sup>8</sup> para eDiscovery, necesita una consulta independiente para local frente a nube. > <sup>9</sup> tabla indica si el cliente trabaja con los planes asociados. Aunque esto no significa que los clientes se incluyan en la compra de estos planes. 
+> <sup>1</sup> Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM admitidas. <br/>
+<sup>2</sup> las reglas de transporte se componen de criterios flexibles, que permiten definir las condiciones y excepciones, así como las acciones que se deben realizar en función de los criterios. Los criterios y las acciones disponibles varían entre Exchange Online y Microsoft Exchange Server 2013. Para obtener una lista de todos los criterios y las acciones disponibles, vea los temas de criterios y acciones correspondientes para cada producto. <br/> 
+<sup>3</sup> Exchange Server 2013 usa solo el motor antimalware de Microsoft. Exchange Online usa varios motores antimalware para buscar malware en los mensajes internos, entrantes y salientes. <br/> 
+<sup>4</sup> SharePoint Online se debe incluir en el plan de suscripción de Office 365. <br/> 
+<sup>5</sup> las cuentas conectadas se admiten para cuentas pop e IMAP, pero están deshabilitadas para Outlook.com (hotmail). <br/> <sup>6</sup> no se puede usar un cmdlet para trabajar con la lista de direcciones ni con la lista global de direcciones. <br/> 
+<sup>7</sup> algunos complementos y elementos Web de terceros podrían no estar disponibles. <br/> 
+<sup>8</sup> para eDiscovery, necesita una consulta independiente para local frente a nube. <br/> 
+<sup>9</sup> tabla indica si el cliente trabaja con los planes asociados. Aunque esto no significa que los clientes se incluyan en la compra de estos planes. 
   
 ### <a name="exchange-online-limits"></a>Límites de Exchange Online
 
 Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
   
 > [!NOTE]
->  Si necesita ayuda con una tarea o si está solucionando un problema, es posible que los artículos siguientes le resulten útiles: > [Correo electrónico](https://support.office.com/en-us/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US) para obtener ayuda para crear y enviar correo electrónico. > [Correo electrónico en Office 365 para empresas: ayuda para administradores](https://go.microsoft.com/fwlink/?linkid=529722)> [Límites de tamaño de mensaje](https://go.microsoft.com/fwlink/?linkid=312152)> [Corrección de problemas de Outlook y Office 365 con el Asistente para soporte y recuperación de Microsoft para Office 365](https://diagnostics.office.com/)> [Informes de no entrega de correo electrónico en Office 365](https://go.microsoft.com/fwlink/?linkid=526653)> [Ayuda de Exchange Online](https://go.microsoft.com/fwlink/?linkid=825607)
-  
+> Si necesita ayuda con una tarea o si está solucionando un problema, es posible que los artículos siguientes le resulten útiles:<br/> 
+> - [Correo electrónico](https://support.office.com/article/Email-94275804-7147-4332-9ccd-5d421760a9ed?ui=en-US&amp;rs=en-US&amp;ad=US) para ayuda para crear y enviar correo electrónico. 
+>- [Correo electrónico en Office 365 para empresas: ayuda para administradores](https://docs.microsoft.com/office365/admin/email/email?redirectSourcePath=%252farticle%252f5ff63bc1-308b-46de-a39b-cdc43ac117de&view=o365-worldwide)
+>- [Límites de tamaño de mensajes](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
+>- [Solucionar problemas de Outlook y Office 365 con el Asistente para soporte y recuperación de Microsoft para Office 365](https://diagnostics.office.com/)
+>- [Informes de no entrega de correo electrónico en Office 365](https://docs.microsoft.com/exchange/message-size-limits-exchange-2013-help)
+>- [Ayuda de Exchange Online](https://docs.microsoft.com/exchange/exchange-online)<br/>
+
 Los límites de Microsoft Exchange Online pertenecen a una de las categorías siguientes:
   
 - [Address book limits](office-365-education.md#address-book-limits)
@@ -433,7 +467,11 @@ Los límites de Microsoft Exchange Online pertenecen a una de las categorías si
 - [Límites de Exchange ActiveSync](office-365-education.md#exchange-activesync-limits)
     
 > [!IMPORTANT]
->  Los límites aplicados a una organización de Microsoft Office 365 pueden ser diferentes según el tiempo que la organización haya estado inscrita en el servicio. Cuando se cambia un límite en los centros de datos de Microsoft, la aplicación de los cambios en todos los clientes existentes puede tardar cierto tiempo. >  No puede modificar la mayoría de estos límites, pero usted y sus usuarios deben conocerlos. >  Estos límites se aplican tanto a los destinatarios internos como a los externos. >  De manera predeterminada, Protección de Exchange Online (EOP) protege los buzones de Exchange Online. Para conocer los límites que se aplican a las características de EOP en Exchange Online, vea [Límites de Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md). >  Para obtener información sobre los límites de grupo de Office 365, vea "¿Cómo administrar Mis grupos?" en [Obtenga más información sobre los grupos de Office 365](https://go.microsoft.com/fwlink/?linkid=846714). 
+>  - Los límites aplicados a una organización de Microsoft Office 365 pueden ser diferentes según el tiempo que la organización haya estado inscrita en el servicio. Cuando se cambia un límite en los centros de datos de Microsoft, la aplicación de los cambios en todos los clientes existentes puede tardar cierto tiempo. 
+>  - No puede modificar la mayoría de estos límites, pero usted y sus usuarios deben conocerlos. 
+> - Estos límites se aplican tanto a los destinatarios internos como a los externos. 
+> - De forma predeterminada, Exchange Online Protection (EOP) protege los buzones de correo de Exchange Online. Para conocer los límites que se aplican a las características de EOP en Exchange Online, vea [Límites de Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
+>  - Para obtener información sobre los límites de grupo de Office 365, consulte "¿cómo se administran mis grupos?". en [Más información sobre grupos de Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2). 
   
 #### <a name="address-book-limits"></a>Límites de la libreta de direcciones
 <a name="abl"> </a>
@@ -474,7 +512,13 @@ El espacio de almacenamiento del buzón disponible para un usuario está determi
 |Buzones de grupo  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Cada usuario recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. Para obtener más información, vea Información general sobre el archivado ilimitado en Office 365. Vea el Mapa de ruta de Office 365 para obtener información sobre la disponibilidad. > <sup>2</sup> para acceder a un buzón compartido, un usuario debe tener una licencia de Exchange Online. Los buzones compartidos no requieren licencias independientes. En cambio, si quiere habilitar Archivo local o colocar una conservación local o una retención por juicio en un buzón compartido, se necesita una licencia de Plan 2 de Exchange Online o una licencia de Plan 1 de Exchange Online con Archivado de Exchange Online. Si habilita Archivo local y el archivado de expansión automática para un buzón compartido, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB para el buzón de archivo. > <sup>3</sup> los buzones de recursos no requieren una licencia. > <sup>4</sup> los buzones de sitio se crean y administran en SharePoint Online. Para obtener más información, vea Prepararse para usar buzones de sitio en Office 365. > <sup>5</sup> se limita a 1000 buzones de carpetas públicas y el tamaño total máximo de todos los buzones de carpetas públicas es de 50 TB. > <sup>6</sup> el archivo local solo puede usarse para archivar correo de una sola entidad o usuario (por ejemplo, un buzón compartido) para el que se ha aplicado una licencia. No se permite usar el Archivo local para almacenar correo de varios usuarios o entidades. Por ejemplo, un administrador de TI no puede crear un buzón compartido ni permitir que los usuarios lo copien (con los campos CC o CCO, o mediante una regla de transporte) con el fin de archivarlo. Tenga en cuenta que un buzón compartido que usan varias personas en realidad no almacena correo electrónico de esos usuarios individuales. Varios usuarios tienen acceso y envían correos electrónicos como el buzón compartido. Por lo tanto, los únicos correos electrónicos almacenados en el buzón compartido son los que se envían a o desde él como el buzón compartido. > <sup>7</sup> si ha creado una directiva de retención en Exchange Online, los mensajes se moverán automáticamente al buzón de archivo de un usuario solo si el buzón de correo principal del usuario tiene más de 10 MB. La directiva de retención no se ejecutará automáticamente para los buzones cuyo tamaño sea inferior a 10 MB. 
+> <sup>1</sup> Cada usuario recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. Para obtener más información, vea Información general sobre el archivado ilimitado en Office 365. Vea el Mapa de ruta de Office 365 para obtener información sobre la disponibilidad. <br/> 
+<sup>2</sup> para acceder a un buzón compartido, un usuario debe tener una licencia de Exchange Online. Los buzones compartidos no requieren licencias independientes. En cambio, si quiere habilitar Archivo local o colocar una conservación local o una retención por juicio en un buzón compartido, se necesita una licencia de Plan 2 de Exchange Online o una licencia de Plan 1 de Exchange Online con Archivado de Exchange Online. Si habilita Archivo local y el archivado de expansión automática para un buzón compartido, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB para el buzón de archivo. <br/> 
+<sup>3</sup> los buzones de recursos no requieren una licencia.<br/> 
+<sup>4</sup> los buzones de sitio se crean y administran en SharePoint Online. Para obtener más información, vea Prepararse para usar buzones de sitio en Office 365.<br/> 
+<sup>5</sup> se limita a 1000 buzones de carpetas públicas y el tamaño total máximo de todos los buzones de carpetas públicas es de 50 TB.<br/> 
+<sup>6</sup> el archivo local solo puede usarse para archivar correo de una sola entidad o usuario (por ejemplo, un buzón compartido) para el que se ha aplicado una licencia. No se permite usar el Archivo local para almacenar correo de varios usuarios o entidades. Por ejemplo, un administrador de TI no puede crear un buzón compartido ni permitir que los usuarios lo copien (con los campos CC o CCO, o mediante una regla de transporte) con el fin de archivarlo. Tenga en cuenta que un buzón compartido que usan varias personas en realidad no almacena correo electrónico de esos usuarios individuales. Varios usuarios tienen acceso y envían correos electrónicos como el buzón compartido. Por lo tanto, los únicos correos electrónicos almacenados en el buzón compartido son los que se envían a o desde él como el buzón compartido.<br/> 
+<sup>7</sup> si ha creado una directiva de retención en Exchange Online, los mensajes se moverán automáticamente al buzón de archivo de un usuario solo si el buzón de correo principal del usuario tiene más de 10 MB. La directiva de retención no se ejecutará automáticamente para los buzones cuyo tamaño sea inferior a 10 MB. 
   
 #### <a name="capacity-alerts"></a>Alertas de capacidad
 <a name="CapacityAlerts"> </a>
@@ -548,7 +592,7 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 
 - **Límite del tamaño del mensaje** Los límites del tamaño del mensaje son necesarios para evitar que los mensajes grandes bloqueen la entrega de otros mensajes y que afecten al rendimiento del servicio de todos los usuarios. Estos límites incluyen documentos adjuntos y se aplican a todos los mensajes de la organización (entrantes, salientes e internos). Los mensajes más grandes que este límite no se entregarán y el remitente recibirá un informe de no entrega (NDR). Aunque los límites de tamaño de los mensajes se pueden configurar hacia arriba, abajo o por usuario, los administradores además pueden crear reglas de transporte para limitar el tamaño máximo de un adjunto concreto. Para obtener más información, consulte [Office 365 ahora admite mensajes de correo electrónico más grandes](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
     
-    > [!NOTE]
+   > [!NOTE]
     > Algunos clientes de correo electrónico pueden tener límites de tamaño de mensaje más bajos o pueden limitar el tamaño de un archivo adjunto individual a un valor inferior al límite de tamaño de los mensajes de Exchange Online. 
   
 - **Límite de longitud del asunto** La cantidad máxima de caracteres de texto permitidos en la línea de asunto de un mensaje de correo electrónico. 
@@ -557,7 +601,7 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
     
 - **Límite del tamaño de un archivo de datos adjunto** El tamaño máximo de archivo de un solo dato adjunto. 
     
-    > [!NOTE]
+    > [!NOTE] 
     > Este es el tamaño de archivo máximo de un solo archivo adjunto. Los programas de clientes individuales, incluido Outlook Web App, pueden limitar el tamaño de los archivos adjuntos por debajo de este valor máximo. Exchange ActiveSync no implementa límites de tamaño de archivo adjunto en archivos adjuntos individuales. El tamaño total de todos los archivos adjuntos en un mensaje de Exchange ActiveSync debe ser inferior al límite de tamaño del mensaje. 
   
 - **Límite de mensaje con varias partes** El número máximo de partes del cuerpo del mensaje que se permiten en un mensaje MIME con varias partes. Este límite también controla el número máximo de archivos adjuntos permitidos en un mensaje. 
@@ -575,14 +619,18 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 |Límite de tamaño de los mensajes cifrados (para los suscriptores que usan la versión heredada del cifrado de mensajes de Office 365)  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
 |Límite de longitud del asunto  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |
 |Límite de datos adjuntos  <br/> |250 datos adjuntos  <br/> |250 datos adjuntos  <br/> |250 datos adjuntos  <br/> |
-|Límite del tamaño de un archivo de datos adjunto - Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|Límite del tamaño de un archivo de datos adjunto - Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Límite del tamaño de un archivo de datos adjunto - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
-|Límite del tamaño de un archivo de datos adjunto - Outlook para Mac  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
+|Límite del tamaño de un archivo de datos adjunto - Outlook para Mac  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Límite de mensaje con varias partes  <br/> |250 partes  <br/> |250 partes  <br/> |250 partes  <br/> |
 |Límite de profundidad de incrustación de mensajes  <br/> |30 mensajes incrustados  <br/> |30 mensajes incrustados  <br/> |30 mensajes incrustados  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Los administradores de Office 365 pueden especificar un límite personalizado entre 1 y 150 MB. Sin embargo, el tamaño de los mensajes que usted puede enviar o recibir también depende de qué admite el cliente de correo electrónico o la solución. Para obtener más información sobre cómo personalizar el tamaño máximo de mensaje permitido para su organización, consulte [Office 365 now supports larger email messages](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/) (Office 365 ahora admite mensajes de correo electrónico más grandes). > <sup>2</sup> Pueden enviarse y recibirse mensajes de hasta 150 MB entre los usuarios de Office 365 (los mensajes nunca abandonan los centros de datos de Office 365). Los mensajes que se enrutan fuera de los centros de datos de Office 365 están sujetos a un aumento de codificación de traducción de 33 % adicional, en cuyo caso el tamaño máximo de mensaje es 112 MB. > <sup>3</sup> OWA permite que su mensaje esté sujeto al incremento de codificación del 33 % y limita el tamaño del mensaje que se puede enviar al 25 % menos que el valor configurado. Por ejemplo, si personaliza la configuración de tamaño máximo del mensaje en 100 MB, se pueden enviar mensajes que no superen los 75 MB. > <sup>4</sup> Exchange Online calcula el tamaño de los mensajes que se van a mover a Exchange Online. Las versiones de Exchange anteriores a Exchange Server 2013 pueden informar un tamaño de elemento más pequeño. Este límite se aplica para mover migraciones basadas mediante cualquier servicio de replicación de buzones de Exchange que sea compatible. El límite de tamaño general de los mensajes limita los otros métodos de migración (total, preconfigurada, IMAP, PST) y de otras herramientas de terceros. > <sup>5</sup> Para obtener información sobre OME con nuevas funciones, vea [Configurar las nuevas funciones de Cifrado de mensajes de Office 365 basadas en Azure Information Protection](https://support.office.com/en-us/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). 
+> <sup>1</sup> Los administradores de Office 365 pueden especificar un límite personalizado entre 1 y 150 MB. Sin embargo, el tamaño de los mensajes que usted puede enviar o recibir también depende de qué admite el cliente de correo electrónico o la solución. Para obtener más información sobre cómo personalizar el tamaño máximo de mensaje permitido para su organización, consulte [Office 365 now supports larger email messages](https://blogs.office.com/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/) (Office 365 ahora admite mensajes de correo electrónico más grandes).<br/> 
+<sup>2</sup> Pueden enviarse y recibirse mensajes de hasta 150 MB entre los usuarios de Office 365 (los mensajes nunca abandonan los centros de datos de Office 365). Los mensajes que se enrutan fuera de los centros de datos de Office 365 están sujetos a un aumento de codificación de traducción de 33 % adicional, en cuyo caso el tamaño máximo de mensaje es 112 MB. <br/> 
+<sup>3</sup> OWA permite que su mensaje esté sujeto al incremento de codificación del 33 % y limita el tamaño del mensaje que se puede enviar al 25 % menos que el valor configurado. Por ejemplo, si personaliza la configuración de tamaño máximo del mensaje en 100 MB, se pueden enviar mensajes que no superen los 75 MB. <br/> 
+<sup>4</sup> Exchange Online calcula el tamaño de los mensajes que se van a mover a Exchange Online. Las versiones de Exchange anteriores a Exchange Server 2013 pueden informar un tamaño de elemento más pequeño. Este límite se aplica para mover migraciones basadas mediante cualquier servicio de replicación de buzones de Exchange que sea compatible. El límite de tamaño general de los mensajes limita los otros métodos de migración (total, preconfigurada, IMAP, PST) y de otras herramientas de terceros. <br/> 
+<sup>5</sup> Para obtener información sobre OME con nuevas funciones, vea [Configurar las nuevas funciones de Cifrado de mensajes de Office 365 basadas en Azure Information Protection](https://support.office.com/article/Set-up-new-Office-365-Message-Encryption-capabilities-built-on-top-of-Azure-Information-Protection-7ff0c040-b25c-4378-9904-b1b50210d00e?ui=en-US&amp;rs=en-US&amp;ad=US). 
   
 #### <a name="receiving-and-sending-limits"></a>Límites de envío y recepción
 <a name="RecipientLimits"> </a>
@@ -628,7 +676,7 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
 #### <a name="reporting-and-message-trace-limits"></a>Límites de seguimiento de mensajes y creación de informes
 <a name="bkmk_Reporting_Message_Trace_Limits"> </a>
 
-Para conocer los límites de seguimiento de mensajes y creación de informes, vea la sección sobre disponibilidad y latencia de datos de seguimiento de mensajes y creación de informes en [Informes y seguimiento de mensajes en la Protección en línea de Exchange](http://go.microsoft.com/fwlink/p/?LinkId=394248).
+Para conocer los límites de seguimiento de mensajes y creación de informes, vea la sección sobre disponibilidad y latencia de datos de seguimiento de mensajes y creación de informes en [Informes y seguimiento de mensajes en la Protección en línea de Exchange](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection).
   
 #### <a name="retention-limits"></a>Límites de retención
 <a name="RetentionLimits"> </a>
@@ -672,8 +720,8 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |Número máximo de grupos que un usuario puede crear  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Si usa Azure Active Directory DirSync, el número máximo de miembros del grupo de distribución que se pueden sincronizar de Active Directory local a Azure Active Directory es 15 000. Si usa Azure AD Connect, el número asciende a 50 000. > <sup>2</sup> Este límite se aplica también a los administradores. 
-  
+> <sup>1</sup> Si usa Azure Active Directory DirSync, el número máximo de miembros del grupo de distribución que se pueden sincronizar de Active Directory local a Azure Active Directory es 15 000. Si usa Azure AD Connect, el número asciende a 50 000. <br/> 
+<sup>2</sup> Este límite se aplica también a los administradores. 
 #### <a name="journal-transport-and-inbox-rule-limits"></a>Límites de las reglas de la bandeja de entrada, del diario y de transporte
 <a name="TransportRuleLimits"> </a>
 
@@ -753,7 +801,7 @@ Los siguientes límites se aplican a Microsoft Exchange ActiveSync, un protocolo
 
 OneDrive para la empresa (anteriormente SkyDrive Pro) es un espacio de almacenamiento personal en línea en la nube. Úsela para almacenar los archivos de trabajo en varios dispositivos con facilidad y seguridad. Comparta sus archivos con compañeros según sea necesario y edite los documentos de Office juntos en tiempo real con Office online. Sincronice los archivos con el equipo local mediante la aplicación de sincronización de OneDrive para la empresa.
   
-OneDrive para la Empresa se incluye en SharePoint Online y también puede adquirirse como un plan independiente. La opción independiente de OneDrive para la Empresa incluye Office Online. Para obtener más información, vea [¿Qué es OneDrive para la empresa?](https://go.microsoft.com/fwlink/p/?LinkID=271073)
+OneDrive para la Empresa se incluye en SharePoint Online y también puede adquirirse como un plan independiente. La opción independiente de OneDrive para la Empresa incluye Office Online. Para obtener más información, vea [¿Qué es OneDrive para la empresa?](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)
   
 ### <a name="system-requirements"></a>Requisitos del sistema
 
@@ -773,9 +821,9 @@ Los siguientes planes de calificación proporcionan un almacenamiento ilimitado 
     
 No puede asignar más almacenamiento a un usuario específico de OneDrive. Sin embargo, puede reducir la cantidad de almacenamiento que un usuario ve. Si un usuario de Office 365 Enterprise F1 necesita más almacenamiento, deberá actualizar a Office 365 Enterprise E1.
   
-Para obtener información sobre los tipos de archivo que no se pueden agregar a OneDrive para la empresa, vea [tipos de archivos que no se pueden agregar a una lista o biblioteca](https://go.microsoft.com/fwlink/p/?LinkId=273757).
+Para obtener información sobre los tipos de archivo que no se pueden agregar a OneDrive para la empresa, vea [tipos de archivos que no se pueden agregar a una lista o biblioteca](https://support.office.com/article/types-of-files-that-cannot-be-added-to-a-list-or-library-30be234d-e551-4c2a-8de8-f8546ffbf5b3?ui=en-US&rs=en-US&ad=US).
   
-OneDrive para la Empresa se incluye en SharePoint Online. Para obtener información sobre las limitaciones adicionales de SharePoint Online, como las cuotas de la colección de sitios, los límites de carga de archivos y los límites de almacenamiento, vea límites [de software de SharePoint Online](https://go.microsoft.com/fwlink/p/?LinkId=271273). 
+OneDrive para la Empresa se incluye en SharePoint Online. Para obtener información sobre las limitaciones adicionales de SharePoint Online, como las cuotas de la colección de sitios, los límites de carga de archivos y los límites de almacenamiento, vea límites [de software de SharePoint Online](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectSourcePath=%252fArticle%252f8f34ff47-b749-408b-abc0-b605e1f6d498). 
   
 ### <a name="subscription-plans"></a>Planes de suscripción
 
@@ -791,9 +839,6 @@ En la tabla siguiente se describen las características de SharePoint disponible
 |||||
 |:-----|:-----|:-----|:-----|
 |**Características de desarrollador** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|[Access Services](../sharepoint-online-service-description/developer.md#access-services) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Servicios de Access](../sharepoint-online-service-description/developer.md#access-services) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Servicios de Access](../sharepoint-online-service-description/developer.md#access-services) <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Catálogo de aplicaciones (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Implementación de aplicaciones: Aplicaciones hospedadas en la nube](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Implementación de aplicaciones: Aplicaciones hospedadas en SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -820,7 +865,6 @@ En la tabla siguiente se describen las características de SharePoint disponible
 |List and Library APIs <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Receptor remoto de eventos](../sharepoint-online-service-description/developer.md#remote-event-receiver) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[API de REST](../sharepoint-online-service-description/developer.md#rest-apis) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Soluciones de espacio aislado](../sharepoint-online-service-description/developer.md#sandboxed-solutions) <br/> |Sí<sup>12</sup> <br/> |Sí<sup>12</sup> <br/> |Sí<sup>12</sup> <br/> |
 |[Administrador de diseño de SharePoint](../sharepoint-online-service-description/developer.md#sharepoint-design-manager) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[SharePoint Designer 2013](../sharepoint-online-service-description/developer.md#sharepoint-designer-2013) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |SharePoint Store <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -909,7 +953,7 @@ En la tabla siguiente se describen las características de SharePoint disponible
 |[Identificaciones de documento único](../sharepoint-online-service-description/content.md#unique-document-ids) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Búsqueda de vídeo](../sharepoint-online-service-description/content.md#video-search) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Análisis de publicación](../sharepoint-online-service-description/content.md#publishing-analytics) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Tarifas](../sharepoint-online-service-description/content.md#catalog) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Catalog](../sharepoint-online-service-description/content.md#catalog) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Página de categorías y página de elementos de catálogo](../sharepoint-online-service-description/content.md#category-page-and-catalog-item-page) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Elementos Web de búsqueda](../sharepoint-online-service-description/content.md#search-web-parts) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Publicación entre sitios](../sharepoint-online-service-description/content.md#cross-site-publishing) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -1030,7 +1074,17 @@ En la tabla siguiente se describen las características de SharePoint disponible
 |[Aplicaciones aprovisionadas de Azure: código personalizado en el rol web ligero de Azure (LWR)](../sharepoint-online-service-description/add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> para usar la sincronización de carpetas, debe tener Office 2013 o posterior (Standard o Professional Edition) o una suscripción a Office 365 que incluya aplicaciones de Office. Office 365 empresas Essentials, Office 365 Enterprise E1 y los planes de Office 365 Education no incluyen suscripciones a las aplicaciones de escritorio de Office. Sin embargo, puede usar la sincronización de carpetas si tiene Office 2013 o posterior instalado y se suscribe a uno de estos planes. > <sup>2</sup> como los usuarios de quiosco no pueden ser administradores, los inquilinos con usuarios de quiosco necesitan al menos un usuario de Enterprise para obtener acceso al centro de administración. > <sup>3</sup> los clientes de SharePoint Online deben descargar e instalar la aplicación gratuita Rank Model TUNING para crear y personalizar modelos de clasificación. > <sup>4</sup> cuando se usan características de la exhibición de documentos electrónicos, el requisito de licencia para un plan que permita esta característica se aplica a todos los usuarios finales que forman parte de la acción de la exhibición de documentos electrónicos (búsqueda, retención, exportación). > <sup>5</sup> algunos proveedores pueden estar bloqueados en su país o región. > <sup>6</sup> compartiendo un documento, una biblioteca o un sitio por correo electrónico con alguien ajeno a su organización. Los administradores tienen la posibilidad de activarlo, pero recibirán un mensaje de advertencia que le indicará que puede hacer que los archivos compartidos sean accesibles fuera de su país. Users who attempt to share with someone outside of the organization will receive the same warning message. > <sup>7</sup> puede ver documentos en cualquier explorador móvil. You need to install the Office Mobile app to edit documents. Office Mobile está disponible actualmente para Windows phones y tabletas, teléfonos y tabletas Android, iPhone y iPad. > <sup>8</sup> la ayuda solo está disponible en chino simplificado e inglés. > <sup>9</sup> no se pueden agregar comentarios en blogs. > <sup>10</sup> sitio web de la comunidad de la organización está disponible, pero no se dispone de ayuda proporcionada por la comunidad pública. > <sup>11</sup> no se admite el acceso 2010. > <sup>12</sup> las soluciones de espacio aislado no pueden contener código de usuario. Solo pueden contener archivos de definición (.xml) y recursos que procesa el servidor cuando se activan. > <sup>13</sup> los formularios de InfoPath que contienen código de usuario (espacio aislado) solo pueden usarse en InfoPath Rich Client. > <sup>14</sup> los usuarios autenticados de SharePoint Online pueden tener acceso a colecciones de sitios privadas con navegación por facetas. 
+> <sup>1</sup> para usar la sincronización de carpetas, debe tener Office 2013 o posterior (Standard o Professional Edition) o una suscripción a Office 365 que incluya aplicaciones de Office. Office 365 empresas Essentials, Office 365 Enterprise E1 y los planes de Office 365 Education no incluyen suscripciones a las aplicaciones de escritorio de Office. Sin embargo, puede usar la sincronización de carpetas si tiene Office 2013 o posterior instalado y se suscribe a uno de estos planes. <br/> 
+<sup>2</sup> como los usuarios de quiosco no pueden ser administradores, los inquilinos con usuarios de quiosco necesitan al menos un usuario de Enterprise para obtener acceso al centro de administración. <br/> 
+<sup>3</sup> los clientes de SharePoint Online deben descargar e instalar la aplicación gratuita Rank Model TUNING para crear y personalizar modelos de clasificación. <br/> 
+<sup>4</sup> cuando se usan características de la exhibición de documentos electrónicos, el requisito de licencia para un plan que permita esta característica se aplica a todos los usuarios finales que forman parte de la acción de la exhibición de documentos electrónicos (búsqueda, retención, exportación). <br/> 
+<sup>5</sup> algunos proveedores pueden estar bloqueados en su país o región. <br/> 
+<sup>6</sup> compartiendo un documento, una biblioteca o un sitio por correo electrónico con alguien ajeno a su organización. Los administradores tienen la posibilidad de activarlo, pero recibirán un mensaje de advertencia que le indicará que puede hacer que los archivos compartidos sean accesibles fuera de su país. Users who attempt to share with someone outside of the organization will receive the same warning message. <br/> 
+<sup>7</sup> puede ver documentos en cualquier explorador móvil. You need to install the Office Mobile app to edit documents. Office Mobile está disponible actualmente para Windows phones y tabletas, teléfonos y tabletas Android, iPhone y iPad. <br/> <sup>8</sup> la ayuda solo está disponible en chino simplificado e inglés. <br/> 
+<sup>9</sup> no se pueden agregar comentarios en blogs.<br/> 
+<sup>10</sup> sitio web de la comunidad de la organización está disponible, pero no se dispone de ayuda proporcionada por la comunidad pública. <br/> <sup>11</sup> no se admite el acceso 2010. <br/> 
+<sup>12</sup> las soluciones de espacio aislado no pueden contener código de usuario. Solo pueden contener archivos de definición (.xml) y recursos que procesa el servidor cuando se activan. <br/> <sup>13</sup> los formularios de InfoPath que contienen código de usuario (espacio aislado) solo pueden usarse en InfoPath Rich Client. <br/> 
+<sup>14</sup> los usuarios autenticados de SharePoint Online pueden tener acceso a colecciones de sitios privadas con navegación por facetas. 
   
 ### <a name="sharepoint-online-limits"></a>Límites de SharePoint Online
 
@@ -1047,7 +1101,11 @@ En la tabla siguiente se muestran los límites de SharePoint para cada plan de O
 |Número de usuarios  <br/> |1- 500.000<sup>6</sup> <br/> |1- 500.000<sup>6</sup> <br/> |1- 500.000<sup>6</sup> <br/> |
    
 > [!NOTE]
-> > <sup>1</sup> Puede adquirir una cantidad ilimitada de almacenamiento de SharePoint Online. Vea [Cambiar el espacio de almacenamiento para la suscripción](https://support.office.com/en-us/article/Change-storage-space-for-your-subscription-96EA3533-DE64-4B01-839A-C560875A662C?ui=en-US&amp;rs=en-US&amp;ad=US). > <sup>2</sup> Se recomienda supervisar la Papelera de reciclaje y vaciarla periódicamente. El espacio de almacenamiento que se utiliza es parte del límite de almacenamiento de archivos total de la organización. > <sup>3</sup> Si tiene una suscripción a Office 365 y un plan independiente SharePoint Online, las cantidades de almacenamiento se suman. > <sup>4</sup> Los administradores de SharePoint Online pueden establecer límites de uso de almacenamiento para sitios y colecciones de sitios. > <sup>5</sup> No se incluyen las colecciones de sitios de OneDrive para la Empresa creadas para cada licencia de usuario. > <sup>6</sup>Si tiene más de 500.000 usuarios, póngase en contacto con un representante de Microsoft. 
+> <sup>1</sup> Puede adquirir una cantidad ilimitada de almacenamiento de SharePoint Online. Vea [Cambiar el espacio de almacenamiento para la suscripción](https://support.office.com/article/Change-storage-space-for-your-subscription-96EA3533-DE64-4B01-839A-C560875A662C?ui=en-US&amp;rs=en-US&amp;ad=US). <br/> <sup>2</sup> Se recomienda supervisar la Papelera de reciclaje y vaciarla periódicamente. El espacio de almacenamiento que se utiliza es parte del límite de almacenamiento de archivos total de la organización.<br/> 
+<sup>3</sup> Si tiene una suscripción a Office 365 y un plan independiente SharePoint Online, las cantidades de almacenamiento se suman.<br/> 
+<sup>4</sup> Los administradores de SharePoint Online pueden establecer límites de uso de almacenamiento para sitios y colecciones de sitios.<br/> 
+<sup>5</sup> No se incluyen las colecciones de sitios de OneDrive para la Empresa creadas para cada licencia de usuario.<br/> 
+<sup>6</sup>Si tiene más de 500.000 usuarios, póngase en contacto con un representante de Microsoft. 
   
 ## <a name="skype-for-business-online-features"></a>Características de Skype Empresarial Online
 <a name="OfcOnline"> </a>
@@ -1055,7 +1113,7 @@ En la tabla siguiente se muestran los límites de SharePoint para cada plan de O
 En la siguiente tabla se enumeran las características de Skype empresarial online que están disponibles para cada plan de Office 365 educación.
   
 > [!NOTE]
-> En esta tabla se indica la disponibilidad de clientes y servicios en las opciones de Office 365 Education. Si desea comparar características individuales entre los diversos clientes de escritorio de Skype empresarial, clientes Web y clientes móviles, consulte [tablas de comparación de clientes de Skype empresarial online](https://go.microsoft.com/fwlink/?LinkId=278876) y [tablas de comparación de clientes móviles](https://go.microsoft.com/fwlink/?LinkID=278874). 
+> En esta tabla se indica la disponibilidad de clientes y servicios en las opciones de Office 365 Education. Si desea comparar características individuales entre los diversos clientes de escritorio de Skype empresarial, clientes Web y clientes móviles, consulte [tablas de comparación de clientes de Skype empresarial online](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) y [tablas de comparación de clientes móviles](https://docs.microsoft.com/lyncserver/lync-server-2013-mobile-client-comparison-tables). 
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -1158,7 +1216,7 @@ En la siguiente tabla se enumeran las características de Skype empresarial onli
 |Correo de voz  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |[Planes de llamadas en Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (Plan de llamadas nacionales, con la compra de complemento necesario)  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |
 |[Planes de llamadas en Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (Plan de llamadas internacionales, con la compra de complemento necesario)  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |
-|[Créditos de consumo](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|[Créditos de consumo](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Voz de Skype Empresarial  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Seguridad y archivado](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Mensajería instantánea y cifrado de medios  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -1187,7 +1245,8 @@ En la siguiente tabla se enumeran las características de Skype empresarial onli
 |Informes de Skype empresarial online en el centro de administración de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic está disponible para todos los clientes. El cliente para equipos de escritorio de Lync Basic es una aplicación instalada de forma local que ofrece características de presencia, mensajería instantánea y conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus y Office 365 a3 incluyen la aplicación de Skype empresarial (Lync) completa, que incluye características adicionales, como la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. A Skype for Business Online license must be assigned for each user. Para obtener más información sobre las características de Lync Basic, consulte [clients for Skype for Business online](https://technet.microsoft.com/en-us/library/gg425836%28v=ocs.15%29.aspx)> <sup>2</sup> debe asignar un plan de Exchange Online (plan 2) a los usuarios que quiera que tengan correo de voz. An Exchange Online (Plan 1) plan can't be used for voice mail. 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic está disponible para todos los clientes. El cliente para equipos de escritorio de Lync Basic es una aplicación instalada de forma local que ofrece características de presencia, mensajería instantánea y conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus y Office 365 a3 incluyen la aplicación de Skype empresarial (Lync) completa, que incluye características adicionales, como la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. A Skype for Business Online license must be assigned for each user. Para obtener más información sobre las características de Lync Basic, vea [tablas de cliente de escritorio](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) de Ariss<br/> 
+<sup>2</sup> debe asignar un plan de Exchange Online (plan 2) a los usuarios que quiera que tengan correo de voz. An Exchange Online (Plan 1) plan can't be used for voice mail. 
   
 ### <a name="skype-for-business-online-limits"></a>Límites de Skype empresarial online
 
@@ -1206,7 +1265,7 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
   
 #### <a name="peer-to-peer-limits"></a>Límites de punto a punto
 
-- **Límite de transferencia de archivos** El tamaño máximo de un archivo que se puede transferir en una conversación de mensajería instantánea de Skype Empresarial Online. Para obtener información sobre los tipos de archivo que están bloqueados para transferencia, vea el artículo del soporte técnico de Microsoft sobre cómo [enviar y recibir archivos o datos adjuntos en Skype Empresarial Online](https://go.microsoft.com/fwlink/?LinkId=398280).
+- **Límite de transferencia de archivos** El tamaño máximo de un archivo que se puede transferir en una conversación de mensajería instantánea de Skype Empresarial Online. Para obtener información sobre los tipos de archivo que están bloqueados para transferencia, vea el artículo del soporte técnico de Microsoft sobre cómo [enviar y recibir archivos o datos adjuntos en Skype Empresarial Online](https://support.microsoft.com/help/2799505/you-can-t-send-or-receive-files-or-attachments-in-skype-for-business-o).
     
 - **Límite de conversaciones en pestañas abiertas** El número máximo de pestañas de conversación que un usuario de Skype Empresarial puede tener abiertas a la vez. 
     
@@ -1256,15 +1315,15 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 |||||
 |:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Retención del contenido de la reunión: Reunión única  <br/> |15 días   <br/> |15 días   <br/> |15 días  <br/> |
+|Retención del contenido de la reunión: Reunión única  <br/> |15 días  <br/> |15 días   <br/> |15 días  <br/> |
 |Retención del contenido de la reunión: Reunión periódica  <br/> |15 días   <br/> |15 días   <br/> |15 días  <br/> |
 |Retención del contenido de la reunión: Reunión ahora  <br/> |8 horas  <br/> |8 horas   <br/> |8 horas  <br/> |
 |Expiración de la reunión: Reunión única  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |
 |Expiración de la reunión: Reunión periódica  <br/> |14 días  <br/> |14 días  <br/> |14 días  <br/> |
-|Expiración de la reunión: Reunión ahora  <br/> |8 horas  <br/> |8 horas  <br/> |8 horas  <br/> |
+|Expiración de la reunión: Reunión ahora  <br/> |8 horas   <br/> |8 horas   <br/> |8 horas  <br/> |
    
 #### <a name="minute-limits"></a>Límites de minutos
 
-Para obtener información sobre las limitaciones de minutos en los planes de llamadas nacionales e internacionales de Skype empresarial online, consulte términos de uso de los [servicios RTC de Skype empresarial online](https://support.office.com/en-us/article/Skype-for-Business-Online-PSTN-services-use-terms-dc6e95cd-51e8-49ca-bcd3-78dc9dae486a?ui=en-US&amp;rs=en-US&amp;ad=US).
+Para obtener información sobre las limitaciones de minutos en los planes de llamadas nacionales e internacionales de Skype empresarial online, consulte términos de uso de los [servicios RTC de Skype empresarial online](https://docs.microsoft.com/microsoftteams/complimentary-dial-out-period#skype-for-business-pstn-services).
   
 

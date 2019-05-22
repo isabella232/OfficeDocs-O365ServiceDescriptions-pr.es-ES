@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 03/18/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-365-product-use-rights
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: 43bc5e30b318bf78d38ebebd0f8435c322fac2d2
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: a37caa87bfef9b8a878c20303dbdff3703d57356
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33247077"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343189"
 ---
 # <a name="product-use-rights"></a>Derechos de uso de producto
 
@@ -29,7 +29,7 @@ Si cumple con lo estipulado en el Contrato Microsoft Online Subscription, puede 
 
 Consulte más información sobre el [contrato estándar de servicios en línea](http://www.21vbluecloud.com/office365/O365-AgreeWebDir/) y las [condiciones de uso](http://www.21vbluecloud.com/office365/O365-TOU/).
   
-## <a name="licensing"></a>Licencia
+## <a name="licensing"></a>Licencias
 
 Para más información sobre los programas de concesión de licencias para su organización, vea [Licencias por volumen](https://go.microsoft.com/fwlink/?LinkId=393693).
   

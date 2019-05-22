@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 04/04/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger su Organización de vínculos perjudiciales en tiempo real. ATP tiene capacidades enriquecidas de informes y seguimiento de URL que proporcionan a los administradores información sobre el tipo de ataques que ocurren en la organización.
-ms.openlocfilehash: e0b3b686f707063bff2433f1ed6acd368a08aab6
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 243f447f4fcdc9c76651894c301fb6c3bfbeb1b9
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246266"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342959"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descripción del servicio de Protección contra amenazas avanzada de Office 365
 
@@ -74,7 +74,7 @@ Seguimos agregando nuevas características a Office 365 ATP. A continuación se 
 |Cuando los usuarios usan Outlook o la aplicación Web de Outlook (OWA), los [vínculos seguros ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) representan las direcciones URL originales, no las direcciones URL reescritas. (Llamamos a esta representación de vínculos nativos).<br>Cuando la representación de vínculos nativos está disponible para su organización, esta característica funcionará en Outlook 365 (hacer clic y ejecutar), OWA y en Windows y Mac OS. |Ninguno         |
 |[Las páginas de advertencia de ATP de Office 365](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links-warning-pages) presentan una nueva combinación de colores, más detalles y la posibilidad de continuar a un sitio a pesar de determinadas advertencias y recomendaciones. |Ninguno         |
 |La protección de [vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) se extiende para aplicarse a las direcciones URL en Office Online (Word online, Excel online, PowerPoint online y OneNote online) y Office 365 ProPlus en Mac.   |[Revisar y editar las directivas de vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies)  |
-|Las funciones de cuarentena del &amp; centro de seguridad y cumplimiento se amplían a [ATP para SharePoint Online, OneDrive para la empresa y Microsoft Teams](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams). |[Revisar y editar las directivas de datos adJuntos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies) |
+|Las funciones de cuarentena del &amp; centro de seguridad y cumplimiento se amplían a [ATP para SharePoint Online, OneDrive para la empresa y Microsoft Teams](https://docs.microsoft.com/office365/SecurityCompliance/atp-for-spo-odb-and-teams). |[Revisar y editar las directivas de datos adjuntos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-attachments-policies) |
 |La protección de [vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) se extiende para aplicarse al correo electrónico enviado entre personas dentro de una organización. |[Revisar y editar las directivas de vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/set-up-atp-safe-links-policies) |
 |La protección de [vínculos seguros de ATP](https://docs.microsoft.com/office365/SecurityCompliance/atp-safe-links) se extiende para aplicarse a las direcciones URL en el correo electrónico, así como a las direcciones URL de los documentos de Office 365 ProPlus, como Word, Excel, PowerPoint y Visio en Windows, así como las aplicaciones de Office en dispositivos iOS y Android.  |Asegurarse de que está usando la [autenticación moderna para Office](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) |
 
@@ -92,7 +92,7 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 | *Configuración, protección y detección* | 
 |Datos adjuntos seguros |Sí|Sí |Sí|
 |Vínculos seguros |Sí|Sí |Sí | 
-|Directivas contra la suPlantación de identidad |Sí |Sí |Sí |
+|Directivas contra la suplantación de identidad |Sí |Sí |Sí |
 |ATP para SharePoint, OneDrive y Microsoft Teams |Sí |Sí |Sí|
 |Vínculos seguros en Microsoft Teams |Sí|Sí |Sí |
 |Informes en tiempo real |Sí |Sí |Sí|
@@ -110,7 +110,7 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 Los [datos adjuntos seguros de ATP](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments) protegen contra malware y virus desconocidos y proporcionan protección de día cero para proteger el sistema de mensajería. Todos los mensajes y datos adjuntos que no tienen una firma de virus/código dañino conocida se enrutan a un entorno especial donde ATP usa diversas técnicas de análisis y aprendizaje automático para detectar intentos malintencionados. Si no se detecta ninguna actividad sospechosa, se libera el mensaje para su entrega al buzón de correo. 
 
 > [!NOTE]
-> El análisis de datos adJuntos seguros de ATP tiene lugar en la misma región en la que residen los datos de Office 365. Para obtener más información acerca de la geografía del centro de datos, consulte [¿dónde están los datos ubicados?](https://products.office.com/where-is-your-data-located?geo=All) 
+> El análisis de datos adjuntos seguros de ATP tiene lugar en la misma región en la que residen los datos de Office 365. Para obtener más información acerca de la geografía del centro de datos, consulte [¿dónde están los datos ubicados?](https://products.office.com/where-is-your-data-located?geo=All) 
 
 ### <a name="safe-links"></a>Vínculos seguros
 

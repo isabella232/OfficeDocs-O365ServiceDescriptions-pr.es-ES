@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/26/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: En las tablas siguientes se enumeran los cambios que se han realizado recientemente en el contenido de las descripciones de servicio.
-ms.openlocfilehash: 1bb02fc16d9f2da5245920a9cde7dbdb1626f107
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 00e3b45fe9d0f71d224679813ceb621c474662d0
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246636"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343599"
 ---
 # <a name="recent-service-descriptions-changes"></a>Cambios recientes de descripciones de servicio
 
@@ -29,7 +29,7 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 |:-----|:-----|:-----|
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
 |Plataforma Office 365  <br/> |[Office 365 Educación](office-365-platform-service-description/office-365-education.md) <br/> |Disponibilidad móvil actualizada en los planes de a1.  <br/> |
-||[Office 365 Educación](office-365-platform-service-description/office-365-education.md) <br/> |Referencias de reTenciones por juicio actualizadas en el centro de seguridad y cumplimiento de educación y en secciones de Exchange Online.  <br/> |
+||[Office 365 Educación](office-365-platform-service-description/office-365-education.md) <br/> |Referencias de retenciones por juicio actualizadas en el centro de seguridad y cumplimiento de educación y en secciones de Exchange Online.  <br/> |
 |Exchange Online  <br/> |[Descripción del servicio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Se ha actualizado la disponibilidad en Office 365 Business.  <br/> |
 |Aplicaciones de Office  <br/> |[Descripción del servicio de aplicaciones de Office](office-applications-service-description/office-applications-service-description.md) <br/> |Disponibilidad actualizada en todas las plataformas móviles.  <br/> |
 |Workplace Analytics  <br/> |[Descripción del servicio Workplace Analytics](workplace-analytics-service-description.md) <br/> |Límite máximo de licencias actualizadas, vínculo agregado a artículo de introducción, requisitos previos actualizados.  <br/> |
@@ -63,7 +63,7 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
 |Exchange Online  <br/> |[Descripción del servicio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Actualizaciones para el cifrado de datos en reposo en el centro de datos y el cifrado de mensajes 365 de Office (OME).  <br/> |
 ||[Regulación de mensajes y cumplimiento normativo](exchange-online-service-description/message-policy-and-compliance.md) <br/> |Actualizaciones para el cifrado de datos en reposo en el centro de datos y el cifrado de mensajes 365 de Office (OME).  <br/> |
-|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Actualización para inMovilizar paneles compatibles con Excel online.  <br/> |
+|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Actualización para inmovilizar paneles compatibles con Excel online.  <br/> |
 |SharePoint Online  <br/> |[Descripción del servicio SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Varias actualizaciones y reestructuración.  <br/> |
 ||[Límites de SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Varias actualizaciones.  <br/> |
 |Yammer  <br/> |[Características de administración y seguridad de Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |Se quitaron las notas y las claves de secuencia de actividad.  <br/> |
@@ -119,7 +119,7 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 ||[Límites de Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Se ha aclarado el límite de datos adjuntos de 35 MB para Outlook Web Access (OWA). Se bloquea un archivo individual adjunto que supera los 35 MB. Además, también se bloquea un grupo de archivos adjuntado que supera de forma colectiva 35 MB.  <br/> |
 ||[Clientes y dispositivos móviles](exchange-online-service-description/clients-and-mobile-devices.md) <br/> |Varias actualizaciones; artículo reestructurado.  <br/> |
 |Múltiple  <br/> |Múltiple  <br/> |Se corrigieron las referencias a Microsoft Sway.  <br/> |
-|Múltiple  <br/> |Múltiple  <br/> |Se actualizaron las deScripciones de servicio de OneDrive para la empresa y SharePoint Online para incluir características híbridas adicionales. También agregó características híbridas a Office 365 operado por ViaNet, Office 365 Germany y páginas de Educación de Office 365.  <br/> |
+|Múltiple  <br/> |Múltiple  <br/> |Se actualizaron las descripciones de servicio de OneDrive para la empresa y SharePoint Online para incluir características híbridas adicionales. También agregó características híbridas a Office 365 operado por ViaNet, Office 365 Germany y páginas de Educación de Office 365.  <br/> |
    
 ## <a name="october-2017"></a>Octubre de 2017
 

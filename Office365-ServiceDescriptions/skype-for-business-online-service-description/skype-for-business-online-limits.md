@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - skype-for-business-online-limits
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: 'Los límites en Skype empresarial online entran en las siguientes categorías:'
-ms.openlocfilehash: 074b19210cc12e97bfdeab1d02d8bab7ce25bcef
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 2c45009ce112334485b8caacb4f9f221b208c678
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246466"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342409"
 ---
 # <a name="skype-for-business-online-limits"></a>Límites de Skype Empresarial Online
 
@@ -49,9 +49,9 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
-|Límite de transferencia de archivos  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |No disponible  <br/> |
+|Límite de transferencia de archivos  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |No aplicable  <br/> |
 |Límite de conversaciones<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
-|Límite de conversaciones en pestañas abiertas  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |No disponible  <br/> |
+|Límite de conversaciones en pestañas abiertas  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |No aplicable  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> un cliente puede iniciar un chat con hasta 99 usuarios si los agrega manualmente o envía un mensaje instantáneo desde el menú contextual de un grupo o una lista de distribución. Para obtener más información acerca de la mensajería instantánea en Skype empresarial online, consulte [Enviar un mensaje instantáneo en Skype empresarial](https://go.microsoft.com/fwlink/?linkid=533412). 
@@ -89,11 +89,11 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F1** <br/> |
 |Límite de carga de archivos  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |No aplicable  <br/> |
-|Participantes en una reunión de Skype Empresarial<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No disponible  <br/> |
-|Moderadores en una reunión de Skype Empresarial  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No disponible  <br/> |
+|Participantes en una reunión de Skype Empresarial<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
+|Moderadores en una reunión de Skype Empresarial  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
 |Participantes de una reunión en la aplicación web de Skype Empresarial  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
-|Participantes anónimos de una reunión en la aplicación web de Skype Empresarial  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No disponible  <br/> |
-|Invitados que se unen por teléfono  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No disponible  <br/> |
+|Participantes anónimos de una reunión en la aplicación web de Skype Empresarial  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
+|Invitados que se unen por teléfono  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
 |Usuarios en un grupo de llamada de equipo  <br/> |IVA  <br/> |IVA  <br/> |IVA  <br/> |IVA  <br/> |IVA  <br/> |No aplicable  <br/> |
    
 > [!NOTE]
@@ -105,12 +105,12 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 |:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Skype Empresarial Online Plan independiente 1** <br/> |**Skype Empresarial Online Plan independiente 2** <br/> |
 |Límite de carga de archivos  <br/> |500 MB  <br/> |No disponible  <br/> |500 MB  <br/> |
-|Participantes en una reunión de Skype Empresarial  <br/> |250  <br/> |No disponible  <br/> |250  <br/> |
-|Moderadores en una reunión de Skype Empresarial  <br/> |250  <br/> |No disponible  <br/> |250  <br/> |
-|Participantes de una reunión en la aplicación web de Skype Empresarial  <br/> |250  <br/> |No disponible  <br/> |250  <br/> |
-|Participantes anónimos de una reunión en la aplicación web de Skype Empresarial  <br/> |250  <br/> |No disponible  <br/> |250  <br/> |
-|Invitados que se unen por teléfono  <br/> |250  <br/> |No disponible  <br/> |250  <br/> |
-|Usuarios en un grupo de llamada de equipo  <br/> |IVA  <br/> |No disponible  <br/> |IVA  <br/> |
+|Participantes en una reunión de Skype Empresarial  <br/> |250  <br/> |No aplicable  <br/> |250  <br/> |
+|Moderadores en una reunión de Skype Empresarial  <br/> |250  <br/> |No aplicable  <br/> |250  <br/> |
+|Participantes de una reunión en la aplicación web de Skype Empresarial  <br/> |250  <br/> |No aplicable  <br/> |250  <br/> |
+|Participantes anónimos de una reunión en la aplicación web de Skype Empresarial  <br/> |250  <br/> |No aplicable  <br/> |250  <br/> |
+|Invitados que se unen por teléfono  <br/> |250  <br/> |No aplicable  <br/> |250  <br/> |
+|Usuarios en un grupo de llamada de equipo  <br/> |IVA  <br/> |No aplicable  <br/> |IVA  <br/> |
    
 ## <a name="meeting-retention-limits"></a>Límites de retención de reunión
 <a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>

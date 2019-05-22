@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - compliance-and-security-features-in-exchange-online-archiving
@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 6da22293e465f83a69181aec78c47866154a6b79
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 8a5338ab7d35ca77efb5e371a0633175befd8b2b
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33245056"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34341997"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Características de cumplimiento y seguridad en Archivado de Exchange Online
 
@@ -72,7 +72,7 @@ Para obtener más información, vea [Conservación local y retención por juicio
 > [!NOTE]
 > La cuota predeterminada de la carpeta Elementos recuperables es de 100 GB para los usuarios de Archivado de Exchange Online. 
   
-### <a name="in-place-ediscovery"></a>eDiscovery local
+### <a name="in-place-ediscovery"></a>Exhibición de documentos electrónicos en contexto
 <a name="BKMK_In_placehold"> </a>
 
 Archivado de Exchange Online admite In-Place eDiscovery para buscar el contenido de buzones de una organización. Mediante el Centro de administración de Exchange o Windows PowerShell remoto en un servidor de Exchange 2013 local, los administradores o los administradores de detección autorizados pueden buscar diversos elementos del buzón, como, por ejemplo, mensajes de correo electrónico, archivos adjuntos, citas del calendario, tareas y contactos. In-Place eDiscovery permite realizar búsquedas simultáneas en los archivos y buzones principales. Entre las capacidades de filtrado enriquecidas se incluyen remitente, destinatario, tipo de mensaje, fecha de envío, fecha de recepción, copia y copia oculta, junto con la sintaxis del lenguaje de consulta de palabras clave (KQL). Para obtener más información, vea [In-Place eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169).

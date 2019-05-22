@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 05/06/2019
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - office-online-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anteriormente Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office Online facilita el trabajo y el uso compartido de archivos de Office en cualquier lugar con una conexión a Internet, desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina.
-ms.openlocfilehash: e9c486f9066b0bd2513bd0d0fb288da89db721a3
-ms.sourcegitcommit: 236252f06dfa9802c3708a19eee28e434bb30966
+ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/08/2019
-ms.locfileid: "33663294"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343789"
 ---
 # <a name="office-online-service-description"></a>Descripción del servicio de Office Online
 
@@ -196,7 +196,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 > [!NOTE] 
 > <sup>1</sup> no se pueden crear gráficos dinámicos, solo vista.
  <br/><sup>2</sup> según cómo esté configurado el entorno, algunos tipos de conexiones de datos se admiten para los libros que se muestran en Excel online. Para obtener más información, consulte Actualización de datos en un libro en la ventana de un explorador. 
- <br/><sup>3</sup> no puede crear macros con VBA en Excel online, pero puede abrir y editar hojas de cálculo habilitaDAS para VBA sin tener que quitar (o dañar) el VBA contenido en el archivo.
+ <br/><sup>3</sup> no puede crear macros con VBA en Excel online, pero puede abrir y editar hojas de cálculo habilitadas para VBA sin tener que quitar (o dañar) el VBA contenido en el archivo.
  <br/><sup>4</sup> en Excel online, el último valor de referencia conocido se muestra en la ventana del explorador; sin embargo, debe actualizarse con la aplicación de escritorio de Excel. 
  <br/><sup>5</sup> Algunos complementos de Office están disponibles, pero no todos. 
   

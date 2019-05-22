@@ -2,19 +2,19 @@
 title: Límites de SharePoint Online
 ms.author: sharik
 author: skjerland
-ms.audience: ITPro
+audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Busque los límites de SharePoint Online para planes de Office 365 Enterprise e independientes.
-ms.openlocfilehash: 4615eeefe2f9f172a5baa43ce3a506015bfe159e
-ms.sourcegitcommit: 2b88e04bd6850094e7dc21e61d52a46016fa6617
+ms.openlocfilehash: 5c89f7fa92a91a780be9350e16be87e537370586
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/27/2019
-ms.locfileid: "33368373"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342539"
 ---
 # <a name="sharepoint-online-limits"></a>Límites de SharePoint Online
 
@@ -51,7 +51,7 @@ Busque los límites de SharePoint para los planes de Office 365 y los planes ind
 
 - **Sincronización** : para obtener un rendimiento óptimo, se recomienda no almacenar más de 300.000 archivos en una sola biblioteca de sitio de grupo o OneDrive. Aunque SharePoint Online puede almacenar 30 millones documentos por biblioteca, para obtener un rendimiento óptimo, se recomienda sincronizar un máximo de 300.000 archivos en todas las bibliotecas de documentos. Además, pueden producirse los mismos problemas de rendimiento si tiene 300.000 elementos o más en todas las bibliotecas que va a sincronizar, incluso si no está sincronizando todos los elementos de esas bibliotecas. Si usa el anterior cliente de sincronización de OneDrive para la empresa (Groove. exe), el límite de sincronización por biblioteca es de 20.000 elementos (incluidos 5.000 elementos por sitio de grupo).
 
-- **** Versiones principales y de 511 versiones secundarias.
+- Versiones principales y 50.000 de 511 versiones secundarias.
 
 - **Grupos de SharePoint** : un usuario puede pertenecer a 5.000 grupos y cada grupo puede tener hasta 5.000 usuarios. Puede tener hasta 10.000 grupos por colección de sitios.
 

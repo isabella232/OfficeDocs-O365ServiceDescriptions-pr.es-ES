@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - word-online-service-description
@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word online (anteriormente Word Web App) amplía su experiencia de Microsoft Word al explorador Web, donde puede trabajar con documentos directamente en el sitio web en el que está almacenado el documento.
-ms.openlocfilehash: ca137172fe5e86a59dc29cd62eaacb217caa7e59
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 368267ed20a14ca5fffa5fc4226141ac00adaace
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246956"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34343799"
 ---
 # <a name="word-online"></a>Word Online
 
@@ -293,7 +293,7 @@ Con Word Online, puede guardar una copia del documento localmente.
 
 Puede usar Word Online para guardar o convertir sus archivos en documentos PDF, de manera que pueda compartirlos o imprimirlos con impresoras comerciales. Y no necesitará ningún otro software o complemento.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Uso compartido
 <a name="bkmk_Share"> </a>
 
 Con Word Online, puede usar un proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre las [diferencias entre el uso de un documento en el explorador y en Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
@@ -323,7 +323,7 @@ No disponible en Word Online. Puede ver una tabla de autoridad existente, pero n
 
 Use la característica Pulsar para buscar y volver a usar contenido. Pulse en los archivos relevantes que use más frecuentemente para centrarse en la creación de documentos en lugar de buscar archivos e información. Para obtener más información, vea [Buscar y usar el contenido que necesite](https://go.microsoft.com/fwlink/?linkid=825878).
   
-## <a name="tell-me"></a>Tell Me
+## <a name="tell-me"></a>Información
 <a name="BKMK_Tell_Me_Word"> </a>
 
 Cuando necesita lograr algo en Word Online pero no sabe cómo, puede usar la característica de búsqueda Información para encontrar rápidamente lo que está buscando. Información comprende lo que intenta lograr y le ayuda a hacerlo más rápido con algunas sugerencias.

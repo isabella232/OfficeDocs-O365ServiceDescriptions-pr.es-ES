@@ -4,7 +4,7 @@ ms.author: sharik
 author: skjerland
 manager: mnirkhe
 ms.date: 6/13/2018
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 f1_keywords:
 - exchange-online-protection-service-description
@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: obtenga información sobre las características y los requisitos de Exchange Online Protection. Se incluye una lista de los planes que ofrecen Exchange Online Protection, así como una comparación de las características entre dichos planes.
-ms.openlocfilehash: b90b480df4fb4116ab75f5d25428be86a9395ae0
-ms.sourcegitcommit: 830694c729ab53fcc8518b0cdd5322b322514431
+ms.openlocfilehash: 22116d6771ccafe421cf1a3fc1abc87ab4af1d43
+ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33246116"
+ms.lasthandoff: 05/22/2019
+ms.locfileid: "34342092"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descripción de servicio Protección en línea de Exchange
 
@@ -119,7 +119,7 @@ A continuación, se incluye cada característica. Si desea ver información más
    
 > [!NOTE]
 > <sup>1</sup> los usuarios de correo se definen como "buzones" y, junto con los contactos de correo externos, se pueden agregar, quitar o administrar directamente en el centro de administración de Exchange (EAC). 
- <br/><sup>2</sup> sin personalIZACIÓN de RBAC. Únicamente roles de administrador. 
+ <br/><sup>2</sup> sin personalización de RBAC. Únicamente roles de administrador. 
  <br/> se pueden ver <sup>3</sup> dominios administrados y los tipos de dominio se pueden editar en el EAC. El resto de la administración de dominios debe realizarse en el centro de administración de Microsoft 365. 
  <br/><sup>4</sup> las acciones y los criterios flexibles disponibles varían entre EOP y Exchange Online. Para obtener una lista de los criterios y acciones disponibles en EOP, vea [Condiciones de reglas de transporte (predicados)](https://go.microsoft.com/fwlink/p/?LinkId=320392) y [Acciones de reglas de transporte](https://go.microsoft.com/fwlink/p/?LinkId=320393). Para obtener una lista de los criterios y acciones disponibles en Exchange Online, vea [Condiciones de reglas de flujo de correo (predicados)](https://go.microsoft.com/fwlink/p/?LinkId=320394) y [Transport Rule Actions](https://go.microsoft.com/fwlink/p/?LinkId=320395). 
  <br/><sup>5</sup> los informes de auditoría de EOP son un subconjunto de informes de auditoría de Exchange online que excluyen la información acerca de los buzones. 
@@ -128,7 +128,7 @@ A continuación, se incluye cada característica. Si desea ver información más
  <br/><sup>9</sup> los informes de EOP son un subconjunto de informes de Exchange online que excluyen la información acerca de los buzones.
  <br/><sup>10</sup> incluye informes de DLP. 
  <br/><sup>11</sup> los clientes de Exchange Enterprise cal con servicios deben instalar el libro seleccionando el servicio **Exchange Online** en lugar del servicio **Exchange Online Protection** . 
- <br/><sup>12</sup> se admite para los clientes locales que adQuieren Azure Information Protection y usan Exchange Online Protection para enrutar el correo electrónico a través de Exchange Online. 
+ <br/><sup>12</sup> se admite para los clientes locales que adquieren Azure Information Protection y usan Exchange Online Protection para enrutar el correo electrónico a través de Exchange Online. 
  <br/> <sup>13</sup> examina los mensajes entrantes y salientes, pero no analiza los mensajes internos que envía un remitente a un destinatario de la organización. 
  <br/><sup>14</sup> los predicados y las acciones disponibles varían entre EOP y Exchange Online. 
  <br/> <sup>15</sup> la configuración híbrida no está disponible a través del Asistente para la implementación híbrida, pero puede configurarse manualmente si tiene Exchange SP1. 
