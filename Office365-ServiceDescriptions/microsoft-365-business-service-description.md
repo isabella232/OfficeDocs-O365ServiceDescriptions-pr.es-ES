@@ -3,7 +3,7 @@ title: Descripción del servicio de Microsoft 365 Empresa
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/13/2019
+ms.date: 05/29/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business es una solución integrada que reúne la mejor productividad en su clase de Office 365 con funciones avanzadas de seguridad y administración de dispositivos para ayudarle a proteger su empresa. . Esta descripción de servicio describe las opciones y características del plan. Para obtener más información acerca de Office 365, consulte las descripciones de servicio de Office 365.
-ms.openlocfilehash: c6f982adb14dc332e4e31d448ca58e0356cbbd06
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
+ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342983"
+ms.lasthandoff: 05/28/2019
+ms.locfileid: "34493498"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descripción del servicio de Microsoft 365 Empresa
 
@@ -119,7 +119,7 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
 |||||
 |:-----|:-----|:-----|:-----|
 |**Características de administración de identidades y acceso** <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E5** <br/> |
-|Office 365 multi-factor Authentication (MFA)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Azure multi-factor Authentication (MFA)  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Unidades administrativas  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Detección de aplicaciones en la nube  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Grupos dinámicos  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
@@ -133,6 +133,7 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
 |Conexión del estado  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |SLA 99,9%  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Advanced Threat Analytics  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|Acceso condicional  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |**Características de administración de dispositivos y aplicaciones** <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Administración de dispositivos móviles (MDM)<sup>15</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Inscripción automática de la administración de dispositivos móviles (MDM)  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
@@ -169,14 +170,14 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
 <br/><sup>4</sup> Azure Information Protection (AIP) habilita las características de Information Rights Management (IRM) compatibles. El plan AIP 1 se incluye en Microsoft 365 Business. 
 <br/><sup>5</sup> Microsoft Teams está disponible en Microsoft 365 Business, Office 365 Business Essentials, Office 365 empresa Premium y Office 365 Enterprise (E1, E3, E5, F1). Aún no está disponible para los planes de Office 365 Educación. 
 <br/><sup>6</sup> Azure Information Protection (AIP) habilita las características de Information Rights Management (IRM) compatibles. El plan AIP 1 se incluye en Microsoft 365 Business. 
-<br/><sup>7</sup> la herramienta de Azure ad Connect para habilitar la sincronización de directorios se admite en Office 365 empresa Premium, que es un componente de Microsoft 365 Business. Sin embargo, cuando se habilitan los componentes de administración de Windows para Microsoft 365 Business, se requiere una combinación de Azure AD. Si tiene un entorno de Active Directory local y quiere unirse a los dispositivos Unidos a un dominio a Azure AD, puede hacerlo mediante la [configuración de dispositivos de Azure ad Unidos híbridos](https://docs.microsoft.com/en-us/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup). 
+<br/><sup>7</sup> la herramienta de Azure ad Connect para habilitar la sincronización de directorios se admite en Office 365 empresa Premium, que es un componente de Microsoft 365 Business. Sin embargo, cuando se habilitan los componentes de administración de Windows para Microsoft 365 Business, se requiere una combinación de Azure AD. Si tiene un entorno de Active Directory local y quiere unirse a los dispositivos Unidos a un dominio a Azure AD, puede hacerlo mediante la [configuración de dispositivos de Azure ad Unidos híbridos](https://docs.microsoft.com/azure/active-directory/device-management-hybrid-azuread-joined-devices-setup). 
 <br/><sup>8</sup> si se usa la sincronización de directorios con Active Directory local, debe eliminar las cuentas o cambiar las contraseñas con Active Directory local, en lugar del portal de Office 365 o mediante el módulo Azure Active Directory para Windows PowerShell. 
-<br/><sup>9</sup> solo identidades de nube. Consulte [permitir a los usuarios restablecer sus propias contraseñas en Office 365](https://go.microsoft.com/fwlink/?linkid=852917). 
+<br/><sup>9</sup> solo identidades de nube. Consulte [permitir a los usuarios restablecer sus propias contraseñas en Office 365](https://docs.microsoft.com/office365/admin/add-users/let-users-reset-passwords). 
 <br/><sup>10</sup> reducir los puestos que se compraron con un descuento de términos pueden estar sujetos a una cuota de finalización anticipada. Esto no se aplica a las suscripciones pagadas con carácter mensual. 
-<br/><sup>11</sup> Microsoft 365 Business incluye la suscripción de archivado de Exchange Online. Cada suscriptor de Archivado de Exchange Online recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. Para obtener más información, vea [Información general sobre el archivado ilimitado en Office 365](https://go.microsoft.com/fwlink/?linkid=863320). 
-<br/><sup>12</sup> para obtener más información, vea [controlar los datos en Office 365 mediante la clave de cliente](https://go.microsoft.com/fwlink/?linkid=863349). 
+<br/><sup>11</sup> Microsoft 365 Business incluye la suscripción de archivado de Exchange Online. Cada suscriptor de Archivado de Exchange Online recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. Para obtener más información, vea [Información general sobre el archivado ilimitado en Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). 
+<br/><sup>12</sup> para obtener más información, vea [controlar los datos en Office 365 mediante la clave de cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). 
 <br/><sup>13</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]).
-<br/><sup>14</sup> disponible en [https://securescore.office.com](https://securescore.office.com). Requiere permisos de administrador. Para obtener más información, vea [Introducción a la puntuación segura de Office 365](https://go.microsoft.com/fwlink/?linkid=863490).
+<br/><sup>14</sup> disponible en [https://securescore.office.com](https://securescore.office.com). Requiere permisos de administrador. Para obtener más información, vea [Introducción a la puntuación segura de Office 365](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).
 <br/><sup>15</sup> administración de dispositivos simplificada de Windows 10 integrada en el centro de administración de Microsoft 365. Capacidades de administración de Intune de iOS, Android, macOS y otra administración de dispositivos entre plataformas integrada en el centro de administración de dispositivos, también licencia para su uso con Microsoft 365 Business. Las aplicaciones de terceros y la configuración de los perfiles WiFi y los certificados VPN también se pueden administrar en el centro de administración de dispositivos. 
 <br/><sup>16</sup> este plan viene con Microsoft Stream plan 2, que incluye portal de vídeo, voz a transcripción de texto, búsqueda en profundidad y detección de rostro.
 <br/><sup>17</sup> directivas de protección de aplicaciones de Intune y administración de dispositivos de Windows 10 simplificadas integradas en el centro de administración de Microsoft 365.
