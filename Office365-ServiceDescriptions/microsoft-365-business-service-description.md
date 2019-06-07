@@ -3,7 +3,7 @@ title: Descripción del servicio de Microsoft 365 Empresa
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/29/2019
+ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business es una solución integrada que reúne la mejor productividad en su clase de Office 365 con funciones avanzadas de seguridad y administración de dispositivos para ayudarle a proteger su empresa. . Esta descripción de servicio describe las opciones y características del plan. Para obtener más información acerca de Office 365, consulte las descripciones de servicio de Office 365.
-ms.openlocfilehash: 0a68bd3b014d391e61542aeb789ff50f112b991f
-ms.sourcegitcommit: e5151508a1587c73d20588b87304cc277330ace3
+ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
+ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/28/2019
-ms.locfileid: "34493498"
+ms.lasthandoff: 06/06/2019
+ms.locfileid: "34742109"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descripción del servicio de Microsoft 365 Empresa
 
@@ -26,8 +26,8 @@ Microsoft 365 Business es una solución integrada que reúne la mejor productivi
 
 En la siguiente tabla se enumeran las características de plataforma para los planes de empresa de Office 365 empresa Premium y Microsoft 365.
   
-Para ver la disponibilidad de características en los planes de Office 365, consulte la descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description/office-365-platform-service-description.md).
-  
+Para ver la disponibilidad de características en los planes de Office 365, consulte la descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description/office-365-platform-service-description.md).<br/>
+
 ||||
 |:-----|:-----|:-----|
 |**Opciones de plan** <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |
@@ -149,7 +149,7 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
    
 |||
 |:-----|:-----|
-|**Características de administración de Windows 10** : Microsoft 365 Business facilita la administración de dispositivos. Cuando configure su inquilino de Microsoft 365 Business, seleccione protección de aplicaciones y opciones de configuración de dispositivos. Esta configuración determina las directivas que se aplican automáticamente a los dispositivos cuando se unen a Azure Active Directory. Las capacidades de administración de Windows 10 Pro incluyen:  <br/> |**Microsoft 365 Empresa** <br/> |
+|**Características de administración de Windows 10** : Microsoft 365 Business facilita la administración de dispositivos. Cuando configure su inquilino de Microsoft 365 Business, seleccione protección de aplicaciones y opciones de configuración de dispositivos. Esta configuración determina las directivas que se aplican automáticamente a los dispositivos cuando se unen a Azure Active Directory. Las capacidades de administración de Windows 10 Pro incluyen: <br/>|**Microsoft 365 Empresa** <br/> |
 |Implementación simplificada con Windows AutoPilot  <br/> |Sí  <br/> |
 |Activación de la suscripción  <br/> |Sí  <br/> |
 |Control de la organización de la pantalla del dispositivo en inactivo  <br/> |Sí  <br/> |
@@ -162,9 +162,9 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
 |Proteger los equipos PC de amenazas basadas en Web en Microsoft Edge  <br/> |Sí  <br/> |
 |Usar reglas que reducen la superficie expuesta a ataques de los dispositivos <br/> |Sí  <br/> |
 |Proteger carpetas de amenazas como ransomware <br/> |Sí  <br/> |
-|Ayudar a proteger archivos y carpetas en los equipos PC de acceso no autorizado con BitLocker <br/> |Sí  <br/> |
-   
-> <sup>1</sup> incluye Exchange Online (plan 1).
+|Ayudar a proteger archivos y carpetas en los equipos PC de acceso no autorizado con BitLocker <br/> |Sí  <br/> |   
+
+<sup>1</sup> incluye Exchange Online (plan 1).
 <br/><sup>2</sup> incluye Skype empresarial online (plan 2) con limitaciones de cliente básico.
 <br/><sup>3</sup> no se incluye Project online, pero puede adquirirse como un servicio de complemento independiente o agregarse de forma gratuita al plan de Office Education. 
 <br/><sup>4</sup> Azure Information Protection (AIP) habilita las características de Information Rights Management (IRM) compatibles. El plan AIP 1 se incluye en Microsoft 365 Business. 
