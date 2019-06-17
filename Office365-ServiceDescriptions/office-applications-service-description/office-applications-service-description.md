@@ -3,7 +3,6 @@ title: Descripción del servicio de aplicaciones de Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/17/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 es un servicio de suscripción que proporciona la última versión de las aplicaciones de escritorio de Office con las que ya está familiarizado, como Word, Excel y PowerPoint.
-ms.openlocfilehash: c3c273d542a793b1cf106611100155b436e64ff7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a9fc61ae4157150bdc772c92cf752972b1e3fd57
+ms.sourcegitcommit: d77ec3d24349e6bac26d259cdee88e77479046a7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343099"
+ms.lasthandoff: 06/13/2019
+ms.locfileid: "34931142"
 ---
 # <a name="office-applications-service-description"></a>Descripción del servicio de aplicaciones de Office
 
@@ -90,7 +89,7 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 |Volume activation (KMS/MAK)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|No<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
    
 > [!NOTE]
-><sup>+</sup>Al instalar Office 365 u Office 2019, obtendrá OneNote para Windows 10 de forma predeterminada. Para obtener más información, vea [preguntas más frecuentes sobre OeNOte en Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
+><sup>+</sup>Al instalar Office 365 u Office 2019, obtendrá OneNote para Windows 10 de forma predeterminada. Para obtener más información, vea [preguntas más frecuentes sobre OneNote en Office 2019](https://support.office.com/en-us/article/frequently-asked-questions-about-onenote-in-office-2019-6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
 ><sup>++</sup>Acceso de la aplicación OneNote a blocs de notas en SharePoint Server, SharePoint Online, OneDrive para la empresa y Office 365. <br/>
 ><sup>+++</sup>La compatibilidad de BHO es una tecnología de extensión para Internet Explorer. <br/>
 ><sup>1</sup> las características de archivado y cumplimiento son compatibles con esta versión de Office, pero los planes de Exchange Online y SharePoint Online no se incluyen y deben adquirirse por separado o usarse con los equivalentes de servidor local admitidos.<br/>

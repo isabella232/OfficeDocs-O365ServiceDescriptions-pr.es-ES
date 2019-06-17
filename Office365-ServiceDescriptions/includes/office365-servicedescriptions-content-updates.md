@@ -3,30 +3,6 @@
 
 
 
-## <a name="week-of-april-29-2019"></a>Semana del 29 de abril de 2019
-
-
-| Fecha de publicación |Título del tema | Cambio |
-|------|------------|--------|
-| 5/1/2019 | [Límites de Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
-| 5/1/2019 | [Office 365 Educación](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | modificado |
-| 5/1/2019 | [Office 365 Germany](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-germany) | modificado |
-| 5/1/2019 | [Office 365 operado por 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | modificado |
-| 5/1/2019 | [Aplicaciones de Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications) | modificado |
-| 5/1/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | modificado |
-| 5/1/2019 | [Descripción del servicio de Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modificado |
-| 5/1/2019 | [Descripción del servicio de aplicaciones de Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificado |
-| 5/2/2019 | [Límites de Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
-| 5/3/2019 | [Límites de Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-limits) | modificado |
-| 5/3/2019 | [Office 365 Educación](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-education) | modificado |
-| 5/3/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | modificado |
-| 5/3/2019 | [Regulación de mensajes y cumplimiento normativo](/Office365/ServiceDescriptions/exchange-online-service-description/message-policy-and-compliance) | modificado |
-| 5/3/2019 | [Descripción del servicio de Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modificado |
-| 5/3/2019 | [Administración de carteras](/Office365/ServiceDescriptions/project-online-service-description/portfolio-management) | modificado |
-| 5/3/2019 | [Administración de proyectos](/Office365/ServiceDescriptions/project-online-service-description/project-management) | modificado |
-| 5/3/2019 | [Descripción del servicio Project Online](/Office365/ServiceDescriptions/project-online-service-description/project-online-service-description) | modificado |
-
-
 ## <a name="week-of-may-06-2019"></a>Semana del 6 de mayo de 2019
 
 
@@ -173,3 +149,22 @@
 |------|------------|--------|
 | 5/28/2019 | [Descripción del servicio de Microsoft 365 Empresa](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificado |
 | 5/31/2019 | [Límites de SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modificado |
+
+
+## <a name="week-of-june-03-2019"></a>Semana del 03 de junio de 2019
+
+
+| Fecha de publicación |Título del tema | Cambio |
+|------|------------|--------|
+| 6/6/2019 | [Descripción del servicio de Microsoft 365 Empresa](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificado |
+| 6/6/2019 | [Office 365 operado por 21Vianet](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-operated-by-21vianet) | modificado |
+| 6/6/2019 | [Search](/Office365/ServiceDescriptions/sharepoint-online-service-description/search) | modificado |
+| 6/6/2019 | [Límites de SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modificado |
+| 6/7/2019 | [Descripción del servicio de Microsoft 365 Empresa](/Office365/ServiceDescriptions/microsoft-365-business-service-description) | modificado |
+| 6/7/2019 | [Características de archivo de Archivado de Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/archive-features) | modificado |
+| 6/7/2019 | [Descripción del servicio de Archivado de Exchange Online](/Office365/ServiceDescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) | modificado |
+| 6/7/2019 | [Descripción del servicio Exchange Online Protection](/Office365/ServiceDescriptions/exchange-online-protection-service-description/exchange-online-protection-service-description) | modificado |
+| 6/7/2019 | [Descripción del servicio Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | modificado |
+| 6/7/2019 | [Centro de seguridad y cumplimiento de Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificado |
+| 6/7/2019 | [Límites de SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modificado |
+| 6/7/2019 | [Descripción del servicio SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | modificado |
