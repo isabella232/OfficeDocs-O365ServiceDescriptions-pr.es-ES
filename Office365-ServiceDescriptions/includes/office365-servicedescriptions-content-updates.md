@@ -3,18 +3,6 @@
 
 
 
-## <a name="week-of-may-06-2019"></a>Semana del 6 de mayo de 2019
-
-
-| Fecha de publicación |Título del tema | Cambio |
-|------|------------|--------|
-| 5/6/2019 | [Excel Online](/Office365/ServiceDescriptions/office-online-service-description/excel-online) | modificado |
-| 5/6/2019 | [Descripción del servicio de Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modificado |
-| 5/7/2019 | [Descripción del servicio Exchange Online](/Office365/ServiceDescriptions/exchange-online-service-description/exchange-online-service-description) | modificado |
-| 5/7/2019 | [Soporte técnico](/Office365/ServiceDescriptions/office-365-platform-service-description/support) | modificado |
-| 5/7/2019 | [Descripción del servicio de Office Online](/Office365/ServiceDescriptions/office-online-service-description/office-online-service-description) | modificado |
-
-
 ## <a name="week-of-may-13-2019"></a>Semana del 13 de mayo de 2019
 
 
@@ -168,3 +156,12 @@
 | 6/7/2019 | [Centro de seguridad y cumplimiento de Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificado |
 | 6/7/2019 | [Límites de SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-limits) | modificado |
 | 6/7/2019 | [Descripción del servicio SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | modificado |
+
+
+## <a name="week-of-june-10-2019"></a>Semana del 10 de junio de 2019
+
+
+| Fecha de publicación |Título del tema | Cambio |
+|------|------------|--------|
+| 6/13/2019 | [Descripción del servicio de aplicaciones de Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificado |
+| 6/13/2019 | [Descripción del servicio SharePoint Online](/Office365/ServiceDescriptions/sharepoint-online-service-description/sharepoint-online-service-description) | modificado |

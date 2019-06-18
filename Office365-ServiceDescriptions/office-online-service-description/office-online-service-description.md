@@ -3,7 +3,6 @@ title: Descripción del servicio de Office Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/06/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office Online (anteriormente Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office Online facilita el trabajo y el uso compartido de archivos de Office en cualquier lugar con una conexión a Internet, desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina.
-ms.openlocfilehash: e952279b7f5115cbde4a8ac9e5e053b08d522812
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
+ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343789"
+ms.lasthandoff: 06/18/2019
+ms.locfileid: "35018312"
 ---
 # <a name="office-online-service-description"></a>Descripción del servicio de Office Online
 
 Office Online (anteriormente Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office Online facilita el trabajo y el uso compartido de archivos de Office en cualquier lugar con una conexión a Internet, desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina. 
   
-Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-online-plans"></a>Disponibilidad de características en los planes de Office Online
 <a name="bkmk_FeatureavailabilityO365"> </a>
@@ -32,7 +31,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 ¿Necesita ayuda para saber qué solución de Office se adapta mejor a su organización? En las tablas siguientes se comparan las capacidades de las características de Office online para las aplicaciones de escritorio de Microsoft Office con características enriquecidas. Use las tablas para descubrir qué características están disponibles en Office Online y, a continuación, haga clic en el nombre de la característica para leer una breve descripción de cómo funciona la característica. Es posible que algunas personas de la organización necesiten la funcionalidad de gráficos avanzada de la aplicación de escritorio de Excel mientras que otras solo tienen que ver y editar ligeramente documentos de Word y presentaciones de PowerPoint con Office online. 
   
 > [!NOTE]
->  Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de las características de Microsoft Office. >  Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. > Microsoft Office Online Server los clientes locales obtienen una licencia de edición de Office Online si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Office 365 ProPlus). 
+>  Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de las características de Microsoft Office. <br/>  Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. <br/>  Los clientes locales de Microsoft Office Online Server obtienen una licencia de edición de Office Online si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Office 365 ProPlus). 
   
 > [!NOTE]
 > Cuando abre un documento de Office, ya sea un adjunto de correo electrónico de Outlook o desde una biblioteca de documentos de SharePoint, el documento se iniciará en Office Online y será de solo lectura. Para editar un documento en Office Online (modo de edición), necesita una licencia del conjunto de Office 365, como Office 365 Enterprise E1. Para editar un documento en la aplicación de escritorio, deberá contar con una licencia del conjunto de escritorio de Office, como una suscripción de Office 365 ProPlus o una versión instalada de Office Professional Plus 2010. 
@@ -45,7 +44,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |**Características de aplicaciones** <br/> |**Word Online** <br/> |**Aplicación de escritorio de Word** <br/> |
 |[Guías de alineación y distribución dinámica](word-online.md#alignment-guides-and-live-layout) <br/> |No  <br/> |Sí  <br/> |
 |[Aplicación de estilos](word-online.md#apply-styles) <br/> |Sí  <br/> |Sí  <br/> |
-|[Autoguardar](word-online.md#autosave) <br/> |No  <br/> |Sí  <br/> |
+|[Autoguardar](word-online.md#autosave) <br/> |Sí  <br/> |Sí  <br/> |
 |[Autotexto](word-online.md#autotext) <br/> |Sí  <br/> |Sí  <br/> |
 |[Examinación e inicio de plantillas de diseño profesional](word-online.md#browse-and-start-from-professionally-designed-templates) <br/> |Sí  <br/> |Sí  <br/> |
 |[Viñetas y numeración](word-online.md#bullets-and-numbering) <br/> |Sí  <br/> |Sí  <br/> |
@@ -214,9 +213,9 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Coautoría](onenote-online.md#co-authoring) <br/> |Sí  <br/> |Sí  <br/> |
 |[Crear y administrar páginas y secciones](onenote-online.md#create-and-manage-pages-and-sections) <br/> |Sí  <br/> |Sí  <br/> |
 |[Descargar copias de archivos de Office insertados](onenote-online.md#download-copy-of-embedded-office-files) <br/> |Sí  <br/> |Sí<sup>4</sup> <br/> |
-|[Arrastrar y colocar páginas] <br/> |Sí  <br/> |Sí <br/> |
-|[Arrastrar y colocar secciones] <br/> |Sí  <br/> |Sí <br/> |
-|[Arrastrar y colocar grupos de secciones] <br/> |No  <br/> |Sí <br/> |
+|Arrastrar y colocar páginas <br/> |Sí  <br/> |Sí <br/> |
+|Arrastrar y colocar secciones <br/> |Sí  <br/> |Sí <br/> |
+|Arrastrar y colocar grupos de secciones <br/> |No  <br/> |Sí <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Sí  <br/> |Sí  <br/> |
 |[Edición de archivos incrustados](onenote-online.md#EmbeddedFileEdit) <br/> |No  <br/> |Sí  <br/> |
 |[Ecuaciones](onenote-online.md#equations) <br/> |Sí  <br/> |Sí  <br/> |
@@ -301,10 +300,11 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Visualización WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Sí  <br/> |Sí  <br/> |
 
 > [!NOTE]   
-> <sup>1</sup> PowerPoint online admite una galería de ocho transiciones y 37 animaciones. Para obtener una selección más grande o para crear animaciones personalizadas, use la aplicación de escritorio de PowerPoint. 
- <br/><sup>2</sup> el dispositivo con el que trabaja debe admitir la entrada de lápiz. 
- <br/> <sup>3</sup> algunos complementos de Office están disponibles, pero no todos. 
- <br/><sup>4</sup> no puede crear gráficos dinámicos ni tablas dinámicas, pero puede verlos en el visor. 
+><sup>1</sup> PowerPoint online admite una galería de ocho transiciones y 37 animaciones. Para obtener una selección más grande o para crear animaciones personalizadas, use la aplicación de escritorio de PowerPoint. 
+ <br/>
+<sup>2</sup> el dispositivo con el que trabaja debe admitir la entrada de lápiz. <br/> 
+<sup>3</sup> algunos complementos de Office están disponibles, pero no todos. <br/>
+<sup>4</sup> no puede crear gráficos dinámicos ni tablas dinámicas, pero puede verlos en el visor. 
   
 ## <a name="supported-file-types-for-office-online"></a>Tipos de archivo admitidos para Office Online
 <a name="bkmk_SupportedFileTypes"> </a>
