@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado en Microsoft SharePoint Server 2013, este servicio alojado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central, y compartir información con otros individuos. Las siguientes características de Contenido facilitan a todos los usuarios el uso de la administración de contenido empresarial (ECM). Es la combinación de la administración de contenido tradicional, las funcionalidades sociales y una búsqueda potente.
-ms.openlocfilehash: 67b7af09bc6a4abc8ec42750588079145f9f4719
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 0d9cf2388a0c6907708fba2318f8b6ca97a35b12
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342559"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130964"
 ---
 # <a name="content"></a>Content
 
@@ -76,10 +76,10 @@ El Administrador de diseño permite a las organizaciones cambiar las páginas ma
 
 Los conjuntos de documentos permiten a los usuarios almacenar, editar, exportar y agregar una descripción varios archivos como una única entidad. Se pueden aplicar directivas, etiquetas y plantillas a cualquier conjunto de documentos creado. Obtenga más información sobre los [conjuntos de documentos](https://go.microsoft.com/fwlink/?LinkId=270954).
   
-## <a name="document-translation-in-word-online"></a>Document Translation in Word Online
+## <a name="document-translation-in-word-for-the-web"></a>Traducción de documentos en Word para el Web
 <a name="bkmk_DocumentTranslationWordWebApp"> </a>
 
-En la vista de lectura, Word Online ahora incluye una opción para que las organizaciones puedan traducir sus documentos directamente en el navegador. Se traducen incluso los comentarios de los documentos.
+En la vista de lectura, Word para web ahora presenta una opción que permite a las organizaciones traducir sus documentos directamente en el explorador. Se traducen incluso los comentarios de los documentos.
   
 ## <a name="ediscovery-search"></a>eDiscovery Search
 <a name="bkmk_eDiscovery_Search"> </a>
@@ -141,15 +141,15 @@ La navegación basada en metadatos permite encontrar fácilmente contenido en bi
 
 Las directivas de retención pueden tener varias fases que le permiten especificar todo el ciclo de vida de un documento como una sola directiva. Por ejemplo, puede revisar contratos una vez al año y eliminarlos después de siete años. Obtenga más información sobre cómo [almacenar y administrar registros](https://go.microsoft.com/fwlink/?LinkId=270968).
   
-## <a name="office-online-createedit"></a>Office Online (crear/editar)
+## <a name="office-for-the-web-createedit"></a>Office para la web (crear/editar)
 <a name="bkmk_OfficeWebAppsEdi"> </a>
 
-Si es cliente de Office 365, puede crear y editar automáticamente archivos de Office con Office Online desde un explorador de Internet. Para saber qué características hay disponibles en Office Online, vea [Descripción del servicio de Office Online](../office-online-service-description/office-online-service-description.md).
+Si es un cliente de Office 365, puede crear y editar archivos de Office automáticamente con Office para el Web desde un explorador de Internet. Para saber qué características están disponibles en Office para la web, vea [Office para la descripción del servicio Web](../office-online-service-description/office-online-service-description.md).
   
-## <a name="office-online-view"></a>Office Online (ver)
+## <a name="office-for-the-web-view"></a>Office para la web (ver)
 <a name="bkmk_OfficeWebAppsView"> </a>
 
-De forma predeterminada, Office Online es de solo lectura. La función de solo lectura se ofrece de forma gratuita. Obtenga más información sobre cómo [usar Office Online en el sitio de SharePoint de su organización](https://go.microsoft.com/fwlink/?LinkId=392609).
+De forma predeterminada, Office para la web es solo de vista. La función de solo lectura se ofrece de forma gratuita. Obtenga más información sobre [el uso de Office para la web en el sitio de SharePoint de su organización](https://go.microsoft.com/fwlink/?LinkId=392609).
   
 ## <a name="office-web-apps-server-integration"></a>Office Web Apps Server integration
 <a name="bkmk_OfficeWebAppsServerIntegration"> </a>

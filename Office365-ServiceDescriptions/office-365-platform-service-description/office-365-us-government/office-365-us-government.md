@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado los planes de Office 365 US Government (orOffice 365 US Government). En esta sección se proporciona una introducción a las características específicas de Office 365 Administración Pública. Se recomienda leer esta sección complementaria junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: af9e8ef16df9c3f7458d1bced7836ac3cffeb8aa
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 1d7878c232f8c08c4b039562d0424fba9fd48d07
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343219"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131284"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -75,7 +75,7 @@ Office 365 Administración Pública proporciona sus servicios desde centros de d
 > [!NOTE]
 > Con el uso normal, Skype Empresarial no almacena contenido de cliente, pero si se produce dicho almacenamiento, estará en centros de datos ubicados en los Estados Unidos. 
   
-Si sus usuarios se encuentran en los Estados Unidos cuando usan Office Online (anteriormente conocido como Office Web Apps) o si adopta el uso de Servicios de federación de Active Directory (AD FS) 2.0 y configura un conjunto de directivas para garantizar que los usuarios se conectan a los servicios a través de un inicio de sesión único, cualquier contenido del cliente que se almacene temporalmente en la caché de Office Online estará situado en los Estados Unidos.
+Si los usuarios se encuentran en Estados Unidos mientras usan Office para la web (anteriormente conocido como Office Web Apps) o si adoptamos el uso de los servicios de Federación de Active Directory (AD FS) 2,0 y configuramos directivas para garantizar que los usuarios se conecten a los servicios a través de un solo si GN-on, cualquier contenido de cliente que se almacene en caché temporalmente en Office para la web estará ubicado en los Estados Unidos.
   
 [Cómo usar esta sección de Descripción del servicio](office-365-us-government.md#how-to-use-this-service-description-section)
   
@@ -158,7 +158,7 @@ Cada plan de Office 365 incluye varios servicios individuales, como Exchange Onl
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Servicios de Office 365** <br/> |**Office 365 US Government G1** <br/> |**Office 365 US Government G3** <br/> |**Office 365 US Government G5** <br/> |**Office 365 US Government, F1** <br/> |
-|Office Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Office para la web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Office 365 ProPlus  <br/> |No <br/> |Sí <br/> |Sí <br/> |No  <br/> |
 |Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección de Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -304,7 +304,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 <br/><sup>4</sup> si se usa la sincronización de contraseñas, los usuarios deben cambiar sus contraseñas en Active Directory local. 
 <br/><sup>5</sup> para aprender a establecer directivas de administración de contraseñas de autoservicio para los usuarios, consulte [Administrar contraseñas en Azure ad](https://azure.microsoft.com/en-us/documentation/articles/active-directory-manage-passwords/). <br/><sup>6</sup> solo puede tener un sitio web público con Office 365, a menos que haya actualizado desde una versión anterior de Office 365. En ese caso, tiene dos sitios web públicos, pero solo se puede hospedar uno de ellos con un nombre de dominio personalizado. Para obtener más información sobre cómo trabajar con los dos sitios web de suscripciones empresariales, vea [trabajar con los dos sitios web públicos de Office 365](https://go.microsoft.com/fwlink/p/?LinkID=271589). Si tiene una suscripción diferente, obtenga más información sobre los sitios web públicos en [información sobre hospedaje de sitios web de asociados y sitios web públicos en Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009). 
 <br/><sup>7</sup> reducir los puestos que se compraron con un descuento de términos puede estar sujeto a una cuota de finalización anticipada. Esto no se aplica a las suscripciones pagadas con carácter mensual. 
-<br/><sup>8</sup> los siguientes planes no admiten cambios de licencia por puesto desde el centro de administración de Microsoft 365: > Office 365 US Government G1 > Office 365 US Government G3 > Office 365 US Government K1 <br/><sup>9</sup> todavía no está disponible en gcc High, pero lo estará próximamente.
+<br/><sup>8</sup> los siguientes planes no admiten cambios de licencia por puesto desde el centro de administración de Microsoft 365: > Office 365 US government G1 > Office 365 US government G3 > Office 365 US Government K1 <br/><sup>9</sup> todavía no está disponible en gcc High, pero lo estará próximamente.
 <br/><sup>10</sup> para Office 365 US Government G1, G3 y F1, se aplica la versión dirigida y el plan de desarrollo de Office 365 para empresas; sin embargo, puede haber algunas diferencias o retrasos para actualizaciones de servicio específicas debido a [los requisitos de cumplimiento](https://products.office.com/en-us/business/office-365-trust-center-cloud-computing-security?legRedir=true&amp;CorrelationId=eeaccba9-85ea-4fa8-9c84-3fb4c9e1547b&amp;tab=7a3a6365-14c0-81ac-34ff-f4a416599263).
 <br/><sup>11</sup> todavía no está disponible en las ofertas de Office 365 US Government, pero lo estará próximamente. ><br/><sup>12</sup> no se incluye, pero puede adquirirse como un complemento independiente en gcc. 
 <br/><sup>13</sup> no es compatible con las ofertas de Office 365 US Government. 

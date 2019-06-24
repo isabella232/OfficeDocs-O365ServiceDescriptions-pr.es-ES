@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
-description: Visio Online amplía su experiencia de Microsoft Visio al explorador Web, donde puede trabajar con diagramas directamente en el sitio web donde se almacena el diagrama. Los clientes de Microsoft Office 365 con Office online pueden ver y compartir diagramas e insertar comentarios en el viaje.
-ms.openlocfilehash: 8e76db1eaa8184db6400efb2768c67cd5d87c2ca
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+description: Visio Online amplía su experiencia de Microsoft Visio al explorador Web, donde puede trabajar con diagramas directamente en el sitio web donde se almacena el diagrama. Los clientes de Microsoft Office 365 con Office para la web pueden ver y compartir diagramas e insertar comentarios en el viaje.
+ms.openlocfilehash: fab0748238a7c5abdea13864e694d25c8c80bf31
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342349"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130984"
 ---
 # <a name="visio-online"></a>Visio Online
 
-Visio Online amplía su experiencia de Microsoft Visio al explorador Web, donde puede trabajar con diagramas directamente en el sitio web donde se almacena el diagrama. Los clientes de Microsoft Office 365 con Office online pueden ver y compartir diagramas e insertar comentarios en el viaje.
+Visio Online amplía su experiencia de Microsoft Visio al explorador Web, donde puede trabajar con diagramas directamente en el sitio web donde se almacena el diagrama. Los clientes de Microsoft Office 365 con Office para la web pueden ver y compartir diagramas e insertar comentarios en el viaje.
   
 ## <a name="apply-rich-formatting-to-text-and-shapes"></a>Aplicar formato enriquecido a texto y formas
 <a name="BM_1"> </a>
@@ -88,7 +88,7 @@ Los complementos de Office no están disponibles en Visio online.
 ## <a name="offline-viewing"></a>Visualización sin conexión
 <a name="BM_13"> </a>
 
-No disponible en Visio online. Office Online necesita una conexión a Internet y el explorador correspondiente. Necesita la aplicación de escritorio de Visio instalada en el equipo para ver y editar un diagrama mientras está desconectado de Internet o del servidor de Office Web Apps local de su organización. Si tiene instalada la aplicación de escritorio de Visio, puede usar todas las funciones de Visio para ver y editar el diagrama. Al guardar, se actualiza el diagrama en línea con los cambios. También puede descargar y guardar una copia sin conexión del diagrama, pero no estará sincronizada con la versión en línea. Obtenga más información sobre [Office Online Server](https://technet.microsoft.com/library/ff431685.aspx).
+No disponible en Visio online. Office para la web requiere una conexión a Internet y un explorador de Internet. Necesita la aplicación de escritorio de Visio instalada en el equipo para ver y editar un diagrama mientras está desconectado de Internet o del servidor de Office Web Apps local de su organización. Si tiene instalada la aplicación de escritorio de Visio, puede usar todas las funciones de Visio para ver y editar el diagrama. Al guardar, se actualiza el diagrama en línea con los cambios. También puede descargar y guardar una copia sin conexión del diagrama, pero no estará sincronizada con la versión en línea. Obtenga más información sobre [Office Online Server](https://technet.microsoft.com/library/ff431685.aspx).
   
 ## <a name="print-to-pdf"></a>Print to PDF
 <a name="BM_14"> </a>

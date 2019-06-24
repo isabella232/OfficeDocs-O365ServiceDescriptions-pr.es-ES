@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: d5e81d50-2b0f-40df-bf05-09149c9eabab
 description: Microsoft SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Creado en Microsoft SharePoint Server 2013, este servicio alojado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central, y compartir información con otros individuos. Las siguientes características de sitios proporcionan un conjunto completo de herramientas que su organización puede usar para crear cualquier tipo de sitio, además de una sola infraestructura que simplifica la administración de los sitios. Para obtener información más detallada, consulte Encontrar el contenido sobre SharePoint Online.
-ms.openlocfilehash: 752213c8b17cfefdbcbecbf661f2545ba298afb7
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: a3d4ac4bab7755f1e01c942e18318a6f9bfd8266
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342489"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130874"
 ---
 # <a name="sites"></a>Sitios
 
@@ -104,7 +104,7 @@ Las listas de tareas se usan para administrar el trabajo de forma jerárquica, c
 ## <a name="team-notebook"></a>Bloc de notas de equipo
 <a name="bkmk_TeamSiteNotebook"> </a>
 
-Cuando crea un sitio de grupo, un bloc de notas OneNote 2013 compartido se crea automáticamente como parte del sitio. Puede utilizar este bloc de notas para capturar, compilar y compartir información. (Esta característica sólo está disponible si ha iniciado sesión con un conjunto de Office 365 con compatibilidad con Office Online.)
+Cuando crea un sitio de grupo, un bloc de notas OneNote 2013 compartido se crea automáticamente como parte del sitio. Puede utilizar este bloc de notas para capturar, compilar y compartir información. (Esta característica solo está disponible si se ha registrado con un conjunto de aplicaciones de Office 365 que incluye soporte técnico de Office para la web).
   
 ## <a name="variations"></a>Variaciones
 <a name="bkmk_Variations"> </a>

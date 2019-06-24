@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Obtenga información sobre el espacio de almacenamiento de OneDrive que se proporciona en cada plan de suscripción.
-ms.openlocfilehash: 9280f791446560185aaf500dc7bed6ef24568728
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 9dfb0911bfeba72960a09a4eb49d194c7b77d644
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343809"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131254"
 ---
 # <a name="onedrive-for-business-service-description"></a>Descripción del servicio de OneDrive para la Empresa
 
@@ -30,7 +30,7 @@ OneDrive se incluye en los planes de Microsoft 365 y Office 365, en los planes d
 Para comparar planes, vea [Comparar planes de Office 365 para empresas](https://go.microsoft.com/fwlink/?linkid=799177) y [Comparar planes de OneDrive para la Empresa](https://products.office.com/es-ES/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
-> OneDrive para la Empresa planes individuales incluyen Office Online. 
+> OneDrive para la Empresa planes individuales incluyen Office para la web. 
   
 ## <a name="system-requirements"></a>Requisitos del sistema
 

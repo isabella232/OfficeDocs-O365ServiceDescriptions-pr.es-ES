@@ -16,12 +16,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización.
-ms.openlocfilehash: 9e36f9ac8145590e35dbbf543fff0f628eb004ec
-ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
+ms.openlocfilehash: 6aacf27114876564707f44ee310ae3bc3d9b1fb3
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35018282"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131264"
 ---
 # <a name="office-365-plan-options"></a>Opciones de planes de Office 365
 
@@ -56,7 +56,7 @@ Cada plan de Office 365 incluye varios servicios individuales, como Exchange Onl
 |SharePoint Online  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |OneDrive para la Empresa  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>5</sup> <br/> |
 |Skype empresarial online <sup>15</sup> <br/> |Sí<sup>10</sup> <br/> |No  <br/> |Sí<sup>10</sup> <br/> |Sí<sup>10</sup> <br/> |Sí<sup>11</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>14</sup> <br/> |
-|Office Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Office para la web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Aplicaciones de Office  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Project Online  <br/> |No<sup>1</sup> <br/> |No  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
 |Power BI  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |

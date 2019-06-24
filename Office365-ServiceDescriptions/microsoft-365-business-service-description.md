@@ -3,7 +3,6 @@ title: Descripción del servicio de Microsoft 365 Empresa
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/05/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business es una solución integrada que reúne la mejor productividad en su clase de Office 365 con funciones avanzadas de seguridad y administración de dispositivos para ayudarle a proteger su empresa. . Esta descripción de servicio describe las opciones y características del plan. Para obtener más información acerca de Office 365, consulte las descripciones de servicio de Office 365.
-ms.openlocfilehash: 87a7509ce85bd6e0f0418034d195f1af590176ca
-ms.sourcegitcommit: 02cceb48c46295b2c75835b872a5bda17ba1a424
+ms.openlocfilehash: b85429eb84fe6a02ffe979ef89744df874b64d03
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/06/2019
-ms.locfileid: "34742109"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35130974"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descripción del servicio de Microsoft 365 Empresa
 
@@ -36,7 +35,7 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
 |SharePoint Online  <br/> |Sí  <br/> |Sí  <br/> |
 |OneDrive para la Empresa  <br/> |Sí  <br/> |Sí  <br/> |
 |Skype Empresarial Online  <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |
-|Office Online  <br/> |Sí  <br/> |Sí  <br/> |
+|Office para la web  <br/> |Sí  <br/> |Sí  <br/> |
 |Aplicaciones de Office  <br/> |Sí  <br/> |Sí  <br/> |
 |Project Online  <br/> |No<sup>3</sup> <br/> |No<sup>3</sup> <br/> |
 |Power BI  <br/> |No  <br/> |No  <br/> |
@@ -118,7 +117,7 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
    
 |||||
 |:-----|:-----|:-----|:-----|
-|**Características de administración de identidades y acceso** <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E5** <br/> |
+|**Características de administración de identidades y acceso** <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure multi-factor Authentication (MFA)  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Unidades administrativas  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Detección de aplicaciones en la nube  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
@@ -126,14 +125,13 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
 |Restablecimiento de contraseñas de autoservicio para identidades de nube  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Restablecimiento de contraseñas de autoservicio con anuncio local de AD write-back  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Sincronización bidireccional de objetos de dispositivo entre directorios locales y Azure AD (dispositivo de escritura no converso)  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|Acceso condicional (en función del grupo, la ubicación, el estado del dispositivo, el inicio de sesión o el riesgo del usuario)  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|Acceso condicional (en función del grupo, la ubicación o el estado del dispositivo)  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Personalización de marca de la compañía (páginas de inicio de sesión/personalización del panel de acceso  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Proxy de aplicación  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |LICENCIA de usuario de Microsoft Identity Manager (MIM)  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Conexión del estado  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |SLA 99,9%  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Advanced Threat Analytics  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|Acceso condicional  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |**Características de administración de dispositivos y aplicaciones** <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Administración de dispositivos móviles (MDM)<sup>15</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Inscripción automática de la administración de dispositivos móviles (MDM)  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |

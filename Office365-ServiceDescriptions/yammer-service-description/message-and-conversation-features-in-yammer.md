@@ -13,12 +13,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: A continuación se describen las características de conversación y mensajería disponibles en Yammer.
-ms.openlocfilehash: cb3ae35b113fff2906c5aea8fc3cea7c73d8a08f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 78a89c44d6b6a29fad42656ec87311b7887ecf04
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342199"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131004"
 ---
 # <a name="message-and-conversation-features-in-yammer"></a>Características de conversación y mensajería de Yammer
 
@@ -49,10 +49,10 @@ Inicie un diálogo privado con uno o varios compañeros. Puede agregar más part
 
 Comparta conversaciones en el suministro de otro grupo o mediante mensaje privado para reenviar información y mensajes importantes.
   
-## <a name="office-online-support"></a>Office Online support
+## <a name="office-for-the-web-support"></a>Soporte técnico de Office para la web
 <a name="bkmk_ShareConversations"> </a>
 
-Con el soporte técnico de Office Online en Yammer, los documentos cargados a Yammer se pueden ver y editar con Office Online, directamente en Yammer. De esta manera, es posible mostrar documentos de forma prolija con Office Online, habilitar la coautoría por diferentes usuarios simultáneamente y mostrar las conversaciones relevantes de Yammer, directamente en el explorador.
+Con Office para la compatibilidad con la web en Yammer, los documentos cargados en Yammer se pueden ver y editar con Office para la web, directamente en Yammer. Esto permite que los documentos se muestren perfectamente con Office para la web, permite la co-autoría en diferentes usuarios a la vez y muestra conversaciones de Yammer relevantes, directamente en el explorador.
   
 ## <a name="events"></a>Eventos
 <a name="bkmk_Events"> </a>

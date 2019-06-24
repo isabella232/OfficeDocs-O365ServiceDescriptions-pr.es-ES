@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio de Office Online
+title: Descripción de Office para el servicio Web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,37 +11,37 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office Online (anteriormente Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office Online facilita el trabajo y el uso compartido de archivos de Office en cualquier lugar con una conexión a Internet, desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina.
-ms.openlocfilehash: 0065dddd87d366692ab4e7727653017e2636a786
-ms.sourcegitcommit: af6f6ee0a74831a5af784612c7a4316658a53e28
+description: Office para la web (anteriormente, Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office para la web hace que sea más fácil trabajar y compartir archivos de Office desde cualquier lugar con una conexión a Internet desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina.
+ms.openlocfilehash: 014e0544fb6095e9ddfa0009fe94759ffd09da60
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/18/2019
-ms.locfileid: "35018312"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131244"
 ---
-# <a name="office-online-service-description"></a>Descripción del servicio de Office Online
+# <a name="office-for-the-web-service-description"></a>Descripción de Office para el servicio Web
 
-Office Online (anteriormente Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office Online facilita el trabajo y el uso compartido de archivos de Office en cualquier lugar con una conexión a Internet, desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina. 
+Office para la web (anteriormente, Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office para la web hace que sea más fácil trabajar y compartir archivos de Office desde cualquier lugar con una conexión a Internet desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina. 
   
 Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-## <a name="feature-availability-across-office-online-plans"></a>Disponibilidad de características en los planes de Office Online
+## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilidad de características en Office para los planes Web
 <a name="bkmk_FeatureavailabilityO365"> </a>
 
-¿Necesita ayuda para saber qué solución de Office se adapta mejor a su organización? En las tablas siguientes se comparan las capacidades de las características de Office online para las aplicaciones de escritorio de Microsoft Office con características enriquecidas. Use las tablas para descubrir qué características están disponibles en Office Online y, a continuación, haga clic en el nombre de la característica para leer una breve descripción de cómo funciona la característica. Es posible que algunas personas de la organización necesiten la funcionalidad de gráficos avanzada de la aplicación de escritorio de Excel mientras que otras solo tienen que ver y editar ligeramente documentos de Word y presentaciones de PowerPoint con Office online. 
+¿Necesita ayuda para saber qué solución de Office se adapta mejor a su organización? En las tablas siguientes se comparan Office para las características de la característica Web de las aplicaciones de escritorio de Microsoft Office con características enriquecidas. Use las tablas para descubrir qué características están disponibles en Office para la web y, a continuación, haga clic en el nombre de la característica para leer una breve descripción de cómo funciona la característica. Es posible que algunas personas de la organización necesiten la funcionalidad de gráficos avanzada de la aplicación de escritorio de Excel mientras que otras solo necesitan ver y editar documentos de Word y presentaciones de PowerPoint con Office para la Web. 
   
 > [!NOTE]
->  Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de las características de Microsoft Office. <br/>  Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. <br/>  Los clientes locales de Microsoft Office Online Server obtienen una licencia de edición de Office Online si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Office 365 ProPlus). 
+>  Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de las características de Microsoft Office. <br/>  Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. <br/>  Los clientes locales de Microsoft Office Online Server obtienen una licencia de edición web de Office si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Office 365 ProPlus). 
   
 > [!NOTE]
-> Cuando abre un documento de Office, ya sea un adjunto de correo electrónico de Outlook o desde una biblioteca de documentos de SharePoint, el documento se iniciará en Office Online y será de solo lectura. Para editar un documento en Office Online (modo de edición), necesita una licencia del conjunto de Office 365, como Office 365 Enterprise E1. Para editar un documento en la aplicación de escritorio, deberá contar con una licencia del conjunto de escritorio de Office, como una suscripción de Office 365 ProPlus o una versión instalada de Office Professional Plus 2010. 
+> Al abrir un documento de Office, ya sea como datos adjuntos de correo electrónico de Outlook o desde una biblioteca de documentos de SharePoint, el documento se iniciará en Office para la web y será de solo lectura. Para editar un documento en Office para la web (modo de edición), necesita una licencia de Office 365 Suite, como Office 365 Enterprise E1. Para editar un documento en la aplicación de escritorio, deberá contar con una licencia del conjunto de escritorio de Office, como una suscripción de Office 365 ProPlus o una versión instalada de Office Professional Plus 2010. 
   
 ### <a name="word"></a>Word
 <a name="BKMK_WordFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
-|**Características de aplicaciones** <br/> |**Word Online** <br/> |**Aplicación de escritorio de Word** <br/> |
+|**Características de aplicaciones** <br/> |**Word para la web** <br/> |**Aplicación de escritorio de Word** <br/> |
 |[Guías de alineación y distribución dinámica](word-online.md#alignment-guides-and-live-layout) <br/> |No  <br/> |Sí  <br/> |
 |[Aplicación de estilos](word-online.md#apply-styles) <br/> |Sí  <br/> |Sí  <br/> |
 |[Autoguardar](word-online.md#autosave) <br/> |Sí  <br/> |Sí  <br/> |
@@ -110,7 +110,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Zoom](word-online.md#zoom) <br/> |Sí  <br/> |Sí  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> estos se representan en el visor, pero no se pueden crear ni editar en Office online. <br/>
+> <sup>1</sup> estos se representan en el visor, pero no se pueden crear ni editar en Office para la Web. <br/>
 > <sup>2</sup> algunos complementos de Office están disponibles, pero no todos. <br/>
   
 ### <a name="excel"></a>Excel
@@ -118,7 +118,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 
 ||||
 |:-----|:-----|:-----|
-|**Características de aplicaciones** <br/> |**Excel Online** <br/> |**Aplicación de escritorio de Excel** <br/> |
+|**Características de aplicaciones** <br/> |**Excel para la web** <br/> |**Aplicación de escritorio de Excel** <br/> |
 |[Comprobador de accesibilidad](excel-online.md#add-hyperlinks) <br/> |Sí  <br/> |Sí  <br/> |
 |[Agregar color de fondo a las pestañas de hoja](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Sí  <br/> |Sí  <br/> |
 |[Agregar hipervínculos](excel-online.md#add-hyperlinks) <br/> |Sí  <br/> |Sí  <br/> |
@@ -194,9 +194,9 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 
 > [!NOTE] 
 > <sup>1</sup> no se pueden crear gráficos dinámicos, solo vista.
- <br/><sup>2</sup> según cómo esté configurado el entorno, algunos tipos de conexiones de datos se admiten para los libros que se muestran en Excel online. Para obtener más información, consulte Actualización de datos en un libro en la ventana de un explorador. 
- <br/><sup>3</sup> no puede crear macros con VBA en Excel online, pero puede abrir y editar hojas de cálculo habilitadas para VBA sin tener que quitar (o dañar) el VBA contenido en el archivo.
- <br/><sup>4</sup> en Excel online, el último valor de referencia conocido se muestra en la ventana del explorador; sin embargo, debe actualizarse con la aplicación de escritorio de Excel. 
+ <br/><sup>2</sup> dependiendo de cómo esté configurado el entorno, algunos tipos de conexiones de datos se admiten para los libros que se muestran en Excel para la Web. Para obtener más información, consulte Actualización de datos en un libro en la ventana de un explorador. 
+ <br/><sup>3</sup> no puede crear macros con VBA en Excel para la web, pero puede abrir y editar hojas de cálculo habilitadas para VBA sin necesidad de quitar (o dañar) el archivo VBA contenido en el archivo.
+ <br/><sup>4</sup> en Excel para la web, el último valor de referencia conocido se muestra en la ventana del explorador; sin embargo, debe actualizarse con la aplicación de escritorio de Excel. 
  <br/><sup>5</sup> Algunos complementos de Office están disponibles, pero no todos. 
   
 ### <a name="onenote"></a>OneNote
@@ -204,7 +204,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 
 ||||
 |:-----|:-----|:-----|
-|**Características de aplicaciones** <br/> |**OneNote Online** <br/> |**Aplicación de escritorio de OneNote** <br/> |
+|**Características de aplicaciones** <br/> |**OneNote para la web** <br/> |**Aplicación de escritorio de OneNote** <br/> |
 |[Colaboración avanzada: el contenido nuevo se muestra como no leído, presencia](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |No  <br/> |Sí  <br/> |
 |[Aplicar etiquetas](onenote-online.md#apply-tags) <br/> |Sí  <br/> |Sí  <br/> |
 |[Viñetas y numeración](onenote-online.md#bullets-and-numbering) <br/> |Sí  <br/> |Sí  <br/> |
@@ -244,7 +244,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Ver versiones de página anteriores](onenote-online.md#view-previous-page-versions) <br/> |Sí  <br/> |Sí  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> en OneNote online, puede mover secciones dentro de un bloc de notas y copiar y pegar páginas de una sección a otra. 
+> <sup>1</sup> en OneNote para la web, puede mover secciones dentro de un bloc de notas y copiar y pegar páginas de una sección a otra. 
  <br/> <sup>2</sup> algunos complementos de Office están disponibles, pero no todos. 
  <br/><sup>3</sup> puede buscar en una página o sección, pero no en todo el Bloc de notas o en varios blocs de notas (como puede hacerlo en la versión de escritorio). 
  <br/><sup>4</sup> en la versión de escritorio no hay una opción de "descarga", pero puede "guardar como" en otra ubicación. 
@@ -254,7 +254,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 
 ||||
 |:-----|:-----|:-----|
-|**Características de aplicaciones** <br/> |**PowerPoint Online** <br/> |**Aplicación de escritorio de PowerPoint** <br/> |
+|**Características de aplicaciones** <br/> |**PowerPoint para la web** <br/> |**Aplicación de escritorio de PowerPoint** <br/> |
 |[Alineación, viñetas, números](powerpoint-online.md#alignment-bullets-numbers) <br/> |Sí  <br/> |Sí  <br/> |
 |[Aplicar animaciones y transiciones básicas](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Sí<sup>1</sup> <br/> |Sí  <br/> |
 |[Aplicar formato enriquecido a textos, formas e imágenes](powerpoint-online.md#apply-rich-formatting-to-text-shapes-and-pictures) <br/> |No  <br/> |Sí  <br/> |
@@ -300,13 +300,13 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Visualización WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Sí  <br/> |Sí  <br/> |
 
 > [!NOTE]   
-><sup>1</sup> PowerPoint online admite una galería de ocho transiciones y 37 animaciones. Para obtener una selección más grande o para crear animaciones personalizadas, use la aplicación de escritorio de PowerPoint. 
+><sup>1</sup> PowerPoint para la Web admite una galería de ocho transiciones y 37 animaciones. Para obtener una selección más grande o para crear animaciones personalizadas, use la aplicación de escritorio de PowerPoint. 
  <br/>
 <sup>2</sup> el dispositivo con el que trabaja debe admitir la entrada de lápiz. <br/> 
 <sup>3</sup> algunos complementos de Office están disponibles, pero no todos. <br/>
 <sup>4</sup> no puede crear gráficos dinámicos ni tablas dinámicas, pero puede verlos en el visor. 
   
-## <a name="supported-file-types-for-office-online"></a>Tipos de archivo admitidos para Office Online
+## <a name="supported-file-types-for-office-for-the-web"></a>Tipos de archivo admitidos para Office para la web
 <a name="bkmk_SupportedFileTypes"> </a>
 
 ||||

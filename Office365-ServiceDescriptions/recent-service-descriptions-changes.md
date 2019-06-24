@@ -12,12 +12,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: En las tablas siguientes se enumeran los cambios que se han realizado recientemente en el contenido de las descripciones de servicio.
-ms.openlocfilehash: 00e3b45fe9d0f71d224679813ceb621c474662d0
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 8840159713f3563d55f3f894b71a1bf56c22fee6
+ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343599"
+ms.lasthandoff: 06/21/2019
+ms.locfileid: "35131304"
 ---
 # <a name="recent-service-descriptions-changes"></a>Cambios recientes de descripciones de servicio
 
@@ -53,7 +53,7 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 ||[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se agregó Microsoft 365 Business.  <br/> |
 ||[Centro de seguridad &amp; y cumplimiento de Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se ha cambiado la entrada del límite de archivado a "sí" para Office 365 empresa Essentials y Office 365 empresa Premium.  <br/> |
 ||[Centro de seguridad &amp; y cumplimiento de Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |"Administración de seguridad avanzada" cambiada a "Office 365 Cloud App Security".  <br/> |
-|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Se ha cambiado la primera nota del tema a "los libros que superan los 30 megabytes (MB) no se pueden ver en Excel online desde Microsoft SharePoint Online". Anteriormente, la nota decía 10 MB.  <br/> |
+|Office para la web  <br/> |[Excel para la web](office-online-service-description/excel-online.md) <br/> |Se ha cambiado la primera nota del tema "los libros que superan los 30 megabytes (MB) no se pueden ver en Excel para web desde Microsoft SharePoint Online". Anteriormente, la nota decía 10 MB.  <br/> |
 |OneDrive para la Empresa  <br/> |[Descripción del servicio de OneDrive para la Empresa](onedrive-for-business-service-description.md) <br/> |Actualización principal de la descripción del servicio de OneDrive para la empresa.  <br/> |
    
 ## <a name="march-2018"></a>Marzo de 2018
@@ -63,7 +63,7 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
 |Exchange Online  <br/> |[Descripción del servicio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Actualizaciones para el cifrado de datos en reposo en el centro de datos y el cifrado de mensajes 365 de Office (OME).  <br/> |
 ||[Regulación de mensajes y cumplimiento normativo](exchange-online-service-description/message-policy-and-compliance.md) <br/> |Actualizaciones para el cifrado de datos en reposo en el centro de datos y el cifrado de mensajes 365 de Office (OME).  <br/> |
-|Office Online  <br/> |[Excel Online](office-online-service-description/excel-online.md) <br/> |Actualización para inmovilizar paneles compatibles con Excel online.  <br/> |
+|Office para la web  <br/> |[Excel para la web](office-online-service-description/excel-online.md) <br/> |Actualización para inmovilizar paneles admitidos en Excel para la Web.  <br/> |
 |SharePoint Online  <br/> |[Descripción del servicio SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Varias actualizaciones y reestructuración.  <br/> |
 ||[Límites de SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Varias actualizaciones.  <br/> |
 |Yammer  <br/> |[Características de administración y seguridad de Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |Se quitaron las notas y las claves de secuencia de actividad.  <br/> |
@@ -182,11 +182,11 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 ||[Office 365 operado por 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Information Rights Management (IRM) actualizado mediante Windows Server AD RMS.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Se agregó la fila "crear contraseñas de aplicación" en "administración de cuentas de usuario".  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Se agregó el puntero &amp; a la descripción de la característica centro de cumplimiento de seguridad. (El &amp; centro de seguridad y cumplimiento está disponible para Office 365 Germany).  <br/> |
-|Office Online  <br/> |[Descripción del servicio de Office Online](office-online-service-description/office-online-service-description.md) <br/> |Se ha agregado Visio.  <br/> |
+|Office para la web  <br/> |[Descripción de Office para el servicio Web](office-online-service-description/office-online-service-description.md) <br/> |Se ha agregado Visio.  <br/> |
 |Exchange Online  <br/> |[Descripción del servicio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Se han cambiado "etiquetas de retención y directivas de retención" a "etiquetas de retención y directivas de retención de administración de registros de mensajería (MRM)".  <br/> |
 ||[Servicios de mensajes de voz](exchange-online-service-description/voice-message-services.md) <br/> |Se actualizó para incluir un anuncio de final de vida para la mensajería unificada de Exchange Online a través de SBC.  <br/> |
 | Workplace Analytics  <br/> |[Descripción del servicio Workplace Analytics](workplace-analytics-service-description.md) <br/> |Se agregó la nueva descripción del servicio  <br/> |
 |Múltiple  <br/> |Múltiple  <br/> |Azure RMS cambió el nombre a Azure Information Protection (AIP).  <br/> |
-|Múltiple  <br/> |Múltiple  <br/> |Se quitaron los detalles de comparación de Office Online y de escritorio de Office de las páginas de Office 365 Alemania y Office 365 operado por 21Vianet. Se agregó el puntero al mismo contenido en la página de Descripción del servicio de Office online.  <br/> |
+|Múltiple  <br/> |Múltiple  <br/> |Se ha quitado Office para la web y Office escritorio la comparación de los detalles de las páginas de Office 365 Alemania y Office 365 operado por 21Vianet. Se agregó el puntero al mismo contenido en Office para la página de Descripción del servicio Web.  <br/> |
    
 
