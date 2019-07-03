@@ -1,8 +1,7 @@
 
   
 
-# [Descripciones de servicio de Office 365 ](office-365-service-descriptions-technet-library.md)
-## [Descripción del servicio de Microsoft 365 Empresa](microsoft-365-business-service-description.md)
+# [Descripciones del servicio de Office 365](office-365-service-descriptions-technet-library.md)
 ## [Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Opciones de planes de Office 365](office-365-platform-service-description/office-365-plan-options.md)
 ### [Requisitos del sistema para Office 365](office-365-platform-service-description/office-365-system-requirements.md)
@@ -107,5 +106,8 @@
 ### [Características de plataforma de Yammer](yammer-service-description/yammer-platform-features.md)
 ### [Características de administración y seguridad de Yammer](yammer-service-description/administration-and-security-features-in-yammer.md)
 ### [Características de soporte técnico de Yammer](yammer-service-description/support-features-in-yammer.md)
+## Descripciones del servicio de Microsoft 365
+### [Descripción del servicio de Microsoft 365 Empresa](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Instrucciones de licencias de Microsoft 365 de el nivel de inquilino](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
 ## [Descripción del servicio Microsoft Dynamics 365 (Online)](microsoft-dynamics-365-online-service-description.md)
 
