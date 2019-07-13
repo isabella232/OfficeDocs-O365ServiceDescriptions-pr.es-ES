@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro de seguridad &amp; y cumplimiento de Office 365 está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 96b9e2c9528f0ea5052ec73fa4f514f2eb767b21
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 39bea7c658b82dfef7735f56af94c5f3676bb7e9
+ms.sourcegitcommit: 4c97cb3bd8254b0b4b681f16b0396b6db64c9010
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780649"
+ms.lasthandoff: 07/13/2019
+ms.locfileid: "35645145"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -35,7 +35,8 @@ El [centro de seguridad &amp; y cumplimiento de Office 365](https://docs.microso
 |[Administración avanzada de amenazas](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) , como caja de caja de clientes y explorador de amenazas para las campañas de suplantación de identidad <sup>6</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Administración de dispositivos móviles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la empresa](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <sup>7</sup><br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|[Prevención de pérdida de datos para conversaciones de canales y chat de Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/>|
+|[Prevención de pérdida de datos para mensajes de chat y canales de Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/>|
+|[Barreras de la información](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/>|
 |[Gobierno de datos](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Gobierno de datos avanzado](https://docs.microsoft.com/office365/securitycompliance/labels) <sup>2</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Búsqueda e investigación](https://docs.microsoft.com/office365/securitycompliance/datainvestigations/search-for-data) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -64,7 +65,9 @@ límite de <sup>3</sup> 50 GB. <br/>
 |[Administración de amenazas](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) , como filtrado de correo y antimalware  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Administración avanzada de amenazas](https://docs.microsoft.com/office365/securitycompliance/office-365-ti) , como caja de caja de clientes y explorador de amenazas para campañas de suplantación de identidad  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Administración de dispositivos móviles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Prevención de pérdida de datos](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí<sup>7<sup> <br/> |No  <br/> |Sí  <br/> |
+|[Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la empresa](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí<sup>7<sup> <br/> |No  <br/> |Sí  <br/> |
+|[Prevención de pérdida de datos para mensajes de chat y canales de Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|[Barreras de la información](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Gobierno de datos](https://docs.microsoft.com/office365/securitycompliance/retention-policies) <sup>1</sup> <br/> |Sí<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Gobierno de datos avanzado](https://docs.microsoft.com/office365/securitycompliance/labels) <sup>3</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Búsqueda e investigación](https://docs.microsoft.com/office365/securitycompliance/datainvestigations/search-for-data) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
