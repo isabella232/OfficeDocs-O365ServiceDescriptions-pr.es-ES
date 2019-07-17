@@ -3,7 +3,6 @@ title: Office 365 operado por 21Vianet
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 06/04/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 ofrecido por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: 02ac59da3fc447cd123335cdc87aec78736b02d1
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 3b3a7f925d4d2740d0f7ce8d3643f400c5dc506a
+ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131324"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35753849"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -358,13 +357,13 @@ La versión de Office 365 operado por 21Vianet de Office 365 es específica de C
 |Alertas de capacidad  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Otros correos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |MailTips  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>12</sup> <br/> |Sí<sup>12</sup> <br/> |Sí<sup>12</sup> <br/> |Sí<sup>12</sup> <br/> |
-|Acceso delegado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Acceso delegado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Reglas de la Bandeja de entrada  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Cuentas conectadas  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |
 |Buzones de correo inactivos  <br/> |No<sup>6</sup> <br/> |--  <br/> |No<sup>6</sup> <br/> |Sí  <br/> |No<sup>6</sup> <br/> |Sí  <br/> |No<sup>6</sup> <br/> |
 |Libreta de direcciones sin conexión  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Directivas de la libreta de direcciones  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Libreta de direcciones jerárquica  <br/> |Sí  <br/> |--  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Libreta de direcciones jerárquica  <br/> |Sí  <br/> |--  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Listas de direcciones y lista global de direcciones  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>14</sup> <br/> |Sí<sup>14</sup> <br/> |Sí<sup>14</sup> <br/> |Sí<sup>14</sup> <br/> |
 |Grupos de Office 365  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Grupos de distribución  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
