@@ -3,7 +3,6 @@ title: Complementos
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
 description: Microsoft SharePoint es un conjunto de herramientas y tecnologías basadas en web que permiten almacenar, compartir y administrar información digital en la organización. Integrado en Microsoft SharePoint Server 2013, este servicio hospedado resulta ideal para trabajar con proyectos, almacenar datos y documentos en una ubicación central y compartir información con otros usuarios. Los clientes de Office 365 también pueden adquirir complementos adicionales relacionados con SharePoint Online.
-ms.openlocfilehash: 6eddaa64b0d5c3406bee6cfd2bc57d693330543d
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 153e337bde2f5be6c7d69548e2f4812c0a134bc3
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34343569"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777591"
 ---
 # <a name="add-ons"></a>Complementos
 

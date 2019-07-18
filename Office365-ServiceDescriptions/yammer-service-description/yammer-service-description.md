@@ -3,7 +3,6 @@ title: Descripción del servicio Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer es la mejor red social de su clase, segura y privada empresarial. Yammer faculta a los empleados para que sean más productivos y exitosos, ya que les permite colaborar fácilmente, tomar decisiones con mayor rapidez y organizarse a sí mismos en Teams para realizar cualquier desafío de la empresa. Se trata de una nueva forma de trabajar que lógicamente impulsa la alineación y la agilidad de los negocios, reduce los tiempos de ciclo, implica a los empleados y mejora las relaciones con clientes y socios.
-ms.openlocfilehash: 77af72cece5df58ac7cd21a6c7451a43b929e4f8
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 4140f3cb779c6b444dfff9626f8fadb1686e2ddd
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342099"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777891"
 ---
 # <a name="yammer-service-description"></a>Descripción del servicio Yammer
 

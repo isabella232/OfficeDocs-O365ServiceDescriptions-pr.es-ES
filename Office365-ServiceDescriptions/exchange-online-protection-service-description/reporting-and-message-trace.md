@@ -3,7 +3,6 @@ title: Creación de informes y seguimiento de mensajes
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) ofrece muchos informes distintos que le permitirán averiguar el estado general y el mantenimiento de la organización. Algunos informes están disponibles en el centro de administración de Microsoft 365, mientras que otros están disponibles en el centro de administración de Exchange (EAC).
-ms.openlocfilehash: 5b836794a430bff7d28814c917e9cfbd14304a2f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: ec06c0dea22fc45f2cee507e9022b9babbd809e3
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341929"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776651"
 ---
 # <a name="reporting-and-message-trace"></a>Creación de informes y seguimiento de mensajes
 

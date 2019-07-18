@@ -3,7 +3,6 @@ title: Cambios recientes de descripciones de servicio
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/26/2018
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -12,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: En las tablas siguientes se enumeran los cambios que se han realizado recientemente en el contenido de las descripciones de servicio.
-ms.openlocfilehash: 8840159713f3563d55f3f894b71a1bf56c22fee6
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 0a4d4e6f8b44320bc78a4309ff93c2e101b98c06
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131304"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777531"
 ---
 # <a name="recent-service-descriptions-changes"></a>Cambios recientes de descripciones de servicio
 

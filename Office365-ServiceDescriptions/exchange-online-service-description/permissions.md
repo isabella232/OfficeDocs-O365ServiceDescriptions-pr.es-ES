@@ -3,7 +3,6 @@ title: Permisos
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online utiliza el modelo Control de acceso basado en funciones (RBAC) para permitir a los administradores de la organización controlar con precisión lo que pueden hacer los usuarios y los empleados de TI en el servicio. Por ejemplo, si un responsable de cumplimiento debe controlar las solicitudes de búsqueda del buzón, el administrador puede delegar su función administrativa al responsable mediante RBAC. Exchange Online utiliza el mismo marco RBAC que Microsoft Exchange Server 2013.
-ms.openlocfilehash: 03153cfaeaa280eedbb4ab0e16a5cabe3fb1aa9f
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 49d388e08b606fab5df0fc23435aef37d1029050
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342829"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776851"
 ---
 # <a name="permissions"></a>Permisos
 

@@ -3,7 +3,6 @@ title: Office 365 Educación
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 'Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios de colaboración y comunicaciones de próxima generación de Microsoft, como Microsoft Exchange Online, Microsoft SharePoint Online, Office para la web y Microsoft Skype empresarial online: para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.'
-ms.openlocfilehash: 77ebe95029bf7602638fc23c4104766d61cf1431
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: a701c0bf5d5e68f22f8c294ff69e18f3a8270151
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131094"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777021"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
@@ -303,7 +302,7 @@ En la tabla siguiente se proporcionan vínculos a comparaciones de Office para l
 |Excel  <br/> |Excel para la web <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote para la web <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
 |PowerPoint  <br/> |PowerPoint para la web <br/> |[PowerPoint](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
-|Visio  <br/> |Visio Online  <br/> |[Comparación de características de Visio online](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
+|Visio  <br/> |Visio para la web  <br/> |[Visio](../office-online-service-description/office-online-service-description.md#feature-availability-across-office-for-the-web-plans) <br/> |
    
 ## <a name="exchange-online-features"></a>Características de Exchange Online 
 <a name="OfcOnline"> </a>

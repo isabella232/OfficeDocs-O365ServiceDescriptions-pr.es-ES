@@ -3,7 +3,6 @@ title: Profesionales de TI
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado a Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación centralizada, y compartir información con otros. Las siguientes características de SharePoint ayudan a los profesionales de TI a asegurar y administrar el entorno de SharePoint de su organización.
-ms.openlocfilehash: 70868f9c00c42318013d1fdc8449668a2461f34a
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: c89f782970ca066a94bd351ff73c7b0785464187
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131314"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776431"
 ---
 # <a name="it-professional"></a>Profesionales de TI
 

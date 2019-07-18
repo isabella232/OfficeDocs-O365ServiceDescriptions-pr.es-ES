@@ -3,7 +3,6 @@ title: Office 365 Administración Pública
 ms.author: danarl
 author: danarl
 manager: dianap
-ms.date: 3/4/2019
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -11,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado los planes de Office 365 US Government (orOffice 365 US Government). En esta sección se proporciona una introducción a las características específicas de Office 365 Administración Pública. Se recomienda leer esta sección complementaria junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: 1d7878c232f8c08c4b039562d0424fba9fd48d07
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 327c35a24a760c9a4dfd5f6f377ea7e9b9a68c6d
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131284"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777301"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -168,7 +167,7 @@ Cada plan de Office 365 incluye varios servicios individuales, como Exchange Onl
 | Sistema de telefonía por voz, audioconferencia  <br/> |No<sup>2, 3</sup> <br/> |No<sup>2, 3</sup> <br/> |Sí <sup>3, 5</sup> <br/> |No  <br/> |
 |Power BI Pro  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |No<sup>2</sup> <br/> |
 |Project Online  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |
-|Visio Online  <br/> |No<sup>6</sup> <br/> |No<sup>6</sup> <br/> |No<sup>6</sup> <br/> |No<sup>6</sup> <br/> |
+|Visio para la web  <br/> |No<sup>6</sup> <br/> |No<sup>6</sup> <br/> |No<sup>6</sup> <br/> |No<sup>6</sup> <br/> |
 |Yammer Enterprise  <br/> |No<sup>4</sup> <br/> |No<sup>4</sup> <br/> |No<sup>4</sup> <br/> |No<sup>4</sup> <br/> |
    
 > <sup>1</sup> Skype empresarial Basic está disponible para todos los clientes. El cliente de escritorio de Skype Empresarial es una aplicación instalada localmente que proporciona funciones de presencia, de mensajería instantánea y de conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus, G3 y G5 incluyen la aplicación de Skype completa, que incluye características adicionales, como la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. A Skype for Business Online license must be assigned for each user.
@@ -176,7 +175,7 @@ Cada plan de Office 365 incluye varios servicios individuales, como Exchange Onl
 <br/> <sup>3</sup> todavía no está disponible en los planes de GCC High o DOD, pero lo estará próximamente. 
 <br/><sup>4</sup> Yammer Enterprise no es un componente de Office 365 US Government, pero puede adquirirse sin costo como una oferta independiente para cada usuario con licencia para Office 365 en gcc. Esta oferta actualmente está limitada a los clientes que adquieren Office 365 GCC en Enterprise Agreements and Enterprise subscription agreements. Yammer no está disponible en GCC High o DoD.
 <br/><sup>5</sup> plan de llamadas es un complemento. 
-<br/><sup>6</sup> no se incluye, pero puede adquirirse como un complemento independiente. Visio online incluye el cliente de escritorio de Visio online como parte de la suscripción.  
+<br/><sup>6</sup> no se incluye, pero puede adquirirse como un complemento independiente. Visio para la web incluye la aplicación de escritorio de Visio como parte de la suscripción.
 ## <a name="platform-features"></a>Características de plataforma 
 <a name="BM7-Platform"> </a>
 

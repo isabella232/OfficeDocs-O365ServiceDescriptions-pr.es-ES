@@ -3,7 +3,6 @@ title: Desarrollador
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 05/20/2019
 ms.audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 415c9536-ae70-4d4b-b481-5255cb03cc32
 description: SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado a Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación centralizada, y compartir información con otros. Las siguientes características admiten la creación por parte de desarrolladores de aplicaciones y soluciones para ampliar la funcionalidad de SharePoint.
-ms.openlocfilehash: c1b9bd6e86b14d8328edabc0ebf1d81fb592fb21
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 51b2b1134ace11e377a87f3e8a436157142d6d2f
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342519"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777521"
 ---
 # <a name="developer"></a>Desarrollador
 

@@ -3,7 +3,6 @@ title: Clientes y dispositivos móviles
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 04/10/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: 50272acc0333760f1a85b43539cc0ad244a11f15
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: d0ed7a4c56c5f58a643d609f29bef284904bee47
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34342729"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776691"
 ---
 # <a name="clients-and-mobile-devices"></a>Clients and Mobile Devices
 
@@ -36,7 +35,7 @@ De forma predeterminada, el acceso a Outlook está habilitado para todos los usu
 Para obtener información sobre qué clientes de Outlook son compatibles con Exchange 2016 y Exchange Online, vea "Clientes compatibles" en [Requisitos del sistema para Exchange 2016](https://go.microsoft.com/fwlink/?LinkID=828972).
   
 > [!IMPORTANT]
->  Outlook no se incluye como parte del precio de suscripción de Exchange Online. Microsoft Office Pro Plus (que contiene Microsoft Outlook) se incluye en algunos planes de Office 365 y se puede adquirir como una suscripción independiente. Si usa POP para conectarse a una cuenta de correo electrónico de Exchange Online, verá las siguientes limitaciones: > no hay información de calendario > ninguna información de disponibilidad > ninguna lista global de direcciones > no insertar correo electrónico > al conectarse a través de POP, todos los mensajes serán downlo aded al cliente y no habrá sincronización entre varios equipos o dispositivos (por ejemplo, entre un teléfono y un portátil). 
+>  Outlook no se incluye como parte del precio de suscripción de Exchange Online. Microsoft Office Pro Plus (que contiene Microsoft Outlook) se incluye en algunos planes de Office 365 y se puede adquirir como una suscripción independiente. Si usa POP para conectarse a una cuenta de correo electrónico de Exchange Online, verá las siguientes limitaciones: > no hay información de calendario > no hay información de disponibilidad > ninguna lista global de direcciones > sin correo electrónico de inserción > al conectarse a través de POP, se descargarán todos los mensajes t o el cliente no habrá sincronización entre varios equipos o dispositivos (por ejemplo, entre un teléfono y un portátil). 
   
 ## <a name="outlook-on-the-web"></a>Outlook en la Web
 

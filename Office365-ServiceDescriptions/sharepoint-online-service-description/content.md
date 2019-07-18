@@ -3,7 +3,6 @@ title: Contenido
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 4/17/2019
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -15,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado en Microsoft SharePoint Server 2013, este servicio alojado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central, y compartir información con otros individuos. Las siguientes características de Contenido facilitan a todos los usuarios el uso de la administración de contenido empresarial (ECM). Es la combinación de la administración de contenido tradicional, las funcionalidades sociales y una búsqueda potente.
-ms.openlocfilehash: 0d9cf2388a0c6907708fba2318f8b6ca97a35b12
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: 6b4765e1d811c1c23ef6e4f5cf95c2d20522295b
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35130964"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35777581"
 ---
 # <a name="content"></a>Content
 

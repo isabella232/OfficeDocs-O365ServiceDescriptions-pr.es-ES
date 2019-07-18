@@ -3,7 +3,6 @@ title: Flujo del correo (EOP)
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
-ms.date: 6/13/2018
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Para la mayoría de las organizaciones que usan Office 365, hospedamos sus buzones y nos ocupamos del flujo de correo. Es la configuración más sencilla y significa que Office 365 administra todos los buzones y el filtrado. En cambio, algunas organizaciones tienen una empresa que necesita mantener todos sus buzones de manera local. Exchange Online Protection (EOP) le permite hacer esto y proporciona un procesamiento contra correo no deseado y antivirus en la nube. Para obtener más información y para comprar EOP, vaya a Exchange Online Protection.
-ms.openlocfilehash: c55d1d376d617b863a75ff609cbc3f064418746b
-ms.sourcegitcommit: 15e92292209454f6778bfef26ecab96bfc71ef5f
+ms.openlocfilehash: 59ccec07af154275697c671014aae6e204710031
+ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/22/2019
-ms.locfileid: "34341829"
+ms.lasthandoff: 07/18/2019
+ms.locfileid: "35776631"
 ---
 # <a name="mail-floweop"></a>Flujo del correo (EOP)
 
