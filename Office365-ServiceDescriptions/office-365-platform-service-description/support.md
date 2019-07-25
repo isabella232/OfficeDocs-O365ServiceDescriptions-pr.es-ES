@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Con cada suscripción de Microsoft Office 365 Enterprise, Empresa, Educación y Administración Pública, el soporte técnico de Microsoft proporciona soporte técnico, soporte de preventas, facturación y suscripciones en general. El soporte técnico está disponible en línea a través del portal de Office 365 y por teléfono para las suscripciones de pago y de prueba. Para más información, vea las opciones del Soporte técnico de Office 365.
-ms.openlocfilehash: b8b58896d4b4ea935e94c6cc019f937a51b56cd0
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: 5b525e5272c8400b2274a5567bcaea7d76283352
+ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233517"
+ms.lasthandoff: 07/25/2019
+ms.locfileid: "35854908"
 ---
 # <a name="support"></a>Soporte técnico
 
@@ -185,7 +185,7 @@ Puede seleccionar un partner de Microsoft y delegar funciones administrativas, e
 Los desarrolladores pueden obtener más información sobre cómo desarrollar aplicaciones de Office y SharePoint para Office 365 en [MSDN Microsoft Developer Network](https://developer.microsoft.com/office/docs). Los desarrolladores encontrarán soporte en foros y blogs de la comunidad de desarrolladores, en recursos de soporte técnico Premier o de partners, o directamente a través de Microsoft. Para conocer los vínculos a las opciones de soporte para desarrolladores, vea [Recursos de soporte](https://developer.microsoft.com/office/docs).
   
 > [!NOTE]
-> El equipo de Office 365 no admite scripts. Si necesita ayuda con los scripts, póngase en contacto con el [Soporte técnico de Microsoft](https://support.microsoft.com/).
+> El equipo de Office 365 no admite scripts (por ejemplo, técnicas de scripting como JavaScript, VBScript, etc. o VBA). Si necesita ayuda con los scripts, póngase en contacto con el [Soporte técnico de Microsoft](https://support.microsoft.com/). Para soporte de uso de aplicaciones de Office, consulte [Support Options for Microsoft Office Application issues for office 365 Subscribers](https://support.office.com/article/support-options-for-microsoft-office-application-issues-for-office-365-subscribers-0a02cd18-19be-4cfa-b430-3b53ea26920f).
   
 ### <a name="volume-licensing"></a>Licencias por volumen
 
