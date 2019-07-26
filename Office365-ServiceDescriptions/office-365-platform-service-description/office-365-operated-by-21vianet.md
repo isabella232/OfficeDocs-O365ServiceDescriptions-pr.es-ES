@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 ofrecido por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: 81bf5f3cab1801cb19d5504c03b13b89f779c03e
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9666aa8d010c17c70a0b1b8ceef1c85773d1f266
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777311"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908817"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -255,7 +255,7 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 |Consulta de hojas de cálculo de Excel  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Archivado y cumplimiento de Exchange Online y SharePoint Online  <br/> |Sí<sup>1</sup> <br/> |Sí  <br/> |Sí<sup>1</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Soporte para directivas de grupos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
-|Information Rights Management (IRM) con Azure Information Protection<sup>11</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Information Rights Management (IRM) con Azure Information Protection<sup>11</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Information Rights Management con Windows Server AD RMS<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Complemento de Office, ActiveX y soporte de BHO  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Acceso de cliente de OneNote a blocs de notas en SharePoint Server, SharePoint Online, OneDrive para la Empresa y Office 365  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |

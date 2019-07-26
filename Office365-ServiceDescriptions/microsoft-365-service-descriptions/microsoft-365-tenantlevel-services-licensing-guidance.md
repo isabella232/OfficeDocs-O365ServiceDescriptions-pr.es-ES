@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para los servicios a nivel de inquilino de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: dea49f7c6ea3a0082968335586e146a33d4a76cc
-ms.sourcegitcommit: 983c4e2b50177883d9369f12b43e09d51e1e5f28
+ms.openlocfilehash: a3a3c969b7857764610694698f877b4e05231e01
+ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2019
-ms.locfileid: "35411465"
+ms.lasthandoff: 07/26/2019
+ms.locfileid: "35908727"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 información sobre licencias de servicios de nivel de inquilino
 
@@ -191,7 +191,7 @@ Las directivas de retención de ADG se pueden aplicar a usuarios con licencia en
 
 ## <a name="office-365-advanced-ediscovery"></a>eDiscovery avanzado de Office 365
 
-EDiscovery avanzado proporciona soluciones de investigación y exhibición de documentos electrónicos para departamentos de ti y legales dentro de las organizaciones para identificar, recopilar, preservar, reducir y revisar el contenido relacionado con una investigación o litigio antes de la exportación fuera de la oficina 365 sistema.
+Office 365 Advanced eDiscovery proporciona soluciones de investigación y exhibición de documentos electrónicos para departamentos de ti y legales dentro de las empresas para identificar, recopilar, preservar, reducir y revisar el contenido relacionado con una investigación o litigio antes de la exportación desde el Office 365 System.
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
@@ -199,7 +199,7 @@ Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
-Los usuarios se benefician de la exhibición avanzada de documentos electrónicos cuando su contenido se pone en retención como parte de un litigio o investigación.
+Un usuario se beneficia de la exhibición avanzada de documentos electrónicos cuando el usuario se selecciona como un custodio de datos (una persona con control administrativo de un documento o un archivo electrónico) para un caso.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -207,7 +207,7 @@ De forma predeterminada, las características avanzadas de eDiscovery se habilit
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Las organizaciones pueden administrar la exhibición avanzada de documentos electrónicos por usuario y agregar usuarios a un caso de exhibición de documentos electrónicos avanzada, así como proporcionar a los usuarios acceso de edición a las ubicaciones compartidas mediante permisos de exhibición de documentos electrónicos. Para obtener instrucciones sobre cómo aplicar permisos avanzados de exhibición de documentos electrónicos a usuarios con licencia, consulte [asignar permisos de exhibición de documentos electrónicos en el centro de seguridad & cumplimiento](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
+los administradores de exhibición de documentos electrónicos pueden seleccionar usuarios específicos como custodios de datos para un caso mediante la herramienta de administración de custodios integrada en eDiscovery avanzado, tal como se describe en [Agregar custodios a un caso de exhibición avanzada](https://docs.microsoft.com/office365/securitycompliance/compliance20/add-custodians-to-case)de documentos electrónicos.
 
 ## <a name="office-365-customer-key"></a>Clave de cliente de Office 365
 
@@ -255,7 +255,7 @@ Microsoft no se compromete a ofrecer solicitudes de aprobación de control de ac
 
 ## <a name="privileged-access-management-in-office-365"></a>Administración del acceso con privilegios en Office 365
 
-La administración de acceso con privilegios (PAM) proporciona un control de acceso granular sobre las tareas de administración con privilegios en Office 365. Después de habilitar la administración del acceso privilegiado, los usuarios necesitarán solicitar acceso puntual a través de un flujo de trabajo de aprobación con un ámbito muy limitado y con un límite de tiempo para completar las tareas elevadas y privilegiadas.
+La administración de acceso con privilegios (PAM) proporciona un control de acceso granular sobre las tareas de administración con privilegios en Office 365. Después de habilitar PAM, los usuarios tendrán que solicitar acceso justo a tiempo a través de un flujo de trabajo de aprobación con un ámbito muy limitado y con un límite de tiempo para completar las tareas elevadas y privilegiadas.
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
@@ -293,21 +293,21 @@ De forma predeterminada, los mensajes de correo electrónico de Exchange Online,
 
 Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento de Office 365, en**ubicaciones**de **prevención** > de pérdida de datos.
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-conversations"></a>Prevención de pérdida de datos para conversaciones de canales y chat de Microsoft Teams
+## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Prevención de pérdida de datos para los mensajes de chat y canales de Microsoft Teams
 
-Con la prevención de pérdida de datos (DLP) para las conversaciones de canales y chats de Microsoft Teams, las organizaciones pueden bloquear mensajes en chats y conversaciones de canal que contienen información confidencial, como información financiera, información de identificación personal, información relacionada con el estado u otra información confidencial.
+Con la prevención de pérdida de datos (DLP) de los mensajes de chat y de canal de Microsoft Teams, las organizaciones pueden bloquear los chats y los mensajes de canal que contienen información confidencial, como información financiera, información personal de identificación, información relacionada con el estado o otra información confidencial.
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de DLP para las conversaciones de canales y chats de Microsoft Teams.
+Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de DLP para los mensajes de chat y de canal de Microsoft Teams.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
-Los remitentes obtienen beneficios al tener información confidencial en sus chats salientes y mensajes de conversación de canal inspeccionados para la información confidencial, tal y como se ha configurado en la Directiva DLP de la organización.
+Los remitentes obtienen beneficios al tener información confidencial en su chat saliente y los mensajes de canal inspeccionados para la información confidencial, tal y como se ha configurado en la Directiva DLP de la organización.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
-De forma predeterminada, las conversaciones de chat y canales de Microsoft Teams son una *Ubicación (carga de trabajo) habilitada* para estas características de DLP para todos los usuarios dentro del espacio empresarial. Para obtener más información sobre el uso de directivas de DLP, vea [información general sobre prevención de pérdida de datos](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
+De forma predeterminada, los mensajes de chat y de canal de Microsoft son una *Ubicación (carga de trabajo) habilitada* para estas características DLP para todos los usuarios dentro del espacio empresarial. Para obtener más información sobre el uso de directivas de DLP, vea [información general sobre prevención de pérdida de datos](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
@@ -359,3 +359,23 @@ Los administradores crean y administran directivas de cifrado de mensajes avanza
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
 Los administradores deben aplicar reglas de flujo de correo para el cifrado de mensajes avanzado solo a los usuarios con licencia. Para obtener más información acerca de la definición de reglas de flujo de correo, consulte [definir reglas de flujo de correo para cifrar mensajes de correo electrónico en Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
+
+## <a name="supervision-policies"></a>Directivas de supervisión
+
+Las directivas de supervisión en Office 365 permiten capturar comunicaciones de los empleados para que las examinen los revisores designados. Puede definir directivas específicas que capturen el correo electrónico interno y externo, Microsoft Teams o las comunicaciones de terceros de la organización. A continuación, los revisores pueden examinar los mensajes para asegurarse de que cumplen con los estándares de mensajes de la organización y los resuelven con el tipo de clasificación.
+
+### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
+
+Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de las directivas de supervisión.
+
+### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
+
+Los usuarios se benefician del servicio al supervisar sus comunicaciones mediante directivas de supervisión.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
+
+Los administradores crean directivas de supervisión en el centro de seguridad & cumplimiento. Estas directivas definen qué comunicaciones y usuarios están sujetos a revisión en la organización, definen las condiciones personalizadas que deben cumplir las comunicaciones y especifican quién debe realizar revisiones.
+ 
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
+
+Los administradores eligen grupos o usuarios específicos para incluirlos en una directiva de supervisión. Al elegir un grupo, también pueden seleccionar usuarios específicos del grupo para excluirlos de la Directiva de supervisión. Para obtener más información acerca de las directivas de supervisión, consulte [directivas de supervisión en Office 365](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies).
