@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Para satisfacer los requisitos exclusivos y en constante evolución del Departamento de defensa de los Estados Unidos, así como los contratistas que retienen o procesan la información sin clasificar (CUI) o el tráfico internacional en las regulaciones de brazos (ITAR), Microsoft ofrece GCC: entornos altos y DoD. Disponible mediante las licencias por volumen, las organizaciones que estén interesadas pueden participar en un proceso de validación para certificar su idoneidad antes de establecer el entorno. Las pruebas no están disponibles en este momento.'
-ms.openlocfilehash: 196e1e37a00be9e23897e0f2caa78d978d9702b4
-ms.sourcegitcommit: e77906b172913bb7b3359d649da59c5d2ee1123f
+ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/26/2019
-ms.locfileid: "35233527"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928419"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High y DoD
 
@@ -76,15 +76,17 @@ Las suscripciones de Office 365 en los entornos altos y DoD de GCC incluyen las 
     
 4. Usuarios específicos
     
-Los clientes que usan SharePoint Online y OneDrive para la empresa en los entornos de GCC High o DoD pueden mantener los documentos privados (primera opción), compartir con cualquier persona de su organización (segunda opción), compartir con cualquier persona que tenga el vínculo al documento (tercera opción) y compartir con personas específicas sólo en los entornos de GCC altos y DoD (cuarta opción); por supuesto, estas opciones se pueden restringir basándose también en controles de acceso a nivel de inquilino.
+Los clientes que usan SharePoint Online y OneDrive para la empresa en los entornos de GCC High o DoD pueden mantener los documentos privados (primera opción), compartir con cualquier persona de su organización (segunda opción), compartir con cualquier persona que tenga el vínculo al documento (tercera opción) y compartir con personas específicas (cuarta opción). Estas opciones también se pueden restringir en función de los controles de acceso a nivel de inquilino.
+
+Cuando comparta con personas específicas, SharePoint comprobará que los usuarios son los destinatarios previstos de un vínculo enviándoles un código de acceso de un solo uso a la dirección de correo electrónico compartida a. Sin embargo, cuando se comparte un inquilino de GCC-High con otro de GCC-High tenant, se creará una cuenta de invitado para el destinatario en Azure AD y se iniciará sesión con su nombre de usuario y contraseña.
   
-Los inquilinos altos de GCC solo se pueden compartir con otros inquilinos de GCC High. Por ejemplo:
+Otros ejemplos:
   
-- GCC High tenant A puede compartirse con GCC High tenant B.
+- GCC High arrendatario A puede compartirse con GCC High tenant B y los usuarios B inician sesión con el nombre de usuario y la contraseña de Azure AD.
     
-- El inquilino C que no es GCC puede compartirse con GCC High tenant A o B.
+- El inquilino C de no GCC no puede compartir con los códigos de acceso de los usuarios altos de GCC A o B, y o B con los códigos de acceso de un solo uso.
     
-- El espacio empresarial de GCC A o B no puede compartirse con un espacio empresarial de alto nivel de GCC C.
+- El inquilino alto de GCC A o B puede compartirse con los códigos de acceso de un solo uso de los usuarios de C y el elevado espacio empresarial sin GCC.
     
 Además, no se admiten las direcciones de correo electrónico de alta disponibilidad que no sean de GCC adjuntas a perfiles de usuario y no permitirá el envío de mensajes de alerta. Por ejemplo, en el caso del usuario A local se le asigna una dirección de correo de gmail y, a continuación, se sincroniza con Azure GCC High tenant. El usuario A visita una biblioteca y crea una alerta para los cambios. La alerta no se enviará a la dirección de gmail.
   
@@ -92,7 +94,7 @@ Además, no se admiten las direcciones de correo electrónico de alta disponibil
   
  **Servicios de conectividad empresarial** : la funcionalidad BCS se admite en escenarios de conectividad en los que los orígenes de datos permanecen accesibles dentro del límite de seguridad del servicio de nube. 
   
- **Soluciones de espacio aislado** : esta característica está en desuso y no está disponible. Cualquier solución de espacio aislado debe migrarse al [modelo de extensibilidad de complementos de SharePoint]( https://msdn.microsoft.com/library/office/fp179930.aspx).
+ **Soluciones de espacio aislado** : esta característica está en desuso y no está disponible. Las soluciones de espacio aislado deben migrarse al [modelo de extensibilidad de complementos de SharePoint ]( https://msdn.microsoft.com/library/office/fp179930.aspx).
   
 ### <a name="skype-for-business-online"></a>Skype Empresarial Online
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no son configurables, a menos que se especifique lo contrario.
-ms.openlocfilehash: badfa1684b9843cfa2aec41d42ccd742f0184c00
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
+ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776711"
+ms.lasthandoff: 07/30/2019
+ms.locfileid: "35928409"
 ---
 # <a name="exchange-online-protection-limits"></a>Límites de Exchange Online Protection
 
@@ -38,7 +38,7 @@ Los siguientes límites existen actualmente para Exchange Online Protection. Est
     
 - **Límite de aplazamiento de mensajes** Los mensajes aplazados permanecen en las colas durante 2 días. Los reintentos de envío de mensajes se basan en el tipo de error que se recibe del sistema de correo del destinatario. Los mensajes se vuelven a intentar cada 15 minutos. 
     
-- **Período de retención en cuarentena de correo no deseado** De manera predeterminada, los mensajes de correo no deseado se envían a la cuarentena y se conservan durante 15 días. Los administradores pueden reducir este valor por medio de las directivas de filtro de contenido. 
+- **Período de retención de cuarentena de correo no deseado** De forma predeterminada, los mensajes de correo no deseado que se envían a la cuarentena se conservan durante 30 días. Los administradores pueden reducir este valor por medio de las directivas de filtro de contenido. 
     
 - **Notificaciones de cuarentena de correo no deseado de usuario final** De manera predeterminada, si se habilitan, las notificaciones de cuarentena de correo no deseado de usuario final se envían cada 3 días. Se pueden configurar para que se envíen cada 1 a 15 días. 
     
@@ -55,7 +55,7 @@ Los siguientes límites existen actualmente para Exchange Online Protection. Est
 |Límite de remitentes bloqueados  <br/> |1024 entradas  <br/> |1024 entradas  <br/> ||
 |Límite de listas de direcciones IP permitidas o bloqueadas  <br/> |1.273 entradas  <br/> |1.273 entradas  <br/> |1.273 entradas  <br/> |
 |Límite de aplazamiento de mensajes  <br/> |2 días, se vuelve a intentar cada 15 minutos  <br/> |2 días, se vuelve a intentar cada 15 minutos  <br/> |2 días, se vuelve a intentar cada 15 minutos  <br/> |
-|Período de retención en cuarentena de correo no deseado  <br/> |15 días de manera predeterminada, pero se puede reducir  <br/> |15 días de manera predeterminada, pero se puede reducir  <br/> |15 días de manera predeterminada, pero se puede reducir  <br/> |
+|Período de retención en cuarentena de correo no deseado  <br/> |30 días de forma predeterminada, pero se puede reducir  <br/> |30 días de forma predeterminada, pero se puede reducir  <br/> |30 días de forma predeterminada, pero se puede reducir  <br/> |
 |Notificaciones de cuarentena de correo no deseado de usuario final  <br/> |3 días de manera predeterminada, configurable de 1 a 15 días  <br/> |3 días de manera predeterminada, configurable de 1 a 15 días  <br/> |3 días de manera predeterminada, configurable de 1 a 15 días  <br/> |
    
 
