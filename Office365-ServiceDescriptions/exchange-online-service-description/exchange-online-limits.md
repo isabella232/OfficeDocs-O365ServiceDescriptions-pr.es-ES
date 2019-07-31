@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 1ff56504abb770c2c3ac7851c65b2f10acf20ff2
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
+ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928901"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35940538"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -266,13 +266,15 @@ Los siguientes límites se aplican a todos los mensajes de correo electrónico.
 |Límite de tamaño de mensaje - OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|
 |Límite de tamaño de mensaje - Outlook para Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Límite de tamaño de mensaje: migración|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
+|Límite de tamaño de mensajes: Outlook para iOS y Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
 |Límite de tamaño de los mensajes cifrados (para los suscriptores que usan el Cifrado de mensajes de Office 365 con nuevas funciones)<sup>5</sup>|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
-|Límite de tamaño de los mensajes cifrados (para los suscriptores que usan la versión heredada del Cifrado de mensajes de Office 365)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
+|Límite de tamaño de los mensajes cifrados (para los suscriptores que usan la versión heredada del Cifrado de mensajes de Office 365)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Límite de longitud del asunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
 |Límite de datos adjuntos|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|
 |Límite del tamaño de un archivo de datos adjunto - Outlook|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
-|Límite del tamaño de un archivo de datos adjunto - OWA <sup>6</sup>|35 MB|35 MB|35 MB|35 MB|35 MB|35 MB|
+|Límite del tamaño de un archivo de datos adjunto - OWA <sup>6</sup>|35 MB|35 MB|35 MB|35 MB|35 MB|35 MB|
 |Límite del tamaño de un archivo de datos adjunto - Outlook para Mac|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
+|Límite de tamaño de datos adjuntos de archivo-Outlook para iOS y Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
 |Límite de mensaje con varias partes|250 partes|250 partes|250 partes|250 partes|250 partes|250 partes|
 |Límite de profundidad de incrustación de mensajes|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|
 
@@ -287,15 +289,17 @@ Los siguientes límites se aplican a todos los mensajes de correo electrónico.
 |**Característica**|**Exchange Server 2013**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Límite de tamaño de mensaje - Outlook|10 MB<sup>4</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>2</sup>|
 |Límite de tamaño de mensaje - OWA|10 MB<sup>4</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|150 MB<sup>1, 2</sup>|
-|Límite de tamaño de mensaje - Outlook para Mac|10 MB<sup>4</sup>|150 MB|150 MB||
+|Límite de tamaño de mensaje - Outlook para Mac|10 MB<sup>4</sup>|150 MB|150 MB||
 |Límite de tamaño de mensaje: migración|No aplicable|150 MB<sup>5</sup>|150 MB<sup>5</sup>|150 MB<sup>5</sup>|
-|Límite de tamaño de los mensajes cifrados (para los suscriptores que usan el Cifrado de mensajes de Office 365 con nuevas funciones)<sup>6</sup>|150 MB|150 MB|150 MB|150 MB|
+|Límite de tamaño de mensajes: Outlook para iOS y Android |25 MB |33 MB |33 MB |33 MB |
+|Límite de tamaño de los mensajes cifrados (para los suscriptores que usan el Cifrado de mensajes de Office 365 con nuevas funciones)<sup>6</sup>|150 MB|150 MB|150 MB|150 MB|
 |Límite de tamaño de los mensajes cifrados (para los suscriptores que usan la versión heredada del Cifrado de mensajes de Office 365)<sup>6</sup>|25 MB|25 MB|25 MB|25 MB|
 |Límite de longitud del asunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
 |Límite de datos adjuntos|1024 attachments<sup>4</sup>|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|
 |Límite del tamaño de un archivo de datos adjunto - Outlook|35 MB<sup>4</sup>|150 MB|150 MB|150 MB|
-|Límite del tamaño de un archivo de datos adjunto - OWA|35 MB<sup>4</sup>|35 MB|35 MB|35 MB|
+|Límite del tamaño de un archivo de datos adjunto - OWA|35 MB<sup>4</sup>|35 MB|35 MB|35 MB|
 |Límite del tamaño de un archivo de datos adjunto - Outlook para Mac|35 MB<sup>4</sup>|150 MB|150 MB|35 MB|
+|Límite de tamaño de datos adjuntos de archivo-Outlook para iOS y Android|25 MB |33 MB|33 MB|33 MB|
 |Límite de mensaje con varias partes|250 partes|250 partes|250 partes|250 partes|
 |Límite de profundidad de incrustación de mensajes|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|
 
@@ -342,10 +346,10 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Límite de frecuencia de destinatario|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|
-|Límite de destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|
+|Límite de frecuencia de destinatario|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|
+|Límite de destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|
 |Límite de direcciones proxy de destinatarios|400|400|400|400|400|400|
-|Límite de frecuencia de mensajes|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
+|Límite de frecuencia de mensajes|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
 
 #### <a name="sending-limits-across-standalone-options"></a>Límites de envío en las opciones independientes
 
@@ -381,7 +385,7 @@ Estos límites controlan el tiempo durante el cual es posible obtener acceso a l
 |**Característica**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Período de retención de la carpeta Elementos eliminados|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|
 |Período de retención de los elementos quitados de la carpeta Elementos eliminados|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|
-|Período de retención de la carpeta Correo no deseado|30 días|30 días|30 días|30 días|30 días|30 días|
+|Período de retención de la carpeta Correo no deseado|30 días|30 días|30 días|30 días|30 días|30 días|
 
 > [!NOTE]
 > <sup>1</sup> Este es el valor predeterminado para las organizaciones de Office 365. Los administradores pueden cambiar este valor a un máximo de 30 días para los buzones de su organización.
@@ -393,7 +397,7 @@ Estos límites controlan el tiempo durante el cual es posible obtener acceso a l
 |**Característica**|**Exchange Server 2013**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Período de retención de la carpeta Elementos eliminados|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|
 |Período de retención de los elementos quitados de la carpeta Elementos eliminados|14 días<sup>1</sup>|14 días<sup>2</sup>|14 días<sup>2</sup>|14 días<sup>2</sup>|
-|Período de retención de la carpeta Correo no deseado|2 años<sup>1</sup>|30 días|30 días|30 días|
+|Período de retención de la carpeta Correo no deseado|2 años<sup>1</sup>|30 días|30 días|30 días|
 
 > [!NOTE]
 > <sup>1</sup> Es el límite predeterminado. Los administradores pueden cambiar este valor para su organización.<br/> <sup>2</sup> Es el valor predeterminado para organizaciones de Exchange Online. Los administradores pueden cambiar este valor a un máximo de 30 días para los buzones de su organización.
@@ -466,7 +470,7 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 |Número máximo de reglas del diario|reglas de 50|reglas de 50|reglas de 50|reglas de 50|reglas de 50|reglas de 50|
 |Número máximo de reglas de transporte|300 reglas|300 reglas|300 reglas|300 reglas|300 reglas|300 reglas|
 |Tamaño máximo de una regla de transporte individual|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
-|Límite de caracteres para todas las expresiones regulares usadas en todas las reglas de transporte|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
+|Límite de caracteres para todas las expresiones regulares usadas en todas las reglas de transporte|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
 |Límites de análisis para el contenido de datos adjuntos|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |Número máximo de destinatarios agregados a un mensaje por todas las reglas de trasporte|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|
 |Límite de reenvío|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|
@@ -508,7 +512,7 @@ Durante períodos de gran actividad, algunos remitentes no recibirán mensajes d
 |**Característica**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Tamaño máximo de buzón de correo de arbitraje|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
 |Número máximo de moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|
-|Caducidad de mensajes en espera de ser moderados|2 días|2 días|2 días|2 días|2 días|2 días|
+|Caducidad de mensajes en espera de ser moderados|2 días|2 días|2 días|2 días|2 días|2 días|
 |Máximo índice de mensajes de notificación de moderación caducada|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|
 
 ### <a name="moderation-limits-across-standalone-options"></a>Límites de moderación en las opciones independientes
