@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si quiere conocer las diferencias entre los planes de Office 365, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: 66a958899ed12638344a3bf6d04b2808f6e7e275
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 5b7c6a16fabe62bd4f6bda9cc049b71e50cbac14
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777401"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051603"
 ---
 # <a name="office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Office 365
 
@@ -96,11 +96,11 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 |Administración de Office 365 mediante el centro de administración de Microsoft 365 o Windows PowerShell  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Proteger el contenido con Azure Information Protection  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |No<sup>2</sup> <br/> |
 |**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
-|Reservas de Microsoft  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Reservas de Microsoft  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |N°<sup>20</sup>  <br/> |N°<sup>20</sup>  <br/> |No  <br/> |
 |Microsoft Flow  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |API de Microsoft Graph  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft MyAnalytics  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
+|Microsoft MyAnalytics  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |N°<sup>21</sup>  <br/> |Sí  <br/> |No  <br/> |
 |Microsoft Planner  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Microsoft PowerApps  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -222,4 +222,7 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 <br/><sup>15</sup> solo disponible en los planes de Office 365 Education, incluido Office 365 E5 Education. No está disponible en Office 365 Enterprise E5. 
 <br/><sup>16</sup> para obtener más información, vea [controlar los datos en Office 365 mediante la clave de cliente](https://support.office.com/en-us/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
 <br/><sup>17</sup> la exhibición avanzada de documentos electrónicos es compatible con Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de clientes de Europa, Oriente Medio y África se exportan a Europa occidental [Países Bajos]). > <br/><sup>18</sup> consumo solo para Microsoft Stream: sin publicación ni uso compartido.
-<br/><sup>19</sup> a partir del 2019 de mayo, los SKU existentes de Office 365 y Microsoft 365 se rellenarán con Kaizala Pro. A partir del 1 de junio de 2019, Kaizala Pro se incluirá en todas las SKU de Office 365 y Microsoft 365 elegibles.   
+<br/><sup>19</sup> a partir del 2019 de mayo, los SKU existentes de Office 365 y Microsoft 365 se rellenarán con Kaizala Pro. A partir del 1 de junio de 2019, Kaizala Pro se incluirá en todas las SKU de Office 365 y Microsoft 365 elegibles.
+<br/><sup>20</sup> disponible como complemento gratuito. Para obtener más información, vea [obtener acceso a Microsoft bookings](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
+<br/><sup>21</sup> para obtener myanalytics (completo) con el plan E3, tiene que comprar el complemento myanalytics de myanalytics. Para obtener más información, vea [planes y entornos de myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments). 
+

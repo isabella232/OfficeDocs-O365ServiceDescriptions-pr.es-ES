@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office para la web (anteriormente, Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office para la web hace que sea más fácil trabajar y compartir archivos de Office desde cualquier lugar con una conexión a Internet desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina.
-ms.openlocfilehash: 014e0544fb6095e9ddfa0009fe94759ffd09da60
-ms.sourcegitcommit: 0f5ad374ff3559c10a1665d894d68665dbd1214b
+ms.openlocfilehash: ad834dfd756f76c9ccd2444690f7a762735a55dc
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35131244"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051621"
 ---
 # <a name="office-for-the-web-service-description"></a>Descripción de Office para el servicio Web
 
@@ -175,7 +175,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Cambiar de nombre y agregar hojas](excel-online.md#rename-and-add-sheets) <br/> |Sí  <br/> |Sí  <br/> |
 |[Cambiar el nombre de archivo con el libro abierto](excel-online.md#rename-file-while-workbook-is-open) <br/> |Sí  <br/> |No  <br/> |
 |[Reemplazar](excel-online.md#replace) <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración de derechos: Seguridad de contraseñas e IRM](excel-online.md#bkmk_RightsManagement) <br/> |No  <br/> |Sí  <br/> |
+|[Administración de derechos: Seguridad de contraseñas e IRM](excel-online.md#rights-management-irm-and-password-security) <br/> |No  <br/> |Sí  <br/> |
 |[Guardar o descargar copias](excel-online.md#save-or-download-a-copy) <br/> |Sí  <br/> |Sí  <br/> |
 |[Compartir](excel-online.md#share) <br/> |Sí  <br/> |Sí  <br/> |
 |[Protección de hoja](excel-online.md#sheet-protection) <br/> |Sí  <br/> |Sí  <br/> |

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no son configurables, a menos que se especifique lo contrario.
-ms.openlocfilehash: 4b0e02af0ac1587ffa040a91fda28cbb207f1b95
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
+ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928409"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36051611"
 ---
 # <a name="exchange-online-protection-limits"></a>Límites de Exchange Online Protection
 
@@ -52,7 +52,7 @@ Los siguientes límites existen actualmente para Exchange Online Protection. Est
 |Límite de tamaño de mensaje (incluidos datos adjuntos)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Límite de destinatarios  <br/> |Consulte "Límite de destinatarios" en la sección anterior  <br/> |500 destinatarios al enviar desde un buzón de correo hospedado; consulte "Límite de destinatarios" en la sección anterior para ver otros escenarios  <br/> |Consulte "Límite de destinatarios" en la sección anterior  <br/> |
 |Límite de remitentes seguros  <br/> |1024 entradas  <br/> |1024 entradas  <br/> ||
-|Límite de remitentes bloqueados  <br/> |1024 entradas  <br/> |1024 entradas  <br/> ||
+|Límite de remitentes bloqueados por directiva  <br/> |1024 entradas  <br/> |1024 entradas  <br/> ||
 |Límite de listas de direcciones IP permitidas o bloqueadas  <br/> |1.273 entradas  <br/> |1.273 entradas  <br/> |1.273 entradas  <br/> |
 |Límite de aplazamiento de mensajes  <br/> |2 días, se vuelve a intentar cada 15 minutos  <br/> |2 días, se vuelve a intentar cada 15 minutos  <br/> |2 días, se vuelve a intentar cada 15 minutos  <br/> |
 |Período de retención en cuarentena de correo no deseado  <br/> |30 días de forma predeterminada, pero se puede reducir  <br/> |30 días de forma predeterminada, pero se puede reducir  <br/> |30 días de forma predeterminada, pero se puede reducir  <br/> |
