@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para los servicios a nivel de inquilino de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: a3a3c969b7857764610694698f877b4e05231e01
-ms.sourcegitcommit: d748b75a186faf3d303437cbb78d6ad6b3f31baf
+ms.openlocfilehash: 234bdc341647c0f62ad1d606e2938ef208996107
+ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/26/2019
-ms.locfileid: "35908727"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171680"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 información sobre licencias de servicios de nivel de inquilino
 
@@ -31,7 +31,7 @@ La protección de identidad de Azure Active Directory (AADIP) es una caracterís
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Enterprise Mobility + Security E5, Microsoft 365 E5, Microsoft 365 E5 Security y Azure Active Directory Premium plan 2 pueden beneficiarse de AADIP.
+Los usuarios con licencia de Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, la seguridad de Microsoft 365 E5/A5/G5 y Azure Active Directory Premium plan 2 pueden beneficiarse de AADIP.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -51,7 +51,7 @@ La protección contra amenazas avanzada de Azure (ATP) es un servicio en la nube
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Enterprise Mobility + Security E5, Microsoft 365 E5, Microsoft 365 E5 Security y Azure protección contra amenazas avanzada para los usuarios pueden beneficiarse de ATP de Azure.
+Los usuarios con licencia de Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, la seguridad de Microsoft 365 E5/A5/G5 y la protección contra amenazas avanzada de Azure para los usuarios pueden beneficiarse de ATP de Azure.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -71,7 +71,7 @@ Azure Information Protection (AIP) ayuda a las organizaciones a descubrir, clasi
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Microsoft 365 F1, Microsoft 365 E3 y AIP plan 1 pueden beneficiarse del plan de AIP 1. Los usuarios con licencia de Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el plan 2 de AIP pueden beneficiarse del plan de AIP 2.
+Los usuarios con licencia de Microsoft 365 F1, Microsoft 365 Business, Microsoft 365 E3/a3/G3 y el plan 1 de AIP pueden beneficiarse del plan de AIP 1. Los usuarios con licencia de Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el plan 2 de AIP pueden beneficiarse del plan de AIP 2.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -80,7 +80,6 @@ La característica de examen de AIP clasifica, etiqueta y protege automáticamen
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
 De forma predeterminada, las características de AIP están habilitadas en el nivel de inquilino para todos los usuarios del espacio empresarial. Para obtener información sobre cómo configurar directivas de AIP para usuarios con licencia, consulte [Activating Azure Rights Management](https://docs.microsoft.com/azure/information-protection/activate-service).
-
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
 Las directivas de características de AIP (excepto la característica de escáner) se pueden limitar a grupos o usuarios específicos; los registros se pueden editar para evitar que los usuarios sin licencia ejecuten las características de etiquetado o clasificación de AIP. Para obtener instrucciones sobre cómo asignar el ámbito de las implementaciones de AIP, vea [configuración de la Directiva de Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy).
@@ -93,7 +92,7 @@ La protección contra amenazas avanzada (ATP) ayuda a proteger a las organizacio
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Usuarios con licencia de Office 365 E5, Microsoft 365 E5, Microsoft 365 E5 Security, Microsoft 365 Business y Office 365 ATP los planes 1 y 2 pueden beneficiarse de ATP.
+Usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, seguridad de Microsoft 365 E5/A5/G5, Microsoft 365 Business y Office 365 los planes de ATP 1 y 2 pueden beneficiarse de ATP.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -121,7 +120,7 @@ Para comparar las características, consulte [diferencias entre Microsoft Cloud 
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5 pueden beneficiarse de OCAS.
+Los usuarios con licencia de Office 365 E5/A5/G5 pueden beneficiarse de OCAS.
 
 Para obtener más información, vea la hoja de datos de [licencias de Microsoft Cloud App Security](http://www.aka.ms/mcaslicensing).
 
@@ -145,13 +144,13 @@ Microsoft Cloud App Security (MCAS) es una solución de agente de seguridad de a
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de MCAS, Enterprise Mobility + Security E5, Microsoft 365 E5 y Microsoft 365 E5 Security pueden beneficiarse de MCAS.
+Los usuarios con licencia de MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 y la seguridad de Microsoft 365 E5/A5/G5 pueden beneficiarse de MCAS.
 
 Los usuarios con licencia de Azure AD P1 pueden beneficiarse de las capacidades de detección de MCAS.
 
-Para beneficiarse de las capacidades de control de la [aplicación de acceso condicional](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) en MCAS, los usuarios también deben tener una licencia para Azure Active Directory P1, que se incluye en Enterprise Mobility + Security E3, Enterprise Mobility + Security E5, Microsoft 365 E3, Microsoft 365 E5 y la seguridad de Microsoft 365 E5.
+Para beneficiarse de las capacidades de control de la [aplicación de acceso condicional](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) en MCAS, los usuarios también deben tener una licencia para Azure Active Directory P1, que se incluye en Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/ A3/G3, Microsoft 365 E5/A5/G5 y seguridad de Microsoft 365 E5/A5/G5.
 
-Para beneficiarse de la [etiquetación automática](https://docs.microsoft.com/cloud-app-security/data-protection-policies), los usuarios deben tener una licencia para Azure Information Protection P2, que se incluye en el cumplimiento de Enterprise Mobility + Security E5, Microsoft 365 E5 y Microsoft 365 E5.
+Para beneficiarse de la [etiquetación automática](https://docs.microsoft.com/cloud-app-security/data-protection-policies), los usuarios deben tener una licencia para Azure Information Protection P2, que se incluye en Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 y cumplimiento de Microsoft 365 E5/A5/G5.
 
 Para obtener más información, vea la hoja de datos de [licencias de Microsoft Cloud App Security](http://www.aka.ms/mcaslicensing).
 
@@ -175,7 +174,7 @@ El gobierno de datos avanzado (ADG) ayuda a las organizaciones a cumplir los req
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de ADG.
+Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de ADG.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -195,7 +194,7 @@ Office 365 Advanced eDiscovery proporciona soluciones de investigación y exhibi
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de la exhibición avanzada de documentos electrónicos.
+Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de la exhibición avanzada de documentos electrónicos.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -215,7 +214,7 @@ Con la clave de cliente, se controlan las claves de cifrado de la organización 
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de la clave de cliente. Para obtener todas las ventajas de la clave de cliente, también debe tener una suscripción de Azure Key Vault.
+Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de la clave de cliente. Para obtener todas las ventajas de la clave de cliente, también debe tener una suscripción de Azure Key Vault.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -239,7 +238,7 @@ La caja de caja del cliente proporciona una capa de control adicional al ofrecer
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de las cajas de caja del cliente.
+Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de las cajas de caja de clientes.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -259,7 +258,7 @@ La administración de acceso con privilegios (PAM) proporciona un control de acc
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de PAM.
+Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de PAM.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -279,7 +278,7 @@ Con la prevención de pérdida de datos (DLP) para Exchange Online, SharePoint O
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E3, Microsoft 365 E3 y Office 365 Data Loss Prevention pueden beneficiarse de DLP para Exchange Online, SharePoint Online y OneDrive para la empresa.
+Los usuarios con licencia de Office 365 E3/a3/G3, Microsoft 365 Business, Microsoft 365 E3/a3/G3 y la prevención de pérdida de datos de Office 365 pueden beneficiarse de DLP para Exchange Online, SharePoint Online y OneDrive para la empresa.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -299,7 +298,7 @@ Con la prevención de pérdida de datos (DLP) de los mensajes de chat y de canal
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de DLP para los mensajes de chat y de canal de Microsoft Teams.
+Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de DLP para los mensajes de chat y de canal de Microsoft Teams.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -319,7 +318,7 @@ Las barreras de información son directivas que un administrador puede configura
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de las barreras de información.
+Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de las barreras de información.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -346,7 +345,7 @@ El cifrado de mensajes avanzado ayuda a los clientes a cumplir las obligaciones 
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el cumplimiento avanzado de Office 365 pueden beneficiarse del cifrado avanzado de mensajes.
+Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 pueden beneficiarse del cifrado avanzado de mensajes.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -366,7 +365,7 @@ Las directivas de supervisión en Office 365 permiten capturar comunicaciones de
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de las directivas de supervisión.
+Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de las directivas de supervisión.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger su Organización de vínculos perjudiciales en tiempo real. ATP tiene capacidades enriquecidas de informes y seguimiento de URL que proporcionan a los administradores información sobre el tipo de ataques que ocurren en la organización.
-ms.openlocfilehash: 04aa26bf1911a46b1268259d15933f612a38369d
-ms.sourcegitcommit: 64cb402c59d8688052ffd15213fcba2857d9cd47
+ms.openlocfilehash: aaa017f127ee17ce872ec7ba8fb13b78bc332048
+ms.sourcegitcommit: 6d32bc9501b8cbfa71a1763103a6111898d2cda8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/02/2019
-ms.locfileid: "36058822"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171700"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descripción del servicio de Protección contra amenazas avanzada de Office 365
 
@@ -93,7 +93,8 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 |Vínculos seguros |Sí|Sí |Sí | 
 |Directivas contra la suplantación de identidad |Sí |Sí |Sí |
 |ATP para SharePoint, OneDrive y Microsoft Teams |Sí |Sí |Sí|
-|Vínculos seguros en Microsoft Teams |Sí|Sí |Sí |
+|Datos adjuntos seguros en Microsoft Teams |Sí|Sí |Sí |
+|Vínculos seguros en Microsoft Teams |No |No |No |
 |Informes en tiempo real |Sí |Sí |Sí|
 |*Automatización, investigación, corrección y educación* |
 |Rastreadores de amenazas |No |Sí |Sí |
@@ -114,6 +115,16 @@ Los [datos adjuntos seguros de ATP](https://docs.microsoft.com/office365/securit
 ### <a name="safe-links"></a>Vínculos seguros
 
 La característica de [vínculos seguros de ATP](https://docs.microsoft.com/Office365/SecurityCompliance/atp-safe-links) protege de forma proactiva a los usuarios de direcciones URL malintencionadas en un mensaje o en un documento de Office. La protección permanece cada vez que se hace clic en el vínculo, ya que los vínculos dañinos se bloquean dinámicamente mientras que los vínculos seguros se pueden acceder.
+
+Vínculos seguros está disponible para las direcciones URL en las siguientes aplicaciones:
+
+- Office 365 ProPlus en Windows o Mac
+- Office para la web (Word para la web, Excel para el Web, PowerPoint para el Web y OneNote para la web)
+- Word, Excel, PowerPoint y Visio en Windows, así como aplicaciones de Office en dispositivos iOS y Android 
+
+> [!NOTE] 
+> Los usuarios deben tener una licencia para ATP, deben estar incluidos en las directivas de vínculos seguros de ATP y deben haber iniciado sesión en sus dispositivos para que la protección esté en su lugar.
+
 
 ### <a name="anti-phishing-policies"></a>Directivas contra la suplantación de identidad
 
