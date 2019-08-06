@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 1baf4b3f10378d5bb5c939694b25dec0916351b4
-ms.sourcegitcommit: fb79397a520e98f0a3571cc45d5e2332dedd39d9
+ms.openlocfilehash: 965b88a18dd8475381d963a63b542ab15702fd99
+ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2019
-ms.locfileid: "35940538"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36206850"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -410,7 +410,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 
 - **Limitar el envío de mensajes a grupos de distribución grandes**: los grupos de distribución que contienen el número de miembros especificados por este límite deben tener configuradas opciones de administración de entrega o de aprobación de mensajes. La administración especifica una lista de remitentes con permiso para enviar mensajes al grupo de distribución. La aprobación de mensajes especifica uno o varios moderadores que deben aprobar que todos los mensajes se envíen al grupo de distribución.
 
-- **Tamaño máximo de mensaje para grandes grupos de distribución**: Si un mensaje se envía a 5.000 o más destinatarios, el tamaño del mensaje no puede exceder este límite. Si lo excede, el mensaje no se entrega y el remitente recibe un informe de no entrega (NDR). La contabilización total de destinatarios se determina tras la expansión del grupo de distribución.
+- **Tamaño máximo de mensaje para grandes grupos de distribución**: Si un mensaje se envía a 5.000 o más destinatarios, el tamaño del mensaje no puede exceder este límite. Si lo excede, el mensaje no se entrega y el remitente recibe un informe de no entrega (NDR).
 
 ### <a name="distribution-group-limits-across-office-365-options"></a>Límites de grupos de distribución en las opciones de Office 365
 
