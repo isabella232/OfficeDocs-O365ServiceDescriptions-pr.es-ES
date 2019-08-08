@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no son configurables, a menos que se especifique lo contrario.
-ms.openlocfilehash: 02a83ca4a6729edd301827cef1bc7ce04a331398
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
+ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051611"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36231398"
 ---
 # <a name="exchange-online-protection-limits"></a>Límites de Exchange Online Protection
 
@@ -36,7 +36,7 @@ Los siguientes límites existen actualmente para Exchange Online Protection. Est
     
 - **Límite de listas de direcciones IP permitidas o bloqueadas** Cuando configure una lista de direcciones IP permitidas o una lista de direcciones IP bloqueadas en el filtro de conexión, puede especificar un máximo de 1.273 entradas, donde una entrada es una dirección IP única o una rango CIDR de direcciones IP de /24 a /32. 
     
-- **Límite de aplazamiento de mensajes** Los mensajes aplazados permanecen en las colas durante 2 días. Los reintentos de envío de mensajes se basan en el tipo de error que se recibe del sistema de correo del destinatario. Los mensajes se vuelven a intentar cada 15 minutos. 
+- **Límite de aplazamiento de mensajes** Los mensajes en aplazamientos permanecerán en nuestras colas durante 24 horas. Los reintentos de envío de mensajes se basan en el tipo de error que se recibe del sistema de correo del destinatario. Los mensajes se vuelven a intentar cada 15 minutos. 
     
 - **Período de retención de cuarentena de correo no deseado** De forma predeterminada, los mensajes de correo no deseado que se envían a la cuarentena se conservan durante 30 días. Los administradores pueden reducir este valor por medio de las directivas de filtro de contenido. 
     
