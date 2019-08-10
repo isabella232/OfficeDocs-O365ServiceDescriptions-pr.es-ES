@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si quiere conocer las diferencias entre los planes de Office 365, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: ccc8ba16e540381233609d2abab0497cf24f780e
-ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
+ms.openlocfilehash: 11873d371098fab28a9b5cd7af8ac7632f2164d3
+ms.sourcegitcommit: 26895f0f8f9aa7192335c6028361155beaec03a1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36258888"
+ms.lasthandoff: 08/10/2019
+ms.locfileid: "36286027"
 ---
 # <a name="office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Office 365
 
@@ -226,4 +226,4 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 <br/><sup>20</sup> disponible como complemento gratuito. Para obtener más información, vea [obtener acceso a Microsoft bookings](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
 <br/><sup>21</sup> para obtener myanalytics (completo) con el plan E3, tiene que comprar el complemento myanalytics de myanalytics. Para obtener más información, vea [planes y entornos de myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments). 
 <br/><sup>22</sup> incluye información de myanalytics por myanalytics. Para obtener más información, vea [planes y entornos de myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
-<br/><sup>23</sup> incluye las características de Azure Active Directory descritas en la columna **Office 365 apps** en la [Página de precios de Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/). Debe agregar Azure Active Directory plan 1 o plan 2, Enterprise Mobile Security o Microsoft 365 E3 o E5 para obtener las características avanzadas de Azure AD.
+<br/><sup>23</sup> incluye las características de Azure Active Directory descritas en la columna **Office 365 apps** en la [Página de precios de Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/). Debe agregar Azure Active Directory plan 1 o plan 2, Enterprise Mobile Security o Microsoft 365 E3 o E5 para obtener las características Premium de Azure AD.
