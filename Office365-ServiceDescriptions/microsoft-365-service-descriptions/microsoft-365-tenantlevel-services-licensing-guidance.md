@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para los servicios a nivel de inquilino de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 04cfb96198c8b4fe493c37a1446155d798d7dc6d
-ms.sourcegitcommit: 7ad0485e96ba710602326bca23fe0f8eb4d4e57d
+ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
+ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36258868"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36384874"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 información sobre licencias de servicios de nivel de inquilino
 
@@ -63,7 +63,7 @@ De forma predeterminada, las características de ATP de Azure están habilitadas
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Microsoft proporciona solicitudes de aprobación del control de acceso de Lockbox del cliente para los usuarios con licencia.
+Microsoft ofrece capacidades de detección de amenazas para los usuarios con licencia.
 
 ## <a name="azure-information-protection"></a>Azure Information Protection
 
@@ -250,7 +250,7 @@ Los administradores pueden activar los controles de caja de caja del cliente en 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Microsoft no se compromete a ofrecer solicitudes de aprobación de control de acceso de Lockbox de clientes para usuarios que no tienen licencia. Con el tiempo, las comprobaciones de licencia o las herramientas de destino se agregarán a la caja de caja del cliente para garantizar que los usuarios con licencia puedan asignar la caja de caja del cliente.
+Microsoft proporciona solicitudes de aprobación del control de acceso de Lockbox del cliente para los usuarios de su organización de Office 365.
 
 ## <a name="privileged-access-management-in-office-365"></a>Administración del acceso con privilegios en Office 365
 
