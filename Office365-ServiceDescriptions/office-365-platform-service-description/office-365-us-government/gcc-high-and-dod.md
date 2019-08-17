@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Para satisfacer los requisitos exclusivos y en constante evolución del Departamento de defensa de los Estados Unidos, así como los contratistas que retienen o procesan la información sin clasificar (CUI) o el tráfico internacional en las regulaciones de brazos (ITAR), Microsoft ofrece GCC: entornos altos y DoD. Disponible mediante las licencias por volumen, las organizaciones que estén interesadas pueden participar en un proceso de validación para certificar su idoneidad antes de establecer el entorno. Las pruebas no están disponibles en este momento.'
-ms.openlocfilehash: c35f75875aac2c4187324f13365a3ac69827ce93
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
+ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928419"
+ms.lasthandoff: 08/17/2019
+ms.locfileid: "36450294"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High y DoD
 
@@ -84,7 +84,7 @@ Otros ejemplos:
   
 - GCC High arrendatario A puede compartirse con GCC High tenant B y los usuarios B inician sesión con el nombre de usuario y la contraseña de Azure AD.
     
-- El inquilino C de no GCC no puede compartir con los códigos de acceso de los usuarios altos de GCC A o B, y o B con los códigos de acceso de un solo uso.
+- Un inquilino alto de GCC que no sea de GCC puede compartir con los códigos de acceso de los usuarios altos de GCC A o B, y con los códigos de acceso de un solo uso.
     
 - El inquilino alto de GCC A o B puede compartirse con los códigos de acceso de un solo uso de los usuarios de C y el elevado espacio empresarial sin GCC.
     
