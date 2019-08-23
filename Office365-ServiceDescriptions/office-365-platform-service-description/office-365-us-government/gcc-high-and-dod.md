@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Para satisfacer los requisitos exclusivos y en constante evolución del Departamento de defensa de los Estados Unidos, así como los contratistas que retienen o procesan la información sin clasificar (CUI) o el tráfico internacional en las regulaciones de brazos (ITAR), Microsoft ofrece GCC: entornos altos y DoD. Disponible mediante las licencias por volumen, las organizaciones que estén interesadas pueden participar en un proceso de validación para certificar su idoneidad antes de establecer el entorno. Las pruebas no están disponibles en este momento.'
-ms.openlocfilehash: 27d66352cebe96da3c0ca914d394f4d0090c1e99
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 65a8362ba02fe000c2f0f6a4c172b3067a5663e6
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450294"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568123"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High y DoD
 
@@ -108,4 +108,8 @@ Multi-Factor Authentication con un modelo de identidad federado permite el uso d
 
 Yammer Enterprise no está disponible en los entornos de GCC alto y DoD.
   
+## <a name="customer-support"></a>Soporte al cliente
 
+Microsoft le recuerda que no debe compartir ninguna información controlada, delicada o confidencial con el personal de soporte técnico al cliente como parte de su incidente de soporte técnico cuando use Office 365 GCC High/DOD como mínimo hasta que confirme la autorización del agente de soporte para ver o obtener acceso a estos datos.
+
+Microsoft se compromete a proteger su [privacidad](https://privacy.microsoft.com/privacystatement)). Sin embargo, la compatibilidad con Office 365 GCC High/DoD no se incluye en el límite de la acreditación de servicios y no proporciona garantías de cumplimiento normativo de administración de datos de FedRAMP, DOD SRG, ITAR, IRS 1075 o CJIS.

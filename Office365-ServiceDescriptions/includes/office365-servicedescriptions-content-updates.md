@@ -3,16 +3,6 @@
 
 
 
-## <a name="week-of-july-08-2019"></a>Semana del 8 de julio de 2019
-
-
-| Fecha de publicación |Título del tema | Cambio |
-|------|------------|--------|
-| 7/11/2019 | [Descripción del servicio de aplicaciones de Office](/Office365/ServiceDescriptions/office-applications-service-description/office-applications-service-description) | modificado |
-| 7/12/2019 | [Descripción del servicio Direct Engineer de Office 365](/Office365/ServiceDescriptions/office-365-engineering-direct-service-description) | modificado |
-| 7/12/2019 | [Centro de seguridad y cumplimiento de Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificado |
-
-
 ## <a name="week-of-july-15-2019"></a>Semana del 15 de julio de 2019
 
 
@@ -165,3 +155,17 @@
 | 8/8/2019 | [Centro de seguridad y cumplimiento de Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-securitycompliance-center) | modificado |
 | 8/9/2019 | [Descripción del servicio de la plataforma de Office 365](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-platform-service-description) | modificado |
 | 8/9/2019 | [Descripción del servicio de OneDrive para la Empresa](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | modificado |
+
+
+## <a name="week-of-august-12-2019"></a>Semana del 12 de agosto de 2019
+
+
+| Fecha de publicación |Título del tema | Cambio |
+|------|------------|--------|
+| 8/12/2019 | [Continuidad y estado del servicio](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | modificado |
+| 8/13/2019 | [Microsoft 365 información sobre licencias de servicios de nivel de inquilino](/Office365/ServiceDescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance) | modificado |
+| 8/14/2019 | [Descripción del servicio de OneDrive para la Empresa](/Office365/ServiceDescriptions/onedrive-for-business-service-description) | modificado |
+| 8/16/2019 | [Office 365 GCC High y DoD](/Office365/ServiceDescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod) | modificado |
+| 8/16/2019 | [Continuidad y estado del servicio](/Office365/ServiceDescriptions/office-365-platform-service-description/service-health-and-continuity) | modificado |
+| 8/16/2019 | [Visio para la descripción del servicio Web](/Office365/ServiceDescriptions/visio-online-service-description/visio-online-service-description) | modificado |
+| 8/16/2019 | [Visio para la web](/Office365/ServiceDescriptions/visio-online-service-description/visio-online) | modificado |

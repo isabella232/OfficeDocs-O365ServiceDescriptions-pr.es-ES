@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online en Office 365 faculta a las personas para que compartan y trabajen en conjunto, para informar y atraer a otros en la empresa, transformar los procesos empresariales y aprovechar los conocimientos colectivos. Además, SharePoint proporciona capacidades para que las organizaciones protejan y administren datos y creen soluciones personalizadas. Para obtener una introducción rápida, vea ¿qué es SharePoint?
-ms.openlocfilehash: 0e02d79d49f10a6ee774263fdeb87d630d11898f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 94c9f9e87b4ec5841f9884f0ad19101042bc6f9e
+ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777861"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36568135"
 ---
 # <a name="sharepoint-online-service-description"></a>Descripción del servicio SharePoint Online
 
@@ -90,7 +90,7 @@ Use la tabla siguiente para ver si una característica de SharePoint está dispo
 |[Receptor remoto de eventos](developer.md#remote-event-receiver) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[API de REST](developer.md#rest-apis) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Administrador de diseño de SharePoint](developer.md#sharepoint-design-manager) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |[SharePoint Framework](developer.md#sharepoint-framework) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Flujos de trabajo de SharePoint 2010 (implementación inmediata)](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Flujos de trabajo de SharePoint 2013 y SharePoint 2016](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -177,7 +177,7 @@ Use la tabla siguiente para ver si una característica de SharePoint está dispo
 |[Exploración rápida](insights.md#quick-explore) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |[Modo integrado de SQL Server Reporting Services (SSRS)](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |[Segmentador de escala de tiempo](insights.md#timeline-slicer) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Visio para la web](https://technet.microsoft.com/library/mt827475.aspx) <sup>17</sup> <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
+|[Visio para la web](../visio-online-service-description/visio-online-service-description.md) <sup>17</sup> <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
 |[Servicios de Visio](insights.md#visio-services) <sup>17</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |**Características de búsqueda** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**SharePoint Online plan 1** <br/> |**SharePoint Online plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
 |[Rastreos continuos](search.md#continuous-crawls) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
