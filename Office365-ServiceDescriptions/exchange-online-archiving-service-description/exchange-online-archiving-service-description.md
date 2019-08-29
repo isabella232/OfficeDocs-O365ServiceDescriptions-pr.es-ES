@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: El archivado de Microsoft Exchange Online es una solución de archivado de clase empresarial, basada en la nube de Microsoft Office 365, para organizaciones que han implementado Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 y versiones posteriores) o suscribirse a determinados planes de Exchange Online u Office 365. Archivado de Exchange Online ayuda a satisfacer las necesidades de estas organizaciones relacionadas con el archivo, el cumplimiento normativo, las disposiciones legales y la exhibición de documentos electrónicos, al mismo tiempo que simplifica la infraestructura local, reduce costes y facilita el trabajo de TI.
-ms.openlocfilehash: 257904ba751b23cb5e04f923994449cf3794488f
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
+ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231388"
+ms.lasthandoff: 08/28/2019
+ms.locfileid: "36656294"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de archivado de Exchange Online
 
@@ -42,7 +42,7 @@ Archivado de Exchange Online está disponible a través de los siguientes planes
 |:-----|:-----|
 |**Archivado de Exchange Online para Exchange Server** <br/> |Archivo basado en la nube para usuarios con buzones de correo principales en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o posterior).  <br/> Si desea agregar un archivo basado en la nube a un buzón principal que está en un servidor de Exchange local, necesita configurar una implementación híbrida. Para obtener más información sobre las implementaciones híbridas, consulte [Implementaciones híbridas de Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  <br/> |
 |**Archivado de Exchange Online para Exchange Server (a través de Enterprise CAL Suite)** <br/> |Archivo basado en la nube para usuarios con buzones de correo principales en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o posterior). Para obtener más información, vea [Resumen de licencias: licencias de Core CAL Suite y de Enterprise CAL Suite](https://www.microsoft.com/licensing/product-licensing/client-access-license).  <br/> |
-|**Archivado de Exchange Online para Exchange Online** <br/> | Archivo basado en la nube y conservación local como complemento para los siguientes planes<sup>1, 2</sup>:<br/>  Plan 1 de Exchange Online  <br/>  Quiosco de Exchange Online  <br/>  Office 365 Empresa Essentials  <br/>  Office 365 Empresa Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F1  <br/>  <b>Nota:</b> Los siguientes planes ya incluyen archivado y no requieren archivado de Exchange online como complemento:<br/> Office 365 Ámbito educativo A1 <br/>Office 365 Educación A3 <br/>  Office 365 educación A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Plan 2 de Exchange Online <br/>  Para obtener detalles acerca de la capacidades de archivo de los buzones de correo de Exchange Online, consulte [Buzones de archivo de Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
+|**Archivado de Exchange Online para Exchange Online** <br/> | Archivo basado en la nube y conservación local como complemento para los siguientes planes<sup>1, 2</sup>:<br/>  Plan 1 de Exchange Online  <br/>  Quiosco de Exchange Online  <br/>  Office 365 Empresa Essentials  <br/>  Office 365 Empresa Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F1  <br/> Microsoft 365 Empresa <br/> Microsoft 365 Enterprise F1<br/> <b>Nota:</b> Los siguientes planes ya incluyen archivado y no requieren archivado de Exchange online como complemento:<br/> Office 365 Ámbito educativo A1 <br/>Office 365 Educación A3 <br/>  Office 365 educación A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Plan 2 de Exchange Online <br/> Microsoft 365 Enterprise E3 <br/> Microsoft 365 Enterprise E5 <br/>Para obtener detalles acerca de la capacidades de archivo de los buzones de correo de Exchange Online, consulte [Buzones de archivo de Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
    
 >[!NOTE]
 ><sup>1</sup> No se necesita una implementación híbrida para las organizaciones basadas exclusivamente en la nube en las que no hay buzones de correo ubicados en un servidor Exchange local. Sin embargo, si existen buzones locales, la implementación híbrida es necesaria.
