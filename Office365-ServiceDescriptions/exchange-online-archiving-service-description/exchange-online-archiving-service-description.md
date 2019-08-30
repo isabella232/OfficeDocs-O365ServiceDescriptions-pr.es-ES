@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: El archivado de Microsoft Exchange Online es una solución de archivado de clase empresarial, basada en la nube de Microsoft Office 365, para organizaciones que han implementado Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 y versiones posteriores) o suscribirse a determinados planes de Exchange Online u Office 365. Archivado de Exchange Online ayuda a satisfacer las necesidades de estas organizaciones relacionadas con el archivo, el cumplimiento normativo, las disposiciones legales y la exhibición de documentos electrónicos, al mismo tiempo que simplifica la infraestructura local, reduce costes y facilita el trabajo de TI.
-ms.openlocfilehash: 3ed5e99767863e79a5aac41c03ea728b79560b44
-ms.sourcegitcommit: d9a567fd7da06c5f1bcf79f1712e6bf9c8ed8ddd
+ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
+ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/28/2019
-ms.locfileid: "36656294"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36672584"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de archivado de Exchange Online
 
@@ -65,7 +65,7 @@ Cada usuario que acceda al servicio de Archivado de Exchange Online debe tener u
   
 ## <a name="unlimited-archive-storage-quota"></a>Cuota de almacenamiento de archivo ilimitada
 
- La característica de archivado ilimitado de Office 365 (denominada archivado de expansión automática) proporciona una cantidad ilimitada de almacenamiento en los buzones de archivo de Exchange Online. Cada suscriptor de Archivado de Exchange Online recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. En las implementaciones híbridas de Exchange, el archivado de expansión automática solo se admite para buzones de archivo basados en la nube cuando el buzón de correo del usuario local reside en Exchange Server 2019, Exchange Server 2016 o Exchange Server 2013 (SP1 o posterior). Para obtener más información, vea [Información general sobre el archivado ilimitado en Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving). Vea el [Mapa de ruta de Office 365](https://www.microsoft.com/microsoft-365/roadmap?rtc=1&filters=) para obtener información sobre la disponibilidad.
+ La característica de archivado ilimitado de Office 365 (denominada *archivado de expansión automática*) proporciona hasta 1 TB de almacenamiento en buzones de archivo en Exchange Online. Cada suscriptor de Archivado de Exchange Online recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, el espacio de almacenamiento adicional se agrega automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. En las implementaciones híbridas de Exchange, el archivado de expansión automática solo se admite para buzones de archivo basados en la nube cuando el buzón de correo del usuario local reside en Exchange Server 2019, Exchange Server 2016 o Exchange Server 2013 (SP1 o posterior). Para obtener más información, vea [Información general sobre el archivado ilimitado en Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving).
   
 > [!IMPORTANT]
 > Los administradores no pueden ajustar la cuota de almacenamiento.<br/>
