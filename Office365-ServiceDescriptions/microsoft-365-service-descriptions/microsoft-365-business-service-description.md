@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business es una solución integrada que reúne la mejor productividad en su clase de Office 365 con funciones avanzadas de seguridad y administración de dispositivos para ayudarle a proteger su empresa. . Esta descripción de servicio describe las opciones y características del plan. Para obtener más información acerca de Office 365, consulte las descripciones de servicio de Office 365.
-ms.openlocfilehash: 4f8e732514109ee5d7f137907d333829a7b5075a
-ms.sourcegitcommit: 61b4778f15b4b793b41033c4692e632a0351a0e3
+ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
+ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2019
-ms.locfileid: "36206860"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36717548"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descripción del servicio de Microsoft 365 Empresa
 
@@ -133,9 +133,9 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
 |SLA 99,9%  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Advanced Threat Analytics  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |**Características de administración de dispositivos y aplicaciones** <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Administración de dispositivos móviles (MDM)<sup>15</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Intune administración de dispositivos móviles (MDM) para equipos PC, Mac y dispositivos móviles<sup>15</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Inscripción automática de la administración de dispositivos móviles (MDM)  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|Administración de aplicaciones móviles (MAM) para aplicaciones de Office y aplicaciones de LOB<sup>17</sup> <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
+|Intune administración de aplicaciones móviles (MAM) para aplicaciones de Office y aplicaciones de LOB<sup>17</sup> <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Administración de Windows Update, defender, directivas de Firewall<sup>15</sup> <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección de datos: borrado selectivo  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Destino del grupo de seguridad (SG) para las directivas  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
