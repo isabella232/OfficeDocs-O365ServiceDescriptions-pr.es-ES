@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En esta sección se proporciona una introducción a las características específicas de los entornos de Office 365 Government US. Le recomendamos que lea esta sección complementaria junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: fe89cacd115135cd7cd3c5314b84da64c45edf83
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 9f0569e4f4790e3f68228478d501797724f820f9
+ms.sourcegitcommit: 936f6d97d1b6ea77b76006e89163b768ab472030
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231408"
+ms.lasthandoff: 09/05/2019
+ms.locfileid: "36762398"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
-En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En esta sección se proporciona una introducción a las características específicas de los entornos de Office 365 Government US. Le recomendamos que lea esta sección complementaria junto con las descripciones de [servicio de Office 365 ](../../office-365-service-descriptions-technet-library.md).
+En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En esta sección se proporciona una introducción a las características específicas de los entornos de Office 365 Government US. Le recomendamos que lea esta sección complementaria junto con las [descripciones de servicio de Office 365 ](../../office-365-service-descriptions-technet-library.md).
   
 ## <a name="how-to-use-this-service-description-section"></a>Cómo utilizar esta sección de descripción del servicio
 
@@ -323,10 +323,10 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 |[Microsoft Access](../../office-applications-service-description/office-applications.md#microsoft-access) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Skype Empresarial](../../office-applications-service-description/office-applications.md#skype-for-business) <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>3</sup> <br/> |
 |[Office para Mac para Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|[Office Mobile para iPhone o iPad](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
-|[Office Mobile para Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
-|[Office Mobile para Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
-|Office Mobile for Windows 10 tablets <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
+|[Office Mobile para iPhone o iPad](../../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone) <br/> |Sí  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |Sí  <br/> |
+|[Office Mobile para Android](../../office-applications-service-description/office-applications.md#office-mobile-for-android) <br/> |Sí  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |Sí  <br/> |
+|[Office Mobile para Windows Phone](../../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone) <br/> |Sí  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |Sí  <br/> |
+|Office Mobile for Windows 10 tablets <br/> |Sí  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |Sí  <br/> |
 |Outlook para iOS y Android<sup>5, 4</sup>  <br/> |Sí <br/> |Sí <br/> |Sí <br/> |Sí <br/> |
 |**Valor empresarial** <br/> |**Office 365 Administración Pública G1** <br/> |**Office 365 Administración Pública G3** <br/> |**Office 365 Administración Pública G5** <br/> |**Office 365 administración pública F1** <br/> |
 |Cinco instalaciones por usuario en PC o Mac  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
