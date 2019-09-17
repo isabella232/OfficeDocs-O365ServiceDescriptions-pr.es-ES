@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Para cumplir con los requisitos exclusivos y en constante evolución de los gobiernos federales, estatales, locales y Tribals, así como los contratistas que retienen o procesan datos en nombre del gobierno de Estados Unidos, Microsoft ofrece los servicios de Office 365 US Government Community (GCC). Disponible a través de varios canales, incluidas las licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Los ensayos solo están disponibles para entidades gubernamentales de Estados Unidos en este momento.
-ms.openlocfilehash: 5a89a930b11f92e1b5278885839304cc4e5982f6
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 74cffc4b50c15b1aa5cfd32f65d70d6ce6f006e0
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776901"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998512"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -64,7 +64,7 @@ Si decide que el uso de Yammer es adecuado para su organización como parte de s
   
 ## <a name="office-365-us-government-community-and-myanalytics"></a>Office 365 Administración Pública Community y MyAnalytics
 
-MyAnalytics está diseñado y funciona según la implementación de controles del programa FedRAMP de los servicios de Office 365, pero aún no ha pasado la revisión de una 3PAO (organización de evaluación de terceros) en el marco de la auditoría del FedRAMP anual de Office 365. Si lo necesita, puede solicitar más información a su oficina de cumplimiento antes de habilitar los servicios de MyAnalytics para los usuarios de su organización. 
+MyAnalytics está diseñado y funciona según la implementación de controles del programa FedRAMP de los servicios de Office 365, pero aún no ha pasado la revisión de una 3PAO (organización de evaluación de terceros) en el marco de la auditoría del FedRAMP anual de Office 365. Si lo necesita, puede solicitar más información a su oficina de cumplimiento antes de habilitar los servicios de MyAnalytics para los usuarios de su organización.
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Asistencia al cliente de Office 365 de la comunidad de administración de Estados Unidos (GCC)
 

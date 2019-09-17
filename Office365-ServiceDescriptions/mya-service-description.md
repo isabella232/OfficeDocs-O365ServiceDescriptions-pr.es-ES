@@ -8,19 +8,19 @@ ms.service: o365-administration
 localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
-description: Myanalytics--características, distribuciones, privacidad y requisitos previos
-ms.openlocfilehash: 464938e19185e360990cc9b146b670ccd3e5beca
-ms.sourcegitcommit: 209e05c2b058cd64d9b84de95ede0b81477b8c7f
+description: Características, distribuciones, privacidad y requisitos previos de myanalytics
+ms.openlocfilehash: e557c1043579bf38fa3504686551e76609d211b9
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753829"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998482"
 ---
 # <a name="myanalytics-service-description"></a>Descripción del servicio MyAnalytics
 
 Myanalytics resume cómo dedica su tiempo en el trabajo y, a continuación, sugiere formas de trabajar de forma más inteligente. Myanalytics proporciona esta información a través de elementos a [los](#elements) que se puede obtener acceso en Microsoft Outlook o a través del explorador Web.
 
-Algunos de los elementos de myanalytics se proporcionan automáticamente a los usuarios de varios planes de Office 365. Para obtener más información, vea distribuciones de [myanalytics](#myanalytics-distributions).  
+Algunos de los elementos de myanalytics se proporcionan automáticamente a los usuarios de varios planes de Office 365. Para obtener información sobre los elementos que se incluyen en los planes de Office 365 y Microsoft 365, consulte [planes y entornos de myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).  
 
 Myanalytics procesa la información de una manera que protege la privacidad de los empleados. Para obtener más información, consulte [privacidad de datos](#data-privacy).
 
@@ -28,21 +28,10 @@ Myanalytics procesa la información de una manera que protege la privacidad de l
 
 Myanalytics consta de los siguientes elementos:
 
-* [Panel myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2): ayuda a reflejar en los patrones de trabajo, como el tiempo que tiene disponible para enfocarse, las prácticas de reuniones y de correo electrónico, y la red.
-* [Información](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in)sobre el complemento de Outlook: proporciona información útil sobre Outlook que le ayudará a mantenerse al tanto de las tareas y a hacer más cosas.
-* [Resumen de correo electrónico](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest): proporciona destacados principales sobre los patrones de trabajo en un correo electrónico semanal.
-* [Sugerencias en línea en Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): estas breves sugerencias basadas en datos y en AI aparecen en Outlook mientras lee o redacta un correo electrónico o una invitación a una reunión.
-
-## <a name="myanalytics-distributions"></a>Distribuciones de myanalytics
-
-Los elementos de myanalytics están disponibles en distintos niveles para los usuarios de distintos planes de Microsoft Office 365, tal como se describe en la tabla siguiente:
-
-| Plan | Plan de servicio | Elementos disponibles |
-| --- | --- | ----- |
-| Microsoft 365 E3</br>Microsoft 365 Empresa</br>Office 365 E3</br>Office 365 E1</br>Empresa Premium</br>Empresa Essentials |  <br>Información de <br>MyAnalytics| </br></br></br>[Complemento de Outlook Insights](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in) <br> (otros elementos de myanalytics<br> estará disponible en el futuro)|
-| Microsoft 365 E5</br>Office 365 Enterprise E5</br>Office 365 A5</br>Office 365 para ONG E5</br>Complemento de myanalytics | Myanalytics (completa)<br>y<br>  Información de myanalytics | </br>[Panel](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2), [información complemento de Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in), [Resumen de correo electrónico](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2)y [sugerencias en línea](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications) |
-
-Para obtener más información, vea [disponibilidad de características](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
+* [Panel](https://docs.microsoft.com/workplace-analytics/myanalytics/use/dashboard-2): ayuda a reflejar en los patrones de trabajo, como el tiempo de trabajo, las reuniones y las prácticas de correo electrónico prioritarios, y las redes.
+* [Complemento de Outlook](https://docs.microsoft.com/workplace-analytics/myanalytics/use/add-in): proporciona información útil en Outlook que le ayuda a mantenerse al tanto de las tareas y a hacer más cosas.
+* [Resúmenes de correo electrónico](https://docs.microsoft.com/workplace-analytics/myanalytics/use/email-digest-2): proporcione resaltados clave sobre los patrones de trabajo en un correo electrónico semanal.
+* [Sugerencias en línea](https://docs.microsoft.com/workplace-analytics/myanalytics/use/mya-notifications): estas breves sugerencias basadas en datos y en AI aparecen en Outlook mientras lee o redacta un correo electrónico o una invitación a una reunión.
 
 ## <a name="data-privacy"></a>Privacidad de datos
 
@@ -57,6 +46,8 @@ Al cumplir con las siguientes directrices, myanalytics protege la privacidad de 
 * Myanalytics recuerda a los usuarios que sus datos son privados y seguros.
 
 Para obtener más información, vea la [Guía de privacidad de myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide).
+
+[Obtenga más información sobre cómo myanalytics puede ayudarle a trabajar de manera más inteligente](https://products.office.com/business/myanalytics-personal-analytics).
 
 ## <a name="prerequisites"></a>Requisitos previos
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 'Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios de colaboración y comunicaciones de próxima generación de Microsoft, como Microsoft Exchange Online, Microsoft SharePoint Online, Office para la web y Microsoft Skype empresarial online: para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.'
-ms.openlocfilehash: 6c3e4edc62fcb54afb5b8972cd93bf3a9b55980c
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
+ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854891"
+ms.lasthandoff: 09/16/2019
+ms.locfileid: "36998492"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
@@ -74,7 +74,7 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 |Microsoft Flow  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Forms  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |API de Microsoft Graph  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft MyAnalytics  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|Microsoft MyAnalytics<sup>9</sup>  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Planner  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft PowerApps  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft StaffHub  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -186,8 +186,9 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 <sup>5</sup> disponible en [https://securescore.office.com](https://securescore.office.com/) (el vínculo requiere permisos de administrador). Para obtener más información, vea [Introducción a la puntuación segura de Office 365](https://docs.microsoft.com/office365/securitycompliance/microsoft-secure-score).<br/> 
 <sup>6</sup> Microsoft Sway no está disponible actualmente para los clientes de algunas ubicaciones geográficas. Es posible que algunos planes de Office 365 heredados que ya no están en el mercado desde agosto de 2015 tampoco tengan acceso a Microsoft Sway. <br/> 
 <sup>7</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]). <br>
-<sup>8</sup> para obtener información acerca de las características de Microsoft Stream incluidas en cada plan, consulte la [Introducción a las licencias por secuencias](https://stream.microsoft.com/documentation/stream-license-overview/). <br/>
-  
+<sup>8</sup> para obtener información acerca de las características de Microsoft Stream incluidas en cada plan, consulte la [Introducción a las licencias por secuencias](https://stream.microsoft.com/documentation/stream-license-overview/).<br>
+<sup>9</sup> para obtener más información, consulte [planes y entornos de myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).<br>
+
 ## <a name="office-365-security-amp-compliance-center-features"></a>Características del centro &amp; de seguridad y cumplimiento de Office 365
 <a name="SCC"> </a>
 
@@ -1248,7 +1249,7 @@ En la siguiente tabla se enumeran las características de Skype empresarial onli
 |Informes de Skype empresarial online en el centro de administración de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic está disponible para todos los clientes. El cliente para equipos de escritorio de Lync Basic es una aplicación instalada de forma local que ofrece características de presencia, mensajería instantánea y conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus y Office 365 a3 incluyen la aplicación de Skype empresarial (Lync) completa, que incluye características adicionales, como la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. A Skype for Business Online license must be assigned for each user. Para obtener más información sobre las características de Lync Basic, vea [tablas de cliente de escritorio](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables) de Ariss<br/> 
+> <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic está disponible para todos los clientes. El cliente para equipos de escritorio de Lync Basic es una aplicación instalada de forma local que ofrece características de presencia, mensajería instantánea y conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus y Office 365 a3 incluyen la aplicación de Skype empresarial (Lync) completa, que incluye características adicionales, como la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. A Skype for Business Online license must be assigned for each user. Para obtener más información sobre las características de Lync Basic, vea [tablas de cliente de escritorio de Ariss](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
 <sup>2</sup> debe asignar un plan de Exchange Online (plan 2) a los usuarios que quiera que tengan correo de voz. An Exchange Online (Plan 1) plan can't be used for voice mail. 
   
 ### <a name="skype-for-business-online-limits"></a>Límites de Skype empresarial online
