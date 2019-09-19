@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para los servicios a nivel de inquilino de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: deda343d59ce71cc21e8972222faead6761309af
-ms.sourcegitcommit: c1f8003315bc39347d1f3114c8bd204a65e1892c
+ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
+ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36384874"
+ms.lasthandoff: 09/18/2019
+ms.locfileid: "37035136"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 información sobre licencias de servicios de nivel de inquilino
 
@@ -150,7 +150,7 @@ Los usuarios con licencia de Azure AD P1 pueden beneficiarse de las capacidades 
 
 Para beneficiarse de las capacidades de control de la [aplicación de acceso condicional](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) en MCAS, los usuarios también deben tener una licencia para Azure Active Directory P1, que se incluye en Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/ A3/G3, Microsoft 365 E5/A5/G5 y seguridad de Microsoft 365 E5/A5/G5.
 
-Para beneficiarse de la [etiquetación automática](https://docs.microsoft.com/cloud-app-security/data-protection-policies), los usuarios deben tener una licencia para Azure Information Protection P1, que se incluye en Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 y cumplimiento de Microsoft 365 E5/A5/G5.
+Para beneficiarse de la [etiquetación automática](https://docs.microsoft.com/cloud-app-security/data-protection-policies), los usuarios deben tener una licencia para Azure Information Protection P2, que se incluye en Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 y cumplimiento de Microsoft 365 E5/A5/G5.
 
 Para obtener más información, vea la hoja de datos de [licencias de Microsoft Cloud App Security](http://www.aka.ms/mcaslicensing).
 
@@ -278,7 +278,7 @@ Con la prevención de pérdida de datos (DLP) para Exchange Online, SharePoint O
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E3/a3/G3, Microsoft 365 Business, Microsoft 365 E3/a3/G3 y la prevención de pérdida de datos de Office 365 pueden beneficiarse de DLP para Exchange Online, SharePoint Online y OneDrive para la empresa.
+Los usuarios con licencia de Office 365 E3/a3/G3, Microsoft 365 Business, Microsoft 365 a1/E3/a3/G3 y la prevención de pérdida de datos de Office 365 pueden beneficiarse de DLP para Exchange Online, SharePoint Online y OneDrive para la empresa.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
