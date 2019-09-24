@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online en Office 365 faculta a las personas para que compartan y trabajen en conjunto, para informar y atraer a otros en la empresa, transformar los procesos empresariales y aprovechar los conocimientos colectivos. Además, SharePoint proporciona capacidades para que las organizaciones protejan y administren datos y creen soluciones personalizadas. Para obtener una introducción rápida, vea ¿qué es SharePoint?
-ms.openlocfilehash: 94c9f9e87b4ec5841f9884f0ad19101042bc6f9e
-ms.sourcegitcommit: f7a5c67a0fb1ab100d471bd190e0a58628e76ce5
+ms.openlocfilehash: 18f39141220c96b0d85da0a75cd42e09a4d298fc
+ms.sourcegitcommit: 6d5ef72a0919dd8e730031a1ddac4db6632ac2cd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36568135"
+ms.lasthandoff: 09/24/2019
+ms.locfileid: "37131481"
 ---
 # <a name="sharepoint-online-service-description"></a>Descripción del servicio SharePoint Online
 
@@ -238,7 +238,7 @@ Use la tabla siguiente para ver si una característica de SharePoint está dispo
 |[Aplicaciones aprovisionadas de Azure: código personalizado en el rol web ligero de Azure (LWR)](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
 
 <sup>1</sup> para usar la sincronización de carpetas, debe tener Office 2013 o posterior (Standard o Professional Edition) o una suscripción a Office 365 que incluya aplicaciones de Office. Office 365 empresas Essentials, Office 365 Enterprise E1 y los planes de Office 365 Education no incluyen suscripciones a las aplicaciones de escritorio de Office. Sin embargo, puede usar la sincronización de carpetas si tiene Office 2013 o posterior instalado y se suscribe a uno de estos planes. <br/>
-<sup>2</sup> los trabajadores de Firstline tienen funciones limitadas de OneDrive para la empresa. Los trabajadores de Firstline reciben 2 GB de almacenamiento y carecen de capacidades de sincronización de escritorio. Las cuentas de Firstline no incluyen un sitio personal de OneDrive para la empresa, por lo que no se benefician de una biblioteca personal de OneDrive para la empresa con 1 TB o 5 TB de almacenamiento en línea.<br/> 
+<sup>2</sup> los trabajadores de Firstline tienen funciones limitadas de OneDrive para la empresa. Los trabajadores de Firstline reciben 2 GB de almacenamiento.<br/> 
 <sup>3</sup> no se incluye Azure Information Protection, pero puede adquirirse como un complemento independiente y habilitará las características de Information Rights Management (IRM) compatibles. Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
 <sup>4</sup> como los trabajadores Firstline no pueden ser administradores, los inquilinos con trabajadores de Firstline necesitan al menos un usuario de Enterprise para obtener acceso al centro de administración. <br/>
 <sup>5</sup> los clientes de SharePoint Online deben descargar e instalar la aplicación gratuita Rank Model TUNING para crear y personalizar modelos de clasificación. <br/> 
