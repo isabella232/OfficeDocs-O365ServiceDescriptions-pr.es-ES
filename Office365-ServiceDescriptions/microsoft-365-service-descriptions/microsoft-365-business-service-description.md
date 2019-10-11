@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business es una solución integrada que reúne la mejor productividad en su clase de Office 365 con funciones avanzadas de seguridad y administración de dispositivos para ayudarle a proteger su empresa. . Esta descripción de servicio describe las opciones y características del plan. Para obtener más información acerca de Office 365, consulte las descripciones de servicio de Office 365.
-ms.openlocfilehash: 6fc052699823706997c2ac4c97608b33305b46b3
-ms.sourcegitcommit: f1e4abbaeaa6c127d7ae5c48b03b194872f804d6
+ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36717548"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442555"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descripción del servicio de Microsoft 365 Empresa
 
-Microsoft 365 Business es una solución integrada que reúne la mejor productividad en su clase de Office 365 con funciones avanzadas de seguridad y administración de dispositivos para ayudarle a proteger su empresa. Esta descripción de servicio describe las opciones y características del plan. Para obtener más información acerca de Office 365, consulte las descripciones de [servicio de office 365](../office-365-service-descriptions-technet-library.md).
+Microsoft 365 Business es una solución integrada que reúne la mejor productividad en su clase de Office 365 con funciones avanzadas de seguridad y administración de dispositivos para ayudarle a proteger su empresa. Esta descripción de servicio describe las opciones y características del plan. Para obtener más información acerca de Office 365, consulte las [descripciones de servicio de office 365](../office-365-service-descriptions-technet-library.md).
   
 ## <a name="feature-availability-across-office-365-business-premium-and-microsoft-365-business-plans"></a>Disponibilidad de características en los planes de empresa de Office 365 empresa Premium y Microsoft 365
 
@@ -35,7 +35,7 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
 |SharePoint Online  <br/> |Sí  <br/> |Sí  <br/> |
 |OneDrive para la Empresa  <br/> |Sí  <br/> |Sí  <br/> |
 |Skype Empresarial Online  <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |
-|Office para la web  <br/> |Sí  <br/> |Sí  <br/> |
+|Office para la Web  <br/> |Sí  <br/> |Sí  <br/> |
 |[Aplicaciones de Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Sí  <br/> |Sí  <br/> |
 |Project Online  <br/> |No<sup>3</sup> <br/> |No<sup>3</sup> <br/> |
 |Power BI  <br/> |No  <br/> |No  <br/> |
@@ -58,7 +58,7 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
 |Office 365 Video  <br/> |No  <br/> |No  <br/> |
 |Bloc de notas de clase de OneNote  <br/> |No  <br/> |No  <br/> |
 |Microsoft Kaizala<sup>18</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|[Características de administración de Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx) <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |
+|[Características del centro de administración de 365 de Microsoft](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings) <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |
 |Administración de Office 365 mediante el centro de administración de Microsoft 365 o Windows PowerShell  <br/> |Sí  <br/> |Sí  <br/> |
 |Proteger el contenido con Azure Information Protection  <br/> |No<sup>6</sup> <br/> |Sí  <br/> |
 |Shared computer activation <br/> |No <br/> |Sí  <br/> |

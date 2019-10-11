@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: 21616679553d1f69b8ee8630fdff573c10b47f4d
-ms.sourcegitcommit: 3976036fdf009ec5f6424495251c830c0b379b6a
+ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/05/2019
-ms.locfileid: "37401766"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442755"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
@@ -88,7 +88,11 @@ Solo la aplicación de escritorio de Microsoft Excel admite las características
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Gráficos y tablas, incluidos los informes de gráfico dinámico y de tabla dinámica
 
 Las tablas y los gráficos de Excel hacen que sea más fácil dar formato a los datos y administrar la información. Para obtener más información, vea [crear y dar formato a tablas](https://support.office.com/article/e81aa349-b006-4f8a-9806-5af9df0ac664) e [información general sobre los informes de tabla dinámica y gráfico dinámico](https://go.microsoft.com/fwlink/?linkid=55417).
-  
+
+## <a name="check-spelling"></a>Revisar la ortografía
+
+Para comprobar la ortografía de cualquier texto de la hoja de cálculo, seleccione **revisión** > **** > **ortográfica**de revisión. Obtenga más información sobre la revisión [ortográfica](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+
 ## <a name="comment-creation"></a>Comment creation
 
 Puede insertar, editar y eliminar comentarios en Excel para Web. También puede resolver un hilo de comentarios, que lo cierra a los cambios y a los nuevos comentarios, pero lo deja en su ubicación. Esto le permite volver a abrir el subproceso para comentarios si es necesario. Obtenga más información sobre cómo [agregar un comentario en Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
@@ -123,7 +127,7 @@ Dropbox es un servicio de hospedaje de archivos que ofrece almacenamiento en la 
   
 ## <a name="duplicate-copy-worksheets"></a>Duplicar (copiar) hojas de cálculo
 
-Puede duplicar (o copiar) hojas de cálculo dentro de un libro o a otro libro en Excel para el Web. Obtenga más información sobre cómo [copiar hojas de cálculo en Excel para la web](https://support.office.com/article/47207967-BBB2-4E95-9B5C-3C174AA69328#ID0EAACAAA=Online).
+Puede duplicar (o copiar) hojas de cálculo dentro de un libro o a otro libro en Excel para el Web. Obtenga más información sobre cómo [copiar hojas de cálculo en Excel para la web](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web).
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Insertar libro en la página web o blog (OneDrive)
 
@@ -171,7 +175,7 @@ Navegue rápidamente por la hoja de cálculo con la característica Ir a. Escrib
  
 ## <a name="group-data"></a>Datos de grupo
 
-Puede agrupar o esquematizar filas y columnas en la hoja de cálculo de Excel para la Web. Obtenga más información sobre [la agrupación de datos en Excel para la web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Online).
+Puede agrupar o esquematizar filas y columnas en la hoja de cálculo de Excel para la Web. Obtenga más información sobre [la agrupación de datos en Excel para la web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
@@ -181,9 +185,9 @@ Puede ocultar y mostrar filas, columnas y hojas de un libro en Excel para Web.
 
 Cree un gráfico para representar los datos de manera visual. Elija de una variedad de tipos de gráficos, como columna, línea, gráficos circulares o de barra. Obtenga más información sobre los [tipos de gráficos disponibles](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
-## <a name="insertdelete-rows-and-columns"></a>Insertar/eliminar filas y columnas
+## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
-Seleccione una o varias filas antes de hacer clic en Insertar o Eliminar en la ficha Inicio para agregar o quitar filas o columnas en la hoja de cálculo, ya sea una o varias a la vez.
+Seleccione una o más filas antes de seleccionar **Insertar** o **eliminar** en la ficha **Inicio** para agregar o quitar filas o columnas de la hoja de cálculo, una por una o varias a la vez.
 
 ## <a name="insert-pictures"></a>Insertar imágenes
 
@@ -195,7 +199,7 @@ Agregar y dar formato a formas como cuadros, círculos, líneas, conectores o fl
   
 ## <a name="merge-cells"></a>Merge cells
 
-Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. You can change the alignment by clicking the Alignment buttons.
+Use Merge &amp; Center on the Home tab to combine and center the contents of the selected cells in one larger cell. Puede cambiar la alineación seleccionando los botones de alineación.
 
 ## <a name="named-ranges"></a>Rangos con nombre
 
@@ -213,7 +217,7 @@ Cambie el formato de los números. Seleccione un formato como Moneda o Fecha cor
 
 Excel para el Web se inicia desde un explorador de Internet y depende de una conexión a Internet. Para acceder a hojas de cálculo sin conexión, la aplicación de escritorio de Microsoft Excel debe estar instalada en el equipo para poder ver y editar hojas de cálculo de Excel.
 
-## <a name="pivottables"></a>PivotTables
+## <a name="pivottables"></a>Tablas dinámicas
 
 Puede insertar tablas dinámicas en la hoja de cálculo de Excel para la hoja de cálculo web y calcular, resumir y analizar datos. Obtenga más información sobre cómo insertar una [tabla dinámica en Excel para el Web](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web).
 
@@ -249,15 +253,15 @@ Si los datos del libro están conectados a orígenes externos, como bases de dat
 
 Puede quitar valores duplicados de un rango o una tabla. Para obtener más información, vea [filtrar por valores únicos o quitar valores duplicados](https://support.office.com/article/ccf664b0-81d6-449b-bbe1-8daaec1e83c2).
   
-## <a name="rename-and-add-sheets"></a>Cambiar de nombre y agregar hojas
+## <a name="rename-and-add-sheets"></a>Rename and add sheets
 
-Haga clic en el icono Hoja nueva para agregar una hoja. Haga clic con el botón secundario en cualquier ficha de la hoja para cambiarle el nombre.
+Seleccione el icono de hoja nueva para agregar una hoja. Haga clic con el botón secundario en cualquier ficha de la hoja para cambiarle el nombre.
   
 ## <a name="rename-file-while-workbook-is-open"></a>Cambiar el nombre de archivo con el libro abierto
 
-En Excel para la web, puede cambiar el nombre de un archivo de libro sin cerrarlo haciendo clic en el nombre de archivo en el encabezado y escribiendo un nombre nuevo. Para cambiar el nombre de un archivo con la aplicación de escritorio de Excel, cierre el archivo, vaya a su ubicación en el dispositivo y cambie el nombre del archivo.
+En Excel para la web, puede cambiar el nombre de un archivo de libro sin cerrarlo; para ello, seleccione el nombre de archivo en el encabezado y escriba un nombre nuevo. Para cambiar el nombre de un archivo con la aplicación de escritorio de Excel, cierre el archivo, vaya a su ubicación en el dispositivo y cambie el nombre del archivo.
   
-## <a name="replace"></a>Replace
+## <a name="replace"></a>Reemplazar
 
 No está disponible en Excel para la Web. Si la aplicación de escritorio de Excel está instalada en el equipo, puede usar Excel para buscar y reemplazar contenido en un documento. Obtenga más información sobre el [uso de buscar y reemplazar en Excel](https://go.microsoft.com/fwlink/p/?LinkId=282333).
   
@@ -279,7 +283,7 @@ Cuando comparte un archivo de Excel con otros usuarios, puede proteger una hoja 
   
 ## <a name="slicer-viewing"></a>Visualización de segmentación
 
-Visualice las segmentaciones de datos en la hoja de cálculo y filtre los datos haciendo clic en los botones de segmentación. No puede crear ni editar la segmentación de la la web en Excel.
+Vea las segmentaciones de datos en la hoja de cálculo y filtre los datos seleccionando los botones de segmentación de datos. No puede crear ni editar la segmentación de la la web en Excel.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
@@ -307,7 +311,7 @@ Puede aplicar distintas opciones de formato de texto, incluido el tachado, la sa
 
 ## <a name="total-data"></a>Datos totales
 
-Puede obtener un total rápido de los datos de una tabla haciendo clic en alternar fila total, en dar formato como tabla, en la ficha Inicio. 
+Puede obtener un total rápido de los datos de una tabla habilitando la opción alternar fila total. Para obtener más información, vea [total de datos en una tabla de Excel](https://support.office.com/article/6944378F-A222-4449-93D8-474386B11F20#ID0EAADAAA=Web).
 
 ## <a name="undo-and-redo"></a>Undo and redo
 

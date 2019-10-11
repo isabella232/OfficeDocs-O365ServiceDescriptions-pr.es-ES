@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online ofrece una variedad de características de generación de informes dentro y fuera del centro de administración de Exchange (EAC).
-ms.openlocfilehash: 2926a667e6a886f128de4234e7dfc911b486c474
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776871"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442645"
 ---
 # <a name="reporting-features-and-troubleshooting-tools"></a>Herramientas de resolución de problemas y características de informes
 
@@ -39,9 +39,9 @@ Para obtener más información sobre los tipos de informes que están disponible
 
 También puede usar el libro de informes de Excel 2013 para ver informes resumidos con funciones de exploración en profundidad. Sin embargo, se recomienda usar en su lugar los informes mejorados del centro de administración de Microsoft 365. Está previsto que el libro de informes de Excel 2013 quede en desuso en el futuro. Para obtener información general y vínculos para descargar e instalar el libro, vea la siguiente [página de descarga](https://go.microsoft.com/fwlink/p/?LinkId=271776). Para obtener información sobre cómo usar el libro, vea [Informes de protección de correo con el libro de informes de Excel](https://go.microsoft.com/fwlink/p/?LinkId=285211). 
   
-### <a name="reporting-using-web-services"></a>Informes mediante servicios web
+### <a name="reporting-using-web-services"></a>Reporting using web services
 
-El acceso a informes resumidos y detallados sobre buzones, grupos y datos de mensajes está disponible con el servicio web Informes de espacio empresarial de REST/OData, que es una interfaz de programación que permite crear informes personalizados. Para obtener más información, vea [Servicios web de informes de Office 365](https://go.microsoft.com/fwlink/p/?LinkId=287041).
+El acceso a los informes de Resumen y detallados sobre buzones de correo, grupos y datos de mensajería está disponible mediante el servicio Web REST/OData de informes de inquilino, que es una interfaz de programación que permite crear informes personalizados. Para obtener más información, vea [servicios Web de informes de Office 365](https://go.microsoft.com/fwlink/p/?LinkId=287041).
   
 ## <a name="reporting-features-and-troubleshooting-tools-in-the-eac"></a>Características de presentación de informes y herramientas para solucionar problemas en el EAC
 

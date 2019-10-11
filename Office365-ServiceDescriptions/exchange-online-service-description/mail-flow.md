@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: 'Para la mayoría de las organizaciones que usan Office 365, hospedamos sus buzones y nos ocupamos del flujo de correo. Es la configuración más sencilla y significa que Office 365 administra todos los buzones y el filtrado. En cambio, algunas organizaciones necesitan una configuración del flujo de correo más compleja para asegurarse de que cumplen con necesidades normativas o empresariales específicas. Puede obtener información sobre esas opciones aquí. '
-ms.openlocfilehash: a50c85fff3ba023706932f227db1df3915923545
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: bf16ff4034333a2bd85ba798e9c02c621b4d7cfc
+ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231418"
+ms.lasthandoff: 10/10/2019
+ms.locfileid: "37442605"
 ---
 # <a name="mail-flow"></a>Mail Flow
 
@@ -34,9 +34,9 @@ Para obtener más información, vea [Set up connectors to route mail between Off
 > [!IMPORTANT]
 > Exchange Online puede entregar el correo que fluye dentro y fuera de la organización. Si el dominio del destinatario está hospedado en Exchange Online con registros MX de DNS que señalan a Exchange Online Protection, el flujo de correo desde su inquilino hasta el destinatario no se recorrerá a través de Internet.
   
-## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
+## <a name="secure-messaging-with-a-trusted-partner"></a>Mensajería segura con un partner de confianza
 
-Como cliente de Exchange Online, puede configurar el flujo de correo seguro con un socio de confianza mediante conectores de Office 365. Office 365 permite la comunicación segura mediante Seguridad de la capa de transporte (TLS) y puede crear un conector para forzar el cifrado mediante TLS. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) es un protocolo criptográfico que proporciona seguridad para las comunicaciones por Internet. Con los conectores, puede configurar TLS forzado tanto entrante como saliente mediante el uso de certificados autofirmados o validados por una entidad de certificación (CA). También puede aplicar otras restricciones de seguridad, como especificar nombres de dominio o intervalos de direcciones IP desde las que el socio de su organización envía correo. 
+Como cliente de Exchange Online, puede configurar el flujo de correo seguro con un socio de confianza mediante conectores de Office 365. Office 365 permite la comunicación segura mediante Seguridad de la capa de transporte (TLS) y puede crear un conector para forzar el cifrado mediante TLS. [TLS](https://docs.microsoft.com/office365/securitycompliance/exchange-online-uses-tls-to-secure-email-connections) es un protocolo criptográfico que proporciona seguridad para las comunicaciones a través de Internet. Con los conectores, puede configurar TLS forzado tanto entrante como saliente mediante el uso de certificados autofirmados o validados por una entidad de certificación (CA). También puede aplicar otras restricciones de seguridad, como especificar nombres de dominio o intervalos de direcciones IP desde las que el socio de su organización envía correo. 
   
 Para obtener más información, vea [Set up connectors for secure mail flow with a partner organization](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-for-secure-mail-flow-with-a-partner).
   
@@ -65,7 +65,7 @@ El [Asistente para implementación de Microsoft Exchange Server](https://go.micr
   
 ### <a name="shared-address-space-with-on-premises-routing-control-mx-points-to-on-premises"></a>Espacio de direcciones compartido con control de enrutamiento local (MX Points a local)
 
-El Espacio de direcciones compartido con control de enrutamiento local (Puntos MX a local) es un escenario de enrutamiento de correo de implementación híbrida en el que los buzones son hospedados parcialmente en Exchange Online y parcialmente de manera local, y el flujo de correo entrante y saliente de Internet se enruta a través de Exchange en la organización local. Este escenario también se denomina transporte de correo centralizado. En este escenario, Exchange Online se aprovisiona con EOP y el correo entrante de Internet se enruta hacia su servidor de correo local antes de enrutarse hacia EOP y, finalmente, hacia los buzones hospedados en Exchange Online. Además, el correo que sale de los buzones de Exchange Online se enruta a través de la organización local de Exchange para los mensajes enviados a destinatarios externos. Con esta configuración, puede usar un espacio de nombre de dominio SMTP simple para todos los buzones de su organización de Exchange local y su organización de Exchange Online. 
+Espacio de direcciones compartido con el control de enrutamiento local (MX puntos a local) es un escenario de enrutamiento de correo de implementación híbrida en el que los buzones se hospedan parcialmente en Exchange Online y parcialmente en local, y el flujo de correo entrante y saliente de Internet se enruta a través de la organización de Exchange local. Este escenario también se denomina transporte de correo centralizado. En este escenario, Exchange Online se aprovisiona con EOP y el correo de Internet entrante se enruta a su servidor de correo local antes de enrutarse a EOP y, finalmente, a los buzones hospedados en Exchange Online. Además, el correo que sale de los buzones de Exchange Online se enruta a través de la organización local de Exchange para los mensajes enviados a destinatarios externos. Con esta configuración, puede usar un espacio de nombre de dominio SMTP simple para todos los buzones de su organización de Exchange local y su organización de Exchange Online. 
   
 Para obtener más información sobre las opciones de transporte en una implementación híbrida, vea [Opciones de transporte en las implementaciones híbridas de Exchange](https://go.microsoft.com/fwlink/p/?LinkID=271758).
   
