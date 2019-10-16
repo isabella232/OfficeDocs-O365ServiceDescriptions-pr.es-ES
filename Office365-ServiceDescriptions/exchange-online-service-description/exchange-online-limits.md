@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 5e804bdb93ac7f2e001879e6f0555330f7425ff3
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: efab17a6513dac571abfd314549d0f90017564da
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442695"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523455"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -346,23 +346,27 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Límite de frecuencia de destinatario|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|
+|Límite de frecuencia de destinatario<sup>1</sup>|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|
 |Límite de destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|
 |Límite de direcciones proxy de destinatarios|400|400|400|400|400|400|
-|Límite de frecuencia de mensajes|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
+|Límite de frecuencia de mensajes|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
+
+> [!NOTE]
+> <sup>1</sup> una vez que se alcanza el límite de frecuencia de destinatarios, no se pueden enviar mensajes desde el buzón de correo hasta que el número de destinatarios que se enviaron mensajes en las últimas 24 horas descienda por debajo del límite. Por ejemplo, un usuario envía un mensaje de correo electrónico a 5.000 destinatarios a 09:00 AM, envía otro mensaje a 2.500 destinatarios a la 10:00 AM y, a continuación, envía otro mensaje a 2.500 destinatarios en el 11:00 AM, y alcanza el límite de 10.000 mensajes. El usuario no podrá volver a enviar mensajes hasta 09:00 A.M. del día siguiente.
 
 #### <a name="sending-limits-across-standalone-options"></a>Límites de envío en las opciones independientes
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Característica**|**Exchange Server 2013**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
-|Límite de frecuencia de destinatario|Sin límite<sup>1</sup>|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|
+|Límite de frecuencia de destinatario|Sin límite<sup>1</sup>|10.000 destinatarios por día<sup>2</sup>|10.000 destinatarios por día<sup>2</sup>|10.000 destinatarios por día<sup>2</sup>|
 |Límite de destinatarios|500 destinatarios<sup>1</sup>|500 destinatarios|500 destinatarios|500 destinatarios|
 |Límite de direcciones proxy de destinatarios|400|400|400|400|
-|Límite de frecuencia de mensajes|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
+|Límite de frecuencia de mensajes|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
 
 > [!NOTE]
-> <sup>1</sup> Es el límite predeterminado para organizaciones de Exchange Server 2013. Los administradores pueden cambiar este valor para su organización.
+> <sup>1</sup> Es el límite predeterminado para organizaciones de Exchange Server 2013. Los administradores pueden cambiar este valor para su organización.<br/>
+<sup>2</sup> una vez que se alcanza el límite de frecuencia de destinatarios, no se pueden enviar mensajes desde el buzón de correo hasta que el número de destinatarios que se enviaron mensajes en las últimas 24 horas descienda por debajo del límite. Por ejemplo, un usuario envía un mensaje de correo electrónico a 5.000 destinatarios a 09:00 AM, envía otro mensaje a 2.500 destinatarios a la 10:00 AM y, a continuación, envía otro mensaje a 2.500 destinatarios en el 11:00 AM, y alcanza el límite de 10.000 mensajes. El usuario no podrá volver a enviar mensajes hasta 09:00 A.M. del día siguiente.
 
 ## <a name="reporting-and-message-trace-limits"></a>Límites de seguimiento de mensajes y creación de informes
 
@@ -397,7 +401,7 @@ Estos límites controlan el tiempo durante el cual es posible obtener acceso a l
 |**Característica**|**Exchange Server 2013**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Período de retención de la carpeta Elementos eliminados|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|
 |Período de retención de los elementos quitados de la carpeta Elementos eliminados|14 días<sup>1</sup>|14 días<sup>2</sup>|14 días<sup>2</sup>|14 días<sup>2</sup>|
-|Período de retención de la carpeta Correo no deseado|2 años<sup>1</sup>|30 días|30 días|30 días|
+|Período de retención de la carpeta Correo no deseado|2 años<sup>1</sup>|30 días|30 días|30 días|
 
 > [!NOTE]
 > <sup>1</sup> Es el límite predeterminado. Los administradores pueden cambiar este valor para su organización.<br/> <sup>2</sup> Es el valor predeterminado para organizaciones de Exchange Online. Los administradores pueden cambiar este valor a un máximo de 30 días para los buzones de su organización.
@@ -418,7 +422,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Número máximo de miembros de un grupo de distribución<sup>1</sup>|100 000 miembros|100 000 miembros|100 000 miembros|100 000 miembros|100 000 miembros|100 000 miembros|
-|Límite de envío de mensajes a un grupo de distribución grande|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
+|Límite de envío de mensajes a un grupo de distribución grande|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
 |Tamaño máximo de mensaje para grupos de distribución con entre 5 000 y 99 999 miembros.|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Tamaño máximo de mensaje para grupos de distribución con 100 000 miembros.|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
 |Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |10 |10 |
@@ -474,8 +478,8 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 |Límites de análisis para el contenido de datos adjuntos|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |Número máximo de destinatarios agregados a un mensaje por todas las reglas de trasporte|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|
 |Límite de reenvío|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|
-|Número de veces que se redirige un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
-|Número de veces que las reglas de transporte redirigen un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que se redirige un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que las reglas de transporte redirigen un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Límites de reglas del diario, transporte y Bandeja de entrada en las opciones independientes
 
@@ -510,7 +514,7 @@ Durante períodos de gran actividad, algunos remitentes no recibirán mensajes d
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Tamaño máximo de buzón de correo de arbitraje|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
+|Tamaño máximo de buzón de correo de arbitraje|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
 |Número máximo de moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|
 |Caducidad de mensajes en espera de ser moderados|2 días|2 días|2 días|2 días|2 días|2 días|
 |Máximo índice de mensajes de notificación de moderación caducada|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|

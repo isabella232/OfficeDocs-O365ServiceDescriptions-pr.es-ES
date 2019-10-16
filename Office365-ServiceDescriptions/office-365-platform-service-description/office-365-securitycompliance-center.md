@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro de seguridad &amp; y cumplimiento de Office 365 está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: bc255f5664281db3c7abf0f30bb1093c373760e4
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: 6f522423fd635f08d6f752d345a6677372096a43
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334190"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523278"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -37,8 +37,8 @@ El [centro de seguridad &amp; y cumplimiento de Office 365](https://docs.microso
 |[Administración de dispositivos móviles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la empresa](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup><br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Prevención de pérdida de datos para mensajes de chat y canales de Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/>|
-|Etiquetas de sensibilidad<sup>10</sup> | No <br/>| No <br/> | No <br/>| Sí <br/>| Sí <br/>| No <br/> |
-|[Barreras de la información](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/>|
+|[Etiquetas de sensibilidad](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | No <br/>| No <br/> | No <br/>| Sí <br/>| Sí <br/>| No <br/> |
+|[Barreras de información](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/>|
 |[Gobierno de datos](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Gobierno de datos avanzado](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Búsqueda de contenido](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -48,7 +48,7 @@ El [centro de seguridad &amp; y cumplimiento de Office 365](https://docs.microso
 |[EDiscovery avanzado](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Archivado](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
 |[Auditoría unificada](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Directivas de retención manuales](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Directivas de retención](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |No  <br/> |No  <br/> |Sí<sup>11</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>11<br/> |
 |[Directivas de supervisión](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 ||||||||
    
@@ -61,7 +61,8 @@ límite de <sup>3</sup> 50 GB. <br/>
 <sup>7</sup> incluye los archivos almacenados en repositorios de Microsoft Teams.<br/>
 <sup>8</sup> también puede usar la [API de actividad de administración 365 de Office](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado. <br/>
 <sup>9</sup> hay disponible un complemento DLP que se puede Agregar a cualquier SKU que tenga Exchange o SharePoint/OneDrive.<br/>
-<sup>10</sup> las etiquetas de confidencialidad también se incluyen en Azure Information Protection P1 y P2.
+<sup>10</sup> las etiquetas de confidencialidad también se incluyen en Azure Information Protection P1 y P2.<br/>
+<sup>11</sup> se necesita una licencia de Exchange Online (plan 2) para aplicar una directiva de retención a un buzón de usuario. 
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Disponibilidad &amp; del centro de cumplimiento de seguridad para planes independientes
 
@@ -76,7 +77,7 @@ límite de <sup>3</sup> 50 GB. <br/>
 |[Administración de dispositivos móviles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la empresa](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí<sup>7<sup> <br/> |No  <br/> |Sí  <br/> |
 |[Prevención de pérdida de datos para mensajes de chat y canales de Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|[Barreras de la información](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|[Barreras de información](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Gobierno de datos](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Sí<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Gobierno de datos avanzado](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Búsqueda de contenido](https://docs.microsoft.com/office365/securitycompliance/search-for-content) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -86,7 +87,7 @@ límite de <sup>3</sup> 50 GB. <br/>
 |[EDiscovery avanzado](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Archivado](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup> <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
 |[Auditoría unificada](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup><br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/>
-|[Directivas de retención manuales](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Directivas de retención](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Directivas de supervisión](https://docs.microsoft.com/office365/securitycompliance/supervision-policies) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |||||||||
    

@@ -1,5 +1,5 @@
 ---
-title: Office 365 Educación
+title: Office 365 Educación
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: 'Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios de colaboración y comunicaciones de próxima generación de Microsoft, como Microsoft Exchange Online, Microsoft SharePoint Online, Office para la web y Microsoft Skype empresarial online: para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.'
-ms.openlocfilehash: 580c4a37b3024f22f374bbcbcea08341418c6c09
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 04fb1fef3858595ee4d1fbedb810444852471855
+ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998492"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37523403"
 ---
-# <a name="office-365-education"></a>Office 365 Educación
+# <a name="office-365-education"></a>Office 365 Educación
 
 Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios de colaboración y comunicaciones de próxima generación de Microsoft, como Microsoft Exchange Online, Microsoft SharePoint Online, Office para la web y Microsoft Skype empresarial online: para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
   
-En este artículo se enumeran las características de los planes de Office 365 Education (a1, a3 y A5). Para comparar las características de los planes empresariales y empresariales, vea [comparar los planes de office 365 para empresas](https://products.office.com/business/compare-more-office-365-for-business-plans?legRedir=true&CorrelationId=cd322a5e-7b9c-467b-96d7-16b8074b9dda) o, para obtener una lista más detallada de las características, vea la descripción del servicio relevante en [Office 365 Service](https://docs.microsoft.com/office365/servicedescriptions/office-365-service-descriptions-technet-library)descriptions.
+En este artículo se enumeran las características de los planes de Office 365 Education (a1, a3 y A5). Para comparar las características de los planes empresariales y empresariales, vea [comparar los planes de office 365 para empresas](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) o, para obtener una lista más detallada de las características, vea la descripción del servicio relevante en [Office 365 Service](../office-365-service-descriptions-technet-library.md)descriptions.
   
 Para buscar artículos de soporte técnico e información, consulte [ayuda y aprendizaje de Office](https://support.office.com/).
   
@@ -31,13 +31,13 @@ Cada plan de Office 365 Education incluye una serie de servicios individuales, c
   
 |||||
 |:-----|:-----|:-----|:-----|
-|**Servicio** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <sup>3</sup> <br/> |
+|**Servicio** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5**<sup>3</sup> <br/> |
 |Plataforma Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Exchange Online  <br/> |Sí<sup>5</sup> <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |
 |SharePoint Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |OneDrive para la Empresa  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Skype Empresarial Online  <br/> |Sí<sup>7</sup> <br/> |Sí<sup>6</sup> <br/> |Sí<sup>6</sup> <br/> |
-|Office para la web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Office para la Web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Aplicaciones de Office  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Project Online  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
 |Power BI  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
@@ -57,7 +57,7 @@ Para conocer los requisitos del sistema para Office 365, consulte [office 365 Sy
   
 ## <a name="service-level-agreement"></a>Contrato de nivel de servicio
 
-Para obtener información acerca de los Contratos de nivel de servicio, consulte [Contrato de nivel de servicio](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-level-agreement). Para obtener información acerca de los tiempos de actividad recientes de Office 365, consulte [Operaciones transparentes desde Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/service-health-and-continuity).
+Para obtener información acerca de los Contratos de nivel de servicio, consulte [Contrato de nivel de servicio](../office-365-platform-service-description/service-level-agreement.md). Para obtener información acerca de los recientes tiempos de inactividad de Office 365, consulte [reciente tiempo de actividad en todo el mundo](../office-365-platform-service-description/service-health-and-continuity.md#recent-worldwide-uptimes).
   
 ## <a name="platform-features"></a>Características de plataforma 
 
@@ -66,7 +66,7 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 |||||
 |:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[Características de administración de Office 365](http://technet.microsoft.com/library/34abbc57-2b9c-4681-a09b-7bfb6a142abb.aspx)** <br/> ||||
+|**[Características de administración de Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
 |Administración de Office 365 mediante el centro de administración de Microsoft 365 o Windows PowerShell  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Proteger el contenido con Azure Information Protection  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -207,16 +207,16 @@ El [centro de seguridad &amp; y cumplimiento de Office 365](https://docs.microso
 |[Caja de seguridad del cliente](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) |No  <br/> |No  <br/> |Sí  <br/> |
 |[Administración de dispositivos móviles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd?ui=en-US&rs=en-US&ad=US) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Prevención de pérdida de datos](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies?redirectSourcePath=%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Gobierno de datos](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09) <sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Gobierno de datos avanzado](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30) <sup>2</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|[Gobierno de datos](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252fen-us%252farticle%252fManage-data-governance-in-Office-365-48064107-fed2-4db0-9e5c-aa5ddd5ccb09)<sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Gobierno de datos avanzado](https://docs.microsoft.com/office365/securitycompliance/labels?redirectSourcePath=%252farticle%252faf398293-c69d-465e-a249-d74561552d30)<sup>2</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |[Búsqueda de contenido](https://docs.microsoft.com/office365/securitycompliance/search-for-content)<br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[casos de eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[exportación de exhibición de documentos electrónicos](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[suspensiones de eDiscovery (incluidas las suspensiones de exhibición de documentos electrónicos basadas en consultas)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Exhibición avanzada](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20) de documentos electrónicos <sup>4</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Archivado](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) <sup>3</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[EDiscovery avanzado](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>4</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|[Archivado](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)<sup>3</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Directivas de retención/eliminación manual](https://docs.microsoft.com/office365/securitycompliance/retention-policies)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Auditoría unificada](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) <sup>6</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Auditoría unificada](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>6</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |||||
    
 > [!NOTE]
@@ -302,7 +302,7 @@ En la tabla siguiente se proporcionan vínculos a comparaciones de Office para l
   
 ||||
 |:-----|:-----|:-----|
-|**Application** <br/> |**Office para la web** <br/> |**Vínculo a una comparación de características detallada** <br/> |
+|**Application** <br/> |**Office para la Web** <br/> |**Vínculo a una comparación de características detallada** <br/> |
 |Word  <br/> |Word para la web <br/> |[Word](../office-online-service-description/office-online-service-description.md#word) <br/> |
 |Excel  <br/> |Excel para la web <br/> |[Excel](../office-online-service-description/office-online-service-description.md#excel) <br/> |
 |OneNote  <br/> |OneNote para la web <br/> |[OneNote](../office-online-service-description/office-online-service-description.md#onenote) <br/> |
@@ -418,7 +418,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Acceso a Windows PowerShell remoto  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Directivas de ActiveSync para dispositivos móviles  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Informes de uso  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Extending the Service - Customization, Add-ins, and Resources](http://technet.microsoft.com/library/bfff75a1-4cbd-467c-9b1b-f237483ac0a9.aspx)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Extending the Service - Customization, Add-ins, and Resources](../exchange-online-service-description/exchange-online-service-description.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Complementos de Outlook y MAPI de Outlook  <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |
    
 > [!NOTE]
@@ -805,7 +805,7 @@ Los siguientes límites se aplican a Microsoft Exchange ActiveSync, un protocolo
 
 OneDrive para la empresa (anteriormente SkyDrive Pro) es un espacio de almacenamiento personal en línea en la nube. Úsela para almacenar los archivos de trabajo en varios dispositivos con facilidad y seguridad. Comparta sus archivos con compañeros según sea necesario y edite los documentos de Office juntos en tiempo real con Office para la Web. Sincronice los archivos con el equipo local mediante la aplicación de sincronización de OneDrive para la empresa.
   
-OneDrive para la Empresa se incluye en SharePoint Online y también puede adquirirse como un plan independiente. La opción independiente de OneDrive para la empresa incluye Office para la Web. Para obtener más información, vea [¿Qué es OneDrive para la empresa?](https://support.office.com/article/what-is-onedrive-for-business-187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076&CorrelationId=fbaf87c5-cecc-42ed-8dca-b40b09b93828&ui=en-US&rs=en-US&ad=US)
+OneDrive para la Empresa se incluye en SharePoint Online y también puede adquirirse como un plan independiente. La opción independiente de OneDrive para la empresa incluye Office para la Web. Para obtener más información, consulte [¿Qué es OneDrive para la empresa?](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076).
   
 ### <a name="system-requirements"></a>Requisitos del sistema
 
@@ -825,9 +825,9 @@ Los siguientes planes de calificación proporcionan un almacenamiento ilimitado 
     
 No puede asignar más almacenamiento a un usuario específico de OneDrive. Sin embargo, puede reducir la cantidad de almacenamiento que un usuario ve. Si un usuario de Office 365 Enterprise F1 necesita más almacenamiento, deberá actualizar a Office 365 Enterprise E1.
   
-Para obtener información sobre los tipos de archivo que no se pueden agregar a OneDrive para la empresa, vea [tipos de archivos que no se pueden agregar a una lista o biblioteca](https://support.office.com/article/types-of-files-that-cannot-be-added-to-a-list-or-library-30be234d-e551-4c2a-8de8-f8546ffbf5b3?ui=en-US&rs=en-US&ad=US).
+Para obtener información sobre los tipos de archivo que no se pueden agregar a OneDrive para la empresa, vea [tipos de archivos que no se pueden agregar a una lista o biblioteca](https://support.office.com/article/30be234d-e551-4c2a-8de8-f8546ffbf5b3).
   
-OneDrive para la Empresa se incluye en SharePoint Online. Para obtener información sobre las limitaciones adicionales de SharePoint Online, como las cuotas de la colección de sitios, los límites de carga de archivos y los límites de almacenamiento, vea límites [de software de SharePoint Online](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits?redirectSourcePath=%252fArticle%252f8f34ff47-b749-408b-abc0-b605e1f6d498). 
+OneDrive para la Empresa se incluye en SharePoint Online. Para obtener información sobre las limitaciones adicionales de SharePoint Online, como las cuotas de la colección de sitios, los límites de carga de archivos y los límites de almacenamiento, vea límites [de software de SharePoint Online](../sharepoint-online-service-description/sharepoint-online-limits.md).
   
 ### <a name="subscription-plans"></a>Planes de suscripción
 
@@ -1105,7 +1105,7 @@ En la tabla siguiente se muestran los límites de SharePoint para cada plan de O
 |Número de usuarios  <br/> |1- 500.000<sup>6</sup> <br/> |1- 500.000<sup>6</sup> <br/> |1- 500.000<sup>6</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Puede adquirir una cantidad ilimitada de almacenamiento de SharePoint Online. Vea [Cambiar el espacio de almacenamiento para la suscripción](https://support.office.com/article/Change-storage-space-for-your-subscription-96EA3533-DE64-4B01-839A-C560875A662C?ui=en-US&amp;rs=en-US&amp;ad=US). <br/> <sup>2</sup> Se recomienda supervisar la Papelera de reciclaje y vaciarla periódicamente. El espacio de almacenamiento que se utiliza es parte del límite de almacenamiento de archivos total de la organización.<br/> 
+> <sup>1</sup> Puede adquirir una cantidad ilimitada de almacenamiento de SharePoint Online. Consulte [Agregar espacio de almacenamiento para la suscripción](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C). <br/> <sup>2</sup> Se recomienda supervisar la Papelera de reciclaje y vaciarla periódicamente. El espacio de almacenamiento que se utiliza es parte del límite de almacenamiento de archivos total de la organización.<br/> 
 <sup>3</sup> Si tiene una suscripción a Office 365 y un plan independiente SharePoint Online, las cantidades de almacenamiento se suman.<br/> 
 <sup>4</sup> Los administradores de SharePoint Online pueden establecer límites de uso de almacenamiento para sitios y colecciones de sitios.<br/> 
 <sup>5</sup> No se incluyen las colecciones de sitios de OneDrive para la Empresa creadas para cada licencia de usuario.<br/> 
@@ -1220,7 +1220,7 @@ En la siguiente tabla se enumeran las características de Skype empresarial onli
 |Correo de voz  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |[Planes de llamadas en Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (Plan de llamadas nacionales, con la compra de complemento necesario)  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |
 |[Planes de llamadas en Office 365](../skype-for-business-online-service-description/skype-for-business-online-features.md#calling-plans-in-office-365) (Plan de llamadas internacionales, con la compra de complemento necesario)  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |
-|[Créditos de consumo](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|[Créditos de comunicaciones](https://docs.microsoft.com/microsoftteams/what-are-communications-credits?toc=/skypeforbusiness/toc.json&bc=/skypeforbusiness/breadcrumb/toc.json) <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Voz de Skype Empresarial  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Seguridad y archivado](../skype-for-business-online-service-description/skype-for-business-online-features.md#security-and-archiving)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Mensajería instantánea y cifrado de medios  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -1269,7 +1269,7 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
   
 #### <a name="peer-to-peer-limits"></a>Límites de punto a punto
 
-- **Límite de transferencia de archivos** El tamaño máximo de un archivo que se puede transferir en una conversación de mensajería instantánea de Skype Empresarial Online. Para obtener información sobre los tipos de archivo que están bloqueados para transferencia, vea el artículo del soporte técnico de Microsoft sobre cómo [enviar y recibir archivos o datos adjuntos en Skype Empresarial Online](https://support.microsoft.com/help/2799505/you-can-t-send-or-receive-files-or-attachments-in-skype-for-business-o).
+- **Límite de transferencia de archivos** El tamaño máximo de un archivo que se puede transferir en una conversación de mensajería instantánea de Skype Empresarial Online. Para obtener información sobre los tipos de archivo que están bloqueados para transferencia, vea el artículo del soporte técnico de Microsoft sobre cómo [enviar y recibir archivos o datos adjuntos en Skype Empresarial Online](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
 - **Límite de conversaciones en pestañas abiertas** El número máximo de pestañas de conversación que un usuario de Skype Empresarial puede tener abiertas a la vez. 
     
@@ -1330,4 +1330,3 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 
 Para obtener información sobre las limitaciones de minutos en los planes de llamadas nacionales e internacionales de Skype empresarial online, consulte términos de uso de los [servicios RTC de Skype empresarial online](https://docs.microsoft.com/microsoftteams/complimentary-dial-out-period#skype-for-business-pstn-services).
   
-
