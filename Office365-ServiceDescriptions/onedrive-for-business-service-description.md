@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Obtenga información sobre el espacio de almacenamiento de OneDrive que se proporciona en cada plan de suscripción.
-ms.openlocfilehash: 180afa60864ebce2d911f5532c407482876bafbb
-ms.sourcegitcommit: 04f69dc7faa48ab048524ffcc4455ea584cae30b
+ms.openlocfilehash: 8eefabe547db81d758a98e5799729790340724a7
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/15/2019
-ms.locfileid: "36407724"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582206"
 ---
 # <a name="onedrive-for-business-service-description"></a>Descripción del servicio de OneDrive para la Empresa
 
@@ -27,7 +27,7 @@ OneDrive es el espacio de almacenamiento en línea en la nube que se proporciona
   
 OneDrive se incluye en los planes de Microsoft 365 y Office 365, en los planes de SharePoint Online y también puede adquirirse como un plan independiente. 
     
-Para comparar planes, vea [Comparar planes de Office 365 para empresas](https://go.microsoft.com/fwlink/?linkid=799177) y [Comparar planes de OneDrive para la Empresa](https://products.office.com/es-ES/onedrive-for-business/compare-onedrive-for-business-plans). 
+Para comparar planes, vea [Comparar planes de Office 365 para empresas](https://go.microsoft.com/fwlink/?linkid=799177) y [Comparar planes de OneDrive para la Empresa](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
 > OneDrive para la Empresa planes individuales incluyen Office para la web. 
@@ -38,11 +38,11 @@ Para revisar los requisitos para el Cliente de sincronización de OneDrive y la 
   
 ## <a name="about-sync"></a>Acerca de la sincronización
 
-Cualquier usuario cuyo plan incluya OneDrive puede usar el Cliente de sincronización de OneDrive a menos que su departamento de TI lo deshabilite explícitamente. Para instalar el cliente de sincronización más reciente, vaya a [la página de descarga de OneDrive](https://onedrive.live.com/about/download/). Para más información sobre el cliente de sincronización, vea [Sincronizar archivos con el Cliente de sincronización de OneDrive en Windows](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49).
+Cualquier usuario cuyo plan incluya OneDrive puede usar el Cliente de sincronización de OneDrive a menos que su departamento de TI lo deshabilite explícitamente. Para instalar el cliente de sincronización más reciente, vaya a [la página de descarga de OneDrive](https://onedrive.live.com/about/download/). Para más información sobre el cliente de sincronización, vea [Sincronizar archivos con el Cliente de sincronización de OneDrive en Windows](https://support.office.com/article/615391c4-2bd3-4aae-a42a-858262e42a49).
   
 ## <a name="storage-space-per-user"></a>Espacio de almacenamiento por usuario
 
-**2 GB**
+**5 GB**
 
 - Office 365 Enterprise F1
 
@@ -63,7 +63,7 @@ Cualquier usuario cuyo plan incluya OneDrive puede usar el Cliente de sincroniza
 
 **Más de 1 TB a ilimitado**
  
-1 TB por usuario para suscripciones con menos de 5 usuarios. Para las suscripciones con 5 o más usuarios (en cualquier combinación de planes aptos), Microsoft proporcionará inicialmente 1 TB por usuario que los administradores pueden aumentar hasta un máximo de 5 TB por usuario. (Para obtener más información, vea Establecer el espacio de almacenamiento predeterminado para los usuarios de OneDrive](/onedrive/set-default-storage-space)). Si quiere solicitar almacenamiento adicional, sus administradores deben ponerse en contacto con el soporte técnico de Microsoft.
+1 TB por usuario para suscripciones con menos de 5 usuarios. Para las suscripciones con 5 o más usuarios (en cualquier combinación de planes aptos), Microsoft proporcionará inicialmente 1 TB por usuario que los administradores pueden aumentar hasta un máximo de 5 TB por usuario. (Para obtener más información, vea [Establecer el espacio de almacenamiento predeterminado para los usuarios de OneDrive](/onedrive/set-default-storage-space)). Si quiere solicitar almacenamiento adicional, sus administradores deben ponerse en contacto con el soporte técnico de Microsoft.
 
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
