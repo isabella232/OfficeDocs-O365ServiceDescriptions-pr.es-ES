@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: 85aad73129f49888d72b785389fafd76a071d214
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442755"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595308"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
@@ -96,6 +96,10 @@ Para comprobar la ortografía de cualquier texto de la hoja de cálculo, selecci
 ## <a name="comment-creation"></a>Comment creation
 
 Puede insertar, editar y eliminar comentarios en Excel para Web. También puede resolver un hilo de comentarios, que lo cierra a los cambios y a los nuevos comentarios, pero lo deja en su ubicación. Esto le permite volver a abrir el subproceso para comentarios si es necesario. Obtenga más información sobre cómo [agregar un comentario en Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+
+## <a name="convert-a-table-to-a-range"></a>Convertir una tabla en un rango
+
+Después de crear una tabla de Excel, es posible que solo desee el estilo de tabla sin la funcionalidad de tabla. Para dejar de trabajar con los datos de una tabla sin perder el formato de estilo de tabla aplicado, puede convertir la tabla a un rango de datos regular en la hoja de cálculo. Obtenga más información sobre cómo [convertir una tabla de Excel en un rango de datos](https://support.office.com/article/0b326ff1-1764-4ebe-84ea-786265d41c77#ID0EAADAAA=Web).
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
@@ -175,11 +179,15 @@ Navegue rápidamente por la hoja de cálculo con la característica Ir a. Escrib
  
 ## <a name="group-data"></a>Datos de grupo
 
-Puede agrupar o esquematizar filas y columnas en la hoja de cálculo de Excel para la Web. Obtenga más información sobre [la agrupación de datos en Excel para la web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
+Puede agrupar o esquematizar filas y columnas en la hoja de cálculo de Excel para la Web. Los métodos abreviados de teclado facilitan la tarea de expandir o contraer los grupos que cree. Obtenga más información sobre [la agrupación de datos en Excel para la web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
 Puede ocultar y mostrar filas, columnas y hojas de un libro en Excel para Web.
+
+## <a name="ideas"></a>Ideas
+
+Las ideas de Excel le ayudarán a comprender los datos a través de resúmenes visuales de alto nivel, tendencias y patrones. Simplemente seleccione una celda en un rango de datos y, a continuación, seleccione el botón **ideas** de la pestaña **Inicio** . las ideas de Excel analizarán los datos y devolverán elementos visuales interesantes sobre el mismo en un panel de tareas. Obtenga más información sobre las [ideas en Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -273,7 +281,7 @@ No está disponible en Excel para la Web. Si la aplicación de escritorio de Exc
 
 ¿Desea tener su propia copia del libro? Utilice el comando Guardar como ubicado en la ficha Archivo o haga clic con el botón secundario en el nombre del libro de su carpeta y utilice el comando Descargar para enviar una copia a su equipo.
   
-## <a name="share"></a>Uso compartido
+## <a name="share"></a>Compartir
 
 Proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre cómo [usar Office para la web para trabajar juntos en office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
@@ -287,7 +295,7 @@ Vea las segmentaciones de datos en la hoja de cálculo y filtre los datos selecc
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-En Excel para la web, puede ver y reordenar todas las hojas de cálculo, ordenar y filtrar datos y profundizar en los detalles de las tablas dinámicas. Obtenga más información sobre cómo [ordenar y filtrar datos](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
+En Excel para la web, puede ver y reordenar todas las hojas de cálculo, ordenar y filtrar datos (de arriba a abajo o de izquierda a derecha) y profundizar en los detalles de las tablas dinámicas. Obtenga más información sobre cómo [ordenar y filtrar datos](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Cumplimiento normativo y auditoría de hojas de cálculo
 
@@ -331,4 +339,4 @@ No está disponible en Excel para la Web. Puede ver los resultados del análisis
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características en los planes de Office 365, las opciones independientes y las soluciones locales, consulte [Office para la descripción del servicio Web](office-online-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Office para la descripción del servicio Web](office-online-service-description.md).

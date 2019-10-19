@@ -1,5 +1,5 @@
 ---
-title: Herramientas de resolución de problemas y características de informes
+title: Herramientas de solución de problemas y características de informes
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online ofrece una variedad de características de generación de informes dentro y fuera del centro de administración de Exchange (EAC).
-ms.openlocfilehash: 709f354335875f08902a6ab09933de3558d165e7
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 48e3618e6fe5d0271bc10a356f81266f74e188f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442645"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581996"
 ---
-# <a name="reporting-features-and-troubleshooting-tools"></a>Herramientas de resolución de problemas y características de informes
+# <a name="reporting-features-and-troubleshooting-tools"></a>Herramientas de solución de problemas y características de informes
 
 Microsoft Exchange Online ofrece una variedad de características de generación de informes dentro y fuera del centro de administración de Exchange (EAC).
   
@@ -49,7 +49,7 @@ Las siguientes características de generación de informes y herramientas para l
   
 ### <a name="trace-an-email-message"></a>Seguimiento de un mensaje de correo electrónico
 
-La característica de seguimiento de mensaje le permite seguir los mensajes de correo electrónico a medida que pasan por el servicio Exchange Online. Ayuda a determinar si el servicio ha recibido, rechazado, aplazado o entregado un mensaje de correo electrónico dirigido. Le permite responder las preguntas de los usuarios y resolver problemas con el flujo de correo de forma eficaz, y elimina la necesidad de comunicarse con el soporte técnico para recibir asistencia.
+La característica de seguimiento de mensajes le permite, como administrador, seguir los mensajes de correo electrónico a medida que pasan a través del servicio de Exchange Online. Ayuda a determinar si el servicio ha recibido, rechazado, aplazado o entregado un mensaje de correo electrónico dirigido. Le permite responder las preguntas de los usuarios y resolver problemas con el flujo de correo de forma eficaz, y elimina la necesidad de comunicarse con el soporte técnico para recibir asistencia.
   
 > [!IMPORTANT]
 > Para resolver problemas y tendencias generales, use las herramientas de informe a fin de obtener dichos datos. Para obtener información específica de un único punto donde se necesiten detalles en cuanto a algún mensaje, utilice la herramienta de seguimiento de mensaje. 
@@ -72,6 +72,6 @@ Puede usar estos informes para supervisar y solucionar problemas de Mensajería 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
   
 

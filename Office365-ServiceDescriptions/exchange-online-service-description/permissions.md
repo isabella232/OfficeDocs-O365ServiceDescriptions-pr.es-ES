@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7803d7c0-93e6-43a2-b2a4-3a39abe25500
 description: Microsoft Exchange Online utiliza el modelo Control de acceso basado en funciones (RBAC) para permitir a los administradores de la organización controlar con precisión lo que pueden hacer los usuarios y los empleados de TI en el servicio. Por ejemplo, si un responsable de cumplimiento debe controlar las solicitudes de búsqueda del buzón, el administrador puede delegar su función administrativa al responsable mediante RBAC. Exchange Online utiliza el mismo marco RBAC que Microsoft Exchange Server 2013.
-ms.openlocfilehash: 49d388e08b606fab5df0fc23435aef37d1029050
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: d6b0add4925524fd024ebea2ff044afd96cde698
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776851"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581956"
 ---
 # <a name="permissions"></a>Permisos
 
@@ -27,7 +27,7 @@ En su nivel más alto, RBAC se compone de funciones de administración, grupos d
   
 Para obtener más información sobre el modelo de permisos RBAC que se usa en Exchange Online, vea [Permisos](https://go.microsoft.com/fwlink/p/?LinkId=271935).
   
-## <a name="role-based-permissions"></a>Permisos basados en funciones
+## <a name="role-based-permissions"></a>Permisos basados en roles
 
 En Exchange Online, los permisos que concede a los administradores y usuarios se basan en funciones de administración. Una función define el conjunto de tareas que un administrador o usuario puede realizar. Por ejemplo, una función de administración denominada  `Mail Recipients` define las tareas que alguien puede realizar en un conjunto de buzones de correo, contactos y grupos de distribución. Cuando una función se asigna a un administrador o usuario, a dicha persona se conceden los permisos que proporciona la función en cuestión. 
   
@@ -35,7 +35,7 @@ Existen dos tipos de funciones: las funciones administrativas y las funciones de
   
 - **Funciones administrativas** Estas funciones contienen permisos que se pueden asignar a los administradores o usuarios especialistas mediante grupos de funciones que administran una parte de la organización de Exchange Online, como los destinatarios, los servidores o las bases de datos. 
     
-- **Funciones de usuario final** Estas funciones, asignadas mediante directivas de asignación de funciones, permiten a los usuarios administrar aspectos de sus propios buzones y de los grupos de distribución de que disponen. Las funciones de usuario final empiezan por el prefijo  `My`.
+- **Roles de usuario final** Estos roles, asignados mediante directivas de asignación de roles, permiten a los usuarios administrar aspectos de sus propios buzones y grupos de distribución de los que son propietarios. Las funciones de usuario final empiezan por el prefijo  `My`.
     
 Las funciones conceden a los administradores y usuarios permisos para realizar tareas poniendo cmdlets a disposición de aquellos usuarios que tienen asignadas las funciones en cuestión. Debido a que el Centro de admin. de Exchange (EAC) y el Shell de administración de Exchange usan cmdlets para administrar Exchange Online, si se otorga acceso a un cmdlet, los administradores o los usuarios podrán tener permiso para realizar la tarea en cada una de las interfaces de administración de Exchange Online.
   
@@ -48,7 +48,7 @@ Para obtener más información sobre permisos en Exchange Online, vea [Permisos]
   
 ## <a name="role-groups"></a>Grupos de funciones
 
-Los grupos de funciones de administración asocian las funciones de administración a un grupo de administradores o usuarios especialistas. Los administradores administran una amplia organización de Exchange Online o configuración de destinatarios. Los usuarios especialistas administran las características específicas de Exchange Online, como el cumplimiento, o podrían tener capacidades de administración limitadas, como los miembros de asistencia, pero no cuentan con derechos administrativos amplios. Los grupos de funciones normalmente están relacionados con funciones de administración pública que permiten que los administradores y los usuarios especialistas administren la configuración de su organización y destinatarios. Por ejemplo, con los grupos de funciones se controla si los administradores pueden administrar a los destinatarios o utilizar características de detección de buzones. 
+Los grupos de funciones de administración asocian las funciones de administración a un grupo de administradores o usuarios especialistas. Los administradores administran una amplia organización de Exchange Online o configuración de destinatarios. Los usuarios especialistas administran las características específicas de Exchange Online, como el cumplimiento, o podrían tener capacidades de administración limitadas, como los miembros de asistencia, pero no cuentan con derechos administrativos amplios. Por lo general, los grupos de roles asocian roles de administración administrativos que permiten a los administradores y usuarios especialistas administrar la configuración de la organización y los destinatarios. Por ejemplo, con los grupos de funciones se controla si los administradores pueden administrar a los destinatarios o utilizar características de detección de buzones. 
   
 > [!IMPORTANT]
 > Algunos grupos de funciones disponibles en la versión local de Microsoft Exchange Server 2013 podrían no estar disponibles en Exchange Online. 
@@ -66,6 +66,6 @@ Para obtener más información sobre políticas de asignación de roles, vea [Gr
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
   
 

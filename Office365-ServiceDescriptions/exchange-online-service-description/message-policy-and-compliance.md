@@ -1,5 +1,5 @@
 ---
-title: Regulación de mensajes y cumplimiento normativo
+title: Directiva de mensajes y cumplimiento normativo
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,22 +11,22 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 7a916f8a94631bec4e798ac871ca9bf8422e2d52
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+ms.openlocfilehash: 7311747d3f1e147a5ed3d9a0c363100616829137
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231428"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581966"
 ---
-# <a name="message-policy-and-compliance"></a>Regulación de mensajes y cumplimiento normativo
+# <a name="message-policy-and-compliance"></a>Directiva de mensajes y cumplimiento normativo
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Archivado de buzones basados en Exchange Online
 
 Los buzones de Exchange Online residen en la nube y su archivado requiere entornos de hospedaje únicos. En algunos casos, Exchange Online también puede ser utilizado para archivar buzones locales en la nube. En esta sección, se describen las opciones de archivado con Exchange Online.
   
-Exchange Online ofrece capacidades de archivado integradas para buzones basados en la nube, incluido un archivo local que brinda a los usuarios un espacio muy conveniente para almacenar mensajes de correo electrónico antiguos. Un archivo local es un tipo de buzón especial que aparece junto a las carpetas principales del buzón del usuario en Outlook y Outlook Web App. Los usuarios pueden tener acceso al archivo y buscar en él de la misma manera en que con sus buzones principales. La funcionalidad disponible depende del cliente en uso:
+Exchange Online ofrece capacidades de archivado integradas para buzones basados en la nube, incluido un archivo local que brinda a los usuarios un espacio muy conveniente para almacenar mensajes de correo electrónico antiguos. Un archivo local es un tipo especial de buzón de correo que aparece junto a las carpetas de buzones principales de un usuario en Outlook y Outlook en la Web. Los usuarios pueden tener acceso al archivo y buscar en él de la misma manera en que con sus buzones principales. La funcionalidad disponible depende del cliente en uso:
   
-- **Outlook 2016, Outlook 2013, Outlook 2010 y Outlook Web App** Los usuarios tienen acceso a todas las características del archivo y a todas las características de cumplimiento, como el control sobre la retención y las directivas de archivo. 
+- **Outlook 2016, outlook 2013, outlook 2010 y Outlook en la web** Los usuarios tienen acceso a todas las características del archivo, así como las características de cumplimiento relacionadas, como el control sobre la retención y las directivas de archivo. 
     
 - **Outlook 2007** Los usuarios tienen soporte básico para el archivo local, pero no todas las características de archivo y cumplimiento están disponibles. Por ejemplo, los usuarios no pueden aplicar directivas de retención o archivo a elementos del buzón, en cambio, deben confiar en las directivas provistas por el administrador. 
     
@@ -45,7 +45,8 @@ Solo los datos de mensajería de un usuario pueden almacenarse en cada archivo p
 > [!IMPORTANT]
 > - Con el registro en diario, las reglas de transporte o las reglas de transferencia automática para copiar mensajes en un buzón de Exchange Online con fines de archivo no está permitido. Microsoft se reserva el derecho de rechazar el archivado ilimitado en los casos en que un archivo de buzón no se utilice en un escenario personal. 
 > - El archivo local tiene requisitos de licencia específicos para usuarios de Outlook. Los usuarios de Outlook 2007 deberán tener actualización acumulada de Office 2007 para febrero de 2011 para poder acceder al archivo personal. 
-> - Exchange online no es compatible con el cmdlet _New-MailboxImportRequest_ de Windows PowerShell de Exchange Server 2010 Service Pack 1 o posterior para la importación de archivos. pst controlados por el administrador en un archivo personal. Si un usuario tiene el buzón principal y el archivo en Exchange Online, un administrador puede usar PST Capture, una herramienta gratuita, para importar datos de archivos .pst al buzón principal o archivo del usuario. 
+> - Exchange online no es compatible con el cmdlet _New-MailboxImportRequest_ de Windows PowerShell de Exchange Server 2010 Service Pack 1 o posterior para la importación de archivos. pst controlados por el administrador en un archivo personal. Si un usuario tiene el buzón principal y el archivo en Exchange Online, un administrador puede usar PST Capture, una herramienta gratuita, para importar datos de archivos .pst al buzón principal o archivo del usuario.
+
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Archivado basado en nube de buzones locales
 
 El uso de Exchange Online para el archivo basado en la nube de buzones de Exchange Server 2010 local o posteriores es posible mediante el Archivado de Microsoft Exchange Online, una solución de archivado hospedada de Microsoft. Esto requiere que la organización local esté en modo híbrido o esté configurada para Archivado de Exchange Online.
@@ -55,13 +56,13 @@ El uso de Exchange Online para el archivo basado en la nube de buzones de Exchan
   
 ## <a name="retention-tags-and-retention-policies"></a>Etiquetas de retención y directivas de retención
 
-Exchange Online ofrece directivas de retención para ayudar a las organizaciones a reducir las responsabilidades asociadas con el correo electrónico y otras comunicaciones. Con estas políticas, los administradores pueden aplicar configuración de retención a carpetas específicas de los buzones de los usuarios. Los administradores también pueden ofrecer a los usuarios un menú de directivas de retención y permitirles aplicarlas a elementos, conversaciones o carpetas específicos de Outlook 2010 o posterior, o bien Outlook Web App.
+Exchange Online ofrece directivas de retención para ayudar a las organizaciones a reducir las responsabilidades asociadas con el correo electrónico y otras comunicaciones. Con estas políticas, los administradores pueden aplicar configuración de retención a carpetas específicas de los buzones de los usuarios. Los administradores también pueden proporcionar a los usuarios un menú de directivas de retención y permitirles aplicar las directivas a elementos, conversaciones o carpetas específicos mediante Outlook 2010 o versiones posteriores o Outlook en la Web.
   
 En Exchange Online, los administradores administran las directivas de retención mediante el Centro de administración de Exchange (EAC) o Windows PowerShell remoto.
   
 Exchange Online ofrece dos tipos de directivas: directivas de archivado y directivas de eliminación. Ambos tipos pueden combinarse en el mismo elemento o carpeta. Por ejemplo, un usuario puede marcar un mensaje de correo electrónico para que sea movido automáticamente al archivo local transcurrida una cantidad específica de días y eliminado después de otra cantidad de días.
   
-Con Outlook 2010 o posterior y Outlook Web App, los usuarios pueden aplicar directivas de retención a carpetas, conversaciones o mensajes individuales. También pueden ver las directivas de retención aplicadas y las fechas de eliminación esperadas en los mensajes. Los usuarios de otros clientes de correo electrónico solamente pueden eliminar o archivar mensajes según las directivas de retención del servidor configuradas por el administrador.
+Con Outlook 2010 o versiones posteriores y Outlook en la web, los usuarios pueden aplicar directivas de retención a carpetas, conversaciones o mensajes individuales. También pueden ver las directivas de retención aplicadas y las fechas de eliminación esperadas en los mensajes. Los usuarios de otros clientes de correo electrónico solamente pueden eliminar o archivar mensajes según las directivas de retención del servidor configuradas por el administrador.
   
 Las capacidades de directivas de retención ofrecidas en Exchange Online son las mismas que las ofrecidas en Exchange Server 2010 Service Pack 2 RU4. Los administradores pueden usar Windows PowerShell remoto para migrar directivas de retención de entornos Exchange Server 2010 o posteriores locales a Exchange Online.
   
@@ -84,7 +85,7 @@ Además de BitLocker, usamos una tecnología denominada administrador de claves 
   
 ## <a name="customer-key"></a>Clave del cliente
 
-Con la clave de cliente, puede controlar las claves de cifrado de la organización y, después, configurar Office 365 para usarlas y cifrar los datos en reposo en los centros de datos de Microsoft. Los datos en reposo incluyen datos de Exchange Online y Skype Empresarial que se almacenan en buzones y archivos en SharePoint Online y OneDrive para la Empresa. Para obtener más información, vea [controlar los datos en Office 365 mediante](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) la clave de cliente y el cifrado de [servicio con la clave de cliente de Office 365 FAQ](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq).
+Con la clave de cliente, puede controlar las claves de cifrado de la organización y, después, configurar Office 365 para usarlas y cifrar los datos en reposo en los centros de datos de Microsoft. Los datos en reposo incluyen datos de Exchange Online y Skype Empresarial que se almacenan en buzones y archivos en SharePoint Online y OneDrive para la Empresa. Para obtener más información, vea [controlar los datos en Office 365 mediante](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key) la clave de cliente y el [cifrado de servicio con la clave de cliente de Office 365 FAQ](https://docs.microsoft.com/office365/securitycompliance/service-encryption-with-customer-key-faq).
   
 ## <a name="office-365-message-encryption"></a>Cifrado de mensajes de Office 365
 
@@ -127,9 +128,9 @@ También puede usar la retención local para:
   
 Para obtener más información, vea [Conservación local y retención por juicio](https://docs.microsoft.com/exchange/security-and-compliance/in-place-and-litigation-holds).
   
-## <a name="in-place-ediscovery"></a>Exhibición de documentos electrónicos local
+## <a name="in-place-ediscovery"></a>Exhibición de documentos electrónicos en contexto
 
-Exchange Online permite a los clientes buscar en el contenido de los buzones de una organización con una interfaz web. Los administradores o funcionarios de seguridad y cumplimiento normativo autorizados a realizar búsquedas de Exhibición de documentos electrónicos en contexto (mediante asignación) pueden buscar mensajes de correo electrónico, documentos adjuntos, citas de calendario, tareas, contactos y otros elementos. La Exhibición de documentos electrónicos en contexto permite realizar búsquedas entre los archivos y buzones principales de manera simultánea. Las capacidades de filtrado enriquecidas incluyen remitente, destinatario, tipo de mensaje, fecha de envío/recepción y copia carbón/copia carbón oculta, junto con sintaxis de KQL. Los resultados de búsqueda también incluirán elementos de la carpeta Elementos eliminados, si coinciden con una consulta de búsqueda.
+Exchange Online permite a los clientes realizar búsquedas en el contenido de los buzones de correo en una organización con una interfaz basada en Web. Los administradores o funcionarios de seguridad y cumplimiento normativo autorizados a realizar búsquedas de Exhibición de documentos electrónicos en contexto (mediante asignación) pueden buscar mensajes de correo electrónico, documentos adjuntos, citas de calendario, tareas, contactos y otros elementos. La Exhibición de documentos electrónicos en contexto permite realizar búsquedas entre los archivos y buzones principales de manera simultánea. Las capacidades de filtrado enriquecidas incluyen remitente, destinatario, tipo de mensaje, fecha de envío/recepción y copia carbón/copia carbón oculta, junto con sintaxis de KQL. Los resultados de búsqueda también incluirán elementos de la carpeta Elementos eliminados, si coinciden con una consulta de búsqueda.
   
 Se puede obtener una vista previa de los resultados de las búsquedas de Exhibición de documentos electrónicos en contexto en la interfaz basada en web; también se pueden exportar a un archivo PST o copiar a un tipo especial de buzón denominado buzón de detección. Un buzón de detección tiene una cuota de 50 GB para almacenar los resultados de la búsqueda. Los administradores también pueden conectar Outlook al buzón de detección para acceder a los resultados de búsqueda y para exportarlos a un archivo .pst.
   
@@ -188,9 +189,9 @@ Puede configurar directivas de DLP en la interfaz de administración del Centro 
     
 - Detectar información confidencial en datos adjuntos de mensajes, texto del cuerpo o líneas de asunto y ajustar el nivel de confianza en el que actúa Exchange Online.
     
-- Detectar datos confidenciales mediante la creación de huellas digitales de documentos. La creación de huellas digitales de documentos ayuda a crear fácilmente tipos de información confidencial personalizada en función de formularios basados en texto que se pueden usar para definir las reglas de transporte y las directivas DLP.
+- Detectar datos confidenciales mediante las huellas digitales de documentos. Las huellas digitales de documentos ayudan a crear fácilmente tipos de información confidencial personalizada en función de formularios basados en texto que se pueden usar para definir las reglas de transporte y las directivas DLP.
     
-- Agregue sugerencias de directivas, que pueden ayudarle a reducir la pérdida de datos al mostrar un aviso a los usuarios de Outlook 2016, Outlook 2013, Outlook Web App y OWA para dispositivos. También pueden mejorar la eficacia de las directivas al permitir la creación de informes falsos positivos. 
+- Agregar sugerencias de directivas, que pueden ayudar a reducir la pérdida de datos al mostrar un aviso a los usuarios de Outlook 2016, Outlook 2013, Outlook en la web y OWA para dispositivos, y también pueden mejorar la eficacia de las directivas al permitir la creación de informes falsos positivos. 
     
 - Revisar los datos de incidentes en informes de DLP o agregar sus propios informes específicos mediante una acción de generación de informes de incidentes.
     
@@ -218,6 +219,6 @@ Para más información sobre el registro en diario, consulte [Registro en diario
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
   
 

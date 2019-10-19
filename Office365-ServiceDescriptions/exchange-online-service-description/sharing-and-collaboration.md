@@ -11,21 +11,25 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 2bb90afe0011d1799a9faf71ea025261d586692d
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: b544ebc38b4a1f79477b773bc91b40f051a41346
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442545"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582016"
 ---
 # <a name="sharing-and-collaboration"></a>Uso compartido y colaboración
 
 ## <a name="federated-sharing"></a>Uso compartido federado
 
-La Federación se refiere a la infraestructura de confianza subyacente que admite el uso compartido federado, un método para que los usuarios de Microsoft Exchange Online compartan datos de calendario de disponibilidad e información de contacto con los destinatarios en otras organizaciones federadas externas o con usuarios que tienen acceso a Internet. Estas incluyen organizaciones que también están hospedadas por Exchange Online u organizaciones Exchange Server 2013 o Microsoft Exchange Server 2010 externas. Mediante el uso de directivas de uso compartido y relaciones de organización, los administradores de Exchange Online pueden habilitar a los usuarios para enviar invitaciones de uso compartido de calendarios desde Microsoft Outlook Web App o Microsoft Outlook 2010 o posterior.
+La Federación se refiere a la infraestructura de confianza subyacente que admite el uso compartido federado, un método para que los usuarios de Microsoft Exchange Online compartan datos de calendario de disponibilidad e información de contacto con los destinatarios en otras organizaciones federadas externas o con usuarios que tienen acceso a Internet. Estas incluyen organizaciones que también están hospedadas por Exchange Online u organizaciones Exchange Server 2013 o Microsoft Exchange Server 2010 externas. Mediante el uso de las relaciones de organización y las directivas de uso compartido, los administradores de Exchange online pueden permitir a los usuarios enviar invitaciones de uso compartido de calendarios desde Microsoft Outlook en la web o Microsoft Outlook 2010 o posterior.
   
 > [!IMPORTANT]
->  Las organizaciones externas con Exchange 2010 y Exchange 2013 deben configurar una confianza de federación con Microsoft Federation Gateway como parte de la configuración del uso compartido federado. Las organizaciones con Exchange Online no deben configurar una confianza de federación, la confianza de federación con Microsoft Federation Gateway se crea automáticamente cuando se crea el inquilino de Office 365. >  Las organizaciones con Exchange Online deben configurar una relación de organización o una directiva de uso compartido para habilitar el uso compartido federado. >  En el uso compartido federado no se admite el uso compartido de la lista de acceso global (GAL) ni el movimiento de buzones de usuario entre las organizaciones con Exchange Online de diferentes inquilinos de Office 365. 
+>  Las organizaciones externas con Exchange 2010 y Exchange 2013 deben configurar una confianza de federación con Microsoft Federation Gateway como parte de la configuración del uso compartido federado. Las organizaciones con Exchange Online no deben configurar una confianza de federación, la confianza de federación con Microsoft Federation Gateway se crea automáticamente cuando se crea el inquilino de Office 365. 
+>
+>  Las organizaciones con Exchange Online deben configurar una relación de organización o una directiva de uso compartido para habilitar el uso compartido federado. 
+>
+>  No se admite el uso compartido de listas de acceso global (GAL) o el traslado de buzones de usuario entre organizaciones de Exchange online en diferentes inquilinos de Office 365 en el uso compartido federado. 
   
 Para obtener más información sobre el uso compartido federado, vea [Uso compartido en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
   
@@ -48,14 +52,14 @@ Para obtener más información sobre las carpetas públicas, vea [Carpetas públ
   
 ## <a name="group-and-shared-mailboxes"></a>Buzones compartidos y de grupo
 
-Los buzones compartidos y de grupo permiten que un grupo determinado de personas pueda supervisar y enviar correos de manera sencilla desde una cuenta común, como direcciones de correo públicas (por ejemplo, info@contoso.com o contacto@contoso.com). Cuando una persona del grupo responde a un mensaje enviado al buzón compartido, la respuesta aparece como enviada desde el buzón compartido y no desde el buzón del usuario que ha respondido.
+Los buzones compartidos y de grupo facilitan a un grupo específico de personas supervisar y enviar correo electrónico desde una cuenta común, como direcciones de correo electrónico públicas (por ejemplo, info@contoso.com o contact@contoso.com). Cuando una persona del Grupo responde a un mensaje enviado al buzón compartido, el correo electrónico parece pertenecer al buzón compartido y no al usuario individual.
   
-Normalmente, los buzones compartidos o de grupo no requieren una licencia de usuario independiente. En cambio, para habilitar el Archivo local para un buzón compartido o de grupo, debe asignarle una licencia de Plan 1 de Exchange Online o Plan 2 de Exchange Online. Una vez que se ha asignado la licencia, el tamaño del buzón se incrementa al del plan de la licencia. Debe asignar una licencia de Plan 2 de Exchange Online para poner un buzón compartido en Conservación local. Tenga en cuenta que los buzones de grupo no se pueden asignar en este momento, pero deben justificarse en el total de licencias.
+Normalmente, los buzones compartidos o de grupo no requieren una licencia de usuario independiente. Sin embargo, para habilitar el archivo local para un buzón de correo de grupo o compartido, debe asignar una licencia de plan 1 de Exchange online o plan 2 de Exchange Online. Una vez que se ha asignado la licencia, el tamaño del buzón se incrementa al del plan de la licencia. Para poner un buzón compartido en conservación local, debe asignar una licencia de plan 2 de Exchange Online. Tenga en cuenta que los buzones de grupo no se pueden asignar en este momento, pero se deben tener en cuenta en las licencias totales.
   
-Solo puede usarse el Archivo local para archivar correo de una sola entidad o un único usuario (como un buzón compartido) al que se le haya aplicado una licencia. No se permite usar el Archivo local para almacenar correo de varios usuarios o entidades. Por ejemplo, un administrador de TI no puede crear un buzón compartido ni permitir que los usuarios lo copien (con los campos CC o CCO, o mediante una regla de transporte) con el fin de archivarlo. Tenga en cuenta que un buzón compartido que usan varias personas en realidad no almacena correo electrónico de esos usuarios individuales. Varios usuarios tienen acceso y envían correos electrónicos como el buzón compartido. Por tanto, los únicos correos electrónicos que se almacenan en el buzón compartido son los que se envían a o desde este, como el buzón compartido.
+Solo puede usarse el Archivo local para archivar correo de una sola entidad o un único usuario (como un buzón compartido) al que se le haya aplicado una licencia. No se permite usar el Archivo local para almacenar correo de varios usuarios o entidades. Por ejemplo, un administrador de TI no puede crear un buzón compartido ni permitir que los usuarios lo copien (con los campos CC o CCO, o mediante una regla de transporte) con el fin de archivarlo. Tenga en cuenta que un buzón compartido que usan varias personas en realidad no almacena correo electrónico de esos usuarios individuales. Varios usuarios tienen acceso y envían correos electrónicos como el buzón compartido. Por lo tanto, los únicos correos electrónicos almacenados en el buzón compartido son los que se envían a o desde él como el buzón compartido.
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
   
 

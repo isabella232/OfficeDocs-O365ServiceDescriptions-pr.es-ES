@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 está disponible en diversos planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Microsoft 365 y Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: 6bfea07758698fa8cbbdafc06bfed96d2c9607bc
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: a10f8c563481b00b76fceec7499a3bf01a7006a3
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523402"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595258"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Educación
 
@@ -68,8 +68,8 @@ Cada plan de Microsoft 365 Education incluye una serie de servicios individuales
 |Plan 1<sup>7</sup> de Azure Information Protection <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Plan 2<sup>7</sup> de Azure Information Protection <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Retención por juicio  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|eDiscovery Search  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|eDiscovery Export  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|búsqueda de exhibición de documentos electrónicos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|exportación de exhibición de documentos electrónicos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |eDiscovery avanzado  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
 |Prevención de pérdida de datos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cifrado de mensajes de Office 365  <br/> |Sí<sup>12</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |

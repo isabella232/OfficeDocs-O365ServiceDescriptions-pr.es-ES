@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 es un servicio de suscripción que proporciona la última versión de las aplicaciones de escritorio de Office con las que ya está familiarizado, como Word, Excel y PowerPoint.
-ms.openlocfilehash: 3ba5510ab24f2f7f5cd2aed8aa7e9800ce07e39f
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 3b01b4481b2f50ecaa2ff2928e53d6f5cbf25a29
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998522"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595244"
 ---
 # <a name="office-applications-service-description"></a>Descripción del servicio de aplicaciones de Office
 
@@ -66,7 +66,7 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 |Client support for on-premises SharePoint  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
 |Control of software updates  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/>  |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
 |Database Compare  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No <br> |
-|Virtualización de escritorio  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|Sí<sup>8</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No <br/> |
+|Virtualización de escritorio  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|Sí<sup>8</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí <br/> |
 |Comparación de hojas de cálculo de Excel  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No <br/> |
 |Consulta de hojas de cálculo de Excel  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No <br/>
 |Archivado y cumplimiento de Exchange Online y SharePoint Online  <br/> |Sí<sup>1</sup> <br/> |Sí  <br/> |Sí  <br/>|Sí<sup>1</sup> <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |

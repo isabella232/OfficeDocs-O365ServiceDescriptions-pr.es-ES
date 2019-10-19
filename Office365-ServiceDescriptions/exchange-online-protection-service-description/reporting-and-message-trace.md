@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) ofrece muchos informes distintos que le permitirán averiguar el estado general y el mantenimiento de la organización. Algunos informes están disponibles en el centro de administración de Microsoft 365, mientras que otros están disponibles en el centro de administración de Exchange (EAC).
-ms.openlocfilehash: b87d81210cce585d8e5ccf9d8d52456286bfab91
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: b8afb8a404fb322d70ce5d393c5a5e70cc5af6aa
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442715"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581906"
 ---
 # <a name="reporting-and-message-trace"></a>Creación de informes y seguimiento de mensajes
 
@@ -40,8 +40,8 @@ No está disponible para clientes independientes de EOP. Puede usar el servicio 
 
 ## <a name="message-trace"></a>Seguimiento de mensajes
 
-La característica de seguimiento de mensajes en el EAC le permite a usted como administrador seguir los mensajes de correo electrónico a medida que pasan a través de EOP. Ayuda a determinar si el servicio ha recibido, rechazado, aplazado o entregado un mensaje de correo electrónico dirigido. También muestra qué le ha ocurrido al mensaje antes de alcanzar el estado final. Obtener información detallada sobre un mensaje específico le permite responder de forma eficaz a las preguntas del usuario, solucionar problemas del flujo de correo, validar los cambios en la Directiva y aliviar la necesidad de ponerse en contacto con el soporte técnico para obtener asistencia. Para obtener más información, consulte [ejecutar un seguimiento de mensajes y ver los resultados en el centro de administración de Exchange](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
+La característica de seguimiento de mensajes en el EAC le permite, como administrador, seguir los mensajes de correo electrónico a medida que pasan a través de EOP. Ayuda a determinar si el servicio ha recibido, rechazado, aplazado o entregado un mensaje de correo electrónico dirigido. También muestra qué le ha ocurrido al mensaje antes de alcanzar el estado final. Obtener información detallada sobre un mensaje específico le permite responder de forma eficaz a las preguntas del usuario, solucionar problemas del flujo de correo, validar los cambios en la Directiva y aliviar la necesidad de ponerse en contacto con el soporte técnico para obtener asistencia. Para obtener más información, consulte [ejecutar un seguimiento de mensajes y ver los resultados en el centro de administración de Exchange](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/run-a-message-trace-and-view-results).
 
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción de servicio Protección en línea de Exchange](exchange-online-protection-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).

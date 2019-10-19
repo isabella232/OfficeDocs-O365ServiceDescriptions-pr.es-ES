@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 38ab8f7baf16c5bf837bca9310a0d34a5e25469f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9ee023c3af3e2141e44df3f69ace1c6b897653f6
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776801"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581836"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilidad, conectividad y compatibilidad
 
@@ -28,7 +28,7 @@ En el caso de clientes que hayan implementado Microsoft Lync Server 2010, Lync S
   
 Lync Server 2010 y Lync Server 2013 local pueden interoperar con Exchange Online de dos formas adicionales:
   
-- MI y presencia de interoperabilidad en Outlook Web App
+- Interoperabilidad de presencia y mensajería instantánea en Outlook en la web
     
 - Interoperabilidad de correo de voz
     
@@ -50,7 +50,7 @@ Exchange Online ofrece las siguientes características para la conexión con apl
     
 ### <a name="exchange-web-services"></a>Servicios web de Exchange
 
-Exchange Web Services (EWS) es la API de desarrollo recomendada para Exchange Server y Exchange Online. Con EWS o su API administrada, los administradores pueden acceder a los datos almacenados con Exchange Online desde aplicaciones que se ejecutan localmente, desde Azure o desde otros servicios hospedados. EWS permite que los administradores realicen acciones especializadas, como por ejemplo realizar consultas sobre el contenido de un buzón, colgar un evento en el calendario, crear una tarea o activar una acción específica en función del contenido de un mensaje de correo electrónico. Exchange Online habilita la funcionalidad de EWS concediendo permisos de aplicaciones a las cuentas de clientes. Estos permisos permiten que la aplicación de cliente acceda al buzón de la aplicación y añada contenido. La suplantación de Exchange es uno de los métodos usados para conceder permisos de aplicación. Para obtener información detallada sobre cómo usar Exchange Web Services con Exchange Online, consulte los artículos técnicos en el Centro de desarrolladores de Exchange Online.
+Exchange Web Services (EWS) es la API de desarrollo recomendada para Exchange Server y Exchange Online. Con EWS o su API administrada, los administradores pueden acceder a los datos almacenados con Exchange Online desde aplicaciones que se ejecutan localmente, desde Azure o desde otros servicios hospedados. EWS permite a los administradores realizar acciones especializadas, como consultar el contenido de un buzón, publicar un evento de calendario, crear una tarea o desencadenar una acción específica en función del contenido de un mensaje de correo electrónico. Exchange Online habilita la funcionalidad de EWS concediendo permisos de aplicaciones a las cuentas de clientes. Estos permisos permiten que la aplicación de cliente acceda al buzón de la aplicación y añada contenido. La suplantación de Exchange es uno de los métodos usados para conceder permisos de aplicación. Para obtener información detallada sobre cómo usar Exchange Web Services con Exchange Online, consulte los artículos técnicos en el Centro de desarrolladores de Exchange Online.
   
 ### <a name="smtp-relay"></a>Relé SMTP
 
@@ -58,6 +58,6 @@ Exchange Online se puede usar como servicio de entrega SMTP para transmitir los 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
   
 

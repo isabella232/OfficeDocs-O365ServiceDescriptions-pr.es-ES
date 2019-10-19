@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: efab17a6513dac571abfd314549d0f90017564da
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 9485753dca545eda8e1407e69bedf58c3e113cc5
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523455"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581936"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -48,7 +48,7 @@ Los límites de Microsoft Exchange Online pertenecen a una de las categorías si
 
 - [Distribution group limits](#distribution-group-limits)
 
-- [Límites de las reglas de la Bandeja de entrada, del diario y de transporte](#journal-transport-and-inbox-rule-limits)
+- [Límites de reglas del diario, transporte y bandeja de entrada](#journal-transport-and-inbox-rule-limits)
 
 - [Límites de moderación](#moderation-limits)
 
@@ -251,7 +251,7 @@ Los siguientes límites se aplican a todos los mensajes de correo electrónico.
 - **Límite de tamaño de los datos adjuntos del archivo**: el tamaño máximo de archivo de un solo dato adjunto.
 
     > [!NOTE]
-    > Este es el tamaño de archivo máximo de un solo archivo adjunto. Los programas de clientes individuales, incluido Outlook Web App, pueden limitar el tamaño de los archivos adjuntos por debajo de este valor máximo. Exchange ActiveSync no implementa límites de tamaño de archivo adjunto en archivos adjuntos individuales. El tamaño total de todos los archivos adjuntos en un mensaje de Exchange ActiveSync debe ser inferior al límite de tamaño del mensaje.
+    > Este es el tamaño de archivo máximo de un solo archivo adjunto. Los programas de cliente individuales, incluido Outlook en la web, pueden limitar el tamaño de los datos adjuntos por debajo de este máximo. Exchange ActiveSync no implementa límites de tamaño de archivo adjunto en archivos adjuntos individuales. El tamaño total de todos los archivos adjuntos en un mensaje de Exchange ActiveSync debe ser inferior al límite de tamaño del mensaje.
 
 - **Límite de mensajes de varias partes**: el número máximo de partes del cuerpo del mensaje que se permiten en un mensaje MIME de varias partes. Este límite también controla el número máximo de archivos adjuntos permitidos en un mensaje.
 
@@ -268,7 +268,7 @@ Los siguientes límites se aplican a todos los mensajes de correo electrónico.
 |Límite de tamaño de mensaje: migración|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
 |Límite de tamaño de mensajes: Outlook para iOS y Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
 |Límite de tamaño de los mensajes cifrados (para los suscriptores que usan el Cifrado de mensajes de Office 365 con nuevas funciones)<sup>5</sup>|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
-|Límite de tamaño de los mensajes cifrados (para los suscriptores que usan la versión heredada del Cifrado de mensajes de Office 365)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
+|Límite de tamaño de los mensajes cifrados (para los suscriptores que usan la versión heredada del Cifrado de mensajes de Office 365)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Límite de longitud del asunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
 |Límite de datos adjuntos|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|
 |Límite del tamaño de un archivo de datos adjunto - Outlook|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
@@ -389,7 +389,7 @@ Estos límites controlan el tiempo durante el cual es posible obtener acceso a l
 |**Característica**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Período de retención de la carpeta Elementos eliminados|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|
 |Período de retención de los elementos quitados de la carpeta Elementos eliminados|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|
-|Período de retención de la carpeta Correo no deseado|30 días|30 días|30 días|30 días|30 días|30 días|
+|Período de retención de la carpeta Correo no deseado|30 días|30 días|30 días|30 días|30 días|30 días|
 
 > [!NOTE]
 > <sup>1</sup> Este es el valor predeterminado para las organizaciones de Office 365. Los administradores pueden cambiar este valor a un máximo de 30 días para los buzones de su organización.
@@ -425,7 +425,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |Límite de envío de mensajes a un grupo de distribución grande|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
 |Tamaño máximo de mensaje para grupos de distribución con entre 5 000 y 99 999 miembros.|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Tamaño máximo de mensaje para grupos de distribución con 100 000 miembros.|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |10 |10 |
+|Número máximo de propietarios de un grupo de distribución|metros|metros|metros|metros|metros|metros|
 |Número máximo de grupos que un usuario puede crear|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -436,17 +436,17 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Característica**|**Exchange Server 2013**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
-|Número máximo de miembros de un grupo de distribución|100 000 miembros<sup>1</sup>|100 000 miembros|100 000 miembros|100 000 miembros|
+|Número máximo de miembros de un grupo de distribución|100 000 miembros<sup>1</sup>|100 000 miembros|100 000 miembros|100 000 miembros|
 |Límite de envío de mensajes a un grupo de distribución grande|5000 o más miembros<sup>1</sup>|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
-|Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |
+|Número máximo de propietarios de un grupo de distribución|metros|metros|metros|metros|
 |Número máximo de grupos que un usuario puede crear|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
 > <sup>1</sup> Es el límite predeterminado para organizaciones de Exchange Server 2013. Los administradores pueden cambiar este valor para su organización. <br/> <sup>2</sup> Este límite se aplica también a los administradores.
 
-## <a name="journal-transport-and-inbox-rule-limits"></a>Límites de las reglas de la Bandeja de entrada, del diario y de transporte
+## <a name="journal-transport-and-inbox-rule-limits"></a>Límites de las reglas de la bandeja de entrada, del diario y de transporte
 
-La lista siguiente incluye los límites que se aplican a las reglas del diario, a las reglas de transporte (también conocidas como reglas de toda la organización) y los límites que se aplican a la Bandeja de entrada. Los distintos usuarios configuran las reglas de la bandeja de entrada que se aplican a los mensajes que se envían y reciben en sus buzones correspondientes.
+La lista siguiente incluye los límites que se aplican a las reglas del diario, las reglas de transporte (también conocidas como reglas de toda la organización) y los límites que se aplican a las reglas de la bandeja de entrada. Los distintos usuarios configuran las reglas de la bandeja de entrada que se aplican a los mensajes que se envían y reciben en sus buzones correspondientes.
 
 - **Número máximo de reglas del diario** El número máximo de reglas del diario que puede existir en la organización.
 
@@ -456,7 +456,7 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 
 - **Límite de caracteres para todas las expresiones regulares usadas en todas las reglas de transporte** El número total de caracteres usados por todas las expresiones regulares en todas las condiciones y excepciones de las reglas de transporte de una organización. Puede disponer de unas cuantas reglas que usen expresiones largas y complejas, o muchas reglas con expresiones regulares sencillas.
 
-- **Límites de análisis para el contenido de datos adjuntos** Las condiciones de regla de transporte le permiten examinar el contenido de los datos adjuntos del mensaje, pero se inspecciona solo el primer 1 MB del texto extraído de un archivo adjunto. Este límite de 1 MB se refiere al texto extraído de los datos adjuntos, no al tamaño de archivo de los datos adjuntos. Por ejemplo, un archivo de 2 MB puede tener menos de 1 MB de texto, en cuyo caso todo el texto sería inspeccionado.
+- **Límites de análisis para el contenido de datos adjuntos** Las condiciones de la regla de transporte permiten examinar el contenido de los datos adjuntos de los mensajes, pero solo se inspecciona el primer 1 MB del texto extraído de los datos adjuntos. Este límite de 1 MB se refiere al texto extraído de los datos adjuntos, no al tamaño de archivo de los datos adjuntos. Por ejemplo, un archivo de 2 MB puede tener menos de 1 MB de texto, en cuyo caso todo el texto sería inspeccionado.
 
 - **Número máximo de recipientes agregados a un mensaje por todas las reglas de trasporte** Cuando en un mensaje actúan diferentes reglas de transporte, solo se puede agregar al mensaje un número finito de destinatarios. Una vez alcanzado el límite, los demás destinatarios no se agregan al mensaje. Asimismo, los grupos de distribución no pueden agregarse a un mensaje mediante una regla de transporte.
 
@@ -466,7 +466,7 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 
 - **Número de veces que las reglas de transporte redirigen un mensaje** El número de veces que se redirigirá un mensaje en función de las reglas de transporte. Por ejemplo, la organización de Exchange Tailspin Toys tiene una regla de transporte para redirigir todos los mensajes enviados al usuario a al usuario B, que se encuentra en la organización de Exchange contoso. En la organización de Exchange contoso hay una regla de transporte en su ubicación para redirigir todos los mensajes enviados al usuario B al usuario C que se encuentra en la organización de Exchange a. Datum Corporation. En este caso, el mensaje se elimina y un informe de no entrega (NDR) con código de estado y el mensaje de rechazo *550 5.7.128 transporte. Reglas. RejectMessage Se superó el número de bucles de reglas de transporte y el mensaje rechazado* es enviar al usuario a. Usamos el encabezado X-MS-Exchange-Transport-rules-loop para determinar el número de veces que un mensaje fue redirigido por las reglas de transporte. Este encabezado también se mantiene entre los límites de la organización de Exchange.
 
-### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Límites de reglas del diario, transporte y Bandeja de entrada en las opciones de Office 365
+### <a name="journal-transport-and-inbox-rule-limits-across-office-365-options"></a>Límites de reglas del diario, transporte y bandeja de entrada en las opciones de Office 365
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -478,10 +478,10 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 |Límites de análisis para el contenido de datos adjuntos|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |Número máximo de destinatarios agregados a un mensaje por todas las reglas de trasporte|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|
 |Límite de reenvío|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|
-|Número de veces que se redirige un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
-|Número de veces que las reglas de transporte redirigen un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que se redirige un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que las reglas de transporte redirigen un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
 
-### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Límites de reglas del diario, transporte y Bandeja de entrada en las opciones independientes
+### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Límites de reglas del diario, transporte y bandeja de entrada en las opciones independientes
 
 ||||||
 |:-----|:-----|:-----|:-----|:-----|

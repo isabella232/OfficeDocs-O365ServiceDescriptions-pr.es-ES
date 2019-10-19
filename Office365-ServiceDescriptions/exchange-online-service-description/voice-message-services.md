@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 7087de4dbcc4955d8c66ce4b4a9c4c12e763aa38
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442565"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581436"
 ---
 # <a name="voice-message-services"></a>Servicios de mensajes de voz
 
@@ -44,11 +44,11 @@ Los servicios de mensajería de voz hospedados permiten a una empresa conectar s
     
 - Restablecimiento de PIN del correo de voz desde Outlook Web App y Outlook (vea [Restablecer un PIN del correo de voz](https://go.microsoft.com/fwlink/p/?LinkId=271794)). 
     
-- Indicador de mensajes en espera (para obtener más información, vea [Indicador de mensajes en espera en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271795)). 
+- Reglas de respuesta a llamada (vea [permitir a los usuarios de correo de voz reenviar llamadas](https://go.microsoft.com/fwlink/p/?LinkId=271795) para obtener más información).
     
-- Reglas del contestador automático (para obtener más información, vea [Permitir a los usuarios de correo de voz reenviar llamadas](https://go.microsoft.com/fwlink/p/?LinkId=271796)). 
+- Correo de voz protegido en Exchange Online (consulte [proteger el correo de voz en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271796) para obtener más información).
     
-- Correo de voz protegido en Exchange Online (para obtener más información, vea [Proteger el correo de voz en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271797)). 
+- Vista previa de correo de voz (vea [permitir a los usuarios ver una transcripción de correo de voz](https://go.microsoft.com/fwlink/p/?LinkId=271797) para obtener una lista de los idiomas admitidos).
     
 - Speech access to email, voice mail, calendar, personal contacts, and personal contact groups.
     
@@ -56,10 +56,16 @@ Los servicios de mensajería de voz hospedados permiten a una empresa conectar s
     
 - Búsqueda de directorios con Outlook Voice Access o un operador automático.
     
-For more information about voice mail features, see [Voice Mail in Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
+Para obtener más información sobre las características de correo de voz, vea [correo de voz en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271798).
   
 > [!IMPORTANT]
-> The Automatic Speech Recognition (ASR) feature isn't available in menu navigation or directory search for Outlook Voice Access users or auto attendant callers using voice commands. > The customer must provide a telephony connection from the public switched telephone network (PSTN) using a VoIP gateway and PBX, IP PBX, or Skype for Business Server 2015. > The customer must provide the on-premises SBC hardware devices and ensure that the SBCs are correctly configured to connect to the online voice mail services. This includes configuring the appropriate level of security by using certificates and public and private IP interfaces and by enabling the correct TCP ports through their on-premises firewalls. > Hosted voice mail is available only to Exchange Online Plan 2 and Office 365 Enterprise E3 subscribers. 
+> The Automatic Speech Recognition (ASR) feature isn't available in menu navigation or directory search for Outlook Voice Access users or auto attendant callers using voice commands. 
+>
+> El cliente debe proporcionar una conexión telefónica desde la red telefónica conmutada pública (RTC) con una puerta de enlace VoIP y PBX, IP PBX o Skype empresarial Server 2015. 
+>
+> El cliente debe proporcionar los dispositivos de hardware SBC locales y garantizar que estén configurados correctamente para conectarse a los servicios de correo de voz en línea. Esto incluye configurar el nivel apropiado de seguridad mediante certificados, interfaces IP públicas y privadas, y la habilitación de los puertos TCP correctos a través de sus firewalls locales. 
+>
+> El correo de voz hospedado solo está disponible para suscriptores de Exchange Online plan 2 y Office 365 Enterprise E3. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interoperabilidad del correo de voz de terceros
 
@@ -74,6 +80,6 @@ Las organizaciones pueden comprar Skype Empresarial Online como servicio indepen
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
   
 

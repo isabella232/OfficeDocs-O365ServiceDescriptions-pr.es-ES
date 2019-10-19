@@ -1,5 +1,5 @@
 ---
-title: Administración y gestión [EOP]
+title: Administración y administración [EOP]
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: En esta sección se describen las interfaces de administración que están disponibles para los administradores de Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 6a9e97d1c6ca59535ee76c1e8436b35899fba941
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: df2588dd9ea9f3cb13fe70aae93a17cbeecb343d
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442485"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581476"
 ---
-# <a name="administration-and-managementeop"></a>Administración y gestión [EOP]
+# <a name="administration-and-managementeop"></a>Administración y administración [EOP]
 
 En esta sección se describen las interfaces de administración que están disponibles para los administradores de Microsoft Exchange Online Protection (EOP).
   
@@ -39,5 +39,5 @@ El Centro de administración de Exchange (EAC) es una consola de administración
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción de servicio Protección en línea de Exchange](exchange-online-protection-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).
   

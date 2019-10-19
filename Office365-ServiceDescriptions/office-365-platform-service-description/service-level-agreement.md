@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 7f4f1d184915c7098ed00e94e8eb8bf47b38deea
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9dfa0f5b1e7ade5a957d8acb83dc0658077c5cdd
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777471"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581366"
 ---
 # <a name="service-level-agreement"></a>Contrato de nivel de servicio
 
@@ -35,5 +35,5 @@ Vea el [21Vianet Service Level Agreement (Contrato de nivel de servicio de 21Via
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](https://technet.microsoft.com/en-us/library/office-365-platform-service-description.aspx).
+Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description.md).
   

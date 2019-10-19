@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Con cada suscripción de Microsoft Office 365 Enterprise, Empresa, Educación y Administración Pública, el soporte técnico de Microsoft proporciona soporte técnico, soporte de preventas, facturación y suscripciones en general. El soporte técnico está disponible en línea a través del portal de Office 365 y por teléfono para las suscripciones de pago y de prueba. Para más información, vea las opciones del Soporte técnico de Office 365.
-ms.openlocfilehash: 5b525e5272c8400b2274a5567bcaea7d76283352
-ms.sourcegitcommit: a160133550dff5debf3ffd60c499107713d7a604
+ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35854908"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582196"
 ---
 # <a name="support"></a>Soporte técnico
 
@@ -201,4 +201,4 @@ Si ya adquirió licencias de Microsoft en un programa de licencias por volumen, 
 
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description.md).

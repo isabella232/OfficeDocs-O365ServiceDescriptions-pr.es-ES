@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business es una solución integrada que reúne la mejor productividad en su clase de Office 365 con funciones avanzadas de seguridad y administración de dispositivos para ayudarle a proteger su empresa. . Esta descripción de servicio describe las opciones y características del plan. Para obtener más información acerca de Office 365, consulte las descripciones de servicio de Office 365.
-ms.openlocfilehash: c0027b3c1200ff3408935096a269b7c651a02475
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 05e2da6ede768120c0cde61eb28ca1deb7c2cbf5
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442555"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582046"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descripción del servicio de Microsoft 365 Empresa
 
@@ -77,7 +77,7 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
    
 ||||
 |:-----|:-----|:-----|
-|[Regulación de mensajes y cumplimiento normativo](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |
+|[Directiva de mensajes y cumplimiento normativo](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |
 |Archivado de buzones basados en Exchange Online  <br/> |Sí  <br/> |Sí<sup>11</sup> <br/> |
 |Etiquetas de retención y directivas de retención de administración de registros de mensajería (MRM)  <br/> |Sí  <br/> |Sí  <br/> |
 |Cifrado de datos en reposo (BitLocker)  <br/> |Sí  <br/> |Sí  <br/> |
@@ -96,8 +96,8 @@ Para ver la disponibilidad de características en los planes de Office 365, cons
 |Clave del cliente de Office 365<sup>12</sup> <br/> |No  <br/> |No  <br/> |
 |Office 365 Advanced eDiscovery<sup>13</sup> <br/> |No  <br/> |No  <br/> |
 |Puntuación segura<sup>14</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|Inteligencia de amenazas  <br/> |No  <br/> |No  <br/> |
-|[Cumplimiento [ServiceDesc]](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |
+|Inteligencia sobre amenazas  <br/> |No  <br/> |No  <br/> |
+|[Cumplimiento](../office-365-platform-service-description/compliance-servicedesc.md) <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |
 |Evaluaciones SAS 70 / SSAE16  <br/> |Sí  <br/> |Sí  <br/> |
 |Certificación ISO 27001  <br/> |Sí  <br/> |Sí  <br/> |
 |Cláusulas del modelo de UE  <br/> |Sí  <br/> |Sí  <br/> |

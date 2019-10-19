@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
-description: Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no son configurables, a menos que se especifique lo contrario.
-ms.openlocfilehash: fd5dbbe0f52eb7789b2e730faf76e89803033ad6
-ms.sourcegitcommit: 5b1670c36e256aef7f222951a49a4411afc3bcb6
+description: Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no se pueden configurar a menos que se especifique lo contrario.
+ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36231398"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581475"
 ---
 # <a name="exchange-online-protection-limits"></a>Límites de Exchange Online Protection
 
-Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no son configurables, a menos que se especifique lo contrario. 
+Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no se pueden configurar a menos que se especifique lo contrario. 
   
 > [!TIP]
 > Para obtener más información acerca de los límites en Exchange Online, vea [Límites de Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Los límites de la regla de transporte se aplican también a los clientes de EOP independiente. Los límites de tasa de destinatarios y tasa de mensajes de Exchange Online no se aplican a los clientes de EOP independiente. 

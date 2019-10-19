@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para los servicios a nivel de inquilino de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 3e9a1fd7e91c39961517cc1175b1c7ebe79f2314
-ms.sourcegitcommit: 0d63d969bf286c3ab2b297867713d41f485ccc07
+ms.openlocfilehash: 099f17c638a2c8c9d6d13004dc19a29862de2555
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37035136"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37582036"
 ---
 # <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 información sobre licencias de servicios de nivel de inquilino
 
@@ -45,7 +45,7 @@ De forma predeterminada, las características de AADIP están habilitadas en el 
 
 Los administradores pueden establecer el ámbito AADIP mediante la asignación de directivas de riesgo que definen el nivel de restablecimiento de contraseña y permiten el acceso solo a los usuarios con licencia. Para obtener instrucciones sobre cómo establecer el ámbito de las implementaciones de AADIP, vea [Configure The Sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
-## <a name="azure-advanced-threat-protection"></a>Protección contra amenazas avanzada de Azure
+## <a name="azure-advanced-threat-protection"></a>Azure Advanced Threat Protection
 
 La protección contra amenazas avanzada de Azure (ATP) es un servicio en la nube que ayuda a proteger los entornos híbridos empresariales de varios tipos de ataques avanzados y amenazas de Insider específicos.
 
@@ -80,6 +80,7 @@ La característica de examen de AIP clasifica, etiqueta y protege automáticamen
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
 De forma predeterminada, las características de AIP están habilitadas en el nivel de inquilino para todos los usuarios del espacio empresarial. Para obtener información sobre cómo configurar directivas de AIP para usuarios con licencia, consulte [Activating Azure Rights Management](https://docs.microsoft.com/azure/information-protection/activate-service).
+
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
 Las directivas de características de AIP (excepto la característica de escáner) se pueden limitar a grupos o usuarios específicos; los registros se pueden editar para evitar que los usuarios sin licencia ejecuten las características de etiquetado o clasificación de AIP. Para obtener instrucciones sobre cómo asignar el ámbito de las implementaciones de AIP, vea [configuración de la Directiva de Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy).
@@ -312,7 +313,7 @@ De forma predeterminada, los mensajes de chat y de canal de Microsoft son una *U
 
 Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento de Office 365, en**ubicaciones**de **prevención** > de pérdida de datos.
 
-## <a name="information-barriers"></a>Barreras de la información
+## <a name="information-barriers"></a>Barreras de información
 
 Las barreras de información son directivas que un administrador puede configurar para evitar que los usuarios o grupos se comuniquen entre sí. Esto es útil si, por ejemplo, un departamento está controlando información que no debe compartirse con otros departamentos, o bien es necesario evitar que un grupo se comunique con los contactos externos. Las directivas de barrera de información también evitan búsquedas y detección. Esto significa que si intenta comunicarse con alguien con quien no debe comunicarse, no encontrará a ese usuario en el selector de personas.
 

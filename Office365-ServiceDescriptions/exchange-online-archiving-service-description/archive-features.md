@@ -1,5 +1,5 @@
 ---
-title: Características de archivo de Archivado de Exchange Online
+title: Características de archivo de archivado de Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: En las siguientes secciones se describen las características de archivo de archivado de Microsoft Exchange Online.
-ms.openlocfilehash: 7cbaaf81106084795630ced11837f4f9a56dcf85
-ms.sourcegitcommit: 7a67ef94d2f9101a7f9d8989bfd5013bc89dce00
+ms.openlocfilehash: 8e27ce238fa0aa7e2b670f6d991178c5f595908a
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34780679"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581407"
 ---
-# <a name="archive-features-in-exchange-online-archiving"></a>Características de archivo de Archivado de Exchange Online
+# <a name="archive-features-in-exchange-online-archiving"></a>Características de archivo de archivado de Exchange Online
 
 En las siguientes secciones se describen las características de archivo de archivado de Microsoft Exchange Online.
   
 ## <a name="archive-mailbox"></a>Buzón de archivo
 
-Archivado de Exchange Online ofrece a los usuarios capacidades avanzadas de archivo con la característica de buzón de archivo. Un buzón de archivo es un buzón especializado que aparece junto a las carpetas del buzón principal de los usuarios en Outlook o Outlook Web App. Los usuarios pueden acceder al archivo como si accedieran a su buzón principal y realizar búsquedas en ambos buzones.
+Archivado de Exchange Online ofrece capacidades avanzadas de archivado para los usuarios con la característica de buzón de archivo. Un buzón de archivo es un buzón especializado que aparece junto a las carpetas de buzones principales de los usuarios en Outlook o en Outlook en la Web. Los usuarios pueden tener acceso al archivo de la misma forma que tienen acceso a sus buzones principales. Además, pueden buscar en sus archivos y en los buzones de correo principales.
   
 Los administradores pueden habilitar la característica de archivo para usuarios específicos desde el Centro de administración de Exchange (EAC) o desde Windows PowerShell remoto. Para obtener más información, vea [Habilitar o deshabilitar un buzón de archivo en Exchange Online](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
   
@@ -58,7 +58,7 @@ Para importar datos al archivo, los usuarios pueden:
 
 Los usuarios pueden restaurar elementos que han eliminado con anterioridad desde cualquier carpeta de correo de su archivo. Cuando se elimina un elemento, permanece en la carpeta Elementos eliminados del archivo. El elemento permanece ahí hasta que el usuario lo elimina de forma manual o hasta que las directivas de retención lo quitan de forma automática.
   
-Cuando el elemento se quita de la carpeta Elementos eliminados del archivo, se conserva en la carpeta Elementos recuperables del archivo durante 14 días, antes de eliminarse de forma permanente. Los usuarios pueden recuperar estos elementos con la característica **Recuperar elementos eliminados** de Microsoft Outlook o Outlook Web App. 
+Cuando el elemento se quita de la carpeta Elementos eliminados del archivo, se conserva en la carpeta Elementos recuperables del archivo durante 14 días, antes de eliminarse de forma permanente. Los usuarios pueden recuperar estos elementos mediante la característica **recuperar elementos eliminados** de Microsoft Outlook o Outlook en la Web. 
   
 Si un usuario purga de manera manual un elemento de la carpeta Elementos recuperables, los administradores pueden recuperarlo a lo largo de los 14 días siguientes con la característica Recuperación de un único elemento. Esta característica permite a los administradores realizar una búsqueda en varios buzones para buscar los elementos que se han purgado y, después, transferirlos desde el buzón de correo de detección hasta los buzones de los usuarios con el cmdlet  `Search-Mailbox` de Windows PowerShell. Para obtener más información, vea [Habilitar o deshabilitar la recuperación de elementos individuales de un buzón de correo](https://docs.microsoft.com/office365/securitycompliance/use-network-upload-to-import-pst-files).
   
@@ -79,5 +79,5 @@ Los buzones de archivo de Exchange Online archiving se replican en varias copias
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, vea [Descripción del servicio de archivado de Exchange Online](exchange-online-archiving-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio de archivado de Exchange Online](exchange-online-archiving-service-description.md).
   

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: El archivado de Microsoft Exchange Online es una solución de archivado de clase empresarial, basada en la nube de Microsoft Office 365, para organizaciones que han implementado Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 y versiones posteriores) o suscribirse a determinados planes de Exchange Online u Office 365. Archivado de Exchange Online ayuda a satisfacer las necesidades de estas organizaciones relacionadas con el archivo, el cumplimiento normativo, las disposiciones legales y la exhibición de documentos electrónicos, al mismo tiempo que simplifica la infraestructura local, reduce costes y facilita el trabajo de TI.
-ms.openlocfilehash: edf8ee24b2d89d3425085ab41360c5f659c16caf
-ms.sourcegitcommit: 9a20f05a53c5b906dea21ae9e3f65653b2c01967
+ms.openlocfilehash: f67f17a342a2e0b0358fa55fc5c16bfc6e5f2600
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36672584"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581866"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de archivado de Exchange Online
 
@@ -79,17 +79,17 @@ Cada usuario que acceda al servicio de Archivado de Exchange Online debe tener u
 ||||
 |:-----|:-----|:-----|
 |**Característica** <br/> |**Archivado de Exchange Online para Exchange Server<sup>1</sup>**          <br/> |**Archivado de Exchange Online para Exchange Online<sup>2</sup>** <br/> |
-|**[Características de archivo de Archivado de Exchange Online](archive-features.md)** <br/> |||
+|**[Características de archivo de archivado de Exchange Online](archive-features.md)** <br/> |||
 |Buzón de archivo  <br/> |Sí  <br/> |Sí  <br/> |
 |Mover mensajes con la Directiva de archivo  <br/> |Sí  <br/> |Sí  <br/> |
 |Importar datos al archivo  <br/> |Sí  <br/> |Sí  <br/> |
 |Recuperación de elementos eliminados  <br/> |Sí  <br/> |Sí  <br/> |
 |Recuperación de buzones eliminados  <br/> |Sí  <br/> |Sí  <br/> |
 |Copia de seguridad del buzón  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Características de cliente de Exchange Online Archiving](client-features.md)** <br/> |||
+|**[Características de cliente de archivado de Exchange Online](client-features.md)** <br/> |||
 |Outlook<sup>3</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|Outlook Web App  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Características de cumplimiento y seguridad en Archivado de Exchange Online](compliance-and-security-features.md)** <br/> |||
+|Outlook en la Web  <br/> |Sí  <br/> |Sí  <br/> |
+|**[Características de cumplimiento y seguridad en archivado de Exchange Online](compliance-and-security-features.md)** <br/> |||
 |Directivas de retención  <br/> |Sí  <br/> |Sí  <br/> |
 |Conservación local y retención por juicio<sup>6</sup> <br/> |Sí  <br/> |Sí  <br/> |
 |Exhibición de documentos electrónicos en contexto  <br/> |Sí  <br/> |Sí  <br/> |
@@ -104,7 +104,7 @@ Cada usuario que acceda al servicio de Archivado de Exchange Online debe tener u
 <sup>1</sup> Los buzones de correo del usuario deben residir en Exchange 2010 SP2 u otra versión posterior.
 <br/>
 <sup>2</sup> Solo puede usarse Archivo local para archivar correo de una sola entidad o un único usuario al que se le haya aplicado una licencia. No se permite usar Archivo local para almacenar correo de varios usuarios o entidades. Por ejemplo, los administradores de TI no pueden crear buzones compartidos ni permitir que los usuarios copien (con los campos CC o CCO, o mediante una regla de transporte) buzones compartidos para archivarlos. <br/> 
-<sup>3</sup> Para obtener una lista de versiones de Microsoft Outlook admitidas, vea [Características de cliente de Exchange Online Archiving](client-features.md). <br/>
+<sup>3</sup> para obtener una lista de versiones de Microsoft Outlook admitidas, vea [características de cliente de archivado de Exchange Online](client-features.md). <br/>
 <sup>4</sup> Azure Information Protection no se incluye, pero puede adquirirse como complemento independiente y habilitará las características admitidas de Information Rights Management (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
 <sup>5</sup> Windows Server AD RMS es un servidor local que debe comprarse y administrarse por separado para habilitar las características de IRM admitidas. <br/>
 <sup>6</sup> Si coloca un buzón en Conservación local o retención por juicio, la conservación o retención se aplica al buzón principal y al buzón de archivo. 

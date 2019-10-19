@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Desea obtener una comparación de características de las suscripciones a Office 365 que incluyen Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: 25f490e953c3d3e865e02eeb19de06e05b4ce6df
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442655"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581946"
 ---
 # <a name="exchange-online-service-description"></a>Descripción del servicio Exchange Online
 
@@ -58,7 +58,7 @@ Las suscripciones de usuario no son necesarias para salas de conferencias y buzo
 
 Para conocer los requisitos del sistema para Office 365, el servicio basado en suscripción mensual disponible para la empresa, educación y organizaciones gubernamentales, consulte [Requisitos del sistema para Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
-## <a name="storage-and-recipient-limits-for-exchange-online"></a>Límites de almacenamiento y de destinatario de Exchange Online
+## <a name="storage-and-recipient-limits-for-exchange-online"></a>Límites de destinatarios y almacenamiento para Exchange Online
 
 Para obtener información sobre los límites de destinatarios y almacenamiento disponibles en los planes de suscripción de Exchange Online, vea [Límites de Exchange Online](exchange-online-limits.md).
   
@@ -75,11 +75,11 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Admite migración preconfigurada|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |**[Permisos](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Permisos basados en roles|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
-|Grupos de roles|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
-|Directivas de asignación de roles|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
-|**[Regulación de mensajes y cumplimiento normativo](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Grupos de funciones|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
+|Directivas de asignación de funciones|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
+|**[Directiva de mensajes y cumplimiento normativo](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Archivado de buzones basados en Exchange Online| No|No|Sí|Sí|Sí|Sí|Sí|No|
-|Archivado basado en la nube de buzones locales|Sí<sup>1</sup>|Sí<sup>1</sup>|No|No|Sí|Sí|Sí|No|
+|Archivado basado en nube de buzones locales|Sí<sup>1</sup>|Sí<sup>1</sup>|No|No|Sí|Sí|Sí|No|
 |Messaging Records Management (MRM) |Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Directivas, etiquetas y etiquetas de retención manuales |No|No|No|No|Sí|Sí|Sí|Sí|
 |Cifrado de datos en reposo (BitLocker)|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -90,29 +90,29 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |S/MIME|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí|Sí|Sí|Sí|Sí|Sí||
 |Conservación local y retención por juicio|Sí|Sí|No|No|No|Sí|Sí|No|
 |Exhibición de documentos electrónicos en contexto|Sí<sup>20</sup>|Sí<sup>20</sup>|Sí<sup>20</sup>|Sí<sup>20</sup>|Sí<sup>20</sup>|Sí<sup>20</sup>|Sí<sup>20</sup>|Sí|
-|Reglas de transporte|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|
+|Transport rules|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|
 |Prevención de pérdida de datos|Sí<sup>5, 14</sup>|Sí<sup>5, 14</sup>|No|No|No|Sí|Sí|No|
 |Registro en diario|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |**[Protección contra correo electrónico no deseado y antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Protección contra correo no deseado integrada|Sí<sup>6</sup>|Sí<sup>6</sup>|Sí|Sí|Sí|Sí|Sí|Sí|
-|Personalizar directivas contra correo no deseado|Sí, pero solo mediante PowerShell|Sí, pero solo mediante PowerShell|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
-|Protección antimalware integrada|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|
-|Personalizar directivas antimalware|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
+|Customize anti-spam policies|Sí, pero solo mediante PowerShell|Sí, pero solo mediante PowerShell|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
+|Protección contra malware integrada|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|
+|Customize anti-malware policies|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
 |Cuarentena: gestión de administradores|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
 |Cuarentena: autoadministración de usuarios finales|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |Protección contra amenazas avanzada|No|Sí|No|No|No|No|Sí|No|
 |**[Flujo de correo](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Enrutamiento personalizado de correo saliente|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Mensajería segura con un socio de confianza|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Enrutamiento de correo condicional|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
-|Agregar un asociado a una lista segura de correo entrante|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
+|Secure messaging with a trusted partner|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Conditional mail routing|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
+|Adición de un Partner a una lista segura de entrada|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |Enrutamiento de correo híbrido|Sí|Sí|Sí<sup>16</sup>|Sí<sup>16</sup>|Sí|Sí|Sí|Sí|
 |**[Destinatarios](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Alertas de capacidad|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Otros correos|Sí|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |MailTips|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Acceso delegado|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No<sup>24</sup>|
-|Reglas de la Bandeja de entrada|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
+|Reglas de la bandeja de entrada|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Cuentas conectadas|Sí|Sí|Sí|Sí|Sí<sup>17</sup>|Sí<sup>17</sup>|Sí<sup>17</sup>|Sí<sup>17</sup>|
 |Buzones de correo inactivos|No|No|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|Sí|Sí|No<sup>9</sup>|
 |Libreta de direcciones sin conexión|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -123,24 +123,24 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Grupos de distribución|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Contactos externos (globales)|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Tarjeta de contacto universal|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Contacto de vinculación con redes sociales|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Vinculación de contactos con redes sociales|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Buzones de recursos|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Administración de la sala de conferencias|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Respuestas de Fuera de la oficina|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Respuestas de fuera de la oficina|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Uso compartido de calendarios|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Herramientas de resolución de problemas y características de informes](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Herramientas de solución de problemas y características de informes](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Informes del centro de administración de Microsoft 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |Libro de informes de Excel|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
-|Informes de servicios web|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
-|Seguimiento de mensajes|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Informes de servicios Web|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
+|Message trace|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Informes de auditoría|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>3</sup>|
 |Informes de mensajería unificada|Sí|Sí|No|No|No|Sí|Sí|No|
 |**[Uso compartido y colaboración](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Uso compartido federado (incluida la publicación de calendario)|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Buzones del sitio|Sí<sup>10</sup>|Sí<sup>10</sup>|Sí<sup>11</sup>|Sí<sup>11</sup>|Sí<sup>11</sup>|Sí<sup>11</sup>|Sí<sup>11</sup>|Sí<sup>11</sup>|
+|Buzones de sitio|Sí<sup>10</sup>|Sí<sup>10</sup>|Sí<sup>11</sup>|Sí<sup>11</sup>|Sí<sup>11</sup>|Sí<sup>11</sup>|Sí<sup>11</sup>|Sí<sup>11</sup>|
 |Carpetas públicas|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |**[Clientes y dispositivos móviles](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-| Outlook para Windows <sup>21</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí| No|
+|Outlook para Windows <sup>21</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí| No|
 |Outlook en la Web<sup>21</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Outlook para Mac<sup>21</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí| No|
 |Outlook para iOS y Android<sup>21</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -153,25 +153,25 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Correo de voz<sup>23</sup>|Sí|Sí|No|No|No|Sí|Sí|No|
 |Integración entre el correo de voz y el FAX de terceros<sup>23</sup>|Sí|Sí|No|No|No|Sí|Sí|No|
 |Interoperabilidad del correo de voz de terceros<sup>23</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Integración con Skype Empresarial|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Alta disponibilidad y continuidad comercial](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Replicación de buzón en centros de datos|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
+|Integración de Skype empresarial|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|**[Alta disponibilidad y continuidad empresarial](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Replicación de buzones de correo en centros de datos|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |Recuperación de buzones eliminados|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Recuperación de elementos eliminados|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Recuperación de elementos individuales|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No||
 |**[Interoperabilidad, conectividad y compatibilidad](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
-|Presencia de Skype Empresarial en OWA y Outlook|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Presencia de Skype empresarial en OWA y Outlook|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Interoperabilidad de SharePoint|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Soporte de conectividad de EWS|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
-|Soporte de transmisión de SMTP|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Administración y configuración de Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|Compatibilidad con la conectividad de EWS|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
+|Compatibilidad con retransmisión SMTP|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|**[Configuración y administración de Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Acceso al portal de Microsoft Office 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |Acceso al centro de administración de Microsoft 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |Acceso al Centro de administración de Exchange|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Acceso a Windows PowerShell remoto|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Directivas de ActiveSync para dispositivos móviles|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Informes de uso|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**Extensión de la personalización del servicio, los complementos y los recursos**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Complementos de Outlook y MAPI de Outlook|Sí<sup>19</sup>|Sí|Sí<sup>19</sup>|Sí<sup>19</sup>|Sí<sup>19</sup>|Sí<sup>19</sup>|Sí<sup>19</sup>|No|
 
 <sup>1</sup> requiere una suscripción de archivado de Exchange Online para cada usuario de buzón local que tenga un archivo basado en la nube. <br/>
@@ -210,11 +210,11 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Admite migración preconfigurada|No|No|Sí|Sí|Sí|
 |**[Permisos](permissions.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Permisos basados en roles|Sí|Sí|Sí|Sí|No|
-|Grupos de roles|Sí|Sí|Sí|Sí|No|
-|Directivas de asignación de roles|Sí|Sí|Sí|Sí|No|
+|Grupos de funciones|Sí|Sí|Sí|Sí|No|
+|Directivas de asignación de funciones|Sí|Sí|Sí|Sí|No|
 |**[Regulación de mensajes y cumplimiento normativo](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Archivado de buzones basados en Exchange Online|Sí|No|Sí|Sí|No|
-|Archivado basado en la nube de buzones locales|Sí<sup>5</sup>|Sí<sup>5</sup>|No|Sí|No|
+|Archivado basado en nube de buzones locales|Sí <sup>5</sup>|Sí<sup>5</sup>|No|Sí|No|
 |Messaging Records Management (MRM) |Sí|Sí|Sí|Sí|Sí|
 |Directivas, etiquetas y etiquetas de retención manuales|No|No|Sí|Sí|Sí|
 |Cifrado de datos en reposo (BitLocker)|Sí<sup>16</sup>|Sí<sup>16</sup>|Sí|Sí|Sí|
@@ -229,23 +229,23 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Registro en diario|Sí|Sí|Sí|Sí|Sí|
 |**[Protección contra correo electrónico no deseado y antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Protección contra correo no deseado integrada|Sí <sup>2</sup>|Sí<sup>2</sup>|Sí|Sí|Sí|
-|Personalizar directivas contra correo no deseado|Sí, pero solo mediante PowerShell|Sí, pero solo mediante PowerShell|Sí|Sí|Sí<sup>8</sup>|
-|Protección antimalware integrada|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|
-|Personalizar directivas antimalware|Sí|Sí|Sí|Sí|Sí<sup>8</sup>|
+|Customize anti-spam policies|Sí, pero solo mediante PowerShell|Sí, pero solo mediante PowerShell|Sí|Sí|Sí<sup>8</sup>|
+|Protección contra malware integrada|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|
+|Customize anti-malware policies|Sí|Sí|Sí|Sí|Sí<sup>8</sup>|
 |Cuarentena: gestión de administradores|Sí|Sí|Sí|Sí|Sí<sup>8</sup>|
 |Cuarentena: autoadministración de usuarios finales|No|No|Sí|Sí|Sí|
 |**[Flujo de correo](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Enrutamiento personalizado de correo saliente|Sí|Sí|Sí|Sí|Sí|
-|Mensajería segura con un socio de confianza|Sí|Sí|Sí|Sí|Sí|
-|Enrutamiento de correo condicional|No|No|Sí|Sí|Sí|
-|Agregar un asociado a una lista segura de correo entrante|No|No|Sí|Sí|Sí|
+|Secure messaging with a trusted partner|Sí|Sí|Sí|Sí|Sí|
+|Conditional mail routing|No|No|Sí|Sí|Sí|
+|Adición de un Partner a una lista segura de entrada|No|No|Sí|Sí|Sí|
 |Enrutamiento de correo híbrido|Sí|Sí|Sí|Sí|Sí|
 |**[Destinatarios](recipients.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Alertas de capacidad|Sí|Sí|Sí|Sí|Sí|
 |Otros correos|No|No|Sí|Sí|Sí|
 |MailTips|Sí|Sí|Sí|Sí|Sí|
 |Acceso delegado|Sí|Sí|Sí\|sí|No|
-|Reglas de la Bandeja de entrada|Sí|Sí|Sí|Sí|No|
+|Reglas de la bandeja de entrada|Sí|Sí|Sí|Sí|No|
 |Cuentas conectadas|Sí|Sí|Sí<sup>19</sup>|Sí<sup>19</sup>|Sí<sup>19</sup>|
 |Buzones de correo inactivos|No|No|No<sup>6</sup>|Sí|No<sup>6</sup>|
 |Libreta de direcciones sin conexión|Sí|Sí|Sí|Sí|Sí|
@@ -256,25 +256,25 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Grupos de distribución|Sí|Sí|Sí|Sí|Sí|
 |Contactos externos (globales)|Sí|Sí|Sí|Sí|Sí|
 |Tarjeta de contacto universal|Sí|Sí|Sí|Sí|Sí|
-|Contacto de vinculación con redes sociales|Sí|Sí|Sí|Sí|Sí|
+|Vinculación de contactos con redes sociales|Sí|Sí|Sí|Sí|Sí|
 |Buzones de recursos|Sí|Sí|Sí|Sí|Sí|
 |Administración de la sala de conferencias|Sí|Sí|Sí|Sí|Sí|
-|Respuestas de Fuera de la oficina|Sí|Sí|Sí|Sí|Sí|
+|Respuestas de fuera de la oficina|Sí|Sí|Sí|Sí|Sí|
 |Uso compartido de calendarios|Sí|Sí|Sí|Sí|Sí <sup>18</sup>|
-|**[Herramientas de resolución de problemas y características de informes](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
+|**[Herramientas de solución de problemas y características de informes](reporting-features-and-troubleshooting-tools.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Informes del centro de administración de Microsoft 365|No|No|Sí|Sí|Sí|
 |Libro de informes de Excel|No|No|Sí|Sí|Sí|
-|Informes de servicios web|No|No|Sí|Sí|Sí|
-|Seguimiento de mensajes|No|Sí|Sí|Sí|Sí<sup>8</sup>|
+|Informes de servicios Web|No|No|Sí|Sí|Sí|
+|Message trace|No|Sí|Sí|Sí|Sí<sup>8</sup>|
 |Informes de auditoría|Sí|Sí|Sí|Sí|Sí<sup>8</sup>|
 |Informes de mensajería unificada|Sí|Sí|No|Sí|No|
 |**[Uso compartido y colaboración](sharing-and-collaboration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Uso compartido federado|Sí|Sí|Sí|Sí|Sí|
-|Buzones del sitio|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí <sup>4</sup>|Sí <sup>4</sup>|Sí <sup>4</sup>|
+|Buzones de sitio|Sí <sup>3</sup>|Sí<sup>3</sup>|Sí<sup>4</sup>|Sí <sup>4</sup>|Sí <sup>4</sup>|
 |Carpetas públicas|Sí|Sí|Sí|Sí|No|
 |**[Clientes y dispositivos móviles](clients-and-mobile-devices.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Microsoft Outlook|Sí|Sí|Sí|Sí|No|
-|Outlook Web App|Sí|Sí|Sí|Sí|Sí|
+|Outlook en la Web|Sí|Sí|Sí|Sí|Sí|
 |Exchange ActiveSync|Sí|Sí|Sí|Sí|Sí|
 |POP e IMAP|Sí|Sí|Sí|Sí|Sí<sup>9</sup>|
 |SMTP|Sí|Sí|Sí|Sí|Sí|
@@ -283,18 +283,18 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |**[Servicios de mensajes de voz](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Correo de voz|Sí|Sí|No|Sí|No|
 |Interoperabilidad de correo de voz de terceros|Sí|Sí|Sí|Sí|Sí|
-|Integración con Skype Empresarial|Sí|Sí|Sí|Sí|Sí|
+|Integración de Skype empresarial|Sí|Sí|Sí|Sí|Sí|
 |**[Alta disponibilidad y continuidad comercial](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Replicación de buzón en centros de datos|No|No|Sí|Sí|Sí|
 |Recuperación de buzones eliminados|Sí|Sí|Sí|Sí|Sí|
 |Recuperación de elementos eliminados|Sí|Sí|Sí|Sí|Sí|
 |Recuperación de elementos individuales|Sí|Sí|Sí|Sí|No|
 |**[Interoperabilidad, conectividad y compatibilidad](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
-|Presencia de Skype Empresarial en OWA y Outlook|Sí|Sí|Sí|Sí|Sí|
+|Presencia de Skype empresarial en OWA y Outlook|Sí|Sí|Sí|Sí|Sí|
 |Interoperabilidad de SharePoint|Sí|Sí|Sí|Sí|Sí|
-|Soporte de conectividad de EWS|Sí|Sí|Sí|Sí|Sí|
-|Soporte de transmisión de SMTP|Sí|Sí|Sí|Sí|Sí|
-|**[Administración y configuración de Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
+|Compatibilidad con la conectividad de EWS|Sí|Sí|Sí|Sí|Sí|
+|Compatibilidad con retransmisión SMTP|Sí|Sí|Sí|Sí|Sí|
+|**[Configuración y administración de Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Acceso al portal de Microsoft Office 365|No|No|Sí|Sí|Sí|
 |Acceso al centro de administración de Microsoft 365|No|No|Sí|Sí|Sí|
 |Acceso al Centro de administración de Exchange|Sí|Sí|Sí|Sí|Sí<sup>8</sup>|
@@ -302,7 +302,7 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Directivas de ActiveSync para dispositivos móviles|Sí|Sí|Sí|Sí|Sí|
 |Informes de uso|Sí|Sí|Sí|Sí|Sí|
 |**Extending the Service - Customization, Add-ins, and Resources**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
-|Componentes web de Outlook Web App|Sí|Sí|Sí|Sí|Sí|
+|Elementos Web de Outlook en la web|Sí|Sí|Sí|Sí|Sí|
 |Complementos de Outlook y MAPI de Outlook|Sí|Sí|Sí<sup>21</sup>|Sí<sup>21</sup>|No|
 
 <sup>1</sup> las reglas de transporte se componen de criterios flexibles, que permiten definir las condiciones y excepciones, así como las acciones que se deben realizar en función de los criterios. Los criterios y las acciones disponibles varían entre Exchange Online y Microsoft Exchange Server 2013. Para obtener una lista de todos los criterios y las acciones disponibles, vea los temas de criterios y acciones correspondientes para cada producto. <br/>
@@ -326,6 +326,6 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 <sup>19</sup> las cuentas conectadas se admiten para cuentas pop &amp; IMAP, pero están deshabilitadas para Outlook.com (hotmail). <br/>
 <sup>20</sup> no se admite el uso de cmdlets en Exchange Online PowerShell para personalizar listas de direcciones predeterminadas y la lista global de direcciones (GAL) predeterminada. <br/>
 <sup>21</sup> algunos complementos y elementos Web de terceros podrían no estar disponibles. <br/>
-<sup>22</sup> para eDiscovery, necesita una consulta separada para local frente a nube. <br/>
+<sup>22</sup> para eDiscovery, necesita una consulta independiente para local frente a nube. <br/>
 <sup>23</sup> el quiosco de Exchange online no proporciona derechos de acceso para la utilización con servidores locales. Para cumplir con las normas, el cliente debe adquirir o haber adquirido previamente las CAL adecuadas o debe actualizar a Enterprise SKU, que proporciona estos derechos de acceso. <br/>
 <sup>24</sup> los grupos de Office 365 están disponibles con funcionalidad reducida.

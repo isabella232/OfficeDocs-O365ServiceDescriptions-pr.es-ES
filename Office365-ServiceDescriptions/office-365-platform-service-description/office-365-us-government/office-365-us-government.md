@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En esta sección se proporciona una introducción a las características específicas de los entornos de Office 365 Government US. Le recomendamos que lea esta sección complementaria junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: 4765344c128f53057c75b55e9d79120b03d63942
-ms.sourcegitcommit: 3d180fb603896239b30d9db6ba865843c29801b0
+ms.openlocfilehash: 05b8ccadd5fcd78b61c5fa1428c3370cff4e0e0b
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/10/2019
-ms.locfileid: "37442745"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595248"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -174,7 +174,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |:-----|:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Office 365 Administración Pública G1** <br/> |**Office 365 Administración Pública G3** <br/> |**Office 365 Administración Pública G5** <br/> |**Office 365 administración pública F1** <br/> |
 |**Administración de Office 365** <br/> |||||
-|Administración de Office 365 mediante el centro de administración de Microsoft 365  <br/> |Sí<sup>16</sup> <br/> |Sí<sup>16</sup> <br/> |Sí  <br/> |Sí<sup>16</sup> <br/> |
+|Usar el centro de administración de Microsoft 365 para administrar Office 365  <br/> |Sí<sup>16</sup> <br/> |Sí<sup>16</sup> <br/> |Sí  <br/> |Sí<sup>16</sup> <br/> |
 |Administrar la configuración principal del servicio desde Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Uso de Windows PowerShell para administrar Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Proteger el contenido con Azure Information Protection  <br/> |No<sup>1</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup>  <br/> |No<sup>1</sup> <br/> |
@@ -249,7 +249,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Las notificaciones se envían a Centro de mensajes cuando la acción es necesaria  <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |
 |Roadmap.office.com para algún servicio actualizaciones  <br/> |No<sup>10, 13</sup> <br/> |No<sup>10, 13</sup> <br/> |No<sup>10, 13</sup> <br/> |No<sup>10, 13</sup> <br/> |
 |Opción para activar la versión dirigida  <br/> |Sí<sup>10</sup> <br/> |Sí<sup>10</sup> <br/> |Sí<sup>10</sup> <br/> |Sí<sup>10</sup> <br/> |
-|**[Ayuda y formación](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 Administración Pública G1** <br/> |**Office 365 Administración Pública G3** <br/> |**Office 365 Administración Pública G5** <br/> |**Office 365 administración pública F1** <br/> |
+|**[Ayuda y aprendizaje](../../office-365-platform-service-description/help-and-training.md)** <br/> |**Office 365 Administración Pública G1** <br/> |**Office 365 Administración Pública G3** <br/> |**Office 365 Administración Pública G5** <br/> |**Office 365 administración pública F1** <br/> |
 |Ayuda en línea  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Comunidad  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Otros recursos de autoayuda  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -266,7 +266,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Puntuación segura<sup>14</sup> <br/> |Sí<sup>9, 15</sup> <br/> |Sí<sup>9</sup> <br/> |Sí<sup>9, 15</sup> <br/> |Sí<sup>9, 15</sup> <br/> |
 |Cifrado de mensajes de Office  <br/> |No  <br/> |Sí <br/> |Sí <br/> |No  <br/> |
 |Inteligencia de amenazas  <br/> |No<sup>12</sup> <br/> |No<sup>12</sup> <br/> |Sí <br/> |No<sup>12</sup> <br/> |
-|**[Cumplimiento [ServiceDesc]](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[Cumplimiento](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
 |Evaluaciones SAS 70 / SSAE16  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Certificación ISO 27001  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cláusulas del modelo de UE  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Para cumplir con los requisitos exclusivos y en constante evolución de los gobiernos federales, estatales, locales y Tribals, así como los contratistas que retienen o procesan datos en nombre del gobierno de Estados Unidos, Microsoft ofrece los servicios de Office 365 US Government Community (GCC). Disponible a través de varios canales, incluidas las licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Los ensayos solo están disponibles para entidades gubernamentales de Estados Unidos en este momento.
-ms.openlocfilehash: 74cffc4b50c15b1aa5cfd32f65d70d6ce6f006e0
-ms.sourcegitcommit: 00fdb4a016cfc4422f38a0f415214eaffe04e8b6
+ms.openlocfilehash: 263c73acae70d8fd0a8aeb6ab0de20a36c28b023
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/16/2019
-ms.locfileid: "36998512"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595288"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -37,23 +37,24 @@ Exchange Online, SharePoint Online, archivado de Exchange Online, Skype empresar
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Personal investigado de Office 365 Administración Pública Community
 
-El personal de Office 365 no tiene acceso permanente al contenido de los clientes hospedado en Office 365 US Government Community. Cualquier miembro del personal que solicite que se eleven sus permisos temporalmente para acceder al contenido de los clientes debe superar primero las siguientes comprobaciones de antecedentes. 
+El personal de Office 365 no tiene acceso permanente al contenido de los clientes hospedado en Office 365 US Government Community. Cualquier personal que solicite la elevación de permisos temporales que concedería el acceso al contenido del cliente debe haber aprobado primero las siguientes comprobaciones de antecedentes. 
   
 |||
 |:-----|:-----|
 |**Comprobaciones de antecedentes y examen del personal de Microsoft** <sup>1</sup> <br/> |**Descripción** <br/> |
-|EE.UU. Ciudadanía  <br/> |Comprobación de la ciudadanía estadounidense  <br/> |
+|Ciudadanía estadounidense  <br/> |Comprobación de la ciudadanía estadounidense  <br/> |
 |Comprobación del historial de empleo  <br/> |Comprobación del historial de empleo (7 años)  <br/> |
-|Comprobación de la formación académica  <br/> |Comprobación del grado más alto obtenido  <br/> |
-|Búsqueda del número de la seguridad social (SSN)  <br/> |Comprobación de la validez del SSN proporcionado  <br/> |
+|Verificación de educación  <br/> |Comprobación del grado más alto obtenido  <br/> |
+|Búsqueda en el número de la seguridad social (SSN)  <br/> |Comprobación de la validez del SSN proporcionado  <br/> |
 |Comprobación de los antecedentes penales  <br/> |Una comprobación de los antecedentes penales de los últimos siete años en búsqueda de delitos y delitos menores a nivel local, de condado, estatal y federal.  <br/> |
 |Office of Foreign Assets Control List (OFAC)  <br/> |Una comprobación que valida la información según la lista de grupos con los que los ciudadanos estadounidenses pueden realizar transacciones financieras o comerciales que elabora el Departamento del Tesoro.  <br/> |
 |Bureau of Industry and Security List (BIS)  <br/> |Una comprobación que valida la información según la lista de individuos y entidades que no pueden realizar actividades de exportación que elabora el Departamento de Comercio.  <br/> |
 |Office of Defense Trade Controls Debarred Persons List (DDTC)  <br/> |Una comprobación que valida la información según la lista de individuos y entidades que no pueden realizar actividades de exportación relacionadas con la industria militar que elabora el Departamento de Estado.  <br/> |
 |Comprobación de las huellas digitales  <br/> |Una comprobación de antecedentes mediante las huellas digitales consultando las bases de datos del FBI.  <br/> |
-|Investigación en segundo plano de los CJIS  <br/> |Comprobación de los antecedentes penales a nivel federal y estatal adjudicada por el estado y que realiza la autoridad de CSA designada en cada estado que se haya registrado en el programa Microsoft CJIS IA.  <br/> |
+|Examen de fondo de CJIS  <br/> |Comprobación de los antecedentes penales a nivel federal y estatal adjudicada por el estado y que realiza la autoridad de CSA designada en cada estado que se haya registrado en el programa Microsoft CJIS IA.  <br/> |
 
-<sup>1</sup> solo se aplica al personal con acceso temporal o permanente al contenido de cliente hospedado en Office 365 US Government Community Community Cloud (GCC)  
+<sup>1</sup> solo se aplica al personal con acceso temporal o permanente al contenido de cliente hospedado en Office 365 US Government Community Community Cloud (GCC).
+  
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 Administración Pública Community y Yammer
 
 Yammer Enterprise no es un componente de Office 365 Administración Pública, pero puede adquirirse gratuitamente como oferta independiente para cada usuario con licencia para Office 365 Administración Pública, planes E1 y E3. Esta oferta actualmente está limitada a los clientes que compren Office 365 Administración Pública con contrato Enterprise y contratos de suscripción Enterprise. 

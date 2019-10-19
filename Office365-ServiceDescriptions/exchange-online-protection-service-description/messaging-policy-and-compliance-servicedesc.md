@@ -1,5 +1,5 @@
 ---
-title: Directiva de mensajería y cumplimiento normativo
+title: Directiva de mensajería y conformidad
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y de directivas de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
-ms.openlocfilehash: af611b7124c85866bad5bec74f853d70f721e5ae
-ms.sourcegitcommit: d6f315a056e0e356a9e37275d361e4195b97bff0
+ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/01/2019
-ms.locfileid: "37334130"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581876"
 ---
-# <a name="messaging-policy-and-compliance"></a>Directiva de mensajería y cumplimiento normativo
+# <a name="messaging-policy-and-compliance"></a>Directiva de mensajería y cumplimiento
 
 Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y de directivas de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
 
@@ -35,7 +35,7 @@ El registro de auditoría le permite seguir cambios específicos efectuados por 
 
 ## <a name="data-loss-prevention-dlp"></a>Prevención de pérdida de datos (DLP)
 
-No está disponible para clientes independientes de EOP. La prevención de pérdida de datos (DLP) le ayuda a identificar, supervisar y proteger datos confidenciales de la organización haciendo un análisis de contenidos más pormenorizado. La DLP es cada vez más importante para los sistemas de mensajes de las empresas, ya que en los correos importantes del negocio se manejan datos que hay que proteger. La característica de DLP permite proteger datos confidenciales sin afectar a la productividad de los trabajadores.
+No está disponible para clientes independientes de EOP. La prevención de pérdida de datos (DLP) le ayuda a identificar, supervisar y proteger datos confidenciales de la organización haciendo un análisis de contenidos más pormenorizado. La DLP es cada vez más importante para los sistemas de mensajes de las empresas, ya que en los correos importantes del negocio se manejan datos que hay que proteger. La característica DLP permite proteger datos confidenciales sin que ello afecte a la productividad de los trabajadores.
 
 Puede configurar directivas de DLP en el EAC, lo que le permite:
 
@@ -51,7 +51,7 @@ Puede configurar directivas de DLP en el EAC, lo que le permite:
 
 - Detectar datos confidenciales mediante las huellas digitales de documentos. La creación de huellas digitales de documentos le ayuda a crear fácilmente tipos personalizados de información confidencial basados en formularios de texto que puede usar para definir reglas de flujo de correo y directivas de DLP.
 
-- Agregar Sugerencias de directivas, que pueden ayudar a reducir la pérdida de datos al mostrar un aviso a los usuarios de Outlook 2013, Outlook Web App y OWA para dispositivos, y también pueden mejorar la eficacia de las directivas al permitir la creación de informes falsos positivos.
+- Agregar sugerencias de directivas, que pueden ayudar a reducir la pérdida de datos al mostrar un aviso a los usuarios de Outlook 2013, Outlook en la web y OWA para dispositivos, y también pueden mejorar la eficacia de las directivas al permitir la creación de informes falsos positivos.
 
 - Revisar los datos de incidentes en informes de DLP o agregar sus propios informes específicos mediante una acción de generación de informes de incidentes.
 

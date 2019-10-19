@@ -1,5 +1,5 @@
 ---
-title: Alta disponibilidad y continuidad comercial
+title: Alta disponibilidad y continuidad empresarial
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online ofrece un amplio soporte de retención y recuperación para la infraestructura de correo electrónico de una organización. Este servicio incluye replicación de buzón en centros de datos y la capacidad de recuperar buzones y elementos eliminados.
-ms.openlocfilehash: 17c53172e9b49661118c6e33754246c627e08540
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 08b4e7e6fc0adcb278a2ed4d74564455250a8855
+ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776831"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37581976"
 ---
-# <a name="high-availability-and-business-continuity"></a>Alta disponibilidad y continuidad comercial
+# <a name="high-availability-and-business-continuity"></a>Alta disponibilidad y continuidad empresarial
 
 Microsoft Exchange Online ofrece un amplio soporte de retención y recuperación para la infraestructura de correo electrónico de una organización. Este servicio incluye replicación de buzón en centros de datos y la capacidad de recuperar buzones y elementos eliminados.
   
@@ -35,9 +35,9 @@ Los administradores pueden eliminar buzones de Exchange online mediante el centr
   
 ## <a name="deleted-item-recovery"></a>Recuperación de elementos eliminados
 
-Exchange Online permite a los usuarios recuperar elementos que han eliminado de cualquier carpeta de correo, incluida la carpeta Elementos eliminados. Los elementos que se eliminan se conservan en la carpeta Elementos eliminados del usuario. Aquí permanecen hasta que el usuario los elimina manualmente o hasta que las directivas de retención los eliminan automáticamente. Los administradores pueden personalizar las directivas de retención en EAC o usando el Windows PowerShell remoto.
+Exchange Online permite a los usuarios restaurar elementos que han eliminado de cualquier carpeta de correo electrónico, incluida la carpeta elementos eliminados. Los elementos que se eliminan se conservan en la carpeta Elementos eliminados del usuario. Aquí permanecen hasta que el usuario los elimina manualmente o hasta que las directivas de retención los eliminan automáticamente. Los administradores pueden personalizar las directivas de retención en EAC o usando el Windows PowerShell remoto.
   
-Después de eliminar un elemento de la carpeta Elementos eliminados, este permanecerá en la carpeta Elementos recuperables durante 14 días antes de ser eliminado de forma permanente, pero los administradores pueden aumentar este límite hasta un máximo de 30 días con el Windows PowerShell remoto. Los usuarios pueden recuperar el elemento durante este período de tiempo con la característica Recuperar elementos eliminados en Outlook Web App o Outlook. Obtenga información sobre cómo [cambiar el período de retención de elementos eliminados](https://go.microsoft.com/fwlink/p/?LinkId=286940).
+Después de eliminar un elemento de la carpeta Elementos eliminados, este permanecerá en la carpeta Elementos recuperables durante 14 días antes de ser eliminado de forma permanente, pero los administradores pueden aumentar este límite hasta un máximo de 30 días con el Windows PowerShell remoto. Los usuarios pueden recuperar el elemento durante este período de tiempo mediante la característica recuperar elementos eliminados en Outlook en la web o en Outlook. Obtenga información sobre cómo [cambiar el período de retención de elementos eliminados](https://go.microsoft.com/fwlink/p/?LinkId=286940).
   
 Si un usuario eliminó de forma manual un elemento de la carpeta Elementos recuperables, un administrador puede recuperarlo en este período de tiempo con la característica de recuperación de elementos individuales con el Windows PowerShell remoto. De forma predeterminada, la recuperación de elementos individuales se habilita cuando se crea un buzón. Para obtener más información, vea [Habilitar o deshabilitar la recuperación de elementos individuales de un buzón de correo](https://go.microsoft.com/fwlink/p/?LinkID=286941).
   
@@ -45,6 +45,5 @@ Para conservar los mensajes más de 30 días en la carpeta Elementos recuperable
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
   
-

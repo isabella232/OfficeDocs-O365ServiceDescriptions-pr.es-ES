@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ms.openlocfilehash: cf5a7fb51c8716aa7e797d471a5fbc4a93750336
-ms.sourcegitcommit: 59ee39da4bf37e59924b8ae6c5c232f070cf5ee8
+ms.openlocfilehash: da052db62c562ba4e56eca5ab312363cc4383dcf
+ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/11/2019
-ms.locfileid: "36839871"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "37595273"
 ---
 ---
 
@@ -117,10 +117,12 @@ En la tabla siguiente se muestran las opciones que pueden acomodarse a las neces
 ## <a name="how-do-i-buy-microsoft-365-government"></a>¿Cómo compro Microsoft 365 Government?
 
 Siga estos pasos para comprar licencias públicas de Microsoft 365:
+
 1. [Complete y envíe el formulario](https://products.office.com/government/eligibility-validation) para validar la elegibilidad de su organización.
 2. Trabaje con el equipo de la cuenta de Microsoft o con un socio cualificado para realizar un pedido. Los clientes pueden comprar licencias de Microsoft 365 para el gobierno de Estados Unidos solo a través de asociados seleccionados.
 
 **LSP GCC y GCC High (+ 500 plazas)**
+
 - CDW
 - Connection (anteriormente conexión con PC)
 - Dell
@@ -145,7 +147,7 @@ Siga estos pasos para comprar licencias públicas de Microsoft 365:
 
 **Nota:** Todos los proveedores de soluciones de licencias de Microsoft (LSPs) que se muestran en la lista anterior pueden realizar la instrucción Transact and GCC High through Enterprise Agreement (EA) para crear la hoja de precios del cliente (CPS). Las organizaciones que no reúnan los requisitos de EA pueden comprar licencias de GCC a través de los socios AOS-G o del programa de asociados de CSP enumerados.
 
-**Si trabaja con un partner de CSP, póngase en contacto con ellos o [Busque un CSP.](https://www.microsoft.com/solution-providers/home)**
+**Si trabaja con un partner de CSP, póngase en contacto con ellos o [Busque un CSP](https://www.microsoft.com/solution-providers/home).**
 
 ## <a name="what-trials-are-available"></a>¿Qué versiones de prueba están disponibles?
 
