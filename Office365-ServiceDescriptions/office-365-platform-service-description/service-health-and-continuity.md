@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Los administradores de Microsoft Office 365 pueden ver el estado de los servicios y saber cuándo está programado el mantenimiento. La información de estado del servicio está disponible en cualquier momento iniciando sesión en Office 365.
-ms.openlocfilehash: 9cb4438eb0879c0e873aebc16c625c991c20c196
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: 8dc657dfb9101d6d193b3ea20ebef7b8ef47600f
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450284"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633441"
 ---
 # <a name="service-health-and-continuity"></a>Continuidad y estado del servicio
 
@@ -83,7 +83,7 @@ Microsoft System Center es una plataforma de administración integrada que le ay
   
 ### <a name="office-365-service-communications-api"></a>API de comunicaciones de servicio de Office 365
 
-La API de comunicaciones de servicio de Office 365 le permite tener acceso a las comunicaciones de servicio de Office 365 como desee. Con esta nueva herramienta de administración, ahora tiene la capacidad de crear o conectar las herramientas con las comunicaciones de servicio de Office 365, lo que potencialmente simplifica la forma de supervisar el entorno. La API de comunicaciones de servicio permite supervisar lo siguiente en su entorno:
+La API de comunicaciones de servicio de Office 365 le permite tener acceso a las comunicaciones de servicio de Office 365 de la forma que desee. Con esta nueva herramienta de administración, ahora tiene la capacidad de crear o conectar las herramientas con las comunicaciones de servicio de Office 365, lo que potencialmente simplifica la forma de supervisar el entorno. La API de comunicaciones de servicio le permite supervisar lo siguiente en su entorno:
   
 - Estado del servicio en tiempo real
     

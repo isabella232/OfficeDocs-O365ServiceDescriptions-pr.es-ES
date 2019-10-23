@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office para la web (anteriormente, Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office para la web hace que sea más fácil trabajar y compartir archivos de Office desde cualquier lugar con una conexión a Internet desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina.
-ms.openlocfilehash: ad834dfd756f76c9ccd2444690f7a762735a55dc
-ms.sourcegitcommit: 5bb407efe4eb95b8119f59c52827377a7c5a609b
+ms.openlocfilehash: df6a4d09a970968a8c83cb5864b96af0f3e6f5db
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36051621"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37633886"
 ---
 # <a name="office-for-the-web-service-description"></a>Descripción de Office para el servicio Web
 
@@ -26,9 +26,8 @@ Office para la web (anteriormente, Office Web Apps) abre documentos de Word, Exc
 Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilidad de características en Office para los planes Web
-<a name="bkmk_FeatureavailabilityO365"> </a>
 
-¿Necesita ayuda para saber qué solución de Office se adapta mejor a su organización? En las tablas siguientes se comparan Office para las características de la característica Web de las aplicaciones de escritorio de Microsoft Office con características enriquecidas. Use las tablas para descubrir qué características están disponibles en Office para la web y, a continuación, haga clic en el nombre de la característica para leer una breve descripción de cómo funciona la característica. Es posible que algunas personas de la organización necesiten la funcionalidad de gráficos avanzada de la aplicación de escritorio de Excel mientras que otras solo necesitan ver y editar documentos de Word y presentaciones de PowerPoint con Office para la Web. 
+¿Necesita ayuda para saber qué solución de Office se adapta mejor a su organización? En las tablas siguientes se comparan Office para las características de la característica Web de las aplicaciones de escritorio de Microsoft Office con características enriquecidas. Use las tablas para descubrir qué características están disponibles en Office para la web y, a continuación, seleccione el nombre de la característica para leer una breve descripción de cómo funciona la característica. Es posible que algunas personas de la organización necesiten la funcionalidad de gráficos avanzada de la aplicación de escritorio de Excel mientras que otras solo necesitan ver y editar documentos de Word y presentaciones de PowerPoint con Office para la Web. 
   
 > [!NOTE]
 >  Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de las características de Microsoft Office. <br/>  Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. <br/>  Los clientes locales de Microsoft Office Online Server obtienen una licencia de edición web de Office si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Office 365 ProPlus). 
@@ -37,7 +36,6 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 > Al abrir un documento de Office, ya sea como datos adjuntos de correo electrónico de Outlook o desde una biblioteca de documentos de SharePoint, el documento se iniciará en Office para la web y será de solo lectura. Para editar un documento en Office para la web (modo de edición), necesita una licencia de Office 365 Suite, como Office 365 Enterprise E1. Para editar un documento en la aplicación de escritorio, deberá contar con una licencia del conjunto de escritorio de Office, como una suscripción de Office 365 ProPlus o una versión instalada de Office Professional Plus 2010. 
   
 ### <a name="word"></a>Word
-<a name="BKMK_WordFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -51,7 +49,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Títulos](word-online.md#captions) <br/> |No  <br/> |Sí  <br/> |
 |[Citas y bibliografía](word-online.md#citations-and-bibliography) <br/> |No  <br/> |Sí  <br/> |
 |[Portapapeles](word-online.md#clipboard) <br/> |Sí  <br/> |Sí  <br/> |
-|[Colaboración: características avanzadas](word-online.md#collaboration--advanced) <br/> |No  <br/> |Sí  <br/> |
+|[Colaboración, avanzado](word-online.md#collaboration-advanced) <br/> |No  <br/> |Sí  <br/> |
 |[Controles de contenido](word-online.md#content-controls) <br/> |Sí  <br/> |Sí  <br/> |
 |[Portadas](word-online.md#cover-pages) <br/> |No<sup>1</sup> <br/> |Sí  <br/> |
 |[Creación de elementos de documentos avanzados](word-online.md#creation-of-advanced-document-elements) <br/> |No  <br/> |Sí  <br/> |
@@ -76,16 +74,16 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Visualización y creación sin conexión](word-online.md#offline-viewing-and-authoring) <br/> |No  <br/> |Sí  <br/> |
 |[Saltos de página](word-online.md#page-breaks) <br/> |Sí  <br/> |Sí  <br/> |
 |[Herramientas de diseño de página](word-online.md#page-layout-tools) <br/> |Sí  <br/> |Sí  <br/> |
-|[Herramientas de diseño de página: características avanzadas](word-online.md#page-layout-tools--advanced) <br/> |No  <br/> |Sí  <br/> |
+|[Herramientas de diseño de página, avanzadas](word-online.md#page-layout-tools-advanced) <br/> |No  <br/> |Sí  <br/> |
 |[Números de página](word-online.md#page-numbers) <br/> |Sí  <br/> |Sí  <br/> |
 |[Formato de párrafo](word-online.md#paragraph-formatting) <br/> |Sí  <br/> |Sí  <br/> |
 |[Herramientas de imagen](word-online.md#picture-tools) <br/> |Sí  <br/> |Sí  <br/> |
 |[Combinaciones de fuentes y colores con formato previo](word-online.md#preformatted-font-and-color-schemes) <br/> |Sí  <br/> |Sí  <br/> |
 |[Presentar en línea](word-online.md#preformatted-font-and-color-schemes) <br/> |No  <br/> |Sí  <br/> |
 |[Impresión en PDF](word-online.md#print-to-pdf) <br/> |Sí  <br/> |Sí  <br/> |
-|[Impresión: características avanzadas](word-online.md#printing--advanced) <br/> |No  <br/> |Sí  <br/> |
+|[Imprimir, avanzado](word-online.md#printing-advanced) <br/> |No  <br/> |Sí  <br/> |
 |[Herramientas de corrección](word-online.md#proofing-tools) <br/> |Sí  <br/> |Sí  <br/> |
-|[Herramientas de corrección: características avanzadas](word-online.md#proofing-tools--advanced) <br/> |No  <br/> |Sí  <br/> |
+|[Herramientas de corrección avanzadas](word-online.md#proofing-tools-advanced) <br/> |No  <br/> |Sí  <br/> |
 |[Coautoría en tiempo real](word-online.md#real-time-co-authoring) <br/> |Sí  <br/> |Sí  <br/> |
 |[Herramientas de referencia](word-online.md#reference-tools) <br/> |No  <br/> |Sí  <br/> |
 |[Representación de formas o cuadros de texto](word-online.md#rendering-of-text-boxesshapes) <br/> |Sí  <br/> |Sí  <br/> |
@@ -102,7 +100,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Toque](word-online.md#tap) <br/> |No  <br/> |Sí  <br/> |
 |[Información](word-online.md#tell-me) <br/> |Sí  <br/> |Sí  <br/> |
 |[Servicio de traducción](word-online.md#translation-service) <br/> |Sí  <br/> |Sí  <br/> |
-|[Deshacer y Rehacer](word-online.md#undo-and-redo) <br/> |Sí  <br/> |Sí  <br/> |
+|[Deshacer y rehacer](word-online.md#undo-and-redo) <br/> |Sí  <br/> |Sí  <br/> |
 |[Scripts de formas y VBA](word-online.md#vba-and-forms-scripts) <br/> |No  <br/> |Sí  <br/> |
 |[Ver y agregar comentarios](word-online.md#view-and-add-comments) <br/> |Sí  <br/> |Sí  <br/> |
 |[Marcas de agua](word-online.md#watermarks) <br/> |No<sup>1</sup> <br/> |Sí  <br/> |
@@ -114,7 +112,6 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 > <sup>2</sup> algunos complementos de Office están disponibles, pero no todos. <br/>
   
 ### <a name="excel"></a>Excel
-<a name="BKMK_ExcelFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -139,14 +136,14 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Validación de datos](excel-online.md#data-validation) <br/> |Sí <br/> |Sí  <br/> |
 |[Arrastrar y colocar celdas](excel-online.md#drag-and-drop-cells) <br/> |Sí  <br/> |Sí  <br/> |
 |[Dropbox](excel-online.md#dropbox) <br/> |Sí  <br/> |Sí  <br/>|
-|[Duplicar (copiar) workseets](excel-online.md#duplicate-copy-worksheets) <br/> |Sí  <br/> |Sí  <br/>|
-|[Insertar libros en páginas web o de blog (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Sí  <br/> |No  <br/> |
+|[Duplicar (copiar) hojas de cálculo](excel-online.md#duplicate-copy-worksheets) <br/> |Sí  <br/> |Sí  <br/>|
+|[Insertar libro en la página web o blog (OneDrive)](excel-online.md#embed-workbook-on-web-or-blog-page-onedrive) <br/> |Sí  <br/> |No  <br/> |
 |[Referencias externas](excel-online.md#external-references-links) <br/> |No<sup>4</sup> <br/> |Sí  <br/> |
 |[Controlador de relleno](excel-online.md#fill-handle) <br/> |Sí  <br/> |Sí  <br/> |
 |[Buscar](excel-online.md#find) <br/> |Sí  <br/> |Sí  <br/> |
 |[Fuente y formato de celda](excel-online.md#font-and-cell-formatting) <br/> |Sí  <br/> |Sí  <br/> |
 |[Barra de fórmulas](excel-online.md#formula-bar) <br/> |Sí  <br/> |Sí  <br/> |
-|[Herramientas de fórmula avanzadas](excel-online.md#formula-tools--advanced) <br/> |No  <br/> |Sí  <br/> |
+|[Herramientas de fórmulas, avanzadas](excel-online.md#formula-tools-advanced) <br/> |No  <br/> |Sí  <br/> |
 |[Inmovilizar paneles](excel-online.md#freeze-panes) <br/> |Sí <br/> |Sí  <br/> |
 |[Vista de lectura de total fidelidad](excel-online.md#full-fidelity-reading-view) <br/> |Sí  <br/> |Sí  <br/> |
 |[Funciones](excel-online.md#functions) <br/> |Sí  <br/> |Sí  <br/> |
@@ -164,7 +161,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Visualización y creación sin conexión](excel-online.md#offline-viewing-and-authoring) <br/> |No  <br/> |Sí  <br/> |
 |[Gráficos dinámicos](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Sí<sup>1</sup>  <br/> |Sí  <br/> |
 |[PivotTables](excel-online.md#pivottables) <br/> |Sí  <br/> |Sí  <br/> |
-|[Publicación en red social y presentación en línea](excel-online.md#post-to-social-network-and-present-online) <br/> |No  <br/> |Sí  <br/> |
+|[Publicar en la red social y presentar en línea](excel-online.md#post-to-social-network-and-present-online) <br/> |No  <br/> |Sí  <br/> |
 |[Visualización de Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Sí  <br/> |Sí  <br/> |
 |[Visualización de Power View](excel-online.md#power-view-viewing) <br/> |Sí  <br/> |Sí  <br/> |
 |[Impresión](excel-online.md#print) <br/> |Sí  <br/> |Sí  <br/> |
@@ -175,8 +172,8 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Cambiar de nombre y agregar hojas](excel-online.md#rename-and-add-sheets) <br/> |Sí  <br/> |Sí  <br/> |
 |[Cambiar el nombre de archivo con el libro abierto](excel-online.md#rename-file-while-workbook-is-open) <br/> |Sí  <br/> |No  <br/> |
 |[Reemplazar](excel-online.md#replace) <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración de derechos: Seguridad de contraseñas e IRM](excel-online.md#rights-management-irm-and-password-security) <br/> |No  <br/> |Sí  <br/> |
-|[Guardar o descargar copias](excel-online.md#save-or-download-a-copy) <br/> |Sí  <br/> |Sí  <br/> |
+|[Administración de derechos: seguridad de contraseñas y IRM](excel-online.md#rights-management-irm-and-password-security) <br/> |No  <br/> |Sí  <br/> |
+|[Guardar o descargar una copia](excel-online.md#save-or-download-a-copy) <br/> |Sí  <br/> |Sí  <br/> |
 |[Compartir](excel-online.md#share) <br/> |Sí  <br/> |Sí  <br/> |
 |[Protección de hoja](excel-online.md#sheet-protection) <br/> |Sí  <br/> |Sí  <br/> |
 |[Visualización de segmentación](excel-online.md#slicer-viewing) <br/> |Sí  <br/> |Sí  <br/> |
@@ -200,7 +197,6 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
  <br/><sup>5</sup> Algunos complementos de Office están disponibles, pero no todos. 
   
 ### <a name="onenote"></a>OneNote
-<a name="BKMK_OneNoteFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -217,7 +213,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |Arrastrar y colocar secciones <br/> |Sí  <br/> |Sí <br/> |
 |Arrastrar y colocar grupos de secciones <br/> |No  <br/> |Sí <br/> |
 |[Dropbox](onenote-online.md#dropbox) <br/> |Sí  <br/> |Sí  <br/> |
-|[Edición de archivos incrustados](onenote-online.md#EmbeddedFileEdit) <br/> |No  <br/> |Sí  <br/> |
+|[Edición de archivos incrustados](onenote-online.md#edit-embedded-files) <br/> |No  <br/> |Sí  <br/> |
 |[Ecuaciones](onenote-online.md#equations) <br/> |Sí  <br/> |Sí  <br/> |
 |[Hipervínculos](onenote-online.md#hyperlinks) <br/> |Sí  <br/> |Sí  <br/> |
 |[Reconocimiento óptico de caracteres (OCR) de imágenes](onenote-online.md#image-optical-character-recognition-ocr) <br/> |No  <br/> |Sí  <br/> |
@@ -239,18 +235,17 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Estilos](onenote-online.md#styles) <br/> |Sí  <br/> |Sí  <br/> |
 |[Tablas](onenote-online.md#tables) <br/> |Sí  <br/> |Sí  <br/> |
 |[Compatibilidad con plantillas](onenote-online.md#template-support) <br/> |No  <br/> |Sí  <br/> |
-|[Deshacer y Rehacer](onenote-online.md#undo-and-redo) <br/> |Sí  <br/> |Sí  <br/> |
+|[Deshacer y rehacer](onenote-online.md#undo-and-redo) <br/> |Sí  <br/> |Sí  <br/> |
 |[Reproducción de vídeo](onenote-online.md#video-playback) <br/> |No  <br/> |Sí  <br/> |
 |[Ver versiones de página anteriores](onenote-online.md#view-previous-page-versions) <br/> |Sí  <br/> |Sí  <br/> |
-   
+
 > [!NOTE]
 > <sup>1</sup> en OneNote para la web, puede mover secciones dentro de un bloc de notas y copiar y pegar páginas de una sección a otra. 
  <br/> <sup>2</sup> algunos complementos de Office están disponibles, pero no todos. 
- <br/><sup>3</sup> puede buscar en una página o sección, pero no en todo el Bloc de notas o en varios blocs de notas (como puede hacerlo en la versión de escritorio). 
+ <br/><sup>3</sup> puede buscar en una página o sección, pero no en todo el Bloc de notas o en varios blocs de notas (como puede hacerlo en la versión de escritorio).
  <br/><sup>4</sup> en la versión de escritorio no hay una opción de "descarga", pero puede "guardar como" en otra ubicación. 
   
 ### <a name="powerpoint"></a>PowerPoint
-<a name="BKMK_PowerPointFeatures"> </a>
 
 ||||
 |:-----|:-----|:-----|
@@ -264,7 +259,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Portapapeles](powerpoint-online.md#clipboard) <br/> |Sí  <br/> |Sí  <br/> |
 |[Crear y administrar diapositivas](powerpoint-online.md#create-and-manage-slides) <br/> |Sí  <br/> |Sí  <br/> |
 |[Crear animación personalizada](powerpoint-online.md#create-custom-animation) <br/> |No<sup>1</sup> <br/> |Sí  <br/> |
-|[Herramientas de diseño avanzadas](powerpoint-online.md#design-tools--advanced) <br/> |No  <br/> |Sí  <br/> |
+|[Herramientas de diseño, avanzadas](powerpoint-online.md#design-tools-advanced) <br/> |No  <br/> |Sí  <br/> |
 |[Insertar una presentación en la página web o blog](powerpoint-online.md#embed-presentation-on-web-or-blog-page) <br/> |Sí  <br/> |No  <br/> |
 |[Formato de fuente](powerpoint-online.md#font-formatting) <br/> |Sí  <br/> |Sí  <br/> |
 |[Vista de lectura de total fidelidad](powerpoint-online.md#full-fidelity-reading-view) <br/> |Sí  <br/> |Sí  <br/> |
@@ -274,7 +269,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Hipervínculos](powerpoint-online.md#hyperlinks) <br/> |Sí  <br/> |Sí  <br/> |
 |[Insertar vídeos en línea](powerpoint-online.md#insert-online-video) <br/> |Sí  <br/> |Sí  <br/> |
 |[Integración con Excel para gráficos](powerpoint-online.md#integration-with-excel-for-charts) <br/> |No  <br/> |Sí  <br/> |
-|[Navegación: clasificador de diapositivas](powerpoint-online.md#navigation-slide-sorter) <br/> |Sí  <br/> |Sí  <br/> |
+|[Navegación: clasificador de diapositivas](powerpoint-online.md#navigation---slide-sorter) <br/> |Sí  <br/> |Sí  <br/> |
 |[Complementos de Office](powerpoint-online.md#office-add-ins) <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |
 |[Visualización y creación sin conexión](powerpoint-online.md#offline-viewing-and-authoring) <br/> |No  <br/> |Sí  <br/> |
 |[Recortar imagen](powerpoint-online.md#picture-cropping) <br/> |Sí  <br/> |Sí  <br/> |
@@ -284,22 +279,22 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Impresión en PDF](powerpoint-online.md#print-to-pdf) <br/> |Sí  <br/> |Sí  <br/> |
 |[Herramientas de corrección](powerpoint-online.md#proofing-tools) <br/> |Sí  <br/> |Sí  <br/> |
 |[Coautoría en tiempo real](powerpoint-online.md#real-time-co-authoring) <br/> |Sí  <br/> |Sí<sup>4</sup> <br/> |
-|[Herramientas de revisor: avanzado](powerpoint-online.md#reviewer-tools---advanced) <br/> |No  <br/> |Sí  <br/> |
-|Rights Management: IRM and password security <br/> |No  <br/> |Sí  <br/> |
+|[Herramientas de revisor, avanzadas](powerpoint-online.md#reviewer-tools-advanced) <br/> |No  <br/> |Sí  <br/> |
+|Administración de derechos: seguridad de contraseñas y IRM <br/> |No  <br/> |Sí  <br/> |
 |[Ejecutar presentaciones de diapositivas](powerpoint-online.md#run-slide-show) <br/> |Sí  <br/> |Sí  <br/> |
 |[Guardar como o descargar una copia](powerpoint-online.md#save-as-or-download-a-copy) <br/> |Sí  <br/> |Sí  <br/> |
 |[Formas](powerpoint-online.md#shapes) <br/> |Sí  <br/> |Sí  <br/> |
 |[Compartir](powerpoint-online.md#share) <br/> |Sí  <br/> |Sí  <br/> |
 |[Presentación de diapositivas](powerpoint-online.md#slide-show) <br/> |Sí  <br/> |Sí  <br/> |
 |[SmartArt](powerpoint-online.md#smartart) <br/> |Sí  <br/> |Sí  <br/> |
-|[Creación/edición y formato de tablas](powerpoint-online.md#table-creationediting-and-formatting) <br/> |Sí  <br/> |Sí  <br/> |
+|[Creación, edición y formato de tablas](powerpoint-online.md#table-creation-editing-and-formatting) <br/> |Sí  <br/> |Sí  <br/> |
 |[Información](powerpoint-online.md#tell-me) <br/> |Sí  <br/> |Sí  <br/> |
 |[Deshacer y rehacer](powerpoint-online.md#undo-and-redo) <br/> |Sí  <br/> |Sí  <br/> |
 |[Ver y agregar comentarios](powerpoint-online.md#view-and-add-comments) <br/> |Sí  <br/> |Sí  <br/> |
 |[Ver y editar notas de diapositiva](powerpoint-online.md#view-and-edit-slide-notes) <br/> |Sí  <br/> |Sí  <br/> |
 |[Visualización WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Sí  <br/> |Sí  <br/> |
 
-> [!NOTE]   
+> [!NOTE]
 ><sup>1</sup> PowerPoint para la Web admite una galería de ocho transiciones y 37 animaciones. Para obtener una selección más grande o para crear animaciones personalizadas, use la aplicación de escritorio de PowerPoint. 
  <br/>
 <sup>2</sup> el dispositivo con el que trabaja debe admitir la entrada de lápiz. <br/> 
@@ -307,7 +302,6 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 <sup>4</sup> no puede crear gráficos dinámicos ni tablas dinámicas, pero puede verlos en el visor. 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Tipos de archivo admitidos para Office para la web
-<a name="bkmk_SupportedFileTypes"> </a>
 
 ||||
 |:-----|:-----|:-----|

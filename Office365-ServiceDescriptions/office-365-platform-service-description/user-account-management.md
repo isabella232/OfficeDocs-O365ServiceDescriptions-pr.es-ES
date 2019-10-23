@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 admite los siguientes métodos para crear, administrar y autenticar usuarios.
-ms.openlocfilehash: f51e06e64722b5db8820a4f164beca0997796a4b
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582176"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631659"
 ---
 # <a name="user-account-management"></a>Administración de cuentas de usuario
 
@@ -104,7 +104,7 @@ La experiencia de inicio de sesión cambia en función del tipo de identidad de 
 |Outlook 2010 o Office Outlook 2007 en Windows Vista  <br/> |Iniciar sesión en cada sesión <sup>1</sup> <br/> |Iniciar sesión en cada sesión <sup>2</sup> <br/> |
 |Microsoft Exchange ActiveSync  <br/> |Iniciar sesión en cada sesión <sup>1</sup> <br/> |Iniciar sesión en cada sesión <sup>2</sup> <br/> |
 |POP, IMAP, Outlook para Mac  <br/> |Iniciar sesión en cada sesión <sup>1</sup> <br/> |Iniciar sesión en cada sesión <sup>2</sup> <br/> |
-|Experiencias Web: Office 365 portal/Outlook Web App/SharePoint Online/Office para la web  <br/> |Iniciar sesión en cada sesión de explorador <sup>4</sup> <br/> |Iniciar sesión en cada sesión <sup>3</sup> <br/> |
+|Experiencias Web: Office 365 portal/Outlook en la web/SharePoint Online/Office para la web  <br/> |Iniciar sesión en cada sesión de explorador <sup>4</sup> <br/> |Iniciar sesión en cada sesión <sup>3</sup> <br/> |
 |Office 2010 o Office 2007 mediante SharePoint Online  <br/> |Iniciar sesión en cada sesión de SharePoint Online<sup>4</sup> <br/> |Iniciar sesión en cada sesión de SharePoint Online<sup>3</sup> <br/> |
 |Skype Empresarial Online  <br/> |Iniciar sesión en cada sesión <sup>1</sup> <br/> |Ningún aviso  <br/> |
 |Outlook para Mac  <br/> |Iniciar sesión en cada sesión <sup>1</sup> <br/> |Iniciar sesión en cada sesión <sup>2</sup> <br/> |
@@ -149,7 +149,7 @@ Existen varias herramientas para restablecer las contraseñas de los usuarios co
     
     Para los planes empresariales, si los administradores pierden u olvidan sus contraseñas, un administrador diferente con la función de administrador global puede restablecer las contraseñas de los administradores en el centro de administración de Microsoft 365 o mediante Windows PowerShell. Para obtener más información, vea [Restablecer las contraseñas de los administradores](https://docs.microsoft.com/office365/admin/add-users/reset-passwords). Si trabaja con Office 365 ofrecido por 21Vianet en China, vea [Cambiar o restablecer contraseñas en Office 365 ofrecido por 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
-- **El usuario cambia la contraseña con Outlook Web App** En la página de opciones de Outlook Web App se incluye un hipervínculo de cambio de contraseña que redirige a los usuarios a la página **Cambiar contraseña**. El usuario necesita conocer la contraseña anterior. Para obtener más información, vea [Cambiar contraseña](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Si usa Office 365 ofrecido por 21Vianet en China, vea [Cambiar o restablecer contraseñas en Office 365 ofrecido por 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
+- El **usuario cambia las contraseñas con Outlook en la web** La página Opciones de Outlook en la web incluye un hipervínculo cambiar contraseña, que redirige a los usuarios a la página **Cambiar contraseña** . El usuario necesita conocer la contraseña anterior. Para obtener más información, vea [Cambiar contraseña](https://support.office.com/article/change-password-in-outlook-web-app-50bb1309-6f53-4c24-8bfd-ed24ca9e872c). Si usa Office 365 ofrecido por 21Vianet en China, vea [Cambiar o restablecer contraseñas en Office 365 ofrecido por 21Vianet](https://support.office.com/article/change-or-reset-your-password-in-office-365-operated-by-21vianet-d8eb5b62-9d0e-4267-a9bf-2aa491ee6d0b).
     
 - **Derechos de restablecimiento de contraseñas basados en roles** Para los planes Enterprise, a los usuarios autorizados, como el personal del departamento de soporte técnico, se les puede asignar el derecho de usuario **Restablecer contraseña** y el derecho para cambiar contraseñas mediante los roles personalizados o predefinidos de Office 365 sin convertirse en administradores totales de los servicios. De forma predeterminada en los planes Enterprise, los administradores con el rol Administrador global, Administrador de contraseñas o Administrador de control de usuarios pueden cambiar las contraseñas. Para más información, vea [Asignar roles de administrador](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
     
@@ -157,7 +157,7 @@ Existen varias herramientas para restablecer las contraseñas de los usuarios co
     
  **Administración de contraseñas de identidades federadas:**
   
-Al utilizar identidades federadas, las contraseñas se administran en Active Directory. El servicio de token de seguridad local negocia la autenticación con la puerta de enlace de Federación de Office 365 sin pasar las contraseñas locales de Active Directory de los usuarios a Office 365 en Internet. Se utilizan directivas de contraseñas locales o, para los clientes web, la identificación de dos factores. Outlook Web App no incluye un hipervínculo Cambiar contraseña. Los usuarios cambian la contraseña mediante las herramientas locales estándar o a través de las opciones de inicio de sesión de su equipo de escritorio.
+Al utilizar identidades federadas, las contraseñas se administran en Active Directory. El servicio de token de seguridad local negocia la autenticación con la puerta de enlace de Federación de Office 365 sin pasar las contraseñas locales de Active Directory de los usuarios a Office 365 en Internet. Se utilizan directivas de contraseñas locales o, para los clientes web, la identificación de dos factores. Outlook en la web no incluye un hipervínculo cambiar contraseña. Los usuarios cambian la contraseña mediante las herramientas locales estándar o a través de las opciones de inicio de sesión de su equipo de escritorio.
   
 Si tiene habilitada la [sincronización de directorios con inicio de sesión único (SSO)](https://docs.microsoft.com/previous-versions/azure/azure-services/dn441213(v=azure.100)) en su entorno de Office 365 y hay alguna interrupción que afecte a su proveedor de identidades federadas, la copia de seguridad de sincronización de contraseña para el inicio de sesión federado permite cambiar de forma manual el dominio a la sincronización de contraseña. Si usa la sincronización de contraseña, los usuarios podrán obtener acceso a Office 365 mientras se corrige la interrupción. Obtenga información sobre [cómo cambiar del inicio de sesión único a la sincronización de contraseña](https://go.microsoft.com/fwlink/p/?LinkId=509832).
   

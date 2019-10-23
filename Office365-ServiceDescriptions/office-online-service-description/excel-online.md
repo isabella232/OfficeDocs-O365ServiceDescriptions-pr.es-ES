@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: 32d7d5318bbb65b54ac26dc72439a51b7bb9e27c
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
+ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595308"
+ms.lasthandoff: 10/22/2019
+ms.locfileid: "37631639"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
@@ -79,10 +79,9 @@ Puede usar Excel para realizar una serie de cálculos iterativos, manuales y aut
 
 ## <a name="cell-references-in-formulas"></a>Referencias de celda en fórmulas
 
-Puede usar referencias de celda en fórmulas. Cuando se hace referencia a una celda o un rango en una fórmula, la celda o el rango al que se hace referencia se resalta con un color. Para obtener más información, vea [usar referencias de celda en una fórmula](https://support.office.com/article/FE137A0D-1C39-4D6E-A9E0-E5CA61FCBA03).
+Puede usar referencias de celda en fórmulas. Cuando se [hace referencia a una celda o un rango en una fórmula](https://support.office.com/article/c7b8b95d-c594-4488-947e-c835903cebaa), la celda o el rango al que se hace referencia se resalta con un color. Para obtener más información, vea [usar referencias de celda en una fórmula](https://support.office.com/article/fe137a0d-1c39-4d6e-a9e0-e5ca61fcba03).
   
 ## <a name="chart-animations-adapt-to-new-data"></a>Las animaciones de gráficos se adaptan a los datos nuevos
-
 Solo la aplicación de escritorio de Microsoft Excel admite las características avanzadas de gráficos. Obtenga más información sobre cómo [Animar un elemento gráfico SmartArt](https://go.microsoft.com/fwlink/p/?LinkId=271668).
   
 ## <a name="charts-and-tables-including-pivotchart-reports-and-pivottable-reports"></a>Gráficos y tablas, incluidos los informes de gráfico dinámico y de tabla dinámica
@@ -95,7 +94,7 @@ Para comprobar la ortografía de cualquier texto de la hoja de cálculo, selecci
 
 ## <a name="comment-creation"></a>Comment creation
 
-Puede insertar, editar y eliminar comentarios en Excel para Web. También puede resolver un hilo de comentarios, que lo cierra a los cambios y a los nuevos comentarios, pero lo deja en su ubicación. Esto le permite volver a abrir el subproceso para comentarios si es necesario. Obtenga más información sobre cómo [agregar un comentario en Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Puede insertar, editar y eliminar comentarios en Excel para Web. También puede resolver un hilo de comentarios, que lo cierra a los cambios y a los nuevos comentarios, pero lo deja en su ubicación. Esto le permite volver a abrir el subproceso para comentarios si es necesario. Use @mentions en sus comentarios para enviar un correo electrónico a la persona que mencione. Obtenga más información sobre cómo [agregar un comentario en Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
 
 ## <a name="convert-a-table-to-a-range"></a>Convertir una tabla en un rango
 
@@ -103,7 +102,7 @@ Después de crear una tabla de Excel, es posible que solo desee el estilo de tab
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Para obtener los mejores resultados, use los métodos abreviados de teclado, no el menú contextual o los comandos del portapapeles en Excel para la web, para copiar elementos a otra ubicación de la hoja de cálculo. Obtenga más información sobre [el uso de copiar y pegar en Excel para la web](https://support.office.com/article/345327E5-D588-4DF3-8968-5AA823C98816).
+Puede cortar, copiar y pegar texto, números, ecuaciones, formas, gráficos e imágenes. Si tiene datos en columnas que necesita girar para reorganizarlos en filas, use la característica de **transponer** en el menú **pegar** .
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -124,6 +123,10 @@ Puede usar la validación de datos para restringir el tipo de datos o los valore
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
 Puede mover el valor de la celda en Excel para el Web arrastrando y soltando las celdas de un sitio a otro.
+
+## <a name="draw-cell-borders"></a>Dibujar bordes de celda
+
+Puede dibujar bordes alrededor de las celdas de una hoja de cálculo para ayudar a organizar visualmente los datos. Obtenga más información sobre los [bordes de celda en Excel](https://support.office.com/article/dc8a310b-92e3-46a7-9f17-2ab745810f4a#ID0EAADAAA=Web).
   
 ## <a name="dropbox"></a>Dropbox
 
@@ -155,9 +158,9 @@ Personalice los datos para darles la apariencia exacta que desea. Elija de una v
   
 ## <a name="formula-bar"></a>Formula bar
 
-Consulte las fórmulas detrás de los resultados de una celda en la barra de fórmulas. Puede agregar, cambiar y eliminar partes de su fórmula en el explorador de la misma forma en que lo haría en la aplicación de escritorio de Excel.
+Consulte las fórmulas detrás de los resultados de una celda en la barra de fórmulas. Puede agregar, cambiar y eliminar partes de su fórmula en el explorador de la misma forma en que lo haría en la aplicación de escritorio de Excel. Excel para web resalta los argumentos de la fórmula con colores que proporcionan una asignación visual entre la fórmula y los datos en la hoja de cálculo.
   
-## <a name="formula-tools--advanced"></a>Herramientas de fórmula avanzadas
+## <a name="formula-tools-advanced"></a>Herramientas de fórmulas, avanzadas
 
 La aplicación de escritorio Microsoft Excel admite las herramientas de fórmula más avanzadas, como fórmulas de matriz y estilo de referencia 3D. Excel para el web solo admite las fórmulas de Excel más básicas. Obtenga más información sobre [fórmulas](https://go.microsoft.com/fwlink/p/?LinkId=271665).
   
@@ -211,7 +214,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="named-ranges"></a>Rangos con nombre
 
-No puede crear rangos con nombre en Excel para la web, pero puede usar los rangos con nombre que ha creado en el escritorio de Excel en la hoja de cálculo en Excel para el Web.
+No puede crear rangos con nombre en Excel para la web, pero puede usar los rangos con nombre que ha creado en el escritorio de Excel en la hoja de cálculo en Excel para el Web. Cuando se selecciona un rango con nombre, el nombre aparece justo antes de la barra de fórmulas.
 
 ## <a name="number-formatting"></a>Formato de los números
 
@@ -295,7 +298,7 @@ Vea las segmentaciones de datos en la hoja de cálculo y filtre los datos selecc
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-En Excel para la web, puede ver y reordenar todas las hojas de cálculo, ordenar y filtrar datos (de arriba a abajo o de izquierda a derecha) y profundizar en los detalles de las tablas dinámicas. Obtenga más información sobre cómo [ordenar y filtrar datos](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654#officeversion=Web).
+En Excel para la web, puede ver y reordenar todas las hojas de cálculo, ordenar y filtrar datos (de arriba a abajo o de izquierda a derecha, varios niveles) y profundizar en los detalles de las tablas dinámicas. Obtenga más información sobre cómo [ordenar y filtrar datos](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Cumplimiento normativo y auditoría de hojas de cálculo
 
