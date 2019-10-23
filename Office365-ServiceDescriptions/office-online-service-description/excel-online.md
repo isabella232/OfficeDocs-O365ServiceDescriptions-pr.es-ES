@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: 7b481fe2ffe0b10ab8765c7c5238003e766a0cc4
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
+ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631639"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637257"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
@@ -94,7 +94,7 @@ Para comprobar la ortografía de cualquier texto de la hoja de cálculo, selecci
 
 ## <a name="comment-creation"></a>Comment creation
 
-Puede insertar, editar y eliminar comentarios en Excel para Web. También puede resolver un hilo de comentarios, que lo cierra a los cambios y a los nuevos comentarios, pero lo deja en su ubicación. Esto le permite volver a abrir el subproceso para comentarios si es necesario. Use @mentions en sus comentarios para enviar un correo electrónico a la persona que mencione. Obtenga más información sobre cómo [agregar un comentario en Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Puede insertar, editar y eliminar comentarios en Excel para Web. También puede resolver un hilo de comentarios, que lo cierra a los cambios y a los nuevos comentarios, pero lo deja en su ubicación. Esto le permite volver a abrir el subproceso para comentarios si es necesario. [Use @mentions en sus comentarios](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online) para enviar un correo electrónico a la persona que mencione. Obtenga más información sobre cómo [agregar un comentario en Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
 
 ## <a name="convert-a-table-to-a-range"></a>Convertir una tabla en un rango
 
