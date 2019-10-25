@@ -1,5 +1,5 @@
 ---
-title: Características de plataforma de Yammer
+title: Características de la plataforma de Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,45 +12,39 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: A continuación se describen las características de plataforma de Yammer disponibles en Yammer.
-ms.openlocfilehash: 3e5001cfee67b1ec5f22a94f663a81eeb4ff345f
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 80918999bd9f6e42aa1b966b900b70d4410731d2
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777911"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726474"
 ---
-# <a name="yammer-platform-features"></a>Características de plataforma de Yammer
+# <a name="yammer-platform-features"></a>Características de la plataforma de Yammer
 
 A continuación se describen las características de plataforma de Yammer disponibles en Yammer.
-  
-## <a name="yammer-connect-login"></a>Yammer Connect Login
-<a name="bkmk_YammerConnectLogin"> </a>
-
-Agregue el botón de inicio de sesión en sus aplicaciones empresariales para que los usuarios puedan registrarse e iniciar sesión en sus cuentas de Yammer.
-  
-## <a name="embeddable-feeds"></a>Fuentes integrables
-<a name="bkmk_EmbeddableFeeds"> </a>
-
-Un simple fragmento de código le permitirá integrar cualquier fuente de Yammer en su aplicación empresarial.
-  
-## <a name="like-and-follow-buttons"></a>Botones Me gusta y Seguir
-<a name="bkmk_LikeAndFollowButtons"> </a>
-
-Agregue los botones Me gusta y Seguir a sus aplicaciones empresariales para que los empleados puedan interactuar con objetos externos a Yammer.
-  
-## <a name="activity-stream-api"></a>API de flujos de actividades
-<a name="bkmk_ActivityStreamAPI"> </a>
+ 
+## <a name="activity-stream-api"></a>API de flujo de actividades
 
 Integre las aplicaciones empresariales existentes agregando datos al gráfico social. Fomente la detección de las actividades en las aplicaciones empresariales existentes.
   
-## <a name="browser-extension"></a>Extensión de explorador
-<a name="bkmk_BrowserExtension"> </a>
+## <a name="browser-extension"></a>Extensión del explorador
 
-Agrega una ficha de Yammer al menú del explorador y le permite compartir rápidamente cualquier página web que esté viendo. Para ello, haga clic en el icono de Yammer, elija el grupo al que quiere enviar su mensaje y comparta sus comentarios con un vínculo a la página. La extensión también le notificará si ya hay una conversación existente de Yammer sobre la página. 
+Agrega una ficha Yammer al menú del explorador y le permite compartir rápidamente cualquier página web que esté viendo seleccionando el icono de Yammer, eligiendo el grupo en el que desea publicar el mensaje y compartiendo sus propios comentarios con un vínculo a la página. La extensión también le notifica si hay una conversación de Yammer existente sobre la página. 
+
+## <a name="embeddable-feeds"></a>Fuentes incrustables
+
+Un simple fragmento de código le permitirá integrar cualquier fuente de Yammer en su aplicación empresarial.
   
-## <a name="feature-availability"></a>Disponibilidad de características
-<a name="bkmk_BrowserExtension"> </a>
+## <a name="like-and-follow-buttons"></a>Botones me gusta y seguir
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio Yammer](yammer-service-description.md).
+Agregue los botones Me gusta y Seguir a sus aplicaciones empresariales para que los empleados puedan interactuar con objetos externos a Yammer.
+  
+## <a name="yammer-connect-login"></a>Inicio de sesión de Yammer Connect
+
+Agregue el botón de inicio de sesión a sus aplicaciones empresariales para que los usuarios puedan registrarse e iniciar sesión fácilmente con sus cuentas de Yammer.
+
+## <a name="feature-availability"></a>Disponibilidad de características
+
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Yammer Service Description](yammer-service-description.md).
   
 
