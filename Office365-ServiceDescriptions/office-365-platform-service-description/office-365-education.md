@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios&mdash;de colaboración y comunicaciones de próxima generación de Microsoft, incluidos Microsoft Exchange Online, Microsoft SharePoint Online, Office para el Web y Microsoft Skype empresarial online&mdash;para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
-ms.openlocfilehash: 3058159c359831f1b2cd10059ceea647367723eb
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: 480521a4b2497fa515a4e47eac93312fae9adefa
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595278"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701402"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
@@ -344,7 +344,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Cuarentena: gestión de administradores  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cuarentena: autoadministración de usuarios finales  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección contra amenazas avanzada  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|**[Flujo de correo](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Flujo del correo](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Enrutamiento personalizado de correo saliente  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Secure messaging with a trusted partner  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Conditional mail routing  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -829,7 +829,7 @@ En la tabla siguiente se describen las características de SharePoint disponible
 |[Catálogo de aplicaciones (SharePoint)](../sharepoint-online-service-description/developer.md#app-catalog-sharepoint) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Implementación de aplicaciones: aplicaciones hospedadas en la nube](../sharepoint-online-service-description/developer.md#app-deployment-cloud-hosted-apps) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Implementación de aplicaciones: aplicaciones hospedadas en SharePoint](../sharepoint-online-service-description/developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Servicios de administración de aplicaciones](../sharepoint-online-service-description/developer.md#app-management-services) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[Servicio de administración de aplicaciones](../sharepoint-online-service-description/developer.md#app-management-service) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |BCS: alertas de listas externas <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[BCS: tipos de contenido externo (ect) con ámbito en la aplicación](../sharepoint-online-service-description/developer.md#bcs-app-scoped-external-content-types-ects) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[BCS: elementos Web de datos profesionales](../sharepoint-online-service-description/developer.md#bcs-business-data-web-parts) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -951,7 +951,7 @@ En la tabla siguiente se describen las características de SharePoint disponible
 |WCM: representación de dispositivos y móviles <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |WCM: varios dominios <br/> |No  <br/> |No  <br/> |No  <br/> |
 |WCM: Recommendations <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[WCM: Optimizaciones del motor de búsqueda (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimizations-seo) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|[WCM: optimización del motor de búsqueda (SEO)](../sharepoint-online-service-description/content.md#wcm-search-engine-optimization-seo) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Word Automation Services](../sharepoint-online-service-description/content.md#word-automation-services) <br/> |No  <br/> |No  <br/> |No  <br/> |
 |**Características de investigación** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Centro de inteligencia empresarial](../sharepoint-online-service-description/insights.md#business-intelligence-center) <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
@@ -1011,7 +1011,7 @@ En la tabla siguiente se describen las características de SharePoint disponible
 |OneDrive para la empresa y sitios híbridos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Administración y escalabilidad de listas grandes](../sharepoint-online-service-description/sites-servicedesc.md#large-list-scalability-and-management) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Conectividad móvil](../sharepoint-online-service-description/sites-servicedesc.md#mobile-connectivity) <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |
-|[Interfaz de usuario multilingüe](../sharepoint-online-service-description/sites-servicedesc.md#multi-lingual-user-interface) <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |
+|[Interfaz de usuario multilingüe](../sharepoint-online-service-description/sites-servicedesc.md#multilingual-user-interface) <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |
 |My Tasks <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Elementos Web de OOTB](../sharepoint-online-service-description/sites-servicedesc.md#ootb-web-parts) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Administración de permisos](../sharepoint-online-service-description/sites-servicedesc.md#permissions-management) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |

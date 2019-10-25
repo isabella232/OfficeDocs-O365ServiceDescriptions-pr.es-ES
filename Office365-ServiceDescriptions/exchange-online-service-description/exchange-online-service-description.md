@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Desea obtener una comparación de características de las suscripciones a Office 365 que incluyen Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: 4c58ddd7349860aa038d949dbed9034b934ef000
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581946"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37701370"
 ---
 # <a name="exchange-online-service-description"></a>Descripción del servicio Exchange Online
 
@@ -101,7 +101,7 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Cuarentena: gestión de administradores|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
 |Cuarentena: autoadministración de usuarios finales|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |Protección contra amenazas avanzada|No|Sí|No|No|No|No|Sí|No|
-|**[Flujo de correo](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
+|**[Flujo del correo](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Enrutamiento personalizado de correo saliente|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Secure messaging with a trusted partner|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Conditional mail routing|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -234,7 +234,7 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Customize anti-malware policies|Sí|Sí|Sí|Sí|Sí<sup>8</sup>|
 |Cuarentena: gestión de administradores|Sí|Sí|Sí|Sí|Sí<sup>8</sup>|
 |Cuarentena: autoadministración de usuarios finales|No|No|Sí|Sí|Sí|
-|**[Flujo de correo](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
+|**[Flujo del correo](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Enrutamiento personalizado de correo saliente|Sí|Sí|Sí|Sí|Sí|
 |Secure messaging with a trusted partner|Sí|Sí|Sí|Sí|Sí|
 |Conditional mail routing|No|No|Sí|Sí|Sí|
@@ -245,7 +245,7 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Otros correos|No|No|Sí|Sí|Sí|
 |MailTips|Sí|Sí|Sí|Sí|Sí|
 |Acceso delegado|Sí|Sí|Sí\|sí|No|
-|Reglas de la bandeja de entrada|Sí|Sí|Sí|Sí|No|
+|Reglas de la bandeja de entrada|Sí|Sí|Sí|Sí|Sí|
 |Cuentas conectadas|Sí|Sí|Sí<sup>19</sup>|Sí<sup>19</sup>|Sí<sup>19</sup>|
 |Buzones de correo inactivos|No|No|No<sup>6</sup>|Sí|No<sup>6</sup>|
 |Libreta de direcciones sin conexión|Sí|Sí|Sí|Sí|Sí|

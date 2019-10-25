@@ -1,5 +1,5 @@
 ---
-title: Características de bandeja de entrada de Yammer
+title: Características de la bandeja de entrada de Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,30 +12,27 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: A continuación se describen las características de bandeja de entrada disponibles en Yammer.
-ms.openlocfilehash: 8e259ece1629b536b3782df5b523acf5bb747eea
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: b9f74486b923ca062bf47e3daceb199816726fa6
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777951"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726343"
 ---
-# <a name="inbox-features-in-yammer"></a>Características de bandeja de entrada de Yammer
+# <a name="inbox-features-in-yammer"></a>Características de la bandeja de entrada de Yammer
 
 A continuación se describen las características de bandeja de entrada disponibles en Yammer.
   
 ## <a name="inbox"></a>Bandeja de entrada
-<a name="bkmk_Inbox"> </a>
 
-La bandeja de entrada agrega automáticamente las @menciones, los anuncios de grupos, las conversaciones y los mensajes privados para que pueda establecer fácilmente una prioridad en las respuestas.
+La bandeja de entrada agrega automáticamente los @mentions, anuncios de grupo, conversaciones y mensajes privados para que pueda priorizar fácilmente las respuestas.
   
 ## <a name="inbox-search"></a>Búsqueda en la bandeja de entrada
-<a name="bkmk_InboxSearch"> </a>
 
-Realice búsquedas en su bandeja de entrada para localizar rápidamente conversaciones, mensajes privados y anuncios.
+Busque en toda la bandeja de entrada para encontrar rápidamente conversaciones, mensajes privados y anuncios.
   
 ## <a name="feature-availability"></a>Disponibilidad de características
-<a name="bkmk_InboxSearch"> </a>
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio Yammer](yammer-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Yammer Service Description](yammer-service-description.md).
   
 

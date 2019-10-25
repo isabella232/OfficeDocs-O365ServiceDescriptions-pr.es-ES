@@ -12,45 +12,39 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: A continuación se describen las características de detección disponibles en Yammer.
-ms.openlocfilehash: cd60bc6c7e24598241b56a12f6193b81fc50b74a
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 9ed949e6a1b90145369807638f3c0b6c272ec85a
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777991"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726383"
 ---
 # <a name="discovery-features-in-yammer"></a>Características de detección de Yammer
 
 A continuación se describen las características de detección disponibles en Yammer.
   
 ## <a name="feeds"></a>Suministros
-<a name="bkmk_Feeds"> </a>
 
-Manténgase al tanto de las conversaciones relevantes, archivos y proyectos que tienen lugar en la compañía. Los suministros permiten participar rápidamente en conversaciones, así como @mencionar a compañeros para incluirlos en discusiones y presentaciones de documentos.
-  
+Manténgase al tanto de las conversaciones relevantes, filesm y proyectos que se produzcan en toda la organización. Las fuentes le permiten participar rápidamente en conversaciones, @mention a sus compañeros para recorrerlas en una discusión y obtener una vista previa de los documentos.
+
+## <a name="instant-type-ahead"></a>Tipo anticipado instantáneo
+
+Los resultados de búsqueda sugeridos se mostrarán a medida que escribe para facilitar la localización del contenido deseado. Los resultados se clasifican por personas, grupos, archivos, notas, temas y aplicaciones.
+    
 ## <a name="ticker"></a>Adhesivo
-<a name="bkmk_Ticker"> </a>
 
-Descubra en qué están trabajando sus compañeros en tiempo real. El adhesivo muestra las actividades que están teniendo lugar en tiempo real, incluidas las ediciones de páginas, las cargas de archivos o las actualizaciones realizadas en otras aplicaciones empresariales.
+Descubra en qué están trabajando sus compañeros en tiempo real. Ticker muestra que se están produciendo historias de actividades en tiempo real, como ediciones de página, cargas de archivos y actualizaciones realizadas en otras aplicaciones empresariales.
   
 ## <a name="topics"></a>Topics
-<a name="bkmk_Topics"> </a>
 
-Etiquete el contenido con temas para ayudar a los demás usuarios a encontrar mensajes, archivos y notas relacionadas, entre otros contenidos, agregando un hashtag (#) antes de la palabra o buscando temas existentes.
+Etiquete contenido con temas para ayudar a otros usuarios a encontrar rápidamente mensajes, archivos y notas relacionados, entre otros, agregando un hashtag (#) antes de la palabra o buscando temas existentes.
   
 ## <a name="universal-search"></a>Búsqueda universal
-<a name="bkmk_UniversalSearch"> </a>
 
-La búsqueda de texto completo permite localizar rápidamente archivos, notas, conversaciones, personas y datos de su red Yammer, así como aplicaciones empresariales integradas.
-  
-## <a name="instant-type-ahead"></a>Escritura anticipada instantánea
-<a name="bkmk_InstantTypeAhead"> </a>
-
-Los resultados de búsqueda sugeridos se mostrarán a medida que escribe para facilitar la localización del contenido deseado. Los resultados se clasificarán por personas, grupos, archivos, notas, temas y aplicaciones.
+La búsqueda de texto completo le permite encontrar rápidamente archivos, notas, conversaciones, personas y datos en su red Yammer y aplicaciones empresariales integradas.
   
 ## <a name="feature-availability"></a>Disponibilidad de características
-<a name="bkmk_InstantTypeAhead"> </a>
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio Yammer](yammer-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Yammer Service Description](yammer-service-description.md).
   
   

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio for the Web amplía su experiencia de Microsoft Visio al explorador, donde puede crear y editar diagramas guardados en la nube. Los clientes de Microsoft Office 365 pueden ver, imprimir y compartir diagramas e insertar comentarios sobre la marcha.
-ms.openlocfilehash: 6230cb61748d4e64614e9e2ea130c0495a092328
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+ms.openlocfilehash: de28a68fcd3b81656e86316d345e7e4fa6bd4d20
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450314"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37700222"
 ---
 # <a name="visio-for-the-web"></a>Visio para la web
 
@@ -34,7 +34,7 @@ Puede mover, cambiar el tamaño, girar, voltear o ordenar formas y cuadros de te
   
 ## <a name="build-mashup-solutions"></a>Crear soluciones de mashup
 
-La API de mashup de Visio para web permite a los programadores obtener acceso y manipular un diagrama Web de Visio, sus páginas y sus formas. Para obtener más información, consulte [Visio for the Web: Frequently Asked Questions](https://support.office.com/article/visio-online-frequently-asked-questions-e6647040-2fca-42ec-9fa5-d16a4e39e0ee).
+La API de mashup de Visio para web permite a los programadores obtener acceso y manipular un diagrama Web de Visio, sus páginas y sus formas. Para obtener más información, consulte [Visio for the Web: Frequently Asked Questions](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee).
   
 ## <a name="create-diagrams"></a>Crear diagramas
 
@@ -50,11 +50,11 @@ Visio para la web incluye edición enriquecida, que puede usar para realizar cam
   
 ## <a name="embed-diagram-in-a-sharepoint-web-or-blog-page"></a>Insertar diagrama en una página de blog, web o SharePoint
 
-Puede usar Visio para la web para insertar un diagrama de Visio (creado en la aplicación de escritorio de Visio) en una página de SharePoint, web o blog. Para obtener más información, consulte [Visio for the Web: Frequently Asked Questions](https://support.office.com/article/visio-online-frequently-asked-questions-e6647040-2fca-42ec-9fa5-d16a4e39e0ee).
+Puede usar Visio para la web para insertar un diagrama de Visio (creado en la aplicación de escritorio de Visio) en una página de SharePoint, web o blog. Para obtener más información, consulte [Visio for the Web: Frequently Asked Questions](https://support.office.com/article/e6647040-2fca-42ec-9fa5-d16a4e39e0ee).
   
 ## <a name="find"></a>Buscar
 
-En Visio para la web, puede buscar todas las apariciones de una palabra, número o frase en la página haciendo clic en el botón de puntos suspensivos (...) y, a continuación, seleccionando buscar (o presionando Ctrl + F). Los resultados aparecen junto al diagrama. Visio buscará en los nombres de las formas, el texto de las formas, los datos de formas y las celdas definidas por el usuario.
+En Visio para la web, puede buscar todas las apariciones de una palabra, número o frase en la página seleccionando **más** (el botón de puntos suspensivos) y, a continuación, seleccionando **Buscar** (o presionando Ctrl + F). Los resultados aparecen junto al diagrama. Visio buscará en los nombres de las formas, el texto de las formas, los datos de formas y las celdas definidas por el usuario.
   
 ## <a name="font-formatting"></a>Font formatting
 
@@ -62,11 +62,11 @@ Puede cambiar la fuente, el tamaño de fuente y otros atributos de apariencia de
   
 ## <a name="hyperlinks"></a>Hyperlinks
 
-En Visio para la web, puede tener acceso directamente a los hipervínculos haciendo clic en la forma.
+En Visio para la web, puede tener acceso directamente a los hipervínculos; para ello, seleccione la forma.
   
 ## <a name="navigation"></a>Navegación
 
-En Visio para la web, puede ir a otras páginas haciendo clic en las pestañas de la parte inferior izquierda.
+En Visio para la web, puede ir a otras páginas seleccionando las pestañas de la parte inferior izquierda.
   
 ## <a name="office-add-ins"></a>Complementos de Office
 
@@ -94,7 +94,7 @@ Visio for the Web le permite usar guardar como o descargar una copia del diagram
   
 ## <a name="share-a-diagram"></a>Compartir un diagrama
 
-Si el diagrama se guarda en una biblioteca de documentos de SharePoint o en OneDrive para la empresa, el diagrama está en línea y puede compartirlo enviando un vínculo en lugar de un archivo adjunto de correo electrónico. Los usuarios con los permisos adecuados pueden verlo en un explorador Web o un dispositivo móvil. Solo tiene que hacer clic en **compartir** en la esquina superior derecha. Se recomienda compartir un vínculo para evitar crear diagramas conectados a datos duplicados.
+Si el diagrama se guarda en una biblioteca de documentos de SharePoint o en OneDrive para la empresa, el diagrama está en línea y puede compartirlo enviando un vínculo en lugar de un archivo adjunto de correo electrónico. Los usuarios con los permisos adecuados pueden verlo en un explorador Web o un dispositivo móvil. Simplemente seleccione **compartir** en la esquina superior derecha. Se recomienda compartir un vínculo para evitar crear diagramas conectados a datos duplicados.
   
 ## <a name="smartart"></a>SmartArt
 
@@ -104,7 +104,7 @@ Con Visio para la web, no puede Agregar SmartArt a un diagrama. Sin embargo, si 
 
 La característica información no está disponible en Visio para la Web. En la aplicación de escritorio de Visio, puede usar la característica de búsqueda información para encontrar rápidamente la ayuda con una tarea que desea realizar.
   
-## <a name="undo-and-redo"></a>Undo and redo
+## <a name="undo-and-redo"></a>Undo and Redo
 
 Las características de deshacer y rehacer están disponibles en Visio para la Web.
   
@@ -114,7 +114,7 @@ Las características de deshacer y rehacer están disponibles en Visio para la W
   
 ## <a name="view-shape-data"></a>Ver datos de formas
 
-Puede usar Visio para la web para ver los metadatos de un diagrama: solo tiene que hacer clic en la forma y, a continuación, hacer clic en **información de forma**.
+Puede usar Visio para la web para ver los metadatos de un diagrama: simplemente seleccione la forma y, a continuación, seleccione **información de forma**.
   
 ## <a name="view-visio-files-in-the-browser"></a>Ver archivos de Visio en el explorador
 

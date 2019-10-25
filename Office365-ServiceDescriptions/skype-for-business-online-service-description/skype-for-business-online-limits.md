@@ -13,13 +13,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
-description: 'Los límites en Skype empresarial online entran en las siguientes categorías:'
-ms.openlocfilehash: 93a104be708fceae8664447cd1d61ef914dd7fba
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Los límites en Skype empresarial online entran en las siguientes categorías.
+ms.openlocfilehash: 4d0c804e8d0d4c8b8b9780bcea762c0253cdabe9
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777811"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726069"
 ---
 # <a name="skype-for-business-online-limits"></a>Límites de Skype Empresarial Online
 
@@ -68,7 +68,6 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 > <sup>1</sup> un cliente puede iniciar un chat con hasta 99 usuarios si los agrega manualmente o envía un mensaje instantáneo desde el menú contextual de un grupo o una lista de distribución. Para obtener más información acerca de la mensajería instantánea en Skype empresarial online, consulte [Enviar un mensaje instantáneo en Skype empresarial](https://go.microsoft.com/fwlink/?linkid=533412). 
   
 ## <a name="meeting-limits"></a>Límites de reuniones
-<a name="bkmk_Meeting_LyncOnlineLimits"> </a>
 
 - **Límite de carga de archivos** El tamaño máximo de los archivos que se pueden cargar a una reunión de Skype Empresarial, incluidos los documentos y las presentaciones de PowerPoint. 
     
@@ -112,7 +111,6 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 |Usuarios en un grupo de llamada de equipo  <br/> |IVA  <br/> |No aplicable  <br/> |IVA  <br/> |
    
 ## <a name="meeting-retention-limits"></a>Límites de retención de reunión
-<a name="bkmk_MeetingRetention_LyncOnlineLimits"> </a>
 
 - **Período de retención del contenido de la reunión** La cantidad de tiempo transcurrido a partir de que la última persona abandona la reunión y durante el que se retiene el contenido subido a una reunión de Skype Empresarial antes de eliminarse permanentemente. 
     
@@ -131,10 +129,7 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 |Reunión periódica sin fecha de finalización| La reunión siempre será accesible, siempre que haya nuevas incorporaciones de conferencia (activaciones) o que programe actualizaciones al menos una vez al año
 |Reunirse ahora|Se podrá tener acceso a la reunión durante al menos 8 horas.
 
-
-  
 ## <a name="minute-limits"></a>Límites de minutos
-<a name="bkmk_Minute_LyncOnlineLimits"> </a>
 
-Para obtener información sobre las limitaciones de minutos en el Plan de llamadas de Office 365 nacional e internacional, haga clic [aquí](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
+Para obtener información acerca de las limitaciones de minutos en el plan de llamadas nacionales de Office 365 o el plan de llamadas internacionales de Office 365, vaya a [disponibilidad de país y región para los planes de audioconferencia y llamadas](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
   

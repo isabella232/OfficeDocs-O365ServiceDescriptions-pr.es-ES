@@ -9,14 +9,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Busque los límites de SharePoint Online para planes de Office 365 Enterprise e independientes.
-ms.openlocfilehash: f111729e829c0886c38141915fa7225f7633a578
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 52ffb52601838a005ffaa6b05ba905590cd65e19
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523218"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726189"
 ---
-# <a name="sharepoint-online-limits"></a>Límites de SharePoint Online 
+# <a name="sharepoint-online-limits"></a>Límites de SharePoint Online
 
 Busque los límites de SharePoint para los planes de Office 365 y los planes independientes de SharePoint Online.
   
@@ -27,7 +27,7 @@ Busque los límites de SharePoint para los planes de Office 365 y los planes ind
 |**Característica** <br/> |**Office 365 empresa Essentials o empresa Premium** <br/> |**Office 365 Enterprise E1, E3 o E5, o SharePoint Online plan 1 o 2** <br/> | **Office 365 Enterprise F1** <br/> |
 |Almacenamiento total por organización<sup>1, 2</sup> <br/> |1 TB más 10 GB por licencia adquirida  <br/> |1 TB más 10 GB por licencia comprado<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Almacenamiento máximo por colección de sitios<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
-|Colecciones de sitios por organización  <br/> |1 millón<sup>6</sup> <br/> |1 millón<sup>6</sup> <br/> |1 millón<br/> |
+|Colecciones de sitios por organización  <br/> |1 millón<sup>6</sup> <br/> |1 millón<sup>6</sup> <br/> |1 millón<br/> |
 |Número de usuarios  <br/> |Hasta 300  <br/> |1- 500 000<sup>7</sup> <br/> |1- 500 000<sup>7</sup> <br/> |
    
 <sup>1</sup> [obtenga información sobre cómo encontrar el almacenamiento total y disponible para su organización](/sharepoint/manage-site-collection-storage-limits). Puede adquirir una cantidad ilimitada de almacenamiento adicional de SharePoint. Vea [Cambiar el espacio de almacenamiento para la suscripción](/office365/admin/subscriptions-and-billing/add-storage-space). 

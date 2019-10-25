@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b6db338b-522b-44bf-afb7-1de7827691d0
 description: SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado a Microsoft SharePoint Server 2013, este servicio hospedado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación centralizada, y compartir información con otros. Las siguientes características de SharePoint ayudan a los profesionales de TI a asegurar y administrar el entorno de SharePoint de su organización.
-ms.openlocfilehash: f3a5823454f40abe2d371e2e9c27ccfb2ab411bd
-ms.sourcegitcommit: e3a3edbf014ff308d4dd4d0f1632726bf5bdffb9
+ms.openlocfilehash: 33769abd6c9a6a765d0b15e00050dee0818521f1
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35928455"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726223"
 ---
 # <a name="it-professional"></a>Profesionales de TI
 
@@ -29,13 +29,13 @@ Si su compañía tiene usuarios en un entorno local de Active Directory, existen
   
 ## <a name="alternate-access-mapping-aam"></a>Alternate Access Mapping (AAM)
 
-No disponible para clientes de SharePoint Online. Los clientes de SharePoint Server 2013 pueden configurar una asignación alternativa de acceso para asignar solicitudes donde la URL de una solicitud web recibida por Internet Information Services (IIS) difiere de la URL que escribió el usuario.
+No disponible para clientes de SharePoint Online. Los clientes de SharePoint Server 2013 pueden configurar la asignación de acceso alternativa para asignar solicitudes en las que la dirección URL de una solicitud Web recibida por Internet Information Services (IIS) difiere de la URL que ha escrito un usuario.
   
 ## <a name="anti-malware-protection"></a>Protección contra malware
 
 SharePoint Online proporciona protección contra malware para archivos cargados y guardados en bibliotecas de documentos. Esta protección se ofrece gracias al motor contra malware que está integrado en Exchange. Este servicio contra malware se ejecuta en todos los sistemas front-end de contenido (CFE) de SharePoint Online.
   
-## <a name="claims-based-authentication-support"></a>Claims-Based Authentication Support
+## <a name="claims-based-authentication-support"></a>Compatibilidad con autenticación basada en notificaciones
 
 No disponible para clientes de SharePoint Online. Los clientes de SharePoint Server 2013 configuran la autenticación basada en notificaciones para aplicaciones web que admiten autenticación de servidor a servidor de SharePoint Server 2013 y autenticación de aplicaciones. Obtenga más información sobre la [autenticación basada en notificaciones](https://go.microsoft.com/fwlink/p/?LinkId=270982).
   
@@ -47,9 +47,9 @@ La prevención de pérdida de datos (DLP) identifica información confidencial a
 
 Existen dos niveles de cifrado en reposo para SharePoint Online. El cifrado en reposo SharePoint Online proporcionará el cifrado BitLocker de forma predeterminada en todas bibliotecas de documentos de cliente, todos los datos de OneDrive para la Empresa de los usuarios y los datos de sitio que residen en los centros de datos de Office 365. El cifrado por archivo cifrará todos los archivos individuales almacenados en SharePoint Online y OneDrive para la Empresa con su propia clave única. SharePoint Online y OneDrive para la Empresa siempre proporcionan cifrado en tránsito. Para obtener más información sobre el cifrado en reposo, vea [Innovaciones de seguridad y cumplimiento](https://www.microsoft.com/en-us/microsoft-365/blog/2014/10/28/office-365-latest-innovations-security-compliance/).
   
-## <a name="host-header-site-collections"></a>Host Header Site Collections
+## <a name="host-header-site-collections"></a>Colecciones de sitios de encabezado host
 
-No disponible para clientes de SharePoint Online. Las colecciones de sitios de SharePoint Server 2013 pueden tener su propio encabezado de host único. La creación de una colección de sitios nombrada por host permite a las organizaciones hospedar varias colecciones de sitios con URL mnemónicas, que son más fáciles de recordar.
+No disponible para clientes de SharePoint Online. Las colecciones de sitios de SharePoint Server 2013 pueden tener su propio encabezado de host único. La creación de una colección de sitios con nombre de host permite que una organización hospede varias colecciones de sitios con direcciones URL de cortesía, que son más fáciles de recordar para los usuarios.
   
 ## <a name="mobile-device-management-for-office-365"></a>Administración de dispositivos móviles para Office 365
 
@@ -57,17 +57,17 @@ Puede usar la MDM (Administración de dispositivos móviles por sus siglas en in
   
 ## <a name="oauth"></a>OAuth
 
-OAuth es un protocolo de Internet para crear y administrar la identidad de las aplicaciones. OAuth permite que se reconozca la identidad de la aplicación, además la identidad del usuario. Este mecanismo multiplataforma significa permite otorgar más permisos a las aplicaciones que los que tiene el usuario actual. Obtenga más información sobre la [autenticación de servidor a servidor](https://go.microsoft.com/fwlink/p/?LinkId=270988).
+OAuth es un protocolo de Internet para crear y administrar la identidad de la aplicación. OAuth permite que la identidad de la aplicación sea reconocida aparte de la identidad del usuario. Este mecanismo multiplataforma significa permite otorgar más permisos a las aplicaciones que los que tiene el usuario actual. Obtenga más información sobre la [autenticación de servidor a servidor](https://docs.microsoft.com/SharePoint/security-for-sharepoint-server/plan-server-to-server-authentication).
   
-## <a name="patch-management"></a>Patch Management
+## <a name="patch-management"></a>Administración de revisiones
 
 No disponible para clientes de SharePoint Online. Las actualizaciones de SharePoint Server 2013 se iniciarán mediante un proceso de dos pasos: aplicación de revisión y actualización. Durante los pasos de aplicación de revisión, se copian nuevos archivos binarios en el servidor de Administración central. Se detiene temporalmente cualquier servicio que utilice archivos que deben ser reemplazados. En algunos casos, el servidor debe reiniciarse.
   
-## <a name="quota-templates"></a>Quota Templates
+## <a name="quota-templates"></a>Plantillas de cuota
 
 No disponible para clientes de SharePoint Online. Una plantilla de cuota consiste en valores límite de almacenamiento que especifican la cantidad máxima de datos que se pueden almacenar en una colección de sitios. Cuando se alcanza el límite de almacenamiento, una plantilla de cuota también puede activar una alerta de correo electrónico para el administrador de la colección de sitios. Los administradores de SharePoint Online y los administradores del conjunto SharePoint Server 2013 pueden crear una plantilla de cuota que se pueda aplicar a cualquier colección de sitios.
   
-## <a name="read-only-database-support"></a>Read-Only Database Support
+## <a name="read-only-database-support"></a>Compatibilidad con bases de datos de solo lectura
 
 No disponible para clientes de SharePoint Online. Los administradores de SharePoint Server 2013 pueden configurar las bases de datos de contenido para que sean de solo lectura.
   
@@ -81,11 +81,11 @@ No disponible para clientes de SharePoint Online. Los administradores de SharePo
   
 ## <a name="resource-throttling"></a>Resource throttling
 
-No disponible para clientes de SharePoint Online. La limitación de recursos ofrece a los administradores de SharePoint Server 2013 opciones para supervisar y limitar los recursos de servidores y listas grandes de aplicaciones web. La limitación de recursos puede supervisar recursos como CPU, memoria y Tiempo de espera, revisándolos cada 5 segundos. 
+No disponible para clientes de SharePoint Online. La limitación de recursos proporciona a los administradores de SharePoint Server 2013 opciones para supervisar y limitar los recursos del servidor y las listas de gran tamaño para aplicaciones Web. La limitación de recursos puede supervisar recursos como CPU, memoria y Tiempo de espera, revisándolos cada 5 segundos. 
   
 ## <a name="service-application-platform"></a>Plataforma de aplicaciones de servicio
 
-Los servicios de SharePoint se pueden usar de forma individual desde cualquier aplicación web. Esta plataforma proporciona la flexibilidad necesaria para usar servicios, según las necesidades de la aplicación. Web Analytics ya no es una aplicación de servicio. Los procesos de análisis y elaboración de informes se incorporaron a la aplicación de servicio de búsqueda. Office para la web ya no es una aplicación de servicio. Office Online Server ahora es un producto de servidor independiente. En función del plan de Office 365 al que se suscriba la organización, Office para web puede estar disponible para los clientes de SharePoint Online. Obtenga más información sobre las [Aplicaciones de servicio de SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=270989).
+Los servicios de SharePoint se pueden usar de forma individual desde cualquier aplicación Web. Esta plataforma proporciona la flexibilidad necesaria para usar servicios, según las necesidades de la aplicación. Web Analytics ya no es una aplicación de servicio. Los procesos de análisis y elaboración de informes se incorporaron a la aplicación de servicio de búsqueda. Office para la web ya no es una aplicación de servicio. Office Online Server ahora es un producto de servidor independiente. En función del plan de Office 365 al que se suscriba la organización, Office para web puede estar disponible para los clientes de SharePoint Online. Obtenga más información sobre las [Aplicaciones de servicio de SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=270989).
   
 ## <a name="sharepoint-health-analyzer"></a>Analizador de mantenimiento de SharePoint
 
@@ -93,7 +93,7 @@ No disponible para clientes de SharePoint Online. Nuevo para SharePoint Server 2
   
 ## <a name="sharepoint-admin-center-office-365"></a>Centro de administración de SharePoint (Office 365)
 
-El Centro de administración de SharePoint, solo disponible para algunos clientes de SharePoint Online, permite a los administradores administrar algunas características, entre las que se incluyen las siguientes:
+El centro de administración de SharePoint, disponible para determinados clientes de SharePoint Online, permite a los administradores administrar características como las siguientes:
   
 - Colecciones de sitios
     
@@ -123,13 +123,13 @@ Obtenga más información sobre el [Centro de administración de SharePoint](htt
   
 ## <a name="site-collection-compliance-policies"></a>Directivas de cumplimiento de colección de sitios
 
-Se puede crear una directiva de colección de sitios en la lista de Directivas de colección de sitios para el sitio principal de la colección. Una vez creada la directiva, se puede exportar, de manera que los administradores de otras colecciones de sitios puedan importarla a sus listas de Directivas de colección de sitios. La creación de una directiva de colección de sitios que se puede exportar permite a los administradores de SharePoint estandarizar las directivas de administración de la información en todos los sitios de una organización.
+Se puede crear una directiva de colección de sitios en la lista de Directivas de colección de sitios para el sitio principal de la colección. Una vez creada la directiva, se puede exportar, de manera que los administradores de otras colecciones de sitios puedan importarla a sus listas de Directivas de colección de sitios. La creación de una directiva de colección de sitios exportable permite a los administradores de SharePoint estandarizar las directivas de administración de la información en todos los sitios de una organización.
   
-## <a name="usage-reporting-and-logging"></a>Usage Reporting and Logging
+## <a name="usage-reporting-and-logging"></a>Informes y registro de uso
 
 No disponible para clientes de SharePoint Online. Los administradores de SharePoint Server 2013 pueden usar informes de registros de auditoría para visualizar datos en los registros de auditoría para una colección de sitios. Obtenga más información sobre los [registros de auditoría de colección de sitios](https://go.microsoft.com/fwlink/p/?LinkId=270992).
   
-## <a name="windows-powershell-support"></a>Windows PowerShell Support
+## <a name="windows-powershell-support"></a>Soporte técnico de Windows PowerShell
 
 Los administradores de SharePoint Online pueden usar los cmdlets de SharePoint Online Windows PowerShell cmdlets para generar secuencias de comandos y automatizar tareas administrativas para su suscripción, como las siguientes:
   
@@ -149,6 +149,5 @@ Obtenga más información sobre el uso del [Shell de administración de SharePoi
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio SharePoint Online](sharepoint-online-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [SharePoint Online Service Description](sharepoint-online-service-description.md).
   
-

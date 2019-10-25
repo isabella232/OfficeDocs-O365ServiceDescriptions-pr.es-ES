@@ -11,36 +11,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ea48f8c4-ede1-40b5-b092-0e3d44531e48
-description: Microsoft SharePoint es un conjunto de herramientas y tecnologías basadas en web que permiten almacenar, compartir y administrar información digital en la organización. Integrado en Microsoft SharePoint Server 2013, este servicio hospedado resulta ideal para trabajar con proyectos, almacenar datos y documentos en una ubicación central y compartir información con otros usuarios. Los clientes de Office 365 también pueden adquirir complementos adicionales relacionados con SharePoint Online.
-ms.openlocfilehash: 153e337bde2f5be6c7d69548e2f4812c0a134bc3
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Microsoft SharePoint es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado en Microsoft SharePoint Server 2013, este servicio hospedado resulta ideal para trabajar con proyectos, almacenar datos y documentos en una ubicación central y compartir información con otros usuarios. Los clientes de Office 365 también pueden adquirir complementos adicionales relacionados con SharePoint Online.
+ms.openlocfilehash: ce39786029373163e407bc204d7d33192a0a7785
+ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777591"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726319"
 ---
 # <a name="add-ons"></a>Complementos
 
-Microsoft SharePoint es un conjunto de herramientas y tecnologías basadas en web que permiten almacenar, compartir y administrar información digital en la organización. Integrado en Microsoft SharePoint Server 2013, este servicio hospedado resulta ideal para trabajar con proyectos, almacenar datos y documentos en una ubicación central y compartir información con otros usuarios. Los clientes de Office 365 también pueden adquirir complementos adicionales relacionados con SharePoint Online.
+Microsoft SharePoint es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado en Microsoft SharePoint Server 2013, este servicio hospedado resulta ideal para trabajar con proyectos, almacenar datos y documentos en una ubicación central y compartir información con otros usuarios. Los clientes de Office 365 también pueden adquirir complementos adicionales relacionados con SharePoint Online.
   
-## <a name="additional-storage"></a>Additional Storage
-<a name="bkmk_AdditionalStorage"> </a>
+## <a name="additional-storage"></a>Almacenamiento adicional
 
 Si necesita más almacenamiento, puede obtenerlo por un coste por gibabyte (GB) al mes.
   
-## <a name="azure-provisioned-apps-access-services"></a>Aplicaciones aprovisionadas de Azure: Servicios de acceso
-<a name="bkmk_AzureProvisionedAppsAccessServices"> </a>
+## <a name="azure-provisioned-apps-access-services"></a>Aplicaciones aprovisionadas de Azure: servicios de Access
 
 Access Services permite a los usuarios profesionales crear rápidamente aplicaciones que se ejecutan en Office 365 y almacenan sus datos en bases de datos SQL de Azure. Obtenga información sobre cómo [crear y publicar una base de datos de Access en SharePoint](https://go.microsoft.com/fwlink/p/?LinkID=393754).
   
-## <a name="azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr"></a>Aplicaciones aprovisionadas de Azure: código personalizado en el rol web ligero de Azure (LWR)
-<a name="bkmk_AzureProvisionedAppsCustomCodeinAzureLWR"> </a>
+## <a name="azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr"></a>Aplicaciones aprovisionadas de Azure: código personalizado en el rol Web ligero de Azure (LWR)
 
 Las aplicaciones hospedadas por el proveedor para SharePoint incluyen componentes que se implementan y se hospedan fuera de la granja de servidores de SharePoint (normalmente, por un desarrollador, aunque en algunos escenarios puede hacerlo el cliente). La aplicación hospedada por el proveedor para SharePoint interactúa con un sitio de SharePoint, pero también usa recursos y servicios que residen en el sitio remoto. Obtenga más información sobre las [opciones de hospedaje para aplicaciones de SharePoint](https://go.microsoft.com/fwlink/?LinkId=271314).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
-<a name="bkmk_AzureProvisionedAppsCustomCodeinAzureLWR"> </a>
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio SharePoint Online](sharepoint-online-service-description.md).
+Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [SharePoint Online Service Description](sharepoint-online-service-description.md).
   
-
