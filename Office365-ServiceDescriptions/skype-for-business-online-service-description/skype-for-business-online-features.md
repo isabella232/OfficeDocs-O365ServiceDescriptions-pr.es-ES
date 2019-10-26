@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si es administrador, puede encontrar instrucciones detalladas para configurar las características de Skype empresarial online en configurar Skype empresarial online.
-ms.openlocfilehash: b149dff807a32beced9bc5358435075229acda57
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726086"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733801"
 ---
 # <a name="skype-for-business-online-features"></a>Características de Skype Empresarial Online
 
@@ -113,11 +113,11 @@ Para ver los temas de ayuda y procedimientos de administración más recientes d
 
 Audioconferencia es una conferencia en la que al menos un participante marca en la parte de audio mediante un teléfono. La capacidad de usar un teléfono para obtener acceso a una reunión es útil para aquellas personas que estén de viaje o que no puedan asistir a una reunión con un PC o dispositivo móvil. Un teléfono también puede ser una mejor opción en otros casos, como cuando la conectividad a Internet es limitada o cuando una reunión es de audio únicamente.
   
-Con Audioconferencia, los usuarios de su organización pueden hospedar o crear reuniones con números de acceso telefónico. Los autores de la llamada pueden usar después los números de teléfono para llamar a una reunión con sus teléfonos (los usuarios que marcan un número para tener acceso a una reunión solo recibirán mensajes de audio, y no recibirán los mensajes instantáneos, los escritorios compartidos o los archivos que se compartan en la reunión). Solo debe configurar las conferencias de acceso telefónico local para los usuarios que van a programar o dirigir las reuniones. A menos que el organizador haya bloqueado la reunión, cualquier persona que tenga el número de acceso telefónico y el identificador de conferencia puede unirse a la reunión. Para obtener más información, consulte [Introducción a la Audioconferencia](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) y [Números de acceso telefónico local disponibles para la Audioconferencia](http://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
+Con Audioconferencia, los usuarios de su organización pueden hospedar o crear reuniones con números de acceso telefónico. Los autores de la llamada pueden usar después los números de teléfono para llamar a una reunión con sus teléfonos (los usuarios que marcan un número para tener acceso a una reunión solo recibirán mensajes de audio, y no recibirán los mensajes instantáneos, los escritorios compartidos o los archivos que se compartan en la reunión). Solo debe configurar las conferencias de acceso telefónico local para los usuarios que van a programar o dirigir las reuniones. A menos que el organizador haya bloqueado la reunión, cualquier persona que tenga el número de acceso telefónico y el identificador de conferencia puede unirse a la reunión. Para obtener más información, consulte [Introducción a la Audioconferencia](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) y [Números de acceso telefónico local disponibles para la Audioconferencia](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
   
 En Office 365, puede habilitar conferencias de acceso telefónico local usando Office 365 como proveedor de conferencias de acceso telefónico local o mediante un proveedor de conferencias de acceso telefónico de terceros (también denominado proveedor de servicios de audioconferencia o ACP).
   
-Adioconferencia no está disponible en todos los países o regiones. Para obtener una lista de los países o las regiones donde se pueden adquirir Audioconferencia, consulte [¿Dónde se puede obtener Audioconferencia?](http://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+Adioconferencia no está disponible en todos los países o regiones. Para obtener una lista de los países o las regiones donde se pueden adquirir Audioconferencia, consulte [¿Dónde se puede obtener Audioconferencia?](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
   
 ## <a name="calling-plans-in-office-365"></a>Planes de llamadas en Office 365
 

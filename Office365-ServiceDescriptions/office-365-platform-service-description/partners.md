@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Como socio autorizado de Microsoft, Microsoft Office 365 le ofrece la oportunidad de ampliar su base de clientes y crear relaciones duraderas con ellos. Por un precio mensual o anual que los clientes deben pagarle a usted, pueden usar servicios basados en la nube, por lo que no tendrán que administrar copias de seguridad de datos, hardware de servidores o actualizaciones de servidores. Los servicios que tiene a su disposición dependen de los tipos de servicios que usted está autorizado a proporcionar.
-ms.openlocfilehash: b6c3ae1f3701b4f44c51db138dde2d348d008f38
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 91efedcb7af728f3b93d80c937ab1a98d009a4db
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582116"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734087"
 ---
 # <a name="partners"></a>Asociados
 
@@ -27,7 +27,7 @@ ms.locfileid: "37582116"
 Como socio autorizado de Microsoft, Microsoft Office 365 le ofrece la oportunidad de ampliar su base de clientes y crear relaciones duraderas con ellos. Por un precio mensual o anual que los clientes deben pagarle a usted, pueden usar servicios basados en la nube, por lo que no tendrán que administrar copias de seguridad de datos, hardware de servidores o actualizaciones de servidores. Los servicios que tiene a su disposición dependen de los tipos de servicios que usted está autorizado a proporcionar.
   
 > [!NOTE]
-> Para obtener más información sobre cómo usar las características de partner, vea [Partners: Crear un negocio y administrar la suscripción de partner de Office 365](http://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) y vea la presentación de características de partner. Para obtener acceso a las características de partner, puede participar en Cloud Essentials firmando el [Contrato de partner de Microsoft Online Services](https://go.microsoft.com/fwlink/p/?LinkId=285473). 
+> Para obtener más información sobre cómo usar las características de partner, vea [Partners: Crear un negocio y administrar la suscripción de partner de Office 365](https://go.microsoft.com/fwlink/?LinkID=271614&amp;clcid=0x409) y vea la presentación de características de partner. Para obtener acceso a las características de partner, puede participar en Cloud Essentials firmando el [Contrato de partner de Microsoft Online Services](https://go.microsoft.com/fwlink/p/?LinkId=285473). 
   
 ## <a name="create-trial-invitations-and-purchase-orders"></a>Crear invitaciones a pruebas y órdenes de compra
 
@@ -47,9 +47,9 @@ Incluso cuando un cliente tiene un socio autorizado para realizar tareas adminis
   
 ## <a name="connect-with-customers-and-other-partners-in-the-office-365-marketplace"></a>Conéctese con clientes y otros socios en Office 365 Marketplace
 
-Office 365 Marketplace ofrece a los clientes la oportunidad de encontrar servicios de socios y experiencia. Para obtener más información, vea [Cómo aparecer en Marketplace](http://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
+Office 365 Marketplace ofrece a los clientes la oportunidad de encontrar servicios de socios y experiencia. Para obtener más información, vea [Cómo aparecer en Marketplace](https://go.microsoft.com/fwlink/?LinkID=272019&amp;clcid=0x409).
   
-Microsoft Partner Network tiene el compromiso de satisfacer las necesidades de nuestros socios. Para unirse a la red y ver cómo Microsoft atiende a sus socios, vea [Microsoft Partner Network](http://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
+Microsoft Partner Network tiene el compromiso de satisfacer las necesidades de nuestros socios. Para unirse a la red y ver cómo Microsoft atiende a sus socios, vea [Microsoft Partner Network](https://go.microsoft.com/fwlink/?LinkID=272021&amp;clcid=0x409).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

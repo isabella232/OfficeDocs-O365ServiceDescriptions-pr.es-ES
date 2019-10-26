@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer es la mejor red social de su clase, segura y privada empresarial. Yammer faculta a los empleados para que sean más productivos y exitosos, ya que les permite colaborar fácilmente, tomar decisiones con mayor rapidez y organizarse a sí mismos en Teams para realizar cualquier desafío de la empresa. Se trata de una nueva forma de trabajar que lógicamente impulsa la alineación y la agilidad de los negocios, reduce los tiempos de ciclo, implica a los empleados y mejora las relaciones con clientes y socios.
-ms.openlocfilehash: ee9aebc28f97756a5291ab8ad5f292d8b4659d18
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726457"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733581"
 ---
 # <a name="yammer-service-description"></a>Descripción del servicio Yammer
 
@@ -25,7 +25,7 @@ Yammer es la mejor red social de su clase, segura y privada empresarial. Yammer 
   
 Para ver una lista de los planes de Office 365 que incluyen Yammer, vea [Planes y familias de servicios de Office 365](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
   
-Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
+Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 > [!TIP]
 > Puede exportar, guardar e imprimir páginas en las descripciones de los servicios de Office 365. Obtenga más información sobre cómo [exportar varias páginas](https://go.microsoft.com/fwlink/?LinkId=403349). 
@@ -114,7 +114,7 @@ Los canales que se usen para realizar la comunicación dependerán del impacto:
 |[Administración de sesiones](administration-and-security-features-in-yammer.md#session-management) <br/> |No  <br/> |Sí  <br/> |
 |[Firewall lógico](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |No  <br/> |Sí  <br/> |
 |[Directiva de uso](administration-and-security-features-in-yammer.md#usage-policy) <br/> |No  <br/> |Sí  <br/> |
-|[Centro de FastTrack](http://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |No  <br/> |Sí  <br/> |
+|[Centro de FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |No  <br/> |Sí  <br/> |
 |[Soporte al cliente](support-features-in-yammer.md#customer-support) <br/> |Sí  <br/> |Sí  <br/> |
 |[Soporte para administradores](support-features-in-yammer.md#administrator-support) <br/> |No  <br/> |Sí  <br/> |
 |[Modo de contenido privado de administración](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |No  <br/> |Sí  <br/> |

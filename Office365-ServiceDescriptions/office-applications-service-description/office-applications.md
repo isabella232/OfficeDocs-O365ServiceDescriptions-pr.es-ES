@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office es un servicio eficaz que le ayuda a dar rienda mejor a sus mejores ideas, a hacer cosas y a mantenerse conectado en cualquier lugar. Solo debe iniciar sesión para tener una experiencia personalizada y las aplicaciones más actualizadas de Office, con características nuevas y mejoradas que se añaden periódicamente.
-ms.openlocfilehash: f4a99204cdd078a79bdf2ed4ff760dfe74e975a6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 262f6d17c1fc537244091de8746c7e307463a6d0
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582166"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734017"
 ---
 # <a name="office-applications"></a>Aplicaciones de Office
 
@@ -59,7 +59,7 @@ Skype Empresarial es una aplicación de comunicaciones unificadas y un cliente d
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath es un programa que le permite diseñar, distribuir, completar y enviar formularios electrónicos. Puede añadir los elementos web de InfoPath Web a un sitio de SharePoint Online. Más información acerca de [Elementos web de InfoPath Form](http://go.microsoft.com/fwlink/p/?LinkId=271687).
+Microsoft InfoPath es un programa que le permite diseñar, distribuir, completar y enviar formularios electrónicos. Puede añadir los elementos web de InfoPath Web a un sitio de SharePoint Online. Más información acerca de [Elementos web de InfoPath Form](https://go.microsoft.com/fwlink/p/?LinkId=271687).
 
 Para obtener información sobre cómo PowerApps, el sucesor de InfoPath, puede mejorar la productividad empresarial en SharePoint sin escribir código, vea [Customize SharePoint with PowerApps](https://powerapps.microsoft.com/infopath/).
   

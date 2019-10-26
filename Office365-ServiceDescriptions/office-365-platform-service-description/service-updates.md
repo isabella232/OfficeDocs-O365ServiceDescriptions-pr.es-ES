@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Para obtener información sobre las características de Office 365 que acaban de publicar, o que están a punto de publicarse, consulte el mapa de ruta de Microsoft 365.
-ms.openlocfilehash: 144175e0d0e982084b32e655cf73f394bff87f2a
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6c0b147a53e51303b072c89f8fab722fbadbec37
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581356"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734047"
 ---
 # <a name="service-updates"></a>Actualizaciones de servicio
 
 > [!NOTE]
-> Este tema no se aplica a Office 365 operado por 21Vianet. Para obtener información sobre las actualizaciones de servicio, consulte [Obtener soporte técnico, de facturación y de suscripción para Office 365 operado por 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
+> Este tema no se aplica a Office 365 operado por 21Vianet. Para obtener información sobre las actualizaciones de servicio, consulte [Obtener soporte técnico, de facturación y de suscripción para Office 365 operado por 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
   
 Para obtener información sobre las características de Office 365 que acaban de publicar, o que están a punto de publicarse, consulte el [mapa de ruta de Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914).
   
@@ -37,7 +37,7 @@ Con la versión dirigida, su organización o un conjunto de los usuarios recibir
 
 Office 365 intenta notificar a los clientes antes de cualquier cambio que obligue al administrador a tomar medidas para mantener el servicio en funcionamiento. A menos que se indique lo contrario, Microsoft enviará una notificación con un mínimo de 30 días de antelación a través del [Centro de mensajes](https://docs.microsoft.com/office365/admin/manage/message-center?view=o365-worldwide) cuando una actualización requiera una acción administrativa. 
   
-La mayoría de las actualizaciones de servicio de Office 365 son correcciones de errores, mejoras de rendimiento y actualizaciones de seguridad que no requieren ninguna acción por parte del cliente. Las características nuevas y mejoradas se encuentran en el [plan de desarrollo de Microsoft 365 para empresas](http://roadmap.office.com/).
+La mayoría de las actualizaciones de servicio de Office 365 son correcciones de errores, mejoras de rendimiento y actualizaciones de seguridad que no requieren ninguna acción por parte del cliente. Las características nuevas y mejoradas se encuentran en el [plan de desarrollo de Microsoft 365 para empresas](https://roadmap.office.com/).
   
 Recuerde que Office 365 sigue la [Directiva del ciclo de vida en línea](https://support.microsoft.com/lifecycle#gp/osslpolicy).
   

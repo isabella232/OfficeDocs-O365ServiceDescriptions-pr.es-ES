@@ -8,17 +8,17 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-description: Office 365 Engineering Direct es un servicio de soporte técnico a nivel empresarial para un contrato de soporte técnico Premier de Microsoft. La descripción del servicio Direct Engineer de Office 365 contiene información adicional sobre las características ofrecidas y los requisitos de implementación.
-ms.openlocfilehash: eb890bdd2ab0fa5b01702828b0eb9a02eb7c8a91
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+description: Office 365 Engineering Direct es un servicio de soporte de nivel empresarial para un contrato de soporte técnico Premier de Microsoft. La descripción del servicio Direct Engineer de Office 365 contiene información adicional sobre las características ofrecidas y los requisitos de implementación.
+ms.openlocfilehash: 57274511660f36e7948bc42e9fd6214cf2c0ec52
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35776461"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733891"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Descripción del servicio Direct Engineer de Office 365
 
-Office 365 Engineering Direct es un servicio de soporte técnico a nivel empresarial para un contrato de soporte técnico Premier de Microsoft. La [Descripción del servicio Direct Engineer de Office 365](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf) contiene información adicional sobre las características ofrecidas y los requisitos de implementación.
+Office 365 Engineering Direct es un servicio de soporte de nivel empresarial para un contrato de soporte técnico Premier de Microsoft. La [Descripción del servicio Direct Engineer de Office 365](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions/blob/master/Office%20365%20Engineering%20Direct%20-%20Svc%20Desc%20(25mar2019).pdf) contiene información adicional sobre las características ofrecidas y los requisitos de implementación.
 
 Para obtener la oferta directa de Office 365 Engineering como cliente nuevo, su organización debe suscribirse a una oferta de Soporte Premier de Microsoft, cumplir el nivel de clasificación de empresa grande para los servicios de Office 365 y ejecutar un apéndice de contrato de soporte técnico. Se aplicará un costo suplementario para el conjunto de aplicaciones de servicios agregado. Póngase en contacto con su representante de equipo de cuentas de Microsoft para confirmar el estado del contrato de soporte técnico e iniciar los cambios contractuales para proteger la oferta de soporte. 
 

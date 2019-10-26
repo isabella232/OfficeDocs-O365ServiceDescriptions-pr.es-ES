@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En esta sección se proporciona una introducción a las características específicas de los entornos de Office 365 Government US. Le recomendamos que lea esta sección complementaria junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: 05b8ccadd5fcd78b61c5fa1428c3370cff4e0e0b
-ms.sourcegitcommit: 3a3c964939acb72e4bac75b324d0cdc19c73d170
+ms.openlocfilehash: e8256206cef71a58d0d2824f4cab0ec07ee2bb62
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37595248"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734238"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -124,15 +124,15 @@ Los clientes que elijan la ventaja de migración de [FastTrack](https://fasttrac
 
 Office 365 US Government customers pueden usar los servicios de Azure Government ExpressRoute para conectarse de forma privada a los servicios de Office 365 compatibles en lugar de conectarse a través de Internet público.
   
-Para obtener información sobre los proveedores compatibles, los modelos de precios y mucho más, revise la [información de Azure ExpressRoute](http://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409).
+Para obtener información sobre los proveedores compatibles, los modelos de precios y mucho más, revise la [información de Azure ExpressRoute](https://go.microsoft.com/fwlink/?LinkID=798220&amp;clcid=0x409).
   
-Para obtener información sobre la compatibilidad de Office 365 con Azure ExpressRoute, consulte [Azure ExpressRoute for Office 365](http://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409) (Azure ExpressRoute para Office 365).
+Para obtener información sobre la compatibilidad de Office 365 con Azure ExpressRoute, consulte [Azure ExpressRoute for Office 365](https://go.microsoft.com/fwlink/?LinkID=798216&amp;clcid=0x409) (Azure ExpressRoute para Office 365).
   
 [Cómo usar esta sección de Descripción del servicio](office-365-us-government.md#how-to-use-this-service-description-section)
   
 ## <a name="system-requirements"></a>Requisitos del sistema
 
-Para obtener información sobre los requisitos del sistema para los planes de Office 365 Administración Pública, vea [Requisitos del sistema para Office](http://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) en el sitio de productos de [office.com](http://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409). 
+Para obtener información sobre los requisitos del sistema para los planes de Office 365 Administración Pública, vea [Requisitos del sistema para Office](https://go.microsoft.com/fwlink/?LinkID=626095&amp;clcid=0x409) en el sitio de productos de [office.com](https://go.microsoft.com/fwlink/?LinkID=509817&amp;clcid=0x409). 
   
 [Cómo usar esta sección de Descripción del servicio](office-365-us-government.md#how-to-use-this-service-description-section)
   

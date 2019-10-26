@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: b95d72bf-206f-4c26-a53d-ba61ff73605c
 description: SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado en Microsoft SharePoint Server 2013, este servicio alojado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central, y compartir información con otros individuos. Las siguientes características de Contenido facilitan a todos los usuarios el uso de la administración de contenido empresarial (ECM). Es la combinación de la administración de contenido tradicional, las funcionalidades sociales y una búsqueda potente.
-ms.openlocfilehash: 76a4520caa6e630d064f94b1e45a8d68e777c73b
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5316256e83c7b2e142aee55023c43a8f6b91d29c
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726267"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733961"
 ---
 # <a name="content"></a>Contenido
 
@@ -172,7 +172,7 @@ Los usuarios de SharePoint tienen una papelera de reciclaje en la que se almacen
     
 La papelera de reciclaje no captura las personalizaciones de sitios hechas con SharePoint Designer. 
   
-Para obtener más información, consulte [Manage the Recycle Bin of a SharePoint site collection (Administrar la Papelera de reciclaje de una colección de sitios de SharePoint)](http://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409).
+Para obtener más información, consulte [Manage the Recycle Bin of a SharePoint site collection (Administrar la Papelera de reciclaje de una colección de sitios de SharePoint)](https://go.microsoft.com/fwlink/?LinkID=286112&amp;clcid=0x409).
   
 ## <a name="search-web-parts"></a>Elementos Web de búsqueda
 

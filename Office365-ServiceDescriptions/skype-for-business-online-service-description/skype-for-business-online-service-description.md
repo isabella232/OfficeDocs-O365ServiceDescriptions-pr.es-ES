@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: ¿Quiere saber qué licencias necesita comprar para obtener características específicas de Skype Empresarial? Vea información general sobre las licencias de Skype empresarial.
-ms.openlocfilehash: e4d73f94da357b39520d1e702dfef96ea95d3deb
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: b9e97642f9b7dd1585a1815a080aed764a160013
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701702"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733751"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descripción del servicio Skype Empresarial Online
 
@@ -46,7 +46,7 @@ Para obtener información sobre las nuevas características de Skype Empresarial
 
 Se recomienda utilizar nuestra sencilla página de comparación para elegir la versión de Skype Empresarial Online. Vea [Comparar planes con reuniones de Skype](https://go.microsoft.com/fwlink/?linkid=798291). Si desea una comparación más detallada, consulte las siguientes tablas de características. Si necesita ayuda adicional, llame al [soporte técnico](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support). Puede seleccionar la configuración regional de la lista desplegable para obtener un número local.
   
-Para ver todos los planes de Office 365, consulte [Comparar los planes de Office 365 para empresas](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409). Para obtener una comparación más detallada, consulte [Opciones de planes de Office 365](https://go.microsoft.com/fwlink/?linkid=846972).
+Para ver todos los planes de Office 365, consulte [Comparar los planes de Office 365 para empresas](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409). Para obtener una comparación más detallada, consulte [Opciones de planes de Office 365](https://go.microsoft.com/fwlink/?linkid=846972).
   
  Para comparar características individuales entre escritorios y clientes web de Skype Empresarial, consulte [Tablas de comparación de clientes de Skype Empresarial Online](https://go.microsoft.com/fwlink/?linkid=829754). Para consultar una comparación detallada de los clientes móviles de Skype Empresarial, consulte [Tablas de comparación de clientes móviles](https://go.microsoft.com/fwlink/?linkid=846932).
   
@@ -153,7 +153,7 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.
 |Correo de voz  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Planes de llamada](skype-for-business-online-features.md#calling-plans-in-office-365) (Plan de llamadas nacionales, con la compra del complemento necesario)  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |No  <br/> |
 |[Planes de llamada](skype-for-business-online-features.md#calling-plans-in-office-365) (Plan de llamadas internacionales, con la compra del complemento necesario)  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |No  <br/> |
-|[Créditos de comunicaciones](http://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |No  <br/> |No  <br/> |No<sup>6</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
+|[Créditos de comunicaciones](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |No  <br/> |No  <br/> |No<sup>6</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Voz de Skype empresarial  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |**[Seguridad y archivado](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Mensajería instantánea y cifrado de medios  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -196,7 +196,7 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.
 La tabla siguiente muestra las características de Skype Empresarial Online disponibles en las distintas opciones independientes. Para obtener una descripción de estas características, vaya a [Características de Skype Empresarial Online](skype-for-business-online-features.md).
   
 > [!NOTE]
-> Los usuarios con licencia de Plan independiente 2 de Skype Empresarial Online obtendrán el cliente de Skype Empresarial Basic, no el cliente completo de Skype Empresarial. Si desea que los usuarios tengan el cliente de Skype Empresarial, debe actualizarlos a una licencia que lo incluya, como una licencia basada en Enterprise. Para implementar el cliente de Skype Empresarial en los usuarios, consulte [Implementar el cliente de Skype Empresarial en Office 365](http://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409). 
+> Los usuarios con licencia de Plan independiente 2 de Skype Empresarial Online obtendrán el cliente de Skype Empresarial Basic, no el cliente completo de Skype Empresarial. Si desea que los usuarios tengan el cliente de Skype Empresarial, debe actualizarlos a una licencia que lo incluya, como una licencia basada en Enterprise. Para implementar el cliente de Skype Empresarial en los usuarios, consulte [Implementar el cliente de Skype Empresarial en Office 365](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409). 
   
 |||||
 |:-----|:-----|:-----|:-----|

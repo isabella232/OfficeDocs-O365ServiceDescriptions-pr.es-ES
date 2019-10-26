@@ -1,5 +1,5 @@
 ---
-title: 'Descripciones de servicio de Office 365  '
+title: 'Descripciones del servicio de Office 365 '
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,18 +14,18 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 es un servicio basado en la nube diseñado para ayudar a satisfacer las necesidades de su organización en cuanto a seguridad, confiabilidad y productividad del usuario sólidas.
-ms.openlocfilehash: 9ab233dba35f89bb9aa15c0525e76b5ae36c2fcc
-ms.sourcegitcommit: 96dc758c790ddaf05f5c2b836451b417729cf119
+ms.openlocfilehash: 488e16d7647d34db00559a32df1d8bb5c7117eab
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/18/2019
-ms.locfileid: "35777481"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734037"
 ---
-# <a name="office-365-service-descriptions"></a>Descripciones de servicio de Office 365  
+# <a name="office-365-service-descriptions"></a>Descripciones del servicio de Office 365 
 
 Microsoft Office 365 es un servicio basado en la nube diseñado para ayudar a satisfacer las necesidades de su organización en cuanto a seguridad, confiabilidad y productividad del usuario sólidas. 
   
-En los temas de esta biblioteca encontrará descripciones detalladas de los servicios y las características disponibles con Office 365. Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](http://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o la descripción del servicio pertinente en la lista siguiente. 
+En los temas de esta biblioteca encontrará descripciones detalladas de los servicios y las características disponibles con Office 365. Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o la descripción del servicio pertinente en la lista siguiente. 
   
 Para buscar artículos de servicio técnico e información, consulte [Servicio técnico de Office](https://support.office.com/).
   
@@ -64,18 +64,18 @@ Para empezar, consulte las siguientes descripciones de servicios:
     
 - [Descripción del servicio Project Online](project-online-service-description/project-online-service-description.md)
     
-- [Visio para la descripción del servicio Web](visio-online-service-description/visio-online-service-description.md)
+- [Descripción del servicio de Visio para la web](visio-online-service-description/visio-online-service-description.md)
     
 - [Descripción del servicio Yammer](yammer-service-description/yammer-service-description.md)
 
 - [Descripción del servicio de Microsoft 365 Empresa](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Microsoft 365 información sobre licencias de servicios de nivel de inquilino](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
+- [Instrucciones de licencias de Microsoft 365 de el nivel de inquilino](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance.md)
     
 - [Descripción del servicio Microsoft Dynamics 365 (Online)](microsoft-dynamics-365-online-service-description.md)
     
 > [!NOTE]
-> <sup>1</sup> Incluye disponibilidad de [características del conjunto de aplicaciones](https://technet.microsoft.com/EN-US/library/office-365-suite-features.aspx), como, por ejemplo, Office Delve, Microsoft MyAnalytics, Microsoft Sway y Microsoft Teams. 
+> <sup>1</sup> Incluye disponibilidad de [características del conjunto de aplicaciones](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), como, por ejemplo, Office Delve, Microsoft MyAnalytics, Microsoft Sway y Microsoft Teams.
   
 ## <a name="disclaimer"></a>Aviso de declinación de responsabilidades
 

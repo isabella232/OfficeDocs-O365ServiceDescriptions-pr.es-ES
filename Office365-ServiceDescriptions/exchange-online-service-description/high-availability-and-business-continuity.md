@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online ofrece un amplio soporte de retención y recuperación para la infraestructura de correo electrónico de una organización. Este servicio incluye replicación de buzón en centros de datos y la capacidad de recuperar buzones y elementos eliminados.
-ms.openlocfilehash: 08b4e7e6fc0adcb278a2ed4d74564455250a8855
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: aad8576e35af04eb819d9f5809f1862613298651
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581976"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734248"
 ---
 # <a name="high-availability-and-business-continuity"></a>Alta disponibilidad y continuidad empresarial
 
@@ -27,7 +27,7 @@ Microsoft Exchange Online ofrece un amplio soporte de retención y recuperación
 
 Los buzones de Exchange Online son replicados continuamente en copias de bases de datos múltiples, en centros de datos de Microsoft geográficamente dispersos, para brindar una capacidad de recuperación de datos en caso de fallos en la infraestructura de mensajería local. Para fallos a gran escala, se inician los procedimientos de gestión de continuidad de servicio.
   
-Para obtener más información sobre cómo protege Microsoft sus datos, vea [Centro de confianza de Office 365](https://go.microsoft.com/fwlink/p/?LinkId=299135). Si usa Office 365 ofrecido por 21Vianet, vea el [Centro de confianza de 21Vianet](http://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
+Para obtener más información sobre cómo protege Microsoft sus datos, vea [Centro de confianza de Office 365](https://go.microsoft.com/fwlink/p/?LinkId=299135). Si usa Office 365 ofrecido por 21Vianet, vea el [Centro de confianza de 21Vianet](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
   
 ## <a name="deleted-mailbox-recovery"></a>Recuperación de buzones eliminados
 

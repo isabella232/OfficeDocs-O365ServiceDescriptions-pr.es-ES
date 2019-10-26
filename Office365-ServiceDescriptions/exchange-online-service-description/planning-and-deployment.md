@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
-ms.openlocfilehash: a14963c135cd5e76ed8b609dddb7fc2b275fd478
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 6f920cbd0164acc3675bfd31799c2abf25d2b981
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582006"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733871"
 ---
 # <a name="planning-and-deployment"></a>Planificación e implementación
 
@@ -38,7 +38,7 @@ Una implementación basada solo en la nube es aquella en la que la organización
 
 Disponible para las organizaciones locales de Microsoft Exchange 2003, Exchange 2007, Exchange 2010 y Exchange 2013, una implementación híbrida ofrece una configuración de coexistencia a largo plazo con algunos buzones hospedados de forma local y otros en Exchange Online o una ruta de acceso de migración para hospedar todos los buzones de usuario en Exchange Online. Las implementaciones híbridas proporcionan a las organizaciones la capacidad para ampliar su experiencia con múltiples características y expandir el control administrativo que poseen con su organización local existente de Microsoft Exchange en la nube. Entre las características de la implementación híbrida se incluye el transporte de correo seguro, la información de disponibilidad de calendario compartida y el seguimiento de mensajes entre las organizaciones locales y de Exchange Online.
   
-Para obtener más información sobre las implementaciones híbridas, vea [Implementaciones híbridas de Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=287035). Si usa Office 365 ofrecido por 21Vianet, vea [Configurar las características de una implementación híbrida de Exchange con Office 365 ofrecido por 21Vianet](http://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
+Para obtener más información sobre las implementaciones híbridas, vea [Implementaciones híbridas de Exchange Server 2013](https://go.microsoft.com/fwlink/p/?LinkId=287035). Si usa Office 365 ofrecido por 21Vianet, vea [Configurar las características de una implementación híbrida de Exchange con Office 365 ofrecido por 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733373&amp;clcid=0x409).
   
 > [!IMPORTANT]
 > En las organizaciones locales de Exchange 2003 es necesario instalar como mínimo un servidor de buzones o de acceso de clientes de Exchange 2010 para configurar una implementación híbrida en Exchange Online. En las organizaciones locales de Exchange 2007 es necesario instalar como mínimo un servidor de buzones y de acceso de clientes de Exchange 2010 o Exchange 2013 para configurar una implementación híbrida en Exchange Online. Las organizaciones locales de Exchange 2010 y Exchange 2013 admiten las implementaciones híbridas de forma nativa con Exchange Online. Para obtener más información sobre la compatibilidad de Exchange Server en implementaciones híbridas, vea [Requisitos previos de la implementación híbrida](https://go.microsoft.com/fwlink/p/?LinkId=243541)> Es necesario configurar las organizaciones locales de Exchange para realizar una implementación híbrida. Recomendamos a los administradores que usen el asistente para la implementación de Exchange Server y el Asistente para la configuración híbrida para configurar la implementación híbrida. Para obtener más información, vea [Asistente para la implementación de Exchange Server](https://go.microsoft.com/fwlink/p/?LinkId=287036)

@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: En este tema, se describen las características relacionadas con los destinatarios que se incluyen con Microsoft Exchange Online. Incluye correo electrónico, contactos, grupos de distribución, calendarios y capacidades de programación.
-ms.openlocfilehash: c8f08e6d189c643e455c46c6703f9ea9b1038879
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 775d47e9a8db4e516f60bc98e9763f61becf5b70
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582136"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37734208"
 ---
-# <a name="recipients"></a>Destinatarios
+# <a name="recipients"></a>Recipients
 
 En este tema, se describen las características relacionadas con los destinatarios que se incluyen con Microsoft Exchange Online. Incluye correo electrónico, contactos, grupos de distribución, calendarios y capacidades de programación.
   
@@ -50,7 +50,7 @@ Los delegados pueden tener dos tipos de acceso:
     
 - **Permisos de Enviar como** El delegado puede enviar mensajes del buzón de correo de la otra persona como si fuera el propietario del buzón de correo. Este escenario es habitual cuando hay un buzón de correo compartido y varios empleados envían mensajes de correo electrónico desde dicho buzón de correo compartido en vez de hacerlo desde sus propias cuentas de Exchange Online. 
     
-Para obtener más información sobre cómo delegar acceso, consulte [Administrar permisos para destinatarios](https://technet.microsoft.com/en-us/library/jj919240%28v=exchg.160%29.aspx).
+Para obtener más información sobre cómo delegar acceso, consulte [Administrar permisos para destinatarios](https://technet.microsoft.com/library/jj919240%28v=exchg.160%29.aspx).
   
 ### <a name="inbox-rules"></a>Reglas de la bandeja de entrada
 
@@ -62,7 +62,7 @@ La característica Otros correos permite centrarse en los mensajes más importan
   
 ### <a name="connected-accounts"></a>Cuentas conectadas
 
-La característica cuentas conectadas permite a los usuarios de Exchange Online conectar cuentas de correo electrónico externas (como cuentas personales) a sus cuentas de correo electrónico internas en Exchange Online y, a continuación, usar Outlook en la web para interactuar con todos sus mensajes en un solo sitio. Las cuentas conectadas se sincronizan automáticamente al iniciar sesión en Outlook en la web; los usuarios también pueden sincronizar manualmente las cuentas desde Outlook en la Web. Los administradores pueden habilitar y deshabilitar esta característica para usuarios específicos o para todos los usuarios a través del [Centro de administración de Exchange](http://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409).
+La característica cuentas conectadas permite a los usuarios de Exchange Online conectar cuentas de correo electrónico externas (como cuentas personales) a sus cuentas de correo electrónico internas en Exchange Online y, a continuación, usar Outlook en la web para interactuar con todos sus mensajes en un solo sitio. Las cuentas conectadas se sincronizan automáticamente al iniciar sesión en Outlook en la web; los usuarios también pueden sincronizar manualmente las cuentas desde Outlook en la Web. Los administradores pueden habilitar y deshabilitar esta característica para usuarios específicos o para todos los usuarios a través del [Centro de administración de Exchange](https://go.microsoft.com/fwlink/?LinkID=785297&amp;clcid=0x409).
   
 ### <a name="inactive-mailboxes"></a>Buzones de correo inactivos
 
@@ -79,7 +79,7 @@ Para obtener más información, vea:
     
 - [Conservación local y retención por juicio](https://go.microsoft.com/fwlink/p/?LinkId=271746)
     
-- [Exhibición de documentos electrónicos en contexto](http://go.microsoft.com/fwlink/p/?LinkId=271747)
+- [Exhibición de documentos electrónicos en contexto](https://go.microsoft.com/fwlink/p/?LinkId=271747)
     
 ## <a name="contacts-and-distribution-groups"></a>Contactos y grupos de distribución
 
@@ -103,14 +103,14 @@ Exchange Online admite la personalización de listas de direcciones y Gal. Una G
 
 Un grupo de distribución (o una lista de distribución) es una recopilación de usuarios, contactos y otros grupos de distribución disponibles para todos los usuarios de una empresa. Los usuarios dirigen el correo electrónico al alias de un grupo de distribución para enviar mensajes a las personas del grupo. Los grupos de distribución son similares a los grupos de distribución personales que las personas crean en Outlook, sólo que sus listas de miembros están disponibles globalmente en la empresa. Los administradores crean grupos de distribución en el Centro de administración de Exchange. Los grupos también se pueden sincronizar con Exchange Online desde Active Directory local. Aparecen en la GAL de Outlook. Exchange Online admite capacidades de grupo de distribución avanzadas, incluyendo las descritas a continuación:
   
-- **Grupos de distribución restringidos** De forma predeterminada, todos los usuarios pueden enviar correos electrónicos a cualquier grupo de distribución. Los administradores pueden cambiar los permisos para permitir que personas concretas envíen correos electrónicos a un grupo concreto: por ejemplo, para disuadir de un uso inadecuado de listas de distribución grandes. Los administradores también pueden bloquear recursos externos para que no envíen correo electrónico a grupos de distribución para evitar el correo no deseado. Para los grupos de distribución que están sincronizados desde Active Directory local con la herramienta de sincronización de directorios, los atributos de la restricción se sincronizan automáticamente con la nube. Para obtener más información, consulte [Administrar grupos de distribución](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx).
+- **Grupos de distribución restringidos** De forma predeterminada, todos los usuarios pueden enviar correos electrónicos a cualquier grupo de distribución. Los administradores pueden cambiar los permisos para permitir que personas concretas envíen correos electrónicos a un grupo concreto: por ejemplo, para disuadir de un uso inadecuado de listas de distribución grandes. Los administradores también pueden bloquear recursos externos para que no envíen correo electrónico a grupos de distribución para evitar el correo no deseado. Para los grupos de distribución que están sincronizados desde Active Directory local con la herramienta de sincronización de directorios, los atributos de la restricción se sincronizan automáticamente con la nube. Para obtener más información, consulte [Administrar grupos de distribución](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
     
-- **Grupos de distribución dinámicos** La pertenencia a un grupo de distribución dinámico (también denominado lista de distribución dinámica o lista de distribución basada en consultas) se calcula cada vez que se envía un mensaje al grupo. Este cálculo se basa en filtros y en condiciones que define el administrador. Se administran en Exchange Online a través de Windows PowerShell remoto. Para obtener más información sobre grupos de distribución dinámica, consulte [Administrar grupos de distribución dinámica](https://technet.microsoft.com/EN-US/library/bb123722%28v=exchg.160%29.aspx).
+- **Grupos de distribución dinámicos** La pertenencia a un grupo de distribución dinámico (también denominado lista de distribución dinámica o lista de distribución basada en consultas) se calcula cada vez que se envía un mensaje al grupo. Este cálculo se basa en filtros y en condiciones que define el administrador. Se administran en Exchange Online a través de Windows PowerShell remoto. Para obtener más información sobre grupos de distribución dinámica, consulte [Administrar grupos de distribución dinámica](https://technet.microsoft.com/library/bb123722%28v=exchg.160%29.aspx).
     
     > [!IMPORTANT]
     > La herramienta de sincronización de directorios de Office 365 ignora los grupos de distribución dinámica en Active Directory local y no los sincroniza con Exchange Online. Las organizaciones que usen la herramienta de sincronización de directorios deberían usar una convención de nomenclatura que evite conflictos entre los grupos de distribución regular administrados localmente y los grupos de distribución dinámica administrados en Exchange Online. 
   
-- **Grupos de distribución moderados** Los administradores pueden seleccionar un moderador para regular el flujo de los mensajes a un grupo de distribución. Con los grupos de distribución moderados, todo el mundo puede enviar correo electrónico al alias del grupo de distribución, pero antes de que el mensaje se entregue a los miembros del grupo, un moderador debe revisarlo y aprobarlo. Para obtener más información sobre la moderación, consulte la sección Aprobación de mensajes en [Administrar grupos de distribución](https://technet.microsoft.com/EN-US/library/mt577270%28v=exchg.160%29.aspx).
+- **Grupos de distribución moderados** Los administradores pueden seleccionar un moderador para regular el flujo de los mensajes a un grupo de distribución. Con los grupos de distribución moderados, todo el mundo puede enviar correo electrónico al alias del grupo de distribución, pero antes de que el mensaje se entregue a los miembros del grupo, un moderador debe revisarlo y aprobarlo. Para obtener más información sobre la moderación, consulte la sección Aprobación de mensajes en [Administrar grupos de distribución](https://technet.microsoft.com/library/mt577270%28v=exchg.160%29.aspx).
     
 - **Grupos de distribución de autoservicio** Los administradores pueden otorgar a los usuarios la capacidad de administrar su propia pertenencia al grupo de distribución desde una interfaz basada en web. Los usuarios pueden dar permisos para crear, eliminar, unirse o dejar los grupos de distribución. Estas funcionalidades están habilitadas de forma predeterminada para todos los usuarios de Exchange Online. Los administradores pueden deshabilitarlas para que solo el departamento de TI pueda administrar los grupos de distribución, si le interesa. También pueden crear directivas de nomenclatura para estandarizar y administrar los nombres de los grupos de distribución que creen sus usuarios. Por ejemplo, pueden agregar un prefijo o sufijo concreto al nombre del grupo de distribución cuando se crea o bloquear el uso de palabras concretas en el nombre del grupo. 
     
@@ -121,7 +121,7 @@ Un grupo de distribución (o una lista de distribución) es una recopilación de
 
 Un contacto externo es un registro con información acerca de una persona que trabaja fuera de una organización concreta. Los contactos externos son similares a los grupos personales que las personas crean en Outlook, sólo que están disponibles globalmente en la empresa. Los administradores crean contactos externos con el Centro de administración de Exchange o Windows PowerShell remoto. Estos contactos también se pueden sincronizar con Exchange Online desde Active Directory local. Aparecen en la GAL de Outlook.
   
-Para obtener más información sobre contactos externos, consulte [Crear una relación de organización en Exchange Online](https://technet.microsoft.com/EN-US/library/jj916671%28v=exchg.150%29.aspx).
+Para obtener más información sobre contactos externos, consulte [Crear una relación de organización en Exchange Online](https://technet.microsoft.com/library/jj916671%28v=exchg.150%29.aspx).
   
 ## <a name="calendar-and-scheduling"></a>Calendario y programación
 
@@ -133,7 +133,7 @@ Los administradores crean buzones de correo de recursos mediante el Centro de ad
   
 Para obtener más información acerca de buzones de recursos, consulte:
   
-- [Creación y administración de buzones de sala](http://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
+- [Creación y administración de buzones de sala](https://go.microsoft.com/fwlink/?LinkId=717533&amp;clcid=0x409)
     
 - [Administrar buzones de equipamiento](https://go.microsoft.com/fwlink/?LinkId=717534)
     

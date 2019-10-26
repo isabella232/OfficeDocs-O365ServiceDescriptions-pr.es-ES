@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Las siguientes características de administración de cartera están disponibles en Project online.
-ms.openlocfilehash: 2a415584b186ed9734688447ef9fcffac8011bcb
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 37ab7a0f3094100bf68d895769f00b4e33fd712d
+ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633747"
+ms.lasthandoff: 10/26/2019
+ms.locfileid: "37733881"
 ---
 # <a name="portfolio-management"></a>Administración de carteras
 
@@ -25,11 +25,11 @@ Las siguientes características de administración de cartera están disponibles
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analizar proyectos y optimizar la cartera
 
-Analice sus proyectos para determinar cuál de ellos le ofrecerá el mejor rendimiento de su inversión tanto para el presupuesto como para los recursos. Este proceso se conoce como análisis de cartera. Para más información, vea [Use the portfolio analysis scatter chart (Usar el gráfico de dispersión de análisis de cartera)](http://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409).
+Analice sus proyectos para determinar cuál de ellos le ofrecerá el mejor rendimiento de su inversión tanto para el presupuesto como para los recursos. Este proceso se conoce como análisis de cartera. Para más información, vea [Use the portfolio analysis scatter chart (Usar el gráfico de dispersión de análisis de cartera)](https://go.microsoft.com/fwlink/?LinkID=823665&amp;clcid=0x409).
   
 ## <a name="create-and-edit-projects"></a>Crear y editar proyectos
 
-Cree proyectos de varias maneras. Para más información, vea [Crear un proyecto en Project Web App](http://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409).
+Cree proyectos de varias maneras. Para más información, vea [Crear un proyecto en Project Web App](https://go.microsoft.com/fwlink/?LinkID=746895&amp;clcid=0x409).
   
 ## <a name="enterprise-resource-management"></a>Administración de recursos de empresa
 
