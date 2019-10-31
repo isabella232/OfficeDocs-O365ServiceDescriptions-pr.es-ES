@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 admite los siguientes métodos para crear, administrar y autenticar usuarios.
-ms.openlocfilehash: bd6e701c8ff4c699d305bfcde8a68e1867dd0bb2
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: b3a63d244c7a7993b6e5a9e120ae1bbe03074239
+ms.sourcegitcommit: d771dd300ab9b4bf51a8868143f77973dad58ea9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631659"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37890059"
 ---
 # <a name="user-account-management"></a>Administración de cuentas de usuario
 
@@ -64,9 +64,9 @@ Para más información acerca de los dominios en Office 365, vea la descripción
 
 A excepción de los sitios de Internet para acceso anónimo creados con SharePoint Online, los usuarios deben autenticarse cuando tengan acceso a los servicios de Office 365. 
   
-- **Autenticación moderna** La autenticación moderna lleva el inicio de sesión basado en ADAL para la autenticación de bibliotecas de Active Directory a las aplicaciones de cliente de Office en distintas plataformas. De esta forma se habilitan las características de inicio de sesión, como la autenticación multifactor (MFA), los proveedores de identidad de terceros basada en SAML con aplicaciones de cliente de Office, y la autenticación basada en certificados y la tarjeta inteligente. También elimina la necesidad de que Microsoft Outlook use el protocolo de autenticación básica. Para obtener más información, incluida la disponibilidad de la autenticación moderna en distintas aplicaciones de Office, consulte [Cómo funciona la autenticación moderna para las aplicaciones de cliente de Office 2013 y Office 2016](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016) y [Uso de la autenticación moderna de Office 365 con clientes de Office](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016).
+- **Autenticación moderna** La autenticación moderna lleva el inicio de sesión basado en ADAL para la autenticación de bibliotecas de Active Directory a las aplicaciones de cliente de Office en distintas plataformas. De esta forma se habilitan las características de inicio de sesión, como la autenticación multifactor (MFA), los proveedores de identidad de terceros basada en SAML con aplicaciones de cliente de Office, y la autenticación basada en certificados y la tarjeta inteligente. También elimina la necesidad de que Microsoft Outlook use el protocolo de autenticación básica. Para obtener más información, incluida la disponibilidad de la autenticación moderna en las aplicaciones de Office, vea [Cómo funciona la autenticación moderna para las aplicaciones cliente de office 2013 y office 2016](https://docs.microsoft.com/office365/enterprise/modern-auth-for-office-2013-and-2016).
     
-    La autenticación moderna no está activada de forma predeterminada para Exchange Online. Para obtener información sobre cómo activarla, consulte [Habilitar Exchange Online para la autenticación moderna](https://docs.microsoft.com/Exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
+    La autenticación moderna está activada de forma predeterminada para Exchange Online. Para obtener información sobre cómo activarla o desactivarla, consulte [Habilitar la autenticación moderna en Exchange Online](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online).
     
 - **Autenticación de identidad de nube** Los usuarios con identidades de nube se autentican mediante el sistema de desafío/respuesta tradicional. El explorador web se redirecciona al servicio de inicio de sesión de Office 365, donde se escribe el nombre de usuario y la contraseña de la cuenta profesional o educativa. El servicio de inicio de sesión autentica las credenciales y genera un token de servicio, que el explorador web publica en el servicio solicitado e inicia su sesión. 
     
