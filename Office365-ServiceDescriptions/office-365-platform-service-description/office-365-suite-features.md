@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Las características enumeradas en este tema son una colección de herramientas basadas en Web que le ayudarán a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
-ms.openlocfilehash: b1bde5cfb39ed5c01251fdb7646402c0a01bef4b
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: f0d006b485792b70f58305cb5d2b0d84ee8c5e0f
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734118"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911713"
 ---
 # <a name="office-365-suite-features"></a>Características del conjunto de aplicaciones de Office 365
 
@@ -55,7 +55,7 @@ Microsoft PowerApps es un servicio de empresa que le ayuda a construir, integrar
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub es una aplicación basada en la nube que permite a los trabajadores y administradores utilizan sus dispositivos móviles para administrar agendas y mantenerse en contacto. Los empleados pueden utilizar StaffHub para solicitar tiempo libre, cambiar turnos y comunicarse con otros empleados. Los empleados también pueden enviar mensajes directamente entre sí o a todo el equipo. Los administradores pueden utilizar StaffHub para enviar mensajes, crear agendas y enviar anuncios de la empresa y noticias de equipo. Para obtener más información acerca de StaffHub, vaya al sitio web de [Microsoft StaffHub ](https://staffhub.office.com/) y el [blog del equipo de Office 365](https://blogs.office.com/2017/01/12/microsoft-staffhub-is-here/).
+Microsoft StaffHub es una aplicación basada en la nube que permite a los trabajadores y administradores utilizan sus dispositivos móviles para administrar agendas y mantenerse en contacto. Los empleados pueden utilizar StaffHub para solicitar tiempo libre, cambiar turnos y comunicarse con otros empleados. Los empleados también pueden enviar mensajes directamente entre sí o a todo el equipo. Los administradores pueden utilizar StaffHub para enviar mensajes, crear agendas y enviar anuncios de la empresa y noticias de equipo. Para obtener más información acerca de StaffHub, vaya al sitio web de [Microsoft StaffHub ](https://staffhub.office.com/) y el [blog del equipo de Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/).
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -79,7 +79,7 @@ Los grupos de Office 365 conectan a los usuarios con los compañeros, la informa
   
 ## <a name="office-365-video"></a>Office 365 Video
 
-Office 365 Video es un destino seguro para toda la compañía donde puede cargar, compartir y descubrir los vídeos en sus dispositivos, con tecnología de Microsoft Azure Media Services. Office 365 Video puede ayudar a mantener a los usuarios atentos e informados, a difundir ideas y hacer que las organizaciones actúen de forma conjunta. Para obtener más información, vea [Introducción a Office 365 Video](https://blogs.office.com/2014/11/18/introducing-office-365-video/).
+Office 365 Video es un destino seguro para toda la compañía donde puede cargar, compartir y descubrir los vídeos en sus dispositivos, con tecnología de Microsoft Azure Media Services. Office 365 Video puede ayudar a mantener a los usuarios atentos e informados, a difundir ideas y hacer que las organizaciones actúen de forma conjunta. Para obtener más información, vea [Introducción a Office 365 Video](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/18/introducing-office-365-video/).
   
 ## <a name="onenote-class-notebook"></a>Bloc de notas de clase de OneNote
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany es una opción diferenciada de los servicios de Office 365 que ya están disponibles en Europa. Ayuda a satisfacer las necesidades de los clientes más regulados en Alemania, la Unión Europea (UE) y la Asociación Europea de libre comercio (AELC), ofreciendo nuestros servicios de productividad líderes en el sector para el trabajo digital, desde los centros de datos alemanes, con la residencia de datos. en Alemania y estrictas medidas de control y acceso a datos a través de un único modelo de confianza de datos regulado por la legislación alemana.
-ms.openlocfilehash: 0c4efa563c856a804bf0cf3137c653e94f39dc87
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 25487d7219deaa92ebbff944e016fbd46cc75cce
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734268"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911813"
 ---
 # <a name="office-365-germany"></a>Office 365 Alemania
 
@@ -337,7 +337,7 @@ En la tabla siguiente se proporcionan vínculos a comparaciones de Office para l
 
 ||||
 |:-----|:-----|:-----|
-|**Aplicación**|**Office para la Web**|**Vínculo a una comparación de características detallada**|
+|**Application**|**Office para la Web**|**Vínculo a una comparación de características detallada**|
 |Word|Word para la web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para la web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote para la web|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -350,7 +350,7 @@ En la siguiente tabla se enumeran las características de Exchange Online que es
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|**[Planificación e implementación](../exchange-online-service-description/planning-and-deployment.md)**|||||||||
+|**[Planeación e implementación](../exchange-online-service-description/planning-and-deployment.md)**|||||||||
 |Implementación híbrida admitida<sup>1</sup>|Sí<sup>2</sup>|Sí|Sí<sup>2</sup>|Sí|Sí|Sí|Sí|Sí|
 |Admite migración IMAP|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Admite la migración total|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -381,7 +381,7 @@ En la siguiente tabla se enumeran las características de Exchange Online que es
 |Cuarentena: gestión de administradores|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>8</sup>|
 |Cuarentena: autoadministración de usuarios finales|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Protección contra amenazas avanzada|No|--|No|No|No|No|Sí|No|
-|**[Flujo del correo](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Flujo de correo](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Enrutamiento personalizado de correo saliente|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Secure messaging with a trusted partner|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Conditional mail routing|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -765,7 +765,7 @@ En la siguiente tabla se enumera la opción independiente de OneDrive para la Em
 |Sitio personal|Sí|Sí|Sí|Sí|
 |Fotos y presencia|Sí|Sí|Sí|Sí|
 |Perfil|Sí|Sí|Sí|Sí|
-|Valoraciones|Sí|Sí|Sí|Sí|
+|Ratings|Sí|Sí|Sí|Sí|
 |Shared with Me|Sí|Sí|Sí|Sí|
 |[Fuente de sitio (sitio de grupo clásico con SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|No|No|Sí|Sí|
 |OneDrive para la Empresa|Sí|Sí|Sí|Sí|
@@ -786,7 +786,7 @@ En la siguiente tabla se enumera la opción independiente de OneDrive para la Em
 
 ## <a name="project-online-features"></a>Características de Project Online
 
-En la siguiente tabla se enumeran las características de Project Online que están disponibles en los planes de Office 365 Germany. Para obtener más información sobre Project Online, vea [Introducción a Project Online](https://blogs.office.com/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+En la siguiente tabla se enumeran las características de Project Online que están disponibles en los planes de Office 365 Germany. Para obtener más información sobre Project Online, vea [Introducción a Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
 
 ||||
 |:-----|:-----|:-----|
@@ -1025,7 +1025,7 @@ Todos los planes de Office 365 incluyen el servicio de SharePoint Online, pero t
 |Sitio personal|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Fotos y presencia|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Perfil|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Valoraciones|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Ratings|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Shared with Me|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |[Fuente de sitio (sitio de grupo clásico con SharePoint social)](../sharepoint-online-service-description/social.md#site-feed-classic-team-site-using-sharepoint-social)|Sí|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |OneDrive para la Empresa|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>2</sup>|

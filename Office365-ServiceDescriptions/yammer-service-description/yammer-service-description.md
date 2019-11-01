@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer es la mejor red social de su clase, segura y privada empresarial. Yammer faculta a los empleados para que sean más productivos y exitosos, ya que les permite colaborar fácilmente, tomar decisiones con mayor rapidez y organizarse a sí mismos en Teams para realizar cualquier desafío de la empresa. Se trata de una nueva forma de trabajar que lógicamente impulsa la alineación y la agilidad de los negocios, reduce los tiempos de ciclo, implica a los empleados y mejora las relaciones con clientes y socios.
-ms.openlocfilehash: 37fa62a9a4538da8fe37e0b3a6daedd29db5c27c
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: b6d6d5edad8a0136ef285ffe87b89addfdbc20b6
+ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733581"
+ms.lasthandoff: 10/31/2019
+ms.locfileid: "37911833"
 ---
 # <a name="yammer-service-description"></a>Descripción del servicio Yammer
 
@@ -49,7 +49,7 @@ Yammer está disponible con los siguientes planes:
 ## <a name="yammer-enterprise-service-communications-policy"></a>Directiva de comunicaciones de servicio de Yammer Enterprise
 <a name="YammerCommsPolicy"> </a>
 
-Yammer es una parte de Office 365 y se adhiere a la [Directiva de administración de cambios de office 365](https://blogs.office.com/2015/05/05/manage-change-and-stay-informed-in-office-365/), pero no usa la versión dirigida para distribuir actualizaciones. 
+Yammer es una parte de Office 365 y se adhiere a la [Directiva de administración de cambios de office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2015/05/05/manage-change-and-stay-informed-in-office-365/), pero no usa la versión dirigida para distribuir actualizaciones. 
   
 Todos los usuarios de Yammer están sujetos a pruebas A/B de las características. Esto permite a Microsoft probar mejoras en estabilidad, rendimiento y experiencia de las características en muchos entornos y dispositivos. Los usuarios que están en la misma red pueden tener distintas experiencias debido a las pruebas. Los clientes no puedan anular las pruebas A/B.
   
