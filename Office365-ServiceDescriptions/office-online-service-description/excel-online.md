@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: 3c488355bacfed4086f18bc8626126c8bac85b20
-ms.sourcegitcommit: d015349e4d611c28f8b44d44adea911357ab2d34
+ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
+ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/23/2019
-ms.locfileid: "37637257"
+ms.lasthandoff: 11/07/2019
+ms.locfileid: "38020267"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
@@ -150,7 +150,7 @@ Arrastre el Controlador de relleno que se encuentra en la esquina inferior derec
   
 ## <a name="find"></a>Buscar
 
-Busque el contenido de celdas en la hoja de cálculo activa. Un cuadro de diálogo fácil de usar permite realizar búsquedas hacia arriba o hacia abajo de la selección actual en la hoja de cálculo.
+Busque el contenido de celdas en la hoja de cálculo activa. Un cuadro de diálogo fácil de usar permite buscar hacia arriba o hacia abajo en la selección actual de la hoja de cálculo. **Buscar todo** permite resaltar todas las instancias del término de búsqueda.
   
 ## <a name="font-and-cell-formatting"></a>Fuente y formato de celda
 
@@ -284,7 +284,7 @@ No está disponible en Excel para la Web. Si la aplicación de escritorio de Exc
 
 ¿Desea tener su propia copia del libro? Utilice el comando Guardar como ubicado en la ficha Archivo o haga clic con el botón secundario en el nombre del libro de su carpeta y utilice el comando Descargar para enviar una copia a su equipo.
   
-## <a name="share"></a>Compartir
+## <a name="share"></a>Share
 
 Proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre cómo [usar Office para la web para trabajar juntos en office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
