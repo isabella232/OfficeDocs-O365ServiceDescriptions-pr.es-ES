@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no se pueden configurar a menos que se especifique lo contrario.
-ms.openlocfilehash: 8d2d51a158376eb6a2f72bcdaa2ae6e351865d7e
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 0f23106f1f40f4a121ac260b07a83cdf38b7a9eb
+ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581475"
+ms.lasthandoff: 11/12/2019
+ms.locfileid: "38289780"
 ---
 # <a name="exchange-online-protection-limits"></a>Límites de Exchange Online Protection
 
@@ -54,7 +54,7 @@ Los siguientes límites existen actualmente para Exchange Online Protection. Est
 |Límite de remitentes seguros  <br/> |1024 entradas  <br/> |1024 entradas  <br/> ||
 |Límite de remitentes bloqueados por directiva  <br/> |1024 entradas  <br/> |1024 entradas  <br/> ||
 |Límite de listas de direcciones IP permitidas o bloqueadas  <br/> |1.273 entradas  <br/> |1.273 entradas  <br/> |1.273 entradas  <br/> |
-|Límite de aplazamiento de mensajes  <br/> |2 días, se vuelve a intentar cada 15 minutos  <br/> |2 días, se vuelve a intentar cada 15 minutos  <br/> |2 días, se vuelve a intentar cada 15 minutos  <br/> |
+|Límite de aplazamiento de mensajes  <br/> |1 día, reintentando cada 15 minutos  <br/> |1 día, reintentando cada 15 minutos  <br/> |1 día, reintentando cada 15 minutos  <br/> |
 |Período de retención en cuarentena de correo no deseado  <br/> |30 días de forma predeterminada, pero se puede reducir  <br/> |30 días de forma predeterminada, pero se puede reducir  <br/> |30 días de forma predeterminada, pero se puede reducir  <br/> |
 |Notificaciones de cuarentena de correo no deseado de usuario final  <br/> |3 días de manera predeterminada, configurable de 1 a 15 días  <br/> |3 días de manera predeterminada, configurable de 1 a 15 días  <br/> |3 días de manera predeterminada, configurable de 1 a 15 días  <br/> |
    
