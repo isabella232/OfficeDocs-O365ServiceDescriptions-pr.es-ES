@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades de gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government – DoD es apropiado para cumplir con estos requisitos.
-ms.openlocfilehash: 27f51c80b4d19f2ca42f0dc7f8b25c93d39dd5ca
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 5356c019351108478c6fd27af3fa451dd2ec036a
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890532"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319488"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Planeación para Microsoft 365 Compliance-implementaciones de DoD
 
@@ -59,15 +58,15 @@ Le recomendamos que tenga tiempo para revisar minuciosamente la configuración d
 
 **Punto de decisión**: *decida si va a modificar cualquiera de los valores predeterminados de la configuración de seguridad de Microsoft 365 Government-DOD, resolviendo para comprender primero el impacto de los cambios que puede realizar.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dod"></a>Paso 4. Comprender las funcionalidades que actualmente no están disponibles o deshabilitadas de forma predeterminada en Microsoft 365 Government – DoD
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Paso 4. Conocer las funcionalidades que actualmente no están disponibles o deshabilitadas de forma predeterminada en Microsoft 365 Government – DoD<sup>1</sup>
 
 Para cumplir los requisitos de nuestros clientes de la nube de administración pública, existen algunas diferencias entre los planes de Microsoft 365 Government-Enterprise. Consulte la tabla siguiente para ver las características que están disponibles.
 
 
 |         |Característica  |Estado DoD  |
 |---------|---------|---------|
-|**Protección de la información & gobernanza** | Archivado                                      |  Disponible             |
-|                                        |Etiquetas y directivas manuales                      |  Disponible             |
+|**Protección de la información & gobernanza** |Archivado                                       |  Disponible             |
+|                                        |Etiquetas y directivas manuales<sup>2</sup>          |  Disponible             |
 |                                        |Aplicación automática de etiquetas                      | Sobre el trabajo pendiente de ingeniería |
 |                                        |Etiquetas basadas en tipos de datos confidenciales            | Sobre el trabajo pendiente de ingeniería |
 |                                        |Etiquetas y directivas asociadas basadas en consultas | Sobre el trabajo pendiente de ingeniería |
@@ -80,7 +79,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                        |Prevención de pérdida de datos (DLP) para archivos y correo electrónico  | Disponible              |
 |                                        |DLP para las conversaciones de canales y chat de Microsoft Teams    | Sobre el trabajo pendiente de ingeniería |
 |**Administración de riesgos de Insider**             |Cifrado de mensajes avanzado                     | Disponible              |
-|                                        |Cumplimiento de la comunicación                        | Sobre el trabajo pendiente de ingeniería |
+|                                        |Cumplimiento con la comunidad                        | Sobre el trabajo pendiente de ingeniería |
 |                                        |Caja de seguridad del cliente                                | Disponible              |
 |                                        |Clave del cliente                                    | Disponible              |
 |                                        |Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
@@ -106,5 +105,9 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                        |Revisión y anotaciones                             | Sobre el trabajo pendiente de ingeniería |
 |                                        |Recopilación no de Office 365                        | Sobre el trabajo pendiente de ingeniería |
 |                                        |Informe de términos de búsqueda                              | Sobre el trabajo pendiente de ingeniería |
+
+<sup>1</sup> el estado identificado está sujeto a cambios a medida que se reevalúan los planes y las prioridades de los proyectos.<br/>
+<sup>2</sup> la aplicación manual de etiquetas requiere el [cliente de Azure Information Protection (AIP) versión 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).
+
 
 **Punto de decisión**: *decida si las características de cumplimiento satisfacen las necesidades de su organización.*

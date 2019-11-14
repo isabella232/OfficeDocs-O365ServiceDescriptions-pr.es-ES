@@ -8,14 +8,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-ROBOTS: NOINDEX, NOFOLLOW
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades de gobierno de Estados Unidos, estado, locales, tribal o entidades gubernamentales u otras entidades que manejan datos sujetos a los requisitos y las regulaciones gubernamentales, donde el uso de Microsoft 365 Government-GCC es apropiado para cumplir con estos requisitos.
-ms.openlocfilehash: 50649287df37afe20b58f98333a10bc7885b417d
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
+ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890531"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38319498"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planeación de cumplimiento de Microsoft 365: GCC
 
@@ -62,14 +61,14 @@ Le recomendamos que tenga tiempo para revisar minuciosamente la configuración d
 
 **Punto de decisión**: *decida si va a modificar cualquiera de las configuraciones de seguridad predeterminadas de Microsoft 365 Government-GCC, que se resuelven para comprender primero el impacto de los cambios que puede realizar.*
 
-## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc"></a>Paso 4. Comprender las funcionalidades que actualmente no están disponibles o deshabilitadas de forma predeterminada en Microsoft 365 Government – GCC
+## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Paso 4. Conocer las funcionalidades que actualmente no están disponibles o deshabilitadas de forma predeterminada en Microsoft 365 Government – GCC<sup>1</sup>
 
 Para cumplir los requisitos de nuestros clientes de la nube de administración pública, existen algunas diferencias entre los planes de Microsoft 365 gubernamentales-GCC y Enterprise. Consulte la tabla siguiente para ver las características que están disponibles.
 
 |                                         | **Característica**                                     | **Estado GCC**         |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Protección de la información & gobernanza** | Archivado                                       | Disponible              |
-|                                         | Etiquetas y directivas manuales                      | Disponible              |
+|                                         | Etiquetas y directivas manuales<sup>2</sup>          | Disponible              |
 |                                         | Aplicación automática de etiquetas                      | Sobre el trabajo pendiente de ingeniería |
 |                                         | Etiquetas basadas en tipos de datos confidenciales            | Sobre el trabajo pendiente de ingeniería |
 |                                         | Etiquetas y directivas asociadas basadas en consultas | Sobre el trabajo pendiente de ingeniería |
@@ -80,9 +79,9 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Revisión de disposición                              | Sobre el trabajo pendiente de ingeniería |
 |                                         | Barreras de información                            | Disponible              |
 |                                         | Prevención de pérdida de datos (DLP) para archivos y correo electrónico  | Disponible              |
-|                                         | DLP para las conversaciones de canales y chat de Microsoft Teams    | Disponible              |
+|                                         | DLP para las conversaciones de canales y chat de Microsoft Teams    | Sobre el trabajo pendiente de ingeniería |
 | **Administración de riesgos de Insider**             | Cifrado de mensajes avanzado                     | Disponible              |
-|                                         | Cumplimiento de la comunicación                        | Sobre el trabajo pendiente de ingeniería |
+|                                         | Cumplimiento con la comunidad                        | Sobre el trabajo pendiente de ingeniería |
 |                                         | Caja de seguridad del cliente                                | Disponible              |
 |                                         | Clave del cliente                                    | Disponible              |
 |                                         | Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
@@ -109,5 +108,9 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Revisión y anotaciones                             | Sobre el trabajo pendiente de ingeniería |
 |                                         | Recopilación no de Office 365                        | Sobre el trabajo pendiente de ingeniería |
 |                                         | Informe de términos de búsqueda                              | Sobre el trabajo pendiente de ingeniería |
+
+<sup>1</sup> el estado identificado está sujeto a cambios a medida que se reevalúan los planes y las prioridades de los proyectos.<br/>
+<sup>2</sup> la aplicación manual de etiquetas requiere el [cliente de Azure Information Protection (AIP) versión 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).
+
 
 **Punto de decisión**: *decida si las características de cumplimiento satisfacen las necesidades de su organización.*
