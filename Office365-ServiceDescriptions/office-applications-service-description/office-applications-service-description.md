@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 es un servicio de suscripción que proporciona la última versión de las aplicaciones de escritorio de Office con las que ya está familiarizado, como Word, Excel y PowerPoint.
-ms.openlocfilehash: 75e30d76c2d5d8017af3785039849b1770a937fc
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 0e46e857f1c43d4a488ef3a6874263e7a954eef0
+ms.sourcegitcommit: 1255382e878b3223a01477c48676e0d6a8bfe07d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911823"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38748984"
 ---
 # <a name="office-applications-service-description"></a>Descripción del servicio de aplicaciones de Office
 
@@ -97,7 +97,7 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 <sup>3</sup> Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM admitidas.<br/>
 <sup>4</sup> si tiene Office Professional Plus 2013 o una versión independiente de Excel 2013, puede descargar y usar la [vista previa de Power Map para Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) como un complemento no compatible.<br/> 
 <sup>5</sup> Skype empresarial Basic está disponible para todos los clientes. El cliente de escritorio de Skype Empresarial es una aplicación instalada localmente que proporciona funciones de presencia, de mensajería instantánea y de conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus y Office 365 Enterprise E3 incorporan la aplicación de Skype completa, que proporciona características adicionales, incluida la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. Debe asignarse una licencia de Skype Empresarial Online a cada usuario. Para obtener una comparación de las características y capacidades, consulte [tablas de comparación de clientes de escritorio de Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
-<sup>6</sup> algunas escuelas son aptas para educación Plus, que incluye Office 365 ProPlus, y permite que los estudiantes, los profesores y el personal instalen la última versión de Office en un máximo de cinco equipos PC o Mac y en otros dispositivos móviles, como tabletas Windows y el dispositivos. Las escuelas pueden optar a Office 365 Educación Plus cuando conceden una licencia de Office en toda la institución para los profesores y el personal a través de la inscripción en soluciones educativas, soluciones educativas Open Value Subscription o un contrato para escuelas. Tenga en cuenta que Access y Publisher solo están disponibles en PC. OneNote para Mac está disponible como descarga independiente en Mac App Store. <br/>
+<sup>6</sup> algunas escuelas son aptas para educación Plus, que incluye Office 365 ProPlus, y permite a los estudiantes, los profesores y el personal instalar la última versión de Office en un máximo de cinco equipos PC o Mac y en otros dispositivos móviles, como tabletas Windows y iPad. Las escuelas pueden optar a Office 365 Educación Plus cuando conceden una licencia de Office en toda la institución para los profesores y el personal a través de la inscripción en soluciones educativas, soluciones educativas Open Value Subscription o un contrato para escuelas. Tenga en cuenta que Access y Publisher solo están disponibles en PC. OneNote para Mac está disponible como descarga independiente en Mac App Store. <br/>
 <sup>7</sup> se puede instalar Office para Mac 2011, pero no activarlo. <br/>
 <sup>8</sup> Office 365 ProPlus es compatible con la infraestructura de escritorio virtual dedicada del usuario (VDI). Office 365 ProPlus solo admite servicios de escritorio remoto (RDS) cuando se compra a través de un programa de licencias por volumen.<br/>
 <sup>9</sup> la activación por volumen para Office 365 Enterprise E3 y Office 365 ProPlus se limitan a instalaciones en Windows Server 2008 R2 y versiones posteriores con el rol RDS habilitado o instalaciones de Windows to go. En cualquier caso, los usuarios que tienen acceso a estas instalaciones deben ser usuarios con licencia de Office 365 Enterprise E3 o Office 365 ProPlus.<br/> 
@@ -126,3 +126,88 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 > <sup>1</sup> Office 2016 para Mac requiere Mac OS X 10,10 o posterior. Para los clientes que se conectan a Exchange a través de Outlook para Mac, se requiere la conectividad de Microsoft Exchange Server 2010 Service Pack 2 o posterior. Para obtener más información, vea [Requisitos del sistema de Office](https://products.office.com/en-US/office-system-requirements).<br/>
 <sup>2</sup> Disponible como descarga independiente en la Tienda de aplicaciones. Para obtener más información, consulte el artículo [OneNote for Mac (OneNote para Mac)](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
 <sup>3</sup> se puede instalar Office para Mac 2011, pero no activarlo.
+
+## <a name="office-application-and-feature-availability-in-government-plans"></a>Disponibilidad de características y aplicaciones de Office en los planes gubernamentales
+
+Las siguientes aplicaciones de Office están disponibles en las nubes gubernamentales; sin embargo, es posible que algunas funciones basadas en la nube no estén disponibles actualmente, como se indica en la tabla.
+
+|||||
+|-----|-----|-----|-----|
+|**Aplicaciones de Office** | **GCC** | **GCC High** | **REQUISITO** |
+|**[Microsoft Excel](office-applications.md#microsoft-excel)** está completamente disponible en las nubes gubernamentales, con la excepción de las siguientes características que no están disponibles en este momento:| Sí | Sí | Sí |
+|animaciones 3D incrustadas y modelos 3D | No | No | No |
+|Tipos de datos | No | No | No |
+|Relleno rápido  | No | No | No |
+|Ideas (servicios de conocimientos) | No | No | No |
+|Integración mejorada con PowerBI (objetos visuales personalizados, crear gráficos PBI directamente desde Excel) | No | No | No |
+|Tinta digital inteligente | No | No | No |
+|Grupos de Office 365 | No | No | No |
+|Datos de gráficos dinámicos conectados a tablas dinámicas | No | No | No |
+|PowerPivot | No | No | No |
+|Publicar en PowerBI | No | No | No |
+|Colaboración en tiempo real (presencia, coautoría normal, chat dentro del documento) | No | No | No |
+|Shared with Me | No | No | No |
+|Búsqueda inteligente | No | No | No |
+|Gráficos: ráfaga solar, Treemap, cascada, histograma, mapas, escala de tiempo, embudo | No | No | No |
+|Historial de versiones| No | No | No | 
+|**Microsoft Forms** está completamente disponible en las nubes gubernamentales, con la excepción de las siguientes características que no están disponibles en este momento: | Sí | Sí | No |
+|Notificación de correo electrónico | No<sup>1</sup> | No<sup>1</sup> | No |
+|Insertar una imagen | No<sup>1</sup> | No<sup>1</sup> | No |
+|Insertar un vídeo | No<sup>1</sup> | No<sup>1</sup> | No |
+|Matemáticas | No<sup>1</sup> | No<sup>1</sup> | No |
+|Integración con Office | No<sup>1</sup> | No<sup>1</sup> | No |
+|Formularios de grupo más recientes | No<sup>1</sup> | No<sup>1</sup> | No |
+|Uso compartido externo |Sí | No | No |
+|**[Microsoft OneNote](office-applications.md#microsoft-onenote)** está completamente disponible en las nubes gubernamentales, con la excepción de las siguientes características que no están disponibles en este momento:| Sí | Sí | Sí |
+|Investigador | No | No | No |
+|Tinta digital inteligente | No | No | No |
+|**[Microsoft Outlook](office-applications.md#microsoft-outlook)** está completamente disponible en las nubes gubernamentales, con la excepción de las siguientes características que no están disponibles en este momento:| Sí | Sí | Sí |
+|Sonidos de Office (algunos) | No | No | No |
+|DDE deshabilitado de forma predeterminada  | No | No | No |
+|Dictado | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|**[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint)** está completamente disponible en las nubes gubernamentales, con la excepción de las siguientes características que no están disponibles en este momento:| Sí | Sí | Sí |
+|Búsqueda inteligente | No | No | No |
+|Sonidos de Office (algunos) | No | No | No |
+|modelos 3D y animaciones incrustadas en 3D | No | No | No |
+Gráficos: mapas | No | No | No |
+|Tinta digital inteligente | No | No | No |
+|Subtítulos en directo & subtítulos en PowerPoint | No | No | No |
+|Autocar del moderador | No | No | No |
+|Shared with Me| No | No | No |
+|Integración de Skype empresarial con uso compartido| No | No | No |
+|Historial de versiones | No | No | No |
+|Grupos de Office 365 | No | No | No |
+|Colaboración en tiempo real (presencia, coautoría normal, chat dentro del documento) | No | No | No |
+|Dictado | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|La **pizarra de Microsoft** en nubes gubernamentales solo está disponible actualmente en los clientes concentradores y no en el escritorio. | Sí<sup>2</sup> | Sí<sup>2</sup> | Sí<sup>2</sup> |
+|Insertar notas rápidas, texto e imágenes |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
+|Entrada de lápiz a forma y de entrada de lápiz a tabla |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
+|Beautification de entrada de lápiz |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
+|Convertir la imagen en tinta |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
+|Comprobador de accesibilidad |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
+|Plantillas dinámicas (KANBAN, DAFO, etc.) | No | No | No |
+|Colaboración en tiempo real | No | No | No |
+|Presencia en tiempo real | No | No | No |
+|Reacciones sobre el contenido | No | No | No |
+|Galería de pizarras, incluidos los compartidos | No | No | No |
+|**[Microsoft Word](office-applications.md#microsoft-word)** está completamente disponible en las nubes gubernamentales, con la excepción de las siguientes características que no están disponibles en este momento:| Sí | Sí | Sí |
+|Búsqueda inteligente | No | No | No |
+|Investigador | No | No | No |
+|Sonidos de Office | No | No | No |
+|modelos 3D | No | No | No |
+|animaciones incrustadas en 3D | No | No | No |
+|Pulsar | No | No | No |
+|Asistente para currículum vítae | No | No | No |
+|Gráficos de mapa | No | No | No |
+|Tinta digital inteligente | No | No | No |
+|Shared with Me | No | No | No |
+|Translation | No | No | No |
+|Integración de Skype empresarial con uso compartido | No | No | No |
+|Historial de versiones | No | No | No |
+|Grupos de Office 365 | No | No | No |
+|Chat contextual con coautores: charle con coautores en el documento | No | No | No |
+|Dictado| No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+
+> [!NOTE]
+> <sup>1</sup> disponible en diciembre de 2019. <br/>
+> <sup>2</sup> disponible en Surface Hub local (no conectado).
