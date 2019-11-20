@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro de seguridad &amp; y cumplimiento de Office 365 está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: 7f4aae6b65a81c682e2f27576cb3a65bbd9a0a5a
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 20a80d2c02155fa0f648d5027028ebe173bce020
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633451"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724758"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -28,7 +28,7 @@ El [centro de seguridad &amp; y cumplimiento de Office 365](https://docs.microso
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US Government G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Administración Pública de EE. UU. G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 US Government, F1** <br/> |
+|**Característica** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US Government G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 US Government, F1** <br/> |
 |[Acceso al centro de &amp; seguridad y cumplimiento](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Administración de amenazas](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) , como filtrado de correo y antimalware  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -36,7 +36,7 @@ El [centro de seguridad &amp; y cumplimiento de Office 365](https://docs.microso
 |[Caja de seguridad del cliente](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Administración de dispositivos móviles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la empresa](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup><br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|[Prevención de pérdida de datos para mensajes de chat y canales de Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/>|
+|[Prevención de pérdida de datos para mensajes de chat y canales de Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/>|
 |[Etiquetas de sensibilidad](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | No <br/>| No <br/> | No <br/>| Sí <br/>| Sí <br/>| No <br/> |
 |[Barreras de información](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/>|
 |[Gobierno de datos](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -76,7 +76,7 @@ límite de <sup>3</sup> 50 GB. <br/>
 |[Caja de seguridad del cliente](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Administración de dispositivos móviles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la empresa](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>9</sup> <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí<sup>7<sup> <br/> |No  <br/> |Sí  <br/> |
-|[Prevención de pérdida de datos para mensajes de chat y canales de Microsoft Teams](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|[Prevención de pérdida de datos para mensajes de chat y canales de Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Barreras de información](https://docs.microsoft.com/office365/securitycompliance/information-barriers) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |[Gobierno de datos](https://docs.microsoft.com/office365/securitycompliance/retention-policies)<sup>1</sup> <br/> |Sí<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Gobierno de datos avanzado](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>3</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |

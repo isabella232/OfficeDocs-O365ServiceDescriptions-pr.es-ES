@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En esta sección se proporciona una introducción a las características específicas de los entornos de Office 365 Government US. Le recomendamos que lea esta sección complementaria junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: eeee52cb0c42cc654fff2a42c1f09243c45aebcf
-ms.sourcegitcommit: beb9745b3fb89585771c9d0e4d8be93bf759b867
+ms.openlocfilehash: 25cd6a12a97b71166af5db0b9a982c261653d570
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37971726"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724638"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -180,6 +180,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Proteger el contenido con Azure Information Protection  <br/> |No<sup>1</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup>  <br/> |No<sup>1</sup> <br/> |
 |**[Características del conjunto de aplicaciones de Office 365](../../office-365-platform-service-description/office-365-suite-features.md)** <br/> |**Office 365 Administración Pública G1** <br/> |**Office 365 Administración Pública G3** <br/> |**Office 365 Administración Pública G5** <br/> |**Office 365 administración pública F1** <br/> |
 |Reservas de Microsoft  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|Correo electrónico de Microsoft briefing  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Microsoft Flow  <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |
 |Microsoft Forms  <br/> |Sí <br/> |Sí <br/> |Sí<br/> |Sí</sup> <br/> |
 |API de Microsoft Graph  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |

@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany es una opción diferenciada de los servicios de Office 365 que ya están disponibles en Europa. Ayuda a satisfacer las necesidades de los clientes más regulados en Alemania, la Unión Europea (UE) y la Asociación Europea de libre comercio (AELC), ofreciendo nuestros servicios de productividad líderes en el sector para el trabajo digital, desde los centros de datos alemanes, con la residencia de datos. en Alemania y estrictas medidas de control y acceso a datos a través de un único modelo de confianza de datos regulado por la legislación alemana.
-ms.openlocfilehash: 25487d7219deaa92ebbff944e016fbd46cc75cce
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: b4715e6d3439b206ecaf514bf833963f95aa455d
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911813"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724698"
 ---
-# <a name="office-365-germany"></a>Office 365 Alemania
+# <a name="office-365-germany"></a>Office 365 Germany
 
 Office 365 Germany es una opción diferenciada de los servicios de Office 365 que ya están disponibles en Europa. Ayuda a satisfacer las necesidades de los clientes más regulados en Alemania, la Unión Europea (UE) y la Asociación Europea de libre comercio (AELC), ofreciendo nuestros servicios de productividad líderes en el sector para el trabajo digital, desde los centros de datos alemanes, con la residencia de datos. en Alemania y estrictas medidas de control y acceso a datos a través de un único modelo de confianza de datos regulado por la legislación alemana.
 
@@ -77,6 +77,7 @@ Para obtener información específica sobre los precios y las características d
 |Proteger el contenido con Azure Information Protection|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No|No|No<sup>2</sup>|
 |**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Reservas de Microsoft|No|No|No|No|No|No|No|No|
+|Correo electrónico de Microsoft briefing|No|No|No|No|No|No|No|No|
 |Microsoft Flow|No|No|No|No|No|No|No|No|
 |Microsoft Forms|No|No|No|No|No|No|No|No|
 |Microsoft MyAnalytics|No|No|No|No|No|No|No|No|
@@ -337,7 +338,7 @@ En la tabla siguiente se proporcionan vínculos a comparaciones de Office para l
 
 ||||
 |:-----|:-----|:-----|
-|**Application**|**Office para la Web**|**Vínculo a una comparación de características detallada**|
+|**Aplicación**|**Office para la Web**|**Vínculo a una comparación de características detallada**|
 |Word|Word para la web|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para la web|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
 |OneNote|OneNote para la web|[OneNote](../office-online-service-description/office-online-service-description.md#onenote)|
@@ -373,7 +374,7 @@ En la siguiente tabla se enumeran las características de Exchange Online que es
 |Reglas de flujo de correo|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|
 |Prevención de pérdida de datos|No|No|No|No|No|Sí|Sí|No|
 |Registro en diario|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Protección contra correo electrónico no deseado y antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Protección contra correo no deseado y malware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Protección contra correo no deseado integrada|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Customize anti-spam policies|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>8</sup>|
 |Protección contra malware integrada|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|

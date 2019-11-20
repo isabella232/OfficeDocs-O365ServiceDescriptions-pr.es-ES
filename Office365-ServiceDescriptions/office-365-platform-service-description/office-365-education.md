@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios&mdash;de colaboración y comunicaciones de próxima generación de Microsoft, incluidos Microsoft Exchange Online, Microsoft SharePoint Online, Office para el Web y Microsoft Skype empresarial online&mdash;para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
-ms.openlocfilehash: 522b0a6b383ae74b21ae07ce1578ce0218ae54cc
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios&mdash;de colaboración y comunicaciones de próxima generación de Microsoft, incluidos Microsoft Exchange Online, Microsoft SharePoint Online, Office para la&mdash;web y Microsoft Skype empresarial online para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
+ms.openlocfilehash: 958498bca50c736a37398c5ae59dfbe50fd7c4ec
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890446"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724648"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
-Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios&mdash;de colaboración y comunicaciones de próxima generación de Microsoft, incluidos Microsoft Exchange Online, Microsoft SharePoint Online, Office para el Web y Microsoft Skype empresarial online&mdash;para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
+Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios&mdash;de colaboración y comunicaciones de próxima generación de Microsoft, incluidos Microsoft Exchange Online, Microsoft SharePoint Online, Office para la&mdash;web y Microsoft Skype empresarial online para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
   
 En este artículo se enumeran las características de los planes de Office 365 Education (a1, a3 y A5). Para comparar las características de los planes empresariales y empresariales, vea [comparar los planes de office 365 para empresas](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) o, para obtener una lista más detallada de las características, vea la descripción del servicio relevante en [Office 365 Service](../office-365-service-descriptions-technet-library.md)descriptions.
   
@@ -71,6 +71,7 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 |Proteger el contenido con Azure Information Protection  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Reservas de Microsoft  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
+|Correo electrónico de Microsoft briefing<sup>10</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Flow  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Forms  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |API de Microsoft Graph  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -188,6 +189,7 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 <sup>7</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]). <br>
 <sup>8</sup> para obtener información acerca de las características de Microsoft Stream incluidas en cada plan, consulte la [Introducción a las licencias por secuencias](https://stream.microsoft.com/documentation/stream-license-overview/).<br>
 <sup>9</sup> para obtener más información, consulte [planes y entornos de myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).<br>
+<sup>10</sup> el mensaje de correo electrónico de informe se proporciona automáticamente a todos los usuarios de Exchange Online. Para obtener más información, vea [Configure the briefing email](https://docs.microsoft.com/Briefing/be-admin).<br>
 
 ## <a name="office-365-security-amp-compliance-center-features"></a>Características del centro &amp; de seguridad y cumplimiento de Office 365
 
@@ -284,7 +286,7 @@ Use la tabla siguiente para comparar la disponibilidad de las características e
 > [!NOTE]
 > <sup>1</sup> Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM admitidas. <br/> 
 <sup>2</sup> Skype empresarial Basic está disponible para todos los clientes. El cliente de escritorio de Skype Empresarial es una aplicación instalada localmente que proporciona funciones de presencia, de mensajería instantánea y de conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus y Office 365 Enterprise E3 incorporan la aplicación de Skype completa, que proporciona características adicionales, incluida la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. Debe asignarse una licencia de Skype Empresarial Online a cada usuario. Para obtener más información sobre las características de Lync Basic, consulte [tablas de comparación de clientes de escritorio](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables). <br/> 
-<sup>3</sup> algunas escuelas son aptas para educación Plus, que incluye Office 365 ProPlus, y permite que los estudiantes, los profesores y el personal instalen la última versión de Office en un máximo de cinco equipos PC o Mac y en otros dispositivos móviles, como tabletas Windows y el dispositivos. Las escuelas pueden optar a Office 365 Educación Plus cuando conceden una licencia de Office en toda la institución para los profesores y el personal a través de la inscripción en soluciones educativas, soluciones educativas Open Value Subscription o un contrato para escuelas. Tenga en cuenta que Access y Publisher solo están disponibles en PC. OneNote para Mac está disponible como descarga independiente en Mac App Store. <br/> 
+<sup>3</sup> algunas escuelas son aptas para educación Plus, que incluye Office 365 ProPlus, y permite que los estudiantes, los profesores y el personal instalen la última versión de Office en un máximo de cinco equipos PC o Mac y en otros dispositivos móviles, como tabletas Windows y iPad. Las escuelas pueden optar a Office 365 Educación Plus cuando conceden una licencia de Office en toda la institución para los profesores y el personal a través de la inscripción en soluciones educativas, soluciones educativas Open Value Subscription o un contrato para escuelas. Tenga en cuenta que Access y Publisher solo están disponibles en PC. OneNote para Mac está disponible como descarga independiente en Mac App Store. <br/> 
 se incluyen <sup>4</sup> versiones de Office para la Web. Para obtener más información, consulte [características de Office para el Web](office-365-education.md#office-for-the-web-features)
   
 ## <a name="office-for-the-web-features"></a>Características de Office para la web
@@ -313,7 +315,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |||||
 |:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[Planificación e implementación](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
+|**[Planeación e implementación](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
 |Admite implementación híbrida  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Admite migración IMAP  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Admite la migración total  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -336,7 +338,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Reglas de transporte  <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |
 |Prevención de pérdida de datos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Registro en diario  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Protección contra correo electrónico no deseado y antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Protección contra correo no deseado y malware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Protección contra correo no deseado integrada  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Customize anti-spam policies  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección contra malware integrada  <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |
@@ -344,7 +346,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Cuarentena: gestión de administradores  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cuarentena: autoadministración de usuarios finales  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección contra amenazas avanzada  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|**[Flujo del correo](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Flujo de correo](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Enrutamiento personalizado de correo saliente  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Secure messaging with a trusted partner  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Conditional mail routing  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -505,7 +507,7 @@ El espacio de almacenamiento del buzón disponible para un usuario está determi
 |Buzones<sup>de archivo 6, 7</sup> <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Buzones compartidos  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
 |Buzones de recursos  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |
-|Buzones de sitio<sup>4</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
+|Buzones de sitio<sup>4</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
 |Buzones de carpetas públicas  <br/> |50 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |
 |Buzones de grupo  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    

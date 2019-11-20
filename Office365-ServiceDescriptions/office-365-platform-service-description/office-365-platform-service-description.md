@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si quiere conocer las diferencias entre los planes de Office 365, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: 5740dbe2eaafc464060b6c9554e9acdc734e912d
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: b8bbc7068d809b023135f0f4b078b3e84bdd7d89
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734128"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38724718"
 ---
 # <a name="office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Office 365
 
@@ -97,10 +97,11 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 |Proteger el contenido con Azure Information Protection  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |No<sup>2</sup> <br/> |
 |**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Reservas de Microsoft  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |N°<sup>20</sup>  <br/> |N°<sup>20</sup>  <br/> |No  <br/> |
+|Correo electrónico de instrucciones de Microsoft<sup>23</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Flow  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>14</sup> <br/> |
 |Microsoft Forms  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |API de Microsoft Graph  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft myanalytics<sup>22</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
+|Microsoft myanalytics<sup>21</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Microsoft Planner  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Microsoft PowerApps  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>13</sup> <br/> |
 |Microsoft StaffHub  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -227,3 +228,4 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 <br/><sup>20</sup> disponible como complemento gratuito. Para obtener más información, vea [obtener acceso a Microsoft bookings](https://support.office.com/article/Get-access-to-Microsoft-Bookings-5382dc07-aaa5-45c9-8767-502333b214ce).
 <br/><sup>21</sup> para obtener más información, consulte [planes y entornos de myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 <br/><sup>22</sup> incluye las características de Azure Active Directory descritas en la columna **Office 365 apps** en la [Página de precios de Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/). Debe agregar Azure Active Directory plan 1 o plan 2, Enterprise Mobile Security o Microsoft 365 E3 o E5 para obtener las características Premium de Azure AD.<br/>
+<sup>23</sup> el mensaje de correo electrónico de informe se proporciona automáticamente a todos los usuarios de Exchange Online. Para obtener más información, vea [Configure the briefing email](https://docs.microsoft.com/Briefing/be-admin).<br>

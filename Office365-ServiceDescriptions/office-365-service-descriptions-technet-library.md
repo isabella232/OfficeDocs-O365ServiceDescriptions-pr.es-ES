@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft Office 365 es un servicio basado en la nube diseñado para ayudar a satisfacer las necesidades de su organización en cuanto a seguridad, confiabilidad y productividad del usuario sólidas.
-ms.openlocfilehash: 0c7c14e53014af4bde6ba058b06f88e68cb97d73
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: d714677a9881713bb137a53ffad435a334eafa81
+ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890456"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38726088"
 ---
 # <a name="office-365-service-descriptions"></a>Descripciones del servicio de Office 365 
 
@@ -56,6 +56,8 @@ Para empezar, consulte las siguientes descripciones de servicios:
     
 - [Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
     
+- [Descripción del servicio de correo electrónico de informe](briefing-service-description.md)
+
 - [Descripción del servicio Workplace Analytics](workplace-analytics-service-description.md)
 
 - [Descripción del servicio MyAnalytics](mya-service-description.md)
