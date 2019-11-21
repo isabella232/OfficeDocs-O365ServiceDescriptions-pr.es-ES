@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Los administradores de Microsoft Office 365 pueden ver el estado de los servicios y saber cuándo está programado el mantenimiento. La información de estado del servicio está disponible en cualquier momento iniciando sesión en Office 365.
-ms.openlocfilehash: 6265dd28d03099281a9ee2540c5a775daa32108f
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: d9f70d69be201d3ccd7724751eec614173ce7b2d
+ms.sourcegitcommit: 8c906991cf9180fee9ac55f5ac182ade69607d3c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911808"
+ms.lasthandoff: 11/20/2019
+ms.locfileid: "38752719"
 ---
 # <a name="service-health-and-continuity"></a>Continuidad y estado del servicio
 
@@ -49,7 +49,7 @@ El cambio a un servicio en la nube no debería significar la pérdida de la capa
 |**2019** <br/> ||||
 |:-----|:-----|:-----|:-----|
 | **Q1** <br/> | **Trim** <br/> |**Q3** <br/> |**Tercer** <br/> |
-| 99,97% <br/> | 99,97% <br/> |  <br/> |  <br/> |
+| 99,97% <br/> | 99,97% <br/> | 99,98% <br/> |  <br/> |
 
 <br/>
 
@@ -75,7 +75,7 @@ Cuando ocurre un incidente de servicio, Microsoft es consciente de que una comun
 
 ### <a name="office-365-admin-app"></a>Aplicación de administración de Office 365
 
-La aplicación de administración para los administradores de inquilinos de Office 365 le ofrece la posibilidad de conectarse al estado del servicio Office 365 de su organización en cualquier caso. Los administradores de inquilinos de Office 365 podrán ver la información de estado del servicio y las actualizaciones de estado de mantenimiento desde sus dispositivos móviles. Para obtener más información, visite las [preguntas más frecuentes sobre aplicaciones de administración](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
+La aplicación de administración para los administradores de inquilinos de Office 365 le ofrece la posibilidad de conectarse al estado del servicio Office 365 de su organización en cualquier caso. Los administradores de inquilinos de Office 365 podrán ver la información de estado del servicio y las actualizaciones de estado de mantenimiento desde sus dispositivos móviles. Para obtener más información, visite la [Preguntas más frecuentes (FAQ) de la aplicación de administración](https://docs.microsoft.com/office365/admin/admin-overview/admin-mobile-app?view=o365-worldwide).
   
 ### <a name="office-365-management-pack-for-microsoft-system-center-2012-r2"></a>Módulo de administración de Office 365 para Microsoft System Center 2012 R2
 
