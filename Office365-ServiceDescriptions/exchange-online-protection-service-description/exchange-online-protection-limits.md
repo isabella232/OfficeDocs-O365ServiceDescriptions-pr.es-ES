@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no se pueden configurar a menos que se especifique lo contrario.
-ms.openlocfilehash: 0f23106f1f40f4a121ac260b07a83cdf38b7a9eb
-ms.sourcegitcommit: d4eaa85d8120ac52f92e26074ef4cb02d3150d8d
+ms.openlocfilehash: 08e3295930933b9f233dcff36e2ad94972d7c2ee
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38289780"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260755"
 ---
 # <a name="exchange-online-protection-limits"></a>Límites de Exchange Online Protection
 
 Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no se pueden configurar a menos que se especifique lo contrario. 
   
 > [!TIP]
-> Para obtener más información acerca de los límites en Exchange Online, vea [Límites de Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Los límites de la regla de transporte se aplican también a los clientes de EOP independiente. Los límites de tasa de destinatarios y tasa de mensajes de Exchange Online no se aplican a los clientes de EOP independiente. 
+> Para obtener más información acerca de los límites de Exchange Online, vea [límites de Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Los límites de la regla de transporte se aplican también a los clientes de EOP independiente. Los límites de tasa de destinatarios y tasa de mensajes de Exchange Online no se aplican a los clientes de EOP independiente. 
   
 - **Límite de dominio** Puede agregar hasta 900 dominios por espacio empresarial. Los subdominios pueden incluirse en este límite de 900, o bien, si es necesario, como parte de una opción global de subdominios coincidentes. Para obtener más información, vea [Administrar dominios aceptados en EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
     
@@ -42,7 +42,7 @@ Los siguientes límites existen actualmente para Exchange Online Protection. Est
     
 - **Notificaciones de cuarentena de correo no deseado de usuario final** De manera predeterminada, si se habilitan, las notificaciones de cuarentena de correo no deseado de usuario final se envían cada 3 días. Se pueden configurar para que se envíen cada 1 a 15 días. 
     
-- **Límites de seguimiento de informes y mensajes** Para conocer los límites de seguimiento de informes y mensajes, vea la sección "Informes, disponibilidad y latencia de los datos de seguimiento de mensajes" en [Informes y seguimiento de mensajes en Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248).
+- **Límites de seguimiento de mensajes y informes** Para obtener los informes y los límites de seguimiento de mensajes, consulte la sección "informes, disponibilidad y latencia de los datos de seguimiento de mensajes" en [Reporting and Message Trace in Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248).
     
 ### <a name="limits-across-eop-options"></a>Límites entre las opciones de EOP
 

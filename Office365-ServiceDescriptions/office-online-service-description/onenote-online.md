@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Use OneNote para la web (anteriormente OneNote Web App) para tomar notas en línea en un bloc de notas de OneNote que puede Agregar desde cualquier lugar y compartir fácilmente con otros usuarios. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: 6dac216c117175f3f2842476a0aaebf2e99461c7
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37631629"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263514"
 ---
 # <a name="onenote-for-the-web"></a>OneNote para la web
 

@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio Skype Empresarial Online
+title: Descripción del servicio Skype empresarial online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: ¿Quiere saber qué licencias necesita comprar para obtener características específicas de Skype Empresarial? Vea información general sobre las licencias de Skype empresarial.
-ms.openlocfilehash: b9e97642f9b7dd1585a1815a080aed764a160013
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733751"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263274"
 ---
-# <a name="skype-for-business-online-service-description"></a>Descripción del servicio Skype Empresarial Online
+# <a name="skype-for-business-online-service-description"></a>Descripción del servicio Skype empresarial online
 
 > [!NOTE]
 > Microsoft Teams es ahora el cliente principal para mensajería, reuniones y llamadas en Office 365. Los nuevos clientes de Office 365 con 500 puestos o menos se incorporarán a Microsoft Teams y no tendrán acceso a Skype empresarial online. Los inquilinos que ya usan Skype empresarial online podrán seguir haciéndolo (incluido el aprovisionamiento de nuevos usuarios) hasta que completen la transición a Microsoft Teams.
@@ -40,13 +40,13 @@ Skype Empresarial está hospedado en servidores multinquilino que dan soporte a 
 Para obtener información sobre las nuevas características de Skype Empresarial Online, vea [Explorar Skype Empresarial](https://go.microsoft.com/fwlink/?linkid=529224) y [Novedades de Skype Empresarial](https://go.microsoft.com/fwlink/?linkid=846973).
   
 > [!TIP]
-> Puede exportar, guardar e imprimir páginas en las descripciones de los servicios de Office 365. Obtenga más información sobre cómo [exportar varias páginas](https://go.microsoft.com/fwlink/?LinkId=403349). 
+> Puede exportar, guardar e imprimir páginas en las descripciones de servicio de Office 365. Obtenga más información sobre cómo [exportar varias páginas](https://go.microsoft.com/fwlink/?LinkId=403349). 
   
 ## <a name="compare-skype-for-business-online-features-across-office-365-plans"></a>Comparar características de Skype Empresarial Online a través de planes de Office 365
 
 Se recomienda utilizar nuestra sencilla página de comparación para elegir la versión de Skype Empresarial Online. Vea [Comparar planes con reuniones de Skype](https://go.microsoft.com/fwlink/?linkid=798291). Si desea una comparación más detallada, consulte las siguientes tablas de características. Si necesita ayuda adicional, llame al [soporte técnico](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b#bkmk_call_support). Puede seleccionar la configuración regional de la lista desplegable para obtener un número local.
   
-Para ver todos los planes de Office 365, consulte [Comparar los planes de Office 365 para empresas](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409). Para obtener una comparación más detallada, consulte [Opciones de planes de Office 365](https://go.microsoft.com/fwlink/?linkid=846972).
+Para ver todos los planes de Office 365, consulte [Comparar los planes de Office 365 para empresas](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409). Para obtener una comparación más detallada, consulte [Opciones del plan 365 de Office](https://go.microsoft.com/fwlink/?linkid=846972).
   
  Para comparar características individuales entre escritorios y clientes web de Skype Empresarial, consulte [Tablas de comparación de clientes de Skype Empresarial Online](https://go.microsoft.com/fwlink/?linkid=829754). Para consultar una comparación detallada de los clientes móviles de Skype Empresarial, consulte [Tablas de comparación de clientes móviles](https://go.microsoft.com/fwlink/?linkid=846932).
   

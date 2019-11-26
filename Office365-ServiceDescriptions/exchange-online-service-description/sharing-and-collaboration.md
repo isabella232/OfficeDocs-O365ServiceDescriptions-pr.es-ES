@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: b544ebc38b4a1f79477b773bc91b40f051a41346
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582016"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262723"
 ---
 # <a name="sharing-and-collaboration"></a>Uso compartido y colaboración
 
 ## <a name="federated-sharing"></a>Uso compartido federado
 
-La Federación se refiere a la infraestructura de confianza subyacente que admite el uso compartido federado, un método para que los usuarios de Microsoft Exchange Online compartan datos de calendario de disponibilidad e información de contacto con los destinatarios en otras organizaciones federadas externas o con usuarios que tienen acceso a Internet. Estas incluyen organizaciones que también están hospedadas por Exchange Online u organizaciones Exchange Server 2013 o Microsoft Exchange Server 2010 externas. Mediante el uso de las relaciones de organización y las directivas de uso compartido, los administradores de Exchange online pueden permitir a los usuarios enviar invitaciones de uso compartido de calendarios desde Microsoft Outlook en la web o Microsoft Outlook 2010 o posterior.
+La Federación se refiere a la infraestructura de confianza subyacente que admite el uso compartido federado, un método para que los usuarios de Microsoft Exchange Online compartan datos de calendario e información de contacto de disponibilidad con los destinatarios de otras organizaciones federadas externas o con los usuarios que tienen acceso a Internet. Estas incluyen organizaciones que también están hospedadas por Exchange Online u organizaciones Exchange Server 2013 o Microsoft Exchange Server 2010 externas. Mediante el uso de las relaciones de organización y las directivas de uso compartido, los administradores de Exchange online pueden permitir a los usuarios enviar invitaciones de uso compartido de calendarios desde Microsoft Outlook en la web o Microsoft Outlook 2010 o posterior.
   
 > [!IMPORTANT]
 >  Las organizaciones externas con Exchange 2010 y Exchange 2013 deben configurar una confianza de federación con Microsoft Federation Gateway como parte de la configuración del uso compartido federado. Las organizaciones con Exchange Online no deben configurar una confianza de federación, la confianza de federación con Microsoft Federation Gateway se crea automáticamente cuando se crea el inquilino de Office 365. 
@@ -46,7 +46,7 @@ Para obtener más información sobre los buzones de sitio, vea [Buzones del siti
   
 ## <a name="public-folders"></a>Carpetas públicas
 
-Las carpetas públicas en Exchange Online se han modernizado para aprovechar las tecnologías de almacenamiento y alta disponibilidad existentes de la base de datos de buzones. La arquitectura de carpeta pública usa buzones especialmente diseñados para almacenar la jerarquía y el contenido de carpeta pública. Esto significa que ya no hay una base de datos de carpetas públicas independiente. La replicación de carpetas públicas ahora utiliza el modelo de replicación continua. La alta disponibilidad para los buzones de contenido y jerarquía está suministrada por un grupo de disponibilidad de base de datos (DAG) en el centro de datos. En Exchange Online, se limita a 1000 buzones de carpetas públicas. Cada buzón de carpeta pública también tiene un tamaño de almacenamiento máximo. Para obtener más información, vea la sección "Límites de carpeta de buzones de correo" en [Límites de Exchange Online](exchange-online-limits.md). Los buzones de carpetas públicas tienen los mismos límites de mensajes, destinatarios y alertas de capacidad que los buzones normales. Para más información, consulte [Destinatarios](recipients.md). 
+Las carpetas públicas en Exchange Online se han modernizado para aprovechar las tecnologías de almacenamiento y alta disponibilidad existentes de la base de datos de buzones. La arquitectura de carpeta pública usa buzones especialmente diseñados para almacenar la jerarquía y el contenido de carpeta pública. Esto significa que ya no hay una base de datos de carpetas públicas independiente. La replicación de carpetas públicas ahora utiliza el modelo de replicación continua. La alta disponibilidad para los buzones de contenido y jerarquía está suministrada por un grupo de disponibilidad de base de datos (DAG) en el centro de datos. En Exchange Online, se limita a 1000 buzones de carpetas públicas. Cada buzón de carpeta pública también tiene un tamaño de almacenamiento máximo. Para obtener más información, consulte la sección "límites de carpetas de buzón" en [límites de Exchange Online](exchange-online-limits.md). Los buzones de carpetas públicas tienen los mismos límites de mensajes, destinatarios y alertas de capacidad que los buzones normales. Para más información, consulte [Destinatarios](recipients.md). 
   
 Para obtener más información sobre las carpetas públicas, vea [Carpetas públicas](https://go.microsoft.com/fwlink/p/?LinkId=271790).
   

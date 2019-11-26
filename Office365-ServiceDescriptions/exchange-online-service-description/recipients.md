@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: En este tema, se describen las características relacionadas con los destinatarios que se incluyen con Microsoft Exchange Online. Incluye correo electrónico, contactos, grupos de distribución, calendarios y capacidades de programación.
-ms.openlocfilehash: 8a2813e2e5a86ca284f530ae0d83770b5dcaeb9d
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911723"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262733"
 ---
-# <a name="recipients"></a>Recipients
+# <a name="recipients"></a>Destinatarios
 
 En este tema, se describen las características relacionadas con los destinatarios que se incluyen con Microsoft Exchange Online. Incluye correo electrónico, contactos, grupos de distribución, calendarios y capacidades de programación.
   
@@ -34,7 +34,7 @@ Cada suscritor a Microsoft Exchange Online recibe un buzón de correo y existen 
 
 La cantidad de almacenamiento de buzones de correo disponible para un usuario y el tamaño del buzón de correo predeterminado los determinan el tipo de buzón y la licencia de suscripción del usuario. Los administradores pueden reducir el tamaño máximo del buzón de correo por usuario o de forma global. Exchange Online también proporciona notificaciones cuando el buzón de usuario está alcanzando el límite de capacidad.
   
-Para obtener más información, consulte las secciones "Límites de almacenamiento de buzones" y "Alertas de capacidad" en el tema [Límites de Exchange Online](exchange-online-limits.md).
+Para obtener más información, consulte las secciones "límites de almacenamiento de buzones" y "alertas de capacidad" en el tema [Exchange Online limits](exchange-online-limits.md).
   
 ### <a name="mailtips"></a>MailTips
 

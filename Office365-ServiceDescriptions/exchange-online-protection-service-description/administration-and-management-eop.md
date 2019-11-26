@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: En esta sección se describen las interfaces de administración que están disponibles para los administradores de Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: df2588dd9ea9f3cb13fe70aae93a17cbeecb343d
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: a0489e781238dd5e52fada58897bafd35e3bd7b4
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581476"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260725"
 ---
 # <a name="administration-and-managementeop"></a>Administración y administración [EOP]
 
 En esta sección se describen las interfaces de administración que están disponibles para los administradores de Microsoft Exchange Online Protection (EOP).
   
-¿Busca información sobre todas las características de EOP? Vea [Descripción de servicio Protección en línea de Exchange](exchange-online-protection-service-description.md).
+¿Busca información sobre todas las características de EOP? Vea la [Descripción del servicio de protección en línea de Exchange](exchange-online-protection-service-description.md).
   
 ## <a name="access-to-the-microsoft-365-admin-center"></a>Acceso al centro de administración de Microsoft 365
 

@@ -1,5 +1,5 @@
 ---
-title: Características del conjunto de aplicaciones de Office 365
+title: Office 365 suite features
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Las características enumeradas en este tema son una colección de herramientas basadas en Web que le ayudarán a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
-ms.openlocfilehash: 5932dcfd79d2c52dbf4c254876f20ab8e9506e28
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 215c284e2ba535c6e6e1f7eff95ada524b2ec72a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724738"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263131"
 ---
-# <a name="office-365-suite-features"></a>Características del conjunto de aplicaciones de Office 365
+# <a name="office-365-suite-features"></a>Office 365 suite features
 
 Las características enumeradas en este tema son una colección de herramientas basadas en Web que le ayudarán a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
   
@@ -101,6 +101,6 @@ Microsoft Kaizala es una aplicación de administración de trabajo móvil sencil
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en los planes de Office 365, consulte Descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description.md).
   
 

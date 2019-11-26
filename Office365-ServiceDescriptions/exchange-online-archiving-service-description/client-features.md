@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: El archivado de Microsoft Exchange Online permite a los usuarios conectarse a sus buzones de archivo desde distintos dispositivos y plataformas. Toda la conectividad de red con el archivo del usuario se produce a través de Internet y las conexiones de red privada virtual (VPN) no son necesarias. Para permitir el acceso de los usuarios a su buzón principal con Outlook en cualquier lugar, sin necesidad de conexión VPN, las organizaciones pueden publicar en un servidor de acceso de cliente local. Si se requiere acceso a VPN para acceder al buzón de correo principal del usuario en un servidor local, este requisito no cambiará.
-ms.openlocfilehash: 9bdf09711e571d6d75636bcebfd3572ecadfe670
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: db67bc6282d0267cce24ed1538aede81349e354d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581446"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260715"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Características de cliente de archivado de Exchange Online
 
@@ -38,7 +38,7 @@ Outlook 2010 y versiones posteriores y Outlook en la web proporcionan a los usua
 Aunque Outlook 2007 es compatible con la funcionalidad básica de archivo, no proporciona todas las características de archivo y cumplimiento existentes. Por ejemplo, no permite a los usuarios aplicar directivas de archivo o retención a los elementos de sus buzones. En su lugar, deben usar las directivas que proporciona el administrador. Para acceder al archivo, los usuarios de Outlook 2007 precisan la actualización acumulativa de Office 2007 de febrero de 2011.
   
 > [!NOTE]
-> Outlook no se proporciona con Archivado de Exchange Online. Microsoft Office 365 ProPlus (que sí incluye Microsoft Outlook) se ofrece con algunos planes de Office 365 y puede adquirirse con una suscripción independiente. Para más información, vea [Opciones de planes de Office 365](../office-365-platform-service-description/office-365-plan-options.md). Para más información sobre Office 365 ProPlus, vea [Descripción del servicio de aplicaciones de Office](../office-applications-service-description/office-applications-service-description.md). 
+> Outlook no se proporciona con Archivado de Exchange Online. Microsoft Office 365 ProPlus (que sí incluye Microsoft Outlook) se ofrece con algunos planes de Office 365 y puede adquirirse con una suscripción independiente. Para obtener más información, consulte [Opciones del plan 365 de Office](../office-365-platform-service-description/office-365-plan-options.md). Para obtener más información sobre Office 365 ProPlus, vea la [Descripción del servicio de aplicaciones de Office](../office-applications-service-description/office-applications-service-description.md). 
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Clientes compatibles con Exchange Online Archiving
 
@@ -52,13 +52,13 @@ La tabla siguiente contiene los clientes compatibles con Archivado de Exchange O
 |Outlook para Mac 2011  <br/> |No admitido  <br/> |
 |Outlook para Mac  <br/> |Admitido para su uso con archivado de Exchange Online. <sup>3</sup> <br/> |
 |Microsoft Office Entourage 2008, Web Services Edition  <br/> |No admitido  <br/> |
-|IMAP y POP  <br/> |No admitido  <br/> |
+|IMAP y POP  <br/> |No se admite  <br/> |
 |Exchange ActiveSync (dispositivos móviles)  <br/> |No se admite  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Outlook incluido con Microsoft Office Standard no es compatible. Para obtener más información, consulte [License Requirements for personal Archive and Retention Policies](https://support.office.com/article/Outlook-license-requirements-for-Exchange-features-46B6B7C5-C3CA-43E5-8424-1E2807917C99). <br/> 
 <sup>2</sup> requiere actualización para habilitar la compatibilidad de archivado. Los usuarios de Outlook 2007 no pueden ver ni aplicar directivas de retención o archivo a los elementos de sus buzones de archivo; deben basarse en las directivas aprovisionadas por el administrador. Además, los usuarios de Outlook 2007 no pueden buscar el buzón local y el archivo al mismo tiempo. <br/> 
-<sup>3</sup> no puede usar Outlook 2016 para Mac o Outlook para Mac para mover o copiar carpetas, elementos de calendario, contactos, tareas o notas a su archivo, o verlos en el buzón de archivo, si los elementos se movieron anteriormente mediante cualquier otra versión de Outlook (por ejemplo, Outlook 2016 para Windows). Para obtener más información, vea [usar el archivo en línea con Outlook 2016 para Mac](https://support.office.com/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238). 
+<sup>3</sup> no puede usar Outlook 2016 para Mac o Outlook para Mac para mover o copiar carpetas, elementos de calendario, contactos, tareas o notas a su archivo, o verlos en el buzón de archivo, si los elementos se movieron anteriormente mediante cualquier otra versión de Outlook (como Outlook 2016 para Windows). Para obtener más información, vea [usar el archivo en línea con Outlook 2016 para Mac](https://support.office.com/article/Use-your-online-archive-with-Outlook-2016-for-Mac-45b8439c-2982-4b6b-9097-eed71dbfe238). 
 
 ## <a name="outlook-on-the-web"></a>Outlook en la web
 

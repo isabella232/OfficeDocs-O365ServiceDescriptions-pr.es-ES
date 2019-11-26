@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project Online, que se suministra con Office 365, ofrece prácticas capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de carteras de proyectos prácticamente desde cualquier lugar y con cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: d5c66b7567a47675480030a308dd280ee44a0fef
-ms.sourcegitcommit: 2a5c54a5cb8875b2f44bee623b2c9d6d4ce00288
+ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37765641"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263424"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -119,7 +119,7 @@ Las características que se enumeran en esta sección interactúan sólo con los
 |Aplicaciones móviles | Cree aplicaciones móviles personalizadas con PowerApps. <sup>4</sup> |
 |**Personalización e integración**||
 |PowerApps | Compilar y consumir soluciones para web y Mobile con PowerApps. <sup>4</sup> |
-|Workflows | Automatizar e integrar procesos de negocio con Microsoft Flow. <sup>5</sup> |
+|Flujos de trabajo | Automatizar e integrar procesos de negocio con Microsoft Flow. <sup>5</sup> |
 |Integración de Microsoft Office 365 | Colabore, administre documentos y mucho más usando las herramientas y aplicaciones conocidas de Office 365. <sup>1</sup> |
 |**Seguridad y administración de usuarios**||
 |Grupos modernos de Office | Cree un equipo de proyecto para colaborar con y configurar fácilmente una colección de recursos que los integrantes del grupo puedan compartir.|
@@ -152,7 +152,7 @@ Las características que se enumeran en esta sección interactúan solo con los 
 |Aprobaciones del parte de horas | Los integrantes del grupo pueden enviar partes de horas para su aprobación. Los jefes de recursos y los supervisores pueden revisar, aprobar y rechazar partes de horas enviados. | Sí | Sí |
 |Configuración del período no laborable | Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no laborables a la programación de su proyecto. | No | Sí |
 |**Colaboración** ||||
-|Datos adjuntos | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
+|Attachments | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
 |Miembros del equipo externo |Colaborar con personas de fuera de la organización al concederles acceso para ver e interactuar con sus proyectos, tareas y documentos. <sup>6</sup> | Sí | Sí |
 |Sitios del proyecto | Crear y personalizar un concentrador para la colaboración y los documentos de un proyecto. | Sí | Sí |
 Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí |
@@ -180,7 +180,7 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 |Custom fields | Agregue campos personalizados a nivel de proyecto, tarea y recurso para realizar un seguimiento de los datos importantes para la organización y los proyectos. | Sí | Sí |
 |Éstas | Calcule y Capture datos importantes mediante fórmulas en tareas y proyectos. | Sí | Sí |
 |PowerApps | Compilar y consumir soluciones para web y móviles (mediante OData) con PowerApps. <sup>4</sup> | Sí | Sí |
-|Workflows | Automatizar e integrar procesos de negocio (a través de OData) con Microsoft Flow. <sup>5</sup> | Sí | Sí |
+|Flujos de trabajo | Automatizar e integrar procesos de negocio (a través de OData) con Microsoft Flow. <sup>5</sup> | Sí | Sí |
 |Integración de Microsoft Office 365 | Colabore, administre documentos y mucho más usando las herramientas y aplicaciones conocidas de Office 365. <sup>1</sup> | Sí | Sí |
 |Integración con Microsoft Planner | Conectar tareas de proyecto a un plan de Planner y realizar un seguimiento del trabajo detallado en Planner. <sup>1</sup> | Sí | Sí |
 |**Administración de seguridad, usuarios y servicios**||||
@@ -283,7 +283,7 @@ Project para la web tiene algunas limitaciones, que se describen en la siguiente
 |Nº. duración de la tarea de Resumen | 3650 días (10 años) |
 |Nº. recursos que se pueden asignar a una tarea | 20 recursos |
 |Intervalo de fechas admitido para la tarea | 1/1/1984 &ndash; 12/31/2149 |
-|**Proyecto** ||
+|**Project** ||
 |Nº. total de tareas para el proyecto | 500 |
 |Nº. duración total del proyecto | 3650 días (10 años) |
 |Nº. recursos totales del proyecto | 150 |

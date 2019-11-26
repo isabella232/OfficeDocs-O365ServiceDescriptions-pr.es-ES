@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y de directivas de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
-ms.openlocfilehash: 9ff12288f0b0432878d920ce4fb4ceccc6075ab2
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581876"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262653"
 ---
 # <a name="messaging-policy-and-compliance"></a>Directiva de mensajería y cumplimiento
 
 Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y de directivas de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
 
-¿Busca información sobre todas las características de EOP? Vea [Descripción de servicio Protección en línea de Exchange](exchange-online-protection-service-description.md).
+¿Busca información sobre todas las características de EOP? Vea la [Descripción del servicio de protección en línea de Exchange](exchange-online-protection-service-description.md).
 
 ## <a name="mail-flow-rules"></a>Reglas de flujo de correo
 
@@ -62,7 +62,7 @@ Para obtener más información sobre DLP, vea [prevención de pérdida de datos 
 
 ## <a name="office-365-message-encryption"></a>Cifrado de mensajes de Office 365
 
-El cifrado de mensajes de Office 365, una parte de Azure Information Protection, es un servicio en línea que permite a los usuarios de correo electrónico enviar mensajes de correo electrónico cifrados a cualquier persona. Los clientes locales pueden obtener acceso al cifrado de mensajes de Office 365 mediante la compra de Azure Information Protection y el uso de Exchange Online Protection para configurar el flujo de correo a través de Exchange Online. Para obtener más información sobre el cifrado de mensajes de Office 365 en Exchange Online, consulte [Office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) en la Descripción del servicio de Exchange Online.
+El cifrado de mensajes de Office 365, una parte de Azure Information Protection, es un servicio en línea que permite a los usuarios de correo electrónico enviar mensajes de correo electrónico cifrados a cualquier persona. Los clientes locales pueden obtener acceso al cifrado de mensajes de Office 365 mediante la compra de Azure Information Protection y el uso de Exchange Online Protection para configurar el flujo de correo a través de Exchange Online. Para obtener más información sobre el cifrado de mensajes de Office 365 en Exchange Online, consulte [office 365 Message Encryption](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) en la descripción del servicio de Exchange Online.
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Características de cumplimiento y de directivas de mensajería en las opciones de EOP.
 

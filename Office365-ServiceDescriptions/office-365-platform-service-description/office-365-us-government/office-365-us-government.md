@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En esta sección se proporciona una introducción a las características específicas de los entornos de Office 365 Government US. Le recomendamos que lea esta sección complementaria junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: 25cd6a12a97b71166af5db0b9a982c261653d570
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 5676680e5285b7b825388e8140480a07bef047b6
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724638"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262531"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -260,7 +260,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |**Confianza** <br/> |**Office 365 Administración Pública G1** <br/> |**Office 365 Administración Pública G3** <br/> |**Office 365 Administración Pública G5** <br/> |**Office 365 administración pública F1** <br/> |
 |**[Privacidad, seguridad y transparencia](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |Gobierno de datos avanzado  <br/> |No<sup>12</sup> <br/> |No<sup>12</sup> <br/> |Sí <br/> |No<sup>12</sup> <br/> |
-|Cloud App Security  <br/> |N°<sup>11, 12</sup> <br/> |N°<sup>11, 12</sup> <br/> |Sí<sup>11</sup> <br/> |N°<sup>11, 12</sup> <br/> |
+|Cloud App Security.  <br/> |N°<sup>11, 12</sup> <br/> |N°<sup>11, 12</sup> <br/> |Sí<sup>11</sup> <br/> |N°<sup>11, 12</sup> <br/> |
 |Protección contra amenazas avanzada  <br/> |No<sup>12, 18</sup> <br/> |No<sup>12, 18</sup> <br/> |Sí<sup>18</sup>  <br/> |No<sup>12, 18</sup> <br/> |
 |Caja de seguridad del cliente  <br/> |No<sup>9, 12, 15</sup> <br/> |No<sup>9, 12, 15</sup> <br/> |Sí<sup>9, 15</sup> <br/> |No<sup>9, 12, 15</sup> <br/> |
 |eDiscovery avanzado de Office 365  <br/> |No<sup>12</sup> <br/> |No<sup>12</sup> <br/> |Sí  <br/> |No<sup>12</sup> <br/> |
@@ -284,7 +284,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Creación de invitaciones y pedidos de compra de prueba para un cliente que utiliza el plan especificado  <br/> |N°<sup>11</sup> <br/> |N°<sup>11</sup> <br/> |N°<sup>11</sup> <br/> |N°<sup>11</sup> <br/> |
 |Proporcionar administración delegada  <br/> |N°<sup>11</sup> <br/> |N°<sup>11</sup> <br/> |N°<sup>11</sup> <br/> |N°<sup>11</sup> <br/> |
 |**[Contrato de nivel de servicio](../../office-365-platform-service-description/service-level-agreement.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Derechos de uso de producto](../../office-365-platform-service-description/product-use-rights.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|**[Derechos de uso del producto](../../office-365-platform-service-description/product-use-rights.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
    
 > <sup>1</sup> Azure Information Protection no se incluye, pero puede adquirirse como un complemento independiente y habilitará las características de Information Rights Management (IRM) compatibles. Algunas características de Azure Information Protection requieren una suscripción a Office 365 ProPlus, que no se incluye en Office 365 Government G1 ni Office 365 Government (F1). > 
 <br/><sup>2</sup> los clientes de BBCS y bis existentes pueden seguir usando el servicio. No se aceptan nuevos clientes. 

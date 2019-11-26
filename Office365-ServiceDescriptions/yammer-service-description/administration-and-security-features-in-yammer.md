@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: A continuación se describen las características de administración y seguridad disponibles en Yammer.
-ms.openlocfilehash: 41b1eb6bae399a4d08758076f03f7d220688ac6a
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: e1d9b86c96665398931261d258bd14a7e7687b95
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726528"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263202"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Características de administración y seguridad de Yammer
 

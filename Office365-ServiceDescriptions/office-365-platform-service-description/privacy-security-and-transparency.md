@@ -1,5 +1,5 @@
 ---
-title: Privacidad, seguridad y transparencia
+title: Privacy, security, and transparency
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft valora las asociaciones que tenemos con nuestros clientes y pone mucho énfasis en la protección de la privacidad y seguridad de los datos de los clientes. Para obtener más información, visite el Centro de confianza de Microsoft.
-ms.openlocfilehash: d8eecc4a5f120832c9e55fab7a3887eced071136
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 8eac5028858b7da2523031de087de92370288438
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734258"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262511"
 ---
-# <a name="privacy-security-and-transparency"></a>Privacidad, seguridad y transparencia
+# <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
 > [!NOTE]
 > La información descrita en este artículo se aplica a las versiones internacionales de Office 365. Si usa una instancia en la nube nacional de Office 365, incluido Office 365 U.S. Government, Office 365 Germany y Office 365 ofrecido por 21Vianet, consulte [Microsoft National Clouds (Nubes nacionales de Microsoft](https://go.microsoft.com/fwlink/?linkid=841582). 
@@ -58,5 +58,5 @@ La protección contra amenazas avanzada de Office 365 ayuda a proteger la organi
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en los planes de Office 365, consulte Descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description.md).
   

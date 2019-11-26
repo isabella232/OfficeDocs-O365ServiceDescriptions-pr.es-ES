@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d9d5afbd-4045-4821-9d47-3949d3dbbaa7
 description: Las siguientes características de administración de cartera están disponibles en Project online.
-ms.openlocfilehash: 37ab7a0f3094100bf68d895769f00b4e33fd712d
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 190680e99bc65fa16b5269462f7c50abd8233efa
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733881"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263444"
 ---
 # <a name="portfolio-management"></a>Administración de carteras
 
 Las siguientes características de administración de cartera están disponibles en Project online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea [Descripción del servicio Project Online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [Descripción del servicio de Project online](project-online-service-description.md).
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analizar proyectos y optimizar la cartera
 

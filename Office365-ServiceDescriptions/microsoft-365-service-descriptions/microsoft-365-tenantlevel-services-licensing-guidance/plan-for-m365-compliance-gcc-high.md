@@ -1,5 +1,5 @@
 ---
-title: Plan para Microsoft 365 Compliance-GCC High
+title: Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - GCC High
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades del gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government-GCC High es apropiado para cumplir estos requisitos.
-ms.openlocfilehash: 72819a1a2b62df681f8b08dd3049ab6d704b256e
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: b1b2b34d93ee7c8e2096fbd0492d16a466a05ef8
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319508"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262833"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan para Microsoft 365 Compliance – GCC High
 
@@ -75,11 +75,16 @@ Para cumplir con los requisitos de nuestros clientes de la nube de administraci�
 |                                         | Barreras de información                            | Disponible              |
 |                                         | Prevención de pérdida de datos (DLP) para archivos y correo electrónico  | Disponible              |
 |                                         | DLP para las conversaciones de canales y chat de Microsoft Teams    | Sobre el trabajo pendiente de ingeniería |
+|                                         | Coincidencia exacta de datos de DLP                            | Sobre el trabajo pendiente de ingeniería |
+|                                         | Explorador de actividad de etiquetas                         | Sobre el trabajo pendiente de ingeniería |
+|                                         | Clasificadores capacitados                           | Sobre el trabajo pendiente de ingeniería |
+|                                         | Etiquetas unificadas y de confidencialidad         | Sobre el trabajo pendiente de ingeniería |
 | **Administración de riesgos de Insider**             | Cifrado de mensajes avanzado                     | Disponible              |
+|                                         | Administración de riesgos de Insider                         | Sobre el trabajo pendiente de ingeniería |
 |                                         | Cumplimiento con la comunidad                        | Sobre el trabajo pendiente de ingeniería |
 |                                         | Caja de seguridad del cliente                                | Disponible              |
 |                                         | Clave del cliente                                    | Disponible              |
-|                                         | Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
+|                                         | Privileged Access Management                    | Sobre el trabajo pendiente de ingeniería |
 | **Detección de & responder**                  | Reserva local                            | Disponible              |
 |                                         | Administración de casos                                 | Disponible              |
 |                                         | Búsqueda                                          | Disponible              |

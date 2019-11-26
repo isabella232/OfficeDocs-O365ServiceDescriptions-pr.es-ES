@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cb36484c-0e8f-480e-be88-5daa8bf2d47d
 description: SharePoint Online es una colección de herramientas y tecnologías basadas en Web que ayudan a su organización a almacenar, compartir y administrar información digital. Integrado en Microsoft SharePoint Server 2013, este servicio alojado es ideal para trabajar en proyectos, almacenar datos y documentos en una ubicación central, y compartir información con otros individuos. Las siguientes características de Búsqueda ayudan a los usuarios a encontrar la información que necesitan para hacer su trabajo. La Búsqueda es una combinación de relevancia, refinamiento y personas.
-ms.openlocfilehash: 39fdeaac67d1c7261e93dd45c4181613910d5ed0
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 5e91de48b374109f570168a2c85ae3c1a606ea5f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726206"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263324"
 ---
 # <a name="search"></a>Búsqueda
 

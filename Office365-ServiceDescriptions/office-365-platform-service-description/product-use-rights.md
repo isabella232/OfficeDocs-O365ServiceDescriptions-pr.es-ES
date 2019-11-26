@@ -1,5 +1,5 @@
 ---
-title: Derechos de uso de producto
+title: Derechos de uso del producto
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: d04e780f3d7308c978916fec5238037cbcb208d3
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: bb5ce750365056dc88beee31f627fa7c569849e1
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734077"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262501"
 ---
-# <a name="product-use-rights"></a>Derechos de uso de producto
+# <a name="product-use-rights"></a>Derechos de uso del producto
 
 ## <a name="microsoft-online-services-use-rights"></a>Derechos de uso de Microsoft Online Services
 
 Si cumple con lo estipulado en el Contrato Microsoft Online Subscription, puede usar los servicios en línea y el software relacionado tal y como se permite expresamente en los [Microsoft Online Services Use Rights](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37&ShowArchived=true).
   
-## <a name="office-365-operated-by-21vianet-use-rights"></a>Office 365 operado por 21Vianet Derechos de uso
+## <a name="office-365-operated-by-21vianet-use-rights"></a>Office 365 operado por 21Vianet derechos de uso
 
 Consulte más información sobre el [contrato estándar de servicios en línea](https://www.21vbluecloud.com/office365/O365-AgreeWebDir/) y las [condiciones de uso](https://www.21vbluecloud.com/office365/O365-TOU/).
   
@@ -34,6 +34,6 @@ Para más información sobre los programas de concesión de licencias para su or
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en los planes de Office 365, consulte Descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description.md).
   
 

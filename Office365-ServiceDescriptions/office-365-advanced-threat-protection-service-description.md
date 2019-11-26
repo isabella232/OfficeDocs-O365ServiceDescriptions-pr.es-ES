@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio de Protección contra amenazas avanzada de Office 365
+title: Descripción del servicio de protección contra amenazas avanzada de Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger su Organización de vínculos perjudiciales en tiempo real.
-ms.openlocfilehash: 3295bf261c9412f5881a16e3bc17088f32b4a18e
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 42695e03b95429f44c79b1ff5084f12cd5bd6da5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734178"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262803"
 ---
-# <a name="office-365-advanced-threat-protection-service-description"></a>Descripción del servicio de Protección contra amenazas avanzada de Office 365
+# <a name="office-365-advanced-threat-protection-service-description"></a>Descripción del servicio de protección contra amenazas avanzada de Office 365
 
 Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger su Organización de vínculos perjudiciales en tiempo real. ATP tiene capacidades enriquecidas de informes y seguimiento de URL que proporcionan a los administradores información sobre el tipo de ataques que ocurren en la organización.
 
@@ -27,7 +27,7 @@ Las siguientes son las principales formas en las que puede usar ATP para la prot
 
 - En un escenario de solo filtrado de ATP de Office 365, ATP proporciona protección de correo electrónico basada en la nube para su entorno de Exchange Server local o cualquier otra solución de correo SMTP local.
 
-- Office 365 ATP se puede habilitar para proteger buzones de Exchange Online hospedados en la nube. Para obtener más información sobre Exchange Online, vea [Descripción del servicio Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
+- Office 365 ATP se puede habilitar para proteger buzones de Exchange Online hospedados en la nube. Para obtener más información acerca de Exchange Online, vea la [Descripción del servicio de Exchange Online](exchange-online-service-description/exchange-online-service-description.md).
 
 - En una implementación híbrida, ATP se puede configurar para proteger el entorno de mensajería y controlar el enrutamiento del correo cuando se tiene una mezcla de buzones locales y en la nube con Exchange Online Protection para el filtrado de correo electrónico entrante.
 
@@ -131,7 +131,7 @@ Vínculos seguros está disponible para las direcciones URL en las siguientes ap
 
 ### <a name="real-time-reports"></a>Informes en tiempo real
 
-Las capacidades de supervisión disponibles en el centro de seguridad & cumplimiento de Office 365 incluyen [informes en tiempo real y perspectivas](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) que permiten que los administradores de seguridad y cumplimiento se centren en problemas de alta prioridad, como ataques de seguridad o aumento actividad sospechosa. Además de resaltar las áreas problemáticas, los informes y la información inteligentes incluyen recomendaciones y vínculos para ver y explorar los datos, además de realizar acciones rápidas.
+Las capacidades de supervisión disponibles en el centro de seguridad & cumplimiento de Office 365 incluyen [informes en tiempo real y perspectivas](https://docs.microsoft.com/office365/securitycompliance/view-reports-for-atp) que permiten que los administradores de seguridad y cumplimiento se centren en problemas de alta prioridad, como ataques de seguridad o mayor actividad sospechosa. Además de resaltar las áreas problemáticas, los informes y la información inteligentes incluyen recomendaciones y vínculos para ver y explorar los datos, además de realizar acciones rápidas.
 
 ### <a name="threat-trackers"></a>Rastreadores de amenazas
 

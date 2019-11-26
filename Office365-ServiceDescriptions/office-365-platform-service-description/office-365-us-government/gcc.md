@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Para cumplir con los requisitos exclusivos y en constante evolución de los gobiernos federales, estatales, locales y Tribals, así como los contratistas que retienen o procesan datos en nombre del gobierno de Estados Unidos, Microsoft ofrece los servicios de Office 365 US Government Community (GCC). Disponible a través de varios canales, incluidas las licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Los ensayos solo están disponibles para entidades gubernamentales de Estados Unidos en este momento.
-ms.openlocfilehash: ca481bdb6deb4d686dc713418a412b2085bb3127
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: 5baa9f8d1042ef8470b983d2a38a8a1130b55f34
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890426"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262541"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -23,9 +23,9 @@ Para cumplir con los requisitos exclusivos y en constante evolución de los gobi
   
 Póngase en contacto con su equipo de la cuenta o con su partner de confianza para obtener más información o iniciar el proceso de validación. Puede obtener más información en la página [Comparación de los planes de Office 365 Administración Pública](https://products.office.com/government/compare-office-365-government-plans) página. 
   
-## <a name="how-to-use-this-service-description-section"></a>Cómo utilizar esta sección de descripción del servicio
+## <a name="how-to-use-this-service-description-section"></a>Cómo usar esta sección de Descripción del servicio
 
-La descripción del servicio Office 365 Administración Pública está diseñada para servir como una superposición a la descripción general de servicios de Office 365. Define los compromisos y diferencias únicos con respecto a las ofertas de Office 365 Enterprise.
+La descripción del servicio Office 365 US Government está diseñada para servir como una superposición a la descripción del servicio Office 365 general. Define los compromisos y diferencias únicos con respecto a las ofertas de Office 365 Enterprise.
   
 ## <a name="us-government-community-compliance"></a>Cumplimiento de US Government Community
 
@@ -59,7 +59,7 @@ El personal de Office 365 no tiene acceso permanente al contenido de los cliente
 
 Yammer Enterprise no es un componente de Office 365 Administración Pública, pero puede adquirirse gratuitamente como oferta independiente para cada usuario con licencia para Office 365 Administración Pública, planes E1 y E3. Esta oferta actualmente está limitada a los clientes que compren Office 365 Administración Pública con contrato Enterprise y contratos de suscripción Enterprise. 
   
-Actualmente, Yammer ofrece la separación lógica de los datos de cliente en el nivel de aplicación. En cambio, Yammer no proporciona las mismas características de ubicación de datos y acceso de datos que Office 365 Administración Pública, no es compatible con la acreditación FedRAMP y está sujeto a unos términos de contrato distintos a los servicios de Office 365. Le recomendamos que revise [Descripción del servicio Yammer](../../yammer-service-description/yammer-service-description.md) y las condiciones de privacidad para evaluar el uso apropiado de Yammer en su organización. Para conocer los planes de Office 365 para la Administración pública que incluye Yammer, consulte [Office 365 Administración Pública](office-365-us-government.md).
+Actualmente, Yammer ofrece la separación lógica de los datos de cliente en el nivel de aplicación. En cambio, Yammer no proporciona las mismas características de ubicación de datos y acceso de datos que Office 365 Administración Pública, no es compatible con la acreditación FedRAMP y está sujeto a unos términos de contrato distintos a los servicios de Office 365. Se recomienda que revise la descripción del [servicio de Yammer](../../yammer-service-description/yammer-service-description.md) y los términos de privacidad al evaluar el uso adecuado de Yammer para su organización. Para conocer los planes de Office 365 para la Administración pública que incluye Yammer, consulte [Office 365 Administración Pública](office-365-us-government.md).
   
 Si decide que el uso de Yammer es adecuado para su organización como parte de su suscripción de Office 365 Administración Pública y ha adquirido uno de los planes mencionados anteriormente que incluye Yammer, en la Inscripción Enterprise, puede solicitar una modificación para habilitar la suscripción de Yammer Enterprise.
   

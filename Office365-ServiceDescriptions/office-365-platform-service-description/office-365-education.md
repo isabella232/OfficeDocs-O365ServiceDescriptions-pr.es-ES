@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios&mdash;de colaboración y comunicaciones de próxima generación de Microsoft, incluidos Microsoft Exchange Online, Microsoft SharePoint Online, Office para la&mdash;web y Microsoft Skype empresarial online para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
-ms.openlocfilehash: 958498bca50c736a37398c5ae59dfbe50fd7c4ec
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: eb74436260a66081a959b4c7aaa424387c0adc6c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724648"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263041"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
@@ -23,7 +23,7 @@ Microsoft Office 365 está disponible en varios planes para satisfacer mejor las
   
 En este artículo se enumeran las características de los planes de Office 365 Education (a1, a3 y A5). Para comparar las características de los planes empresariales y empresariales, vea [comparar los planes de office 365 para empresas](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) o, para obtener una lista más detallada de las características, vea la descripción del servicio relevante en [Office 365 Service](../office-365-service-descriptions-technet-library.md)descriptions.
   
-Para buscar artículos de soporte técnico e información, consulte [ayuda y aprendizaje de Office](https://support.office.com/).
+Para buscar artículos de soporte técnico e información, consulte [Office &amp; Help Training](https://support.office.com/).
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilidad del servicio para cada plan
 
@@ -338,7 +338,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Reglas de transporte  <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |
 |Prevención de pérdida de datos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Registro en diario  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Protección contra correo no deseado y malware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Protección contra correo electrónico no deseado y antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Protección contra correo no deseado integrada  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Customize anti-spam policies  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección contra malware integrada  <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |
@@ -346,7 +346,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Cuarentena: gestión de administradores  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cuarentena: autoadministración de usuarios finales  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección contra amenazas avanzada  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|**[Flujo de correo](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Flujo del correo](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Enrutamiento personalizado de correo saliente  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Secure messaging with a trusted partner  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Conditional mail routing  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -472,7 +472,7 @@ Los límites de Microsoft Exchange Online pertenecen a una de las categorías si
 >  - Los límites aplicados a una organización de Microsoft Office 365 pueden ser diferentes según el tiempo que la organización haya estado inscrita en el servicio. Cuando se cambia un límite en los centros de datos de Microsoft, la aplicación de los cambios en todos los clientes existentes puede tardar cierto tiempo. 
 >  - No puede modificar la mayoría de estos límites, pero usted y sus usuarios deben conocerlos. 
 > - Estos límites se aplican tanto a los destinatarios internos como a los externos. 
-> - De forma predeterminada, Exchange Online Protection (EOP) protege los buzones de correo de Exchange Online. Para conocer los límites que se aplican a las características de EOP en Exchange Online, vea [Límites de Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
+> - De forma predeterminada, Exchange Online Protection (EOP) protege los buzones de correo de Exchange Online. Para obtener los límites que se aplican a las características de EOP en Exchange Online, consulte [límites de Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md). 
 >  - Para obtener información sobre los límites de grupo de Office 365, consulte "¿cómo se administran mis grupos?". en [Más información sobre grupos de Office 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2). 
   
 #### <a name="address-book-limits"></a>Límites de la libreta de direcciones
@@ -671,7 +671,7 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
    
 #### <a name="reporting-and-message-trace-limits"></a>Límites de seguimiento de mensajes y creación de informes
 
-Para conocer los límites de seguimiento de mensajes y creación de informes, vea la sección sobre disponibilidad y latencia de datos de seguimiento de mensajes y creación de informes en [Informes y seguimiento de mensajes en la Protección en línea de Exchange](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection).
+Para obtener los informes y los límites de seguimiento de mensajes, consulte la sección "informes, disponibilidad y latencia de los datos de seguimiento de mensajes" en [Reporting and Message Trace in Exchange Online Protection](https://docs.microsoft.com/office365/SecurityCompliance/eop/reporting-and-message-trace-in-exchange-online-protection).
   
 #### <a name="retention-limits"></a>Límites de retención
 
@@ -709,7 +709,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |Número máximo de miembros de un grupo de distribución<sup>1</sup> <br/> |100 000 miembros  <br/> |100 000 miembros  <br/> |100 000 miembros  <br/> |
 |Límite de envío de mensajes a un grupo de distribución grande  <br/> |5 000 o más miembros  <br/> |5 000 o más miembros  <br/> |5 000 o más miembros  <br/> |
 |Tamaño máximo de mensaje para grandes grupos de distribución  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|Número máximo de propietarios de un grupo de distribución  <br/> |metros  <br/> |metros  <br/> |metros  <br/> |
+|Número máximo de propietarios de un grupo de distribución  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Número máximo de grupos que un usuario puede crear  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]

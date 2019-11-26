@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Las siguientes características de interoperabilidad de SharePoint y Skype empresarial están disponibles en Project online.
-ms.openlocfilehash: a4aaaa2790464cc946232254c9813b3081aba290
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 3c81ee0250cf3cf27bb18c83ca823da5a02cac9a
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633679"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263404"
 ---
 # <a name="project-publishing"></a>Publicación de proyecto
 
 Las siguientes características de interoperabilidad de SharePoint y Skype empresarial están disponibles en Project online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea [Descripción del servicio Project Online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [Descripción del servicio de Project online](project-online-service-description.md).
   
 ## <a name="create-a-project-site"></a>Crear un sitio de proyecto
 

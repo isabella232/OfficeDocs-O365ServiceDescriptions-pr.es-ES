@@ -1,5 +1,5 @@
 ---
-title: Administración de cuentas de usuario
+title: User account management
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft Office 365 admite los siguientes métodos para crear, administrar y autenticar usuarios.
-ms.openlocfilehash: a43ecb83bface37e21cca7ca2aa877e878ef362b
-ms.sourcegitcommit: 637906376f304e76a32ecf889394687cb6714493
+ms.openlocfilehash: 947030a8a0e04d5a5bc79cffed20cf054bb8d29e
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37911805"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262121"
 ---
-# <a name="user-account-management"></a>Administración de cuentas de usuario
+# <a name="user-account-management"></a>User account management
 
 Microsoft Office 365 admite los siguientes métodos para crear, administrar y autenticar usuarios. 
   
 > [!NOTE]
-> En este tema, no se incluye información sobre las características de seguridad que admiten o prohíben el acceso a recursos individuales de Office 365 (por ejemplo, el control de acceso basado en roles en Microsoft Exchange Online o la configuración de la seguridad en Microsoft SharePoint Online). Para obtener detalles relacionados con estas características, vea [Descripción del servicio Exchange Online](../exchange-online-service-description/exchange-online-service-description.md) y [Descripción del servicio SharePoint Online](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
+> En este tema, no se incluye información sobre las características de seguridad que admiten o prohíben el acceso a recursos individuales de Office 365 (por ejemplo, el control de acceso basado en roles en Microsoft Exchange Online o la configuración de la seguridad en Microsoft SharePoint Online). Para obtener más información sobre estas características, vea la [Descripción del servicio de Exchange Online](../exchange-online-service-description/exchange-online-service-description.md) y la [Descripción del servicio de SharePoint Online](../sharepoint-online-service-description/sharepoint-online-service-description.md). 
   
 Si necesita información sobre las herramientas que pueden ayudarle a realizar las tareas administrativas, consulte [Herramientas para administrar cuentas de Office 365](https://docs.microsoft.com/office365/enterprise/manage-office-365-accounts). Para aprender a realizar tareas de administración diarias, consulte [Tareas de administración comunes de Office 365](https://docs.microsoft.com/office365/admin/manage/manage).
   

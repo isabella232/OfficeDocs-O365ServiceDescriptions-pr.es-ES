@@ -1,5 +1,5 @@
 ---
-title: Planeación para Microsoft 365 Compliance-GCC
+title: Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - GCC
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades de gobierno de Estados Unidos, estado, locales, tribal o entidades gubernamentales u otras entidades que manejan datos sujetos a los requisitos y las regulaciones gubernamentales, donde el uso de Microsoft 365 Government-GCC es apropiado para cumplir con estos requisitos.
-ms.openlocfilehash: ed9625972b6a12c17527fadf35413806fedd4015
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 2047310d2c0cae95b4908edc17f84d481575bddd
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319498"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262823"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planeación de cumplimiento de Microsoft 365: GCC
 
@@ -69,22 +69,27 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Protección de la información & gobernanza** | Archivado                                       | Disponible              |
 |                                         | Etiquetas y directivas manuales<sup>2</sup>          | Disponible              |
-|                                         | Aplicación automática de etiquetas                      | Sobre el trabajo pendiente de ingeniería |
+|                                         | Aplicación automática de etiquetas                      | Disponible              |
 |                                         | Etiquetas basadas en tipos de datos confidenciales            | Sobre el trabajo pendiente de ingeniería |
-|                                         | Etiquetas y directivas asociadas basadas en consultas | Sobre el trabajo pendiente de ingeniería |
-|                                         | Plan de archivos                                       | Sobre el trabajo pendiente de ingeniería |
+|                                         | Etiquetas y directivas asociadas basadas en consultas | Disponible              |
+|                                         | Plan de archivos                                       | Disponible              |
 |                                         | Directivas recomendadas                            | Sobre el trabajo pendiente de ingeniería |
 |                                         | Filtros de importación inteligente                            | Sobre el trabajo pendiente de ingeniería |
-|                                         | Acerca de la retención basada en eventos                           | Sobre el trabajo pendiente de ingeniería |
-|                                         | Revisión de disposición                              | Sobre el trabajo pendiente de ingeniería |
+|                                         | Acerca de la retención basada en eventos                           | Disponible              |
+|                                         | Revisión de disposición                              | Disponible              |
 |                                         | Barreras de información                            | Disponible              |
 |                                         | Prevención de pérdida de datos (DLP) para archivos y correo electrónico  | Disponible              |
 |                                         | DLP para las conversaciones de canales y chat de Microsoft Teams    | Sobre el trabajo pendiente de ingeniería |
+|                                         | Coincidencia exacta de datos de DLP                            | Sobre el trabajo pendiente de ingeniería |
+|                                         | Explorador de actividad de etiquetas                         | Sobre el trabajo pendiente de ingeniería |
+|                                         | Clasificadores capacitados                           | Sobre el trabajo pendiente de ingeniería |
+|                                         | Etiquetas unificadas y de confidencialidad         | Sobre el trabajo pendiente de ingeniería |
 | **Administración de riesgos de Insider**             | Cifrado de mensajes avanzado                     | Disponible              |
+|                                         | Administración de riesgos de Insider                         | Sobre el trabajo pendiente de ingeniería |
 |                                         | Cumplimiento con la comunidad                        | Sobre el trabajo pendiente de ingeniería |
 |                                         | Caja de seguridad del cliente                                | Disponible              |
 |                                         | Clave del cliente                                    | Disponible              |
-|                                         | Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
+|                                         | Privileged Access Management                    | Sobre el trabajo pendiente de ingeniería |
 | **Detección de & responder**                  | Reserva local                            | Disponible              |
 |                                         | Administración de casos                                 | Disponible              |
 |                                         | Búsqueda                                          | Disponible              |

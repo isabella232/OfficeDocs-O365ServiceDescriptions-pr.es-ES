@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio Exchange Online
+title: Descripción del servicio de Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Desea obtener una comparación de características de las suscripciones a Office 365 que incluyen Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: 331ae092f69ec39cc743e0291e8b4f596dbbb6bc
-ms.sourcegitcommit: 05458701350d269dce45c9a0812d67d653c52621
+ms.openlocfilehash: 2a18ee18d702b31eb4b06c9451d622b611ba734b
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37701370"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262773"
 ---
-# <a name="exchange-online-service-description"></a>Descripción del servicio Exchange Online
+# <a name="exchange-online-service-description"></a>Descripción del servicio de Exchange Online
 
 ¿Desea obtener una comparación de características de las suscripciones a Office 365 que incluyen Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
   
@@ -40,7 +40,7 @@ Las organizaciones que se suscriben a Exchange Online mantienen el control de lo
 Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](https://products.office.com/business/compare-more-office-365-for-business-plans). Para comparar los planes de Office 365 Germany, consulte los [planes de suscripción a Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016).
   
 > [!TIP]
-> Puede exportar, guardar e imprimir páginas en las descripciones de los servicios de Office 365. Obtenga más información sobre cómo [exportar varias páginas](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
+> Puede exportar, guardar e imprimir páginas en las descripciones de servicio de Office 365. Obtenga más información sobre cómo [exportar varias páginas](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
   
 ## <a name="whats-new-in-exchange-online"></a>Novedades de Exchange Online
 
@@ -48,7 +48,7 @@ Para obtener información acerca de las nuevas características de Exchange Onli
   
 ## <a name="office-365-plans-for-exchange-online"></a>Planes de Office 365 para Exchange Online
 
-Office 365 está disponible en una variedad de planes a fin de satisfacer las necesidades de su organización de la mejor manera. Para obtener más información sobre distintos planes, incluidas las opciones de los planes independientes e información sobre cómo cambiar de un plan a otro, consulte [Opciones de planes de Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+Office 365 está disponible en una variedad de planes a fin de satisfacer las necesidades de su organización de la mejor manera. Para obtener información acerca de los diferentes planes, incluidas las opciones de planes independientes e información sobre cómo cambiar de un plan a otro, consulte [Opciones del plan 365 de Office](../office-365-platform-service-description/office-365-plan-options.md).
   
 Cada usuario que tiene acceso al servicio de Exchange Online debe tener asignado un plan de suscripción, y cada suscripción de usuario tiene su propio buzón. Las carpetas y mensajes de estos buzones residen en un ordenador que ejecuta Exchange Server en un centro de datos de Microsoft.
   
@@ -60,7 +60,7 @@ Para conocer los requisitos del sistema para Office 365, el servicio basado en s
   
 ## <a name="storage-and-recipient-limits-for-exchange-online"></a>Límites de destinatarios y almacenamiento para Exchange Online
 
-Para obtener información sobre los límites de destinatarios y almacenamiento disponibles en los planes de suscripción de Exchange Online, vea [Límites de Exchange Online](exchange-online-limits.md).
+Para obtener información acerca de los límites de destinatarios y almacenamiento disponibles en los planes de suscripción de Exchange Online, vea [límites de Exchange Online](exchange-online-limits.md).
   
 ## <a name="feature-availability-across-office-365-plans"></a>Disponibilidad de características en los planes de Office 365
 
@@ -68,7 +68,7 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
   
 |**Característica**|**Exchange Server 2013**|**Exchange Server 2016**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**[Planificación e implementación](planning-and-deployment.md)**|||||||||
+|**[Planeación e implementación](planning-and-deployment.md)**|||||||||
 |Admite implementación híbrida|Sí|Sí|Sí<sup>16</sup>|Sí<sup>16</sup>|Sí|Sí|Sí|Sí<sup>16</sup>|
 |Admite migración IMAP|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Admite la migración total|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -203,7 +203,7 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 
 |**Característica**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |:-----|:-----|:-----|:-----|:-----|:-----|
-|**[Planificación e implementación](planning-and-deployment.md)**||||||
+|**[Planeación e implementación](planning-and-deployment.md)**||||||
 |Admite implementación híbrida|Sí|Sí|Sí|Sí|Sí<sup>23</sup>|
 |Admite migración IMAP|Sí|Sí|Sí|Sí|Sí|
 |Admite la migración total|Sí|Sí|Sí|Sí|Sí|
@@ -212,7 +212,7 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Permisos basados en roles|Sí|Sí|Sí|Sí|No|
 |Grupos de funciones|Sí|Sí|Sí|Sí|No|
 |Directivas de asignación de funciones|Sí|Sí|Sí|Sí|No|
-|**[Regulación de mensajes y cumplimiento normativo](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
+|**[Directiva de mensajes y cumplimiento normativo](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Archivado de buzones basados en Exchange Online|Sí|No|Sí|Sí|No|
 |Archivado basado en nube de buzones locales|Sí <sup>5</sup>|Sí<sup>5</sup>|No|Sí|No|
 |Messaging Records Management (MRM) |Sí|Sí|Sí|Sí|Sí|
@@ -284,7 +284,7 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Correo de voz|Sí|Sí|No|Sí|No|
 |Interoperabilidad de correo de voz de terceros|Sí|Sí|Sí|Sí|Sí|
 |Integración de Skype empresarial|Sí|Sí|Sí|Sí|Sí|
-|**[Alta disponibilidad y continuidad comercial](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
+|**[Alta disponibilidad y continuidad empresarial](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Replicación de buzón en centros de datos|No|No|Sí|Sí|Sí|
 |Recuperación de buzones eliminados|Sí|Sí|Sí|Sí|Sí|
 |Recuperación de elementos eliminados|Sí|Sí|Sí|Sí|Sí|

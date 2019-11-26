@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Con cada suscripción de Microsoft Office 365 Enterprise, Empresa, Educación y Administración Pública, el soporte técnico de Microsoft proporciona soporte técnico, soporte de preventas, facturación y suscripciones en general. El soporte técnico está disponible en línea a través del portal de Office 365 y por teléfono para las suscripciones de pago y de prueba. Para más información, vea las opciones del Soporte técnico de Office 365.
-ms.openlocfilehash: d24a16956331bb939bfd4a7db242208207c08fdd
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 24da9f620219de6453a5db15bf022f22cd528ff6
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37582196"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262221"
 ---
 # <a name="support"></a>Soporte técnico
 
@@ -31,7 +31,7 @@ El equipo de soporte técnico de O365 soluciona únicamente los problemas relaci
   
 ## <a name="community-and-self-service-support-options"></a>Comunidad y opciones de soporte de autoservicio
 
-El soporte de autoservicio está disponible para todos los planes de Office 365. Incluye vídeos y herramientas para la solución de problemas, vídeos y artículos de ayuda, además de foros y wikis de la [comunidad de Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Para más información sobre los recursos de soporte de autoservicio, vea la descripción del servicio de [Ayuda y formación](help-and-training.md).
+El soporte de autoservicio está disponible para todos los planes de Office 365 e incluye herramientas y vídeos de solución de problemas, artículos y vídeos de ayuda, así como foros y wikis en la [comunidad de Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Para obtener más información acerca de los recursos de soporte de autoservicio, vea la descripción del servicio de [ayuda y formación](help-and-training.md) .
   
 ## <a name="pre-sales-support"></a>Soporte para preventas
 
@@ -201,4 +201,4 @@ Si ya adquirió licencias de Microsoft en un programa de licencias por volumen, 
 
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en los planes de Office 365, consulte Descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description.md).

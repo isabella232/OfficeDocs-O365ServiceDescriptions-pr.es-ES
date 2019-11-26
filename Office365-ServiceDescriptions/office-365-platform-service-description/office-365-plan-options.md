@@ -1,5 +1,5 @@
 ---
-title: Opciones de planes de Office 365
+title: Opciones del plan 365 de Office
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -16,14 +16,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización.
-ms.openlocfilehash: 089ce23a2dd086bd78c5401e67f6dcb722a40a76
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633505"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263051"
 ---
-# <a name="office-365-plan-options"></a>Opciones de planes de Office 365
+# <a name="office-365-plan-options"></a>Opciones del plan 365 de Office
 
 Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización.
   
@@ -126,4 +126,4 @@ Los siguientes servicios en línea están disponibles por sí mismos, como plane
    
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en los planes de Office 365, consulte Descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description.md).

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 ofrecido por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: e7ca48d2a7c86e55284e4c9a56956c39f699bef8
-ms.sourcegitcommit: 0eba638406cd5b48e01963664948ca3db0a76822
+ms.openlocfilehash: 0509bd901319ca3268c208f91bd17ea9ad4fd707
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38724768"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263071"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -41,7 +41,7 @@ Cada plan de Office 365 operado por 21Vianet incluye varios servicios individual
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Servicio**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F1 operado por 21Vianet**|
-|Plataforma de Office 365 <sup>1</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Plataforma<sup>1</sup> de Office 365|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Exchange Online|Sí|No|Sí|Sí|Sí|Sí|Sí|
 |SharePoint Online|Sí|No|Sí|Sí|Sí|Sí|Sí|
 |OneDrive para la Empresa|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -191,7 +191,7 @@ En la tabla siguiente se enumeran todas las características de plataforma para 
 |Creación de invitaciones y pedidos de compra de prueba para un cliente que utiliza el plan especificado|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Proporcionar administración delegada|No|No|No|No|No|No|No|
 |**[Contrato de nivel de servicio](service-level-agreement.md)**<sup>9</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Derechos de uso de producto](product-use-rights.md)**<sup>10</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|**[Derechos de uso del producto](product-use-rights.md)**<sup>10</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 
 <sup>1</sup> Office 365 y Office 365 operado por 21Vianet no ofrecen soporte a ningún sistema operativo que no sea compatible con su fabricante.<br/>
 <sup>2</sup> en Office 365 Enterprise F1 operado por 21Vianet, Office 365 video se limita a la visualización (no se pueden publicar ni compartir). <br/>
@@ -337,7 +337,7 @@ En la siguiente tabla se enumeran los servicios de Exchange Online que están di
 |Reglas de flujo del correo (reglas de transporte)|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
 |Prevención de pérdida de datos|No|No|No|No|No|Sí|No|
 |Registro en diario|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Protección contra correo no deseado y malware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F1 operado por 21Vianet**|
+|**[Protección contra correo electrónico no deseado y antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F1 operado por 21Vianet**|
 |Protección contra correo no deseado integrada|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Customize anti-spam policies|Sí|Sí|Sí|Sí|Sí|Sí|Sí <sup>4</sup>|
 |Protección contra malware integrada|Sí<sup>5</sup>|Sí<sup>5</sup>|Sí<sup>5</sup>|Sí<sup>5</sup>|Sí<sup>5</sup>|Sí<sup>5</sup>|Sí<sup>5</sup>|
@@ -345,7 +345,7 @@ En la siguiente tabla se enumeran los servicios de Exchange Online que están di
 |Cuarentena: gestión de administradores|Sí|Sí|Sí|Sí|Sí|Sí|Sí <sup>4</sup>|
 |Cuarentena: autoadministración de usuarios finales|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Protección contra amenazas avanzada|No|--|No|No|No|No|No|
-|**[Flujo de correo](../exchange-online-service-description/mail-flow.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F1 operado por 21Vianet**|
+|**[Flujo del correo](../exchange-online-service-description/mail-flow.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F1 operado por 21Vianet**|
 |Enrutamiento personalizado de correo saliente|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Secure messaging with a trusted partner|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Conditional mail routing|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -460,7 +460,7 @@ Para obtener información acerca de los límites de Exchange Online, consulte lo
 > - Los límites aplicados a una organización de Microsoft Office 365 pueden ser diferentes según el tiempo que la organización haya estado inscrita en el servicio. Cuando se cambia un límite en los centros de datos de Microsoft, la aplicación de los cambios en todos los clientes existentes puede tardar cierto tiempo.
 > - No puede modificar la mayoría de estos límites, pero usted y sus usuarios deben conocerlos.
 > - Estos límites se aplican tanto a los destinatarios internos como a los externos.
-> - De forma predeterminada, Exchange Online Protection (EOP) protege los buzones de correo de Exchange Online. Para conocer los límites que se aplican a las características de EOP en Exchange Online, vea [Límites de Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
+> - De forma predeterminada, Exchange Online Protection (EOP) protege los buzones de correo de Exchange Online. Para obtener los límites que se aplican a las características de EOP en Exchange Online, consulte [límites de Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
 
 ## <a name="exchange-online-protection-features"></a>Características de Exchange Online Protection
 
@@ -1136,9 +1136,9 @@ En la siguiente tabla se enumeran las características de Project Online que est
 |[Administración, implementación y extensibilidad](../project-online-service-description/core-services-functionality.md#administration-deployment-and-extensibility)|No<sup>2</sup>|Sí|Sí|No|Sí|
 |[Introducción](../project-online-service-description/core-services-functionality.md#getting-started)|Sí|Sí|Sí|No|Sí|
 |[Administración de problemas y riesgos (para integrantes del equipo)](../project-online-service-description/core-services-functionality.md#issues-and-risk-management-for-team-members)|Sí|Sí|Sí|No|Sí|
-|[Centro de confianza de Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|No|No|No|No aplicable|No aplicable|
+|[Centro de confianza de Office 365](../project-online-service-description/core-services-functionality.md#office-365-trust-center)|No|No|No|N/D|N/D|
 |[Ecosistema de socios PPM](../project-online-service-description/core-services-functionality.md#ppm-partner-ecosystem)|Sí|Sí|Sí|No|Sí|
-|[Confiabilidad del servicio](../project-online-service-description/core-services-functionality.md#service-reliability)|Sí|Sí|Sí|N/D|No aplicable|
+|[Confiabilidad del servicio](../project-online-service-description/core-services-functionality.md#service-reliability)|Sí|Sí|Sí|N/D|N/D|
 |[Actualizaciones de servicio](../project-online-service-description/core-services-functionality.md#service-updates)|Sí|Sí|Sí|N/D|N/D|
 |[Colaboración de integrantes del equipo](../project-online-service-description/core-services-functionality.md#team-member-collaboration)|Sí|Sí|Sí|No|Sí|
 |[Administración de tiempo y tareas (para integrantes del equipo)](../project-online-service-description/core-services-functionality.md#time-and-task-management-for-team-members)|Sí|Sí|Sí|No|Sí|

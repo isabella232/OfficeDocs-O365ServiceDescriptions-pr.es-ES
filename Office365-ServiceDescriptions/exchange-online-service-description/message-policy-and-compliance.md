@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 7311747d3f1e147a5ed3d9a0c363100616829137
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 88b02766477284ff46f69a6cedb2468ff08ff1b1
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581966"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262583"
 ---
 # <a name="message-policy-and-compliance"></a>Directiva de mensajes y cumplimiento normativo
 
@@ -40,7 +40,7 @@ Para obtener más información, vea:
     
 ### <a name="archive-sizes"></a>Tamaños de archivo
 
-Solo los datos de mensajería de un usuario pueden almacenarse en cada archivo personal. La asignación de almacenamiento depende del plan de suscripción. Para obtener más información sobre los buzones de archivo, vea la sección "Límites de almacenamiento de buzones" en [Límites de Exchange Online](exchange-online-limits.md).
+Solo los datos de mensajería de un usuario pueden almacenarse en cada archivo personal. La asignación de almacenamiento depende del plan de suscripción. Para obtener más información acerca de los tamaños de los buzones de archivo, consulte la sección "límites de almacenamiento de buzones" en [límites de Exchange Online](exchange-online-limits.md).
   
 > [!IMPORTANT]
 > - Con el registro en diario, las reglas de transporte o las reglas de transferencia automática para copiar mensajes en un buzón de Exchange Online con fines de archivo no está permitido. Microsoft se reserva el derecho de rechazar el archivado ilimitado en los casos en que un archivo de buzón no se utilice en un escenario personal. 

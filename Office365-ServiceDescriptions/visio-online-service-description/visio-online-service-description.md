@@ -9,13 +9,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Con Visio para la web, puede ver, editar y compartir diagramas de Visio en la Web. Empiece con un diagrama básico para expresar ideas comunes, como representar un plan, realizar una propuesta o describir una secuencia de pasos en un proceso. Es fácil y sencillo crear diagramas de primera clase con los tipos de diagramas más usados y conjuntos de formas enriquecidas. Visio para los usuarios Web puede ver y colaborar compartiendo diagramas e insertando comentarios en los archivos cargados en SharePoint Online o OneDrive para la empresa online.
-ms.openlocfilehash: 65ee3eb301293ca50444184f50aaed9bc51d9f43
-ms.sourcegitcommit: 7f14f436acd09a4389ac4b8bbe54c6069e5268da
+description: Con Visio para la web, puede ver, editar y compartir diagramas de Visio en la Web.
+ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2019
-ms.locfileid: "36450304"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263233"
 ---
 # <a name="visio-for-the-web-service-description"></a>Visio para la descripción del servicio Web
 
@@ -27,7 +27,7 @@ Para obtener ayuda al usar Visio para la web, vea [centro de ayuda de Visio](htt
   
 ## <a name="feature-availability-and-comparison"></a>Disponibilidad y comparación de características
 
-En la tabla siguiente se comparan las características de la característica Web de las aplicaciones de escritorio de Visio enriquecidas con características. Use la tabla para descubrir qué características están disponibles en Visio para la web y, a continuación, haga clic en el nombre de la característica para leer una breve descripción de cómo funciona la característica. Es posible que descubra que algunas personas de su organización necesitan capacidades avanzadas de la aplicación de escritorio de Visio mientras que otras solo necesitan ver y modificar los diagramas de Visio con Visio para la Web. 
+En la tabla siguiente se comparan las características de la característica Web de las aplicaciones de escritorio de Visio enriquecidas con características. Use la tabla para descubrir qué características están disponibles en Visio para la web y, a continuación, seleccione el nombre de la característica para leer una breve descripción de cómo funciona la característica. Es posible que descubra que algunas personas de su organización necesitan capacidades avanzadas de la aplicación de escritorio de Visio mientras que otras solo necesitan ver y modificar los diagramas de Visio con Visio para la Web. 
   
 ||||
 |:-----|:-----|:-----|
@@ -41,15 +41,15 @@ En la tabla siguiente se comparan las características de la característica Web
 |[Insertar diagrama en una página de blog, web o SharePoint](visio-online.md#embed-diagram-in-a-sharepoint-web-or-blog-page) <br/> |Sí  <br/> |No  <br/> |
 |[Buscar](visio-online.md#find) <br/> |Sí  <br/> |Sí  <br/> |
 |[Formato de fuente](visio-online.md#font-formatting) <br/> |Sí  <br/> |Sí  <br/> |
-|[](visio-online.md#hyperlinks) Hipervínculos <sup>1</sup> <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |
+|[Hipervínculos](visio-online.md#hyperlinks)<sup>1</sup> <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |
 |[Navegación](visio-online.md#navigation) <br/> |Sí  <br/> |Sí  <br/> |
 |[Complementos de Office](visio-online.md#office-add-ins) <br/> |No  <br/> |Sí  <br/> |
 |[Visualización sin conexión](visio-online.md#offline-viewing) <br/> |No  <br/> |Sí  <br/> |
-|[Imprimir en PDF](visio-online.md#print-to-pdf) <br/> |Sí<sup>4</sup> <br/> |Sí  <br/> |
+|[Impresión en PDF](visio-online.md#print-to-pdf) <br/> |Sí<sup>4</sup> <br/> |Sí  <br/> |
 |[Herramientas de corrección](visio-online.md#proofing-tools) <br/> |No  <br/> |Sí  <br/> |
 |[Coautoría en tiempo real](visio-online.md#real-time-co-authoring) <br/> |No  <br/> |Sí  <br/> |
 |[Guardar como o descargar una copia](visio-online.md#save-as-or-download-a-copy) <br/> |Sí  <br/> |Sí  <br/> |
-|[Compartir un diagrama](visio-online.md#share-a-diagram) <sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |
+|[Compartir un diagrama](visio-online.md#share-a-diagram)<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |
 |[SmartArt](visio-online.md#smartart) <br/> |No  <br/> |Sí  <br/> |
 |[Información](visio-online.md#tell-me) <br/> |No  <br/> |Sí  <br/> |
 |[Deshacer y rehacer](visio-online.md#undo-and-redo) <br/> |No  <br/> |Sí  <br/> |

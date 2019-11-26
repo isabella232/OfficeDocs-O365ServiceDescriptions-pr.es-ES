@@ -14,25 +14,25 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: El archivado de Microsoft Exchange Online es una solución de archivado de clase empresarial, basada en la nube de Microsoft Office 365, para organizaciones que han implementado Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 y versiones posteriores) o suscribirse a determinados planes de Exchange Online u Office 365. Archivado de Exchange Online ayuda a satisfacer las necesidades de estas organizaciones relacionadas con el archivo, el cumplimiento normativo, las disposiciones legales y la exhibición de documentos electrónicos, al mismo tiempo que simplifica la infraestructura local, reduce costes y facilita el trabajo de TI.
-ms.openlocfilehash: 139db7903e9b0fe61b9fc6aab3a90a7ef8e1bdee
-ms.sourcegitcommit: 7ceeebe425223c2cc8d6bd26a4a79b1e1d329b6f
+ms.openlocfilehash: 79933bce411219b95b73021c9d8afde3a9f81a0c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38319478"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260525"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de archivado de Exchange Online
 
 El archivado de Microsoft Exchange Online es una solución de archivado de clase empresarial, basada en la nube de Microsoft Office 365, para organizaciones que han implementado Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 y versiones posteriores) o suscribirse a determinados planes de Exchange Online u Office 365. Archivado de Exchange Online ayuda a satisfacer las necesidades de estas organizaciones relacionadas con el archivo, el cumplimiento normativo, las disposiciones legales y la exhibición de documentos electrónicos, al mismo tiempo que simplifica la infraestructura local, reduce costes y facilita el trabajo de TI.
   
-Como un servicio online de Microsoft Office 365, Archivado de Exchange Online fue diseñado para ayudar a satisfacer la necesidad de una seguridad sólida, confiabilidad y productividad de los usuarios. Para obtener más información acerca de Office 365, lo cual incluye funciones comunes a todos los servicios en línea de Office 365, vea [Descripción del servicio de la plataforma de Office 365](../office-365-platform-service-description/office-365-platform-service-description.md).
+Como un servicio online de Microsoft Office 365, Archivado de Exchange Online fue diseñado para ayudar a satisfacer la necesidad de una seguridad sólida, confiabilidad y productividad de los usuarios. Para obtener más información acerca de Office 365, incluidas las características comunes a todos los servicios en línea de Office 365, consulte la [Descripción del servicio](../office-365-platform-service-description/office-365-platform-service-description.md)de la plataforma de Office 365.
   
 Para comprar el Archivado de Exchange Online, consulte [Archivado de Exchange Online](https://products.office.com/exchange/microsoft-exchange-online-archiving-email).
   
 Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 > [!TIP]
-> Puede exportar, guardar e imprimir páginas en las descripciones de los servicios de Office 365. Obtenga más información sobre cómo [exportar varias páginas](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
+> Puede exportar, guardar e imprimir páginas en las descripciones de servicio de Office 365. Obtenga más información sobre cómo [exportar varias páginas](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
   
 ## <a name="exchange-online-archiving-plans"></a>Planes de Archivado de Exchange Online
 
@@ -49,9 +49,9 @@ Archivado de Exchange Online está disponible a través de los siguientes planes
 <br/>
 <sup>2</sup> Los planes de Plan 1 de Exchange Online y Office 365 Empresa tienen un [límite de tamaño de buzón de correo y archivo](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits). El complemento Archivado de Exchange Online para Exchange Online agrega [Retención local y retención por juicio](compliance-and-security-features.md#in-place-hold-and-litigation-hold) y funcionalidad de archivado basada en la nube sin limitaciones.
   
-¿Está buscando información sobre todos los planes de Office 365? Office 365 está disponible en una variedad de planes a fin de satisfacer las necesidades de su organización de la mejor manera. Para obtener más información sobre distintos planes, incluidas las opciones de los planes independientes e información sobre cómo cambiar de un plan a otro, consulte [Opciones de planes de Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+¿Está buscando información sobre todos los planes de Office 365? Office 365 está disponible en una variedad de planes a fin de satisfacer las necesidades de su organización de la mejor manera. Para obtener información acerca de los diferentes planes, incluidas las opciones de planes independientes e información sobre cómo cambiar de un plan a otro, consulte [Opciones del plan 365 de Office](../office-365-platform-service-description/office-365-plan-options.md).
   
-## <a name="requirements"></a>Requisitos
+## <a name="requirements"></a>Requirements
 
 Para usar el archivado de Exchange Online para Exchange Server, los buzones de correo de los usuarios deben residir en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange Server 2010 (SP2 o posterior).
   

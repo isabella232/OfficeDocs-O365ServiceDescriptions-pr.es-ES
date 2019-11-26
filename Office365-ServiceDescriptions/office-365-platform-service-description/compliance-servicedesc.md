@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 cumple con los estándares y regulaciones de la industria y está diseñado para ayudarle a cumplir los requisitos normativos de su empresa. Para obtener más información, vea ofertas de cumplimiento.
-ms.openlocfilehash: 8d93ff65402361b610ef6a41ed855667a0cdc8b6
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: 71caa7bdb60410bbebce86c60564438d37d47e55
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523465"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262873"
 ---
 # <a name="compliance"></a>Cumplimiento
 
@@ -59,9 +59,9 @@ Para ayudar a las organizaciones a cumplir con los requisitos nacionales, region
     
 - FISMA
     
-- Normas
+- GxP
     
-- HIPAA/ALTA TECNOLOGÍA
+- HIPAA/HITECH
     
 - CCSL (IRAP)
     
@@ -101,7 +101,7 @@ Además, tenga en cuenta las siguientes preguntas para PCI-DSS:
     
 - **¿Cómo puede Office 365 ayudar a mi organización con PCI-DSS?**
     
-  - Office 365 proporciona una plataforma segura para que los clientes se comuniquen y colaboren. Microsoft opera el servicio de forma segura y le proporciona un amplio conjunto de características de cumplimiento y seguridad que puede usar para proteger sus datos durante su ciclo de vida. Con características como [prevención de pérdida de datos (DLP)](https://go.microsoft.com/fwlink/?linkid=868520), [gobierno de datos avanzado](https://go.microsoft.com/fwlink/?linkid=863925), [Azure Information Protection (AIP)](https://go.microsoft.com/fwlink/?linkid=868521), puede activar directivas para detectar y etiquetar automáticamente contenido confidencial cuando datos como números de tarjetas de crédito, SWIFT están presentes los códigos, los números de enrutamiento ABA, etc. Puede encontrar una lista de nuestros tipos de información confidencial integrada [aquí](https://go.microsoft.com/fwlink/?linkid=868522)y también puede seguir las instrucciones [aquí](https://go.microsoft.com/fwlink/?linkid=868523) para crear sus propios tipos de información confidencial. Con las directivas adecuadas aplicadas por el cliente, las organizaciones pueden retener los datos automáticamente durante un período de tiempo determinado y proteger su contenido evitando que los usuarios compartan datos confidenciales. Si los clientes necesitan compartir datos confidenciales por correo electrónico con cualquier persona dentro o fuera de la organización, los clientes pueden aplicar el cifrado y la protección de derechos con el [cifrado de mensajes de Office 365](https://go.microsoft.com/fwlink/?linkid=858986) de modo que solo las partes autorizadas puedan leer el mensaje protegido. 
+  - Office 365 proporciona una plataforma segura para que los clientes se comuniquen y colaboren. Microsoft opera el servicio de forma segura y le proporciona un amplio conjunto de características de cumplimiento y seguridad que puede usar para proteger sus datos durante su ciclo de vida. Con características como [prevención de pérdida de datos (DLP)](https://go.microsoft.com/fwlink/?linkid=868520), [gobierno de datos avanzado](https://go.microsoft.com/fwlink/?linkid=863925), [Azure Information Protection (AIP)](https://go.microsoft.com/fwlink/?linkid=868521), puede activar directivas para detectar y etiquetar automáticamente contenido confidencial cuando se encuentren datos como números de tarjetas de crédito, códigos SWIFT, números de enrutamiento ABA, etc. Puede encontrar una lista de nuestros tipos de información confidencial integrada [aquí](https://go.microsoft.com/fwlink/?linkid=868522)y también puede seguir las instrucciones [aquí](https://go.microsoft.com/fwlink/?linkid=868523) para crear sus propios tipos de información confidencial. Con las directivas adecuadas aplicadas por el cliente, las organizaciones pueden retener los datos automáticamente durante un período de tiempo determinado y proteger su contenido evitando que los usuarios compartan datos confidenciales. Si los clientes necesitan compartir datos confidenciales por correo electrónico con cualquier persona dentro o fuera de la organización, los clientes pueden aplicar el cifrado y la protección de derechos con el [cifrado de mensajes de Office 365](https://go.microsoft.com/fwlink/?linkid=858986) de modo que solo las partes autorizadas puedan leer el mensaje protegido. 
     
 - **Gramm-Leach-Bliley Act (GLB)** La GLB estable requisitos mínimos de seguridad y privacidad para instituciones financieras en los Estados Unidos. El software ni los servicios no pueden declarar que "cumplen con GLB", debido a que el cumplimiento con GLB requiere procedimientos y directivas. Dos de las principales reglamentaciones de GLB que afectan los servicios de Office 365 son: 
     
@@ -111,5 +111,5 @@ Además, tenga en cuenta las siguientes preguntas para PCI-DSS:
     
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en los planes de Office 365, consulte Descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description.md).
   

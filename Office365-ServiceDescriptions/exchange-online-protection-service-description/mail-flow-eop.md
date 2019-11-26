@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
 description: Para la mayoría de las organizaciones que usan Office 365, hospedamos sus buzones y nos ocupamos del flujo de correo. Es la configuración más sencilla y significa que Office 365 administra todos los buzones y el filtrado. En cambio, algunas organizaciones tienen una empresa que necesita mantener todos sus buzones de manera local. Exchange Online Protection (EOP) le permite hacer esto y proporciona procesamiento de correo electrónico no deseado y contra correo no deseado en la nube.
-ms.openlocfilehash: 9fac8159a7fba6757ec28d7a45248bd06dba3fb7
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: c6a41df3e8b8c157d599f6a9d55be4b7f826e1d9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581856"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39260945"
 ---
 # <a name="mail-floweop"></a>Flujo de correo [EOP]
 
 Para la mayoría de las organizaciones que usan Office 365, hospedamos sus buzones y nos ocupamos del flujo de correo. Es la configuración más sencilla y significa que Office 365 administra todos los buzones y el filtrado. En cambio, algunas organizaciones tienen una empresa que necesita mantener todos sus buzones de manera local. Exchange Online Protection (EOP) le permite hacer esto y proporciona procesamiento de correo electrónico no deseado y contra correo no deseado en la nube. Para obtener más información y para comprar EOP, vaya a [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
-¿Busca información sobre la administración de dominios o el bloqueo perimetral basado en directorios (DBEB)? Consulte [Administración de destinatarios, dominios y compañías](recipient-domain-and-company-management.md). Para más información sobre todas las características de EOP, vea [Descripción de servicio Protección en línea de Exchange](exchange-online-protection-service-description.md).
+¿Busca información sobre la administración de dominios o el bloqueo perimetral basado en directorios (DBEB)? Consulte [Administración de destinatarios, dominios y compañías](recipient-domain-and-company-management.md). Para obtener más información sobre todas las características de EOP, vea la [Descripción del servicio de protección en línea de Exchange](exchange-online-protection-service-description.md).
   
 ## <a name="routing-email-between-office-365-and-your-own-email-servers"></a>Enrutar correo electrónico entre Office 365 y sus servidores de correo electrónico propios
 

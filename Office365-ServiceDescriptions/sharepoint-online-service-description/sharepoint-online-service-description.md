@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio SharePoint Online
+title: Descripción del servicio de SharePoint Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Microsoft SharePoint Online en Office 365 faculta a las personas para que compartan y trabajen en conjunto, para informar y atraer a otros en la empresa, transformar los procesos empresariales y aprovechar los conocimientos colectivos. Además, SharePoint proporciona capacidades para que las organizaciones protejan y administren datos y creen soluciones personalizadas.
-ms.openlocfilehash: c5bc41b1ff74df9f243b5c04aab77893c437bcb5
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: f5ff485410e915cd77bebe33dc18be12aebcd593
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890416"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263314"
 ---
-# <a name="sharepoint-online-service-description"></a>Descripción del servicio SharePoint Online
+# <a name="sharepoint-online-service-description"></a>Descripción del servicio de SharePoint Online
 
 Microsoft SharePoint Online en Office 365 faculta a las personas para que compartan y trabajen en conjunto, para informar y atraer a otros en la empresa, transformar los procesos empresariales y aprovechar los conocimientos colectivos. Además, SharePoint proporciona capacidades para que las organizaciones protejan y administren datos y creen soluciones personalizadas. Para obtener una introducción rápida, vea [¿Qué es SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
@@ -40,13 +40,13 @@ Para conocer los requisitos del sistema para Office 365, el servicio basado en s
   
 ## <a name="sharepoint-online-boundaries-and-limits"></a>Límites de SharePoint Online
 
-Hay algunos límites en el servicio de SharePoint Online administrado por Microsoft, como las cuotas de colección de sitios, los límites de carga de archivos y los límites de almacenamiento. Para más información, vea [Límites de SharePoint Online](sharepoint-online-limits.md).
+Hay algunos límites en el servicio de SharePoint Online administrado por Microsoft, como las cuotas de colección de sitios, los límites de carga de archivos y los límites de almacenamiento. Para obtener más información, vea [límites de SharePoint Online](sharepoint-online-limits.md).
   
 Para obtener más información acerca de los dispositivos móviles compatibles, consulte [Usar un dispositivo móvil para trabajar con sitios de SharePoint Online](https://support.office.com/article/a99f2acf-381a-442c-b305-3e74c251bcb6).
   
 ## <a name="subscription-options"></a>Opciones de suscripción
 
-Office 365 está disponible en una variedad de planes a fin de satisfacer las necesidades de su organización de la mejor manera. Para obtener más información sobre distintos planes, incluidas las opciones de los planes independientes e información sobre cómo cambiar de un plan a otro, consulte [Opciones de planes de Office 365](../office-365-platform-service-description/office-365-plan-options.md).
+Office 365 está disponible en una variedad de planes a fin de satisfacer las necesidades de su organización de la mejor manera. Para obtener información acerca de los diferentes planes, incluidas las opciones de planes independientes e información sobre cómo cambiar de un plan a otro, consulte [Opciones del plan 365 de Office](../office-365-platform-service-description/office-365-plan-options.md).
   
 Cada persona que acceda a SharePoint Online deberá asignarse a un plan de Office 365 o a un servicio independiente de SharePoint Online (plan 1) o SharePoint Online (plan 2). Sin embargo, un plan de Firstline no se vende como una oferta independiente, solo como parte de la suscripción de Firstline, como SharePoint Online Firstline. Como los trabajadores Firstline no pueden ser administradores, los inquilinos con trabajadores de Firstline requieren al menos un administrador de la empresa para administrar SharePoint. Los trabajadores de Firstline no verán los menús de navegación de SharePoint, de modo que los trabajadores de Firstline tengan que navegar directamente a los sitios de SharePoint por dirección URL.
   
@@ -105,16 +105,16 @@ Use la tabla siguiente para ver si una característica de SharePoint está dispo
 |[Colecciones de sitios de encabezado host](it-professional.md#host-header-site-collections) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |[Administración de dispositivos móviles para Office 365](it-professional.md#mobile-device-management-for-office-365) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
 |[OAuth](it-professional.md#oauth) <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración de revisiones](it-professional.md#patch-management) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
+|[Administración de revisiones](it-professional.md#patch-management) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
 |[Plantillas de cuota](it-professional.md#quota-templates) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Compatibilidad con bases de datos de solo lectura](it-professional.md#read-only-database-support) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
-|[Almacenamiento remoto de blobs](it-professional.md#remote-blob-storage) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración de solicitudes](it-professional.md#request-management) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
-|[Limitación de recursos](it-professional.md#resource-throttling) <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
+|[Compatibilidad con bases de datos de solo lectura](it-professional.md#read-only-database-support) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
+|[Almacenamiento remoto de blobs](it-professional.md#remote-blob-storage) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
+|[Administración de solicitudes](it-professional.md#request-management) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
+|[Limitación de recursos](it-professional.md#resource-throttling) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
 |[Plataforma de aplicaciones de servicio](it-professional.md#service-application-platform) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Analizador de mantenimiento de SharePoint](it-professional.md#sharepoint-health-analyzer) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Centro de administración de SharePoint (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No<sup>4</sup> <br/> |No aplicable  <br/> |N/D  <br/> |
-|Centro de administración central de SharePoint  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |No aplicable  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
+|[Centro de administración de SharePoint (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No<sup>4</sup> <br/> |N/D  <br/> |N/D  <br/> |
+|Centro de administración central de SharePoint  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
 |[Directivas de cumplimiento de colección de sitios](it-professional.md#site-collection-compliance-policies) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Informes y registro de uso](it-professional.md#usage-reporting-and-logging) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Soporte técnico de Windows PowerShell](it-professional.md#windows-powershell-support) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |

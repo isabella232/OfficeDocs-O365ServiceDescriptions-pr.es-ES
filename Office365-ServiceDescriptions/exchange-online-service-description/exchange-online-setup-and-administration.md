@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: En este artículo se describen los controles de administración y la compatibilidad que hay disponibles para personalizar la configuración de Exchange Online y mantener el entorno de Exchange online en funcionamiento, en ejecución y actualizado de la organización. Incluye información sobre las herramientas de administración de autoservicio y las capacidades disponibles para las organizaciones, las responsabilidades de administración de Microsoft y los compromisos de rendimiento, además de las actualizaciones de productos y servicios.
-ms.openlocfilehash: 2cb5dc23c744e37089e75aec7e7e911775c179b6
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: 1665afcc165f1dee8e5efbfdfa2e2f4f15f167a5
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581986"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262613"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Configuración y administración de Exchange Online
 
@@ -74,7 +74,7 @@ Exchange Online admite las mismas directivas de ActiveSync para dispositivos mó
   
 ### <a name="message-tracking-for-exchange-online"></a>Seguimiento de mensajes para Exchange Online
 
-El seguimiento de mensajes mediante la característica de informes de entrega se describe en el siguiente tema: [Herramientas de resolución de problemas y características de informes](reporting-features-and-troubleshooting-tools.md).
+El seguimiento de mensajes mediante la característica de informes de entrega se describe en el siguiente tema: [herramientas de solución de problemas y características de informes](reporting-features-and-troubleshooting-tools.md).
   
 ### <a name="usage-reporting-for-exchange-online"></a>Informes de uso para Exchange Online
 
@@ -92,7 +92,7 @@ Para obtener más información sobre los cmdlets de Windows PowerShell que se us
   
 ### <a name="auditing-for-exchange-online"></a>Auditoría para Exchange Online
 
-La característica de registro de auditoría se describe en el siguiente tema: [Herramientas de resolución de problemas y características de informes](reporting-features-and-troubleshooting-tools.md).
+La característica de registro de auditoría se describe en el siguiente tema: [herramientas de solución de problemas y características de informes](reporting-features-and-troubleshooting-tools.md).
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Actualizaciones de productos y servicios para Exchange Online
 

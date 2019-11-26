@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: 648fe5c4d3944c0bd388ac6693ec7b662bc89319
-ms.sourcegitcommit: 22df8693c06778dce3fec6df57fce74d5e6ea061
+ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/07/2019
-ms.locfileid: "38020267"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39261921"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
@@ -102,7 +102,7 @@ Después de crear una tabla de Excel, es posible que solo desee el estilo de tab
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Puede cortar, copiar y pegar texto, números, ecuaciones, formas, gráficos e imágenes. Si tiene datos en columnas que necesita girar para reorganizarlos en filas, use la característica de **transponer** en el menú **pegar** .
+Puede cortar, copiar y pegar texto, hipervínculos, números, fórmulas, formas, gráficos e imágenes. Si tiene datos en columnas que necesita girar para reorganizarlos en filas, use la característica de **transponer** en el menú **pegar** . Obtenga más información sobre [copiar y pegar en Excel para la web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline).
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
@@ -284,7 +284,7 @@ No está disponible en Excel para la Web. Si la aplicación de escritorio de Exc
 
 ¿Desea tener su propia copia del libro? Utilice el comando Guardar como ubicado en la ficha Archivo o haga clic con el botón secundario en el nombre del libro de su carpeta y utilice el comando Descargar para enviar una copia a su equipo.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Compartir
 
 Proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre cómo [usar Office para la web para trabajar juntos en office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   

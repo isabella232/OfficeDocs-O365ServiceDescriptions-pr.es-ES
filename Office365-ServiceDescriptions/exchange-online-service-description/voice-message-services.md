@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a02af6e2-75c2-4e83-843e-77241072068e
-ms.openlocfilehash: 34a1d6a4cbadfb17054aa606a0ae9f25d80b53ac
-ms.sourcegitcommit: 19591e97b35c1b2a99e04a496d83af27dc6530d6
+ms.openlocfilehash: c1df4da5a1877728b3060e5605071d8175d1c503
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "37581436"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262693"
 ---
 # <a name="voice-message-services"></a>Servicios de mensajes de voz
 
@@ -76,7 +76,7 @@ Interoperabilidad del correo de voz de terceros
   
 ## <a name="skype-for-business-integration"></a>Integración con Skype Empresarial
 
-Las organizaciones pueden comprar Skype Empresarial Online como servicio independiente o como parte de Microsoft Office 365. Para obtener más información sobre Skype Empresarial, consulte [Descripción del servicio Skype Empresarial Online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
+Las organizaciones pueden comprar Skype Empresarial Online como servicio independiente o como parte de Microsoft Office 365. La implementación local de Skype empresarial 2015 también es compatible. Para obtener más información sobre Skype empresarial online, vea [Descripción del servicio Skype empresarial online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

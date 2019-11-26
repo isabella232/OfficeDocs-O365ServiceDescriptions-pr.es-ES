@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio Microsoft Dynamics 365 (Online)
+title: Descripción del servicio Microsoft Dynamics 365 (en línea)
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: A partir de la actualización de diciembre de 2016 para Dynamics 365 (en línea y local), la funcionalidad de Dynamics CRM ahora se incluye como parte de Dynamics 365, un conjunto de aplicaciones empresariales inteligentes. Dynamics 365 unifica las capacidades de administración de las relaciones con el cliente (CRM) y planeación de recursos empresariales (ERP) al ofrecer nuevas aplicaciones para ayudar a administrar funciones empresariales específicas.
-ms.openlocfilehash: ae234baf353258f6d2158c2636a8139133a812ee
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.openlocfilehash: 35a1dbe7eef9fed64ad1738d84687a39ca45bef9
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37734188"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262813"
 ---
-# <a name="microsoft-dynamics-365-online-service-description"></a>Descripción del servicio Microsoft Dynamics 365 (Online)
+# <a name="microsoft-dynamics-365-online-service-description"></a>Descripción del servicio Microsoft Dynamics 365 (en línea)
 
 A partir de la actualización de diciembre de 2016 para Dynamics 365 (en línea y local), la funcionalidad de Dynamics CRM ahora se incluye como parte de Dynamics 365, un conjunto de aplicaciones empresariales inteligentes. Dynamics 365 unifica las capacidades de administración de las relaciones con el cliente (CRM) y planeación de recursos empresariales (ERP) al ofrecer nuevas aplicaciones para ayudar a administrar funciones empresariales específicas.
   
@@ -120,7 +120,7 @@ Las ventanas de tiempo de inactividad para el servicio Dynamics 365 se definen d
 |Semanal  <br/> |Sin impacto/sin tiempo de inactividad  <br/> |Centro de mensajes  <br/> |48 horas  <br/> |
 |Mensualmente  <br/> |Sin impacto/sin tiempo de inactividad  <br/> |Centro de mensajes  <br/> |48 horas  <br/> |
 |Paquete acumulativo de actualizaciones  <br/> |Sin impacto/sin tiempo de inactividad  <br/> |Centro de mensajes  <br/> |48 horas  <br/> |
-|Actualización principal  <br/> |Programada por el cliente y completada dentro de la ventana seleccionada  <br/> |Centro de mensajes  <br/> |90 días  <br/> |
+|Actualización principal  <br/> |Programada por el cliente y completada dentro de la ventana seleccionada  <br/> |Centro de mensajes  <br/> |90 días  <br/> |
    
 Consulte el [contrato de nivel de servicio de descarga de Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=12249) para obtener la información más reciente sobre Windows de tiempo de inactividad. 
   

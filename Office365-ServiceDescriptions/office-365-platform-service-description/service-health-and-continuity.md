@@ -1,5 +1,5 @@
 ---
-title: Continuidad y estado del servicio
+title: Service health and continuity
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0483499d-8972-4a8f-97bd-b82f5b138991
 description: Los administradores de Microsoft Office 365 pueden ver el estado de los servicios y saber cuándo está programado el mantenimiento. La información de estado del servicio está disponible en cualquier momento iniciando sesión en Office 365.
-ms.openlocfilehash: d9f70d69be201d3ccd7724751eec614173ce7b2d
-ms.sourcegitcommit: 8c906991cf9180fee9ac55f5ac182ade69607d3c
+ms.openlocfilehash: 4707d3eb79072e28e82aa565f50f6d0cf5d3c05c
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38752719"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262481"
 ---
-# <a name="service-health-and-continuity"></a>Continuidad y estado del servicio
+# <a name="service-health-and-continuity"></a>Service health and continuity
 
 Los administradores de Microsoft Office 365 pueden ver el estado de los servicios y saber cuándo está programado el mantenimiento. La información de estado del servicio está disponible en cualquier momento iniciando sesión en Office 365.
   

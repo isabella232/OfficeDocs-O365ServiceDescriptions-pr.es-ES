@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft Office 365 admite las siguientes características de red.
-ms.openlocfilehash: 915736e704f3d3995993100a82515ee71113be5b
-ms.sourcegitcommit: 4d1cc432b4ce292abeb926f88108937695ce619b
+ms.openlocfilehash: f2343872faac2b1b289c37b8dc91240fa030482d
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37523428"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39262903"
 ---
-# <a name="networking"></a>Conexión de red
+# <a name="networking"></a>Redes
 
 Microsoft Office 365 admite las siguientes características de red.
   
@@ -64,6 +64,6 @@ Para obtener más información, vea [Centro de confianza de Office 365](https://
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, consulte [Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en los planes de Office 365, consulte Descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description.md).
   
 

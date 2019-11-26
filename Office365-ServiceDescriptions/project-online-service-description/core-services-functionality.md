@@ -10,18 +10,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Las siguientes características de funcionalidad de servicios básicos están disponibles en Project online.
-ms.openlocfilehash: 14081671a3539e9fa73f049eae0ced9f80568c21
-ms.sourcegitcommit: d6c7836299ee5e86e890cab1c41f3bc21fd282de
+ms.openlocfilehash: 172aabf2a2cdf4891db556b38f1415edf6389610
+ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2019
-ms.locfileid: "37633872"
+ms.lasthandoff: 11/26/2019
+ms.locfileid: "39263454"
 ---
 # <a name="core-services-functionality"></a>Funcionalidad de servicios básicos
 
 Las siguientes características de funcionalidad de servicios básicos están disponibles en Project online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea [Descripción del servicio Project Online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [Descripción del servicio de Project online](project-online-service-description.md).
   
 ## <a name="active-directory-integration"></a>Integración con Active Directory
 
@@ -53,7 +53,7 @@ Mantenemos nuestra promesa de tiempo de actividad del 99,9 por ciento con una ga
   
 ## <a name="service-updates"></a>Actualizaciones de servicio
 
-Actualizamos periódicamente los servicios de Office 365 con funciones y capacidades nuevas. Vea [Actualizaciones de servicio](../office-365-platform-service-description/service-updates.md).
+Actualizamos periódicamente los servicios de Office 365 con funciones y capacidades nuevas. Consulte [actualizaciones de servicio](../office-365-platform-service-description/service-updates.md).
   
 ## <a name="team-member-collaboration"></a>Colaboración de integrantes del equipo
 
