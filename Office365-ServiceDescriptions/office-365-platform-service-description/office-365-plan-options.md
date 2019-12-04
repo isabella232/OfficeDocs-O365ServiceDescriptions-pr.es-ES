@@ -1,5 +1,5 @@
 ---
-title: Opciones del plan 365 de Office
+title: Opciones de planes de Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -16,14 +16,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización.
-ms.openlocfilehash: 61e1f1243e3b8d175f6b4ed58fd9faa06ff3ff8f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 15af043bbce11ba9c4672a6aad0cd524b9159091
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263051"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810819"
 ---
-# <a name="office-365-plan-options"></a>Opciones del plan 365 de Office
+# <a name="office-365-plan-options"></a>Opciones de planes de Office 365
 
 Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización.
   
@@ -67,7 +67,7 @@ Cada plan de Office 365 incluye varios servicios individuales, como Exchange Onl
 <sup>2</sup> Azure Information Protection no se incluye, pero puede adquirirse como un complemento independiente y habilitará las características de Information Rights Management (IRM) compatibles. Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1.<br/>
 <sup>3</sup> para obtener más información sobre las características de Azure Information Protection que se incluyen con los planes de Office 365, consulte [Azure Information Protection](https://azure.microsoft.com/services/information-protection/).<br/>
 <sup>4</sup> Office 365 Enterprise E5 contiene capacidades de sistema telefónico, audioconferencia y plan de llamadas. Para implementar un plan de llamadas es necesario adquirir un plan adicional (ya sea nacional o internacional).<br/>
-<sup>5</sup> incluye almacenamiento de 2 GB. No incluye la funcionalidad de sincronización de escritorio. <br/>
+<sup>5</sup> incluye almacenamiento de 2 GB. <br/>
 <sup>6</sup> incluye Exchange Online (plan 1). <br/>
 <sup>7</sup> incluye Exchange Online (plan 2). <br/>
 <sup>8</sup> incluye Exchange Online (plan 1) más características adicionales. <br/>

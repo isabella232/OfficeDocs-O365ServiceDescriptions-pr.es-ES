@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio de la plataforma 365 de Office
+title: Descripción del servicio de la plataforma de Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si quiere conocer las diferencias entre los planes de Office 365, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: 519d5260cd2a5155d365047bf69b241d0bd26d4d
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 45b35c66752842196acfcad52fea8b5470384550
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263081"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810799"
 ---
-# <a name="office-365-platform-service-description"></a>Descripción del servicio de la plataforma 365 de Office
+# <a name="office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Office 365
 
 Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si quiere conocer las diferencias entre los planes de Office 365, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
   
@@ -61,7 +61,7 @@ Para obtener información acerca del &amp; centro de seguridad y cumplimiento, a
   
 ## <a name="data-storage-location"></a>Ubicación del almacenamiento de datos
 
-Para obtener información sobre el lugar donde se almacenan los datos, vea la [Asignación del almacenamiento de datos](https://go.microsoft.com/fwlink/?linkid=401277). 
+Para obtener información sobre el lugar donde se almacenan los datos, vea la [Asignación del almacenamiento de datos](https://products.office.com/where-is-your-data-located). 
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Capacidades multigeográficas en Office 365
 
@@ -95,7 +95,7 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 |**[Características de administración de Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||||||
 |Administración de Office 365 mediante el centro de administración de Microsoft 365 o Windows PowerShell  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Proteger el contenido con Azure Information Protection  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |No<sup>2</sup> <br/> |
-|**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Reservas de Microsoft  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |N°<sup>20</sup>  <br/> |N°<sup>20</sup>  <br/> |No  <br/> |
 |Correo electrónico de instrucciones de Microsoft<sup>23</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Flow  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>14</sup> <br/> |
@@ -173,7 +173,7 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 |Las notificaciones se envían a Centro de mensajes cuando la acción es necesaria  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Roadmap.office.com para algún servicio actualizaciones  <br/> |Sí  <br/> |--  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Opción para activar la versión dirigida  <br/> |Sí  <br/> |--  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Ayuda y aprendizaje](help-and-training.md)** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
+|**[Ayuda y formación](help-and-training.md)** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Ayuda en línea  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Comunidad  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Otros recursos de autoayuda  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -205,7 +205,7 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 |Creación de invitaciones y pedidos de compra de prueba para un cliente que utiliza el plan especificado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Proporcionar administración delegada  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Contrato de nivel de servicio](service-level-agreement.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Derechos de uso del producto](product-use-rights.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> | 
+|**[Derechos de uso de producto](product-use-rights.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> | 
 
 > <sup>1</sup> Office 365 no proporciona soporte técnico a ningún sistema operativo que no sea compatible con el fabricante. 
 <br/><sup>2</sup> Azure Information Protection no se incluye, pero puede adquirirse como un complemento independiente y habilitará las características de Information Rights Management (IRM) compatibles. Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. Las aplicaciones cliente de Office que se incluyen con Microsoft 365 Business también admiten características completas de Azure Information Protection (plan 1).

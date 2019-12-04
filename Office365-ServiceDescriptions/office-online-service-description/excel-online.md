@@ -14,19 +14,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: e81a24733fba2f61d44982ae09cca6e2df41e2ca
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
+ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261921"
+ms.lasthandoff: 12/03/2019
+ms.locfileid: "39810829"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
 Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
   
 > [!NOTE]
-> Los libros que superan los 30 megabytes (MB) no se pueden ver en Excel para web desde Microsoft SharePoint Online. Para ver archivos de mayor tamaño, debe tener la aplicación de escritorio de Excel instalada en el equipo. 
+> Los libros que superan los 50 megabytes (MB) no se pueden ver en Excel para web desde Microsoft SharePoint Online. Para ver archivos de mayor tamaño, debe tener la aplicación de escritorio de Excel instalada en el equipo. 
 
 > [!NOTE]
 > Para que pueda comparar ofertas, las características avanzadas que se enumeran en este artículo incluyen las funciones de aplicaciones de escritorio de Excel que solo están disponibles en el conjunto de aplicaciones Office (por ejemplo, Office Professional Plus, Office Standard u Office 365 ProPlus). Para obtener una lista de todas las características de Office para el Web, como Word para el Web y PowerPoint para la web, consulte [disponibilidad de características en los planes de Office para el Web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
@@ -284,7 +284,7 @@ No está disponible en Excel para la Web. Si la aplicación de escritorio de Exc
 
 ¿Desea tener su propia copia del libro? Utilice el comando Guardar como ubicado en la ficha Archivo o haga clic con el botón secundario en el nombre del libro de su carpeta y utilice el comando Descargar para enviar una copia a su equipo.
   
-## <a name="share"></a>Compartir
+## <a name="share"></a>Share
 
 Proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre cómo [usar Office para la web para trabajar juntos en office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
