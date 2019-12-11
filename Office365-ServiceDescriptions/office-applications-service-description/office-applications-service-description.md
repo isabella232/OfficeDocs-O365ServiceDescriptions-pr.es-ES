@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft Office 365 es un servicio de suscripción que proporciona la última versión de las aplicaciones de escritorio de Office con las que ya está familiarizado, como Word, Excel y PowerPoint.
-ms.openlocfilehash: a53fd2b7786ca3f8c48cc3fa2a731f0be6edaef7
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: dd792241b7e2030c80fb9d79b9bcf51e9f8dea7f
+ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39261961"
+ms.lasthandoff: 12/11/2019
+ms.locfileid: "39969958"
 ---
 # <a name="office-applications-service-description"></a>Descripción del servicio de aplicaciones de Office
 
@@ -71,7 +71,7 @@ Varios de los planes de Office 365 para empresas tienen complementos que puede c
 |Archivado y cumplimiento de Exchange Online y SharePoint Online  <br/> |Sí<sup>1</sup> <br/> |Sí  <br/> |Sí  <br/>|Sí<sup>1</sup> <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
 |Soporte para directivas de grupos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No <br/> |
 |Compatibilidad con la Directiva de nube de Office  <br/> |No  <br/> |No  <br/> |No  <br/>|Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No <br/> |
-|Information Rights Management con Azure Information Protection  <br/> |No  <br/> |No  <br/> |No  <br/>|No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |
+|Information Rights Management con Azure Information Protection  <br/> |No  <br/> |No  <br/> |No  <br/>|No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |No<sup>2</sup> <br/> |Sí <br/> |
 |Information Rights Management mediante Windows Server AD RMS  <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |Sí <br/>| Sí<sup>3</sup> <br/>|Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |
 |Complemento de Office, ActiveX y soporte de BHO  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>+++<sup> <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí <br/> |
 |Acceso de cliente de OneNote a blocs de notas en SharePoint Server, SharePoint Online, OneDrive para la Empresa y Office 365  <br/> |Sí  <br/> |Sí  <br/> |Afirma<sup>++</sup> <br/> |Sí <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |Sí <br/> |
@@ -169,7 +169,7 @@ Las siguientes aplicaciones de Office están disponibles en las nubes gubernamen
 |Búsqueda inteligente | No | No | No |
 |Sonidos de Office (algunos) | No | No | No |
 |modelos 3D y animaciones incrustadas en 3D | No | No | No |
-Gráficos: mapas | No | No | No |
+|Gráficos: mapas | No | No | No |
 |Tinta digital inteligente | No | No | No |
 |Subtítulos en directo & subtítulos en PowerPoint | No | No | No |
 |Autocar del moderador | No | No | No |
@@ -179,6 +179,7 @@ Gráficos: mapas | No | No | No |
 |Grupos de Office 365 | No | No | No |
 |Colaboración en tiempo real (presencia, coautoría normal, chat dentro del documento) | No | No | No |
 |Dictado | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|Volver a usar diapositivas | No | No | No |
 |La **pizarra de Microsoft** en nubes gubernamentales solo está disponible actualmente en los clientes concentradores y no en el escritorio. | Sí<sup>2</sup> | Sí<sup>2</sup> | Sí<sup>2</sup> |
 |Insertar notas rápidas, texto e imágenes |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
 |Entrada de lápiz a forma y de entrada de lápiz a tabla |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
