@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: 'Para satisfacer los requisitos exclusivos y en constante evolución del Departamento de defensa de los Estados Unidos, así como los contratistas que retienen o procesan la información sin clasificar (CUI) o el tráfico internacional en las regulaciones de brazos (ITAR), Microsoft ofrece GCC: entornos altos y DoD. Disponible mediante las licencias por volumen, las organizaciones que estén interesadas pueden participar en un proceso de validación para certificar su idoneidad antes de establecer el entorno. Las pruebas no están disponibles en este momento.'
-ms.openlocfilehash: 4d539df25546255feae5d33369b678833b2d967f
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e98f95ea51a402bd31ddf59a49d2bf77a931eb4a
+ms.sourcegitcommit: 462c41ef3d98c4e1ad8f0bec26c4a212650175ad
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262551"
+ms.lasthandoff: 12/13/2019
+ms.locfileid: "40003965"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High y DoD
 
@@ -98,8 +98,15 @@ Además, no se admiten las direcciones de correo electrónico de alta disponibil
   
 ### <a name="skype-for-business-online"></a>Skype Empresarial Online
 
- **Conferencias RTC &amp; de llamadas RTC** : debido a la necesidad de usar la red telefónica conmutada (RTC) para los servicios orientados a la &amp; telefonía, los servicios de conferencia RTC de llamadas RTC no están disponibles actualmente en gcc High y DoD. 
-  
+ **Conferencias RTC &amp; de llamadas RTC** : debido a la necesidad de usar la red telefónica conmutada (RTC) para los servicios orientados a la &amp; telefonía, los servicios de conferencia RTC de llamadas RTC no están disponibles actualmente en gcc High y DoD.
+
+### <a name="microsoft-teams"></a>Microsoft Teams
+
+**Sistema telefónico y audioconferencia (mediante enrutamiento directo)**: el sistema telefónico y las conferencias de audio para los entornos altos y DoD de GCC se proporcionan a través del enrutamiento directo. Para obtener más información, vea la documentación del nivel de servicio aquí:
+
+- [Sistema telefónico a través del enrutamiento directo](https://docs.microsoft.com/microsoftteams/here-s-what-you-get-with-phone-system)
+- [Audioconferencia con enrutamiento directo para GCC High y DoD](https://docs.microsoft.com/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
+
 ### <a name="identity"></a>Identidad
 
 Multi-Factor Authentication con un modelo de identidad federado permite el uso de tarjetas PIV y CAC.
