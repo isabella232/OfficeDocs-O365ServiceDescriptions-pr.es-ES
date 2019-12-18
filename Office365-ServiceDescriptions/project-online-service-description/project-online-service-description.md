@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project Online, que se suministra con Office 365, ofrece prácticas capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de carteras de proyectos prácticamente desde cualquier lugar y con cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 4a5d95c24fb67012ace390a79fa32ea26543907b
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
+ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263424"
+ms.lasthandoff: 12/18/2019
+ms.locfileid: "40614829"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -247,6 +247,11 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 
 ## <a name="service-considerations"></a>Consideraciones sobre el servicio
 
+> [!NOTE]
+> - El proyecto de Francia &ndash; y Corea del sur para la web no está disponible actualmente. Estamos trabajando en entregar el proyecto para la web en su área y le informaremos de su disponibilidad a través de los canales de comunicación que se indican a continuación.
+> - El &ndash; proyecto de educación para la web estará disponible próximamente a nuestros clientes de educación. Hay un período de tiempo exacto pendiente.
+> - GCC, GCC High, DoD &ndash; en este momento, proyecto para la web no está disponible para GCC, GCC High y DoD. Estamos trabajando en la entrega de proyecto para la web, pero actualmente no puede compartir un plazo de trabajo en firme.
+
 ### <a name="licensing-considerations"></a>Consideraciones sobre licencias
 
 - Cualquier interacción en un sitio de Project online requiere una suscripción a Plan 3 o proyecto 5 de proyecto.
@@ -283,7 +288,7 @@ Project para la web tiene algunas limitaciones, que se describen en la siguiente
 |Nº. duración de la tarea de Resumen | 3650 días (10 años) |
 |Nº. recursos que se pueden asignar a una tarea | 20 recursos |
 |Intervalo de fechas admitido para la tarea | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**Proyecto** ||
 |Nº. total de tareas para el proyecto | 500 |
 |Nº. duración total del proyecto | 3650 días (10 años) |
 |Nº. recursos totales del proyecto | 150 |
