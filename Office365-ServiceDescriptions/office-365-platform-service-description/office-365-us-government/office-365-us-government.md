@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En esta sección se proporciona una introducción a las características específicas de los entornos de Office 365 Government US. Le recomendamos que lea esta sección complementaria junto con las descripciones de servicio de Office 365.
-ms.openlocfilehash: ca251b876b2cc69d1f35524471e089003e71c4de
-ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
+ms.openlocfilehash: 836f7aae584d4a878acaeddc068beff9a08131e8
+ms.sourcegitcommit: 08b15860a56f5c9fbf61fca54b0b2878bb9f9956
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40614839"
+ms.lasthandoff: 12/19/2019
+ms.locfileid: "40749416"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -357,7 +357,7 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 |Power Query para Excel  <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
 |Power View para Excel  <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
 |Configuración de movilidad  <br/> |No  <br/> |Sí<sup></sup> <br/> |Sí<sup></sup> <br/> |No  <br/> |
-|Activación en equipos compartidos  <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
+|Activación en equipos compartidos  <br/> |Sí  <br/> |Sí <br/> |Sí <br/> |Sí  <br/> |
 |Soporte para bloquear el almacenamiento de archivos basados en la nube  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Actualizaciones de versión  <br/> |No  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |No  <br/> |
 |Volume activation (KMS/MAK)  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
