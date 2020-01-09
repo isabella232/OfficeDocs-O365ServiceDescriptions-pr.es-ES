@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio de archivado de Exchange Online
+title: Descripción del servicio de Archivado de Exchange Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: El archivado de Microsoft Exchange Online es una solución de archivado de clase empresarial, basada en la nube de Microsoft Office 365, para organizaciones que han implementado Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 y versiones posteriores) o suscribirse a determinados planes de Exchange Online u Office 365. Archivado de Exchange Online ayuda a satisfacer las necesidades de estas organizaciones relacionadas con el archivo, el cumplimiento normativo, las disposiciones legales y la exhibición de documentos electrónicos, al mismo tiempo que simplifica la infraestructura local, reduce costes y facilita el trabajo de TI.
-ms.openlocfilehash: 79933bce411219b95b73021c9d8afde3a9f81a0c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 12fb7da8cd3e27ff98ea8ca0f759f013eef74e5d
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260525"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987662"
 ---
-# <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de archivado de Exchange Online
+# <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de Archivado de Exchange Online
 
 El archivado de Microsoft Exchange Online es una solución de archivado de clase empresarial, basada en la nube de Microsoft Office 365, para organizaciones que han implementado Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 y versiones posteriores) o suscribirse a determinados planes de Exchange Online u Office 365. Archivado de Exchange Online ayuda a satisfacer las necesidades de estas organizaciones relacionadas con el archivo, el cumplimiento normativo, las disposiciones legales y la exhibición de documentos electrónicos, al mismo tiempo que simplifica la infraestructura local, reduce costes y facilita el trabajo de TI.
   
@@ -65,14 +65,14 @@ Cada usuario que acceda al servicio de Archivado de Exchange Online debe tener u
   
 ## <a name="unlimited-archive-storage-quota"></a>Cuota de almacenamiento de archivo ilimitada
 
- La característica de archivado ilimitado de Office 365 (denominada *archivado de expansión automática*) proporciona hasta 1 TB de almacenamiento en buzones de archivo en Exchange Online. Cada suscriptor de Archivado de Exchange Online recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, el espacio de almacenamiento adicional se agrega automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. En las implementaciones híbridas de Exchange, el archivado de expansión automática solo se admite para buzones de archivo basados en la nube cuando el buzón de correo del usuario local reside en Exchange Server 2019, Exchange Server 2016 o Exchange Server 2013 (SP1 o posterior). Para obtener más información, vea [Información general sobre el archivado ilimitado en Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving).
+ La característica de archivado ilimitado de Office 365 (denominada *archivado de expansión automática*) proporciona espacio de almacenamiento adicional en los buzones de archivo. Cada suscriptor de Archivado de Exchange Online recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, el espacio de almacenamiento adicional se agrega automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. En las implementaciones híbridas de Exchange, el archivado de expansión automática solo se admite para buzones de archivo basados en la nube cuando el buzón de correo del usuario local reside en Exchange Server 2019, Exchange Server 2016 o Exchange Server 2013 (SP1 o posterior). Para obtener más información, vea [Información general sobre el archivado ilimitado en Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving).
   
 > [!IMPORTANT]
 > Los administradores no pueden ajustar la cuota de almacenamiento.<br/>
 > El archivado de expansión automática no es compatible con los buzones que se encuentran en Exchange Server 2010.
   
 > [!IMPORTANT]
-> El archivo de expansión automática solo se admite para buzones de correo que se usan para usuarios individuales o buzones compartidos con una tasa de crecimiento *que no supera los&nbsp;1 GB por día*. No se permite copiar mensajes en Archivado de Exchange Online para su archivo con el registro en diario, o mediante reglas de transporte o reenvío automático. El buzón de archivo de un usuario está diseñado exclusivamente para dicho usuario. Microsoft se reserva el derecho de denegar el archivado ilimitado si el buzón de archivo de un usuario se usa para almacenar datos de archivo de otros usuarios. 
+> El archivo de expansión automática solo se admite para buzones de correo que se usan para usuarios individuales o buzones compartidos con una tasa de crecimiento *que no supera los&nbsp;1 GB por día*. No se permite copiar mensajes en Archivado de Exchange Online para su archivo con el registro en diario, o mediante reglas de transporte o reenvío automático. El buzón de archivo de un usuario está diseñado exclusivamente para dicho usuario. Microsoft se reserva el derecho a denegar el archivado ilimitado en los casos en que el buzón de archivo de un usuario se usa para almacenar datos de archivo para otros usuarios o en otros casos de uso inadecuado.
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Disponibilidad de características en los planes de Archivado de Exchange Online
 

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios&mdash;de colaboración y comunicaciones de próxima generación de Microsoft, incluidos Microsoft Exchange Online, Microsoft SharePoint Online, Office para la&mdash;web y Microsoft Skype empresarial online para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
-ms.openlocfilehash: eb74436260a66081a959b4c7aaa424387c0adc6c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: e5afcc499298b661a2869958ece9a257a8e96aeb
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263041"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987652"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
@@ -69,7 +69,7 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 |**[Características de administración de Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)** <br/> ||||
 |Administración de Office 365 mediante el centro de administración de Microsoft 365 o Windows PowerShell  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Proteger el contenido con Azure Information Protection  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Reservas de Microsoft  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Correo electrónico de Microsoft briefing<sup>10</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Flow  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -81,7 +81,7 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 |Microsoft StaffHub  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Stream<sup>8</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Sway  <br/> |Sí<sup>6</sup> <br/> |Sí<sup>6</sup> <br/> |Sí<sup>6</sup> <br/> |
-|Microsoft Teams  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Microsoft Teams  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Office Delve  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Grupos de Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Office 365 Video  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -146,7 +146,7 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 |Las notificaciones se envían a Centro de mensajes cuando la acción es necesaria  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Roadmap.office.com para algún servicio actualizaciones  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Opción para activar la versión dirigida  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Ayuda y aprendizaje](help-and-training.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Ayuda y formación](help-and-training.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Ayuda en línea  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Comunidad  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Otros recursos de autoayuda  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -177,7 +177,7 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 |Creación de invitaciones y pedidos de compra de prueba para un cliente que utiliza el plan especificado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Proporcionar administración delegada  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Contrato de nivel de servicio](service-level-agreement.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Derechos de uso del producto](product-use-rights.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|**[Derechos de uso de producto](product-use-rights.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Office 365 no proporciona soporte técnico a ningún sistema operativo que no sea compatible con el fabricante.<br/> 
@@ -315,7 +315,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |||||
 |:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|**[Planeación e implementación](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
+|**[Planificación e implementación](../exchange-online-service-description/planning-and-deployment.md)** <br/> ||||
 |Admite implementación híbrida  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Admite migración IMAP  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Admite la migración total  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -324,7 +324,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Permisos basados en roles  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Grupos de funciones  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Directivas de asignación de funciones  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Directiva de mensajes y cumplimiento normativo](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Regulación de mensajes y cumplimiento](../exchange-online-service-description/message-policy-and-compliance.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Archivado de buzones basados en Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Archivado basado en nube de buzones locales  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Etiquetas de retención y directivas de retención de administración de registros de mensajería (MRM)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -338,7 +338,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Reglas de transporte  <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |
 |Prevención de pérdida de datos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Registro en diario  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Protección contra correo electrónico no deseado y antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Protección contra correo no deseado y malware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Protección contra correo no deseado integrada  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Customize anti-spam policies  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección contra malware integrada  <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |
@@ -346,7 +346,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Cuarentena: gestión de administradores  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cuarentena: autoadministración de usuarios finales  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección contra amenazas avanzada  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|**[Flujo del correo](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Flujo de correo](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Enrutamiento personalizado de correo saliente  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Secure messaging with a trusted partner  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Conditional mail routing  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -373,7 +373,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Administración de la sala de conferencias  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Respuestas de fuera de la oficina  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Uso compartido de calendarios  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Herramientas de solución de problemas y características de informes](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Herramientas de resolución de problemas y características de informes](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Informes del centro de administración de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Libro de informes de Excel  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Informes de servicios Web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -409,7 +409,7 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Interoperabilidad de SharePoint  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Compatibilidad con la conectividad de EWS  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Compatibilidad con retransmisión SMTP  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Configuración y administración de Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Administración y configuración de Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Acceso al portal de Microsoft Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Acceso al centro de administración de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Acceso al Centro de administración de Exchange  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -498,7 +498,7 @@ Los límites de Microsoft Exchange Online pertenecen a una de las categorías si
 El espacio de almacenamiento del buzón disponible para un usuario está determinado por el tipo de buzón y la licencia de suscripción del usuario. Los administradores pueden reducir el tamaño máximo del buzón de correo por usuario o de forma global.
   
 > [!NOTE]
-> Con el registro en diario, el uso de reglas de transporte o reglas de transferencia automática para copiar mensajes en un buzón de Exchange Online con fines de archivado no está permitido. El buzón de archivo de un usuario está diseñado exclusivamente para dicho usuario. Microsoft se reserva el derecho de denegar el archivado ilimitado si el buzón de archivo de un usuario se usa para almacenar datos de archivo de otros usuarios. 
+> Con el registro en diario, el uso de reglas de transporte o reglas de transferencia automática para copiar mensajes en un buzón de Exchange Online con fines de archivado no está permitido. El buzón de archivo de un usuario está diseñado exclusivamente para dicho usuario. Microsoft se reserva el derecho a denegar el archivado ilimitado en los casos en que el buzón de archivo de un usuario se usa para almacenar datos de archivo para otros usuarios o en otros casos de uso inadecuado.
   
 |||||
 |:-----|:-----|:-----|:-----|
@@ -507,9 +507,9 @@ El espacio de almacenamiento del buzón disponible para un usuario está determi
 |Buzones<sup>de archivo 6, 7</sup> <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Buzones compartidos  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
 |Buzones de recursos  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |
-|Buzones de sitio<sup>4</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
+|Buzones de sitio<sup>4</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
 |Buzones de carpetas públicas  <br/> |50 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |
-|Buzones de grupo  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
+|Buzones de grupo  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Cada usuario recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. Para obtener más información, vea Información general sobre el archivado ilimitado en Office 365. Vea el Mapa de ruta de Office 365 para obtener información sobre la disponibilidad. <br/> 
@@ -1227,7 +1227,7 @@ En la siguiente tabla se enumeran las características de Skype empresarial onli
 |Búsqueda de aptitudes con SharePoint Online  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |**[Gestión y administración de Skype Empresarial Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Portal de Microsoft Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Centro de administración de 365 de Microsoft  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Centro de administración de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Centro de administración de Skype Empresarial  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Windows PowerShell  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Informes de Skype empresarial online en el centro de administración de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -1236,7 +1236,7 @@ En la siguiente tabla se enumeran las características de Skype empresarial onli
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic está disponible para todos los clientes. El cliente para equipos de escritorio de Lync Basic es una aplicación instalada de forma local que ofrece características de presencia, mensajería instantánea y conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus y Office 365 a3 incluyen la aplicación de Skype empresarial (Lync) completa, que incluye características adicionales, como la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. A Skype for Business Online license must be assigned for each user. Para obtener más información sobre las características de Lync Basic, vea [tablas de cliente de escritorio de Ariss](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 
 <sup>2</sup> debe asignar un plan de Exchange Online (plan 2) a los usuarios que quiera que tengan correo de voz. An Exchange Online (Plan 1) plan can't be used for voice mail. 
   
-### <a name="skype-for-business-online-limits"></a>Límites de Skype empresarial online
+### <a name="skype-for-business-online-limits"></a>Límites de Skype Empresarial Online
 
 Los límites en Skype empresarial online entran en las siguientes categorías:
   

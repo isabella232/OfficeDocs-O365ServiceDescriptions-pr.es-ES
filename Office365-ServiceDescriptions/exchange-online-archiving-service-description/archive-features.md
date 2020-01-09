@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: En las siguientes secciones se describen las características de archivo de archivado de Microsoft Exchange Online.
-ms.openlocfilehash: 9cf2084f947e20f02c40c1bd5e7485d10bcb6416
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: aa3a43a0af668f84adaf14c69ad5b38d7c5cb1eb
+ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260505"
+ms.lasthandoff: 01/08/2020
+ms.locfileid: "40987582"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Características de archivo de archivado de Exchange Online
 
@@ -33,7 +33,7 @@ Los administradores pueden habilitar la característica de archivo para usuarios
   
 > [!IMPORTANT]
 >  No se permite copiar mensajes en Archivado de Exchange Online para su archivo con el registro en diario, o mediante reglas de transporte o reenvío automático. <br/>
->  El buzón de archivo de un usuario está diseñado exclusivamente para dicho usuario. Microsoft se reserva el derecho de denegar el archivado ilimitado si el buzón de archivo de un usuario se usa para almacenar datos de archivo de otros usuarios. 
+>  El buzón de archivo de un usuario está diseñado exclusivamente para dicho usuario. Microsoft se reserva el derecho a denegar el archivado ilimitado en los casos en que el buzón de archivo de un usuario se usa para almacenar datos de archivo para otros usuarios o en otros casos de uso inadecuado.
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Mover mensajes a Exchange Online Archiving
 
