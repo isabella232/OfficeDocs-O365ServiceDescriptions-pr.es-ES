@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 información sobre licencias de servicios de nivel de inquilino
+title: Instrucciones de licencias de Microsoft 365 de el nivel de inquilino
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,21 +11,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para los servicios a nivel de inquilino de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: b0ff01a92ed1d3c3a5284fd3eba45241a65c0a6a
-ms.sourcegitcommit: f69656f34dcb4f4e9a5857d8c4236084c94a05b1
+ms.openlocfilehash: c0d02c56241a000b48306619b3e96b0ef97a33ee
+ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/31/2019
-ms.locfileid: "37890533"
+ms.lasthandoff: 01/09/2020
+ms.locfileid: "41000870"
 ---
-# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Microsoft 365 información sobre licencias de servicios de nivel de inquilino
+# <a name="microsoft-365-tenant-level-services-licensing-guidance"></a>Instrucciones de licencias de Microsoft 365 de el nivel de inquilino
 
 Para los fines de este artículo, un servicio a nivel de inquilino es un servicio en&mdash;línea que, cuando se compra para cualquier usuario del inquilino (independiente o como parte de los planes de Office&mdash;365 o Microsoft 365), se activa en parte o en su totalidad para todos los usuarios del espacio empresarial. Aunque es posible que algunos usuarios sin licencia puedan obtener acceso al servicio, se necesita una licencia para cualquier usuario con el que pretenda beneficiarse del servicio.
 
 > [!NOTE]
 > Algunos servicios de inquilinos actualmente no pueden limitar las ventajas a usuarios específicos. Se deben realizar esfuerzos para limitar las ventajas del servicio a los usuarios con licencia. Esto ayudará a evitar posibles interrupciones en el servicio de su organización una vez que las capacidades de destino estén disponibles.
 
-## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
+## <a name="azure-active-directory-identity-protection"></a>Protección de identidad de Azure Active Directory
 
 La protección de identidad de Azure Active Directory (AADIP) es una característica del plan P2 de Azure Active Directory Premium que le permite detectar posibles vulnerabilidades que afectan a las identidades de su organización, configurar las respuestas automáticas para que se detecten sospechosos acciones relacionadas con las identidades de la organización e investigue los incidentes sospechosos y tome las medidas adecuadas para resolverlos.
 
@@ -39,7 +39,7 @@ Los analistas de SecOps y los profesionales de la seguridad se benefician de ten
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
-De forma predeterminada, las características de AADIP están habilitadas en el nivel de inquilino para todos los usuarios del espacio empresarial. Para obtener información sobre la configuración de AADIP, consulte [Enabling Azure Active Directory Identity Protection](https://docs.microsoft.com/azure/active-directory/identity-protection/enable).
+De forma predeterminada, las características de AADIP están habilitadas en el nivel de inquilino para todos los usuarios del espacio empresarial. Para obtener información sobre AADIP, vea [¿Qué es Azure Active Directory Identity Protection?](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
@@ -141,7 +141,7 @@ Los administradores pueden establecer el ámbito de las implementaciones de OCAS
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS) es una solución de agente de seguridad de acceso a la nube (CASB) que ofrece a las organizaciones visibilidad de sus aplicaciones y servicios en la nube, ofrece análisis sofisticados para identificar y combatir las amenazas de la cibernéticos, y les permite controlar la forma en que los datos viaja&mdash;en cualquier aplicación de la nube.
+Microsoft Cloud App Security (MCAS) es una solución de agente de seguridad de acceso a la nube (CASB) que ofrece a las organizaciones visibilidad de sus aplicaciones y servicios en la nube, ofrece análisis sofisticados para identificar y combatir las&mdash;amenazas de la cibernéticos, y les permite controlar la forma en que los datos viajan por cualquier aplicación en la nube.
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
@@ -149,7 +149,7 @@ Los usuarios con licencia de MCAS, Enterprise Mobility + Security E5/A5/G5, Micr
 
 Los usuarios con licencia de Azure AD P1 pueden beneficiarse de las capacidades de detección de MCAS.
 
-Para beneficiarse de las capacidades de control de la [aplicación de acceso condicional](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) en MCAS, los usuarios también deben tener una licencia para Azure Active Directory P1, que se incluye en Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/ A3/G3, Microsoft 365 E5/A5/G5 y seguridad de Microsoft 365 E5/A5/G5.
+Para beneficiarse de las capacidades de control de la [aplicación de acceso condicional](https://docs.microsoft.com/cloud-app-security/proxy-intro-aad) en MCAS, los usuarios también deben tener licencia para Azure Active Directory P1, que se incluye en Enterprise Mobility + Security E3/a3/G3, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E3/a3/G3, Microsoft 365 E5/A5/G5 y seguridad de Microsoft 365 E5/A5/G5.
 
 Para beneficiarse de la [etiquetación automática](https://docs.microsoft.com/cloud-app-security/data-protection-policies), los usuarios deben tener una licencia para Azure Information Protection P2, que se incluye en Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5 y cumplimiento de Microsoft 365 E5/A5/G5.
 
@@ -344,7 +344,7 @@ Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los
 
 El cifrado de mensajes de Office 365 (OME) es un servicio basado en Azure Rights Management (Azure RMS) que permite enviar correo electrónico cifrado a otras personas dentro o fuera de la organización, independientemente de la dirección de correo electrónico de destino (Gmail, Yahoo! Mail, Outlook.com, etc.).
 
-Para ver los mensajes cifrados, los destinatarios pueden obtener un código de acceso único, iniciar sesión con una cuenta de Microsoft, o iniciar sesión con una cuenta profesional o educativa asociada a Office 365. Los destinatarios también pueden enviar respuestas cifradas. No necesitan una suscripción de Office 365 para ver mensajes cifrados ni enviar respuestas cifradas.
+Para ver los mensajes cifrados, los destinatarios pueden obtener un código de acceso único, iniciar sesión con una cuenta de Microsoft, o iniciar sesión con una cuenta profesional o educativa asociada a Office 365. Los destinatarios también pueden enviar respuestas cifradas. No necesitan una suscripción de Office 365 para ver los mensajes cifrados o enviar respuestas cifradas.
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
@@ -361,7 +361,6 @@ Los administradores crean y administran directivas de cifrado de mensajes de Off
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
 Los administradores deben aplicar reglas de flujo de correo para el cifrado de mensajes de Office 365 solo a usuarios con licencia. Para obtener más información acerca de la definición de reglas de flujo de correo, consulte [definir reglas de flujo de correo para cifrar mensajes de correo electrónico en Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
-
 
 ## <a name="office-365-advanced-message-encryption"></a>Cifrado avanzado de mensajes de Office 365
 
@@ -402,3 +401,23 @@ Los administradores crean directivas de supervisión en el centro de seguridad &
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
 Los administradores eligen grupos o usuarios específicos para incluirlos en una directiva de supervisión. Al elegir un grupo, también pueden seleccionar usuarios específicos del grupo para excluirlos de la Directiva de supervisión. Para obtener más información acerca de las directivas de supervisión, consulte [directivas de supervisión en Office 365](https://docs.microsoft.com/office365/SecurityCompliance/supervision-policies).
+
+## <a name="conditional-access-policies"></a>Directivas de acceso condicional
+
+El acceso condicional es la herramienta que Azure Active Directory usa para reunir las señales, tomar decisiones y aplicar directivas organizativas. El acceso condicional es el corazón del plano de control controlado por identidad. Las directivas de acceso condicional en su forma más sencilla son instrucciones if-then. Si un usuario desea tener acceso a un recurso, debe completar una acción. Ejemplo: un administrador de nóminas desea tener acceso a la aplicación de nóminas y es necesario para realizar la autenticación multifactor para tener acceso a ella.
+
+### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
+
+Los usuarios con licencia de Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F1/E3/a3/G3 y Azure Active Directory Premium plan 1 pueden beneficiarse de las directivas de acceso condicional. Los usuarios con licencia de Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft E5 Security y Azure Active Directory Premium plan 2 pueden beneficiarse de la protección de identidad (directivas de acceso condicional basadas en riesgos).
+
+### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
+
+Los analistas de operaciones de seguridad y los profesionales de la seguridad aprovechan la capacidad de aplicar directivas organizativas a los usuarios, lo que les obliga a cumplir determinados criterios antes de conceder acceso al contenido corporativo. Los usuarios finales pueden beneficiarse de tener acceso a su trabajo dondequiera y cuando lo deseen, a la vez que protegen los activos de la organización.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
+
+De forma predeterminada, las características de acceso condicional están habilitadas en el nivel de inquilino para todos los usuarios del espacio empresarial.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
+
+Para la protección de identidad y el acceso condicional en concreto, un usuario debe incluirse en un grupo o agregarse a una directiva de acceso condicional. La condición Users and Groups es obligatoria en una directiva de acceso condicional. En la Directiva, puede seleccionar todos los **usuarios** o bien usuarios y grupos específicos. Solo debe seleccionar los usuarios y grupos con licencia adecuada. Para obtener más información, vea [¿Qué son las condiciones de acceso condicional de Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
