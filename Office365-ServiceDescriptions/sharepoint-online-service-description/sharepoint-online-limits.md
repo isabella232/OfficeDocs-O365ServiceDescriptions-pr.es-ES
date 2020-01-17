@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Busque los límites de SharePoint Online para planes de Office 365 Enterprise e independientes.
-ms.openlocfilehash: acf9731e4515a345f0cc9e0ac676c5ac8ed13ed4
-ms.sourcegitcommit: 3417565ac5e101726865f3f6cfb8d13317350693
+ms.openlocfilehash: c1ece223f90b14c73de6240d042d95701c443c0a
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/07/2020
-ms.locfileid: "40952041"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216649"
 ---
 # <a name="sharepoint-online-limits"></a>Límites de SharePoint Online
 
@@ -66,7 +66,7 @@ Busque los límites de SharePoint para los planes de Office 365 y los planes ind
 
 - **Aplicaciones hospedadas en SharePoint** : 20.000 instancias por organización.
 
-- **Ámbitos de seguridad únicos por lista o biblioteca** -5.000. Para listas de gran tamaño, diseñe para que tenga el menor número de permisos únicos posible.
+- **Ámbitos de seguridad únicos por lista o biblioteca** : el límite exigido es 50.000, pero el límite general recomendado es 5.000. Por encima de 5.000, el tamaño de la lista de control de acceso (ACL) empieza a ser importante. Aunque puede Agregar ámbitos hasta el límite forzado de 50.000, Microsoft no lo recomienda a menos que tenga en cuenta un escenario muy específico. Para listas de gran tamaño, diseñe para que tenga el menor número de permisos únicos posible.
 
 - **Users** -2 millones por colección de sitios.
     > [!NOTE]

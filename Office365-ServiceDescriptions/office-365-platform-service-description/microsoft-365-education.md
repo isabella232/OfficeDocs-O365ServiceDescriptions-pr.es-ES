@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Microsoft 365 está disponible en diversos planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Microsoft 365 y Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: 2a6413f2dff6255b10cb11cf596f05303ca358f2
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 356d8e35d4872d50a4de1baf89b11b412ead6fdd
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263031"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216539"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Educación
 
@@ -85,14 +85,14 @@ Cada plan de Microsoft 365 Education incluye una serie de servicios individuales
 |**Seguridad avanzada** <br/> |**Office 365 Ámbito educativo A1** <br/> |**Office 365 Educación A3** <br/> |**Office 365 educación A5** <br/> |**Microsoft 365 Educación A3** <br/> |**Microsoft 365 Educación A5** <br/> |
 |Protección contra amenazas avanzada  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
 |Inteligencia de amenazas  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
-|Cloud App Security.  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|Cloud App Security  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Protección contra amenazas avanzada de Windows Defender  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |**Ventajas de servidor y CAL** <br/> |**Office 365 Ámbito educativo A1** <br/> |**Office 365 Educación A3** <br/> |**Office 365 educación A5** <br/> |**Microsoft 365 Educación A3** <br/> |**Microsoft 365 Educación A5** <br/> |
 |Exchange<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>10</sup> <br/> |Sí  <br/> |
 |SharePoint<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>10</sup> <br/> |Sí  <br/> |
 |Skype empresarial<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>10</sup> <br/> |Sí  <br/> |
 |Windows Server CAL  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|System Center Configuration Manager  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
+|Administrador de configuración de Microsoft Endpoint  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |System Center Endpoint Protection  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
    
 > [!NOTE]

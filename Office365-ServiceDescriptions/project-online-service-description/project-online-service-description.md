@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project Online, que se suministra con Office 365, ofrece prácticas capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de carteras de proyectos prácticamente desde cualquier lugar y con cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: f1e1818a98dbd8bff69e7ff1b7e566876af941a0
-ms.sourcegitcommit: d21d9e6ea5780fab9a5987a10501cbf75cf107b7
+ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/18/2019
-ms.locfileid: "40614829"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216669"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -37,7 +37,7 @@ Este artículo le ayudará a comprender qué aplicaciones se proporcionan en cad
 
 Proyecto para el Web es la oferta más reciente de Microsoft para la administración de trabajos y proyectos basados en la nube. Project for the Web proporciona funciones de administración de trabajo sencillas y eficaces que satisfacen la mayoría de las necesidades y los roles. Los jefes de proyecto y los miembros del equipo pueden usar Project para la web para planear y administrar el trabajo de cualquier tamaño.
 
-El proyecto para la web se basa en Microsoft Power Platform. La plataforma de energía consta de PowerApps, Microsoft Flow, Power BI y el servicio de datos común (CDS). Project para los datos Web se almacena en CD. 
+El proyecto para la web se basa en Microsoft Power Platform. La plataforma de energía consta de PowerApps, Power Automate, Power BI y el servicio de datos común (CDS). Project para los datos Web se almacena en CD. 
 
 El proyecto para la web está disponible a través de tres suscripciones: Plan de proyecto 1, plan de proyecto 3 y plan de proyecto 5. Las características enumeradas en la sección [proyecto para las características web](#project-for-the-web-features) interactúan sólo con los datos del proyecto para el almacén de datos Web.
 
@@ -119,7 +119,7 @@ Las características que se enumeran en esta sección interactúan sólo con los
 |Aplicaciones móviles | Cree aplicaciones móviles personalizadas con PowerApps. <sup>4</sup> |
 |**Personalización e integración**||
 |PowerApps | Compilar y consumir soluciones para web y Mobile con PowerApps. <sup>4</sup> |
-|Flujos de trabajo | Automatizar e integrar procesos de negocio con Microsoft Flow. <sup>5</sup> |
+|Flujos de trabajo | Automatizar e integrar procesos de negocio con la automatización de la alimentación. <sup>5</sup> |
 |Integración de Microsoft Office 365 | Colabore, administre documentos y mucho más usando las herramientas y aplicaciones conocidas de Office 365. <sup>1</sup> |
 |**Seguridad y administración de usuarios**||
 |Grupos modernos de Office | Cree un equipo de proyecto para colaborar con y configurar fácilmente una colección de recursos que los integrantes del grupo puedan compartir.|
@@ -180,7 +180,7 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 |Custom fields | Agregue campos personalizados a nivel de proyecto, tarea y recurso para realizar un seguimiento de los datos importantes para la organización y los proyectos. | Sí | Sí |
 |Éstas | Calcule y Capture datos importantes mediante fórmulas en tareas y proyectos. | Sí | Sí |
 |PowerApps | Compilar y consumir soluciones para web y móviles (mediante OData) con PowerApps. <sup>4</sup> | Sí | Sí |
-|Flujos de trabajo | Automatizar e integrar procesos de negocio (a través de OData) con Microsoft Flow. <sup>5</sup> | Sí | Sí |
+|Flujos de trabajo | Automatizar e integrar procesos de negocio (a través de OData) con la automatización de energía. <sup>5</sup> | Sí | Sí |
 |Integración de Microsoft Office 365 | Colabore, administre documentos y mucho más usando las herramientas y aplicaciones conocidas de Office 365. <sup>1</sup> | Sí | Sí |
 |Integración con Microsoft Planner | Conectar tareas de proyecto a un plan de Planner y realizar un seguimiento del trabajo detallado en Planner. <sup>1</sup> | Sí | Sí |
 |**Administración de seguridad, usuarios y servicios**||||
@@ -194,7 +194,7 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 <sup>dos</sup> tarjetas de Azure adquiridas por separado.</br>
 <sup>3</sup> hay disponible un informe para Project para la web y Project online mediante Power BI. Para ver, editar y crear informes se necesita una suscripción a Power BI Pro. Microsoft proporciona un conjunto de informes predefinidos de Power BI. Los usuarios pueden personalizar estos informes o crear informes adicionales con Power BI.</br> 
 <sup>4</sup> la creación de aplicaciones móviles de powerapps personalizadas que tienen acceso a Project para los datos Web requieren una suscripción de powerapps y una suscripción al plan de proyecto 3 o proyecto 5.</br>
-<sup>5</sup> para automatizar e integrar procesos empresariales con Microsoft Flow con Project para los datos Web es necesario disponer de una suscripción de Microsoft Flow y una suscripción al plan de proyecto 3 o proyecto 5.</br>
+<sup>5</sup> para automatizar e integrar los procesos empresariales con la automatización de la alimentación con Project para los datos Web es necesario disponer de una suscripción de potencia automatizada y una suscripción de plan de proyecto 3 o proyecto 5.</br>
 <sup>6</sup> las licencias de Project online para usuarios externos siguen la misma directiva que la de los usuarios internos. Cualquier interacción en un sitio de Project online requiere una suscripción a Plan 3 o proyecto 5 de proyecto.</br>
 <sup>7</sup> los usuarios con una suscripción a un plan de proyecto 3 o un plan 5 pueden enviar solicitudes de compromiso de recursos. No pueden revisar, entregar o aprobar solicitudes de participación de recursos.</br>
 <sup>8</sup> los usuarios con una suscripción a un plan de proyecto 5 pueden revisar, cumplir y aprobar solicitudes de participación en recursos.</br>
@@ -263,9 +263,9 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 
 Project online requiere el uso de SharePoint Online, que se aprovisiona como parte de Project online. Los derechos de la funcionalidad de SharePoint Online que se proporcionan con las suscripciones plan de proyecto 3 o plan 5 se limitan a almacenar y obtener acceso a datos para admitir Project online.
 
-### <a name="project-roadmap-and-microsoft-flow"></a>Guía básica de Project y Microsoft Flow
+### <a name="project-roadmap-and-power-automate"></a>Guía básica de proyectos y automatización de energía
 
-El plan de desarrollo del proyecto requiere el uso de Microsoft Flow, que se aprovisiona como parte de la suscripción del proyecto. Los derechos para la funcionalidad de Microsoft Flow están limitados a aquellas funciones de Microsoft Flow que requiere la guía básica de Project. La funcionalidad de Microsoft Flow que requiere la guía básica de Project aparece como la **integración de datos para Project con** el plan de servicio de flujo en la sección **aplicaciones** del centro de administración de Microsoft 365.
+El plan de desarrollo del proyecto requiere el uso de Power automaticing, que se aprovisiona como parte de la suscripción del proyecto. Los derechos para automatizar la automatización de la funcionalidad se limitan a las capacidades de automatización que requiere el mapa de ruta del proyecto. La funcionalidad automatizada de energía requerida por el mapa de ruta de Project aparece como la **integración de datos para Project con** el plan de servicio de flujo en la sección **aplicaciones** del centro de administración de Microsoft 365.
 
 ### <a name="project-for-the-web-and-common-data-service"></a>Proyecto para el Web y el servicio de datos comunes
 

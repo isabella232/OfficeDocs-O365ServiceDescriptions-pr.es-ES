@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany es una opción diferenciada de los servicios de Office 365 que ya están disponibles en Europa. Ayuda a satisfacer las necesidades de los clientes más regulados en Alemania, la Unión Europea (UE) y la Asociación Europea de libre comercio (AELC), ofreciendo nuestros servicios de productividad líderes en el sector para el trabajo digital, desde los centros de datos alemanes, con la residencia de datos. en Alemania y estrictas medidas de control y acceso a datos a través de un único modelo de confianza de datos regulado por la legislación alemana.
-ms.openlocfilehash: 75991d0995e1b9d9122c1a9e52355d7a422b5fdd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: a62211889e0b7830f4aa00fec16a0da207e1a654
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263061"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216659"
 ---
 # <a name="office-365-germany"></a>Office 365 Germany
 
@@ -75,10 +75,10 @@ Para obtener información específica sobre los precios y las características d
 |**[Características de administración de Office 365](https://docs.microsoft.com/office365/admin/admin-overview/about-the-admin-center?view=o365-worldwide#admin-center-features-and-settings)**|||||||||
 |Administración de Office 365 mediante el centro de administración de Microsoft 365 o Windows PowerShell|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Proteger el contenido con Azure Information Protection|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No|No|No<sup>2</sup>|
-|**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Reservas de Microsoft|No|No|No|No|No|No|No|No|
 |Correo electrónico de Microsoft briefing|No|No|No|No|No|No|No|No|
-|Microsoft Flow|No|No|No|No|No|No|No|No|
+|Automatización de Microsoft Power|No|No|No|No|No|No|No|No|
 |Microsoft Forms|No|No|No|No|No|No|No|No|
 |Microsoft MyAnalytics|No|No|No|No|No|No|No|No|
 |Microsoft Planner|No|No|No|No|No|No|No|No|
@@ -149,7 +149,7 @@ Para obtener información específica sobre los precios y las características d
 |Las notificaciones se envían a Centro de mensajes cuando la acción es necesaria|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Roadmap.office.com para algún servicio actualizaciones|Sí|--|Sí|Sí|Sí|Sí|Sí|Sí|
 |Opción para activar la versión dirigida|Sí|--|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Ayuda y aprendizaje](help-and-training.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Ayuda y formación](help-and-training.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Ayuda en línea|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Comunidad|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Otros recursos de autoayuda|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -178,7 +178,7 @@ Para obtener información específica sobre los precios y las características d
 |Creación de invitaciones y pedidos de compra de prueba para un cliente que utiliza el plan especificado|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Proporcionar administración delegada|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |**[Contrato de nivel de servicio](service-level-agreement.md)**|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Derechos de uso del producto](product-use-rights.md)**|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|**[Derechos de uso de producto](product-use-rights.md)**|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 
 > [!NOTE]
 > <sup>1</sup> Office 365 Germany no ofrece soporte a ningún sistema operativo que no sea compatible con el fabricante.<br/>
@@ -351,7 +351,7 @@ En la siguiente tabla se enumeran las características de Exchange Online que es
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
-|**[Planeación e implementación](../exchange-online-service-description/planning-and-deployment.md)**|||||||||
+|**[Planificación e implementación](../exchange-online-service-description/planning-and-deployment.md)**|||||||||
 |Implementación híbrida admitida<sup>1</sup>|Sí<sup>2</sup>|Sí|Sí<sup>2</sup>|Sí|Sí|Sí|Sí|Sí|
 |Admite migración IMAP|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Admite la migración total|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -360,7 +360,7 @@ En la siguiente tabla se enumeran las características de Exchange Online que es
 |Permisos basados en roles|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Grupos de funciones|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Directivas de asignación de roles|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
-|**[Directiva de mensajes y cumplimiento normativo](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Regulación de mensajes y cumplimiento](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Archivado de buzones basados en Exchange Online|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Archivado basado en nube de buzones locales|No|No|No|Sí|Sí|Sí|Sí|No|
 |Etiquetas de retención y directivas de retención|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -374,7 +374,7 @@ En la siguiente tabla se enumeran las características de Exchange Online que es
 |Reglas de flujo de correo|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|
 |Prevención de pérdida de datos|No|No|No|No|No|Sí|Sí|No|
 |Registro en diario|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Protección contra correo electrónico no deseado y antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Protección contra correo no deseado y malware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Protección contra correo no deseado integrada|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Customize anti-spam policies|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>8</sup>|
 |Protección contra malware integrada|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|
@@ -382,7 +382,7 @@ En la siguiente tabla se enumeran las características de Exchange Online que es
 |Cuarentena: gestión de administradores|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>8</sup>|
 |Cuarentena: autoadministración de usuarios finales|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Protección contra amenazas avanzada|No|--|No|No|No|No|Sí|No|
-|**[Flujo del correo](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Flujo de correo](../exchange-online-service-description/mail-flow.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Enrutamiento personalizado de correo saliente|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Secure messaging with a trusted partner|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Conditional mail routing|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -409,7 +409,7 @@ En la siguiente tabla se enumeran las características de Exchange Online que es
 |Administración de la sala de conferencias|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Respuestas de fuera de la oficina|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Uso compartido de calendarios|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Herramientas de solución de problemas y características de informes](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Herramientas de resolución de problemas y características de informes](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Informes del centro de administración de Microsoft 365|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Informes de servicios Web|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Message trace|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -443,7 +443,7 @@ En la siguiente tabla se enumeran las características de Exchange Online que es
 |Interoperabilidad de SharePoint|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Compatibilidad con la conectividad de EWS|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Compatibilidad con retransmisión SMTP|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Configuración y administración de Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Administración y configuración de Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Acceso al portal de Microsoft Office 365|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Acceso al centro de administración de Microsoft 365|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Acceso al Centro de administración de Exchange|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -1188,7 +1188,7 @@ En la siguiente tabla se enumeran las características de Skype Empresarial Onli
 |Búsqueda de aptitudes con SharePoint Online|No|No|No|No|No|No|No|
 |**[Gestión y administración de Skype Empresarial Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-administration-and-management)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Portal de Microsoft Office 365|Sí|Sí|Sí|Sí|Sí|Sí|No|
-|Centro de administración de 365 de Microsoft|Sí|Sí|Sí|Sí|Sí|Sí|No|
+|Centro de administración de Microsoft 365|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Centro de administración de Skype Empresarial Online|Sí|Sí<sup>3</sup>|Sí|Sí|Sí|Sí|No|
 |Windows PowerShell|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Informes de Skype empresarial online en el centro de administración de Microsoft 365|Sí|Sí|Sí|Sí|Sí|Sí|No|

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business es una solución integrada que reúne la mejor productividad en su clase de Office 365 con funciones avanzadas de seguridad y administración de dispositivos para ayudarle a proteger su empresa. Esta descripción de servicio describe las opciones y características del plan.
-ms.openlocfilehash: 9cdc5b8bc366b5f646aff6866b19dd63a3de8daa
-ms.sourcegitcommit: 3ac207ad8d1ab8b31380d0282636115e6428c113
+ms.openlocfilehash: 3ef3e018d8768fe63239a83c9aeb20d0b4fb3098
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2019
-ms.locfileid: "39810809"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216639"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descripción del servicio Microsoft 365 Empresa
 
@@ -39,7 +39,7 @@ Microsoft 365 Business incluye las siguientes características de Azure AD Premi
 |[Aplicaciones de Office](../office-applications-service-description/office-applications-service-description.md)  <br/> |Sí  <br/> |Sí  <br/> |
 |Yammer Enterprise  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Bookings  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft Flow  <br/> |Sí  <br/> |Sí  <br/> |
+|Automatización de Microsoft Power  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Forms  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Planner  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft PowerApps  <br/> |Sí  <br/> |Sí  <br/> |
@@ -62,7 +62,7 @@ Microsoft 365 Business incluye las siguientes características de Azure AD Premi
 |Plan 1 de protección contra amenazas avanzada de Office 365 <br/> |No  <br/> |Sí<sup>7</sup> <br/> |
 |Puntuación segura<sup>4</sup> <br/> |Sí  <br/> |Sí  <br/> |
 |Protección contra amenazas avanzada de Office 365 (plan 2) <br/> |No  <br/> |No <br/> |
-|[Administración de identidad y acceso](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 Business incluye características Select de Azure AD Premium P1 (AADP P1). No incluye la totalidad de AADP1. <sup>8</sup> <br/>|**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|[Administración de identidades y acceso](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Microsoft 365 Business incluye características Select de Azure AD Premium P1 (AADP P1). No incluye la totalidad de AADP1. <sup>8</sup> <br/>|**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Azure multi-factor Authentication (MFA)  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Unidades administrativas  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Detección de aplicaciones en la nube  <br/> |No  <br/> |No  <br/> |Sí  <br/> |

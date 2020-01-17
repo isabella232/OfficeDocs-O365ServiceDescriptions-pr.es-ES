@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios&mdash;de colaboración y comunicaciones de próxima generación de Microsoft, incluidos Microsoft Exchange Online, Microsoft SharePoint Online, Office para la&mdash;web y Microsoft Skype empresarial online para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
-ms.openlocfilehash: e5afcc499298b661a2869958ece9a257a8e96aeb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: 7e3ad5731e5a0346314617247bc61ed3bc2dc318
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987652"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216529"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
@@ -72,7 +72,7 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 |**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Reservas de Microsoft  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Correo electrónico de Microsoft briefing<sup>10</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft Flow  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Automatización de Microsoft Power  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Forms  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |API de Microsoft Graph  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft MyAnalytics<sup>9</sup>  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
@@ -81,7 +81,7 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 |Microsoft StaffHub  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Stream<sup>8</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Sway  <br/> |Sí<sup>6</sup> <br/> |Sí<sup>6</sup> <br/> |Sí<sup>6</sup> <br/> |
-|Microsoft Teams  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Microsoft Teams  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Office Delve  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Grupos de Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Office 365 Video  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business es la mejor oferta de Microsoft para los clientes de pequeñas y medianas empresas. Microsoft 365 Business es una solución integrada que combina la productividad de Office 365, la seguridad avanzada y la administración de dispositivos.
-ms.openlocfilehash: ea6c46c83d00db1bebe17b8dbeae0ea7457d115b
-ms.sourcegitcommit: 28be53d2579d91cd76b9f047f13a309a3c0b9dd4
+ms.openlocfilehash: 70e649c0aa66390e3e84da2ff517bfef9a5dbc8f
+ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/20/2019
-ms.locfileid: "38755478"
+ms.lasthandoff: 01/17/2020
+ms.locfileid: "41216469"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamiento de Microsoft 365 para pequeñas y medianas empresas
 
@@ -31,7 +31,7 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |**Correo electrónico & calendario** | Outlook, Exchange Online| 50 GB | 50 GB |
 |**Concentrador para trabajo en equipo** | Área de trabajo basada en chat, reuniones en línea y más en Microsoft Teams | Sí |Sí |
 |**Almacenamiento de archivos.** | OneDrive para la Empresa  | 1 TB por usuario | 1 TB por usuario |
-|**Social, vídeo, sitios** | Stream, Yammer, Planner, SharePoint Online, PowerApps, Microsoft Flow | Sí | Sí |
+|**Social, vídeo, sitios** | Stream, Yammer, Planner, SharePoint Online, PowerApps y Power Automate | Sí | Sí |
 |**Aplicaciones empresariales** | Programación de reservas &ndash; de aplicaciones<sup>1</sup> | Sí | Sí |
 |   | Aplicaciones &ndash; empresariales MileIQ<sup>1</sup> | Sí | Sí |
 |**Protección contra amenazas** | Protección contra amenazas avanzada de Office 365 | No | Sí |
@@ -42,7 +42,7 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |   | Shared computer activation | No | Sí |
 |   | Windows AutoPilot, administración de Windows Pro | No | Sí |
 |   | Derechos de actualización a Windows 10 Pro para licencias Win 7/8.1 Pro | No | Sí |
-|   | Escritorio virtual de Windows | No | Sí |
+|   | Windows Virtual Desktop | No | Sí |
 |**Protección de la información** | Prevención de pérdida de datos de Office 365 | No | Sí |
 |   | Plan 1 de Azure Information Protection, cumplimiento de BitLocker | No | Sí |
 |**Cumplimiento** | Archivado de correo electrónico ilimitado<sup>2</sup> | No | Sí |
@@ -62,7 +62,7 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |**Correo electrónico & calendario** | Outlook, Exchange Online | 100 GB | 50 GB |
 |**Concentrador para trabajo en equipo** | Área de trabajo basada en chat, reuniones en línea y más en Microsoft Teams | Sí | Sí |
 |**Almacenamiento de archivos.** | OneDrive para la Empresa | Ilimitado | 1 TB por usuario |
-|**Social, vídeo, sitios** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Microsoft Flow<sup>1</sup> | Sí | Sí |
+|**Social, vídeo, sitios** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power automatice<sup>1</sup> | Sí | Sí |
 |**Aplicaciones empresariales** | Programación de reservas &ndash; de aplicaciones<sup>2</sup> | Sí | Sí |
 |   | Aplicaciones &ndash; empresariales MileIQ<sup>2</sup> | No | Sí |
 |**Protección contra amenazas** | Protección contra amenazas avanzada de Office 365 | No | Sí |
@@ -72,7 +72,7 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |**Administración de dispositivos & aplicaciones** | Microsoft Intune, Windows AutoPilot, administración de Windows Pro | No | Sí |
 |   | Shared computer activation | Sí | Sí |
 |   | Derechos de actualización a Windows 10 Pro para Win 7/8.1 Pro | No | Sí |
-|   | Escritorio virtual de Windows | No | Sí |
+|   | Windows Virtual Desktop | No | Sí |
 |**Protección de la información** | Prevención de pérdida de datos de Office 365 | Sí | Sí |
 |   | Plan 1 de Azure Information Protection, cumplimiento de BitLocker | No | Sí |
 |**Derechos de CAL locales** | ECAL Suite (Exchange, SharePoint, Skype) | Sí | No |
@@ -95,7 +95,7 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |**Correo electrónico & calendario** | Outlook, Exchange Online  | 50 GB | 50 GB | 100 GB |
 |**Concentrador para trabajo en equipo** | Área de trabajo basada en chat, reuniones en línea y más en Microsoft Teams | Sí | Sí | Sí |
 |**Almacenamiento de archivos.** | OneDrive para la Empresa | 1 TB por usuario | 1 TB por usuario | Ilimitado |
-|**Social, vídeo, sitios** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Microsoft Flow<sup>1</sup> | Sí | Sí | Sí |
+|**Social, vídeo, sitios** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power automatice<sup>1</sup> | Sí | Sí | Sí |
 |**Aplicaciones empresariales** | Programación de reservas &ndash; de aplicaciones<sup>2</sup> | Sí | Sí | Sí |
 |   | Aplicaciones &ndash; empresariales MileIQ<sup>2</sup> | Sí | Sí | No |
 |**Protección contra amenazas** | Protección contra amenazas avanzada de Office 365 | No | Sí | No |
@@ -105,7 +105,7 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |**Administración de dispositivos & aplicaciones** | Microsoft Intune, Windows AutoPilot, administración de Windows Pro | No | Sí | No |
 |   | Activación en equipos compartidos | No | Sí | Sí |
 |   | Derechos de actualización a Windows 10 Pro para licencias Win 7/8.1 Pro | No | Sí | No |
-|   | Escritorio virtual de Windows | No | Sí | No |
+|   | Windows Virtual Desktop | No | Sí | No |
 |**Protección de la información**  | Prevención de pérdida de datos de Office 365 | No | Sí | Sí |
 |   | Plan 1 de Azure Information Protection, cumplimiento de BitLocker | No | Sí | No |
 |**Derechos de CAL locales** | ECAL Suite (Exchange, SharePoint, Skype) | No | No | Sí |
@@ -144,13 +144,13 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |   | Microsoft Desktop Optimization Pack, VDA | No | No | Sí | Sí |
 | **Protección de la información** | Prevención de pérdida de datos de Office 365, plan 1 de Azure Information Protection | No | Sí | Sí | Sí |
 |   | Azure Information Protection Plan 2, Microsoft Cloud App Security, Office 365 Cloud App Security | No | No | No | Sí |
-|**Derechos de CAL locales** | ECAL Suite (Exchange, SharePoint, Skype, Windows, SCCM, Windows Rights Management) | No | No | Sí | Sí |
+|**Derechos de CAL locales** | ECAL Suite (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management) | No | No | Sí | Sí |
 |**Cumplimiento** | Archivado de correo electrónico ilimitado<sup>2</sup> | No | Sí | Sí | Sí |
 |   | EDiscovery avanzado, caja de control de clientes, gobierno de datos avanzado | No | No | No | Sí |
 |**Análisis** | Power BI Pro, myanalytics | No | No | No | Sí |
 | | Información de myanalytics | Sí | Sí | Sí | Sí |
 |**Assistance** | Correo electrónico de informe | Sí | Sí | Sí | Sí |
-|**Mensaje** | Conferencia RTC, PBX en la nube | No | No | No | Sí |
+|**Voz** | Conferencia RTC, PBX en la nube | No | No | No | Sí |
 
 **Notas**
 
