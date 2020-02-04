@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office para la web (anteriormente, Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office para la web hace que sea más fácil trabajar y compartir archivos de Office desde cualquier lugar con una conexión a Internet desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina.
-ms.openlocfilehash: b706c6e45b965768babc04c588d65b305a690fde
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263524"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711910"
 ---
 # <a name="office-for-the-web-service-description"></a>Descripción de Office para el servicio Web
 
@@ -192,7 +192,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 > [!NOTE] 
 > <sup>1</sup> no se pueden crear gráficos dinámicos, solo vista.
  <br/><sup>2</sup> dependiendo de cómo esté configurado el entorno, algunos tipos de conexiones de datos se admiten para los libros que se muestran en Excel para la Web. Para obtener más información, consulte Actualización de datos en un libro en la ventana de un explorador. 
- <br/><sup>3</sup> no puede crear macros con VBA en Excel para la web, pero puede abrir y editar hojas de cálculo habilitadas para VBA sin necesidad de quitar (o dañar) el archivo VBA contenido en el archivo.
+ <br/><sup>3</sup> no puede crear o ejecutar macros con VBA en Excel para la web, pero puede abrir y editar hojas de cálculo habilitadas para VBA sin necesidad de quitar (o dañar) el VBA contenido en el archivo.
  <br/><sup>4</sup> en Excel para la web, el último valor de referencia conocido se muestra en la ventana del explorador; sin embargo, debe actualizarse con la aplicación de escritorio de Excel. 
  <br/><sup>5</sup> Algunos complementos de Office están disponibles, pero no todos. 
   

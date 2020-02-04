@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio Skype empresarial online
+title: Descripción del servicio Skype Empresarial Online
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,17 +14,17 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: ¿Quiere saber qué licencias necesita comprar para obtener características específicas de Skype Empresarial? Vea información general sobre las licencias de Skype empresarial.
-ms.openlocfilehash: 50925e7df7b8cde37764365bd7403154546631b5
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 5563c2ef767f04340a643099a1aff8e387aa7523
+ms.sourcegitcommit: 317e2b4eb7e9513098324d9fcab675de35b97aa8
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263274"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41711920"
 ---
-# <a name="skype-for-business-online-service-description"></a>Descripción del servicio Skype empresarial online
+# <a name="skype-for-business-online-service-description"></a>Descripción del servicio Skype Empresarial Online
 
 > [!NOTE]
-> Microsoft Teams es ahora el cliente principal para mensajería, reuniones y llamadas en Office 365. Los nuevos clientes de Office 365 con 500 puestos o menos se incorporarán a Microsoft Teams y no tendrán acceso a Skype empresarial online. Los inquilinos que ya usan Skype empresarial online podrán seguir haciéndolo (incluido el aprovisionamiento de nuevos usuarios) hasta que completen la transición a Microsoft Teams.
+> Microsoft Teams es ahora el cliente principal para mensajería, reuniones y llamadas en Office 365. A partir del 1 de octubre de 2018, los nuevos clientes de Office 365 con 500 puestos o menos estarán integrados en Microsoft Teams y no tendrán acceso a Skype empresarial online. A partir del 1 de septiembre de 2019, esto se aplica a todos los clientes nuevos. Los inquilinos que ya usan Skype empresarial online pueden seguir haciéndolo (incluido el aprovisionamiento de nuevos usuarios) hasta que completen la transición a Microsoft Teams.
 
 > [!NOTE]
 > El plan 2 de Skype empresarial online se ha retirado de la venta el 1 de julio de 2019. Esto significa que ya no podrá adquirir Skype empresarial online (plan 2) para mensajería instantánea, presencia, reuniones y voz y vídeo de punto a punto. Estas características seguirán siendo compatibles con todas las ofertas de Office 365 que incluyen Teams, incluidos los conjuntos de programas de Office 365. Cuando el plan expire al final de su período actual, para poder seguir teniendo acceso a estas características, tendrá que cambiar a un plan diferente. Le recomendamos que evalúe Office 365 Business Essentials, Business Premium o cualquier otro conjunto de Office para los usuarios que actualmente tienen asignado el plan 2 de Skype empresarial online. 
@@ -177,7 +177,7 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.
 |Búsqueda de aptitudes con SharePoint Online  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |**[Gestión y administración de Skype Empresarial Online](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |
 |Portal de Microsoft Office 365  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Centro de administración de 365 de Microsoft  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Centro de administración de Microsoft 365  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Centro de administración de Skype Empresarial  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Windows PowerShell  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Informes de Skype empresarial online en el centro de administración de Microsoft 365  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
@@ -282,7 +282,7 @@ La tabla siguiente muestra las características de Skype Empresarial Online disp
 |Búsqueda de aptitudes con SharePoint Online  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |**[Gestión y administración de Skype Empresarial Online](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Skype Empresarial Server 2015** <br/> |**Skype Empresarial Online Plan independiente 1** <br/> |**Skype Empresarial Online Plan independiente 2** <br/> |
 |Portal de Microsoft Office 365  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|Centro de administración de 365 de Microsoft  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
+|Centro de administración de Microsoft 365  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Centro de administración de Skype Empresarial  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Windows PowerShell  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Informes de Skype empresarial online en el centro de administración de Microsoft 365  <br/> |No  <br/> |No<sup>4</sup> <br/> |No<sup>4</sup> <br/> |
