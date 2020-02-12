@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project Online, que se suministra con Office 365, ofrece prácticas capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de carteras de proyectos prácticamente desde cualquier lugar y con cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 13c4432f63ed1f73c6ce617ddd436bdb5c0cfab4
-ms.sourcegitcommit: d6b4bac54d41be873dcd2dbfd44463c8f3d49101
+ms.openlocfilehash: 291d7dd4c9db1e8284095a57e0942006dd1dcaa2
+ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/17/2020
-ms.locfileid: "41216669"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41931946"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -62,7 +62,7 @@ Project online Essentials no incluye Project para la Web.
 
 ### <a name="project-online-desktop-client"></a>Cliente de escritorio de Project online
 
-El cliente de escritorio de Microsoft Project online es un programa de administración de proyectos que incluye programación automatizada, administración de recursos del proyecto y generación de informes integrados. El cliente de escritorio de Project online se puede usar como una aplicación independiente o puede conectarse a Project online. Cliente de escritorio de Project online es la versión de suscripción del cliente de escritorio de Project online y está disponible en el plan 3 de proyecto y en las suscripciones a Project Plan 5.
+El cliente de escritorio de Microsoft Project online es un programa de administración de proyectos que incluye programación automatizada, administración de recursos del proyecto y generación de informes integrados. El cliente de escritorio de Project online se puede usar como una aplicación independiente o puede conectarse a Project online. Cliente de escritorio de Project online es la versión de suscripción del cliente de escritorio de Project Professional y está disponible en el plan 3 de proyecto y en las suscripciones a Project Plan 5.
 
 ### <a name="using-project-for-the-web-and-project-online-together"></a>Usar Project para la web y Project online juntos
 
@@ -152,7 +152,7 @@ Las características que se enumeran en esta sección interactúan solo con los 
 |Aprobaciones del parte de horas | Los integrantes del grupo pueden enviar partes de horas para su aprobación. Los jefes de recursos y los supervisores pueden revisar, aprobar y rechazar partes de horas enviados. | Sí | Sí |
 |Configuración del período no laborable | Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no laborables a la programación de su proyecto. | No | Sí |
 |**Colaboración** ||||
-|Attachments | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
+|Datos adjuntos | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
 |Miembros del equipo externo |Colaborar con personas de fuera de la organización al concederles acceso para ver e interactuar con sus proyectos, tareas y documentos. <sup>6</sup> | Sí | Sí |
 |Sitios del proyecto | Crear y personalizar un concentrador para la colaboración y los documentos de un proyecto. | Sí | Sí |
 Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí |
