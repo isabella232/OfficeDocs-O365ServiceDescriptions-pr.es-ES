@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio de SharePoint Online
+title: Descripción del servicio de SharePoint
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,244 +13,196 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
-description: Microsoft SharePoint Online en Office 365 faculta a las personas para que compartan y trabajen en conjunto, para informar y atraer a otros en la empresa, transformar los procesos empresariales y aprovechar los conocimientos colectivos. Además, SharePoint proporciona capacidades para que las organizaciones protejan y administren datos y creen soluciones personalizadas.
-ms.openlocfilehash: c6719ec7efc2caea5a7190d55ae9da0c535f72a5
-ms.sourcegitcommit: 2095e87cbb266c798474c33124a75bb32409040f
+description: Vea qué características de SharePoint están disponibles en cada plan.
+ms.openlocfilehash: 422ab1aae6910233dd766695607e10621fb9a2bd
+ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2019
-ms.locfileid: "39969966"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42172857"
 ---
-# <a name="sharepoint-online-service-description"></a>Descripción del servicio de SharePoint Online
+# <a name="sharepoint-service-description"></a>Descripción del servicio de SharePoint
 
-Microsoft SharePoint Online en Office 365 faculta a las personas para que compartan y trabajen en conjunto, para informar y atraer a otros en la empresa, transformar los procesos empresariales y aprovechar los conocimientos colectivos. Además, SharePoint proporciona capacidades para que las organizaciones protejan y administren datos y creen soluciones personalizadas. Para obtener una introducción rápida, vea [¿Qué es SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
+SharePoint en Microsoft 365 ayuda a las organizaciones a compartir y administrar contenido, conocimientos y aplicaciones para:
+
+- Habilitar el trabajo en equipo
+- Buscar información rápidamente
+- Colaborar sin problemas en toda la organización
+
+Para obtener una introducción rápida, vea [¿Qué es SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Para ver qué planes de Office 365 incluyen SharePoint, [Compare office 365 para planes de empresa](https://products.office.com/business/compare-more-office-365-for-business-plans). Para los requisitos del sistema de Office 365, vea [requisitos del sistema para Office](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
+
+Para obtener información sobre las diferencias de características de SharePoint para los clientes de la nube de US Government, vea [SharePoint para entornos gubernamentales de Estados Unidos](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
 ## <a name="whats-new"></a>Novedades
 
-Para obtener más información acerca de las nuevas características en SharePoint Online, consulte [What's new in SharePoint Online](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
-  
-## <a name="system-requirements"></a>Requisitos del sistema
-
-Para conocer los requisitos del sistema para Office 365, el servicio basado en suscripción mensual disponible para la empresa, educación y organizaciones gubernamentales, consulte [Requisitos del sistema para Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
-  
-> [!NOTE]
-> Una organización puede implementar un entorno híbrido de SharePoint, que se compone de SharePoint Server 2013 o 2016, normalmente implementado de forma local, y SharePoint Online. Para obtener más información, consulte [Entornos híbridos para SharePoint Server 2013](https://docs.microsoft.com/SharePoint/hybrid/hybrid) o [Entornos híbridos para SharePoint Server 2016](https://docs.microsoft.com/SharePoint/hybrid/hybrid). 
-  
-## <a name="sharepoint-online-boundaries-and-limits"></a>Límites de SharePoint Online
-
-Hay algunos límites en el servicio de SharePoint Online administrado por Microsoft, como las cuotas de colección de sitios, los límites de carga de archivos y los límites de almacenamiento. Para obtener más información, vea [límites de SharePoint Online](sharepoint-online-limits.md).
-  
-Para obtener más información acerca de los dispositivos móviles compatibles, consulte [Usar un dispositivo móvil para trabajar con sitios de SharePoint Online](https://support.office.com/article/a99f2acf-381a-442c-b305-3e74c251bcb6).
+Para obtener información sobre las características más recientes que se publican, vea [what's New in SharePoint](https://support.office.com/article/02449ef0-027e-4089-8717-f0ae7ea58029).
   
 ## <a name="subscription-options"></a>Opciones de suscripción
 
-Office 365 está disponible en una variedad de planes a fin de satisfacer las necesidades de su organización de la mejor manera. Para obtener información acerca de los diferentes planes, incluidas las opciones de planes independientes e información sobre cómo cambiar de un plan a otro, consulte [Opciones del plan 365 de Office](../office-365-platform-service-description/office-365-plan-options.md).
+Office 365 está disponible en una variedad de planes a fin de satisfacer las necesidades de su organización de la mejor manera. Para obtener más información sobre distintos planes, incluidas las opciones de los planes independientes e información sobre cómo cambiar de un plan a otro, consulte [Opciones de planes de Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Cada persona que acceda a SharePoint Online deberá asignarse a un plan de Office 365 o a un servicio independiente de SharePoint Online (plan 1) o SharePoint Online (plan 2). Sin embargo, un plan de Firstline no se vende como una oferta independiente, solo como parte de la suscripción de Firstline, como SharePoint Online Firstline. Como los trabajadores Firstline no pueden ser administradores, los inquilinos con trabajadores de Firstline requieren al menos un administrador de la empresa para administrar SharePoint. Los trabajadores de Firstline no verán los menús de navegación de SharePoint, de modo que los trabajadores de Firstline tengan que navegar directamente a los sitios de SharePoint por dirección URL.
+Para obtener acceso a SharePoint, los usuarios de la organización deben tener asignada una licencia que incluya SharePoint. Un plan de Firstline no se vende como una oferta independiente, solo como parte de la suscripción Firstline. Los trabajadores de Firstline no verán los menús de navegación de SharePoint, de modo que los trabajadores de Firstline tengan que navegar directamente a los sitios de SharePoint por dirección URL.
   
-## <a name="onedrive-for-business"></a>OneDrive para la Empresa
+## <a name="rights-of-guests"></a>Derechos de los invitados
 
-OneDrive para la Empresa (anteriormente SkyDrive Pro) es un servicio de almacenamiento en línea personal para los empleados de una compañía. Los usuarios pueden almacenar, sincronizar y compartir archivos de trabajo en varios dispositivos de manera fácil y segura. OneDrive para la Empresa se incluye en SharePoint Online y también puede adquirirse como un plan independiente. La opción independiente de OneDrive para la empresa incluye Office para la Web. Para ver qué características se incluyen en OneDrive para la empresa con Office para la web, vea la [Descripción del servicio de onedrive para la empresa](../onedrive-for-business-service-description.md).
+Si adquiere un plan y crea un sitio que usa las características de Enterprise, los invitados a los que invite deben tener derechos de uso y/o ver las características de la empresa en el sitio en el que las ha invitado. Aunque puede invitar a los invitados a realizar una serie completa de acciones en un sitio, no tendrán las mismas funciones que un usuario con licencia de la organización. Por ejemplo, si su plan incluye versiones de escritorio de las aplicaciones de Office, los invitados no podrán instalarlas en sus propios equipos a menos que les asigne una licencia.
+
+## <a name="onedrive"></a>OneDrive
+
+OneDrive en Microsoft 365 es almacenamiento en línea para usuarios individuales dentro de una organización. Los usuarios pueden almacenar, sincronizar y compartir archivos de trabajo en varios dispositivos de manera fácil y segura. OneDrive se incluye en SharePoint y también puede adquirirse como un plan independiente. Para obtener información sobre la cantidad de almacenamiento de OneDrive en cada plan, vea la [Descripción del servicio de onedrive](../onedrive-for-business-service-description.md).
+
+## <a name="apps"></a>Aplicaciones
+
+Para sincronizar archivos de SharePoint en un equipo, los usuarios pueden usar la [aplicación de sincronización de OneDrive](https://onedrive.live.com/about/download/) para Windows o Mac. Para obtener información sobre la disponibilidad de características en la aplicación de sincronización, vea la [Descripción del servicio de OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description). 
+
+Para trabajar con los sitios de SharePoint en un dispositivo móvil, pueden [instalar la aplicación móvil de SharePoint para iOS, Android o Windows](https://products.office.com/sharepoint/mobile-app). 
   
-## <a name="sharepoint-online-enterprise-external-users"></a>Usuarios externos de SharePoint Online Enterprise
-
-Los usuarios externos heredan los derechos de uso del cliente de SharePoint Online que les invita a colaborar. Es decir, si una organización compra el plan Enterprise E3 y compila un sitio que usa características de empresa, se concede al usuario externo los derechos de uso o visualización de estas características en la colección de sitios a la que se le ha invitado. Aunque pueden ampliarse los miembros de un proyecto e invitar a usuarios externos a realizar una gran variedad de acciones en un sitio, estos usuarios no dispondrán exactamente de las mismas capacidades que los miembros con licencia completa y de pago de una organización. Obtenga más información acerca de qué [acciones pueden realizar los usuarios externos y cuáles no](https://docs.microsoft.com/sharepoint/external-sharing-overview).
   
-## <a name="feature-availability-across-office-365-plans"></a>Disponibilidad de características en los planes de Office 365
+## <a name="developer-features"></a>Características de desarrollador
 
-Use la tabla siguiente para ver si una característica de SharePoint está disponible en un plan de Office 365. 
+A menos que se indique lo contrario, las siguientes características están disponibles en todos los planes que incluyen SharePoint y en todos los planes independientes de SharePoint:
 
-> [!TIP]
-> Puede que algunas columnas de esta tabla estén ocultas. Use la barra de desplazamiento de la parte inferior de la tabla para desplazarse a la derecha y ver más columnas.
-  
-****
+- [Hospedaje de complementos: hospedado por el asociado y hospedado en SharePoint](/sharepoint/dev/sp-add-ins/choose-patterns-for-developing-and-hosting-your-sharepoint-add-in)
+- [Distribución de aplicaciones: Catálogo de aplicaciones](/sharepoint/use-app-catalog)
+- [Distribución de aplicaciones: AppSource](https://appsource.microsoft.com/marketplace/apps?page=1&src=office&product=office%3Bsharepoint)
+- [Servicios de conectividad empresarial (BCS)](/sharepoint/manage-business-connectivity-service-applications). Requiere SharePoint plan 2, Office 365 Enterprise E3 u Office 365 Enterprise E5
+- [Modelos de objetos de cliente para código administrado](/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint#client-object-models-for-managed-code)
+- [Sitio para desarrolladores](/sharepoint/dev/sp-add-ins/create-a-developer-site-on-an-existing-office-365-subscription)
+- [InfoPath Forms Services](/office/client-developer/infopath/infopath-home). Requiere SharePoint plan 2, Office 365 Enterprise E3 u Office 365 Enterprise E5
+- [OAuth](/sharepoint/dev/sp-add-ins/creating-sharepoint-add-ins-that-use-low-trust-authorization). Es posible que algunos proveedores estén bloqueados en su país o región.
+- [Servicio REST y consultas de OData](/sharepoint/dev/sp-add-ins/get-to-know-the-sharepoint-rest-service)
+- [SharePoint Designer 2013 (para sitios clásicos)](https://support.office.com/article/66bf58fe-daeb-4fa6-ae84-fd600e0005c1). No disponible para trabajadores de Firstline.
+- [SharePoint Framework (SPFx)](/sharepoint/dev/spfx/sharepoint-framework-overview)
+- [Diseños de sitio y scripts de sitio](/sharepoint/dev/declarative-customization/site-design-overview)
+- [Temas del sitio](/sharepoint/dev/declarative-customization/site-theming/sharepoint-site-theming-overview)
 
-|||||||||||
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Características de desarrollador** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**SharePoint Online plan 1** <br/> |**SharePoint Online plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[Catálogo de aplicaciones (SharePoint)](developer.md#app-catalog-sharepoint) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Implementación de aplicaciones: aplicaciones hospedadas en la nube](developer.md#app-deployment-cloud-hosted-apps) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Implementación de aplicaciones: aplicaciones hospedadas en SharePoint](developer.md#app-deployment-sharepoint-hosted-apps) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Servicio de administración de aplicaciones](developer.md#app-management-service) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[BCS: tipos de contenido externo (ect) con ámbito en la aplicación](developer.md#bcs-app-scoped-external-content-types-ects) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[BCS: elementos Web de datos profesionales](developer.md#bcs-business-data-web-parts) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[BCS: lista externa](developer.md#bcs-external-list) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[BCS: Conector OData](developer.md#bcs-odata-connector) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[BCS: integración de clientes enriquecidos](developer.md#bcs-rich-client-integration) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Modelo de objetos de cliente (OM)](developer.md#client-object-model-om) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Página de aprovisionamiento de sitio personalizado](developer.md#custom-site-provisioning-page) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Sitio para desarrolladores](developer.md#developer-site) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
-|[Aplicaciones basadas en formularios](developer.md#infopath-forms-services) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Soluciones de plena confianza](developer.md#full-trust-solutions) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Servicios de formularios de InfoPath](developer.md#infopath-forms-services) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí<sup>15</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Modelo de objetos de JavaScript](developer.md#javascript-object-model) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Receptor de eventos remotos](developer.md#remote-event-receiver) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[API de REST](developer.md#rest-apis) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Administrador de diseño de SharePoint](developer.md#sharepoint-design-manager) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[SharePoint Designer 2013](developer.md#sharepoint-designer-2013) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[SharePoint Framework](developer.md#sharepoint-framework) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Flujos de trabajo de SharePoint 2010 (implementación inmediata)](developer.md#sharepoint-2010-workflows-out-of-the-box) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Flujos de trabajo de SharePoint 2013 y SharePoint 2016](developer.md#sharepoint-2013-and-sharepoint-2016-workflows) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**Características de profesionales de TI** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**SharePoint Online plan 1** <br/> |**SharePoint Online plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[Sincronización de Active Directory](it-professional.md#active-directory-synchronization) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Asignación alternativa de acceso (AAM)](it-professional.md#alternate-access-mapping-aam) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Protección contra malware](it-professional.md#anti-malware-protection) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
-|[Compatibilidad con autenticación basada en notificaciones](it-professional.md#claims-based-authentication-support) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Clave del cliente de Office 365](../exchange-online-service-description/message-policy-and-compliance.md#customer-key) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |N°<sup>18</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |
-|[Prevención de pérdida de datos](it-professional.md#data-loss-prevention) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Cifrado en reposo](it-professional.md#encryption-at-rest) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
-|Cifrado en tránsito  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
-|[Colecciones de sitios de encabezado host](it-professional.md#host-header-site-collections) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración de dispositivos móviles para Office 365](it-professional.md#mobile-device-management-for-office-365) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
-|[OAuth](it-professional.md#oauth) <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración de revisiones](it-professional.md#patch-management) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
-|[Plantillas de cuota](it-professional.md#quota-templates) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Compatibilidad con bases de datos de solo lectura](it-professional.md#read-only-database-support) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
-|[Almacenamiento remoto de blobs](it-professional.md#remote-blob-storage) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración de solicitudes](it-professional.md#request-management) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
-|[Limitación de recursos](it-professional.md#resource-throttling) <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
-|[Plataforma de aplicaciones de servicio](it-professional.md#service-application-platform) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Analizador de mantenimiento de SharePoint](it-professional.md#sharepoint-health-analyzer) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Centro de administración de SharePoint (Office 365)](it-professional.md#sharepoint-admin-center-office-365) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No<sup>3</sup> <br/> |N/D  <br/> |N/D  <br/> |
-|Centro de administración central de SharePoint  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |N/D  <br/> |Sí  <br/> |Sí  <br/> |
-|[Directivas de cumplimiento de colección de sitios](it-professional.md#site-collection-compliance-policies) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Informes y registro de uso](it-professional.md#usage-reporting-and-logging) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Soporte técnico de Windows PowerShell](it-professional.md#windows-powershell-support) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**Características de contenido** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**SharePoint Online plan 1** <br/> |**SharePoint Online plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[Compatibilidad con estándares de accesibilidad](content.md#accessibility-standards-support) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Mejoras de la biblioteca de activos/compatibilidad con vídeo](content.md#asset-library-enhancementsvideo-support) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Auditoría](content.md#auditing) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[&amp; Informes de auditoría (por ejemplo, ediciones de documentos, ediciones de directivas, eliminaciones)](content.md#auditing--reporting-eg-doc-edits-policy-edits-deletes) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Catalog](content.md#catalog) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Página de categorías y página de elementos de catálogo](content.md#category-page-and-catalog-item-page) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Organizador de contenidos](content.md#content-organizer) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Publicación entre sitios](content.md#cross-site-publishing) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Administrador de diseño](content.md#design-manager) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Conjuntos de documentos](content.md#document-sets) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Traducción de documentos en Word para el Web](content.md#document-translation-in-word-for-the-web) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[búsqueda de exhibición de documentos electrónicos](content.md#ediscovery-search) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|[conservación de exhibición de documentos electrónicos](content.md#ediscovery-hold) <br/> |N°<sup>5</sup> <br/> |N°<sup>5</sup> <br/> |No  <br/> |Sí<sup>5</sup> <br/> |N°<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |N°<sup>5</sup> <br/> |No  <br/> |Sí  <br/> |
-|[exportación de exhibición de documentos electrónicos](content.md#ediscovery-export) <br/> |N°<sup>5</sup> <br/> |N°<sup>5</sup> <br/> |No  <br/> |Sí<sup>5</sup> <br/> |N°<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |N°<sup>5</sup> <br/> |No  <br/> |Sí  <br/> |
-|[Uso compartido externo: acceso externo](content.md#external-sharing-external-access) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Configurable para la extranet  <br/> |Configurable para la extranet  <br/> |
-|[Uso compartido externo: vínculo de invitado](content.md#external-sharing-guest-link) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |No  <br/> |No  <br/> |
-|[Navegación por facetas](content.md#faceted-navigation) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>5</sup> <br/> |No  <br/> |Sí<sup>6</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Sincronización de carpetas](content.md#folder-sync) <br/> |Sí <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> |Sí  <br/> |Sí<sup>1</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|Taxonomía híbrida y tipos de contenido  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>17</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|[Representaciones de imágenes](content.md#image-renditions) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Information Rights Management (IRM)](content.md#information-rights-management-irm) <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |No<sup>3, 4</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|[Servicio de metadatos administrados](content.md#managed-metadata-service) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Navegación basada en metadatos](content.md#metadata-driven-navigation) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Disposición en varias fases](content.md#multi-stage-disposition) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Office para la web (crear/editar)](content.md#office-for-the-web-createedit) <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>14</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|[Office para la web (ver)](content.md#office-for-the-web-view) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Office ProPlus  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|[Integración del servidor de Office Web Apps](content.md#office-web-apps-server-integration) <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Included  <br/> |Sí  <br/> |Sí  <br/> |
-|[Biblioteca de conservación de documentos](content.md#preservation-hold-library) <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
-|[Análisis de publicación](content.md#publishing-analytics) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Edición rápida](content.md#quick-edit) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración de registros](content.md#records-management) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Papelera de reciclaje (Centro de administración de SharePoint)](content.md#recycle-bin-sharepoint-admin-center) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|[Papelera de reciclaje (colección de sitios)](content.md#recycle-bin-site-collection) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Elementos Web de búsqueda](content.md#search-web-parts) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Tipos de contenido compartidos](content.md#shared-content-types) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Servicios de traducción de SharePoint](content.md#sharepoint-translation-services) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Identificaciones de documento único](content.md#unique-document-ids) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Búsqueda de vídeo](content.md#video-search) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[WCM: optimización del motor de búsqueda (SEO)](content.md#wcm-search-engine-optimization-seo) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Word Automation Services](content.md#word-automation-services) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**Características de investigación** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**SharePoint Online plan 1** <br/> |**SharePoint Online plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[Centro de inteligencia empresarial](insights.md#business-intelligence-center) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Medidas y miembros calculados](insights.md#calculated-measures-and-members) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Biblioteca de conexiones de datos](insights.md#data-connection-library) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Tablas y gráficos dinámicos desacoplados](insights.md#decoupled-pivottables-and-pivotcharts) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Lista de campos y compatibilidad con campos](insights.md#field-list-and-field-support) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Mejoras de filtros](insights.md#filter-enhancements) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Filtrar búsqueda](insights.md#filter-search) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Servicios PerformancePoint](insights.md#performancepoint-services) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Elemento Web de Power BI](insights.md#power-bi-web-part) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|[Power View para Excel en SharePoint](insights.md#power-pivot-for-excel-in-sharepoint) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Power Pivot para Excel en SharePoint](insights.md#power-view-for-excel-in-sharepoint) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Exploración rápida](insights.md#quick-explore) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Modo integrado de SQL Server Reporting Services (SSRS)](insights.md#sql-server-reporting-services-ssrs-integrated-mode) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Segmentación de escala de tiempo](insights.md#timeline-slicer) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Visio para la web](../visio-online-service-description/visio-online-service-description.md)<sup>16</sup> <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
-|[Servicios de Visio](insights.md#visio-services)<sup>16</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|**Características de búsqueda** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**SharePoint Online plan 1** <br/> |**SharePoint Online plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[Rastreos continuos](search.md#continuous-crawls) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Vínculos profundos](search.md#deep-links) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Relevancia basada en eventos](search.md#event-based-relevancy) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Búsqueda de experiencia](search.md#expertise-search) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Refinadores gráficos](search.md#graphical-refiners) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Contenido resaltado (elemento Web)  <br/> |Sí  <br/> |Sí  <br/> |||Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
-|[Búsqueda híbrida](search.md#hybrid-search) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Búsqueda inteligente (Microsoft Graph)  <br/> |Sí  <br/> |Sí  <br/> |||Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
-|[Administrar el esquema de búsqueda](search.md#manage-search-schema) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Tarjetas de contactos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
-|[Coincidencia de nombres fonéticos](search.md#phonetic-name-matching) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Reglas de consulta: añadir resultados promocionados](search.md#query-rulesadd-promoted-results) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Reglas de consulta: acciones avanzadas](search.md#query-rulesadvanced-actions) <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Corrección ortográfica de la consulta](search.md#query-spelling-correction) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Sugerencias de consulta](search.md#query-suggestions) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Vista previa al activar el puntero](search.md#on-hover-preview) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Modelos de clasificación](search.md#ranking-models) <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|[Refinadores](search.md#refiners) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[API de consultas RESTful/consultas OM](search.md#restful-query-apiquery-om) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Ordenación de los resultados de búsqueda](search.md#search-results-sorting) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Elementos web de búsqueda  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
-|[Búsquedas en "Esta lista"](search.md#this-list-searches) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**Características de sitios** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**SharePoint Online plan 1** <br/> |**SharePoint Online plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|Sitios de comunicación  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
-|[Comunidad](social.md#community) <br/> |Sí<sup>12</sup> <br/> |Sí<sup>12</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>12</sup> <br/> |Sí<sup>12</sup> <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Fuente de la compañía](social.md#company-feed) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|[Compatibilidad entre exploradores](sites-servicedesc.md#cross-browser-support) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Rutas administradas personalizadas](sites-servicedesc.md#custom-managed-paths) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|Bibliotecas de documentos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Gobierno](sites-servicedesc.md#governance) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Sitios concentradores  <br/> |No<sup>19</sup> <br/> |No<sup>19</sup> <br/> |No<sup>19</sup> <br/> |No<sup>19</sup> <br/> |No<sup>19</sup> <br/> |No<sup>19</sup> <br/> |No<sup>19</sup> <br/> |No  <br/> |No  <br/> |
-|Iniciador de aplicaciones híbrido  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>17</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|OneDrive para la empresa y sitios híbridos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>17</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración y escalabilidad de listas grandes](sites-servicedesc.md#large-list-scalability-and-management) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Conectividad móvil](sites-servicedesc.md#mobile-connectivity) <br/> |Sí<sup>9</sup> <br/> |Sí<sup>9</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>9</sup> <br/> |Sí<sup>9</sup> <br/> |Sí<sup>9</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|[Interfaz de usuario multilingüe](sites-servicedesc.md#multilingual-user-interface) <br/> |Sí<sup>10</sup> <br/> |Sí<sup>10</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>10</sup> <br/> |Sí<sup>10</sup> <br/> |Sí<sup>10</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|[Elementos Web de OOTB](sites-servicedesc.md#ootb-web-parts) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración de permisos](sites-servicedesc.md#permissions-management) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Blogs personales](social.md#personal-blogs) <br/> |Sí<sup>11</sup> <br/> |Sí<sup>11</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>11</sup> <br/> |Sí<sup>11</sup> <br/> |Sí<sup>11</sup> <br/> |Sí  <br/> |Sí  <br/> |
-|[Plantilla de sitio de proyectos](sites-servicedesc.md#project-site-template) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Listas de SharePoint](sites-servicedesc.md#sharepoint-lists) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Cinta de SharePoint <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Diseños de sitio](sites-servicedesc.md#site-designs) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Temas del sitio (cambiar el aspecto)](sites-servicedesc.md#site-themes-change-the-look) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Página de uso del sitio](sites-servicedesc.md#site-usage-page) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
-|[Lista de tareas](sites-servicedesc.md#task-list) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Bloc de notas de equipo](sites-servicedesc.md#team-notebook) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Sitio de grupo <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Variaciones](sites-servicedesc.md#variations) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|Fuente de sitio (sitio de grupo clásico con SharePoint social (sitio de grupo clásico con SharePoint social)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Wikis](social.md#wikis) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Integración de Yammer  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |||
-|**Complementos** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**SharePoint Online plan 1** <br/> |**SharePoint Online plan 2** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> |**SharePoint Server 2016 Standard** <br/> |**SharePoint Server 2016 Enterprise** <br/> |
-|[Almacenamiento adicional](add-ons.md#additional-storage) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Aplicaciones aprovisionadas de Azure: servicios de Access](add-ons.md#azure-provisioned-apps-access-services) <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |No  <br/> |No  <br/> |
-|[Aplicaciones aprovisionadas de Azure: código personalizado en el rol Web ligero de Azure (LWR)](add-ons.md#azure-provisioned-apps-custom-code-in-azure-lightweight-web-role-lwr) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
+Para obtener información general sobre las opciones de personalización, vea [Personalización de SharePoint](/sharepoint/extend-and-develop).
 
-<sup>1</sup> los trabajadores de Firstline tienen funcionalidades limitadas de OneDrive para la empresa. Los trabajadores de Firstline reciben 2 GB de almacenamiento.<br/> 
-<sup>2</sup> Azure Information Protection no se incluye, pero puede adquirirse como un complemento independiente y habilitará las características de Information Rights Management (IRM) compatibles. Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
-<sup>3</sup> como los trabajadores Firstline no pueden ser administradores, los inquilinos con trabajadores de Firstline necesitan al menos un usuario de Enterprise para obtener acceso al centro de administración. <br/>
-<sup>4</sup> los clientes de SharePoint Online deben descargar e instalar la aplicación gratuita Rank Model TUNING para crear y personalizar modelos de clasificación. <br/> 
-<sup>5</sup> cuando se usan características de la exhibición de documentos electrónicos, el requisito de licencia para un plan que permita esta característica se aplica a todos los usuarios finales que forman parte de la acción de la exhibición de documentos electrónicos (búsqueda, retención, exportación). <br/>
-<sup>6</sup> Authenticated SharePoint Online users can access private site collections with faceted navigation. <br/>
-<sup>7</sup> Some providers may be blocked in your country/region. <br/> 
-<sup>8</sup> Sharing a document, library, or site by email with someone outside of your organization. Administrators do have the ability to turn it on, but will get a warning message indicating that it could make files shared accessible outside of your country. Users who attempt to share with someone outside of the organization will receive the same warning message. <br/>
-<sup>9</sup> You can view documents in any Mobile browser. You need to install the Office Mobile app to edit documents. Office Mobile está disponible actualmente para Windows phones y tabletas, teléfonos y tabletas Android, iPhone y iPad. <br/>
-<sup>10</sup> Help is available only in Simplified Chinese and English. <br/> 
-<sup>11</sup> Comments on blogs cannot be added. <br/> 
-<sup>12</sup> Organization community website is available, but public community-provided help is not available. <br/>
-<sup>13</sup> Access 2010 is not supported. <br/> 
-<sup>14</sup> para Office para la web, F1 los usuarios deben tener acceso a Office para la web (iconos dinámicos) para la creación de contenido. Sin embargo, tienen limitaciones asociadas a las aplicaciones móviles comerciales principales. Se incluyen las aplicaciones siguientes: Yammer, StaffHub, Microsoft Teams, Skype Empresarial, SharePoint y Grupos. **No** se incluyen los siguientes elementos: Outlook, Word, Excel, PowerPoint y OneNote.<br/> 
-<sup>15</sup> los formularios de InfoPath que contienen código de usuario (espacio aislado) solo pueden usarse en InfoPath Rich Client. <br/>
-<sup>16</sup> Visio para el consumo web (capacidad de visualización) está disponible de forma gratuita. Visio for the Web Create and Edit Capabilities requiere una licencia. Para obtener más información acerca de Visio para la web, vea la [Descripción de servicio Web de Visio](../visio-online-service-description/visio-online-service-description.md).  <br/>
-<sup>17</sup> los usuarios de F1 pueden obtener acceso a SharePoint Server en una configuración híbrida, pero Office 365 F1 no incluye los derechos cal para obtener acceso al servidor; Estos derechos deben adquirirse por separado. <br/>
-<sup>18</sup> la clave de cliente está disponible en Office 365 Enterprise E5. La clave de cliente le permite controlar las claves de cifrado de su organización y, después, configurar Office 365 para usarlas y cifrar los datos en reposo en los centros de datos de Microsoft. Los datos en reposo incluyen datos de Exchange Online y Skype Empresarial que se almacenan en buzones y archivos en SharePoint Online y OneDrive para la Empresa. La clave de cliente le ayuda a llevar a cabo sus obligaciones de cumplimiento, ya que es usted quien controla las claves de cifrado que Office 365 usa para descifrar datos. Para obtener más información, vea [controlar los datos en Office 365 mediante la clave de cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
-<sup>19</sup> próximamente.
+Para obtener más información acerca de la disponibilidad de Microsoft Power apps y de la automatización de energía, consulte las preguntas más frecuentes sobre las [licencias Power apps y](/power-platform/admin/powerapps-flow-licensing-faq)Power.
+
+Para obtener más información sobre la disponibilidad de Microsoft Graph, vea la descripción del servicio de la [plataforma 365 de Office](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+
+## <a name="it-admin-features"></a>Características de administración de ti
+
+A menos que se indique lo contrario, las siguientes características están disponibles en todos los planes que incluyen SharePoint y en todos los planes independientes de SharePoint:
+
+- [Uso de aplicaciones y supervisión de errores](/sharepoint/monitor-apps)
+- Informes de actividad y uso de [SharePoint](/office365/admin/activity-reports/sharepoint-activity) y [OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)
+- [Cambiar dirección URL del sitio](/sharepoint/change-site-address)
+- [Configuración de retención y almacenamiento predeterminada para OneDrive](/en-us/onedrive/set-default-storage-space)
+- [Entorno híbrido de SharePoint Server](/sharepoint/hybrid/hybrid). Los trabajadores de Firstline requieren una licencia de acceso de cliente (CAL) para obtener acceso a SharePoint Server.
+- [Administración de la configuración de creación de sitios](/sharepoint/manage-site-creation)
+- [Administración de límites de almacenamiento del sitio](/sharepoint/manage-site-collection-storage-limits)
+- [Migración: herramienta de migración de SharePoint](/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [Migración: administrador de migración](/sharepointmigration/mm-get-started)
+- [Migración: herramienta de evaluación de migración de SharePoint](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
+- [Migración: mover.IO](https://mover.io/). Actualmente, solo está disponible para los clientes de Norteamérica.
+- [Multigeográfico (residencia de datos)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). Con un complemento que requiere un mínimo de 500 licencias de Office 365. Póngase en contacto con su representante de Microsoft para obtener más información.
+- [Aprovisionamiento de sitios mediante programación](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
+- [Reemplazo de sitio raíz](/sharepoint/modern-root-site)
+- [Restaurar sitios eliminados](/sharepoint/restore-deleted-site-collection)
+- [Centro de administración de SharePoint](/sharepoint/get-started-new-admin-center). Las organizaciones con trabajadores de Firstline necesitan al menos un usuario de Enterprise para obtener acceso al centro de administración.
+- [Analizador de modernización de SharePoint](/sharepoint/dev/transform/modernize-scanner)
+- [Shell de administración de SharePoint Online](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). Las organizaciones con trabajadores de Firstline necesitan al menos un usuario de Enterprise para obtener acceso al centro de administración.
+- [Gobernanza del sitio](/sharepoint/governance-overview) 
+- [Almacén de términos: metadatos administrados](/sharepoint/managed-metadata)
+
+Para obtener información sobre la disponibilidad de los servicios de migración de FastTrack, consulte [beneficio del centro FastTrack para Microsoft 365](/fasttrack/m365-eligible-services-and-plans). 
+
+Para obtener información sobre las características relacionadas con el uso compartido, vea la [Descripción del servicio de OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description).
+
+Para obtener ayuda de administración para SharePoint, vea [Administración de SharePoint Online](/sharepoint/sharepoint-online).
+
+## <a name="security-and-compliance-features"></a>Características de seguridad y cumplimiento
+
+A menos que se indique lo contrario, las siguientes características están disponibles en todos los planes que incluyen SharePoint y en todos los planes independientes de SharePoint:
+
+- [Control de acceso: ubicación de red](/sharepoint/control-access-based-on-network-location)
+- [Control de acceso: dispositivos no administrados](/sharepoint/control-access-from-unmanaged-devices). Requiere Azure AD Premium P1.
+- [Cifrado en tránsito y en reposo](/office365/securitycompliance/data-encryption-in-odb-and-spo)
+- [Cierre de sesión de sesión inactiva](/sharepoint/sign-out-inactive-users)
+- [Directivas de administración de la información](https://support.office.com/article/EB501FE9-2EF6-4150-945A-65A6451EE9E9)
+- [Information Rights Management (IRM)](/office365/securitycompliance/set-up-irm-in-sp-admin-center). Requiere Azure Information Protection independiente o como parte de un conjunto de aplicaciones. Algunas características de Azure Information Protection requieren una suscripción a Office 365 ProPlus.
+- [Restauración de una biblioteca de documentos a un punto anterior en el tiempo](https://support.office.com/article/317791c3-8bd0-4dfd-8254-3ca90883d39a)
+- [Detección de virus](/office365/securitycompliance/virus-detection-in-spo)
+
+Para obtener información sobre las características relacionadas con el uso compartido, vea la [Descripción del servicio de OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description).
+
+SharePoint se integra con las capacidades avanzadas de seguridad y cumplimiento de Microsoft 365. Para obtener información acerca de la disponibilidad de las siguientes características, consulte la [Descripción del servicio de cumplimiento de & de seguridad](/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center):
+
+- [Caja de seguridad del cliente](/microsoft-365/compliance/customer-lockbox-requests)
+- [Prevención de pérdida de datos (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
+- [exhibición](/microsoft-365/compliance/ediscovery-cases) de documentos electrónicos (búsqueda de contenido, retención, exportación)
+- [Barreras de información](/microsoft-365/compliance/information-barriers)
+- [Office 365 Advanced Threat Protection (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Etiquetas y directivas de retención](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
+- [Etiquetas de confidencialidad](/microsoft-365/compliance/sensitivity-labels)
+- [Auditoría unificada](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (auditoría de la actividad del usuario y del administrador de SharePoint)
+
+Para obtener información sobre [Azure Information Protection](/microsoft-365/compliance/protect-sharepoint-online-files-with-azure-information-protection), vea los [requisitos para Azure Information Protection](/azure/information-protection/requirements) .
+
+Para obtener información acerca de la disponibilidad de la clave de cliente, consulte [How is Customer Key licensed?](/microsoft-365/compliance/service-encryption-with-customer-key-faq#how-is-customer-key-licensed). 
+
+
+
+## <a name="sites-and-content-features"></a>Características de sitios y contenido
+
+A menos que se indique lo contrario, las siguientes características están disponibles en todos los planes que incluyen SharePoint y en todos los planes independientes de SharePoint:
+
+- [Accesibilidad](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
+- [Agregue Microsoft Teams a sitios](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Requiere una suscripción que incluya Office 365 y requiere que el usuario tenga una licencia para Microsoft Teams.
+- [Identificación de audiencia](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
+- [Conectar sitios de grupo clásicos a nuevos grupos de Office 365](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d). Requiere una suscripción que incluya Office 365.
+- [Crear un plan (integración con Planner)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb). Requiere una suscripción que incluya Office 365 y requiere que el usuario tenga una licencia para Planner.
+- [Bibliotecas de documentos](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)
+- [Conjuntos de documentos](https://support.office.com/article/3DBCD93E-0BED-46B7-B1BA-B31DE2BCD234)
+- Tarjetas de archivo (actividad, conversaciones, visores)
+- [Lists](https://support.office.com/article/0A1C3ACE-DEF0-44AF-B225-CFA8D92C52D7)
+- [Menús megas](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
+- [Integración de Microsoft Forms](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256). Requiere una suscripción que incluya Office 365 y requiere que el usuario tenga una licencia para formularios.
+- [Noticias](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
+- Integración de aplicaciones de escritorio de Office. Requiere una suscripción que incluya las aplicaciones de escritorio de Office.
+- Integración de Office para la Web. Requiere una suscripción que incluya Office 365.
+- [Biblioteca de activos de la organización](/sharepoint/organization-assets-library)
+- [Noticias de la organización](/sharepoint/organization-news-site)
+- [Aprobación de la página](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- Administración de registros
+- [Papelera de reciclaje](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
+- [Aplicación móvil de SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
+- [Página de inicio de SharePoint](https://support.office.com/article/5ffd35a6-9fd8-47a4-900d-c548208d092e)
+- [Diseños de sitio](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
+- [Informes de uso del sitio](https://support.office.com/article/2fa8ddc2-c4b3-4268-8d26-a772dc55779e)
+- [Sitios: sitios clásicos](https://support.office.com/article/449eccec-ff99-4cf3-b62e-dcfee37e8da4)
+- [Sitios: sitios de comunicación](https://support.office.com/article/94A33429-E580-45C3-A090-5512A8070732)
+- [Sitios: sitio principal](/sharepoint/home-site)
+- [Sitios: sitios de concentradores](/sharepoint/planning-hub-sites)
+- Sitios: sitios de grupo modernos (sin grupo de Office 365)
+- [Sitios: Office 365 sitios de grupo conectados a un grupo](https://support.office.com/article/75545757-36c3-46a7-beed-0aaa74f0401e). Requiere una suscripción que incluya Office 365.
+- [Sitios: sitio raíz](/sharepoint/modern-root-site)
+- [Bloc de notas de OneNote de equipo](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
+- [Temas (cambiar el aspecto)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
+- [Elementos web](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
+- [Trabajar con contenido de SharePoint en Microsoft Teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Requiere una suscripción que incluya Office 365 y requiere que el usuario tenga una licencia para Microsoft Teams.
+
+Para obtener más información acerca de la disponibilidad de Microsoft Power apps y de la automatización de energía, consulte las preguntas más frecuentes sobre las [licencias Power apps y](/power-platform/admin/powerapps-flow-licensing-faq)Power.
+
+Para obtener información sobre las características relacionadas con el uso compartido, vea la [Descripción del servicio de OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description).
+
+## <a name="search-features"></a>Características de búsqueda
+
+A menos que se indique lo contrario, las siguientes características están disponibles en todos los planes que incluyen SharePoint y en todos los planes independientes de SharePoint:
+
+- [Búsqueda híbrida](/sharepoint/hybrid/hybrid-search-in-sharepoint)
+- [Administración de orígenes de resultados (búsqueda clásica y moderna)](/sharepoint/manage-result-sources)
+- [Integración de Microsoft Search](/microsoftsearch/overview-microsoft-search)
+- [Resultados promocionados (búsqueda clásica)](/sharepoint/manage-query-rules)
+- [Quitar resultados de la búsqueda (búsqueda clásica y moderna)](/sharepoint/remove-search-results)
+- [Centro de búsqueda (búsqueda clásica)](/sharepoint/manage-search-center)
+- [Esquema de búsqueda (búsqueda clásica y moderna)](/sharepoint/manage-search-schema)
+
+Para obtener información sobre Delve, vea la [Descripción del servicio de la plataforma 365 de Office](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
+
+
