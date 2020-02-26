@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de & de seguridad de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: ead339254c57c4bd9f682159f54f235279f7c362
-ms.sourcegitcommit: 357f93c151a5302d5d3aa43f633b295c37e036a2
+ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41787041"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279863"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -421,3 +421,23 @@ De forma predeterminada, las características de acceso condicional están habil
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
 Para la protección de identidad y el acceso condicional en concreto, un usuario debe incluirse en un grupo o agregarse a una directiva de acceso condicional. La condición Users and Groups es obligatoria en una directiva de acceso condicional. En la Directiva, puede seleccionar todos los **usuarios** o bien usuarios y grupos específicos. Solo debe seleccionar los usuarios y grupos con licencia adecuada. Para obtener más información, vea [¿Qué son las condiciones de acceso condicional de Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/conditional-access/conditions).
+
+## <a name="advanced-audit"></a>Auditoría avanzada
+
+La auditoría avanzada en Microsoft 365 proporciona una retención de un año de registros de auditoría para actividades de usuario y de administrador, y proporciona la capacidad de crear directivas de retención de registro de auditoría personalizadas para administrar la retención de registros de auditoría para otros servicios de Microsoft 365. También proporciona acceso a eventos fundamentales para las investigaciones y el acceso de gran ancho de banda a la API de actividad de administración 365 de Office. Para obtener más información, consulte [auditoría avanzada en Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
+
+### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
+
+Los usuarios con licencia de Office 365 E5, Microsoft 365 E5 y el cumplimiento de Microsoft 365 E5 pueden beneficiarse de la auditoría avanzada.
+
+### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
+
+Un usuario se beneficia de la auditoría avanzada porque los registros de auditoría relacionados con la actividad de los usuarios en los servicios de Microsoft 365 se pueden conservar hasta un año. Además, se registran los eventos de auditoría de gran valor, como cuando se tiene acceso a los elementos del buzón de un usuario o se leen. Para obtener más información, consulte [eventos de auditoría de valor alto](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events).
+
+### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
+
+De forma predeterminada, la auditoría avanzada está habilitada en el nivel de espacio empresarial para todas las organizaciones que tienen una suscripción de Office 365 o Microsoft 365 E5, y proporciona automáticamente una retención de un año de registros de auditoría para actividades (realizadas por los usuarios con la licencia adecuada) en Azure Active Directory, Exchange y SharePoint. Además, las organizaciones pueden usar directivas de retención de registro de auditoría para administrar el período de retención de los registros de auditoría generados por la actividad en otros servicios de Microsoft 365. Para obtener más información, vea [administrar directivas de retención de los registros de auditoría](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
+
+La retención de un año de registros de auditoría y los eventos de alto valor de auditoría solo se aplican a los usuarios con la licencia correspondiente. Además, los administradores pueden usar directivas de retención de registro de auditoría para especificar duraciones de retención más cortas para los registros de auditoría de usuarios específicos.

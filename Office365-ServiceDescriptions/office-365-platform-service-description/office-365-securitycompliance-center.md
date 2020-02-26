@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro de seguridad &amp; y cumplimiento de Office 365 está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: d71fb083c34d72de8bcb20536bdd01d572fc788d
-ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
+ms.openlocfilehash: 7551f92f58387e988fcaa42d5b298254a064fb1a
+ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931926"
+ms.lasthandoff: 02/26/2020
+ms.locfileid: "42279813"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -28,7 +28,7 @@ El [centro de seguridad &amp; y cumplimiento de Office 365](https://docs.microso
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US Government G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 US Government G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 US Government, F1** <br/> |
+|**Característica** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> **Office 365 US Government G1** <br/> |**Office 365 Enterprise E3** <br/> **Office 365 Administración Pública de EE. UU. G3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F1** <br/> **Office 365 US Government, F1** <br/> |
 |[Acceso al centro de &amp; seguridad y cumplimiento](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security) <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |[Administración de amenazas](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) , como filtrado de correo y antimalware  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -64,7 +64,7 @@ límite de <sup>3</sup> 50 GB. <br/>
 <sup>9</sup> hay disponible un complemento DLP que se puede Agregar a cualquier SKU que tenga Exchange o SharePoint/OneDrive.<br/>
 <sup>10</sup> las etiquetas de confidencialidad también se incluyen en Azure Information Protection P1 y P2.<br/>
 <sup>11</sup> se necesita una licencia de Exchange Online (plan 2) para retener el contenido de un buzón de usuario mediante una directiva de retención.<br/>
-<sup>12</sup> la auditoría avanzada proporciona una retención de registros de auditoría de un año por actividades en Azure Active Directory, Exchange y SharePoint, y proporciona la capacidad de crear directivas de retención de registro de auditoría personalizadas para administrar la retención de registros de auditoría para otros servicios de Office 365. También proporciona la auditoría de eventos de gran valor y el acceso de gran ancho de banda a la API de actividad de administración de Office 365.
+<sup>12</sup> la auditoría avanzada proporciona una retención de registros de auditoría de un año por actividades en Azure Active Directory, Exchange y SharePoint, y proporciona la capacidad de crear directivas de retención de registro de auditoría personalizadas para administrar la retención de registros de auditoría para otros servicios de Office 365. También proporciona acceso a eventos fundamentales para las investigaciones y el acceso de gran ancho de banda a la API de actividad de administración 365 de Office.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Disponibilidad &amp; del centro de cumplimiento de seguridad para planes independientes
 
