@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: a1f83239d3ac63ea8b8ef2559fe962f131c96110
-ms.sourcegitcommit: 262c4a84be6c09ce5e56495506a1e599159efcdc
+ms.openlocfilehash: 88885d5837ae8acd070c9f61dd8ed49c577c5e67
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/09/2020
-ms.locfileid: "41000860"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374187"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -355,12 +355,12 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica**|**Office 365 Empresa Essentials**|**Office 365 Empresa Premium**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F1**|
 |Límite de frecuencia de destinatario<sup>1</sup>|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|
-|Límite de destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|500 destinatarios|
+|Límite de destinatarios|500 destinatarios|1000 destinatarios|1000 destinatarios|1000 destinatarios|1000 destinatarios|1000 destinatarios|
 |Límite de direcciones proxy de destinatarios|400|400|400|400|400|400|
 |Límite de frecuencia de mensajes|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
 
 > [!NOTE]
-> <sup>1</sup> una vez que se alcanza el límite de frecuencia de destinatarios, no se pueden enviar mensajes desde el buzón de correo hasta que el número de destinatarios que se enviaron mensajes en las últimas 24 horas descienda por debajo del límite. Por ejemplo, un usuario envía un mensaje de correo electrónico a 5.000 destinatarios a 09:00 AM, envía otro mensaje a 2.500 destinatarios a la 10:00 AM y, a continuación, envía otro mensaje a 2.500 destinatarios en el 11:00 AM, y alcanza el límite de 10.000 mensajes. El usuario no podrá volver a enviar mensajes hasta 09:00 A.M. del día siguiente.
+> <sup>1</sup> una vez que se alcanza el límite de frecuencia de destinatarios, no se pueden enviar mensajes desde el buzón de correo hasta que el número de destinatarios que se enviaron mensajes en las últimas 24 horas descienda por debajo del límite. Por ejemplo, un usuario envía un mensaje de correo electrónico a 5.000 destinatarios a 09:00 AM, envía otro mensaje a 2, 1000 destinatarios a 10:00 A.M. y, a continuación, envía otro mensaje a los destinatarios 2.500 en el 11:00 AM, y alcanza el límite de 10.000 mensajes. El usuario no podrá volver a enviar mensajes hasta 09:00 A.M. del día siguiente.
 
 #### <a name="sending-limits-across-standalone-options"></a>Límites de envío en las opciones independientes
 
@@ -368,7 +368,7 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
 |:-----|:-----|:-----|:-----|:-----|
 |**Característica**|**Exchange Server 2013**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Límite de frecuencia de destinatario|Sin límite<sup>1</sup>|10.000 destinatarios por día<sup>2</sup>|10.000 destinatarios por día<sup>2</sup>|10.000 destinatarios por día<sup>2</sup>|
-|Límite de destinatarios|500 destinatarios<sup>1</sup>|500 destinatarios|500 destinatarios|500 destinatarios|
+|Límite de destinatarios|1000 destinatarios<sup>1</sup>|1000 destinatarios|1000 destinatarios|1000 destinatarios|
 |Límite de direcciones proxy de destinatarios|400|400|400|400|
 |Límite de frecuencia de mensajes|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
 

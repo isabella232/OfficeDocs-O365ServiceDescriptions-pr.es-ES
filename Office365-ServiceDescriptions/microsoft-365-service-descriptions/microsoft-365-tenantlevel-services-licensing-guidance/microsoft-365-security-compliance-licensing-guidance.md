@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de & de seguridad de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: c4daa7a5d97998e62a5d0bc71dfbdaf02f1afbad
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279863"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374167"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -189,9 +189,9 @@ De forma predeterminada, las características de ADG están habilitadas en el ni
 
 Las directivas de retención de ADG se pueden aplicar a usuarios con licencia en ubicaciones específicas (sitios de grupo, sitios de grupo, etc.) a través de la clasificación automática. Para obtener instrucciones sobre cómo aplicar directivas de retención de ADG, vea [aplicar una directiva de retención a toda la organización o a ubicaciones específicas](https://docs.microsoft.com/office365/securitycompliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations).
 
-## <a name="office-365-advanced-ediscovery"></a>eDiscovery avanzado de Office 365
+## <a name="advanced-ediscovery"></a>eDiscovery avanzado
 
-Office 365 Advanced eDiscovery proporciona soluciones de investigación y exhibición de documentos electrónicos para departamentos de ti y legales dentro de las empresas para identificar, recopilar, preservar, reducir y revisar el contenido relacionado con una investigación o litigio antes de la exportación desde el Office 365 System.
+EDiscovery avanzado proporciona soluciones de investigación y exhibición de documentos electrónicos para departamentos de ti y legales dentro de las empresas para identificar, recopilar, preservar, reducir y revisar el contenido relacionado con una investigación o litigio antes de la exportación fuera de la oficina 365 sistema.
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
@@ -440,4 +440,4 @@ De forma predeterminada, la auditoría avanzada está habilitada en el nivel de 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-La retención de un año de registros de auditoría y los eventos de alto valor de auditoría solo se aplican a los usuarios con la licencia correspondiente. Además, los administradores pueden usar directivas de retención de registro de auditoría para especificar duraciones de retención más cortas para los registros de auditoría de usuarios específicos.
+La retención de un año de registros de auditoría y la auditoría de eventos vitales solo se aplican a los usuarios con la licencia adecuada. Además, los administradores pueden usar directivas de retención de registro de auditoría para especificar duraciones de retención más cortas para los registros de auditoría de usuarios específicos.
