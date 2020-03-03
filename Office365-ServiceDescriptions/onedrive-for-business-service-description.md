@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Consulte las características de OneDrive disponibles en cada plan.
-ms.openlocfilehash: d1a8efd1cb01ae2f7643f673b66b6c0204ddde73
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 78780b53d1d5901405ecf98839c2b1a2df851f1a
+ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172092"
+ms.lasthandoff: 03/03/2020
+ms.locfileid: "42374177"
 ---
 # <a name="onedrive-service-description"></a>Descripción del servicio OneDrive
 
@@ -88,7 +88,7 @@ Cuando se necesita almacenamiento en la nube para usuarios individuales, más al
   
 - Cuando un usuario haya llenado los 5 TB de almacenamiento de OneDrive como mínimo al 90 % de su capacidad, Microsoft aumentará el espacio de almacenamiento predeterminado en OneDrive hasta 25 TB por usuario (si quieren, los administradores pueden establecer un límite inferior por usuario). 
     
-- Para cualquier usuario que alcance como mínimo una capacidad de 90 % de los 25 TB de almacenamiento de OneDrive, se proporcionará un almacenamiento en la nube adicional de 25 TB de sitios de grupo de SharePoint a usuarios individuales. Este almacenamiento adicional se proporciona a la organización en forma de crédito.
+- Para cualquier usuario que alcance como mínimo una capacidad de 90 % de los 25 TB de almacenamiento de OneDrive, se proporcionará un almacenamiento en la nube adicional de 25 TB de sitios de grupo de SharePoint a usuarios individuales.
     
 Para ver el espacio de almacenamiento y el uso de un usuario individual, vaya a [Administrar almacenamiento](https://support.office.com/article/31519161-059C-4764-B6F8-F5CD29F7FE68) en la aplicación de sincronización de OneDrive. Para ver cuánto almacenamiento están usando los usuarios en toda la organización, vaya al [Informe de uso de OneDrive](/office365/admin/activity-reports/onedrive-for-business-usage) en el Centro de administración de Microsoft 365. 
    
