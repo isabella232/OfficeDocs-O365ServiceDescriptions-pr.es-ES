@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
 description: Use OneNote para la web (anteriormente OneNote Web App) para tomar notas en línea en un bloc de notas de OneNote que puede Agregar desde cualquier lugar y compartir fácilmente con otros usuarios. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
 ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263514"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545773"
 ---
 # <a name="onenote-for-the-web"></a>OneNote para la web
 
@@ -142,7 +142,7 @@ Con OneNote para la web, puede usar la búsqueda instantánea para recuperar tod
 
 No disponible en OneNote para la Web. Las características de búsqueda avanzada, como buscar por etiqueta, por título, por autor/fecha y por archivo de audio, solo están disponibles en la aplicación de escritorio de OneNote.
   
-## <a name="share"></a>Compartir
+## <a name="share"></a>Uso compartido
 
 Si ha guardado el Bloc de notas de OneNote en una biblioteca de documentos de SharePoint, el Bloc de notas de OneNote estará en línea. Esto implica que puede compartirlo enviando un vínculo, en lugar de usar un archivo adjunto de correo electrónico. Al seleccionar el vínculo, los usuarios pueden leer sus notas en su explorador Web. Obtenga más información sobre cómo [compartir notas de OneNote en línea](https://go.microsoft.com/fwlink/p/?LinkID=272945).
   

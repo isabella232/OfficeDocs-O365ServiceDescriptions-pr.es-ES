@@ -11,11 +11,11 @@ ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si es administrador, puede encontrar instrucciones detalladas para configurar las características de Skype empresarial online en configurar Skype empresarial online.
 ms.openlocfilehash: 15574e9afbb1b635a96fd659b6a79a0211b6fc5a
-ms.sourcegitcommit: fb245074a57da585566096f6956d37325f451262
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/26/2019
-ms.locfileid: "37733801"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545763"
 ---
 # <a name="skype-for-business-online-features"></a>Características de Skype Empresarial Online
 
@@ -101,7 +101,7 @@ Por lo tanto, Skype Empresarial Online ofrece a los administradores de clientes 
   
 - Portal de Microsoft Office 365
     
-- Centro de administración de 365 de Microsoft
+- Centro de administración de Microsoft 365
     
 - Centro de administración de Skype Empresarial
     

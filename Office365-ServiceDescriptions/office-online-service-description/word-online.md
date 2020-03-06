@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word para el Web (anteriormente Word Web App) amplía su experiencia de Microsoft Word al explorador Web, donde puede trabajar con documentos directamente en el sitio web en el que está almacenado el documento.
 ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263494"
+ms.lasthandoff: 03/05/2020
+ms.locfileid: "42545743"
 ---
 # <a name="word-for-the-web"></a>Word para la web
 
@@ -239,7 +239,7 @@ Con Word para la web, puede guardar una copia del documento localmente.
 
 Puede usar Word para la web para guardar o convertir los archivos a PDF para que pueda compartirlos o imprimirlos mediante impresoras comerciales. Y no necesitará ningún otro software o complemento.
   
-## <a name="share"></a>Compartir
+## <a name="share"></a>Uso compartido
 
 Con Word para la web, se trata de un proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre las [diferencias entre el uso de un documento en el explorador y en Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
