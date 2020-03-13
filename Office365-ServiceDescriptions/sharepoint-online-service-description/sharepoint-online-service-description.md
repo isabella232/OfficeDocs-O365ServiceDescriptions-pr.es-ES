@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio de SharePoint
+title: Descripción del servicio SharePoint
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vea qué características de SharePoint están disponibles en cada plan.
-ms.openlocfilehash: 422ab1aae6910233dd766695607e10621fb9a2bd
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 3d9bd3cba9cfecad648ab39aabcb243e04a6d3e2
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42172857"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609871"
 ---
-# <a name="sharepoint-service-description"></a>Descripción del servicio de SharePoint
+# <a name="sharepoint-service-description"></a>Descripción del servicio SharePoint
 
 SharePoint en Microsoft 365 ayuda a las organizaciones a compartir y administrar contenido, conocimientos y aplicaciones para:
 
@@ -43,7 +43,7 @@ Para obtener información sobre las características más recientes que se publi
 
 Office 365 está disponible en una variedad de planes a fin de satisfacer las necesidades de su organización de la mejor manera. Para obtener más información sobre distintos planes, incluidas las opciones de los planes independientes e información sobre cómo cambiar de un plan a otro, consulte [Opciones de planes de Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-Para obtener acceso a SharePoint, los usuarios de la organización deben tener asignada una licencia que incluya SharePoint. Un plan de Firstline no se vende como una oferta independiente, solo como parte de la suscripción Firstline. Los trabajadores de Firstline no verán los menús de navegación de SharePoint, de modo que los trabajadores de Firstline tengan que navegar directamente a los sitios de SharePoint por dirección URL.
+Para obtener acceso a SharePoint, los usuarios de la organización deben tener asignada una licencia que incluya SharePoint. Un plan de Firstline no se vende como una oferta independiente, solo como parte de la [suscripción Firstline](https://www.microsoft.com/microsoft-365/business/office-365-f1). 
   
 ## <a name="rights-of-guests"></a>Derechos de los invitados
 
@@ -152,7 +152,7 @@ Para obtener información acerca de la disponibilidad de la clave de cliente, co
 A menos que se indique lo contrario, las siguientes características están disponibles en todos los planes que incluyen SharePoint y en todos los planes independientes de SharePoint:
 
 - [Accesibilidad](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
-- [Agregue Microsoft Teams a sitios](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Requiere una suscripción que incluya Office 365 y requiere que el usuario tenga una licencia para Microsoft Teams.
+- [Agregue Microsoft Teams a sitios](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Requiere una suscripción que incluya Office 365 y requiere que el usuario tenga una licencia para Teams.
 - [Identificación de audiencia](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [Conectar sitios de grupo clásicos a nuevos grupos de Office 365](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d). Requiere una suscripción que incluya Office 365.
 - [Crear un plan (integración con Planner)](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb). Requiere una suscripción que incluya Office 365 y requiere que el usuario tenga una licencia para Planner.
@@ -163,12 +163,12 @@ A menos que se indique lo contrario, las siguientes características están disp
 - [Menús megas](https://support.office.com/article/d6768545-2391-4c66-9a8c-a85eb76b4cf5)
 - [Integración de Microsoft Forms](https://support.office.com/article/d4b4d3ce-7860-41e4-8a98-76380efe7256). Requiere una suscripción que incluya Office 365 y requiere que el usuario tenga una licencia para formularios.
 - [Noticias](https://support.office.com/article/495f8f1a-3bef-4045-b33a-55e5abe7aed7)
-- Integración de aplicaciones de escritorio de Office. Requiere una suscripción que incluya las aplicaciones de escritorio de Office.
+- Integración de aplicaciones de escritorio de Office. Se necesita una suscripción que incluya las aplicaciones de escritorio de Office.
 - Integración de Office para la Web. Requiere una suscripción que incluya Office 365.
 - [Biblioteca de activos de la organización](/sharepoint/organization-assets-library)
 - [Noticias de la organización](/sharepoint/organization-news-site)
 - [Aprobación de la página](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Páginas](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Administración de registros
 - [Papelera de reciclaje](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Aplicación móvil de SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
@@ -185,11 +185,11 @@ A menos que se indique lo contrario, las siguientes características están disp
 - [Bloc de notas de OneNote de equipo](https://support.office.com/article/0ec78cc3-ba3b-4279-a88e-aa40af9865c2)
 - [Temas (cambiar el aspecto)](https://support.office.com/article/06bbadc3-6b04-4a60-9d14-894f6a170818)
 - [Elementos web](https://support.office.com/article/336e8e92-3e2d-4298-ae01-d404bbe751e0)
-- [Trabajar con contenido de SharePoint en Microsoft Teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Requiere una suscripción que incluya Office 365 y requiere que el usuario tenga una licencia para Microsoft Teams.
+- [Trabajar con contenido de SharePoint en Microsoft Teams](https://support.office.com/article/287ba970-2bdf-473d-a2da-76247ea4cf8f). Requiere una suscripción que incluya Office 365 y requiere que el usuario tenga una licencia para Teams.
 
 Para obtener más información acerca de la disponibilidad de Microsoft Power apps y de la automatización de energía, consulte las preguntas más frecuentes sobre las [licencias Power apps y](/power-platform/admin/powerapps-flow-licensing-faq)Power.
 
-Para obtener información sobre las características relacionadas con el uso compartido, vea la [Descripción del servicio de OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description).
+Para obtener información sobre las características relacionadas con el uso compartido, vea la [Descripción del servicio de OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description#sharing-and-collaboration-features).
 
 ## <a name="search-features"></a>Características de búsqueda
 

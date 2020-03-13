@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de & de seguridad de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 4cb0c741ba7029fbb2420554dc9fa34f3f12b54d
-ms.sourcegitcommit: d86c5af19ca1f361820bcc8d6c86560053d67f5f
+ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/03/2020
-ms.locfileid: "42374167"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609921"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -25,7 +25,7 @@ Para los fines de este artículo, un servicio a nivel de inquilino es un servici
 > [!NOTE]
 > Algunos servicios de inquilinos actualmente no pueden limitar las ventajas a usuarios específicos. Se deben realizar esfuerzos para limitar las ventajas del servicio a los usuarios con licencia. Esto ayudará a evitar posibles interrupciones en el servicio de su organización una vez que las capacidades de destino estén disponibles.
 
-## <a name="azure-active-directory-identity-protection"></a>Protección de identidad de Azure Active Directory
+## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
 La protección de identidad de Azure Active Directory (AADIP) es una característica del plan P2 de Azure Active Directory Premium que le permite detectar posibles vulnerabilidades que afectan a las identidades de su organización, configurar las respuestas automáticas para que se detecten sospechosos acciones relacionadas con las identidades de la organización e investigue los incidentes sospechosos y tome las medidas adecuadas para resolverlos.
 
@@ -71,7 +71,7 @@ Azure Information Protection (AIP) ayuda a las organizaciones a descubrir, clasi
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Microsoft 365 F1, Microsoft 365 Business, Microsoft 365 E3/a3/G3 y el plan 1 de AIP pueden beneficiarse del plan de AIP 1. Los usuarios con licencia de Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el plan 2 de AIP pueden beneficiarse del plan de AIP 2.
+Los usuarios con licencia de Microsoft 365 F3, Microsoft 365 Business, Microsoft 365 E3/a3/G3 y el plan 1 de AIP pueden beneficiarse del plan de AIP 1. Los usuarios con licencia de Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el plan 2 de AIP pueden beneficiarse del plan de AIP 2.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -408,7 +408,7 @@ El acceso condicional es la herramienta que Azure Active Directory usa para reun
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F1/E3/a3/G3 y Azure Active Directory Premium plan 1 pueden beneficiarse de las directivas de acceso condicional. Los usuarios con licencia de Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft E5 Security y Azure Active Directory Premium plan 2 pueden beneficiarse de la protección de identidad (directivas de acceso condicional basadas en riesgos).
+Los usuarios con licencia de Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F3/E3/a3/G3 y Azure Active Directory Premium plan 1 pueden beneficiarse de las directivas de acceso condicional. Los usuarios con licencia de Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft E5 Security y Azure Active Directory Premium plan 2 pueden beneficiarse de la protección de identidad (directivas de acceso condicional basadas en riesgos).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 

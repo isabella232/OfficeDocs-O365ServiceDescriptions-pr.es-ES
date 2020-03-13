@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: El archivado de Microsoft Exchange Online es una solución de archivado de clase empresarial, basada en la nube de Microsoft Office 365, para organizaciones que han implementado Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 y versiones posteriores) o suscribirse a determinados planes de Exchange Online u Office 365. Archivado de Exchange Online ayuda a satisfacer las necesidades de estas organizaciones relacionadas con el archivo, el cumplimiento normativo, las disposiciones legales y la exhibición de documentos electrónicos, al mismo tiempo que simplifica la infraestructura local, reduce costes y facilita el trabajo de TI.
-ms.openlocfilehash: 12fb7da8cd3e27ff98ea8ca0f759f013eef74e5d
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: edc507790d19f8323f7cae33e70ddf7bd8a6502a
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987662"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609711"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de Archivado de Exchange Online
 
@@ -42,7 +42,7 @@ Archivado de Exchange Online está disponible a través de los siguientes planes
 |:-----|:-----|
 |**Archivado de Exchange Online para Exchange Server** <br/> |Archivo basado en la nube para usuarios con buzones de correo principales en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o posterior).  <br/> Si desea agregar un archivo basado en la nube a un buzón principal que está en un servidor de Exchange local, necesita configurar una implementación híbrida. Para obtener más información sobre las implementaciones híbridas, consulte [Implementaciones híbridas de Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  <br/> |
 |**Archivado de Exchange Online para Exchange Server (a través de Enterprise CAL Suite)** <br/> |Archivo basado en la nube para usuarios con buzones de correo principales en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o posterior). Para obtener más información, vea [Resumen de licencias: licencias de Core CAL Suite y de Enterprise CAL Suite](https://www.microsoft.com/licensing/product-licensing/client-access-license).  <br/> |
-|**Archivado de Exchange Online para Exchange Online** <br/> | Archivo basado en la nube y conservación local como complemento para los siguientes planes<sup>1, 2</sup>:<br/>  Plan 1 de Exchange Online  <br/>  Quiosco de Exchange Online  <br/>  Office 365 Empresa Essentials  <br/>  Office 365 Empresa Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F1  <br/> Microsoft 365 Enterprise F1<br/> <b>Nota:</b> Los siguientes planes ya incluyen archivado y no requieren archivado de Exchange online como complemento:<br/>Office 365 Ámbito educativo A1 <br/>Office 365 Educación A3 <br/>  Office 365 educación A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Plan 2 de Exchange Online <br/> Microsoft 365 Empresa <br/>Microsoft 365 Enterprise E3 <br/> Microsoft 365 Enterprise E5 <br/>Para obtener detalles acerca de la capacidades de archivo de los buzones de correo de Exchange Online, consulte [Buzones de archivo de Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
+|**Archivado de Exchange Online para Exchange Online** <br/> | Archivo basado en la nube y conservación local como complemento para los siguientes planes<sup>1, 2</sup>:<br/>  Plan 1 de Exchange Online  <br/>  Quiosco de Exchange Online  <br/>  Office 365 Empresa Essentials  <br/>  Office 365 Empresa Premium  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F3  <br/> Microsoft 365 Enterprise F3<br/> <b>Nota:</b> Los siguientes planes ya incluyen archivado y no requieren archivado de Exchange online como complemento:<br/>Office 365 Ámbito educativo A1 <br/>Office 365 Educación A3 <br/>  Office 365 educación A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Plan 2 de Exchange Online <br/> Microsoft 365 Empresa <br/>Microsoft 365 Enterprise E3 <br/> Microsoft 365 Enterprise E5 <br/>Para obtener detalles acerca de la capacidades de archivo de los buzones de correo de Exchange Online, consulte [Buzones de archivo de Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
    
 >[!NOTE]
 ><sup>1</sup> No se necesita una implementación híbrida para las organizaciones basadas exclusivamente en la nube en las que no hay buzones de correo ubicados en un servidor Exchange local. Sin embargo, si existen buzones locales, la implementación híbrida es necesaria.
@@ -57,7 +57,7 @@ Para usar el archivado de Exchange Online para Exchange Server, los buzones de c
   
 ### <a name="federated-identity-and-single-sign-on"></a>Identidad federada e inicio de sesión único
 
-Los administradores pueden utilizar el enfoque de inicio de sesión único para la autenticación de Office 365 con Active Directory local. Para lograrlo, los administradores pueden configurar los Servicios de federación de Active Directory (un servicio de Microsoft Windows Server® 2008) para federar con Microsoft Federation Gateway. Una vez configurados los Servicios de federación de Active Directory, todos los usuarios de Office 365 cuyas identidades estén basadas en el dominio federado pueden utilizar su inicio de sesión corporativo existente para autenticarse automáticamente en Office 365.
+Los administradores pueden utilizar el enfoque de inicio de sesión único para la autenticación de Office 365 con Active Directory local. Para ello, los administradores pueden configurar los servicios de Federación de Active Directory local (un servicio de Microsoft&reg; Windows Server 2008) para federar con Microsoft Federation Gateway. Una vez configurados los Servicios de federación de Active Directory, todos los usuarios de Office 365 cuyas identidades estén basadas en el dominio federado pueden utilizar su inicio de sesión corporativo existente para autenticarse automáticamente en Office 365.
   
 ### <a name="user-subscriptions"></a>Suscripciones de usuario
 
@@ -105,6 +105,6 @@ Cada usuario que acceda al servicio de Archivado de Exchange Online debe tener u
 <br/>
 <sup>2</sup> Solo puede usarse Archivo local para archivar correo de una sola entidad o un único usuario al que se le haya aplicado una licencia. No se permite usar Archivo local para almacenar correo de varios usuarios o entidades. Por ejemplo, los administradores de TI no pueden crear buzones compartidos ni permitir que los usuarios copien (con los campos CC o CCO, o mediante una regla de transporte) buzones compartidos para archivarlos. <br/> 
 <sup>3</sup> para obtener una lista de versiones de Microsoft Outlook admitidas, vea [características de cliente de archivado de Exchange Online](client-features.md). <br/>
-<sup>4</sup> Azure Information Protection no se incluye, pero puede adquirirse como complemento independiente y habilitará las características admitidas de Information Rights Management (IRM). Some Azure Information Protection features require a subscription to Office 365 ProPlus, which is not included with Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education, or Office 365 Enterprise F1. <br/>
+<sup>4</sup> Azure Information Protection no se incluye, pero puede adquirirse como complemento independiente y habilitará las características admitidas de Information Rights Management (IRM). Algunas características de Azure Information Protection requieren una suscripción a Office 365 ProPlus, que no se incluye con Office 365 Business Essentials, Office 365 Business Premium, Office 365 Enterprise E1, Office 365 Education u Office 365 Enterprise F3. <br/>
 <sup>5</sup> Windows Server AD RMS es un servidor local que debe comprarse y administrarse por separado para habilitar las características de IRM admitidas. <br/>
 <sup>6</sup> Si coloca un buzón en Conservación local o retención por juicio, la conservación o retención se aplica al buzón principal y al buzón de archivo. 

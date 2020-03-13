@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para Office 365 y los planes independientes.
-ms.openlocfilehash: 03cf3a792bb88d1a6c6d6048752fe2caaf695f35
-ms.sourcegitcommit: 06d43eca33da7d747494beaa9847e98b99367b0d
+ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42279873"
+ms.lasthandoff: 03/12/2020
+ms.locfileid: "42609981"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -24,7 +24,7 @@ Obtenga información sobre los límites de servicio de SharePoint para Microsoft
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Office 365 empresa Essentials o empresa Premium** <br/> |**Office 365 Enterprise E1, E3 o E5, o SharePoint plan 1 o 2** <br/> | **Office 365 Enterprise F1** <br/> |
+|**Característica** <br/> |**Office 365 empresa Essentials o empresa Premium** <br/> |**Office 365 Enterprise E1, E3 o E5, o SharePoint plan 1 o 2** <br/> | **Office 365 Enterprise F3** <br/> |
 |Almacenamiento total por organización<sup>1, 2, 6</sup> <br/> |1 TB más 10 GB por licencia adquirida  <br/> |1 TB más 10 GB por licencia comprado<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Almacenamiento máximo por sitio (colección de sitios)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Sitios (colecciones de sitios) por organización  <br/> |2 millones<sup>6</sup> <br/> |2 millones<sup>6</sup> <br/> |2 millones<br/> |
