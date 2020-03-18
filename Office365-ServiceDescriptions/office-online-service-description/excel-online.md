@@ -15,11 +15,11 @@ ms.custom:
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
 ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545803"
+ms.lasthandoff: 03/17/2020
+ms.locfileid: "42688282"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
@@ -90,7 +90,7 @@ Las tablas y los gráficos de Excel hacen que sea más fácil dar formato a los 
 
 ## <a name="check-spelling"></a>Revisar la ortografía
 
-Para comprobar la ortografía de cualquier texto de la hoja de cálculo, seleccione **revisión** > **** > **ortográfica**de revisión. Obtenga más información sobre la revisión [ortográfica](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+Para comprobar la ortografía de cualquier texto de la hoja de cálculo, seleccione **revisión** > **Proofing** > **ortográfica**de revisión. Obtenga más información sobre la revisión [ortográfica](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -284,7 +284,7 @@ No está disponible en Excel para la Web. Si la aplicación de escritorio de Exc
 
 ¿Desea tener su propia copia del libro? Utilice el comando Guardar como ubicado en la ficha Archivo o haga clic con el botón secundario en el nombre del libro de su carpeta y utilice el comando Descargar para enviar una copia a su equipo.
   
-## <a name="share"></a>Uso compartido
+## <a name="share"></a>Compartir
 
 Proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre cómo [usar Office para la web para trabajar juntos en office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
