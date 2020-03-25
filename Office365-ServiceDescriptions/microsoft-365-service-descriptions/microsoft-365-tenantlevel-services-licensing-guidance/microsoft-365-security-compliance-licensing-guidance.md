@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de & de seguridad de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 097ad158d7688050f8fe30fc06d8f35fd2125caf
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: da063525aaf7116aed5d85424b3249d2fb82cf15
+ms.sourcegitcommit: a3c2099eb691866f9e48d25f3f9009df3ef8ecd3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609921"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42926343"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -25,7 +25,7 @@ Para los fines de este artículo, un servicio a nivel de inquilino es un servici
 > [!NOTE]
 > Algunos servicios de inquilinos actualmente no pueden limitar las ventajas a usuarios específicos. Se deben realizar esfuerzos para limitar las ventajas del servicio a los usuarios con licencia. Esto ayudará a evitar posibles interrupciones en el servicio de su organización una vez que las capacidades de destino estén disponibles.
 
-## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
+## <a name="azure-active-directory-identity-protection"></a>Protección de identidad de Azure Active Directory
 
 La protección de identidad de Azure Active Directory (AADIP) es una característica del plan P2 de Azure Active Directory Premium que le permite detectar posibles vulnerabilidades que afectan a las identidades de su organización, configurar las respuestas automáticas para que se detecten sospechosos acciones relacionadas con las identidades de la organización e investigue los incidentes sospechosos y tome las medidas adecuadas para resolverlos.
 
@@ -168,6 +168,29 @@ Para obtener información sobre cómo configurar las directivas de Microsoft Clo
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
 Los administradores pueden asignar el ámbito de las implementaciones de MCAS a los usuarios con licencia mediante las funciones de implementación con ámbito disponibles en el servicio. Para obtener más información, vea [implementación con ámbito](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
+
+
+## <a name="microsoft-defender-atp"></a>ATP de Microsoft Defender
+ATP de Microsoft defender es una solución de seguridad de extremo que incluye evaluación y administración de vulnerabilidad basada en riesgos; capacidades de reducción de superficie de ataques; protección de próxima generación basada en el comportamiento y en la nube; detección y respuesta de extremos (EDR); investigación y corrección automáticas; y servicios de búsqueda administrada. Consulte la página [ATP de Microsoft defender](https://www.microsoft.com/en-us/microsoft-365/windows/microsoft-defender-atp?rtc=1) para obtener más información. 
+
+
+### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
+
+Los usuarios con licencia de Windows 10 Enterprise E5, Windows 10 Education A5, Microsoft 365 E5 (M365 E5) que incluyan Windows 10 Enterprise E5, la seguridad de Microsoft 365 E5, Microsoft 365 A5 (M365 A5) pueden beneficiarse de ATP de Microsoft defender.
+
+### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
+
+SecOps analistas y profesionales de la seguridad se benefician de las funciones de seguridad de extremos de Microsoft defender ATP para la protección preventiva, la detección tras incumplimiento, la investigación automatizada y la respuesta a amenazas avanzadas. Los usuarios finales obtienen beneficios de tener eventos malintencionados supervisados por ATP de Microsoft defender.
+
+
+### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
+
+De forma predeterminada, las características de ATP de Microsoft defender están habilitadas en el nivel de inquilino para todos los usuarios del espacio empresarial. Para obtener información sobre la implementación, consulte la [Guía de implementación](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/deployment-phases).
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
+
+Los administradores ATP de Microsoft defender pueden usar el [control de acceso basado en roles (RBAC)](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/rbac) para crear roles y grupos dentro del equipo de operaciones de seguridad para conceder el acceso adecuado al centro de seguridad de Microsoft defender.
+
 
 ## <a name="office-365-advanced-data-governance"></a>Gobierno de datos avanzado de Office 365
 
