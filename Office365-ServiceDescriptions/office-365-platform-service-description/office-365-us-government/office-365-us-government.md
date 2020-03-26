@@ -10,14 +10,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En este artículo se proporciona información general sobre las características específicas de los entornos de Office 365 Government US.
-ms.openlocfilehash: 79c803fd407b96d3b5e12589ccb9bec1a34ad097
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: dfb71c726e8993d333132d259828873d073f1d61
+ms.sourcegitcommit: bc0094d0f6bce70728fe740a9b1f8e60174f5617
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609901"
+ms.lasthandoff: 03/25/2020
+ms.locfileid: "42954817"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
+
+> [!IMPORTANT]
+> Microsoft Teams está experimentando un gran aumento en las llamadas en línea y las conferencias de audio y vídeo debido al coronavirus (COVID-19) Pandemic.<br/>
+> 
+>En respuesta al aumento sin precedentes de las llamadas y para garantizar la continuidad y la disponibilidad, Microsoft permite a los servidores de audio y vídeo GCC de Microsoft Teams aprovechar la capacidad de procesamiento en nuestros centros de recursos comerciales, así como en nuestros centros de administración de ti.<br/>
+> 
+>Estos servidores de audio y vídeo residen en los servidores de límite alta acreditación de Microsoft Azure FedRAMP en los Estados Unidos y no almacenan ningún contenido de cliente. Sin embargo, estos servidores están procesando audio y vídeo para llamadas y conferencias y están operando bajo nuestro personal comercial durante este período provisional.<br/>
+> 
+>El personal con pantalla cualificada está supervisando estos servidores para obtener posible acceso a los datos de los clientes mediante la revisión de los inicios de sesión interactivos en estos servidores. Personal cualificado cumplir con los requisitos de GCC para obtener acceso al contenido del cliente. Para obtener más información sobre los requisitos de filtrado, consulte la [Descripción del servicio GCC](gcc.md).<br/>
+> 
+>Gracias por su apoyo mientras tomamos los pasos para garantizar que nuestros servicios sigan estando disponibles y sean confiables en estas extraordinarias horas.<br/> 
 
 En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En esta sección se proporciona una introducción a las características específicas de los entornos de Office 365 Government US. Le recomendamos que lea esta sección complementaria junto con las [descripciones de servicio de Office 365 ](../../office-365-service-descriptions-technet-library.md).
   
@@ -231,7 +242,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Explorador utilizado  <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |
 |Sistema operativo utilizado  <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |
 |Creación de sus propios informes con los servicios web de creación de informes de Office 365  <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |
-|**[Actualizaciones de servicio](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Administración Pública G1** <br/> |**Office 365 Administración Pública G3** <br/> |**Office 365 Administración Pública G5** <br/> |**Office 365 administración pública F3** <br/> |
+|**[Actualizaciones del servicio](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Administración Pública G1** <br/> |**Office 365 Administración Pública G3** <br/> |**Office 365 Administración Pública G5** <br/> |**Office 365 administración pública F3** <br/> |
 |Actualizaciones habituales para todos los clientes  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Las notificaciones se envían a Centro de mensajes cuando la acción es necesaria  <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |
 |Roadmap.office.com para algún servicio actualizaciones  <br/> |No<sup>10, 13</sup> <br/> |No<sup>10, 13</sup> <br/> |No<sup>10, 13</sup> <br/> |No<sup>10, 13</sup> <br/> |

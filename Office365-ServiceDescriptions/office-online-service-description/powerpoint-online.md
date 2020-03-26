@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
 description: PowerPoint para el Web (anteriormente, PowerPoint Web App) amplía su experiencia de Microsoft PowerPoint al explorador Web, donde puede trabajar con presentaciones directamente en el sitio web en el que está almacenada la presentación. Los clientes de Microsoft Office 365 con Office para la web pueden ver, crear y editar archivos en cualquier sitio.
-ms.openlocfilehash: 28c272d420225cfb49ada0e9d130c8c374f0f9ef
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
+ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688336"
+ms.lasthandoff: 03/26/2020
+ms.locfileid: "42959328"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint para la web
 
@@ -117,7 +117,7 @@ No está disponible en PowerPoint para la Web. Con PowerPoint para la web, puede
   
 ## <a name="navigation---slide-sorter"></a>Navegación: clasificador de diapositivas
 
-No está disponible en PowerPoint para la Web. La vista clasificador de diapositivas, que ofrece una vista de las diapositivas en formato de miniatura, lo que facilita ordenar y organizar las diapositivas, no está disponible en PowerPoint para el Web. Con la aplicación de escritorio de PowerPoint, puede usar la vista clasificador de diapositivas para organizar las diapositivas, agregar secciones y ordenar las diapositivas en diferentes categorías.
+La vista clasificador de diapositivas, que proporciona una vista de las diapositivas en formato de miniatura, facilita la ordenación y la organización de las diapositivas. Puede usar la vista clasificador de diapositivas para organizar las diapositivas, agregar secciones y ordenar las diapositivas en diferentes categorías.
   
 ## <a name="offline-viewing-and-authoring"></a>Offline viewing and authoring
 
