@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: 783cf73931bbb09e0b6ddc198dc4fce83ae53d87
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 3d740495a70834cd8f5e8eaeddc04774c2e38664
+ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260735"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43093567"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Características de cumplimiento y seguridad en archivado de Exchange Online
 
@@ -37,9 +37,6 @@ Las capacidades de directivas de retención que se ofrecen en Archivado de Excha
 ### <a name="in-place-hold-and-litigation-hold"></a>Retención local y retención por juicio
 
 Cuando existen sospechas fundadas de posibles litigios, se solicita a las organizaciones que conserven toda la información almacenada electrónicamente (ESI), incluso el correo electrónico que sea relevante para el caso. Dichas sospechas pueden tener lugar antes de que se conozcan los pormenores del caso, por lo que se suele conservar gran cantidad de material. Las organizaciones pueden conservar todo el correo electrónico relacionado con un tema concreto o el perteneciente a ciertos usuarios.
-  
-> [!NOTE]
-> La conservación local y la retención por juicio no se aplican actualmente a los correos electrónicos enviados mediante clientes POP o IMAP ni mediante aplicaciones personalizadas que usan el protocolo SMTP. 
   
 En Exchange Online, puede usar la retención local o por juicio para realizar las tareas siguientes:
   
