@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro de seguridad &amp; y cumplimiento de Office 365 está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Links to existing SharePoint and Exchange compliance features bring together compliance capabilities across Office 365.
-ms.openlocfilehash: b6bfd9a9cfe54d364059629cd9a133446672f4d8
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: 672063dcd87446eb552f635654c7ca0f48b60168
+ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101129"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43109440"
 ---
 # <a name="office-365-security-amp-compliance-center"></a>Office 365 Security &amp; Compliance Center
 
@@ -75,11 +75,11 @@ límite de <sup>3</sup> 50 GB.
 
 <sup>8</sup> también puede usar la [API de actividad de administración 365 de Office](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado.
 
-<sup>9</sup> hay disponible un complemento DLP que se puede Agregar a cualquier SKU que tenga Exchange o SharePoint/OneDrive.
+<sup>9</sup> requiere el complemento de prevención de pérdida de datos de Office 365.
 
 <sup>10</sup> las etiquetas de confidencialidad también se incluyen en Azure Information Protection P1 y P2.
 
-<sup>11</sup> se necesita una licencia de Exchange Online (plan 2) para retener el contenido de un buzón de usuario mediante una directiva de retención.
+<sup>11</sup> se necesita una licencia de archivado de Exchange Online plan 2 o Exchange Online para retener el contenido de un buzón de usuario mediante una directiva de retención.
 
 <sup>12</sup> la auditoría avanzada proporciona una retención de registros de auditoría de un año por actividades en Azure Active Directory, Exchange y SharePoint, y proporciona la capacidad de crear directivas de retención de registro de auditoría personalizadas para administrar la retención de registros de auditoría para otros servicios de Office 365. También proporciona acceso a eventos fundamentales para las investigaciones y el acceso de gran ancho de banda a la API de actividad de administración 365 de Office.
 
@@ -131,7 +131,7 @@ límite de <sup>3</sup> 50 GB.
 
 <sup>8</sup> también puede usar la [API de actividad de administración 365 de Office](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado.
 
-<sup>9</sup> hay disponible un complemento DLP que se puede Agregar a cualquier SKU que tenga Exchange o SharePoint/OneDrive.
+<sup>9</sup> requiere el complemento de prevención de pérdida de datos de Office 365.
 
 <sup>10</sup> limitado a los archivos almacenados en OneDrive para la empresa.
 
