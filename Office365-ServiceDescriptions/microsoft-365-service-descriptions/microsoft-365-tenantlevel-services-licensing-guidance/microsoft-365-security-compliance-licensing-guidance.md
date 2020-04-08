@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de & de seguridad de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 0a7cd5aff15173e257181af5bf6f84aa45fe764e
-ms.sourcegitcommit: 6b52c6061087e3be666e2bd18df2ca8d43f23712
+ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
+ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43101119"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43171146"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -323,7 +323,7 @@ La habilitación de PAM permite a las organizaciones operar con cero derechos de
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio? 
 
-El cumplimiento de Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5, la protección y el gobierno de la información de Microsoft 365 E5/A5, Office 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 proporcionan los derechos para que un usuario se beneficie de PAM.
+Office 365 E5/A5, Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5 y la administración de riesgos de Insider de Microsoft 365 E5/A5 proporcionan los derechos para que un usuario se beneficie de PAM.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -444,23 +444,23 @@ Los administradores deben aplicar reglas de flujo de correo para el cifrado de m
 
 ## <a name="communication-compliance"></a>Cumplimiento de la comunicación
 
-El cumplimiento de la comunicación en Office 365 permite crear directivas de supervisión para capturar comunicaciones de los empleados con revisores designados para su examen. Puede definir directivas específicas que capturen el correo electrónico interno y externo, Microsoft Teams o las comunicaciones de terceros de la organización. A continuación, los revisores pueden examinar los mensajes para asegurarse de que cumplen con los estándares de mensajes de la organización y los resuelven con el tipo de clasificación.
+El cumplimiento de la comunicación en Microsoft 365 ayuda a minimizar los riesgos de comunicación al ayudarle a detectar, capturar y realizar acciones de corrección para los mensajes inapropiados de su organización. Puede definir directivas específicas que capturen el correo electrónico interno y externo, Microsoft Teams o las comunicaciones de terceros de la organización. Los revisores pueden tomar las medidas de corrección adecuadas para asegurarse de que cumplen con los estándares de mensajes de la organización.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
-Los usuarios se benefician del servicio al supervisar sus comunicaciones mediante directivas de supervisión.
+Los especialistas en cumplimiento de normas se benefician del servicio al supervisar las comunicaciones de la organización mediante directivas de cumplimiento de comunicaciones.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, cumplimiento de Microsoft 365 E5/A5/G5, protección y control de la información de Microsoft 365 E5/A5 y Office 365 Advanced Compliance proporcionan los derechos para que un usuario se beneficie del cumplimiento de la comunicación.
+Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, cumplimiento de Microsoft 365 E5/A5/G5 y Microsoft 365 E5/A5 la administración de riesgos de Insider proporciona los derechos para que un usuario se beneficie del cumplimiento de la comunicación.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
-Los administradores crean directivas de supervisión en el centro de seguridad & cumplimiento. Estas directivas definen qué comunicaciones y usuarios están sujetos a revisión en la organización, definen las condiciones personalizadas que deben cumplir las comunicaciones y especifican quién debe realizar revisiones.
+Los administradores y los especialistas en cumplimiento crean directivas de cumplimiento de la comunicación en el centro de cumplimiento de Microsoft 365. Estas directivas definen qué comunicaciones y usuarios están sujetos a revisión en la organización, definen las condiciones personalizadas que deben cumplir las comunicaciones y especifican quién debe realizar revisiones.
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Los administradores eligen grupos o usuarios específicos para incluirlos en una directiva de supervisión. Al elegir un grupo, también pueden seleccionar usuarios específicos del grupo para excluirlos de la Directiva de supervisión. Para obtener más información acerca de las directivas de supervisión, consulte [directivas de supervisión en Office 365](https://docs.microsoft.com/microsoft-365/compliance/supervision-policies).
+Los administradores eligen grupos o usuarios específicos para incluirlos en una directiva de cumplimiento de la comunicación. Al elegir un grupo, también pueden seleccionar usuarios específicos del grupo para excluirlos de la Directiva de cumplimiento de la comunicación. Para obtener más información acerca de las directivas de cumplimiento de comunicaciones, consulte [cumplimiento de la comunicación en Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/communication-compliance-configure).
 
 ## <a name="insider-risk-management"></a>Administración de riesgos de Insider
 
