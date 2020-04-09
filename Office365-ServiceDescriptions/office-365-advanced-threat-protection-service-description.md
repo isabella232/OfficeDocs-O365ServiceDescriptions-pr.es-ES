@@ -11,17 +11,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
-description: Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger su Organización de vínculos perjudiciales en tiempo real.
-ms.openlocfilehash: 5457cbe5304665f7cddc9cc068a167684cf77024
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger a su organización de vínculos dañinos en tiempo real.
+ms.openlocfilehash: 5a455d13dc7d5c47dec9983d8bdd0663ead71ec7
+ms.sourcegitcommit: 8ecef4a10e06ce60db4ab197ae13bf9f3b023e0c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609841"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43197966"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descripción del servicio de Protección contra amenazas avanzada de Office 365
 
-Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger su Organización de vínculos perjudiciales en tiempo real. ATP tiene capacidades enriquecidas de informes y seguimiento de URL que proporcionan a los administradores información sobre el tipo de ataques que ocurren en la organización.
+Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger a su organización de vínculos dañinos en tiempo real. ATP tiene capacidades enriquecidas de informes y seguimiento de URL que proporcionan a los administradores información sobre el tipo de ataques que ocurren en la organización.
 
 Las siguientes son las principales formas en las que puede usar ATP para la protección de mensajes:
 
@@ -85,13 +85,13 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 |[Datos adjuntos seguros](#safe-attachments)|Sí|Sí|Sí|
 |Datos adjuntos seguros en Microsoft Teams|Sí|Sí|Sí|
 |[Vínculos seguros](#safe-links)|Sí|Sí|Sí|
-|Vínculos seguros en Microsoft Teams|No|No|No|
+|Vínculos seguros en Teams|Sí|Sí|Sí|
 |[ATP para SharePoint, OneDrive y Microsoft Teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Sí|Sí|Sí|
 |[Directivas contra la suplantación de identidad](#anti-phishing-policies)|Sí|Sí|Sí|
 |[Informes en tiempo real](#real-time-reports)|Sí|Sí|Sí|
 |*Automatización, investigación, corrección y educación*|
 |[Rastreadores de amenazas](#threat-trackers)|No|Sí|Sí|
-|[Explorer](#explorer) (investigación de amenazas avanzada)|No|Sí|Sí|
+|Investigación de amenazas (investigación de amenazas avanzada)|[Detecciones en tiempo real](#real-time-detections)|[Explorer](#explorer)|[Explorer](#explorer)|
 |[Respuesta de incidente automatizada](#automated-incident-response)|No|Sí|Sí|
 |[Simulador de ataque](#attack-simulator)|No|Sí|Sí|
 
@@ -116,6 +116,8 @@ Vínculos seguros está disponible para las direcciones URL en las siguientes ap
 
 - Word, Excel, PowerPoint y Visio en Windows, así como aplicaciones de Office en dispositivos iOS y Android
 
+- Canales de Microsoft Teams y charlas
+
 > [!NOTE]
 > Los usuarios deben tener una licencia<sup>\*</sup>para ATP, deben estar incluidos en las directivas de vínculos seguros de ATP y deben haber iniciado sesión en sus dispositivos para que la protección esté en su lugar.
 >
@@ -125,7 +127,7 @@ Vínculos seguros está disponible para las direcciones URL en las siguientes ap
 
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP para SharePoint, OneDrive y Microsoft Teams
 
-[ATP para SharePoint, OneDrive y Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) ayuda a detectar y bloquear los archivos identificados como malintencionados en los sitios de grupo y las bibliotecas de documentos.
+[ATP para SharePoint, OneDrive y Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) ayuda a detectar y bloquear los archivos identificados como malintencionados en los sitios de grupo y las bibliotecas de documentos. Además, la protección de vínculos seguros de ATP ahora está disponible en canales y chats de Microsoft Teams.
 
 ### <a name="anti-phishing-policies"></a>Directivas contra la suplantación de identidad
 
@@ -135,15 +137,25 @@ Vínculos seguros está disponible para las direcciones URL en las siguientes ap
 
 Las capacidades de supervisión disponibles en el centro de seguridad & cumplimiento de Office 365 incluyen [informes en tiempo real y perspectivas](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) que permiten que los administradores de seguridad y cumplimiento se centren en problemas de alta prioridad, como ataques de seguridad o mayor actividad sospechosa. Además de resaltar las áreas problemáticas, los informes y la información inteligentes incluyen recomendaciones y vínculos para ver y explorar los datos, además de realizar acciones rápidas.
 
-### <a name="threat-trackers"></a>Rastreadores de amenazas
-
-Los [rastreadores de amenazas](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) son widgets informativos y vistas que proporcionan a los usuarios autorizados una inteligencia sobre problemas de Cybersecurity que pueden afectar a su organización.
-
 ### <a name="explorer"></a>Explorer
 
 Explorer (también conocido como explorador de amenazas) es un informe en tiempo real que permite a los usuarios autorizados identificar y analizar amenazas recientes. De forma predeterminada, este informe muestra los datos de los últimos 7 días; sin embargo, las vistas se pueden modificar para mostrar los datos de los últimos 30 días.
 
+El explorador contiene vistas, como malware (para correo electrónico y contenido), envíos, phish y todo el correo electrónico.
+
 Para obtener más información sobre el explorador (en Office 365 Advanced Threat Protection Plan 2) y las detecciones en tiempo real (en Office 365 plan de protección contra amenazas avanzada 1), consulte [Threat Explorer (y detección en tiempo real)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+
+### <a name="real-time-detections"></a>Detecciones en tiempo real
+
+Las detecciones en tiempo real son un informe en tiempo real que permite a los usuarios autorizados identificar y analizar las amenazas recientes. Similar a Explorer, de forma predeterminada, este informe muestra los datos de los últimos 7 días.
+
+Las detecciones en tiempo real contienen vistas, como malware (para correo electrónico y contenido), envíos y phish.
+
+Para obtener más información sobre el explorador (en Office 365 Advanced Threat Protection Plan 2) y las detecciones en tiempo real (en Office 365 plan de protección contra amenazas avanzada 1), consulte [Threat Explorer (y detección en tiempo real)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+
+### <a name="threat-trackers"></a>Rastreadores de amenazas
+
+Los [rastreadores de amenazas](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-trackers) son widgets informativos y vistas que proporcionan a los usuarios autorizados una inteligencia sobre problemas de Cybersecurity que pueden afectar a su organización.
 
 ### <a name="automated-incident-response"></a>Respuesta de incidente automatizada
 
