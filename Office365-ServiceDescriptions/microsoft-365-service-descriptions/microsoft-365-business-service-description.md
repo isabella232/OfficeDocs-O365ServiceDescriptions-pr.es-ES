@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business es una solución integrada que reúne la mejor productividad en su clase de Office 365 con funciones avanzadas de seguridad y administración de dispositivos para ayudarle a proteger su empresa. Esta descripción de servicio describe las opciones y características del plan.
-ms.openlocfilehash: 2e613d6445e34d634b1ee3c9433a20b282572454
-ms.sourcegitcommit: 4a28e0eda64ad4810332fbf6a6947576c259105f
+ms.openlocfilehash: b88999adbbec44e7b5aba8da0891dc0622a3ab27
+ms.sourcegitcommit: 58d44cbc3c462bf0bcc3c218ac31741402c0d7cc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43109450"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43206627"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descripción del servicio Microsoft 365 Empresa
 
@@ -25,7 +25,6 @@ Microsoft 365 Business es una solución integrada que reúne la mejor productivi
 
 Microsoft 365 Business incluye esencialmente todas las características disponibles en Office 365 empresa Premium junto con características de seguridad adicionales de Office 365.
 
-Microsoft 365 Business incluye las siguientes características de Azure AD Premium P1: restablecimiento de contraseñas de autoservicio con AD write-back, Azure multi-factor Authentication (MFA) y acceso condicional. No incluye la totalidad de Azure AD Premium P1.
 
 ||||
 |:-----|:-----|:-----|
@@ -63,7 +62,7 @@ Microsoft 365 Business incluye las siguientes características de Azure AD Premi
 |Puntuación segura<sup>4</sup> <br/> |Sí  <br/> |Sí  <br/> |
 |Protección contra amenazas avanzada de Office 365 (plan 2) <br/> |No  <br/> |No <br/> |
 |[Administración de identidad y acceso](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Azure AD Premium P1 se está implementando pronto para los clientes empresariales de Microsoft 365. Para obtener más información, consulte [esta entrada de blog](https://aka.ms/aadp1smbblog). <sup>8</sup> <br/>|**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Azure multi-factor Authentication (MFA)  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
+|Azure Multi-Factor Authentication (MFA)  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
 |Unidades administrativas  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
 |Detección de aplicaciones en la nube  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
 |Grupos dinámicos  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
@@ -92,7 +91,7 @@ Microsoft 365 Business incluye las siguientes características de Azure AD Premi
 
 |||
 |:-----|:-----|
-|**Administración de Windows 10 Pro** <br/>Si tiene dispositivos con licencia para Windows 7 y 8,1 Professional, Microsoft 365 Business le proporciona una actualización a Windows 10 Pro. <sup>10</sup> <br/>|**Microsoft 365 Empresa** <br/> |
+|**Administración de Windows 10 Pro** <br/>Si tiene dispositivos con licencia para Windows 7 y 8,1 Professional, Microsoft 365 Business le proporciona una actualización a Windows 10 Pro. <sup>10</sup> <br/>|**Microsoft 365 Empresa** <br/> |
 |Implementación simplificada con Windows AutoPilot  <br/> |Sí  <br/> |
 |Activación de la suscripción  <br/> |Sí  <br/> |
 |Control de la organización de la pantalla del dispositivo en inactivo  <br/> |Sí  <br/> |
@@ -100,7 +99,7 @@ Microsoft 365 Business incluye las siguientes características de Azure AD Premi
 |Control organizacional del acceso de usuarios a Cortana  <br/> |Sí  <br/> |
 |Control organizativo de sugerencias y publicidad de Windows desde Microsoft  <br/> |Sí  <br/> |
 |Los dispositivos con Windows 10 se mantienen actualizados automáticamente  <br/> |Sí  <br/> |
-|**Seguridad de Windows 10** <br/> |**Microsoft 365 Empresa** <br/> |
+|**Seguridad de Windows 10** <br/> |**Microsoft 365 Empresa** <br/> |
 |Proteger los equipos PC de virus y otras amenazas con antivirus de Windows Defender  <br/> |Sí  <br/> |
 |Proteger los equipos PC de amenazas basadas en Web en Microsoft Edge  <br/> |Sí  <br/> |
 |Usar reglas que reducen la superficie expuesta a ataques de los dispositivos <br/> |Sí  <br/> |

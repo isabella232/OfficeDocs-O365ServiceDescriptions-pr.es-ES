@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de & de seguridad de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: f3416b122ead21fec84c86173e970d5a9c0208fe
-ms.sourcegitcommit: 9acaf883eb2ea3c047b36b91b2fa30ab89bb5ea7
+ms.openlocfilehash: bfc14f703e0c4d2813e123b88c17b26027bc25d5
+ms.sourcegitcommit: 7810744bc9a91a89767604d4aa27708114cba045
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/07/2020
-ms.locfileid: "43171146"
+ms.lasthandoff: 04/10/2020
+ms.locfileid: "43215119"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -313,7 +313,7 @@ Los administradores pueden activar los controles de caja de caja del cliente en 
 
 Microsoft proporciona solicitudes de aprobación del control de acceso de Lockbox del cliente para los usuarios de su organización de Office 365.
 
-## <a name="privileged-access-management-in-office-365"></a>Administración del acceso con privilegios en Office 365
+## <a name="privileged-access-management-in-office-365"></a>Privileged Access Management de Office 365
 
 La [Administración de acceso con privilegios (PAM)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration) proporciona un control de acceso granular sobre las tareas de administración con privilegios en Office 365. Después de habilitar PAM, los usuarios tendrán que solicitar acceso justo a tiempo a través de un flujo de trabajo de aprobación con un ámbito muy limitado y con un límite de tiempo para completar las tareas elevadas y privilegiadas.
 
@@ -353,13 +353,13 @@ De forma predeterminada, los mensajes de correo electrónico de Exchange Online,
 
 Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento de Office 365, en**ubicaciones**de **prevención** > de pérdida de datos.
 
-## <a name="data-loss-prevention-for-teams-chat-and-channel-messages"></a>Prevención de pérdida de datos para los mensajes de chat y canales de Microsoft Teams
+## <a name="communication-data-loss-prevention-for-teams"></a>Prevención de pérdida de datos de comunicación para Microsoft Teams
 
-Con la prevención de pérdida de datos (DLP) de los mensajes de chat y de canal de Microsoft Teams, las organizaciones pueden bloquear los chats y los mensajes de canal que contienen información confidencial, como información financiera, información personal de identificación, información relacionada con el estado u otra información confidencial.
+Con DLP de comunicación para Microsoft Teams, las organizaciones pueden bloquear chats y mensajes de canal que contengan información confidencial, como información financiera, información personal de identificación, información relacionada con el estado u otra información confidencial.
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de DLP para los mensajes de chat y de canal de Microsoft Teams.
+Los usuarios con licencia de Office 365 E5/A5, Microsoft 365 E5/A5, el gobierno y la protección de la información de Microsoft 365 E5/A5 y el cumplimiento avanzado de Office 365 pueden beneficiarse de la comunicación DLP para Teams.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
