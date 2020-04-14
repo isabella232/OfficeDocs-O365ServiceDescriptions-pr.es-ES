@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger a su organización de vínculos dañinos en tiempo real.
-ms.openlocfilehash: 83067b99f816744b6c2ec0e18c72a3e322072ea8
-ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
+ms.openlocfilehash: 5c604eac3079946c5b6fc2a02b44f4870a99a69f
+ms.sourcegitcommit: 80f7e210831388962a4cc9bfa3892ab1070fb92b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43230810"
+ms.lasthandoff: 04/14/2020
+ms.locfileid: "43285556"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descripción del servicio de Protección contra amenazas avanzada de Office 365
 
@@ -96,7 +96,7 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 |[Simulador de ataque](#attack-simulator)|No|Sí|Sí|
 
 > [!TIP]
-> ¿Desea descargar una lista de diferencias entre Office 365 ATP plan 1 y plan 2? [Obtener el pdf](https://github.com/MicrosoftDocs/OfficeDocs-O365ServiceDescriptions-pr/raw/live/Office365-ServiceDescriptions/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf). 
+> ¿Desea descargar una lista de diferencias entre Office 365 ATP plan 1 y plan 2? [Obtener el pdf](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf). 
 
 ## <a name="advanced-threat-protection-atp-capabilities"></a>Capacidades de la protección contra amenazas avanzada (ATP)
 
@@ -105,7 +105,7 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 Los [datos adjuntos seguros de ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments) protegen contra malware y virus desconocidos y proporcionan protección de día cero para proteger el sistema de mensajería. Todos los mensajes y datos adjuntos que no tienen una firma de virus/código dañino conocida se enrutan a un entorno especial donde ATP usa diversas técnicas de análisis y aprendizaje automático para detectar intentos malintencionados. Si no se detecta ninguna actividad sospechosa, se libera el mensaje para su entrega al buzón de correo.
 
 > [!NOTE]
-> El análisis de datos adjuntos seguros de ATP tiene lugar en la misma región en la que residen los datos de Office 365. Para obtener más información acerca de la geografía del centro de datos, consulte [¿dónde están los datos ubicados?](https://products.office.com/where-is-your-data-located?geo=All)
+> El análisis de Datos adjuntos seguros de ATP tiene lugar en la misma región en la que residen los datos de Office 365. Para más información sobre la geografía de centros de datos, consulte [¿Dónde se encuentran los datos?](https://products.office.com/where-is-your-data-located?geo=All)
 
 ### <a name="safe-links"></a>Vínculos seguros
 
@@ -144,7 +144,7 @@ Las capacidades de supervisión disponibles en el centro de seguridad & cumplimi
 
 Explorer (también conocido como explorador de amenazas) es un informe en tiempo real que permite a los usuarios autorizados identificar y analizar amenazas recientes. De forma predeterminada, este informe muestra los datos de los últimos 7 días; sin embargo, las vistas se pueden modificar para mostrar los datos de los últimos 30 días.
 
-El explorador contiene vistas, como malware (para correo electrónico y contenido), envíos, phish y todo el correo electrónico.
+El explorador contiene vistas, como malware (para correo electrónico y contenido), envíos, phish y todo el correo electrónico. Para ver cómo se compara el explorador con las detecciones en tiempo real, [Descargue este PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf).
 
 Para obtener más información sobre el explorador (en Office 365 Advanced Threat Protection Plan 2) y las detecciones en tiempo real (en Office 365 plan de protección contra amenazas avanzada 1), consulte [Threat Explorer (y detección en tiempo real)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
 
@@ -152,7 +152,7 @@ Para obtener más información sobre el explorador (en Office 365 Advanced Threa
 
 Las detecciones en tiempo real son un informe en tiempo real que permite a los usuarios autorizados identificar y analizar las amenazas recientes. Similar a Explorer, de forma predeterminada, este informe muestra los datos de los últimos 7 días.
 
-Las detecciones en tiempo real contienen vistas, como malware (para correo electrónico y contenido), envíos y phish.
+Las detecciones en tiempo real contienen vistas, como malware (para correo electrónico y contenido), envíos y phish. Para ver cómo las detecciones en tiempo real se comparan con el explorador, [Descargue este PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/Office%20365%20ATP%20Plan%20Comparison%20-%20March%202020.pdf).
 
 Para obtener más información sobre el explorador (en Office 365 Advanced Threat Protection Plan 2) y las detecciones en tiempo real (en Office 365 plan de protección contra amenazas avanzada 1), consulte [Threat Explorer (y detección en tiempo real)](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
 
