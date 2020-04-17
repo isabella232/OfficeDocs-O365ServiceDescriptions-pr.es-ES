@@ -5,19 +5,19 @@ author: skjerland
 manager: mnirkhe
 audience: ITPro
 ms.topic: reference
-ms.date: 4/10/2020
+ms.date: 4/13/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de & de seguridad de Microsoft 365 para evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: d2699fbd63eb6a7303ae62579f4abbb09faf67d1
-ms.sourcegitcommit: ce029467be2d9ec428458c04bec5947ba895b99c
+description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
+ms.openlocfilehash: 6c00f763fe3474a1055c2f490424ca442ee57dc4
+ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43230800"
+ms.lasthandoff: 04/16/2020
+ms.locfileid: "43529213"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -26,7 +26,7 @@ Para los fines de este artículo, un servicio a nivel de inquilino es un servici
 > [!NOTE]
 > Algunos servicios de inquilinos actualmente no pueden limitar las ventajas a usuarios específicos. Se deben realizar esfuerzos para limitar las ventajas del servicio a los usuarios con licencia. Esto ayudará a evitar posibles interrupciones en el servicio de su organización una vez que las capacidades de destino estén disponibles.
 
-Para ver las opciones para conceder licencias a los usuarios con el fin de beneficiarse de las características de cumplimiento de Microsoft 365 a partir del 1 de abril de 2020, Descargue esta [comparación de licencias de cumplimiento (pdf) detalladas de microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
+Para ver las opciones para conceder licencias a los usuarios con el fin de beneficiarse de las características de cumplimiento de Microsoft 365 a partir del 1 de abril de 2020, descargue la comparación detallada de licencias de cumplimiento de Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ## <a name="azure-active-directory-identity-protection"></a>Protección de identidad de Azure Active Directory
 
@@ -207,11 +207,11 @@ Los usuarios se benefician al poder clasificar los datos con fines de retención
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Microsoft 365 E5/A5/G5/E3/a3/G3/F1/F3/Business Premium, Office 365 E5/A5/E3/a3/F3/E1 proporcionan los derechos para que un usuario se beneficie de una sola directiva de retención de toda la organización o de ubicación y/o de una etiqueta de retención manual.
+Microsoft 365 E5/A5/E3/a3/F1/F3/empresa Premium, Office 365 E5/A5/E3/a3/F3/E1 proporciona los derechos para que un usuario se beneficie de una única directiva de retención para toda la organización o para toda la ubicación y/o etiqueta de retención manual.
 
-Cumplimiento de Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5, protección y control de la información de Microsoft 365 E5/A5 Office 365 E5/A5 y Office 365 el cumplimiento avanzado proporciona los derechos para que un usuario se beneficie de aplicar automáticamente etiquetas o directivas de retención, iniciar el período de retención de una etiqueta de retención basada en un evento personalizado, desencadenando una revisión de disposición manual al final del período de retención de la etiqueta, importando datos de terceros a través de conectores de datos nativos, detectando Contenido etiquetado y
+Microsoft 365 E5/A5, cumplimiento de Microsoft 365 E5/A5, protección y control de la información de Microsoft 365 E5/A5 Office 365 E5/A5 y Office 365 el cumplimiento avanzado proporciona los derechos para que un usuario se beneficie de aplicar automáticamente etiquetas o directivas de retención, iniciar el período de retención de una etiqueta de retención basada en un evento personalizado, desencadenando una revisión de disposición manual al final del período de retención de la etiqueta, importando datos de terceros a través de conectores de datos nativos, detectando Contenido etiquetado y
 
-El cumplimiento de Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5, la protección de la información y el gobierno de Microsoft 365 E5/A5 proporcionan los derechos que tiene un usuario para beneficiarse de aplicar automáticamente etiquetas de retención basadas en clasificadores que se puedan entrenar.
+Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, la protección de la información y el gobierno de Microsoft 365 E5/A5 proporcionan los derechos para que un usuario se beneficie de aplicar automáticamente etiquetas de retención basadas en clasificadores que se puedan entrenar.
 
 Para obtener derechos específicos por licencia, vea la [comparación de licencias de cumplimiento (pdf) detallada de Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
 
@@ -231,9 +231,9 @@ La administración de registros ayuda a las organizaciones a cumplir sus obligac
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5, la protección de la información y el gobierno de la información de Microsoft 365 E5/A5, Office 365 E5/A5, Office 365 Advanced Compliance proporcionan los derechos que tiene un usuario para beneficiarse de la administración de registros, como declarar elementos como registros, aplicar automáticamente etiquetas de retención o registros y ejecutar procesos de revisión de disposición
+Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, la protección y el gobierno de la información de Microsoft 365 E5/A5, Office 365 E5/A5, Office 365 el cumplimiento avanzado proporcionan los derechos que tiene un usuario para beneficiarse de la administración de registros, como declarar elementos como registros, aplicar automáticamente las etiquetas de retención o registro y ejecutar procesos de revisión de disposición
 
-Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5, la protección de la información y el gobierno de Microsoft 365 E5/A5 proporcionan los derechos para que un usuario se beneficie de aplicar automáticamente etiquetas de retención o registro basadas en clasificadores que se puedan entrenar.
+Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, el gobierno y la protección de la información de Microsoft 365 E5/A5 proporcionan los derechos para que un usuario se beneficie de aplicar automáticamente etiquetas de retención o registro basadas en clasificadores que se puedan entrenar.
 
 Para obtener derechos específicos por licencia, vea la [comparación de licencias de cumplimiento (pdf) detallada de Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
 
@@ -280,7 +280,7 @@ Los usuarios se benefician de la clave de cliente al tener sus datos en reposo c
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5, la protección y el gobierno de la información de Microsoft 365 E5/A5, Office 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 proporcionan los derechos que un usuario tiene para beneficiarse de la clave de cliente. Para obtener todas las ventajas de la clave de cliente, también debe tener una suscripción de Azure Key Vault.
+Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, el gobierno y la protección de la información de Microsoft 365 E5/A5, Office 365 E5/A5 y el cumplimiento avanzado de Office 365 proporcionan los derechos que un usuario tiene para beneficiarse de la clave de cliente. Para obtener todas las ventajas de la clave de cliente, también debe tener una suscripción de Azure Key Vault.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -344,7 +344,7 @@ Los usuarios se benefician de DLP para Exchange Online, SharePoint Online y OneD
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Microsoft 365 a1/E3/a3/G3/Business, Office 365 E3/a3/G3 y la prevención de pérdida de datos de Office 365 proporcionan los derechos para que un usuario se beneficie de Office 365 DLP para Exchange Online, SharePoint Online y OneDrive para la empresa.
+Microsoft 365 a1/E3/a3/Business, Office 365 E3/a3 y la prevención de pérdida de datos de Office 365 proporcionan los derechos para que un usuario se beneficie de Office 365 DLP para Exchange Online, SharePoint Online y OneDrive para la empresa.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -374,7 +374,7 @@ De forma predeterminada, los mensajes de chat y de canal de Microsoft son una *U
 
 Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento de Office 365, en**ubicaciones**de **prevención** > de pérdida de datos.
 
-## <a name="information-barriers"></a>Barreras de información
+## <a name="information-barriers"></a>Barreras de la información
 
 Las barreras de información son directivas que un administrador puede configurar para evitar que los usuarios o grupos se comuniquen entre sí. Esto es útil si, por ejemplo, un departamento está controlando información que no debe compartirse con otros departamentos, o bien es necesario evitar que un grupo se comunique con los contactos externos. Las directivas de barrera de información también evitan búsquedas y detección. Esto significa que si intenta comunicarse con alguien con quien no debe comunicarse, no encontrará a ese usuario en el selector de personas.
 
@@ -391,7 +391,7 @@ Los usuarios se benefician de las capacidades de cumplimiento avanzadas de las b
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5, la protección y el gobierno de la información de Microsoft 365 E5/A5, Office 365 E5/A5/G5 y el cumplimiento avanzado de Office 365 proporcionan los derechos para que un usuario se beneficie de las barreras de información.
+Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, el gobierno y la protección de la información de Microsoft 365 E5/A5, Office 365 E5/A5 y el cumplimiento avanzado de Office 365 proporcionan los derechos para que un usuario se beneficie de las barreras de la información.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -413,7 +413,7 @@ Los remitentes de mensajes se benefician del control agregado sobre los mensajes
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Microsoft 365 E3/a3/G3, Office 365 E3/a3/G3 y Azure Information Protection Plan 1 proporcionan los derechos para que un usuario se beneficie del cifrado de mensajes de Office 365.
+Microsoft 365 E3/a3, Office 365 E3/a3 y Azure Information Protection Plan 1 proporcionan los derechos para que un usuario se beneficie del cifrado de mensajes de Office 365.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -433,7 +433,7 @@ Los remitentes de mensajes se benefician del control agregado sobre los correos 
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, cumplimiento de Microsoft 365 E5/A5/G5, protección y control de la información de Microsoft 365 E5/A5 y Office 365 Advanced Compliance proporcionan los derechos para que un usuario se beneficie del cifrado de mensajes avanzado.
+Office 365 E5/A5, Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, el cumplimiento y la protección de la información de Microsoft 365 E5/A5 y el cumplimiento avanzado de Office 365 proporcionan los derechos para que un usuario se beneficie del cifrado de mensajes avanzado.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -453,7 +453,7 @@ Los especialistas en cumplimiento de normas se benefician del servicio al superv
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, cumplimiento de Microsoft 365 E5/A5/G5 y Microsoft 365 E5/A5 la administración de riesgos de Insider proporciona los derechos para que un usuario se beneficie del cumplimiento de la comunicación.
+Office 365 E5/A5, Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5 y la administración de riesgos de Insider de Microsoft 365 E5/A5 proporcionan los derechos para que un usuario se beneficie del cumplimiento de la comunicación.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -474,7 +474,7 @@ Los usuarios se benefician al supervisar sus actividades para riesgo.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y la administración de riesgos de Insider de Microsoft 365 E5/A5 proporcionan los derechos para que un usuario se beneficie de la administración de riesgos de Insider.
+Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5 y la administración de riesgos de Insider de Microsoft 365 E5/A5 proporcionan los derechos para que un usuario se beneficie de la administración de riesgos de Insider.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -490,7 +490,7 @@ El acceso condicional es la herramienta que Azure Active Directory usa para reun
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Enterprise Mobility + Security E3/a3/G3, Microsoft 365 F3/E3/a3/G3 y Azure Active Directory Premium plan 1 pueden beneficiarse de las directivas de acceso condicional. Los usuarios con licencia de Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft E5 Security y Azure Active Directory Premium plan 2 pueden beneficiarse de la protección de identidad (directivas de acceso condicional basadas en riesgos).
+Los usuarios con licencia de Enterprise Mobility + Security E3/a3, Microsoft 365 F3/E3/a3 y Azure Active Directory Premium plan 1 pueden beneficiarse de las directivas de acceso condicional. Los usuarios con licencia de Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security y Azure Active Directory Premium plan 2 pueden beneficiarse de la protección de identidad (directivas de acceso condicional basadas en riesgos).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
