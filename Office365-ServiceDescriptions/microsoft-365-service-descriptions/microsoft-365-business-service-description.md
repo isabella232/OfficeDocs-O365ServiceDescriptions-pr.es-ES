@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Business es una solución integrada que reúne la mejor productividad en su clase de Office 365 con funciones avanzadas de seguridad y administración de dispositivos para ayudarle a proteger su empresa. Esta descripción de servicio describe las opciones y características del plan.
-ms.openlocfilehash: b88999adbbec44e7b5aba8da0891dc0622a3ab27
-ms.sourcegitcommit: 58d44cbc3c462bf0bcc3c218ac31741402c0d7cc
+ms.openlocfilehash: cf4c1e84746d3664475999384fee27896f9ad95f
+ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2020
-ms.locfileid: "43206627"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43581962"
 ---
 # <a name="microsoft-365-business-service-description"></a>Descripción del servicio Microsoft 365 Empresa
 
@@ -61,24 +61,24 @@ Microsoft 365 Business incluye esencialmente todas las características disponib
 |Plan 1 de protección contra amenazas avanzada de Office 365 <br/> |No  <br/> |Sí<sup>7</sup> <br/> |
 |Puntuación segura<sup>4</sup> <br/> |Sí  <br/> |Sí  <br/> |
 |Protección contra amenazas avanzada de Office 365 (plan 2) <br/> |No  <br/> |No <br/> |
-|[Administración de identidad y acceso](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Azure AD Premium P1 se está implementando pronto para los clientes empresariales de Microsoft 365. Para obtener más información, consulte [esta entrada de blog](https://aka.ms/aadp1smbblog). <sup>8</sup> <br/>|**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E3** <br/> |
-|Azure Multi-Factor Authentication (MFA)  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
-|Unidades administrativas  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
-|Detección de aplicaciones en la nube  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
-|Grupos dinámicos  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
+|[Administración de identidad y acceso](https://docs.microsoft.com/microsoft-365/business/security-features)<br/> Azure AD Premium P1 se está implementando pronto para los clientes empresariales de Microsoft 365. Para obtener más información, consulte [esta entrada de blog](https://aka.ms/aadp1smbblog).<br/>|**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|Azure Multi-Factor Authentication (MFA)  <br/> |No  <br/> |Sí<sup>10</sup>  <br/> |Sí  <br/> |
+|Unidades administrativas  <br/> |No  <br/> |Sí<sup>10</sup>  <br/> |Sí  <br/> |
+|Detección de aplicaciones en la nube  <br/> |No  <br/> |Sí<sup>10</sup>  <br/> |Sí  <br/> |
+|Grupos dinámicos  <br/> |No  <br/> |Sí<sup>10</sup>  <br/> |Sí  <br/> |
 |Restablecimiento de contraseñas de autoservicio para identidades de nube  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Restablecimiento de contraseñas de autoservicio con anuncio local de AD write-back  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
-|Sincronización bidireccional de objetos de dispositivo entre directorios locales y Azure AD (dispositivo de escritura no converso)  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
-|Acceso condicional (en función del grupo, la ubicación o el estado del dispositivo)  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
+|Restablecimiento de contraseñas de autoservicio con anuncio local de AD write-back  <br/> |No  <br/> |Sí<sup>10</sup>  <br/> |Sí  <br/> |
+|Sincronización bidireccional de objetos de dispositivo entre directorios locales y Azure AD (dispositivo de escritura no converso)  <br/> |No  <br/> |Sí<sup>10</sup>  <br/> |Sí  <br/> |
+|Acceso condicional (en función del grupo, la ubicación o el estado del dispositivo)  <br/> |No  <br/> |Sí<sup>10</sup>  <br/> |Sí  <br/> |
 |Personalización de marca de la compañía (páginas de inicio de sesión/personalización del panel de acceso)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Proxy de aplicación  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
-|LICENCIA de usuario de Microsoft Identity Manager (MIM)  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
-|Conexión del estado  <br/> |No  <br/> |Sí<sup>11</sup>  <br/> |Sí  <br/> |
+|Proxy de aplicación  <br/> |No  <br/> |Sí<sup>10</sup>  <br/> |Sí  <br/> |
+|LICENCIA de usuario de Microsoft Identity Manager (MIM)  <br/> |No  <br/> |Sí<sup>10</sup>  <br/> |Sí  <br/> |
+|Conexión del estado  <br/> |No  <br/> |Sí<sup>10</sup>  <br/> |Sí  <br/> |
 |SLA 99,9%  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|[Administración de dispositivos y aplicaciones](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business incluye capacidades completas de Intune para iOS, Android, Mac OS y otra administración de dispositivos entre plataformas. <sup>9</sup> <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E3** <br/> |
+|[Administración de dispositivos y aplicaciones](https://docs.microsoft.com/intune/fundamentals/what-is-device-management)<br/> Microsoft 365 Business incluye capacidades completas de Intune para iOS, Android, Mac OS y otra administración de dispositivos entre plataformas. <sup>8</sup> <br/> |**Office 365 Empresa Premium** <br/> |**Microsoft 365 Empresa** <br/> |**Enterprise Mobility + Security E3** <br/> |
 |Intune administración de dispositivos móviles (MDM) para equipos PC, Mac y dispositivos móviles<sup>5</sup> <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Inscripción automática de la administración de dispositivos móviles (MDM)  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|Intune administración de aplicaciones móviles (MAM) para aplicaciones de Office y aplicaciones de LOB<sup>9</sup> <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
+|Intune administración de aplicaciones móviles (MAM) para aplicaciones de Office y aplicaciones de LOB<sup>8</sup> <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Administración de Windows Update, defender, directivas de Firewall<sup>5</sup> <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección de datos: borrado selectivo  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Destino del grupo de seguridad (SG) para las directivas  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
@@ -91,7 +91,7 @@ Microsoft 365 Business incluye esencialmente todas las características disponib
 
 |||
 |:-----|:-----|
-|**Administración de Windows 10 Pro** <br/>Si tiene dispositivos con licencia para Windows 7 y 8,1 Professional, Microsoft 365 Business le proporciona una actualización a Windows 10 Pro. <sup>10</sup> <br/>|**Microsoft 365 Empresa** <br/> |
+|**Administración de Windows 10 Pro** <br/>Si tiene dispositivos con licencia para Windows 7 y 8,1 Professional, Microsoft 365 Business le proporciona una actualización a Windows 10 Pro. <sup>9</sup> <br/>|**Microsoft 365 Empresa** <br/> |
 |Implementación simplificada con Windows AutoPilot  <br/> |Sí  <br/> |
 |Activación de la suscripción  <br/> |Sí  <br/> |
 |Control de la organización de la pantalla del dispositivo en inactivo  <br/> |Sí  <br/> |
@@ -114,7 +114,6 @@ Microsoft 365 Business incluye esencialmente todas las características disponib
 <sup>5</sup> administración de dispositivos de Windows 10 simplificada integrada en el centro de administración de Microsoft 365. Capacidades de administración de Intune de iOS, Android, macOS y otra administración de dispositivos entre plataformas integrada en el centro de administración de dispositivos, también licencia para su uso con Microsoft 365 Business. Las aplicaciones de terceros y la configuración de los perfiles WiFi y los certificados VPN también se pueden administrar en el centro de administración de dispositivos. <br/>
 <sup>6</sup> este plan viene con Microsoft Stream plan 2, que incluye portal de vídeo, voz a transcripción de texto, búsqueda en profundidad y detección de rostro.<br/>
 <sup>7</sup> Microsoft 365 incluye el plan 1 de la protección contra amenazas avanzada de Office 365. Para obtener más información, consulte [Microsoft 365 Business Security and Compliance Features](https://docs.microsoft.com/microsoft-365/business/security-features).<br/>
-<sup>8</sup> Microsoft 365 Business incluye las siguientes características de Azure ad Premium P1: restablecimiento de contraseñas de autoservicio con ad write-back, Azure multi-factor Authentication (MFA) y acceso condicional. No incluye la totalidad de Azure AD Premium P1.</br>
-<sup>9</sup> los suscriptores de Microsoft 365 Business tienen licencia para usar capacidades completas de Intune para iOS, Android, MacOS y otra administración de dispositivos entre plataformas. Las características que no están disponibles en el centro de administración de Microsoft 365 empresa, como la administración de aplicaciones de terceros y la configuración de los perfiles WiFi, los certificados VPN, etc., se pueden administrar en la consola de Intune completa.</br>
-<sup>10</sup> si tiene dispositivos con licencia para Windows 7 y 8,1 Professional, Microsoft 365 Business proporciona una actualización a Windows 10 Pro. Con Microsoft 365 Business no solo obtiene [las características de seguridad de Microsoft defender que están habilitadas en Windows Pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), sino que también obtiene acceso a características Premium, como la protección de red para las amenazas basadas en Web y las reglas de prevención de intrusiones de host, para mitigar el ransomware. Cuando configure su inquilino empresarial de Microsoft 365, seleccione protección de aplicaciones y opciones de configuración de dispositivos. Esta configuración determina las directivas que se aplican automáticamente a los dispositivos cuando se unen a Azure Active Directory.</br>
-<sup>11</sup> se está implementando completamente Azure ad Premium P1 en los clientes de Microsoft 365 Business. Para obtener más información, consulte [esta entrada de blog](https://aka.ms/aadp1smbblog).
+<sup>8</sup> los suscriptores de Microsoft 365 Business tienen licencia para usar capacidades completas de Intune para iOS, Android, MacOS y otra administración de dispositivos entre plataformas. Las características que no están disponibles en el centro de administración de Microsoft 365 empresa, como la administración de aplicaciones de terceros y la configuración de los perfiles WiFi, los certificados VPN, etc., se pueden administrar en la consola de Intune completa.</br>
+<sup>9</sup> si tiene dispositivos con licencia para Windows 7 y 8,1 Professional, Microsoft 365 Business proporciona una actualización a Windows 10 Pro. Con Microsoft 365 Business no solo obtiene [las características de seguridad de Microsoft defender que están habilitadas en Windows Pro](https://go.microsoft.com/fwlink/p/?linkid=2089903), sino que también obtiene acceso a características Premium, como la protección de red para las amenazas basadas en Web y las reglas de prevención de intrusiones de host, para mitigar el ransomware. Cuando configure su inquilino empresarial de Microsoft 365, seleccione protección de aplicaciones y opciones de configuración de dispositivos. Esta configuración determina las directivas que se aplican automáticamente a los dispositivos cuando se unen a Azure Active Directory.</br>
+<sup>10</sup> Full Azure ad Premium P1 se está implementando pronto para los clientes empresariales de Microsoft 365. Para obtener más información, consulte [esta entrada de blog](https://aka.ms/aadp1smbblog).

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 ofrecido por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: 047a03cc3b63de40a0974ce241ffa7844ef95a98
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 319c7f4bbd0a9fa038cccdfb60ce9e93f5a68def
+ms.sourcegitcommit: 0f0f12bfd4690a463b645e3ee8b75b73109e19dd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609941"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43581982"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -154,7 +154,7 @@ En la tabla siguiente se enumeran todas las características de plataforma para 
 |Explorador utilizado|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Sistema operativo utilizado|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Creación de sus propios informes con los servicios web de creación de informes de Office 365|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Actualizaciones de servicio](service-updates.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F3 operado por 21Vianet**|
+|**[Actualizaciones del servicio](service-updates.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F3 operado por 21Vianet**|
 |Actualizaciones habituales para todos los clientes|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Notificaciones enviadas al centro de mensajes cuando se requiere una acción, se resuelve un problema, se implementan características o se modifica el servicio.|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) para algunas actualizaciones de servicio|Sí|--|Sí|Sí|Sí|Sí|Sí|
@@ -1070,41 +1070,31 @@ En la siguiente tabla se enumeran los planes de Office 365 que incluye el servic
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
 <br/><sup>5</sup> Not supported if Exchange Online was purchased as part of a kiosk plan.
 
-## <a name="outlook-mobile-features"></a>Características de Outlook Mobile
+## <a name="outlook-features-for-ios-and-android"></a>Características de Outlook para iOS y Android
 
-En las tablas siguientes se enumeran las plataformas y características móviles de Outlook que están disponibles en todos los servicios de Office 365 a través de 21Vianet.
+Office 365 ofrecido por 21Vianet admite Outlook para iOS y Outlook para Android.
 
-### <a name="mobile-platforms-supported"></a>Plataformas móviles admitidas
+No se admiten las siguientes características móviles:
 
-|||
-|:-----|:-----|:-----|
-| |**Outlook para iOS (iPhone & iPad)**|**Outlook para Android**|
-|Office 365 operado por 21Vianet|Sí|No|
-
-### <a name="mobile-features-supported"></a>Características móviles admitidas
-
-|||
-|:-----|:-----|:-----|
-|**Característica**|**Outlook para iOS (iPhone & iPad)**|**Outlook para Android**|
-|OneDrive para la Empresa|No|N/D|
-|Búsqueda de personas & calendario|No|N/D|
-|& de búsqueda de la sala de conferencias|No|N/D|
-|Tarjeta de lugares|No|N/D|
-|"LinkedIn" & "Reports to" Data on People Card|No|N/D|
-|Favoritos|No|N/D|
-|Reproducir mis correos electrónicos|No|N/D|
-|Complementos|No|N/D|
-|Grupos|No|N/D|
-|Respuesta inteligente|No|N/D|
-|Fuente de Office|No|N/D|
-|Tiempo para dejar|No|N/D|
-|CLP/MIL|No|N/D|
-|Almacenamiento de Dropbox|No|N/D|
-|Almacenamiento de Google Drive|No|N/D|
-|Almacenamiento de la caja|No|N/D|
-|Calendario de Facebook|No|N/D|
-|Helpshift|No|N/D|
-|Uservoice|No|N/D|
+- OneDrive para la empresa (compatible solo con Android)
+- Búsqueda de personas & calendario
+- & de búsqueda de la sala de conferencias
+- Tarjeta de lugares
+- "LinkedIn" & "Reports to" Data on People Card
+- Favoritos
+- Reproducir mis correos electrónicos
+- Complementos
+- Grupos
+- Respuesta inteligente
+- Fuente de Office
+- Tiempo para dejar
+- Etiqueta de confidencialidad de Microsoft Information Protection
+- Almacenamiento de Dropbox
+- Almacenamiento de Google Drive
+- Almacenamiento de la caja
+- Calendario de Facebook
+- Helpshift
+- Uservoice
 
 ## <a name="project-online-features"></a>Características de Project Online
 
