@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Como socio autorizado de Microsoft, Microsoft Office 365 le ofrece la oportunidad de ampliar su base de clientes y crear relaciones duraderas con ellos. Por un precio mensual o anual que los clientes deben pagarle a usted, pueden usar servicios basados en la nube, por lo que no tendrán que administrar copias de seguridad de datos, hardware de servidores o actualizaciones de servidores. Los servicios que tiene a su disposición dependen de los tipos de servicios que usted está autorizado a proporcionar.
-ms.openlocfilehash: 807494ef23a089008ee3f9ff9b9e5191511afd99
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 58d0b09222457ecb7f5c1fb31ad511608c66fadc
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262521"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638758"
 ---
 # <a name="partners"></a>Asociados
 
@@ -41,7 +41,7 @@ La capacidad de administración delegada permite al socio tener total acceso adm
   
 Antes de que pueda comenzar a administrar la cuenta del cliente, este debe autorizarlo como administrador delegado. Para obtener la aprobación del cliente, debe enviarle una oferta de administración delegada, que puede incluir con la invitación de prueba o la oferta de compra. El cliente autoriza a un socio de administración delegada respondiendo al correo electrónico de invitación del socio.
   
-Cada cliente de Office 365 puede tener un socio de administración delegada. Este socio también puede ser un Socio de Registro (POR) del cliente, pero no necesariamente debe serlo. Los roles de POR y de socios de administración delegada son independientes y el cliente los designa en forma separada. Esto permite a un cliente elegir un socio para sugerencias de compras y otro socio para la implementación o los servicios administrados. También permite a los socios elegir si desean crear negocios con una especialidad en uno o en ambos roles.
+Cada cliente tiene derecho a tener un asociado de administración delegado. Este socio también puede ser un Socio de Registro (POR) del cliente, pero no necesariamente debe serlo. Los roles de POR y de socios de administración delegada son independientes y el cliente los designa en forma separada. Esto permite a un cliente elegir un socio para sugerencias de compras y otro socio para la implementación o los servicios administrados. También permite a los socios elegir si desean crear negocios con una especialidad en uno o en ambos roles.
   
 Incluso cuando un cliente tiene un socio autorizado para realizar tareas administrativas en su nombre, el cliente puede contactarse con el soporte técnico de Microsoft directamente y enviar solicitudes de servicio.
   

@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: 8562419b1f39c74a2c10e87fb4967df3a52ed6ad
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes pueden ver y modificar ligeramente los archivos de Office con Office para la Web.
+ms.openlocfilehash: 016df373aca64369cbde5e60f0b5d08111177913
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688282"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639888"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
-Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
+Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes pueden ver y modificar ligeramente los archivos de Office con Office para la Web.
   
 > [!NOTE]
 > Los libros que superan los 50 megabytes (MB) no se pueden ver en Excel para web desde Microsoft SharePoint Online. Para ver archivos de mayor tamaño, debe tener la aplicación de escritorio de Excel instalada en el equipo. 
 
 > [!NOTE]
-> Para que pueda comparar ofertas, las características avanzadas que se enumeran en este artículo incluyen las funciones de aplicaciones de escritorio de Excel que solo están disponibles en el conjunto de aplicaciones Office (por ejemplo, Office Professional Plus, Office Standard u Office 365 ProPlus). Para obtener una lista de todas las características de Office para el Web, como Word para el Web y PowerPoint para la web, consulte [disponibilidad de características en los planes de Office para el Web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
+> Para ayudarle a comparar ofertas, las características avanzadas que se enumeran en este artículo incluyen funcionalidades de aplicaciones de escritorio de Excel que solo están disponibles en el conjunto de aplicaciones de Office (como Office Professional Plus, Office Standard o Microsoft 365 apps for Enterprise). Para obtener una lista de todas las características de Office para el Web, como Word para el Web y PowerPoint para la web, consulte [disponibilidad de características en los planes de Office para el Web](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
 
 Para ver qué tipo de archivo son compatibles con Excel para la web, consulte [tipos de archivo admitidos para Office para la web](office-online-service-description.md#supported-file-types-for-office-for-the-web). Para obtener más información sobre las diferencias entre Excel para la web y la aplicación de escritorio de Excel, vea [diferencias entre usar un libro en el explorador y en Excel](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6).
   
@@ -172,7 +172,7 @@ La característica inmovilizar paneles está disponible en la cinta de Excel par
 
 Cualquier elemento que pueda ver en un libro en Vista de edición, también puede verlo en Vista de lectura.
   
-## <a name="functions"></a>Funciones
+## <a name="functions"></a>Functions
 
 Puede usar la mayoría de las más de 400 funciones de hoja de cálculo de Excel en fórmulas de Excel para la Web.
   
@@ -244,7 +244,7 @@ Excel para la web le permite ver tablas y gráficos de Power Pivot, pero necesit
 
 Puede ver e interactuar con hojas de Power View en un libro, pero no puede crear Power View con Excel para la Web. La creación de Power View solo está disponible con la aplicación de escritorio. Power View le permite crear, compartir y explorar los datos en las vistas interactivas y de presentación. Visualice información en tablas, gráficos y mapas interactivos vinculados entre sí en una sola hoja de cálculo. Obtenga más información sobre [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
   
-## <a name="print"></a>Print
+## <a name="print"></a>Imprimir
 
 Use el comando imprimir en Excel para el Web para enviar la hoja de cálculo completa o la selección actual a la impresora. Obtenga más información sobre [Cómo imprimir en Excel para la web](https://go.microsoft.com/fwlink/p/?LinkId=271676).
   
@@ -284,7 +284,7 @@ No está disponible en Excel para la Web. Si la aplicación de escritorio de Exc
 
 ¿Desea tener su propia copia del libro? Utilice el comando Guardar como ubicado en la ficha Archivo o haga clic con el botón secundario en el nombre del libro de su carpeta y utilice el comando Descargar para enviar una copia a su equipo.
   
-## <a name="share"></a>Compartir
+## <a name="share"></a>Share
 
 Proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre cómo [usar Office para la web para trabajar juntos en office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
@@ -342,4 +342,4 @@ No está disponible en Excel para la Web. Puede ver los resultados del análisis
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Office para la descripción del servicio Web](office-online-service-description.md).
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Office para la descripción del servicio Web](office-online-service-description.md).

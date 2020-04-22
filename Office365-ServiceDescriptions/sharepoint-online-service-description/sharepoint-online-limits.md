@@ -8,13 +8,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
-description: Obtenga información sobre los límites de SharePoint para Office 365 y los planes independientes.
-ms.openlocfilehash: 0a94f4012b0757398e52236c44e0602b9876e05a
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Obtenga información sobre los límites de SharePoint para los planes de Microsoft 365 y independientes.
+ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609981"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638954"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -24,7 +24,7 @@ Obtenga información sobre los límites de servicio de SharePoint para Microsoft
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Office 365 empresa Essentials o empresa Premium** <br/> |**Office 365 Enterprise E1, E3 o E5, o SharePoint plan 1 o 2** <br/> | **Office 365 Enterprise F3** <br/> |
+|**Característica** <br/> |**Microsoft 365 Business Basic o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5, o SharePoint plan 1 o 2** <br/> | **Office 365 Enterprise F3** <br/> |
 |Almacenamiento total por organización<sup>1, 2, 6</sup> <br/> |1 TB más 10 GB por licencia adquirida  <br/> |1 TB más 10 GB por licencia comprado<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Almacenamiento máximo por sitio (colección de sitios)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Sitios (colecciones de sitios) por organización  <br/> |2 millones<sup>6</sup> <br/> |2 millones<sup>6</sup> <br/> |2 millones<br/> |
@@ -32,7 +32,7 @@ Obtenga información sobre los límites de servicio de SharePoint para Microsoft
    
 <sup>1</sup> [obtenga información sobre cómo encontrar el almacenamiento total y disponible para su organización](/sharepoint/manage-site-collection-storage-limits). Puede adquirir una cantidad ilimitada de almacenamiento adicional de SharePoint. Vea [Cambiar el espacio de almacenamiento para la suscripción](/office365/admin/subscriptions-and-billing/add-storage-space). 
 <br/><sup>2</sup> Se recomienda supervisar la Papelera de reciclaje y vaciarla periódicamente. El espacio de almacenamiento que usa forma parte del límite de almacenamiento total de la organización. 
-<br/> <sup>3</sup> si tiene una suscripción de Office 365 y un complemento de almacenamiento de archivos adicionales de Office 365, se agregan las cantidades de almacenamiento. 
+<br/> <sup>3</sup> si tiene una suscripción de Microsoft 365 y un complemento de almacenamiento de archivos adicionales de Office 365, se agregan las cantidades de almacenamiento. 
 <br/> <sup>4</sup> este es el *límite* de almacenamiento de un solo sitio (anteriormente denominado "colección de sitios"), no la cantidad de almacenamiento que se *proporciona* para cada sitio. Este límite se aplica a todos los tipos de sitios, incluidos los sitios de grupo conectados a Office 365 y OneDrive. Los administradores de SharePoint pueden [establecer manualmente límites de almacenamiento inferiores](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
 <br/> <sup>5</sup> los trabajadores de Firstline no pueden administrar los sitios de SharePoint. 
 <br/> <sup>6</sup> no se incluye el OneDrive creado para cada usuario con licencia. 

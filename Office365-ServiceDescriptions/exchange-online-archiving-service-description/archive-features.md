@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
 description: En las siguientes secciones se describen las características de archivo de archivado de Microsoft Exchange Online.
-ms.openlocfilehash: aa3a43a0af668f84adaf14c69ad5b38d7c5cb1eb
-ms.sourcegitcommit: 0abb96f4771fd2e2a674589059ddc43c50f55d98
+ms.openlocfilehash: cc4b6cb6f0aa817f3b0369f2bf3517fd480a11e8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2020
-ms.locfileid: "40987582"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639839"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Características de archivo de archivado de Exchange Online
 
@@ -68,7 +68,7 @@ Si un usuario purga de manera manual un elemento de la carpeta Elementos recuper
   
 ## <a name="deleted-mailbox-recovery"></a>Recuperación de buzones eliminados
 
-Cuando los administradores eliminan usuarios de una implementación local de Exchange Server, también se eliminan los archivos correspondientes. El equipo de soporte técnico de Office 365 puede recuperar los buzones de archivo eliminados si resulta necesario. Los archivos recuperados conservarán todo el correo que contenían almacenado en el momento de su eliminación.
+Cuando los administradores eliminan usuarios de una implementación local de Exchange Server, también se eliminan los archivos correspondientes. Si los buzones de archivo eliminados deben recuperarse, el equipo de soporte técnico de Microsoft puede llevar a cabo esta recuperación. Los archivos recuperados conservarán todo el correo que contenían almacenado en el momento de su eliminación.
   
 > [!IMPORTANT]
 > A partir del momento en que se elimina el buzón de un usuario, los administradores tienen 30 días para solicitar la recuperación del buzón de archivo. Transcurrido este período, los buzones de archivo ya no pueden recuperarse. 
@@ -79,5 +79,5 @@ Los buzones de archivo de Exchange Online archiving se replican en varias copias
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Descripción del servicio de archivado de Exchange Online](exchange-online-archiving-service-description.md).
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Descripción del servicio de archivado de Exchange Online](exchange-online-archiving-service-description.md).
   

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y de directivas de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
-ms.openlocfilehash: ee30f74e9b76c1344b91a6c31352cf857dfcfc5c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688275"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640168"
 ---
 # <a name="messaging-policy-and-compliance"></a>Directiva de mensajería y cumplimiento
 
@@ -77,4 +77,4 @@ El cifrado de mensajes de Office 365, una parte de Azure Information Protection,
 > <sup>1</sup> las condiciones, excepciones y acciones de la regla de flujo de correo disponibles difieren ligeramente entre EOP y Exchange Online. Estas diferencias se indican en [excepciones (predicados) y condiciones de reglas de flujo de correo en Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) y [las acciones de las reglas de flujo de correo en Exchange Online](https://docs.microsoft.com/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
 > <sup>2</sup> Los informes de auditoría de EOP son un subconjunto de informes de auditoría de Exchange Online que excluyen información sobre los buzones. <br/>
 > <sup>3</sup> Las sugerencias de directiva DLP no están disponibles para los clientes de Exchange Enterprise CAL con servicios. <br/>
-> <sup>4</sup> se admite para los clientes locales que adquieren el complemento Azure Information Protection y usan Exchange Online Protection para redirigir el correo electrónico a través de Exchange Online. Para la experiencia de escritorio, además del complemento Azure Information Protection, es necesario comprar Office 365 ProPlus. <br/>
+> <sup>4</sup> se admite para los clientes locales que adquieren el complemento Azure Information Protection y usan Exchange Online Protection para redirigir el correo electrónico a través de Exchange Online. Para la experiencia de escritorio, además del complemento de Azure Information Protection, es necesario adquirir las aplicaciones de Microsoft 365 para empresas. <br/>

@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: bd1baaf7d6d2a7cc0757f156f2931d7725ee8e2c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 9ea764cbaa95f5fd48b5856aae9758d9e6c26ee8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262723"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638898"
 ---
 # <a name="sharing-and-collaboration"></a>Uso compartido y colaboración
 
@@ -25,11 +25,11 @@ ms.locfileid: "39262723"
 La Federación se refiere a la infraestructura de confianza subyacente que admite el uso compartido federado, un método para que los usuarios de Microsoft Exchange Online compartan datos de calendario e información de contacto de disponibilidad con los destinatarios de otras organizaciones federadas externas o con los usuarios que tienen acceso a Internet. Estas incluyen organizaciones que también están hospedadas por Exchange Online u organizaciones Exchange Server 2013 o Microsoft Exchange Server 2010 externas. Mediante el uso de las relaciones de organización y las directivas de uso compartido, los administradores de Exchange online pueden permitir a los usuarios enviar invitaciones de uso compartido de calendarios desde Microsoft Outlook en la web o Microsoft Outlook 2010 o posterior.
   
 > [!IMPORTANT]
->  Las organizaciones externas con Exchange 2010 y Exchange 2013 deben configurar una confianza de federación con Microsoft Federation Gateway como parte de la configuración del uso compartido federado. Las organizaciones con Exchange Online no deben configurar una confianza de federación, la confianza de federación con Microsoft Federation Gateway se crea automáticamente cuando se crea el inquilino de Office 365. 
+>  Las organizaciones externas con Exchange 2010 y Exchange 2013 deben configurar una confianza de federación con Microsoft Federation Gateway como parte de la configuración del uso compartido federado. Las organizaciones de Exchange online no tienen que configurar una confianza de Federación: la confianza de Federación con Microsoft Federation Gateway se crea automáticamente cuando se crea la organización 365 de Microsoft. 
 >
 >  Las organizaciones con Exchange Online deben configurar una relación de organización o una directiva de uso compartido para habilitar el uso compartido federado. 
 >
->  No se admite el uso compartido de listas de acceso global (GAL) o el traslado de buzones de usuario entre organizaciones de Exchange online en diferentes inquilinos de Office 365 en el uso compartido federado. 
+>  No se admite el uso compartido de listas de acceso global (GAL) o el traslado de buzones de usuario entre organizaciones de Exchange online en distintos planes de Microsoft en el uso compartido federado. 
   
 Para obtener más información sobre el uso compartido federado, vea [Uso compartido en Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271774).
   
@@ -40,7 +40,7 @@ El correo electrónico y los documentos se mantienen tradicionalmente en dos rep
 El buzón del sitio es un nuevo concepto en Exchange 2013 que intenta solucionar este problema. Los buzones en el sitio mejoran la colaboración y la productividad del usuario mediante el uso de la misma interfaz de cliente al permitir el acceso a documentos de Microsoft SharePoint 2013 y correo electrónico de Exchange. Un buzón de sitio comprende funcionalmente la pertenencia al sitio de SharePoint 2013 (propietarios y miembros), almacenamiento compartido mediante un buzón de Exchange 2013 para los mensajes de correo electrónico y un sitio SharePoint 2013 para los documentos, además de una interfaz de administración que satisface las necesidades de ciclo de vida y aprovisionamiento.
   
 > [!IMPORTANT]
-> Su plan de Office 365 debe incluir SharePoint. Los buzones del sitio requieren que los usuarios tengan licencias de SharePoint y Exchange. 
+> El plan debe incluir SharePoint. Los buzones del sitio requieren que los usuarios tengan licencias de SharePoint y Exchange. 
   
 Para obtener más información sobre los buzones de sitio, vea [Buzones del sitio](https://go.microsoft.com/fwlink/p/?LinkId=271789).
   
@@ -60,6 +60,6 @@ Solo puede usarse el Archivo local para archivar correo de una sola entidad o un
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
   
 

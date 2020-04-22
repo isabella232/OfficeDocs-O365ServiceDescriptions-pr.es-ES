@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6bfb9e65-2f42-43af-8ad7-623e9402b029
 description: Las siguientes características de funcionalidad de servicios básicos están disponibles en Project online.
-ms.openlocfilehash: 172aabf2a2cdf4891db556b38f1415edf6389610
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: ac60216d3331ce41f2257f287306a18a0896888b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688430"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638968"
 ---
 # <a name="core-services-functionality"></a>Funcionalidad de servicios básicos
 
@@ -49,11 +49,11 @@ Las soluciones PPM de Microsoft están respaldadas por cientos de partners de Mi
   
 ## <a name="service-reliability"></a>Service reliability
 
-Mantenemos nuestra promesa de tiempo de actividad del 99,9 por ciento con una garantía financiera líder del sector para los clientes de Office 365. Vea [Continuidad del servicio](https://go.microsoft.com/fwlink/?LinkId=402653).
+Mantenemos nuestra promesa de tiempo de actividad del 99,9 por ciento con una garantía financiera líder del sector para los clientes. Vea [Continuidad del servicio](https://go.microsoft.com/fwlink/?LinkId=402653).
   
 ## <a name="service-updates"></a>Actualizaciones de servicio
 
-Actualizamos periódicamente los servicios de Office 365 con funciones y capacidades nuevas. Consulte [actualizaciones de servicio](../office-365-platform-service-description/service-updates.md).
+Actualizamos regularmente los servicios de Microsoft con nuevas características y capacidades. Consulte [actualizaciones de servicio](../office-365-platform-service-description/service-updates.md).
   
 ## <a name="team-member-collaboration"></a>Colaboración de integrantes del equipo
 

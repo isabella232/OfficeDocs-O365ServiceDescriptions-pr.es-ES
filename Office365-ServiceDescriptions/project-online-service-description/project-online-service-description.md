@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project Online, que se suministra con Office 365, ofrece prácticas capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de carteras de proyectos prácticamente desde cualquier lugar y con cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 291d7dd4c9db1e8284095a57e0942006dd1dcaa2
-ms.sourcegitcommit: 383006c7ac109a1d38c498001d7ff1a12a883487
+ms.openlocfilehash: ac329a90e636b8adcdead13dbe30d562bd67eb39
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41931946"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638738"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -27,13 +27,13 @@ ms.locfileid: "41931946"
 
 Microsoft Project ofrece las siguientes aplicaciones para ayudarle a satisfacer las necesidades de su organización en cuanto a la administración de proyectos y trabajo:
 
-- Proyecto para la web
+- Project para la web
 - Project Online 
 - Cliente de escritorio de Project online
 
 Este artículo le ayudará a comprender qué aplicaciones se proporcionan en cada suscripción de proyecto y qué funciones ofrece cada aplicación.
 
-### <a name="project-for-the-web"></a>Proyecto para la web
+### <a name="project-for-the-web"></a>Project para la web
 
 Proyecto para el Web es la oferta más reciente de Microsoft para la administración de trabajos y proyectos basados en la nube. Project for the Web proporciona funciones de administración de trabajo sencillas y eficaces que satisfacen la mayoría de las necesidades y los roles. Los jefes de proyecto y los miembros del equipo pueden usar Project para la web para planear y administrar el trabajo de cualquier tamaño.
 
@@ -80,7 +80,7 @@ Microsoft Project está disponible a través de tres suscripciones diferentes pa
 
 |Producto | Plan 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Proyecto para la web |**x**  | **x x** | **x x** |
+|Project para la web |**x**  | **x x** | **x x** |
 |Project Online | |**x x**| **x x x** |
 |Cliente de escritorio de Project online | |**x**|**x**|
 
@@ -120,7 +120,7 @@ Las características que se enumeran en esta sección interactúan sólo con los
 |**Personalización e integración**||
 |PowerApps | Compilar y consumir soluciones para web y Mobile con PowerApps. <sup>4</sup> |
 |Flujos de trabajo | Automatizar e integrar procesos de negocio con la automatización de la alimentación. <sup>5</sup> |
-|Integración de Microsoft Office 365 | Colabore, administre documentos y mucho más usando las herramientas y aplicaciones conocidas de Office 365. <sup>1</sup> |
+|Integración con Microsoft | Colaborar, administrar documentos y más mediante herramientas y aplicaciones de Microsoft conocidas. <sup>1</sup> |
 |**Seguridad y administración de usuarios**||
 |Grupos modernos de Office | Cree un equipo de proyecto para colaborar con y configurar fácilmente una colección de recursos que los integrantes del grupo puedan compartir.|
 
@@ -147,12 +147,12 @@ Las características que se enumeran en esta sección interactúan solo con los 
 |Tareas de resumen | Planee, administre y realice un seguimiento de las entregas y las fases mediante tareas de resumen en Project Web App. | Sí | Sí |
 |Programación de tareas | Use las fechas de inicio y finalización de tareas, el esfuerzo, el trabajo, los tiempos de adelanto y posposición y las dependencias para obtener una programación precisa de las fechas de los proyectos mediante Project Web App. | Sí | Sí |
 |Actualizaciones de tareas | Capture el tiempo y el estado con comentarios sobre tareas del proyecto, trabajo no relacionado con el proyecto y tiempo no laborable. | Sí | Sí |
-|Escalas | Realizar un seguimiento y comprender visualmente las fechas de los proyectos, las dependencias y las asignaciones en una vista de escala de tiempo mediante Project Web App. | Sí | Sí |
+|Escalas de tiempo | Realizar un seguimiento y comprender visualmente las fechas de los proyectos, las dependencias y las asignaciones en una vista de escala de tiempo mediante Project Web App. | Sí | Sí |
 |Partes de horas | Los integrantes del grupo pueden especificar la hora y el estado de las tareas, el trabajo que no es del proyecto y el tiempo no laborable. | Sí | Sí |
 |Aprobaciones del parte de horas | Los integrantes del grupo pueden enviar partes de horas para su aprobación. Los jefes de recursos y los supervisores pueden revisar, aprobar y rechazar partes de horas enviados. | Sí | Sí |
 |Configuración del período no laborable | Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no laborables a la programación de su proyecto. | No | Sí |
 |**Colaboración** ||||
-|Datos adjuntos | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
+|Attachments | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
 |Miembros del equipo externo |Colaborar con personas de fuera de la organización al concederles acceso para ver e interactuar con sus proyectos, tareas y documentos. <sup>6</sup> | Sí | Sí |
 |Sitios del proyecto | Crear y personalizar un concentrador para la colaboración y los documentos de un proyecto. | Sí | Sí |
 Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí |
@@ -181,7 +181,7 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 |Éstas | Calcule y Capture datos importantes mediante fórmulas en tareas y proyectos. | Sí | Sí |
 |PowerApps | Compilar y consumir soluciones para web y móviles (mediante OData) con PowerApps. <sup>4</sup> | Sí | Sí |
 |Flujos de trabajo | Automatizar e integrar procesos de negocio (a través de OData) con la automatización de energía. <sup>5</sup> | Sí | Sí |
-|Integración de Microsoft Office 365 | Colabore, administre documentos y mucho más usando las herramientas y aplicaciones conocidas de Office 365. <sup>1</sup> | Sí | Sí |
+|Integración con 365 de Microsoft | Colaborar, administrar documentos y más mediante herramientas y aplicaciones de Microsoft conocidas. <sup>1</sup> | Sí | Sí |
 |Integración con Microsoft Planner | Conectar tareas de proyecto a un plan de Planner y realizar un seguimiento del trabajo detallado en Planner. <sup>1</sup> | Sí | Sí |
 |**Administración de seguridad, usuarios y servicios**||||
 |Integración con Active Directory | Cree equipos desde cualquier miembro del Active Directory de su organización. <sup>9</sup> | Sí | Sí |
@@ -217,7 +217,7 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 |Diagrama de red | Ver tareas, dependencias y la ruta crítica del proyecto en una vista Diagrama de red. |
 |Programación de tareas | Usar fechas de inicio y finalización de tareas, esfuerzo, trabajo, tiempos de adelanto y posposición y dependencias para obtener una programación precisa de las fechas de los proyectos |
 |Organizador de equipo | Realizar un seguimiento de la asignación y la capacidad de todos los miembros del equipo del proyecto, incluidos el trabajo no relacionado con el proyecto y el tiempo no laborable.|
-|Escalas | Realizar un seguimiento y comprender visualmente las fechas de los proyectos, las dependencias y las asignaciones en una vista de escala de tiempo. |
+|Escalas de tiempo | Realizar un seguimiento y comprender visualmente las fechas de los proyectos, las dependencias y las asignaciones en una vista de escala de tiempo. |
 |Tareas inactivas | Use tareas inactivas para realizar un seguimiento del trabajo sin afectar a la asignación o la disponibilidad de los recursos y sin que ello afecte a la programación del proyecto. |
 |Tareas de resumen | Planear, administrar y realizar un seguimiento de los resultados y las fases mediante tareas de resumen. |
 |Inspector de tareas | Vea los factores que afectan la programación de una tarea, como la fecha de inicio cambiada o los mensajes de error. |
@@ -282,17 +282,17 @@ Project para la web tiene algunas limitaciones, que se describen en la siguiente
 |Entidad/campo | Límite |
 |-------------|-------|
 |**Tarea** ||
-|Nº. nivel de jerarquía para la tarea | 10 niveles |
-|Nº. vínculos (sucesor y predecesora) para una tarea | 20 |
-|Nº. duración de la tarea hoja | de 1250 días |
-|Nº. duración de la tarea de Resumen | 3650 días (10 años) |
-|Nº. recursos que se pueden asignar a una tarea | 20 recursos |
+|Máx. nivel de jerarquía para la tarea | 10 niveles |
+|Máx. vínculos (sucesor y predecesora) para una tarea | 20 |
+|Máx. duración de la tarea hoja | de 1250 días |
+|Máx. duración de la tarea de Resumen | 3650 días (10 años) |
+|Máx. recursos que se pueden asignar a una tarea | 20 recursos |
 |Intervalo de fechas admitido para la tarea | 1/1/1984 &ndash; 12/31/2149 |
 |**Proyecto** ||
-|Nº. total de tareas para el proyecto | 500 |
-|Nº. duración total del proyecto | 3650 días (10 años) |
-|Nº. recursos totales del proyecto | 150 |
-|Nº. total de vínculos (solo sucesora) del proyecto | 600 |
+|Máx. total de tareas para el proyecto | 500 |
+|Máx. duración total del proyecto | 3650 días (10 años) |
+|Máx. recursos totales del proyecto | 150 |
+|Máx. total de vínculos (solo sucesora) del proyecto | 600 |
 
 ### <a name="project-online-boundaries-and-limitations"></a>Límites y limitaciones de Project online
 

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: Los límites en Skype empresarial online entran en las siguientes categorías.
-ms.openlocfilehash: 46ad0ef0095880ef91733e26b4666a6ba99940b3
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 940405e3fa13adb52a98fb749e8dea51812ff32b
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609961"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639708"
 ---
 # <a name="skype-for-business-online-limits"></a>Límites de Skype Empresarial Online
 
@@ -34,7 +34,7 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 - [Límites de minutos](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> Los límites aplicados a una organización de Office 365 pueden ser diferentes según el tiempo que la organización haya estado inscrita en el servicio. Cuando se cambia un límite en los centros de datos de Microsoft, la aplicación de los cambios en todos los clientes existentes puede tardar cierto tiempo. 
+> Los límites aplicados a una organización de Microsoft 365 pueden variar en función de cuánto tiempo se haya inscrito la organización en el servicio. Cuando se cambia un límite en los centros de datos de Microsoft, la aplicación de los cambios en todos los clientes existentes puede tardar cierto tiempo. 
   
 ## <a name="peer-to-peer-limits"></a>Límites de punto a punto
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
@@ -43,11 +43,11 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
     
 - **Límite de conversaciones en pestañas abiertas** El número máximo de pestañas de conversación que un usuario de Skype Empresarial puede tener abiertas a la vez. 
     
-### <a name="peer-to-peer-limits-across-office-365-options"></a>Límites de punto a punto a través de opciones de Office 365
+### <a name="peer-to-peer-limits"></a>Límites de punto a punto 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 empresa Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |Límite de transferencia de archivos  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |No aplicable  <br/> |
 |Límite de conversaciones<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Límite de conversaciones en pestañas abiertas  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |No aplicable  <br/> |
@@ -81,11 +81,11 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
     
 - **Invitados que se unen por teléfono** El número máximo de invitados que pueden llamar a una reunión. 
     
-### <a name="meeting-limits-across-office-365-options"></a>Límites de reuniones en las opciones de Office 365
+### <a name="meeting-limits"></a>Límites de reuniones
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Office 365 Empresa Essentials** <br/> |**Office 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 empresa Basic** <br/> |**Microsoft 365 Business Standard** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise F3** <br/> |
 |Límite de carga de archivos  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |500 MB  <br/> |No aplicable  <br/> |
 |Participantes en una reunión de Skype Empresarial<sup>1</sup> <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
 |Moderadores en una reunión de Skype Empresarial  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |250  <br/> |No aplicable  <br/> |
@@ -116,7 +116,7 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
     
 - **Período de caducidad de la reunión** La cantidad de tiempo durante el cual los usuarios pueden tener acceso a la reunión después de haber terminado. 
     
-### <a name="meeting-retention-limits-across-office-365-options-and-standalone-plans"></a>Límites de retención de reunión en las opciones de Office 365 y los planes independientes
+### <a name="meeting-retention-limits-across-plans"></a>Límites de retención de reunión en los planes
 
 > [!NOTE]
 > Cada persona puede tener un máximo de 1000 conferencias en la base de datos en cualquier momento. 
@@ -131,5 +131,5 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 
 ## <a name="minute-limits"></a>Límites de minutos
 
-Para obtener información acerca de las limitaciones de minutos en el plan de llamadas nacionales de Office 365 o el plan de llamadas internacionales de Office 365, vaya a [disponibilidad de país y región para los planes de audioconferencia y llamadas](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
+Para obtener información acerca de las limitaciones de minutos en el plan de llamadas nacionales o el plan de llamadas internacionales, vaya a [disponibilidad de país y región para las conferencias de audio y los planes de llamadas](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans).
   

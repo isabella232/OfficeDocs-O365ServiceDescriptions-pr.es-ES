@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Microsoft Exchange Online Protection (EOP) ofrece muchos informes distintos que le permitirán averiguar el estado general y el mantenimiento de la organización. Algunos informes están disponibles en el centro de administración de Microsoft 365, mientras que otros están disponibles en el centro de administración de Exchange (EAC).
-ms.openlocfilehash: d4e0f1104bfc87f5641cc241d2a526e8d56f0d1a
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 58e1c33b331c9bb05bd45893357bba9b5cca9945
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545863"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43638958"
 ---
 # <a name="reporting-and-message-trace"></a>Creación de informes y seguimiento de mensajes
 
@@ -29,12 +29,12 @@ Microsoft Exchange Online Protection (EOP) ofrece muchos informes distintos que 
 
 La página informes del centro de administración de Microsoft 365 proporciona información sobre el tráfico de mensajes, las detecciones de correo no deseado y malware, y los mensajes afectados por las reglas de flujo de correo (también conocidas como reglas de transporte) o las directivas de prevención de pérdida de datos (DLP). Los informes mejorados para protección, reglas y DLP ofrecen una experiencia interactiva de informes para los administradores de EOP. Estos informes proporcionan datos de resumen y la capacidad de rastrear desagrupando datos en detalles sobre mensajes individuales.
 
-Para obtener información más detallada acerca de estos informes, vea [usar informes de protección de correo en Office 365 para ver datos sobre malware, correo no deseado y detecciones de reglas](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports).
+Para obtener información más detallada acerca de estos informes, vea [usar informes de protección de correo para ver datos sobre malware, correo no deseado y detecciones de reglas](https://docs.microsoft.com/exchange/monitoring/use-mail-protection-reports).
 
 ## <a name="reporting-using-web-services"></a>Reporting using web services
 
 > [!NOTE]
-> Muchas de las características de informes basados en REST y los cmdlets relacionados estuvieron obsoletos en enero de 2018. Para obtener información acerca de los informes de reemplazo disponibles de Microsoft Graph en Office 365, vea los temas secundarios de [trabajar con los informes de uso de office 365 en Microsoft Graph](https://go.microsoft.com/fwlink/p/?LinkID=865135).
+> Muchas de las características de informes basados en REST y los cmdlets relacionados estuvieron obsoletos en enero de 2018. Para obtener información acerca de los informes de reemplazo disponibles de Microsoft Graph en Office 365, vea los temas secundarios de [trabajar con informes de uso en Microsoft Graph](https://go.microsoft.com/fwlink/p/?LinkID=865135).
 
 No está disponible para clientes independientes de EOP. Puede usar el servicio Web de informes de inquilinos de REST/OData para recopilar mediante programación informes de Resumen y detallados sobre los datos de mensajería, y puede mostrar los datos en una página web en un portal de administración web personalizado.
 
@@ -44,4 +44,4 @@ La característica de seguimiento de mensajes en el EAC le permite, como adminis
 
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Exchange Online Protection Service Description](exchange-online-protection-service-description.md).

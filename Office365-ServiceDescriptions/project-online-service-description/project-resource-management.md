@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Las siguientes características de administración de recursos están disponibles en Project online.
-ms.openlocfilehash: 6141e5467b4ff85757ef85accf9098fb9b5ee9e8
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
+ms.openlocfilehash: 9534503dfe54be12e92041a34d156d462fb91eee
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42546063"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639868"
 ---
 # <a name="project-resource-management"></a>Administración de recursos del proyecto
 
@@ -55,6 +55,6 @@ Agregue recursos al proyecto, tales como recursos de trabajo (personas), recurso
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Project online Service Description](project-online-service-description.md).
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Project online Service Description](project-online-service-description.md).
   
 

@@ -1,5 +1,5 @@
 ---
-title: Herramientas de solución de problemas y características de informes
+title: Herramientas de resolución de problemas y características de informes
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7a89aaf4-747a-434a-a20b-ebc1ee10c742
 description: Microsoft Exchange Online ofrece una variedad de características de generación de informes dentro y fuera del centro de administración de Exchange (EAC).
-ms.openlocfilehash: d7560a95d127731bc8354c8be73aa016ee0aecfd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: b0545d1e0b18714fa138fa085542be90711e8da2
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262713"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639958"
 ---
-# <a name="reporting-features-and-troubleshooting-tools"></a>Herramientas de solución de problemas y características de informes
+# <a name="reporting-features-and-troubleshooting-tools"></a>Herramientas de resolución de problemas y características de informes
 
 Microsoft Exchange Online ofrece una variedad de características de generación de informes dentro y fuera del centro de administración de Exchange (EAC).
   
@@ -31,9 +31,9 @@ Los clientes de Exchange online pueden tener acceso a los informes en el centro 
 
 Hay informes en la página informes en el centro de administración de Microsoft 365 que proporcionan información resumida sobre los buzones de correo y los grupos. Por ejemplo, en un informe se enumeran los grupos creados y eliminados por día, semana, mes o año. También hay informes resumidos sobre buzones nuevos y eliminados, y sobre buzones activos e inactivos. 
   
-Además, la página de informes en el centro de administración de Microsoft 365 contiene informes de datos de mensajería, que proporcionan información sobre el tráfico de mensajes, detecciones de correo no deseado y malware, y mensajes afectados por las reglas de transporte de Exchange o la prevención de pérdida de datos (DLP) cies. Los informes mejorados para protección, reglas y DLP ofrecen una experiencia interactiva de informes para los administradores de Exchange Online. Estos informes proporcionan datos de resumen y la capacidad de rastrear desagrupando datos en detalles sobre mensajes individuales.
+Además, la página de informes en el centro de administración de Microsoft 365 contiene informes de datos de mensajería, que proporcionan información sobre el tráfico de mensajes, detecciones de correo no deseado y malware y mensajes afectados por las reglas de transporte de Exchange o las directivas de prevención de pérdida de datos (DLP). Los informes mejorados para protección, reglas y DLP ofrecen una experiencia interactiva de informes para los administradores de Exchange Online. Estos informes proporcionan datos de resumen y la capacidad de rastrear desagrupando datos en detalles sobre mensajes individuales.
   
-Para obtener más información sobre los tipos de informes que están disponibles con cada suscripción de Office 365, vea [Informes](../office-365-platform-service-description/reports.md). Para obtener información más detallada acerca de la página informes en el centro de administración de Microsoft 365, vea [ver y descargar informes sobre el uso del servicio en office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) y [usar informes de protección de correo en Office 365 para ver datos sobre malware, correo no deseado y detecciones de reglas](https://go.microsoft.com/fwlink/p/?LinkID=401102).
+Para obtener más información acerca de los informes que están disponibles con cada suscripción, consulte [Reports](../office-365-platform-service-description/reports.md). Para obtener información más detallada acerca de la página informes en el centro de administración de Microsoft 365, vea [ver y descargar informes sobre el uso del servicio en Office 365](https://go.microsoft.com/fwlink/p/?LinkId=401187) y [usar informes de protección de correo para ver datos sobre malware, correo no deseado y detecciones de reglas](https://go.microsoft.com/fwlink/p/?LinkID=401102).
   
 ### <a name="reporting-using-the-excel-reporting-workbook"></a>Generación de informes mediante el libro de informes de Excel
 
@@ -72,6 +72,6 @@ Puede usar estos informes para supervisar y solucionar problemas de Mensajería 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
   
 

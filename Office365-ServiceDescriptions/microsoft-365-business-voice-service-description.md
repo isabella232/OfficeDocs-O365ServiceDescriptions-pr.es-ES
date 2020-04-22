@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio de voz de negocio de Microsoft 365
+title: Descripción del servicio de Microsoft 365 Empresa Voice
 ms.author: dstrome
 author: dstrome
 manager: serdars
@@ -9,14 +9,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice es un servicio de complemento que le permite usar Microsoft Teams para llamadas telefónicas. Esto combina sistema telefónico, plan de llamadas nacionales, SMS y audioconferencia.
-ms.openlocfilehash: c6a00e2292027b1ba96ab7edd6d545ff9b736c60
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f1a5c61d1517e8c08f8972567d6f5054b0dd1cfe
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262783"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640158"
 ---
-# <a name="microsoft-365-business-voice-service-description"></a>Descripción del servicio de voz de negocio de Microsoft 365
+# <a name="microsoft-365-business-voice-service-description"></a>Descripción del servicio de Microsoft 365 Empresa Voice
 
 Microsoft 365 Business Voice es una solución de telefonía basada en la nube que ofrece capacidades de sistema telefónico como estacionamiento de llamadas, desvío de llamadas, operadores automáticos, colas de llamadas, audioconferencias y planes de llamada. La voz empresarial se puede Agregar a las suscripciones de Office 365 y Microsoft 365 que incluyen Microsoft Teams (hasta 300 licencias). Para obtener más información sobre el servicio de telefonía IP empresarial, vea [Microsoft 365 Business Voice](https://docs.microsoft.com/MicrosoftTeams/business-voice/whats-business-voice).
 
@@ -27,9 +27,9 @@ Puede elegir entre dos opciones de voz de Microsoft 365 Business Voice:
 
 Microsoft 365 Business Voice está disponible con las siguientes suscripciones para pequeñas y medianas empresas con hasta 300 licencias:
 
-- [Office 365 Empresa Essentials](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Office 365 Empresa Premium](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 Empresa](microsoft-365-business-service-description.md)
+- [Microsoft 365 empresa Basic](office-365-platform-service-description/office-365-platform-service-description.md)
+- [Microsoft 365 Business Standard](office-365-platform-service-description/office-365-platform-service-description.md)
+- [Microsoft 365 empresa Premium](microsoft-365-business-service-description.md)
 - [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
 - [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
 - [Office 365 F1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
@@ -45,7 +45,7 @@ Microsoft 365 Business Voice está disponible con las siguientes suscripciones p
 | Operadores automáticos                                        | Sí                              | Sí                                                   |
 | Cola de llamadas                                             | Sí                              | Sí                                                   |
 | Identificador de llamada                                              | Sí                              | Sí                                                   |
-| Enrutamiento de llamadas                                           | Sí                              | Sí                                                   |
+| Enrutamiento de llamada                                           | Sí                              | Sí                                                   |
 | Llamadas de emergencia                                      | Sí                              | Sí                                                   |
 | Llamadas de emergencia con ubicación dinámica                | Sí                              | Sí                                                   |
 | Correo de voz                                             | Sí                              | Sí                                                   |
@@ -57,7 +57,7 @@ Microsoft 365 Business Voice está disponible con las siguientes suscripciones p
 | Marcado de extensión de operador automático                       | Sí                              | Sí                                                   |
 | Operador automático/transferencia de cola de llamadas a correo de voz compartido | Sí                              | Sí                                                   |
 | Respuesta de voz interactiva multilingüe (IVR)          | Sí                              | Sí                                                   |
-| Directiva de llamada                                         | Sí                              | Sí                                                   |
+| Directiva de llamadas                                         | Sí                              | Sí                                                   |
 | Plan de llamadas nacionales                                  | Sí                              | No                                                    |
 | Marcado gratuito\*                                    | Sí                              | No                                                    |
 | Plan de llamadas internacionales\*                           | Sí                              | No                                                    |

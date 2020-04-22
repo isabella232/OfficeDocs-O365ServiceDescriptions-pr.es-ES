@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: En las tablas siguientes se enumeran los cambios que se han realizado recientemente en el contenido de las descripciones de servicio.
-ms.openlocfilehash: 5a8acdce7c4d3a1beeb3ea38401bf5255860904e
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: fbc0d162eb2b0236b3fed3cfb1e938aadddb4084
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263374"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640128"
 ---
 # <a name="recent-service-descriptions-changes"></a>Cambios recientes de descripciones de servicio
 
@@ -29,7 +29,7 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
 |Plataforma Office 365  <br/> |[Office 365 Educación](office-365-platform-service-description/office-365-education.md) <br/> |Disponibilidad móvil actualizada en los planes de a1.  <br/> |
 ||[Office 365 Educación](office-365-platform-service-description/office-365-education.md) <br/> |Referencias de retenciones por juicio actualizadas en el centro de seguridad y cumplimiento de educación y en secciones de Exchange Online.  <br/> |
-|Exchange Online  <br/> |[Descripción del servicio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Se ha actualizado la disponibilidad en Office 365 Business.  <br/> |
+|Exchange Online  <br/> |[Descripción del servicio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Se ha actualizado la disponibilidad en Microsoft 365 apps for Business.  <br/> |
 |Aplicaciones de Office  <br/> |[Descripción del servicio de aplicaciones de Office](office-applications-service-description/office-applications-service-description.md) <br/> |Disponibilidad actualizada en todas las plataformas móviles.  <br/> |
 |Workplace Analytics  <br/> |[Descripción del servicio Workplace Analytics](workplace-analytics-service-description.md) <br/> |Límite máximo de licencias actualizadas, vínculo agregado a artículo de introducción, requisitos previos actualizados.  <br/> |
 |Project Online  <br/> |[Descripción del servicio Project Online](project-online-service-description/project-online-service-description.md) <br/> |Aclaración de licencias.  <br/> |
@@ -50,8 +50,8 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
 |Plataforma Office 365  <br/> |[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se agregó información multigeográfica a la descripción del servicio de la plataforma.  <br/> |
 ||[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se agregó Microsoft 365 Business.  <br/> |
-||[Centro de seguridad &amp; y cumplimiento de Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se ha cambiado la entrada del límite de archivado a "sí" para Office 365 empresa Essentials y Office 365 empresa Premium.  <br/> |
-||[Centro de seguridad &amp; y cumplimiento de Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |"Administración de seguridad avanzada" cambiada a "Office 365 Cloud App Security".  <br/> |
+||[Centro &amp; de seguridad y cumplimiento](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se ha cambiado la entrada del límite de archivado a "sí" para Microsoft 365 Business Basic y Microsoft 365 Business Standard.  <br/> |
+||[Centro &amp; de seguridad y cumplimiento](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |"Administración de seguridad avanzada" cambiada a "Office 365 Cloud App Security".  <br/> |
 |Office para la Web  <br/> |[Excel para la web](office-online-service-description/excel-online.md) <br/> |Se ha cambiado la primera nota del tema "los libros que superan los 30 megabytes (MB) no se pueden ver en Excel para web desde Microsoft SharePoint Online". Anteriormente, la nota decía 10 MB.  <br/> |
 |OneDrive para la Empresa  <br/> |[Descripción del servicio de OneDrive para la Empresa](onedrive-for-business-service-description.md) <br/> |Actualización principal de la descripción del servicio de OneDrive para la empresa.  <br/> |
    
@@ -74,20 +74,20 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 ||||
 |:-----|:-----|:-----|
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
-|Plataforma Office 365  <br/> |[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se ha actualizado la disponibilidad de StaffHub para Office 365 empresa Premium.  <br/> |
+|Plataforma Office 365  <br/> |[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se ha actualizado la disponibilidad de StaffHub para Microsoft 365 Business Standard.  <br/> |
 ||[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |[Cumplimiento actualizado [ServiceDesc]](office-365-platform-service-description/compliance-servicedesc.md) certificaciones de la industria de la página.  <br/> |
-||[Centro de seguridad &amp; y cumplimiento de Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Directivas de retención manuales actualizadas para Office 365 Enterprise 1 plan.  <br/> |
+||[Centro &amp; de seguridad y cumplimiento](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Directivas de retención manuales actualizadas para Office 365 Enterprise 1 plan.  <br/> |
 ||[Office 365 Administración Pública de EE. UU.](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Varias actualizaciones y reestructuración.  <br/> |
 ||[Office 365 operado por 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Correo de voz corregido y disponibilidad de integración del correo de voz.  <br/> |
 |Exchange Online  <br/> |[Descripción del servicio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Aclaración de la disponibilidad de los grupos para los planes de Exchange Online.  <br/> |
-|Skype Empresarial Online  <br/> |[Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Se ha actualizado la disponibilidad de sistemas telefónicos y conferencias para los clientes de Office 365 empresa Premium.  <br/> |
+|Skype Empresarial Online  <br/> |[Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Se ha actualizado la disponibilidad de sistemas telefónicos y conferencias para los clientes de Microsoft 365 Business Standard.  <br/> |
    
 ## <a name="january-2018"></a>Enero de 2018
 
 ||||
 |:-----|:-----|:-----|
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
-|Plataforma Office 365  <br/> |[Microsoft 365 Educación](office-365-platform-service-description/microsoft-365-education.md) <br/> |Se corrigió la disponibilidad de Microsoft Teams en los planes de educación.  <br/> |
+|Plataforma Office 365  <br/> |[Microsoft 365 Educación](office-365-platform-service-description/microsoft-365-education.md) <br/> |Se corrigió la disponibilidad de Microsoft Teams en los planes de educación.  <br/> |
 |Skype Empresarial Online  <br/> |[Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Limitación de la conversación de los chats de cliente.  <br/> |
 |Múltiple  <br/> |Múltiple  <br/> |Se agregó la clave de cliente a las descripciones del servicio de Skype empresarial online, SharePoint Online y OneDrive para la empresa.  <br/> |
    
@@ -108,11 +108,11 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 |:-----|:-----|:-----|
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
 |Plataforma Office 365  <br/> |[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se aclara que Office 365 Enterprise F1 los usuarios de Microsoft Stream pueden ver vídeos, pero no pueden publicarlos ni compartirlos.  <br/> |
-||[Centro de seguridad &amp; y cumplimiento de Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agregó la revisión de disposición a gobierno de datos avanzado.  <br/> |
+||[Centro &amp; de seguridad y cumplimiento](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agregó la revisión de disposición a gobierno de datos avanzado.  <br/> |
 ||[Office 365 Administración Pública de EE. UU.](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Se clarifica la disponibilidad de Yammer y Office 365 Pro Plus.  <br/> |
 ||[Office 365 operado por 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Se agregó la disponibilidad de prevención de pérdida de datos.  <br/> |
 ||[Office 365 operado por 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Disponibilidad corregida de IRM a través de AD RMS.  <br/> |
-||[Microsoft 365 Educación](office-365-platform-service-description/microsoft-365-education.md) <br/> |Se ha agregado una página para la nueva oferta.  <br/> |
+||[Microsoft 365 Educación](office-365-platform-service-description/microsoft-365-education.md) <br/> |Se ha agregado una página para la nueva oferta.  <br/> |
 ||[BlackBerry](office-365-platform-service-description/blackberry.md) <br/> |Se quitaron las referencias a Discontinued BlackBerry Business Cloud Services (BBCS).  <br/> |
 |Exchange Online  <br/> |[Descripción del servicio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Se ha agregado la disponibilidad de clave de cliente para Office 365 Enterprise E5.  <br/> |
 ||[Límites de Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Se ha aclarado el límite de datos adjuntos de 35 MB para Outlook Web Access (OWA). Se bloquea un archivo individual adjunto que supera los 35 MB. Además, también se bloquea un grupo de archivos adjuntado que supera de forma colectiva 35 MB.  <br/> |
@@ -125,12 +125,12 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 ||||
 |:-----|:-----|:-----|
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
-|Plataforma Office 365  <br/> |[Centro de seguridad &amp; y cumplimiento de Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agregaron los detalles avanzados de gobierno.  <br/> |
+|Plataforma Office 365  <br/> |[Centro &amp; de seguridad y cumplimiento](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agregaron los detalles avanzados de gobierno.  <br/> |
 ||[Office 365 Administración Pública de EE. UU.](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Se agregaron migraciones de datos realizadas por la tabla de FastTrack.  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Se agregó tener en cuenta que el uso compartido federado requiere el uso del espacio de direcciones de disponibilidad para permitir el uso compartido con otros inquilinos.  <br/> |
 |Exchange Online  <br/> |[Límites de Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Se agregaron límites para la versión heredada del cifrado de mensajes de Office 365 (OME) y el cifrado de mensajes de Office 365 (OME) con nuevas funciones.  <br/> |
-|Skype Empresarial  <br/> |[Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Se agregó la posibilidad de agregar audioconferencia a los planes de suscripción de Office 365 empresa Premium, Office 365 Enterprise E1 y Office 365 Enterprise E3 como complemento.  <br/> |
-||[Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Se agregó la posibilidad de agregar créditos de comunicación al plan de suscripción de Office 365 empresa Premium como complemento para admitir solo audioconferencia.  <br/> |
+|Skype Empresarial  <br/> |[Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Se agregó la posibilidad de agregar audioconferencia a Microsoft 365 Business Standard, Office 365 Enterprise E1 y los planes de suscripción de Office 365 Enterprise E3 como complemento.  <br/> |
+||[Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Se agregó la posibilidad de agregar créditos de comunicación al plan de suscripción de Microsoft 365 Business Standard como complemento para admitir solo audioconferencia.  <br/> |
 ||[Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Se clarificaron las capacidades de transferencia de archivos en Office 365 Enterprise F1.  <br/> |
 |Visio Online  <br/> |[Descripción del servicio Visio Online](visio-online-service-description/visio-online-service-description.md) <br/> |Se agregó la nueva página de Descripción del servicio de Visio online y se actualizaron varias páginas para reflejar esta adición.  <br/> |
    
@@ -155,8 +155,8 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
 |Plataforma Office 365  <br/> |[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Aclaración sobre la disponibilidad de Azure Information Protection (AIP).  <br/> |
 ||[Opciones de planes de Office 365](office-365-platform-service-description/office-365-plan-options.md) <br/> |Aclaración sobre la disponibilidad de Azure Information Protection (AIP).  <br/> |
-||[Centro de seguridad &amp; y cumplimiento de Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agregó la tabla de comparación de características para planes independientes.  <br/> |
-||[Centro de seguridad &amp; y cumplimiento de Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agregaron detalles de características de protección contra amenazas avanzada.  <br/> |
+||[Centro &amp; de seguridad y cumplimiento](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agregó la tabla de comparación de características para planes independientes.  <br/> |
+||[Centro &amp; de seguridad y cumplimiento](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agregaron detalles de características de protección contra amenazas avanzada.  <br/> |
 ||[Office 365 Administración Pública de EE. UU.](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Aclaración sobre la disponibilidad de Azure Information Protection (AIP).  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Aclaración sobre la disponibilidad de Azure Information Protection (AIP).  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Se agregaron la búsqueda de registros de auditoría, el gobierno de datos avanzado y la disponibilidad y características de inteligencia sobre amenazas de Office 365.  <br/> |
@@ -174,8 +174,8 @@ En las tablas siguientes se enumeran los cambios que se han realizado recienteme
 |Plataforma Office 365  <br/> |[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se ha agregado la disponibilidad de Microsoft Forms.  <br/> |
 ||[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se agrega una nota al pie sobre disponibilidad avanzada de eDiscovery.  <br/> |
 ||[Opciones de planes de Office 365](office-365-platform-service-description/office-365-plan-options.md) <br/> |Se agregaron opciones de plan de Exchange Online y Skype empresarial incluidas en cada SKU a la página de opciones de planeación.  <br/> |
-||[Centro de seguridad &amp; y cumplimiento de Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agregó lo siguiente a la nota al pie n°. 1: "las directivas de retención que se aplican a los buzones requieren E3 o E5".  <br/> |
-||[Centro de seguridad &amp; y cumplimiento de Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agrega una nota al pie sobre disponibilidad avanzada de eDiscovery.  <br/> |
+||[Centro &amp; de seguridad y cumplimiento](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agregó lo siguiente a la nota al pie n°. 1: "las directivas de retención que se aplican a los buzones requieren E3 o E5".  <br/> |
+||[Centro &amp; de seguridad y cumplimiento](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agrega una nota al pie sobre disponibilidad avanzada de eDiscovery.  <br/> |
 ||[Office 365 operado por 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Se agregó la descripción de Microsoft Forms.  <br/> |
 ||[Office 365 Administración Pública de EE. UU.](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Se agregó la información de Office 365 US Government  <br/> |
 ||[Office 365 operado por 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Information Rights Management (IRM) actualizado mediante Windows Server AD RMS.  <br/> |

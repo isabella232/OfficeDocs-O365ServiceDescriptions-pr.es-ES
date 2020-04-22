@@ -1,5 +1,5 @@
 ---
-title: Características de la bandeja de entrada de Yammer
+title: Características de bandeja de entrada de Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b785a557-3697-4077-8008-c85c822b6dea
 description: A continuación se describen las características de bandeja de entrada disponibles en Yammer.
-ms.openlocfilehash: 11bf4f2d8eb46e3b18b22720c584fbf7f748bc60
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 391792d166313f0119b9b50de9a7d89180f57084
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263171"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640048"
 ---
-# <a name="inbox-features-in-yammer"></a>Características de la bandeja de entrada de Yammer
+# <a name="inbox-features-in-yammer"></a>Características de bandeja de entrada de Yammer
 
 A continuación se describen las características de bandeja de entrada disponibles en Yammer.
   
@@ -33,6 +33,6 @@ Busque en toda la bandeja de entrada para encontrar rápidamente conversaciones,
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Yammer Service Description](yammer-service-description.md).
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Yammer Service Description](yammer-service-description.md).
   
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger a su organización de vínculos dañinos en tiempo real.
-ms.openlocfilehash: edcf7b7207be27e406f9c6876c1d7d50d3d12dd5
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 9316cf30bb195b540c2653d66154c672af49000c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529223"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640148"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descripción del servicio de Protección contra amenazas avanzada de Office 365
 
@@ -33,9 +33,9 @@ Las siguientes son las principales formas en las que puede usar ATP para la prot
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Disponibilidad de la protección contra amenazas avanzada (ATP) de Office 365
 
-ATP se incluye en Office 365 Enterprise E5, Office 365 Education A5 y Microsoft 365 Business.
+ATP se incluye en Office 365 Enterprise E5, Office 365 Education A5 y Microsoft 365 Business Premium.
 
-Puede agregar ATP en los siguientes planes de suscripción de Exchange y Office 365:
+Puede Agregar ATP a los siguientes planes de suscripción de Exchange y Microsoft 365:
 
 - Plan 1 de Exchange Online
 
@@ -45,9 +45,9 @@ Puede agregar ATP en los siguientes planes de suscripción de Exchange y Office 
 
 - Exchange Online Protection
 
-- Office 365 Empresa Essentials
+- Microsoft 365 empresa Basic
 
-- Office 365 Empresa Premium
+- Microsoft 365 Business Standard
 
 - Office 365 Enterprise E1
 
@@ -61,7 +61,7 @@ Puede agregar ATP en los siguientes planes de suscripción de Exchange y Office 
 
 Para comprar la protección contra amenazas avanzada de Office 365, consulte [protección contra amenazas avanzada de office 365](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
 
-Para comparar las características entre planes, consulte [comparar los planes de Office 365 para empresas](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) y [Descubra la solución empresarial de Microsoft 365 que más le conviene](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
+Para comparar las características de los planes, consulte [comparar los planes de microsoft 365 apps for Business](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) y [Descubra la solución empresarial de Microsoft 365 adecuada para usted](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
 
 ## <a name="whats-new-in-office-365-advanced-threat-protection-atp"></a>Novedades de la protección contra amenazas avanzada (ATP) de Office 365
 
@@ -87,7 +87,7 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 |[Vínculos seguros](#safe-links)|Sí|Sí|Sí|
 |Vínculos seguros en Teams|Sí|Sí|Sí|
 |[ATP para SharePoint, OneDrive y Microsoft Teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Sí|Sí|Sí|
-|[Directivas contra la suplantación de identidad](#anti-phishing-policies)|Sí|Sí|Sí|
+|[Directivas contra phishing](#anti-phishing-policies)|Sí|Sí|Sí|
 |[Informes en tiempo real](#real-time-reports)|Sí|Sí|Sí|
 |*Automatización, investigación, corrección y educación*|
 |[Rastreadores de amenazas](#threat-trackers)|No|Sí|Sí|
@@ -113,7 +113,7 @@ La característica de [vínculos seguros de ATP](https://docs.microsoft.com/micr
 
 Vínculos seguros está disponible para las direcciones URL en las siguientes aplicaciones:
 
-- Office 365 ProPlus en Windows o Mac
+- Microsoft 365 apps for Enterprise en Windows o Mac
 
 - Office para la web (Word para la web, Excel para el Web, PowerPoint para el Web y OneNote para la web)
 
@@ -132,13 +132,13 @@ Vínculos seguros está disponible para las direcciones URL en las siguientes ap
 
 [ATP para SharePoint, OneDrive y Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) ayuda a detectar y bloquear los archivos identificados como malintencionados en los sitios de grupo y las bibliotecas de documentos. Además, la protección de vínculos seguros de ATP ahora está disponible en canales y chats de Microsoft Teams.
 
-### <a name="anti-phishing-policies"></a>Directivas contra la suplantación de identidad
+### <a name="anti-phishing-policies"></a>Directivas contra phishing
 
 [Anti-phishing de ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing) comprueba los mensajes entrantes en busca de indicadores de que un mensaje puede ser un intento de suplantación de identidad. Cuando los usuarios están cubiertos por las directivas de ATP (datos adjuntos seguros, vínculos seguros o antiphishing), los mensajes entrantes se evalúan en varios modelos de aprendizaje automático que analizan mensajes y se lleva a cabo la acción correspondiente, en función de las directivas configuradas.
 
 ### <a name="real-time-reports"></a>Informes en tiempo real
 
-Las capacidades de supervisión disponibles en el centro de seguridad & cumplimiento de Office 365 incluyen [informes en tiempo real y perspectivas](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) que permiten que los administradores de seguridad y cumplimiento se centren en problemas de alta prioridad, como ataques de seguridad o mayor actividad sospechosa. Además de resaltar las áreas problemáticas, los informes y la información inteligentes incluyen recomendaciones y vínculos para ver y explorar los datos, además de realizar acciones rápidas.
+Las capacidades de supervisión disponibles en el centro de seguridad & cumplimiento incluyen [informes en tiempo real y perspectivas](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) que permiten que los administradores de seguridad y cumplimiento se centren en problemas de alta prioridad, como ataques de seguridad o mayor actividad sospechosa. Además de resaltar las áreas problemáticas, los informes y la información inteligentes incluyen recomendaciones y vínculos para ver y explorar los datos, además de realizar acciones rápidas.
 
 ### <a name="explorer"></a>Explorer
 

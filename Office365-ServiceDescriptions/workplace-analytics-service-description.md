@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio de Workplace Analytics
+title: Descripción del servicio Workplace Analytics
 ms.author: sharik
 author: skjerland
 ms.reviewer: v-midehm
@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a20b50c7-cf18-47f6-99a7-26d3434cdc9a
 description: Microsoft Workplace Analytics proporciona información detallada y que se puede llevar a cabo en las tendencias de comunicación y colaboración de su organización para ayudarle a tomar decisiones empresariales más eficaces.
-ms.openlocfilehash: 55d452bb8fadf9ec4dd4a1f086f0835838184657
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: fd114e7c56a2bb9427a2f45c06706ad902b27644
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263250"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640108"
 ---
-# <a name="workplace-analytics-service-description"></a>Descripción del servicio de Workplace Analytics
+# <a name="workplace-analytics-service-description"></a>Descripción del servicio Workplace Analytics
 
 Microsoft Workplace Analytics proporciona información detallada y que se puede llevar a cabo en las tendencias de comunicación y colaboración de su organización para ayudarle a tomar decisiones empresariales más eficaces.
 
@@ -38,13 +38,13 @@ Vea cómo su organización dedica tiempo y colabora interna y externamente con i
 
 ## <a name="drive-organizational-change-with-data"></a>Impulsar el cambio organizacional con datos
 
-Workplace Analytics proporciona un amplio conjunto de datos objetivos para tomar mejores decisiones empresariales. Los paneles de exploración guiada resaltan posibles áreas problemáticas, mientras que las consultas flexibles responden a preguntas empresariales concretas sobre estrategias de contratación, nuevas estructuras organizativas y programas empresariales. Aumentar los datos de Office 365 con información de resultados del negocio para establecer mejores prácticas, modelos predictivos y benchmarks. Introducir iniciativas de cambio basadas en datos de comportamiento y medir el éxito de los programas con el transcurso del tiempo. Póngase en contacto con su representante del servicio de atención al cliente de Microsoft para obtener más información sobre los servicios de consultoría disponibles que puede usar para cuantificar desafíos empresariales e implementar cambios.
+Workplace Analytics proporciona un amplio conjunto de datos objetivos para tomar mejores decisiones empresariales. Los paneles de exploración guiada resaltan posibles áreas problemáticas, mientras que las consultas flexibles responden a preguntas empresariales concretas sobre estrategias de contratación, nuevas estructuras organizativas y programas empresariales. Aumentar los datos con la información de resultado del negocio para establecer mejores prácticas, modelos predictivos y benchmarks. Introducir iniciativas de cambio basadas en datos de comportamiento y medir el éxito de los programas con el transcurso del tiempo. Póngase en contacto con su representante del servicio de atención al cliente de Microsoft para obtener más información sobre los servicios de consultoría disponibles que puede usar para cuantificar desafíos empresariales e implementar cambios.
 
 ## <a name="privacy-and-compliance-designed-for-you"></a>Privacidad y cumplimiento diseñados para usted
 
-Workplace Analytics proporciona controles de privacidad para satisfacer sus necesidades y cumplimiento de normas para proteger sus datos. Los clientes deciden qué poblaciones deben analizar y mantener el control sobre la agregación de datos y las normas de desidentificación. Workplace Analytics solo analiza los metadatos de Office 365. La vista de datos y los niveles de agregación se basan en las preferencias de roles y clientes.
+Workplace Analytics proporciona controles de privacidad para satisfacer sus necesidades y cumplimiento de normas para proteger sus datos. Los clientes deciden qué poblaciones deben analizar y mantener el control sobre la agregación de datos y las normas de desidentificación. Workplace Analytics solo analiza los metadatos de Microsoft. La vista de datos y los niveles de agregación se basan en las preferencias de roles y clientes.
 
-Para obtener más información, consulte [Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Para obtener más información sobre cómo usar el análisis de área de trabajo, vea la [documentación de Workplace Analytics](https://docs.microsoft.com/workplace-analytics/).
+Para obtener más información, consulte[Workplace Analytics](https://go.microsoft.com/fwlink/?linkid=852492). Para obtener más información sobre cómo usar el análisis de área de trabajo, vea la [documentación de Workplace Analytics](https://docs.microsoft.com/workplace-analytics/).
   
 ## <a name="licensing-requirements"></a>Requisitos de licencia
 

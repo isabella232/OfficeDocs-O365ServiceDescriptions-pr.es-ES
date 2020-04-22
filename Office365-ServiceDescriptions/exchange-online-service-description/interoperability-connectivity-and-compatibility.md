@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 2da88139da1d779c5fb72d3b8fe72a077c1f9e16
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 6dcb4f38b62585eb6c87f175332cfaeef80230a9
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262663"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639998"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilidad, conectividad y compatibilidad
 
@@ -36,7 +36,7 @@ Para obtener más información sobre la configuración de Skype Empresarial Serv
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-En el caso de clientes que hayan implementado Microsoft SharePoint Server o SharePoint Online como parte de un plan de suscripción a Office 365, SharePoint podrá conectarse a Exchange Online para los servicios integrados.
+Para los clientes que hayan implementado Microsoft SharePoint Server o SharePoint Online como parte de un plan de suscripción, SharePoint puede conectarse a Exchange Online para obtener servicios integrados.
   
 Para obtener más información sobre cómo conectar SharePoint a Exchange Online, vea [Usar SharePoint Online en un dominio personalizado con otros servicios](https://go.microsoft.com/fwlink/?LinkId=271805).
   
@@ -58,6 +58,6 @@ Exchange Online se puede usar como servicio de entrega SMTP para transmitir los 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
   
 

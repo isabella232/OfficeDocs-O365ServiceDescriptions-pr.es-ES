@@ -1,5 +1,5 @@
 ---
-title: Características de conversaciones y mensajes en Yammer
+title: Características de conversación y mensajería de Yammer
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d4cfc96f-147b-410a-baf7-a1ecb690c3de
 description: A continuación se describen las características de conversación y mensajería disponibles en Yammer.
-ms.openlocfilehash: 407de14f6dfd58b5079c44cc5658192451dfc4e4
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 5e617b54b04aff55a668e7db7fe26ea0ccae8591
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263091"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640038"
 ---
-# <a name="message-and-conversation-features-in-yammer"></a>Características de conversaciones y mensajes en Yammer
+# <a name="message-and-conversation-features-in-yammer"></a>Características de conversación y mensajería de Yammer
 
 A continuación se describen las características de conversación y mensajería disponibles en Yammer.
   
@@ -57,5 +57,5 @@ Comparta conversaciones en el suministro de otro grupo o a través de un mensaje
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Yammer Service Description](yammer-service-description.md).
+Para ver los planes de disponibilidad de características, las opciones independientes y las soluciones locales, consulte [Yammer Service Description](yammer-service-description.md).
   

@@ -11,29 +11,29 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office para la web (anteriormente, Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office para la web hace que sea más fácil trabajar y compartir archivos de Office desde cualquier lugar con una conexión a Internet desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina.
-ms.openlocfilehash: 383960a65aa19ef18ed861d86d0c361b37acfed9
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Office para la web (anteriormente, Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office para la web hace que sea más fácil trabajar y compartir archivos de Office desde cualquier lugar con una conexión a Internet desde prácticamente cualquier dispositivo. Los clientes de Microsoft 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en las presentaciones.
+ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688413"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640138"
 ---
 # <a name="office-for-the-web-service-description"></a>Descripción de Office para el servicio Web
 
-Office para la web (anteriormente, Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office para la web hace que sea más fácil trabajar y compartir archivos de Office desde cualquier lugar con una conexión a Internet desde prácticamente cualquier dispositivo. Los clientes de Microsoft Office 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en cualquier oficina. 
+Office para la web (anteriormente, Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office para la web hace que sea más fácil trabajar y compartir archivos de Office desde cualquier lugar con una conexión a Internet desde prácticamente cualquier dispositivo. Los clientes de Microsoft 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en las presentaciones. 
   
-Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Para comparar las características entre planes, consulte [comparar Microsoft 365 para planes de negocios](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilidad de características en Office para los planes Web
 
 ¿Necesita ayuda para saber qué solución de Office se adapta mejor a su organización? En las tablas siguientes se comparan Office para las características de la característica Web de las aplicaciones de escritorio de Microsoft Office con características enriquecidas. Use las tablas para descubrir qué características están disponibles en Office para la web y, a continuación, seleccione el nombre de la característica para leer una breve descripción de cómo funciona la característica. Es posible que algunas personas de la organización necesiten la funcionalidad de gráficos avanzada de la aplicación de escritorio de Excel mientras que otras solo necesitan ver y editar documentos de Word y presentaciones de PowerPoint con Office para la Web. 
   
 > [!NOTE]
->  Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de las características de Microsoft Office. <br/>  Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. <br/>  Los clientes locales de Microsoft Office Online Server obtienen una licencia de edición web de Office si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Office 365 ProPlus). 
+>  Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de las características de Microsoft Office. <br/>  Microsoft 365 apps for Enterprise es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. <br/>  Los clientes locales de Microsoft Office Online Server obtienen una licencia de edición de Office para el Web si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (por ejemplo, una licencia de Office Professional Plus, Office Standard o Microsoft 365 apps for Enterprise). 
   
 > [!NOTE]
-> Al abrir un documento de Office, ya sea como datos adjuntos de correo electrónico de Outlook o desde una biblioteca de documentos de SharePoint, el documento se iniciará en Office para la web y será de solo lectura. Para editar un documento en Office para la web (modo de edición), necesita una licencia de Office 365 Suite, como Office 365 Enterprise E1. Para editar un documento en la aplicación de escritorio, deberá contar con una licencia del conjunto de escritorio de Office, como una suscripción de Office 365 ProPlus o una versión instalada de Office Professional Plus 2010. 
+> Al abrir un documento de Office, ya sea como datos adjuntos de correo electrónico de Outlook o desde una biblioteca de documentos de SharePoint, el documento se iniciará en Office para la web y será de solo lectura. Para editar un documento en Office para la web (modo de edición), necesita una licencia de Suite, como Office 365 Enterprise E1. Para editar un documento en la aplicación de escritorio, necesitará una licencia del conjunto de aplicaciones de escritorio de Office, como una suscripción a Microsoft 365 apps for Enterprise o una versión instalada de Office Professional Plus 2010. 
   
 ### <a name="word"></a>Word
 
@@ -160,7 +160,7 @@ Para comparar las características de los diferentes planes, consulte [Comparar 
 |[Complementos de Office](excel-online.md#office-add-ins) <br/> |Sí<sup>5</sup>  <br/> |Sí  <br/> |
 |[Visualización y creación sin conexión](excel-online.md#offline-viewing-and-authoring) <br/> |No  <br/> |Sí  <br/> |
 |[Gráficos dinámicos](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Sí<sup>1</sup>  <br/> |Sí  <br/> |
-|[PivotTables](excel-online.md#pivottables) <br/> |Sí  <br/> |Sí  <br/> |
+|[Tablas dinámicas](excel-online.md#pivottables) <br/> |Sí  <br/> |Sí  <br/> |
 |[Publicar en la red social y presentar en línea](excel-online.md#post-to-social-network-and-present-online) <br/> |No  <br/> |Sí  <br/> |
 |[Visualización de Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Sí  <br/> |Sí  <br/> |
 |[Visualización de Power View](excel-online.md#power-view-viewing) <br/> |Sí  <br/> |Sí  <br/> |

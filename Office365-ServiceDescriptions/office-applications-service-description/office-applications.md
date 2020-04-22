@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office es un excelente servicio que le ayudará a dar rienda suelta a sus mejores ideas, a realizar todo lo que se proponga y a estar conectado mientras está fuera. Solo debe iniciar sesión para tener una experiencia personalizada y las aplicaciones más actualizadas de Office, con características nuevas y mejoradas que se añaden periódicamente.
-ms.openlocfilehash: 72ffbac42a0d2a2ebdecf9316d6016d50022d464
-ms.sourcegitcommit: b957054b6d0a96dbb2b9ced39b5c9935aa07111c
-ms.translationtype: HT
+ms.openlocfilehash: d5f5638ddcf965736b6d385594bf27228a5cf2b8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2020
-ms.locfileid: "42545733"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639678"
 ---
 # <a name="office-applications"></a>Aplicaciones de Office
 
 Microsoft Office es un excelente servicio que le ayudará a dar rienda suelta a sus mejores ideas, a realizar todo lo que se proponga y a estar conectado mientras está fuera. Solo debe iniciar sesión para tener una experiencia personalizada y las aplicaciones más actualizadas de Office, con características nuevas y mejoradas que se añaden periódicamente.
   
-Para conocer los requisitos del sistema de Office 365, el servicio basado en suscripción mensual disponible para la empresa, educación y organizaciones gubernamentales, vea [Requisitos del sistema de Office 365](https://products.office.com/office-system-requirements/#Office365forBEG).
+Para los requisitos del sistema, el servicio basado en suscripción mensual disponible para las organizaciones empresariales, educativas y gubernamentales, consulte [requisitos del sistema para Microsoft 365](https://products.office.com/office-system-requirements/#Office365forBEG).
   
 ## <a name="microsoft-word"></a>Microsoft Word
 
@@ -69,15 +69,15 @@ Algunas de las aplicaciones de Office, como Excel o Word, tienen de forma predet
   
 ## <a name="office-mobile-for-ipadiphone"></a>Office Mobile para iPad y iPhone
 
-Office Mobile para iPad y iPhone incluye sus aplicaciones de Office favoritas, como Word para iPad y iPhone, Excel para iPad y iPhone, y PowerPoint para iPad y iPhone. Las aplicaciones están disponibles para descargar de forma gratuita, y con los planes de Office 365 correspondientes, puede crear y editar documentos en su iPad o iPhone. Para obtener más información, vea [Configurar las aplicaciones de Office y el correo electrónico en dispositivos iOS](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US).
+Office Mobile para iPad y iPhone incluye sus aplicaciones de Office favoritas, como Word para iPad y iPhone, Excel para iPad y iPhone, y PowerPoint para iPad y iPhone. Las aplicaciones están disponibles para descargar de forma gratuita, y con los planes correspondientes, puede crear y editar documentos en su iPad o iPhone. Para obtener más información, vea [Configurar las aplicaciones de Office y el correo electrónico en dispositivos iOS](https://support.office.com/article/set-up-office-apps-and-email-on-ios-devices-0402b37e-49c4-4419-a030-f34c2013041f?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-mobile-for-android"></a>Office Mobile para Android
 
-Office Mobile para Android incluye sus aplicaciones favoritas de Office, como Word para Android, Excel para Android y PowerPoint para Android. Las aplicaciones están disponibles para descargar de forma gratuita, y con los planes de Office 365 correspondientes, puede crear y editar documentos en sus dispositivos Android. Para obtener más información, vea [Configurar las aplicaciones de Office y el correo electrónico en Android](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US).
+Office Mobile para Android incluye sus aplicaciones favoritas de Office, como Word para Android, Excel para Android y PowerPoint para Android. Las aplicaciones están disponibles para descargar de forma gratuita, y con los planes correspondientes, puede crear y editar documentos en sus dispositivos Android. Para obtener más información, vea [Configurar las aplicaciones de Office y el correo electrónico en Android](https://support.office.com/article/set-up-office-apps-and-email-on-android-6ef2ebf2-fc2d-474a-be4a-5a801365c87f?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-mobile-for-windows-phone"></a>Office Mobile para Windows Phone
 
-Office Mobile para Windows Phone incluye sus aplicaciones favoritas, como Word para Windows Phone, Excel para Windows Phone y PowerPoint para Windows Phone. Las aplicaciones están disponibles para descargar de forma gratuita, y con los planes de Office 365 correspondientes, puede crear y editar documentos en su Windows Phone. Para obtener más información, vea [Configurar las aplicaciones de Office y el correo electrónico en Windows Phone](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US).
+Office Mobile para Windows Phone incluye sus aplicaciones favoritas, como Word para Windows Phone, Excel para Windows Phone y PowerPoint para Windows Phone. Las aplicaciones están disponibles para descargar de forma gratuita, y con los planes aplicables, puede crear y editar documentos en su Windows Phone. Para obtener más información, vea [Configurar las aplicaciones de Office y el correo electrónico en Windows Phone](https://support.office.com/article/set-up-office-apps-and-email-on-windows-phone-9bccc8b8-a321-4d0d-a45e-6e06a3438e43?ui=en-US&rs=en-US&ad=US).
 
 ## <a name="office-for-windows-10-mobile"></a>Office para Windows 10 Mobile
 
@@ -85,5 +85,5 @@ Las aplicaciones de Office para Windows 10 Mobile están optimizadas para las pa
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características de los planes de Office 365, las opciones independientes y las soluciones locales, vea [Descripción del servicio de aplicaciones de Office](office-applications-service-description.md).
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Office Applications Service Description](office-applications-service-description.md).
   

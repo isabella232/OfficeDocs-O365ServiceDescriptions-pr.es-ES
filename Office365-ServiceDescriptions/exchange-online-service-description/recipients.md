@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: En este tema, se describen las características relacionadas con los destinatarios que se incluyen con Microsoft Exchange Online. Incluye correo electrónico, contactos, grupos de distribución, calendarios y capacidades de programación.
-ms.openlocfilehash: 437e3884ad385df1a63144deb8e358efb3a6b129
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: c65745f22b303acb5740e0ff014aa8f9a5b2c7b7
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262733"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639988"
 ---
-# <a name="recipients"></a>Destinatarios
+# <a name="recipients"></a>Recipients
 
 En este tema, se describen las características relacionadas con los destinatarios que se incluyen con Microsoft Exchange Online. Incluye correo electrónico, contactos, grupos de distribución, calendarios y capacidades de programación.
   
@@ -28,7 +28,7 @@ En este tema, se describen las características relacionadas con los destinatari
 Cada suscritor a Microsoft Exchange Online recibe un buzón de correo y existen buzones de correo especializados para programar recursos de instalaciones (como salas de conferencia) y para el acceso multiusuario a las direcciones electrónicas. Los límites de almacenamiento máximo se aplican a la mayoría de buzones de correo y los administradores pueden controlar los tamaños de buzón de correo permitidos. Las notificaciones y restricciones automatizadas pueden advertir a los usuarios cuando sus buzones de correo se acercan o alcanzan su máxima capacidad. Exchange Online también dispone de varios tipos de limitaciones de mensajes: limites de tamaño de mensaje, frecuencia de mensajes y listas de destinatarios. A continuación figuran los detalles de todas estas características y límites.
   
 > [!NOTE]
-> Las direcciones catchall ya no son compatibles con Exchange Online. Debido al filtrado de destinatarios in situ para proteger contra posibles mensajes de correo no deseado, se rechazarán las direcciones de correo electrónico que no existan en el inquilino de Office 365. 
+> Las direcciones catchall ya no son compatibles con Exchange Online. Debido al filtrado de destinatarios para proteger contra posibles mensajes de correo no deseado, se rechazarán las direcciones de correo electrónico que no existan en la organización. 
   
 ### <a name="mailbox-types-storage-limits-and-capacity-alerts"></a>Tipos de buzones, límites de almacenamiento y alertas de capacidad
 
@@ -153,7 +153,7 @@ Los mensajes de fuera de la oficina son respuestas automáticas a mensajes entra
 
 Los usuarios pueden compartir su calendario personal de dos maneras:
   
-- **Uso compartido de calendario federado** La federación hace referencia a la infraestructura de confianza subyacente que es compatible con el uso compartido federado, un método sencillo para que los usuarios de Exchange compartan la información de disponibilidad de datos de calendario y de contactos con los destinatarios en otras organizaciones federadas externas. Esto incluye organizaciones de Exchange Online u organizaciones que ejecuten Exchange Server 2010 o Exchange Server 2013 local. Los administradores de Exchange Online no tienen que establecer una confianza con Microsoft Federation Gateway ya que esta confianza está preconfigurada para todos los clientes de Exchange Online cuando se crea el servicio de inquilinos de Office 365. Una directiva de uso compartido predeterminada permite a los usuarios enviar invitaciones de uso compartido de calendarios desde Outlook en la web o Outlook 2010. Los administradores usan Windows PowerShell remoto para deshabilitar esta directiva o para configurar el nivel de información de disponibilidad del calendario que los usuarios pueden compartir. Los administradores también pueden crear una relación entre organizaciones con otras organizaciones federadas, que permita el nivel deseado de información de confidencialidad de cada usuario que sea visible a través de la organización sin la necesidad de que el usuario comparta la invitación. En el ámbito de las directivas de uso compartido definidas por el administrador, los usuarios pueden limitar individualmente el detalle de su uso compartido. 
+- **Uso compartido de calendario federado** La federación hace referencia a la infraestructura de confianza subyacente que es compatible con el uso compartido federado, un método sencillo para que los usuarios de Exchange compartan la información de disponibilidad de datos de calendario y de contactos con los destinatarios en otras organizaciones federadas externas. Esto incluye organizaciones de Exchange Online u organizaciones que ejecuten Exchange Server 2010 o Exchange Server 2013 local. Los administradores de Exchange online no necesitan configurar una confianza con Microsoft Federation Gateway porque esta confianza está preconfigurada para todos los clientes de Exchange Online cuando se crea el servicio de Microsoft. Una directiva de uso compartido predeterminada permite a los usuarios enviar invitaciones de uso compartido de calendarios desde Outlook en la web o Outlook 2010. Los administradores usan Windows PowerShell remoto para deshabilitar esta directiva o para configurar el nivel de información de disponibilidad del calendario que los usuarios pueden compartir. Los administradores también pueden crear una relación entre organizaciones con otras organizaciones federadas, que permita el nivel deseado de información de confidencialidad de cada usuario que sea visible a través de la organización sin la necesidad de que el usuario comparta la invitación. En el ámbito de las directivas de uso compartido definidas por el administrador, los usuarios pueden limitar individualmente el detalle de su uso compartido. 
     
 - **Uso compartido de calendario de Internet** Exchange Online permite a los usuarios publicar sus calendarios con el formato iCal para el acceso anónimo de cualquier persona dentro y fuera de la organización. Los destinatarios pueden utilizar Exchange, otra plataforma o simplemente un explorador web. Los usuarios de Exchange Online también pueden suscribirse a calendarios que otros usuarios han publicado en ubicaciones de Internet a través de iCal. Este uso compartido de calendarios personal es diferente al uso compartido del calendario federado, que lo configura un administrador y proporciona el uso compartido de disponibilidad entre organizaciones. Ningún usuario puede publicar datos de calendario en formato de iCal hasta que el administrador haya establecido y aplicado una directiva de uso compartido que la permita. Los administradores pueden deshabilitar la publicación de y las suscripciones de iCal para los usuarios de la organización usando un Windows PowerShell remoto.
     
@@ -169,5 +169,5 @@ Exchange Online es compatible con la característica Buscador de salas de Outloo
     
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
   

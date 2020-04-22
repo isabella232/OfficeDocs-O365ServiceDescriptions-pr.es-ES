@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word para el Web (anteriormente Word Web App) amplía su experiencia de Microsoft Word al explorador Web, donde puede trabajar con documentos directamente en el sitio web en el que está almacenado el documento.
-ms.openlocfilehash: 5b99a52df57fdceaa341422a4265795438e2d296
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: 5845e8221ca0b1ff12e447e44136a8e3214cd325
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688389"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640218"
 ---
 # <a name="word-for-the-web"></a>Word para la web
 
@@ -47,7 +47,7 @@ Puede insertar bloques de texto con formato previo con Autotexto desde su Galer�
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Browse and start from professionally designed templates
 
-No está disponible en Word para la Web. Las características de diseño avanzadas, como el inicio de documentos desde una amplia variedad de plantillas de diseño profesional hospedadas en Office.com, solo están disponibles en la aplicación de escritorio de Word. Pero los clientes de Office 365 pueden configurar una biblioteca de documentos para iniciar una plantilla personalizada cuando un usuario crea un documento nuevo. Para obtener más información, vea [Agregar un tipo de contenido a una lista o biblioteca](https://go.microsoft.com/fwlink/p/?LinkId=391446).
+No está disponible en Word para la Web. Las características de diseño avanzadas, como el inicio de documentos desde una amplia variedad de plantillas de diseño profesional hospedadas en Office.com, solo están disponibles en la aplicación de escritorio de Word. Sin embargo, los clientes pueden configurar una biblioteca de documentos para iniciar una plantilla personalizada cuando un usuario crea un nuevo documento. Para obtener más información, vea [Agregar un tipo de contenido a una lista o biblioteca](https://go.microsoft.com/fwlink/p/?LinkId=391446).
   
 ## <a name="bullets-and-numbering"></a>Bullets and numbering
 
@@ -239,7 +239,7 @@ Con Word para la web, puede guardar una copia del documento localmente.
 
 Puede usar Word para la web para guardar o convertir los archivos a PDF para que pueda compartirlos o imprimirlos mediante impresoras comerciales. Y no necesitará ningún otro software o complemento.
   
-## <a name="share"></a>Compartir
+## <a name="share"></a>Share
 
 Con Word para la web, se trata de un proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre las [diferencias entre el uso de un documento en el explorador y en Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
@@ -297,5 +297,5 @@ La característica de zoom está disponible en el modo de visualización. Con Wo
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Office para la descripción del servicio Web](office-online-service-description.md). 
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Office para la descripción del servicio Web](office-online-service-description.md). 
   

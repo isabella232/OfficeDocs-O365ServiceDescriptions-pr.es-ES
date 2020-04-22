@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 6c00f763fe3474a1055c2f490424ca442ee57dc4
-ms.sourcegitcommit: 0ed2137e41e29de9afcaefbff7583da8cfcd55d6
+ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/16/2020
-ms.locfileid: "43529213"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639808"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -78,7 +78,7 @@ ATP protege a los usuarios de ataques sofisticados, como suplantación de identi
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio? 
 
-Office 365 Advanced Threat Protection, Office 365 E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security, Microsoft 365 Business y Office 365 los planes de ATP 1 y 2 proporcionan los derechos de un usuario para beneficiarse de la protección contra amenazas avanzada de Office 365.
+Office 365 Advanced Threat Protection, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security, Microsoft 365 empresa Premium y Office 365 los planes de ATP 1 y 2 proporcionan los derechos para que un usuario se beneficie de la protección contra amenazas avanzada.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -102,7 +102,7 @@ Para comparar las características, consulte [diferencias entre Microsoft Cloud 
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
-OCAS detecta el sombreado, proporciona protección contra amenazas en Office 365 y puede controlar qué aplicaciones tienen permiso de acceso a los datos de Office 365.
+OCAS detecta el sombreado, proporciona protección contra amenazas en Office 365 y puede controlar qué aplicaciones tienen permiso de acceso a los datos.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
@@ -288,7 +288,7 @@ Se pueden habilitar las claves de cifrado de clave de cliente de Office 365 para
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Para asignar claves de cifrado a datos dentro de un inquilino de Office 365 o de Microsoft 365 para usuarios con licencia, siga las instrucciones de implementación de claves de cifrado de clave de cliente.
+Para asignar claves de cifrado a datos dentro de una organización de Office 365 o Microsoft 365 para usuarios con licencia, siga las instrucciones de implementación de claves de cifrado de clave de cliente.
 
 - Para los archivos de SharePoint Online, OneDrive para la empresa y Microsoft Teams, los archivos de uno o varios sitios pueden cifrarse con la clave de cliente.
 
@@ -312,7 +312,7 @@ Los administradores pueden activar los controles de caja de caja del cliente en 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Microsoft proporciona solicitudes de aprobación del control de acceso de Lockbox del cliente para los usuarios de su organización de Office 365.
+Microsoft proporciona solicitudes de aprobación del control de acceso de Lockbox del cliente para los usuarios de la organización.
 
 ## <a name="privileged-access-management-in-office-365"></a>Privileged Access Management de Office 365
 
@@ -352,7 +352,7 @@ De forma predeterminada, los mensajes de correo electrónico de Exchange Online,
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento de Office 365, en**ubicaciones**de **prevención** > de pérdida de datos.
+Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en**ubicaciones**de **prevención** > de pérdida de datos.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Prevención de pérdida de datos de comunicación para Microsoft Teams
 
@@ -372,9 +372,9 @@ De forma predeterminada, los mensajes de chat y de canal de Microsoft son una *U
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento de Office 365, en**ubicaciones**de **prevención** > de pérdida de datos.
+Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en**ubicaciones**de **prevención** > de pérdida de datos.
 
-## <a name="information-barriers"></a>Barreras de la información
+## <a name="information-barriers"></a>Barreras de información
 
 Las barreras de información son directivas que un administrador puede configurar para evitar que los usuarios o grupos se comuniquen entre sí. Esto es útil si, por ejemplo, un departamento está controlando información que no debe compartirse con otros departamentos, o bien es necesario evitar que un grupo se comunique con los contactos externos. Las directivas de barrera de información también evitan búsquedas y detección. Esto significa que si intenta comunicarse con alguien con quien no debe comunicarse, no encontrará a ese usuario en el selector de personas.
 
@@ -399,13 +399,13 @@ Los administradores crean y administran directivas de barrera de información me
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento de Office 365. Por ejemplo, si todos los usuarios tienen licencia para Office 365 E3 y ninguno tiene licencia para Office 365 Advanced Compliance/E5, no necesitará crear ninguna directiva de barrera de información para la organización. Para obtener más información, consulte [barreras de la información en Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
+Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento. Por ejemplo, si todos los usuarios tienen licencia para Office 365 E3 y ninguno tiene licencia para Office 365 Advanced Compliance/E5, no necesitará crear ninguna directiva de barrera de información para la organización. Para obtener más información, consulte [barreras de la información en Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/information-barriers-in-teams).
 
 ## <a name="office-365-message-encryption"></a>Cifrado de mensajes de Office 365
 
 El cifrado de mensajes de Office 365 (OME) es un servicio basado en Azure Rights Management (Azure RMS) que permite enviar correo electrónico cifrado a otras personas dentro o fuera de la organización, independientemente de la dirección de correo electrónico de destino (Gmail, Yahoo! Mail, Outlook.com, etc.).
 
-Para ver los mensajes cifrados, los destinatarios pueden obtener un código de acceso único, iniciar sesión con una cuenta de Microsoft, o iniciar sesión con una cuenta profesional o educativa asociada a Office 365. Los destinatarios también pueden enviar respuestas cifradas. No necesitan una suscripción de Office 365 para ver los mensajes cifrados o enviar respuestas cifradas.
+Para ver los mensajes cifrados, los destinatarios pueden obtener un código de acceso único, iniciar sesión con una cuenta de Microsoft, o iniciar sesión con una cuenta profesional o educativa asociada a Office 365. Los destinatarios también pueden enviar respuestas cifradas. No necesitan una suscripción para ver mensajes cifrados ni enviar respuestas cifradas.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -423,7 +423,7 @@ Los administradores crean y administran directivas de cifrado de mensajes de Off
 
 Los administradores deben aplicar reglas de flujo de correo para el cifrado de mensajes de Office 365 solo a usuarios con licencia. Para obtener más información acerca de la definición de reglas de flujo de correo, consulte [definir reglas de flujo de correo para cifrar mensajes de correo electrónico en Office 365](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email).
 
-## <a name="office-365-advanced-message-encryption"></a>Cifrado avanzado de mensajes de Office 365
+## <a name="office-365-advanced-message-encryption"></a>Cifrado de mensajes avanzado de Office 365
 
 Office 365 Advanced Message Encryption ayuda a los clientes a cumplir las obligaciones de cumplimiento que requieren controles más flexibles sobre los destinatarios externos y su acceso a los correos electrónicos cifrados. Con el cifrado de mensajes avanzado, los administradores pueden controlar los mensajes de correo electrónico confidenciales que se comparten fuera de la organización mediante directivas automáticas que pueden detectar los tipos de información confidencial (por ejemplo, información de identificación personal o identificadores financieros o de salud) o pueden usar palabras clave para mejorar la protección mediante la aplicación de plantillas de correo electrónico personalizadas y la expiración del acceso Además, los administradores pueden controlar más los correos electrónicos cifrados a los que se accede externamente a través de un portal web seguro al revocar el acceso en cualquier momento.
 

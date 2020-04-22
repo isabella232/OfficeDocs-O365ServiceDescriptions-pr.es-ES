@@ -1,5 +1,5 @@
 ---
-title: Derechos de uso del producto
+title: Derechos de uso de producto
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 2e5bab56-0af4-414b-9b94-fa2ca129e5d0
-ms.openlocfilehash: bb5ce750365056dc88beee31f627fa7c569849e1
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 4eee250ce5d4ae2855c7ec1f26775bab73089676
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262501"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639918"
 ---
-# <a name="product-use-rights"></a>Derechos de uso del producto
+# <a name="product-use-rights"></a>Derechos de uso de producto
 
 ## <a name="microsoft-online-services-use-rights"></a>Derechos de uso de Microsoft Online Services
 
@@ -34,6 +34,6 @@ Para más información sobre los programas de concesión de licencias para su or
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características en los planes de Office 365, consulte Descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description.md).
+Para ver la disponibilidad de características entre planes, consulte [Office 365 Platform Service Description](office-365-platform-service-description.md).
   
 

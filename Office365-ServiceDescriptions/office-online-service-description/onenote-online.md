@@ -13,17 +13,17 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 8d7364c3-f08c-43b5-801a-d198bedf0cdf
-description: Use OneNote para la web (anteriormente OneNote Web App) para tomar notas en línea en un bloc de notas de OneNote que puede Agregar desde cualquier lugar y compartir fácilmente con otros usuarios. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: ac5ddb4e0599f3155a592aed3fc663723db6500c
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+description: Use OneNote para la web (anteriormente OneNote Web App) para tomar notas en línea en un bloc de notas de OneNote que puede Agregar desde cualquier lugar y compartir fácilmente con otros usuarios. Todos los clientes pueden ver y modificar ligeramente los archivos de Office con Office para la Web.
+ms.openlocfilehash: 64a6e74e82814af94ed362d98950279b7562142c
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42688435"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640228"
 ---
 # <a name="onenote-for-the-web"></a>OneNote para la web
 
-Use OneNote para la web (anteriormente OneNote Web App) para tomar notas en línea en un bloc de notas de OneNote que puede Agregar desde cualquier lugar y compartir fácilmente con otros usuarios. Todos los clientes de Office 365 pueden ver y editar ligeramente los archivos de Office con Office para la Web. 
+Use OneNote para la web (anteriormente OneNote Web App) para tomar notas en línea en un bloc de notas de OneNote que puede Agregar desde cualquier lugar y compartir fácilmente con otros usuarios. Todos los clientes pueden ver y modificar ligeramente los archivos de Office con Office para la Web. 
   
 ## <a name="advanced-collaboration-new-content-shows-as-unread-presence"></a>Advanced collaboration: New content shows as unread, presence
 
@@ -122,7 +122,7 @@ Con OneNote para la web, puede cambiar la alineación de los párrafos, aumentar
 
 Con OneNote para la web, puede insertar una imagen desde un archivo o desde imágenes de Bing. También puede cambiar el tamaño de las imágenes y agregar texto alternativo. Para usar características de imágenes más avanzadas, como recortes de pantalla, imágenes digitalizadas o imágenes en línea, tendrá que usar la aplicación de escritorio de OneNote. Obtenga más información sobre las [diferencias entre el uso de un bloc de notas en el explorador y en la aplicación de escritorio de OneNote](https://go.microsoft.com/fwlink/p/?LinkId=272946).
   
-## <a name="print"></a>Print
+## <a name="print"></a>Imprimir
 
 Puede imprimir notas en OneNote para la Web.
   
@@ -142,7 +142,7 @@ Con OneNote para la web, puede usar la búsqueda instantánea para recuperar tod
 
 No disponible en OneNote para la Web. Las características de búsqueda avanzada, como buscar por etiqueta, por título, por autor/fecha y por archivo de audio, solo están disponibles en la aplicación de escritorio de OneNote.
   
-## <a name="share"></a>Compartir
+## <a name="share"></a>Share
 
 Si ha guardado el Bloc de notas de OneNote en una biblioteca de documentos de SharePoint, el Bloc de notas de OneNote estará en línea. Esto implica que puede compartirlo enviando un vínculo, en lugar de usar un archivo adjunto de correo electrónico. Al seleccionar el vínculo, los usuarios pueden leer sus notas en su explorador Web. Obtenga más información sobre cómo [compartir notas de OneNote en línea](https://go.microsoft.com/fwlink/p/?LinkID=272945).
   
@@ -176,6 +176,6 @@ Con OneNote para la web, puede ver y restaurar versiones anteriores de una pági
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Office para la descripción del servicio Web](office-online-service-description.md).
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Office para la descripción del servicio Web](office-online-service-description.md).
   
 

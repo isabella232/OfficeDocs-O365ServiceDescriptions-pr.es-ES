@@ -13,23 +13,23 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5f19743f-5b40-479b-952c-d5a8a35a2b7e
-description: PowerPoint para el Web (anteriormente, PowerPoint Web App) amplía su experiencia de Microsoft PowerPoint al explorador Web, donde puede trabajar con presentaciones directamente en el sitio web en el que está almacenada la presentación. Los clientes de Microsoft Office 365 con Office para la web pueden ver, crear y editar archivos en cualquier sitio.
-ms.openlocfilehash: 211a028951ee86e8c7e79f36361a4249bbbdb838
-ms.sourcegitcommit: 3b0868ae082a41c1fc303a990a674bab5e722171
+description: PowerPoint para el Web (anteriormente, PowerPoint Web App) amplía su experiencia de Microsoft PowerPoint al explorador Web, donde puede trabajar con presentaciones directamente en el sitio web en el que está almacenada la presentación. Los clientes de Microsoft 365 con Office para la web pueden ver, crear y editar archivos en cualquier oficina.
+ms.openlocfilehash: f30eb6f981478c27e068282b5f0d523bad33eb38
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/26/2020
-ms.locfileid: "42959328"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640288"
 ---
 # <a name="powerpoint-for-the-web"></a>PowerPoint para la web
 
-PowerPoint para el Web (anteriormente, PowerPoint Web App) amplía su experiencia de Microsoft PowerPoint al explorador Web, donde puede trabajar con presentaciones directamente en el sitio web en el que está almacenada la presentación. Los clientes de Microsoft Office 365 con Office para la web pueden ver, crear y editar archivos en cualquier sitio.
+PowerPoint para el Web (anteriormente, PowerPoint Web App) amplía su experiencia de Microsoft PowerPoint al explorador Web, donde puede trabajar con presentaciones directamente en el sitio web en el que está almacenada la presentación. Los clientes de Microsoft 365 con Office para la web pueden ver, crear y editar archivos en cualquier oficina.
   
 El editor de PowerPoint es un componente front-end web que crea una superficie de edición basada en el explorador, lo que permite a los usuarios trabajar en documentos sin perder fidelidad.
   
 Si selecciona el botón **abrir en PowerPoint** de la barra de herramientas de PowerPoint para la web, la presentación se abre en la aplicación de escritorio de PowerPoint (si Microsoft PowerPoint 2010 o posterior está instalado en el equipo).
   
-Obtenga información sobre cómo [Descargar e instalar Office con office 365 para empresas en un equipo PC](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
+Obtenga información sobre cómo [Descargar e instalar Office con Microsoft 365 para empresas en un equipo PC](https://support.office.com/en-us/article/Download-and-install-Office-using-Office-365-for-business-on-a-PC-72977511-dfd1-4d8b-856f-405cfb76839c).
   
 ## <a name="alignment-bullets-numbers"></a>Alignment, bullets, numbers
 
@@ -171,7 +171,7 @@ PowerPoint para la web guarda el trabajo cada vez que se realiza un cambio. No h
 
 Las ilustraciones y los gráficos de Word no se pueden insertar en PowerPoint para la web, pero PowerPoint para la web los muestra como se esperaba. En la vista de edición, editar y dar formato al texto. Si desea aplicar efectos de texto a Word Art, necesitará la aplicación de escritorio de Microsoft PowerPoint.
   
-## <a name="share"></a>Compartir
+## <a name="share"></a>Share
 
 Si guarda su presentación en una biblioteca de documentos de SharePoint, su presentación está en línea y puede compartirla mediante el envío de un vínculo en lugar de un adjunto de correo electrónico. Los usuarios con los permisos correspondientes pueden verla en su explorador web o dispositivo móvil. Obtenga más información sobre cómo [compartir una presentación](https://go.microsoft.com/fwlink/?LinkId=272776).
   
@@ -211,4 +211,4 @@ Edite su presentación de forma que sea muy similar a su apariencia cuando se im
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Office para la descripción del servicio Web](office-online-service-description.md). 
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Office para la descripción del servicio Web](office-online-service-description.md). 

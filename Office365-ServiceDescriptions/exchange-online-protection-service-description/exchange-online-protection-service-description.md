@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio protección en línea de Exchange
+title: Descripción del servicio Exchange Online Protection
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: obtenga información sobre las características y los requisitos de Exchange Online Protection. Se incluye una lista de los planes que proporcionan protección en línea de Exchange, así como una comparación de las características en los planes.
-ms.openlocfilehash: c385ef02d7d3c28a37b71162daace04a0cee800c
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 86c3084ec8f3f7d845b2c99b1c4adf5814cc0f77
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260925"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43640178"
 ---
-# <a name="exchange-online-protection-service-description"></a>Descripción del servicio protección en línea de Exchange
+# <a name="exchange-online-protection-service-description"></a>Descripción del servicio Exchange Online Protection
 
 obtenga información sobre las características y los requisitos de Exchange Online Protection. Se incluye una lista de los planes que proporcionan protección en línea de Exchange, así como una comparación de las características en los planes.
 
@@ -33,7 +33,7 @@ En la siguiente lista se describen las formas principales en las que puede usar 
 
 - **En una implementación híbrida**: EOP se puede configurar para que proteja el entorno de mensajería y controle el enrutamiento del correo cuando se tiene una mezcla de buzones locales y en la nube.
 
-Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Para comparar las características entre planes, consulte [comparar Microsoft 365 para planes de negocios](https://products.office.com/business/compare-more-office-365-for-business-plans).
 
 Para comprar Protección de Exchange Online, vea [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
 
@@ -42,7 +42,7 @@ Para comprar Protección de Exchange Online, vea [Exchange Online Protection](ht
 
 ## <a name="whats-new-in-exchange-online-protection-eop"></a>Novedades de la Exchange Online Protection (EOP)
 
-La [Guía básica de Office 365 para empresa](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) es un buen recurso para encontrar información sobre las próximas características nuevas.
+El [plan de desarrollo de Microsoft 365 para empresas](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) es un buen recurso para buscar información sobre las nuevas características nuevas.
 
 ## <a name="exchange-online-protection-eop-plans"></a>Planes de Online Protection (EOP)
 
@@ -101,7 +101,7 @@ A continuación, se incluye cada característica. Si desea ver información más
 |[Cuarentena](anti-spam-and-anti-malware-protection-eop.md#quarantine): autoadministración de usuarios finales|Sí|Sí|Sí|
 |[Complemento de mensajes de informe para Outlook](anti-spam-and-anti-malware-protection-eop.md#report-message-add-in-for-outlook)|Sí|Sí|Sí|
 |[Notificación de correo no deseado en Outlook en la web](anti-spam-and-anti-malware-protection-eop.md#junk-email-reporting-in-outlook-on-the-web)|Sí|Sí|Sí|
-|[Enrutar correo electrónico entre Office 365 y sus servidores de correo electrónico propios](mail-flow-eop.md#routing-email-between-office-365-and-your-own-email-servers)|Sí|Sí|Sí|
+|[Enrutamiento de correo electrónico entre Microsoft y sus propios servidores de correo electrónico](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sí|Sí|Sí|
 |[Mensajería segura con un socio de confianza](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sí|Sí|Sí|
 |[Incluir en una lista segura la dirección IP de un socio](mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sí|Sí|Sí|
 |[Enrutamiento de correo condicional](mail-flow-eop.md#conditional-mail-routing)|Sí|Sí|Sí|
