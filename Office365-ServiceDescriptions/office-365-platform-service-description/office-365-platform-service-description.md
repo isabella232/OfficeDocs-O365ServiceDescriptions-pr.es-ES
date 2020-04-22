@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio de la plataforma de Office 365
+title: Descripción del servicio de la plataforma Microsoft 365 y Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si quiere conocer las diferencias entre los planes de Office 365, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: b207c66057ef8cbdc6ca9dce65cee72d6c4a9792
-ms.sourcegitcommit: 38ab066d511bd7ebdf891b3ecef9e6f2127d5f18
+ms.openlocfilehash: 2e706ea6dcb85b03a40fb6790b058ceb2c23be20
+ms.sourcegitcommit: 5a76557af16611192b978d84c0b01f23edaab746
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/01/2020
-ms.locfileid: "43093577"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43725139"
 ---
 # <a name="office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Office 365
 
-Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si quiere conocer las diferencias entre los planes de Office 365, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
+Microsoft 365 y Office 365 están disponibles en diversos planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
   
-Microsoft Office 365 ofrece el poder de la productividad de la nube a empresas de todos los tamaños, lo que ayuda a ahorrar tiempo y dinero, y liberar recursos valiosos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios de colaboración y comunicaciones de próxima generación de Microsoft, como Microsoft Exchange Online, Microsoft SharePoint Online, Office para la web y Microsoft Skype empresarial online, para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
+Microsoft 365 y Office 365 ofrecen la potencia de la productividad en la nube a las empresas de todos los tamaños, lo que ayuda a ahorrar tiempo, dinero y liberar recursos valiosos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios de colaboración y comunicaciones de próxima generación de Microsoft, como Microsoft Exchange Online, Microsoft SharePoint Online, Office para la web y Microsoft Skype empresarial online, para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
   
-Para comparar las características de los planes, consulte [comparar los planes de Office 365 para empresas](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o, para obtener una lista más detallada de las características, consulte la descripción del servicio relevante en [Office 365 Service ](../office-365-service-descriptions-technet-library.md)descriptions.
+Para comparar las características de los planes, consulte [comparar planes](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o, para obtener una lista más detallada de las características, consulte la descripción del servicio relevante en [Office 365 service descriptions ](../office-365-service-descriptions-technet-library.md).
   
 - Para obtener información sobre los planes de Office 365 Educación, comience por la página [Office 365 Educación](office-365-education.md). 
     
@@ -65,7 +65,7 @@ Para obtener información sobre el lugar donde se almacenan los datos, vea la [A
   
 ## <a name="multi-geo-capabilities-in-office-365"></a>Capacidades multigeográficas en Office 365
 
-Multigeográfico permite que un solo inquilino de Office 365 abarque varias ubicaciones geográficas del centro de datos de Office 365 y le ofrece la posibilidad de almacenar datos de Office 365 para Exchange Online y OneDrive para la empresa, en la ubicación geográfica elegida para cada usuario. 
+Multigeográfico permite que una sola organización abarque varios geográficos de Office 365 Datacenter y le ofrece la posibilidad de almacenar datos de Office 365 para Exchange Online y OneDrive para la empresa, en-reposo, por usuario, en la geografía que elija. 
   
 Disponible GEOS: Asia Pacífico, Australia, Canadá, Europa Europea, India, Japón, Corea, Reino Unido, Estados Unidos. 
   
@@ -77,7 +77,7 @@ En la tabla siguiente se enumeran todas las características de la plataforma Of
   
 Para obtener información específica sobre los precios y características de los planes de varios tipos de empresas, vea las siguientes páginas:
   
-- Empresa: [Precios y planes de Office 365 Empresa](https://go.microsoft.com/fwlink/?LinkID=827896)
+- Empresa: [Microsoft 365 para planes y precios empresariales](https://go.microsoft.com/fwlink/?LinkID=827896)
     
 - Educación: [Precios y planes de Office 365 Educación](https://go.microsoft.com/fwlink/?LinkID=827897)
     
