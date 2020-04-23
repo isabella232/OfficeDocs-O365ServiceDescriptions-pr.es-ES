@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 327a33935e78288ec9c74174d5876a90805fcede
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2a81ed79a248e7d8880c9539775d8e9d7d1748dc
+ms.sourcegitcommit: 12e74155cfe2a17c66fd8ef8985d40ebcdff63e5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640008"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43790461"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -360,7 +360,7 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
 |Límite de frecuencia de mensajes|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
 
 > [!NOTE]
-> <sup>1</sup> una vez que se alcanza el límite de frecuencia de destinatarios, no se pueden enviar mensajes desde el buzón de correo hasta que el número de destinatarios que se enviaron mensajes en las últimas 24 horas descienda por debajo del límite. Por ejemplo, un usuario envía un mensaje de correo electrónico a 5.000 destinatarios a 09:00 AM, envía otro mensaje a 2, 1000 destinatarios a 10:00 A.M. y, a continuación, envía otro mensaje a los destinatarios 2.500 en el 11:00 AM, y alcanza el límite de 10.000 mensajes. El usuario no podrá volver a enviar mensajes hasta 09:00 A.M. del día siguiente.
+> <sup>1</sup> una vez que se alcanza el límite de frecuencia de destinatarios, no se pueden enviar mensajes desde el buzón de correo hasta que el número de destinatarios que se enviaron mensajes en las últimas 24 horas descienda por debajo del límite. Por ejemplo, un usuario envía un mensaje de correo electrónico a 5000 destinatarios a 09:00 AM, envía otro mensaje a 2500 destinatarios a la 10:00 AM y, a continuación, envía otro mensaje a 2500 destinatarios en el 11:00 AM, y alcanza el límite de 10.000 mensajes. El usuario no podrá volver a enviar mensajes hasta 09:00 A.M. del día siguiente.
 > <sup>2</sup> puede personalizar los límites de destinatarios entre 1 y 1000 para buzones existentes y para nuevos buzones de correo que se crearán en el futuro. Edite el límite de destinatarios de los buzones de correo existentes de forma individual o en masa mediante el centro de administración de Exchange y personalice la configuración predeterminada para los nuevos buzones a través de PowerShell remoto. Para obtener más información, vea [límites de destinatarios personalizables en Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228).
 
 #### <a name="sending-limits-across-standalone-options"></a>Límites de envío en las opciones independientes
@@ -375,7 +375,7 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
 
 > [!NOTE]
 > <sup>1</sup> Es el límite predeterminado para organizaciones de Exchange Server 2013. Los administradores pueden cambiar este valor para su organización.<br/>
-<sup>2</sup> una vez que se alcanza el límite de frecuencia de destinatarios, no se pueden enviar mensajes desde el buzón de correo hasta que el número de destinatarios que se enviaron mensajes en las últimas 24 horas descienda por debajo del límite. Por ejemplo, un usuario envía un mensaje de correo electrónico a 5.000 destinatarios a 09:00 AM, envía otro mensaje a 2.500 destinatarios a la 10:00 AM y, a continuación, envía otro mensaje a 2.500 destinatarios en el 11:00 AM, y alcanza el límite de 10.000 mensajes. El usuario no podrá volver a enviar mensajes hasta 09:00 A.M. del día siguiente.
+<sup>2</sup> una vez que se alcanza el límite de frecuencia de destinatarios, no se pueden enviar mensajes desde el buzón de correo hasta que el número de destinatarios que se enviaron mensajes en las últimas 24 horas descienda por debajo del límite. Por ejemplo, un usuario envía un mensaje de correo electrónico a 5000 destinatarios a 09:00 AM, envía otro mensaje a 2500 destinatarios a la 10:00 AM y, a continuación, envía otro mensaje a 2500 destinatarios en el 11:00 AM, y alcanza el límite de 10.000 mensajes. El usuario no podrá volver a enviar mensajes hasta 09:00 A.M. del día siguiente.
 
 ## <a name="reporting-and-message-trace-limits"></a>Límites de seguimiento de mensajes y creación de informes
 
