@@ -3,7 +3,7 @@
 ## [Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
 ### [Opciones de planes de Office 365](office-365-platform-service-description/office-365-plan-options.md)
 ### [Requisitos del sistema para Office 365](office-365-platform-service-description/office-365-system-requirements.md)
-### [Centro de seguridad y cumplimiento de Office 365](office-365-platform-service-description/office-365-securitycompliance-center.md)
+### [Centro de seguridad y cumplimiento](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Características del conjunto de aplicaciones de Office 365](office-365-platform-service-description/office-365-suite-features.md)
 ### [Office 365 Administración Pública de EE. UU.](office-365-platform-service-description/office-365-us-government/office-365-us-government.md)
 #### [GCC](office-365-platform-service-description/office-365-us-government/gcc.md)
@@ -102,7 +102,7 @@
 ### [Características de soporte técnico de Yammer](yammer-service-description/support-features-in-yammer.md)
 ## Descripciones del servicio de Microsoft 365
 ### [Descripción del servicio de Microsoft 365 Empresa Voice](microsoft-365-business-voice-service-description.md)
-### [Descripción del servicio Microsoft 365 Empresa](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
+### [Descripción del servicio de Microsoft 365 Empresa Premium](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
 ### [Licenciamiento de Microsoft 365 para pequeñas y medianas empresas](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
 ### [Instrucciones de licencias de Microsoft 365 para la seguridad y el cumplimiento](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)

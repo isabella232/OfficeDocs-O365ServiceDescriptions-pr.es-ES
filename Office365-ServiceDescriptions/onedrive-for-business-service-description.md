@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Consulte las características de OneDrive disponibles en cada plan.
-ms.openlocfilehash: 2919d32b3478e5cc5bb2207c300f6a0608f0dadd
-ms.sourcegitcommit: 83c602d9c498df5a2fe0095c6fb0a267c8a708b7
+ms.openlocfilehash: a44c426be19db30ccd2544ed58fc0cf614357ea8
+ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42609881"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43639878"
 ---
 # <a name="onedrive-service-description"></a>Descripción del servicio OneDrive
 
@@ -44,10 +44,10 @@ Para revisar los requisitos para la aplicación de sincronización de OneDrive y
 
 **1 TB**
 
-- Office 365 Empresa Essentials
-- Office 365 Empresa
-- Office 365 Empresa Premium
-- Office 365 ProPlus
+- Microsoft 365 Empresa Básico
+- Aplicaciones de Microsoft 365 para negocios
+- Microsoft 365 Empresa Estándar
+- Aplicaciones de Microsoft 365 para empresas
 - Office 365 Enterprise E1
 - Office 365 Administración Pública G1
 - Office 365 Empresa Essentials para ONG
@@ -55,7 +55,7 @@ Para revisar los requisitos para la aplicación de sincronización de OneDrive y
 - Office 365 para organizaciones sin ánimo de lucro E1
 - OneDrive para la Empresa Plan 1
 - SharePoint Online Plan 1
-- Microsoft 365 Empresa
+- Microsoft 365 Empresa Premium
 
 **Más de 1 TB a ilimitado**
  
