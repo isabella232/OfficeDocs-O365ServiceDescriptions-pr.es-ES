@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 0c83429e2efb5cc58ca6bfbd670dbc8566beba68
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 870e30135f7537f898f5550c6e45f5c8eb92b743
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639808"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914776"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -28,7 +28,7 @@ Para los fines de este artículo, un servicio a nivel de inquilino es un servici
 
 Para ver las opciones para conceder licencias a los usuarios con el fin de beneficiarse de las características de cumplimiento de Microsoft 365 a partir del 1 de abril de 2020, descargue la comparación detallada de licencias de cumplimiento de Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-## <a name="azure-active-directory-identity-protection"></a>Protección de identidad de Azure Active Directory
+## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
 Azure Active Directory Identity Protection (AADIP) es una característica del plan P2 de Azure Active Directory Premium que le permite detectar posibles vulnerabilidades que afectan a las identidades de su organización, configurar respuestas automáticas para detectar acciones sospechosas que estén relacionadas con las identidades de la organización, e investigar los incidentes sospechosos y tomar las medidas adecuadas para resolverlos.
 
@@ -175,7 +175,7 @@ La protección de la información ayuda a las organizaciones a descubrir, clasif
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
-Los usuarios pueden beneficiarse de la capacidad de aplicar manualmente etiquetas de confidencialidad a su contenido o de clasificar automáticamente su contenido.
+Los usuarios pueden beneficiarse de la capacidad de aplicar manualmente las etiquetas de confidencialidad a su contenido o de clasificar automáticamente su contenido.
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
@@ -314,7 +314,7 @@ Los administradores pueden activar los controles de caja de caja del cliente en 
 
 Microsoft proporciona solicitudes de aprobación del control de acceso de Lockbox del cliente para los usuarios de la organización.
 
-## <a name="privileged-access-management-in-office-365"></a>Privileged Access Management de Office 365
+## <a name="privileged-access-management-in-office-365"></a>Administración de acceso privilegiado en Office 365
 
 La [Administración de acceso con privilegios (PAM)](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-configuration) proporciona un control de acceso granular sobre las tareas de administración con privilegios en Office 365. Después de habilitar PAM, los usuarios tendrán que solicitar acceso justo a tiempo a través de un flujo de trabajo de aprobación con un ámbito muy limitado y con un límite de tiempo para completar las tareas elevadas y privilegiadas.
 

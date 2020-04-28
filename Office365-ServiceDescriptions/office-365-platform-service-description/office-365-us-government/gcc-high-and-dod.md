@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Obtenga información sobre los compromisos exclusivos y las diferencias de los entornos altos y DoD de Office 365 GCC en comparación con el entorno comercial de Office 365.
-ms.openlocfilehash: 8ad2ae12a58c494c72e044655e69679346118aee
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
+ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639058"
+ms.lasthandoff: 04/28/2020
+ms.locfileid: "43914786"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High y DoD
 
@@ -31,7 +31,7 @@ La descripción del servicio Office 365 US Government está diseñada para servi
 
 GCC High y DoD cumplen los requisitos de cumplimiento para las siguientes certificaciones y acreditaciones: 
   
-- Federal Risk and Authorization Management Program en una línea base moderada (FedRAMP moderado), incluidos esos controles de seguridad y mejoras de los controles como se indica en la publicación especial 800-53 del Instituto Nacional de Normas y Tecnología (NIST).
+- El programa federal de administración de riesgos y autorización en FedRAMP High, incluidos los controles de seguridad y las mejoras de control descritas en la publicación especial del Instituto Nacional de normas y tecnología (NIST) 800-53.
     
 - Controles de seguridad y mejoras de los controles para la Guía de requisitos de seguridad (SRG) sobre informática en la nube del Departamento de Defensa de Estados Unidos para la información hasta el nivel de impacto 5 (L5).
     
@@ -60,7 +60,7 @@ El personal de Office 365 no tiene acceso permanente a la producción de GCC alt
 
 Las suscripciones de los entornos altos y DoD de GCC incluyen las características principales de Exchange Online, SharePoint y Skype empresarial. Dada la mayor certificación y acreditación de la infraestructura, existen algunas diferencias de características entre las ofertas de Office Commercial Office 365 y las que están disponibles en GCC High y DoD.
   
-### <a name="exchange-online"></a>Exchange Online
+### <a name="exchange-online"></a>Exchange en línea
 
  La **compatibilidad de mensajería unificada de Exchange Online con IP-PBX local** es compatible con la integración de sistemas de IP-PBX local con mensajería unificada de Exchange online no se admite en las suscripciones alta y DoD de GCC. 
   
