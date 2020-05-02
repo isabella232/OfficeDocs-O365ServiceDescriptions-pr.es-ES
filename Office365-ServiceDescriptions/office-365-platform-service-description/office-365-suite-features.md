@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Las características enumeradas en este tema son una colección de herramientas basadas en Web que le ayudarán a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
-ms.openlocfilehash: b8e849c5f50ee9f289e057878bb25f1e4efa8109
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4cd440fc8b575769080a047ae0c9d02f8caaf91c
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639938"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002006"
 ---
 # <a name="office-365-suite-features"></a>Office 365 suite features
 
@@ -83,9 +83,9 @@ Microsoft Teams es un área de trabajo en Office 365 centrada en el chat que ayu
 
 Office Delve permite a los usuarios buscar y detectar contenido en Office 365 en función de información personalizada. Delve es la primera experiencia con tecnología de Office Graph. Para obtener más información sobre Office Delve, consulte [¿Qué es Office Delve?](https://go.microsoft.com/fwlink/?LinkId=511463). 
   
-## <a name="office-365-groups"></a>Grupos de Office 365
+## <a name="microsoft-365-groups"></a>Grupos de Microsoft 365
 
-Los grupos de Office 365 conectan a los usuarios con los compañeros, la información y las aplicaciones que más necesitan para trabajar. Los grupos son públicos de forma predeterminada para mejorar y facilitar la búsqueda de información y compartirla, pero los usuarios pueden crear también grupos privados para proteger información confidencial. Para saber más acerca de los grupos, vea [Grupos de Office 365](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Para obtener información acerca de límites de grupos, vea "¿Cómo administrar mis grupos?" en [Obtenga más información sobre los grupos de Office 365](https://go.microsoft.com/fwlink/?linkid=846714).
+Grupos de Microsoft 365 conecta a los usuarios con los colegas, la información y las aplicaciones que necesitan para hacer más cosas juntos. Los grupos son públicos de forma predeterminada para mejorar y facilitar la búsqueda de información y compartirla, pero los usuarios pueden crear también grupos privados para proteger información confidencial. Para obtener más información acerca de los grupos, consulte [grupos en Microsoft 365](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Para obtener información acerca de los límites de grupo, consulte "cómo administrar mis grupos" en [obtener información sobre los grupos de 365 de Microsoft](https://go.microsoft.com/fwlink/?linkid=846714).
   
 ## <a name="office-365-video"></a>Office 365 Video
 

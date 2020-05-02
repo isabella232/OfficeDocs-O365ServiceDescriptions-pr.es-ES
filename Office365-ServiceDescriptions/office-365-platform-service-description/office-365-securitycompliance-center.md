@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro &amp; de seguridad y cumplimiento está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-ms.openlocfilehash: 02c87e8fdaea848a7743b6ee010c3f2634cfe1c8
-ms.sourcegitcommit: 87c1b1cc9c02e5f446e382f1174cbbccad20196d
+ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43813393"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44001996"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -32,7 +32,7 @@ Para ver las opciones para conceder licencias a los usuarios con el fin de benef
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica**  |**Microsoft 365 empresa Basic**  |**Microsoft 365 Empresa Estándar**  |**Microsoft 365 Empresa Premium**  |**Office 365 Enterprise E1**, **Office 365 US Government G1**  |**Office 365 Enterprise E3**, **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US Government F3**|
 |[Acceso al centro de &amp; seguridad y cumplimiento](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
-|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |No   |No   |No|No   |Sí   |No   |
+|[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |No   |No   |No|No   |No   |Sí   |
 |[Administración de amenazas](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) , como filtrado de correo y antimalware |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
 |[Administración avanzada de amenazas](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), como el explorador de amenazas para las campañas de suplantación de identidad<sup>6</sup>  |No   |No   |No   |No   |No   |Sí   |No   |
 |[Caja de seguridad del cliente](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |No   |No   |No   |No   |No   |Sí   |No   |

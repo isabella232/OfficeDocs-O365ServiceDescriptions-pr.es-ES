@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project Online, que se suministra con Office 365, ofrece prácticas capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de carteras de proyectos prácticamente desde cualquier lugar y con cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: ac329a90e636b8adcdead13dbe30d562bd67eb39
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638738"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002337"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -193,7 +193,7 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 <sup>1</sup> requiere una suscripción comercial a Office o Microsoft 365.</br>
 <sup>dos</sup> tarjetas de Azure adquiridas por separado.</br>
 <sup>3</sup> hay disponible un informe para Project para la web y Project online mediante Power BI. Para ver, editar y crear informes se necesita una suscripción a Power BI Pro. Microsoft proporciona un conjunto de informes predefinidos de Power BI. Los usuarios pueden personalizar estos informes o crear informes adicionales con Power BI.</br> 
-<sup>4</sup> la creación de aplicaciones móviles de powerapps personalizadas que tienen acceso a Project para los datos Web requieren una suscripción de powerapps y una suscripción al plan de proyecto 3 o proyecto 5.</br>
+<sup>4</sup> la creación y el uso de aplicaciones móviles de powerapps personalizadas que tienen acceso a Project para los datos Web requieren una suscripción de powerapps y una suscripción al plan de proyecto 3 o proyecto 5.</br>
 <sup>5</sup> para automatizar e integrar los procesos empresariales con la automatización de la alimentación con Project para los datos Web es necesario disponer de una suscripción de potencia automatizada y una suscripción de plan de proyecto 3 o proyecto 5.</br>
 <sup>6</sup> las licencias de Project online para usuarios externos siguen la misma directiva que la de los usuarios internos. Cualquier interacción en un sitio de Project online requiere una suscripción a Plan 3 o proyecto 5 de proyecto.</br>
 <sup>7</sup> los usuarios con una suscripción a un plan de proyecto 3 o un plan 5 pueden enviar solicitudes de compromiso de recursos. No pueden revisar, entregar o aprobar solicitudes de participación de recursos.</br>

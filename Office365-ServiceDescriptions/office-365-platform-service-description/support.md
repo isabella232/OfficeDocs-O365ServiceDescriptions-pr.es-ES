@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Con cada suscripción de Microsoft Office 365 Enterprise, Empresa, Educación y Administración Pública, el soporte técnico de Microsoft proporciona soporte técnico, soporte de preventas, facturación y suscripciones en general. El soporte técnico está disponible en línea a través del centro de administración de Microsoft365 y por teléfono para las suscripciones de pago y de prueba. Para obtener más información, vea opciones de soporte técnico de Microsoft.
-ms.openlocfilehash: d0ec7daf88cc84a85984afd9b1794837e7ff586e
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 28989b81ea3a20e4654630db51fd1abbbce09e14
+ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639908"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "44002327"
 ---
 # <a name="support"></a>Soporte técnico
 
@@ -27,11 +27,11 @@ Con cada suscripción de Microsoft Office 365 Enterprise, Empresa, Educación y 
   
 Los administradores autorizados pueden usar el centro de administración de Microsoft 365 para enviar solicitudes de servicio en línea, obtener acceso a los números de teléfono de soporte técnico y ver todas las solicitudes de servicio abiertas y cerradas recientemente. Las solicitudes de servicio enviadas en el centro de administración se pueden volver a abrir hasta 14 días después de que se haya cerrado la solicitud. Para obtener instrucciones, consulte [ponerse en contacto con el soporte técnico de Microsoft 365 para empresas](https://docs.microsoft.com/Office365/Admin/contact-support-for-business-products).
   
-El equipo de soporte técnico de O365 soluciona únicamente los problemas relacionados con Office 365. Los problemas que se originan en las redes de los clientes se encuentran fuera de los límites de soporte técnico y, en estos casos, los clientes deben trabajar con su equipo de redes o con el [equipo de redes de Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) para obtener ayuda.
+El equipo de soporte técnico de Microsoft 365 soluciona solo los problemas relacionados con Microsoft 365 y Office 365. Los problemas que se originan en las redes de los clientes se encuentran fuera de los límites de soporte técnico y, en estos casos, los clientes deben trabajar con su equipo de redes o con el [equipo de redes de Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) para obtener ayuda.
   
 ## <a name="community-and-self-service-support-options"></a>Comunidad y opciones de soporte de autoservicio
 
-El soporte de autoservicio está disponible para todos los planes e incluye herramientas de solución de problemas y vídeos, artículos y vídeos de ayuda, así como foros y wikis en la [comunidad de Office 365](https://go.microsoft.com/fwlink/p/?LinkID=279811). Para obtener más información acerca de los recursos de soporte de autoservicio, vea la descripción del servicio de [ayuda y formación](help-and-training.md) .
+El soporte de autoservicio está disponible para todos los planes e incluye herramientas y vídeos de solución de problemas, artículos y vídeos de ayuda, así como foros y wikis en la [comunidad 365 de Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=279811). Para obtener más información acerca de los recursos de soporte de autoservicio, vea la descripción del servicio de [ayuda y formación](help-and-training.md) .
   
 ## <a name="pre-sales-support"></a>Soporte para preventas
 
@@ -201,4 +201,4 @@ Si ya adquirió licencias de Microsoft en un programa de licencias por volumen, 
 
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, consulte [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Para ver la disponibilidad de características entre planes, consulte la descripción del servicio de la [plataforma de Microsoft 365 y Office 365](office-365-platform-service-description.md).
