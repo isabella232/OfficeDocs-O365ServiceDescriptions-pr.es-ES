@@ -1,5 +1,5 @@
 ---
-title: Office 365 suite features
+title: Características de Microsoft 365 Suite
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -12,20 +12,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Las características enumeradas en este tema son una colección de herramientas basadas en Web que le ayudarán a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
-ms.openlocfilehash: 4cd440fc8b575769080a047ae0c9d02f8caaf91c
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: b91260202bb65287061c54e94380156cf7f19123
+ms.sourcegitcommit: 95b146eb31f1052422822be24509223ac9f94ea1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002006"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44022840"
 ---
-# <a name="office-365-suite-features"></a>Office 365 suite features
+# <a name="microsoft-365-suite-features"></a>Características de Microsoft 365 Suite
 
 Las características enumeradas en este tema son una colección de herramientas basadas en Web que le ayudarán a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
   
 ## <a name="microsoft-bookings"></a>Reservas de Microsoft
 
-Microsoft Bookings es una aplicación en línea y móvil para pequeñas empresas que proporcionan servicios a clientes por citas. Algunos ejemplos de estas empresas incluyen peluquerías, clínicas dentales, balnearios, despachos de abogados, proveedores de servicios financieros, asesores y talleres. Microsoft bookings está disponible para los clientes de Estados Unidos y Canadá que tienen una suscripción Microsoft 365 Business Standard. 
+Microsoft bookings es una aplicación móvil y en línea para los negocios que desea proporcionar servicios a los clientes de forma periódica. Algunos ejemplos de estas empresas son el Salons, las oficinas dentales, la spas, las empresas de abogados, los proveedores de servicios financieros, los consultores, los profesionales de la salud, las instituciones educativas y las tiendas automáticas. Microsoft bookings está disponible para los clientes de Estados Unidos y Canadá que tienen una suscripción a Microsoft 365 para empresas.
   
 Para obtener más información acerca de Microsoft Bookings, vaya a [publicar el calendario de negocios en línea con Microsoft bookings](https://support.office.com/en-us/article/Say-hello-to-Microsoft-Bookings-47403d64-a067-4754-9ae9-00157244c27d?ui=en-US&amp;rs=en-US&amp;ad=US).
 
@@ -41,11 +41,11 @@ El correo electrónico de informe se proporciona automáticamente a todos los us
 
 ## <a name="microsoft-power-automate"></a>Microsoft Power Automate
 
-Microsoft Power automatice permite automatizar flujos de trabajo entre aplicaciones. Puede utilizar Flow para conectar avisos por mensajería instantánea y de correo electrónico, sincronizar archivos entre aplicaciones, copiar archivos de un servicio a otro, recopilar datos de un servicio de una aplicación y almacenarlos en otro y mucho más. Las plantillas están disponibles para ayudarle a comenzar. Para obtener más información acerca de las capacidades de Flow y cómo usarlas, vaya al sitio web de [Microsoft Flow](https://flow.microsoft.com/en-us/).
+Microsoft Power automatice permite automatizar flujos de trabajo entre aplicaciones. Puede utilizar Flow para conectar avisos por mensajería instantánea y de correo electrónico, sincronizar archivos entre aplicaciones, copiar archivos de un servicio a otro, recopilar datos de un servicio de una aplicación y almacenarlos en otro y mucho más. Las plantillas están disponibles para ayudarle a comenzar. Para obtener más información sobre las funciones de flujo y cómo usarlas, vaya al [sitio web de Automated](https://preview.flow.microsoft.com/en-us/).
   
 ## <a name="microsoft-forms"></a>Microsoft Forms
 
-Microsoft Forms es una nueva parte de Office 365 Educación que permite crear de forma rápida y sencilla cuestionarios, encuestas, registros personalizados y mucho más. Al crear un cuestionario o un formulario, puede invitar a otros a que lo respondan desde cualquier navegador web o incluso desde dispositivos móviles. Cuando se envían los resultados, puede usar su sistema de análisis integrado para evaluar las respuestas. Los datos de formulario, como los resultados de cuestionarios, pueden exportarse fácilmente a Excel para un análisis adicional o para calificarlos. Para obtener más información, vea [¿Qué es Microsoft Forms?](https://support.office.com/en-us/forms).
+Microsoft Forms le permite crear de forma rápida y fácil cuestionarios personalizados, encuestas, cuestionarios, registros, etc. Al crear un cuestionario o un formulario, puede invitar a otros a que lo respondan desde cualquier navegador web o incluso desde dispositivos móviles. Cuando se envían los resultados, puede usar su sistema de análisis integrado para evaluar las respuestas. Los datos de formulario, como los resultados de cuestionarios, pueden exportarse fácilmente a Excel para un análisis adicional o para calificarlos. Para obtener más información, vea [¿Qué es Microsoft Forms?](https://support.office.com/en-us/forms).
   
 ## <a name="microsoft-graph-api"></a>API de Microsoft Graph
 
@@ -53,7 +53,7 @@ Use la API de Microsoft Graph para compilar de forma rápida aplicaciones que se
   
 ## <a name="microsoft-myanalytics"></a>Microsoft MyAnalytics
 
-Myanalytics proporciona información sobre dos de los factores clave en su productividad personal: Cómo dedica su tiempo y con quién lo gasta. Myanalytics examina sus patrones de trabajo cotidianos, encuentra áreas que podrían beneficiarse de su atención y le proporciona las herramientas para lograr un uso más meditado de su tiempo. Obtenga más información en [Microsoft myanalytics](https://products.office.com/business/myanalytics-personal-analytics) y [Microsoft myanalytics para administradores de Office 365](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins).
+Myanalytics proporciona información sobre dos de los factores clave en su productividad personal: Cómo dedica su tiempo y con quién lo gasta. Myanalytics examina sus patrones de trabajo cotidianos, encuentra áreas que podrían beneficiarse de su atención y le proporciona las herramientas para lograr un uso más meditado de su tiempo. Obtenga más información en [Microsoft myanalytics](https://products.office.com/business/myanalytics-personal-analytics) y [Microsoft myanalytics para administradores](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/mya-for-admins).
   
 ## <a name="microsoft-planner"></a>Microsoft Planner
 
@@ -61,11 +61,11 @@ Microsoft Planner es una herramienta que proporciona a los usuarios una forma vi
   
 ## <a name="microsoft-powerapps"></a>Microsoft PowerApps
 
-Microsoft PowerApps es un servicio de empresa que le ayuda a construir, integrar y compartir aplicaciones que funcionan en cualquier dispositivo rápidamente. PowerApps le permite utilizar conexiones integradas o compiladas por su compañía para conectar su aplicación con la nube y con los servicios locales, incluidos Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, bases de datos de Oracle y muchos más. Escriba una dirección de correo electrónico para compartir fácilmente PowerApps con compañeros de trabajo. Para obtener más información, vaya al sitio web de [Microsoft PowerApps](https://powerapps.microsoft.com/en-us/).
+Microsoft PowerApps es un servicio de empresa que le ayuda a construir, integrar y compartir aplicaciones que funcionan en cualquier dispositivo rápidamente. PowerApps le permite usar conexiones integradas o las creadas por su empresa para conectar su aplicación a los servicios locales y en la nube, incluidos Microsoft 365 y Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, bases de datos de Oracle y mucho más. Escriba una dirección de correo electrónico para compartir fácilmente PowerApps con compañeros de trabajo. Para obtener más información, vaya al sitio web de [Microsoft PowerApps](https://powerapps.microsoft.com/en-us/).
   
 ## <a name="microsoft-staffhub"></a>Microsoft StaffHub
 
-Microsoft StaffHub es una aplicación basada en la nube que permite a los trabajadores y administradores utilizan sus dispositivos móviles para administrar agendas y mantenerse en contacto. Los empleados pueden utilizar StaffHub para solicitar tiempo libre, cambiar turnos y comunicarse con otros empleados. Los empleados también pueden enviar mensajes directamente entre sí o a todo el equipo. Los administradores pueden utilizar StaffHub para enviar mensajes, crear agendas y enviar anuncios de la empresa y noticias de equipo. Para obtener más información acerca de StaffHub, vaya al sitio web de [Microsoft StaffHub ](https://staffhub.office.com/) y el [blog del equipo de Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/).
+Microsoft StaffHub es una aplicación basada en la nube que permite a los trabajadores y administradores utilizan sus dispositivos móviles para administrar agendas y mantenerse en contacto. Los empleados pueden utilizar StaffHub para solicitar tiempo libre, cambiar turnos y comunicarse con otros empleados. Los empleados también pueden enviar mensajes directamente entre sí o a todo el equipo. Los administradores pueden utilizar StaffHub para enviar mensajes, crear agendas y enviar anuncios de la empresa y noticias de equipo. Para obtener más información sobre StaffHub, vaya al [sitio web](https://staffhub.office.com/) de Microsoft StaffHub y al [blog del equipo de Microsoft 365](https://www.microsoft.com/en-us/microsoft-365/blog/2017/01/12/microsoft-staffhub-is-here/).
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -77,13 +77,13 @@ Microsoft Sway es una aplicación digital profesional para contar historias dise
   
 ## <a name="microsoft-teams"></a>Microsoft Teams
 
-Microsoft Teams es un área de trabajo en Office 365 centrada en el chat que ayuda a los miembros de equipo a ser más productivos. Microsoft Teams sirve como centro para el trabajo en equipo, ya que ofrece acceso instantáneo a conversaciones de chat, contenido y herramientas de Office 365 en una sola área de trabajo. SharePoint y OneNote están integrados y los miembros del equipo pueden trabajar en documentos de Office desde la aplicación. Aparte de los chats, Microsoft Teams también admite videollamadas y reuniones para permitir que Microsoft Teams se reúna en la vida, ya sea a petición o programada. Los miembros del equipo pueden colaborar fácilmente con varios equipos y buscar contactos, chats y archivos en cualquier momento. Microsoft Teams funciona en plataformas Windows, Mac, Web, Android y iOS. Para obtener más información, consulte [Ayuda de Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams todavía no está disponible en [Office 365 Germany](office-365-germany.md).
+Microsoft Teams es un área de trabajo centrada en chat que ayuda a los miembros del equipo a lograr más en conjunto. Microsoft Teams sirve como concentrador para el trabajo en equipo, lo que proporciona acceso instantáneo a conversaciones de chat, contenido y herramientas en un solo área de trabajo. SharePoint y OneNote están integrados y los miembros del equipo pueden trabajar en documentos de Office desde la aplicación. Aparte de los chats, Microsoft Teams también admite videollamadas y reuniones para permitir que Microsoft Teams se reúna en la vida, ya sea a petición o programada. Los miembros del equipo pueden colaborar fácilmente con varios equipos y buscar contactos, chats y archivos en cualquier momento. Microsoft Teams funciona en plataformas Windows, Mac, Web, Android y iOS. Para obtener más información, consulte [Ayuda de Microsoft Teams](https://go.microsoft.com/fwlink/?linkid=834413). Teams todavía no está disponible en [Office 365 Germany](office-365-germany.md).
   
 ## <a name="office-delve"></a>Office Delve
 
-Office Delve permite a los usuarios buscar y detectar contenido en Office 365 en función de información personalizada. Delve es la primera experiencia con tecnología de Office Graph. Para obtener más información sobre Office Delve, consulte [¿Qué es Office Delve?](https://go.microsoft.com/fwlink/?LinkId=511463). 
+Office Delve permite a los usuarios buscar y descubrir contenido en Microsoft 365 basándose en información personalizada. Delve es la primera experiencia con tecnología de Office Graph. Para obtener más información sobre Office Delve, consulte [¿Qué es Office Delve?](https://go.microsoft.com/fwlink/?LinkId=511463). 
   
-## <a name="microsoft-365-groups"></a>Grupos de Microsoft 365
+## <a name="microsoft-365-groups"></a>Grupos de Microsoft 365
 
 Grupos de Microsoft 365 conecta a los usuarios con los colegas, la información y las aplicaciones que necesitan para hacer más cosas juntos. Los grupos son públicos de forma predeterminada para mejorar y facilitar la búsqueda de información y compartirla, pero los usuarios pueden crear también grupos privados para proteger información confidencial. Para obtener más información acerca de los grupos, consulte [grupos en Microsoft 365](https://support.office.com/en-US/Article/Find-help-about-Groups-in-Office-365-7a9b321f-b76a-4d53-b98b-a2b0b7946de1). Para obtener información acerca de los límites de grupo, consulte "cómo administrar mis grupos" en [obtener información sobre los grupos de 365 de Microsoft](https://go.microsoft.com/fwlink/?linkid=846714).
   
@@ -97,10 +97,10 @@ Bloc de notas de clase forma parte de OneNote y está disponible para Office 365
 
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
-Microsoft Kaizala es una aplicación de administración de trabajo móvil sencilla y segura, que aporta capacidades únicas a Microsoft 365, con su capacidad para conectarse y atraer a personas tanto dentro como fuera del directorio de una organización (incluidos los trabajadores contractuales, proveedores, Partners, proveedores, clientes y ciudadanos) mediante [tipos de grupo](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)grandes y flexibles. El modelo de directorio abierto de Kaizala permite la identidad basada en números de teléfono para facilitar la incorporación y una experiencia de usuario sencilla para la administración de trabajos y mensajería. La aplicación móvil de Kaizala permite a los usuarios enviar mensajes instantáneos y datos adjuntos como imágenes, documentos, vídeos, audio y mucho más, así como usar tarjetas de acción para encuestas, sondeos, asignaciones de trabajo, anuncios, entrenamientos y mucho más. [Kaizala está disponible con Office 365](https://products.office.com/en/business/microsoft-kaizala) y funciona en iPhone y Android. Para obtener más información, vaya al [sitio web de Kaizala](https://products.office.com/en/business/microsoft-kaizala). 
+Microsoft Kaizala es una aplicación de administración de trabajo móvil sencilla y segura, que aporta capacidades únicas a Microsoft 365, con su capacidad para conectarse y atraer a personas tanto dentro como fuera del directorio de una organización (incluidos los trabajadores contractuales, proveedores, Partners, proveedores, clientes y ciudadanos) mediante [tipos de grupo](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710)grandes y flexibles. El modelo de directorio abierto de Kaizala permite la identidad basada en números de teléfono para facilitar la incorporación y una experiencia de usuario sencilla para la administración de trabajos y mensajería. La aplicación móvil de Kaizala permite a los usuarios enviar mensajes instantáneos y datos adjuntos como imágenes, documentos, vídeos, audio y mucho más, así como usar tarjetas de acción para encuestas, sondeos, asignaciones de trabajo, anuncios, entrenamientos y mucho más. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) funciona en iPhone y Android. Para obtener más información, vaya al [sitio web de Kaizala](https://products.office.com/en/business/microsoft-kaizala).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características en los planes de Office 365, consulte Descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description.md).
+Para ver la disponibilidad de características entre planes, consulte la descripción del servicio de la [plataforma de Microsoft 365 y Office 365](office-365-platform-service-description.md).
   
 
