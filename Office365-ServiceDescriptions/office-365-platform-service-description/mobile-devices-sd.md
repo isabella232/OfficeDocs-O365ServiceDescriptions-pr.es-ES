@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: Muchos teléfonos móviles, tabletas y otros dispositivos móviles se pueden usar con Microsoft Office 365.
-ms.openlocfilehash: fa168b8074c86dde99cf761986d0a2df3ca35ffd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: b06c9769841cca8f08ff2e8dfa9abc16bde7bb72
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262913"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045022"
 ---
-# <a name="mobile-devices-sd"></a><span data-ttu-id="9dd25-103">Dispositivos móviles [SD]</span><span class="sxs-lookup"><span data-stu-id="9dd25-103">Mobile devices [SD]</span></span>
+# <a name="mobile-devices-sd"></a><span data-ttu-id="ff4ee-103">Dispositivos móviles [SD]</span><span class="sxs-lookup"><span data-stu-id="ff4ee-103">Mobile devices [SD]</span></span>
 
-<span data-ttu-id="9dd25-104">Muchos teléfonos móviles, tabletas y otros dispositivos móviles se pueden usar con Microsoft Office 365.</span><span class="sxs-lookup"><span data-stu-id="9dd25-104">Many mobile phones, tablets, and other mobile devices can be used with Microsoft Office 365.</span></span> 
+<span data-ttu-id="ff4ee-104">Muchos teléfonos móviles, tabletas y otros dispositivos móviles se pueden usar con Microsoft Office 365.</span><span class="sxs-lookup"><span data-stu-id="ff4ee-104">Many mobile phones, tablets, and other mobile devices can be used with Microsoft Office 365.</span></span> 
   
-- <span data-ttu-id="9dd25-105">Para obtener información sobre los dispositivos móviles específicos, vea: [Comparar el funcionamiento de varios dispositivos móviles con Office 365](https://go.microsoft.com/fwlink/p/?LinkId=282337).</span><span class="sxs-lookup"><span data-stu-id="9dd25-105">For information about specific mobile devices, see: [Compare how mobile devices work with Office 365](https://go.microsoft.com/fwlink/p/?LinkId=282337).</span></span>
+- <span data-ttu-id="ff4ee-105">Para obtener información sobre los dispositivos móviles específicos, vea: [Comparar el funcionamiento de varios dispositivos móviles con Office 365](https://go.microsoft.com/fwlink/p/?LinkId=282337).</span><span class="sxs-lookup"><span data-stu-id="ff4ee-105">For information about specific mobile devices, see: [Compare how mobile devices work with Office 365](https://go.microsoft.com/fwlink/p/?LinkId=282337).</span></span>
     
-- <span data-ttu-id="9dd25-106">Para obtener información sobre el uso de correo electrónico en dispositivos móviles, vea la descripción del servicio de [dispositivos móviles y clientes](../exchange-online-service-description/clients-and-mobile-devices.md) .</span><span class="sxs-lookup"><span data-stu-id="9dd25-106">For information about using email on mobile devices, see the [Clients and mobile devices](../exchange-online-service-description/clients-and-mobile-devices.md) service description.</span></span> 
+- <span data-ttu-id="ff4ee-106">Para obtener información sobre el uso de correo electrónico en dispositivos móviles, vea la descripción del servicio de [dispositivos móviles y clientes](../exchange-online-service-description/clients-and-mobile-devices.md) .</span><span class="sxs-lookup"><span data-stu-id="ff4ee-106">For information about using email on mobile devices, see the [Clients and mobile devices](../exchange-online-service-description/clients-and-mobile-devices.md) service description.</span></span> 
     
-- <span data-ttu-id="9dd25-107">Para obtener información sobre la administración de dispositivos móviles para Office 365, consulte [Información general sobre la administración de dispositivos móviles (MDM) para Office 365](https://go.microsoft.com/fwlink/?linkid=808602).</span><span class="sxs-lookup"><span data-stu-id="9dd25-107">For information about Mobile Device Management for Office 365, see [Overview of Mobile Device Management (MDM) for Office 365](https://go.microsoft.com/fwlink/?linkid=808602).</span></span>
+- <span data-ttu-id="ff4ee-107">Para obtener información sobre la administración de dispositivos móviles para Office 365, consulte [Información general sobre la administración de dispositivos móviles (MDM) para Office 365](https://go.microsoft.com/fwlink/?linkid=808602).</span><span class="sxs-lookup"><span data-stu-id="ff4ee-107">For information about Mobile Device Management for Office 365, see [Overview of Mobile Device Management (MDM) for Office 365](https://go.microsoft.com/fwlink/?linkid=808602).</span></span>
     
-## <a name="feature-availability"></a><span data-ttu-id="9dd25-108">Disponibilidad de características</span><span class="sxs-lookup"><span data-stu-id="9dd25-108">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="ff4ee-108">Disponibilidad de características</span><span class="sxs-lookup"><span data-stu-id="ff4ee-108">Feature availability</span></span>
 
-<span data-ttu-id="9dd25-109">Para ver la disponibilidad de características en los planes de Office 365, consulte Descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="9dd25-109">To view feature availability across Office 365 plans, see [Office 365 platform service description](office-365-platform-service-description.md).</span></span>
+<span data-ttu-id="ff4ee-109">Para ver la disponibilidad de características en los planes de Microsoft 365 y Office 365, consulte la descripción del servicio de la [plataforma microsoft 365 y office 365](office-365-platform-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="ff4ee-109">To view feature availability across Microsoft 365 and Office 365 plans, see [Microsoft 365 and Office 365 platform service description](office-365-platform-service-description.md).</span></span>
   
 
