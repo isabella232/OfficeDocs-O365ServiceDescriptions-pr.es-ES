@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 proporciona los siguientes recursos de ayuda y aprendizaje.
-ms.openlocfilehash: 10d08047ae4e96ef5fac87bfe0a0f1f433e95014
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 34f840a23b197ae5268b6dc1208fb8052d984ffd
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262893"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045032"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -27,7 +27,7 @@ Microsoft Office 365 proporciona los siguientes recursos de ayuda y aprendizaje.
 
 Los artículos y vídeos de ayuda están disponibles en cualquier vínculo de ayuda en línea del servicio, incluido el icono de ayuda de la barra de navegación superior del portal de Office 365 y del centro de administración de Microsoft 365. También puede buscar en toda la ayuda de Office 365 en [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
-## <a name="training"></a>Formación
+## <a name="training"></a>Aprendizaje
 
 La formación está disponible en vídeos, seminarios web y clases que permiten certificación. Para más información, visite:
   
@@ -149,4 +149,4 @@ Los recursos de capacitación y ayuda están disponibles en los siguientes idiom
    
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes de Office 365, las opciones independientes y las soluciones locales, consulte [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Microsoft 365 and Office 365 Platform Service Description](office-365-platform-service-description.md).

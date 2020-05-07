@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vea qué características de SharePoint están disponibles en cada plan.
-ms.openlocfilehash: 52ae355158a5c801500c85b6ce6f796762503673
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e24e8cb36aee1121381617279903ca1ac686e58b
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639848"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044792"
 ---
 # <a name="sharepoint-service-description"></a>Descripción del servicio SharePoint
 
@@ -68,7 +68,7 @@ A menos que se indique lo contrario, las siguientes características están disp
 - [Distribución de aplicaciones: Catálogo de aplicaciones](/sharepoint/use-app-catalog)
 - [Distribución de aplicaciones: AppSource](https://appsource.microsoft.com/marketplace/apps?page=1&src=office&product=office%3Bsharepoint)
 - [Servicios de conectividad empresarial (BCS)](/sharepoint/manage-business-connectivity-service-applications). Requiere SharePoint plan 2, Office 365 Enterprise E3 u Office 365 Enterprise E5
-- [Modelos de objetos de cliente para código administrado](/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint#client-object-models-for-managed-code)
+- [Modelos de objetos de cliente para código controlado](/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint#client-object-models-for-managed-code)
 - [Sitio para desarrolladores](/sharepoint/dev/sp-add-ins/create-a-developer-site-on-an-existing-office-365-subscription)
 - [InfoPath Forms Services](/office/client-developer/infopath/infopath-home). Requiere SharePoint plan 2, Office 365 Enterprise E3 u Office 365 Enterprise E5
 - [OAuth](/sharepoint/dev/sp-add-ins/creating-sharepoint-add-ins-that-use-low-trust-authorization). Es posible que algunos proveedores estén bloqueados en su país o región.
@@ -76,13 +76,13 @@ A menos que se indique lo contrario, las siguientes características están disp
 - [SharePoint Designer 2013 (para sitios clásicos)](https://support.office.com/article/66bf58fe-daeb-4fa6-ae84-fd600e0005c1). No disponible para trabajadores de Firstline.
 - [SharePoint Framework (SPFx)](/sharepoint/dev/spfx/sharepoint-framework-overview)
 - [Diseños de sitio y scripts de sitio](/sharepoint/dev/declarative-customization/site-design-overview)
-- [Temas del sitio](/sharepoint/dev/declarative-customization/site-theming/sharepoint-site-theming-overview)
+- [Creación de temas de sitio](/sharepoint/dev/declarative-customization/site-theming/sharepoint-site-theming-overview)
 
 Para obtener información general sobre las opciones de personalización, vea [Personalización de SharePoint](/sharepoint/extend-and-develop).
 
 Para obtener más información acerca de la disponibilidad de Microsoft Power apps y de la automatización de energía, consulte las preguntas más frecuentes sobre las [licencias Power apps y](/power-platform/admin/powerapps-flow-licensing-faq)Power.
 
-Para obtener más información sobre la disponibilidad de Microsoft Graph, vea la descripción del servicio de la [plataforma 365 de Office](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans)
+Para obtener más información sobre la disponibilidad de Microsoft Graph, consulte la descripción del servicio de la [plataforma microsoft 365 y Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description#feature-availability-across-office-365-plans).
 
 ## <a name="it-admin-features"></a>Características de administración de ti
 
@@ -203,6 +203,6 @@ A menos que se indique lo contrario, las siguientes características están disp
 - [Centro de búsqueda (búsqueda clásica)](/sharepoint/manage-search-center)
 - [Esquema de búsqueda (búsqueda clásica y moderna)](/sharepoint/manage-search-schema)
 
-Para obtener información sobre Delve, vea la [Descripción del servicio de la plataforma 365 de Office](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
+Para obtener información sobre Delve, vea la descripción del servicio de la [plataforma Microsoft 365 y Office 365](/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description). 
 
 

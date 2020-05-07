@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5cfdb7c0-77f5-41db-8977-1ee8cbe7f619
 description: Microsoft Office 365 cumple con los estándares y regulaciones de la industria y está diseñado para ayudarle a cumplir los requisitos normativos de su empresa. Para obtener más información, vea ofertas de cumplimiento.
-ms.openlocfilehash: 71caa7bdb60410bbebce86c60564438d37d47e55
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: a88255e948deab39e10116463130e2e8087abec5
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262873"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044782"
 ---
 # <a name="compliance"></a>Cumplimiento
 
@@ -33,7 +33,7 @@ Microsoft Office 365 cumple con los estándares y regulaciones de la industria y
   
 ## <a name="industry-certifications"></a>Certificaciones de la industria
 
-Para ayudar a las organizaciones a cumplir con los requisitos nacionales, regionales y de la industria que rigen la recopilación y el uso de datos de personas, Office 365 cumple o puede ayudar a su organización a cumplir el conjunto más completo de gobierno o requisitos de terceros, certificaciones y atestaciones de cualquier proveedor de servicios en la nube:
+Para ayudar a las organizaciones a cumplir con los requisitos nacionales, regionales y de la industria que rigen la recopilación y el uso de datos de personas, Office 365 se ajusta o puede ayudar a su organización a cumplir con el conjunto más completo de requisitos gubernamentales o de terceros, certificaciones y atestaciones de cualquier proveedor de servicios en la nube:
   
 - Argentina PDPA
     
@@ -111,5 +111,5 @@ Además, tenga en cuenta las siguientes preguntas para PCI-DSS:
     
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características en los planes de Office 365, consulte Descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en los planes de Office 365, consulte la descripción del servicio de la [plataforma 365 y office 365 de Microsoft](office-365-platform-service-description.md).
   

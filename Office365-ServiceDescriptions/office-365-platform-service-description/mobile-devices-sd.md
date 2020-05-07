@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a3ed4aa6-aab3-474f-909d-5f24f98128a3
 description: Muchos teléfonos móviles, tabletas y otros dispositivos móviles se pueden usar con Microsoft Office 365.
-ms.openlocfilehash: fa168b8074c86dde99cf761986d0a2df3ca35ffd
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: b06c9769841cca8f08ff2e8dfa9abc16bde7bb72
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262913"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44045022"
 ---
 # <a name="mobile-devices-sd"></a>Dispositivos móviles [SD]
 
@@ -31,6 +31,6 @@ Muchos teléfonos móviles, tabletas y otros dispositivos móviles se pueden usa
     
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características en los planes de Office 365, consulte Descripción del servicio de la [plataforma 365 de Office](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en los planes de Microsoft 365 y Office 365, consulte la descripción del servicio de la [plataforma microsoft 365 y office 365](office-365-platform-service-description.md).
   
 

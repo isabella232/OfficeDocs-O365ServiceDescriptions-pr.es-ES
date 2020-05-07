@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer es la mejor red social de su clase, segura y privada empresarial. Yammer faculta a los empleados para que sean más productivos y exitosos, ya que les permite colaborar fácilmente, tomar decisiones con mayor rapidez y organizarse a sí mismos en Teams para realizar cualquier desafío de la empresa. Se trata de una nueva forma de trabajar que lógicamente impulsa la alineación y la agilidad de los negocios, reduce los tiempos de ciclo, implica a los empleados y mejora las relaciones con clientes y socios.
-ms.openlocfilehash: 65a8dc8e6c407278e395a1a9506c9ac9a272cd4c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 0360d5a4ca4f761e1eac3775d981111101f72f3c
+ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640188"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44044822"
 ---
 # <a name="yammer-service-description"></a>Descripción del servicio Yammer
 
@@ -44,7 +44,7 @@ Yammer está disponible con los siguientes planes:
 |[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |Red social empresarial con características avanzadas de seguridad, administración e integración.  <br/> |
    
 > [!NOTE]
-> Las características y directivas descritas en la descripción del servicio de la [plataforma de Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) no se aplican al servicio Yammer. 
+> Las características y directivas descritas en [Microsoft 365 y la descripción del servicio de la plataforma Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) no se aplican al servicio Yammer. 
   
 ## <a name="yammer-enterprise-service-communications-policy"></a>Directiva de comunicaciones de servicio de Yammer Enterprise
 <a name="YammerCommsPolicy"> </a>
