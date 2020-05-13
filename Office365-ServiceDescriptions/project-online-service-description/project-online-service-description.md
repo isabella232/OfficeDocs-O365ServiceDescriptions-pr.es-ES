@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project Online, que se suministra con Office 365, ofrece prácticas capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de carteras de proyectos prácticamente desde cualquier lugar y con cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 2b54ea0aa1aab30e8c21e6e0ccdbedc92bd8b10e
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 0ab37090e6c31603665c0a457eced04db8f36bfb
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002337"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213882"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -43,13 +43,13 @@ El proyecto para la web está disponible a través de tres suscripciones: Plan d
 
 ### <a name="project-online"></a>Project Online
  
-Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project online proporciona capacidades de administración de proyectos eficaces para planear, priorizar y administrar proyectos e inversiones&mdash;de cartera de proyectos desde prácticamente cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
+Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project online proporciona capacidades de administración de proyectos eficaces para planear, priorizar y administrar proyectos e inversiones &mdash; de cartera de proyectos desde prácticamente cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
 
 Project online se basa en la plataforma de SharePoint y almacena los datos en el almacén de datos de SharePoint.
 
 Project online está disponible a través de dos suscripciones: Plan de proyecto 3 y plan de proyecto 5. Las características enumeradas en la sección [características de Project online](#project-online-features) interactúan solo con los datos del almacén de datos de SharePoint de Project online.
 
-La funcionalidad de integrantes del grupo para Project online está disponible a través de una suscripción de Project online Essentials. Project online Essentials es una suscripción de *complemento*a un integrante del grupo para clientes que tienen suscripciones plan de proyecto 3 o plan 5 de proyecto. Proporciona a los miembros del equipo una interfaz web para realizar actualizaciones de tareas y de tiempo en los proyectos administrados en Project online.
+La funcionalidad de integrantes del grupo para Project online está disponible a través de una suscripción de Project online Essentials. Project online Essentials es una suscripción de *complemento*a un integrante   del grupo para clientes que tienen suscripciones plan de proyecto 3 o plan 5 de proyecto. Proporciona a los miembros del equipo una interfaz web para realizar actualizaciones de tareas y de tiempo en los proyectos administrados en Project online.
 
 Los integrantes del grupo con Project online Essentials pueden realizar las siguientes funciones de Project online:
 
@@ -152,7 +152,7 @@ Las características que se enumeran en esta sección interactúan solo con los 
 |Aprobaciones del parte de horas | Los integrantes del grupo pueden enviar partes de horas para su aprobación. Los jefes de recursos y los supervisores pueden revisar, aprobar y rechazar partes de horas enviados. | Sí | Sí |
 |Configuración del período no laborable | Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no laborables a la programación de su proyecto. | No | Sí |
 |**Colaboración** ||||
-|Attachments | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
+|Datos adjuntos | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
 |Miembros del equipo externo |Colaborar con personas de fuera de la organización al concederles acceso para ver e interactuar con sus proyectos, tareas y documentos. <sup>6</sup> | Sí | Sí |
 |Sitios del proyecto | Crear y personalizar un concentrador para la colaboración y los documentos de un proyecto. | Sí | Sí |
 Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí |
@@ -248,9 +248,7 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 ## <a name="service-considerations"></a>Consideraciones sobre el servicio
 
 > [!NOTE]
-> - El proyecto de Francia &ndash; y Corea del sur para la web no está disponible actualmente. Estamos trabajando en entregar el proyecto para la web en su área y le informaremos de su disponibilidad a través de los canales de comunicación que se indican a continuación.
-> - El &ndash; proyecto de educación para la web estará disponible próximamente a nuestros clientes de educación. Hay un período de tiempo exacto pendiente.
-> - GCC, GCC High, DoD &ndash; en este momento, proyecto para la web no está disponible para GCC, GCC High y DoD. Estamos trabajando en la entrega de proyecto para la web, pero actualmente no puede compartir un plazo de trabajo en firme.
+> El proyecto para la web no está disponible actualmente para GCC, GCC High y DoD. Estamos trabajando en entregar Project para la web, pero no puede compartir un plazo de trabajo en firme en este momento.
 
 ### <a name="licensing-considerations"></a>Consideraciones sobre licencias
 
@@ -288,7 +286,7 @@ Project para la web tiene algunas limitaciones, que se describen en la siguiente
 |Máx. duración de la tarea de Resumen | 3650 días (10 años) |
 |Máx. recursos que se pueden asignar a una tarea | 20 recursos |
 |Intervalo de fechas admitido para la tarea | 1/1/1984 &ndash; 12/31/2149 |
-|**Proyecto** ||
+|**Project** ||
 |Máx. total de tareas para el proyecto | 500 |
 |Máx. duración total del proyecto | 3650 días (10 años) |
 |Máx. recursos totales del proyecto | 150 |

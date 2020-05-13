@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 2a81ed79a248e7d8880c9539775d8e9d7d1748dc
-ms.sourcegitcommit: 12e74155cfe2a17c66fd8ef8985d40ebcdff63e5
+ms.openlocfilehash: 8dec4101dae6af37e4001481d6651fac959b60c6
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43790461"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213872"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -74,7 +74,7 @@ Los límites de Microsoft Exchange Online pertenecen a una de las categorías si
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Límite de listas de direcciones|1000|1000|1000|1000|1000|1000|
 |Límite de libretas de direcciones sin conexión (OAB)|250|250|250|250|250|250|
 |Límite de directivas de libreta de direcciones (ABP)|250|250|250|250|250|250|
@@ -101,7 +101,7 @@ El espacio de almacenamiento del buzón disponible para un usuario está determi
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Buzones de usuario|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
 |Buzones<sup>de archivo 7, 8</sup>|50 GB|50 GB|50 GB|Ilimitado<sup>1</sup>|Unlimited<sup>1</sup>|No disponible<sup>4</sup>|
 |Buzones compartidos<sup>10</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2,9</sup>|50 GB<sup>2,9</sup>|50 GB<sup>2</sup>|
@@ -142,7 +142,7 @@ Exchange Online ofrece tres tipos de notificaciones cuando el buzón de un usuar
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Advertencia|49 GB|49 GB|49 GB|98 GB|98 GB|1,96 GB|
 |Prohibir envío|49,5 GB|49,5 GB|49,5 GB|99 GB|99 GB|1,98 GB|
 |Prohibir envío y recepción|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
@@ -189,7 +189,7 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Número máximo de mensajes por carpeta de buzón de correo|1 millón|1 millón|1 millón|1 millón|1 millón|1 millón|
 |Advertencia de número de mensajes por carpeta de buzón de correo|900,000|900,000|900,000|900,000|900,000|900,000|
 |Número máximo de mensajes por carpeta de la carpeta Elementos recuperables|3 millones|3 millones|3 millones|3 millones|3 millones|3 millones|
@@ -261,7 +261,7 @@ Los siguientes límites se aplican a todos los mensajes de correo electrónico.
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Límite de tamaño de mensaje - Outlook|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
 |Límite de tamaño de mensaje - OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|
 |Límite de tamaño de mensaje - Outlook para Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
@@ -353,7 +353,7 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Límite de frecuencia de destinatario<sup>1</sup>|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|
 |Límite de destinatarios<sup>2</sup>|Personalizable de hasta 1000 destinatarios|Personalizable de hasta 1000 destinatarios|Personalizable de hasta 1000 destinatarios|Personalizable de hasta 1000 destinatarios|Personalizable de hasta 1000 destinatarios|Personalizable de hasta 1000 destinatarios|
 |Límite de direcciones proxy de destinatarios|400|400|400|400|400|400|
@@ -391,11 +391,14 @@ Estos límites controlan el tiempo durante el cual es posible obtener acceso a l
 
 - **Período de retención de la carpeta correo no deseado**: el número máximo de días que los elementos pueden permanecer en la carpeta correo electrónico no deseado antes de que se eliminen automáticamente.
 
+> [!NOTE]
+> Un buzón de usuario eliminado temporalmente &mdash; un buzón eliminado mediante el centro de administración de Microsoft 365 o el cmdlet Remove-Mailbox en Exchange Online PowerShell y que todavía se encuentra en la papelera de reciclaje de Azure Active Directory &mdash; se puede recuperar en un plazo de 30 días.
+
 ### <a name="retention-limits"></a>Límites de retención
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Período de retención de la carpeta Elementos eliminados|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|
 |Período de retención de los elementos quitados de la carpeta Elementos eliminados|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|
 |Período de retención de la carpeta Correo no deseado|30 días|30 días|30 días|30 días|30 días|30 días|
@@ -429,12 +432,12 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Número máximo de miembros de un grupo de distribución<sup>1</sup>|100 000 miembros|100 000 miembros|100 000 miembros|100 000 miembros|100 000 miembros|100 000 miembros|
 |Límite de envío de mensajes a un grupo de distribución grande|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
 |Tamaño máximo de mensaje para grupos de distribución con entre 5 000 y 99 999 miembros.|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Tamaño máximo de mensaje para grupos de distribución con 100 000 miembros.|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |10 |10 |
+|Número máximo de propietarios de un grupo de distribución|10  |10  |10  |10  |10  |10  |
 |Número máximo de grupos que un usuario puede crear|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -447,7 +450,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |**Característica**|**Exchange Server 2013**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Número máximo de miembros de un grupo de distribución|100 000 miembros<sup>1</sup>|100 000 miembros|100 000 miembros|100 000 miembros|
 |Límite de envío de mensajes a un grupo de distribución grande|5000 o más miembros<sup>1</sup>|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
-|Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |
+|Número máximo de propietarios de un grupo de distribución|10  |10  |10  |10  |
 |Número máximo de grupos que un usuario puede crear|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
@@ -479,7 +482,7 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Número máximo de reglas del diario|300 reglas|300 reglas|300 reglas|300 reglas|300 reglas|300 reglas|
 |Número máximo de reglas de transporte|300 reglas|300 reglas|300 reglas|300 reglas|300 reglas|300 reglas|
 |Tamaño máximo de una regla de transporte individual|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
@@ -522,7 +525,7 @@ Durante períodos de gran actividad, algunos remitentes no recibirán mensajes d
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Tamaño máximo de buzón de correo de arbitraje|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
 |Número máximo de moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|
 |Caducidad de mensajes en espera de ser moderados|2 días|2 días|2 días|2 días|2 días|2 días|
@@ -553,7 +556,7 @@ Los siguientes límites se aplican a Microsoft Exchange ActiveSync, un protocolo
 
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Business Standard**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**Característica**|**Microsoft 365 empresa Basic**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Límite de dispositivos de Exchange ActiveSync|100|100|100|100|100|100|
 |Límite de eliminación de dispositivos de Exchange ActiveSync|20|20|20|20|20|20|
 

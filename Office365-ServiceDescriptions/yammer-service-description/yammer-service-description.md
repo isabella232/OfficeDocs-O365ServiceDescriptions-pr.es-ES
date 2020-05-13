@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Yammer es la mejor red social de su clase, segura y privada empresarial. Yammer faculta a los empleados para que sean más productivos y exitosos, ya que les permite colaborar fácilmente, tomar decisiones con mayor rapidez y organizarse a sí mismos en Teams para realizar cualquier desafío de la empresa. Se trata de una nueva forma de trabajar que lógicamente impulsa la alineación y la agilidad de los negocios, reduce los tiempos de ciclo, implica a los empleados y mejora las relaciones con clientes y socios.
-ms.openlocfilehash: 0360d5a4ca4f761e1eac3775d981111101f72f3c
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: 02a39b94179a175a72e53c6a1d9e3ccacfca3ea3
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044822"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213682"
 ---
 # <a name="yammer-service-description"></a>Descripción del servicio Yammer
 
@@ -25,14 +25,11 @@ Yammer es la mejor red social de su clase, segura y privada empresarial. Yammer 
   
 Para obtener una lista de los planes que incluyen Yammer, consulte [Microsoft Service Families and Plans](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
   
-Para comparar las características entre planes, consulte [comparar Microsoft 365 para planes de negocios](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
-  
-> [!TIP]
-> Puede exportar, guardar e imprimir páginas en las descripciones de servicios de Microsoft. Obtenga más información sobre cómo [exportar varias páginas](https://go.microsoft.com/fwlink/?LinkId=403349). 
+Para comparar las características de los planes, consulte [herramientas eficaces para apoyar a su empresa](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
 ## <a name="system-requirements"></a>Requisitos del sistema
 
-Para conocer los requisitos del sistema para Office 365, el servicio de suscripción mensual disponible para organizaciones empresariales, educativas y gubernamentales, consulte [requisitos del sistema](https://products.office.com/office-system-requirements/#Office365forBEG)para la 365 de Microsoft.
+Para conocer los requisitos del sistema para Office 365, el servicio de suscripción mensual disponible para organizaciones empresariales, educativas y gubernamentales, consulte [los recursos de Microsoft 365 y Office](https://products.office.com/office-system-requirements/#Office365forBEG).
   
 ## <a name="yammer-plans"></a>Planes de Yammer
 
@@ -41,7 +38,7 @@ Yammer está disponible con los siguientes planes:
 |**Plan**|**Descripción**|
 |:-----|:-----|
 |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |Red social empresarial disponible en cualquier lugar y en cualquier momento.  <br/> |
-|[Yammer Enterprise](https://go.microsoft.com/fwlink/?LinkId=691122) <br/> |Red social empresarial con características avanzadas de seguridad, administración e integración.  <br/> |
+|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Red social empresarial con características avanzadas de seguridad, administración e integración.  <br/> |
    
 > [!NOTE]
 > Las características y directivas descritas en [Microsoft 365 y la descripción del servicio de la plataforma Office 365](../office-365-platform-service-description/office-365-platform-service-description.md) no se aplican al servicio Yammer. 

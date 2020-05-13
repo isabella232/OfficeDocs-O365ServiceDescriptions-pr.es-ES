@@ -1,5 +1,5 @@
 ---
-title: Visio para la descripción del servicio Web
+title: Descripción del servicio de Visio para la Web
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -10,20 +10,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
 description: Con Visio para la web, puede ver, editar y compartir diagramas de Visio en la Web.
-ms.openlocfilehash: 808130302fe027f65d3e6c1bae7b445a6f0ceae9
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 40f35b0201dc845509250a36eef8b8f5f8b47046
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39263233"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213661"
 ---
-# <a name="visio-for-the-web-service-description"></a>Visio para la descripción del servicio Web
+# <a name="visio-for-the-web-service-description"></a>Descripción del servicio de Visio para la Web
 
 Con Visio para la web, puede ver, editar y compartir diagramas de Visio en la Web. Empiece con un diagrama básico para expresar ideas comunes, como representar un plan, realizar una propuesta o describir una secuencia de pasos en un proceso. Es fácil y sencillo crear diagramas de primera clase con los tipos de diagramas más usados y conjuntos de formas enriquecidas. Visio para los usuarios Web puede ver y colaborar compartiendo diagramas e insertando comentarios en los archivos cargados en SharePoint Online o OneDrive para la empresa online.
   
-Para obtener más información y empezar a trabajar, consulte [Visio para la web](https://products.office.com/en-US/visio/visio-online).
+Para obtener más información y empezar a trabajar, consulte [Visio plan 1](https://products.office.com/en-US/visio/visio-online).
   
-Para obtener ayuda al usar Visio para la web, vea [centro de ayuda de Visio](https://support.office.com/visio).
+Para obtener ayuda al usar Visio para la web, consulte la [ayuda de visio & Learning](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Disponibilidad y comparación de características
 
@@ -31,7 +31,7 @@ En la tabla siguiente se comparan las características de la característica Web
   
 ||||
 |:-----|:-----|:-----|
-|**Características de aplicaciones** <br/> |**Visio para la web** <br/> |**Aplicación de escritorio de Visio** <br/> |
+|**Características de aplicaciones** <br/> |**Visio para la Web** <br/> |**Aplicación de escritorio de Visio** <br/> |
 |[Aplicar formato enriquecido a texto y formas](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Sí  <br/> |Sí  <br/> |
 |[Organizar objetos](visio-online.md#arrange-objects) <br/> |Sí  <br/> |Sí  <br/> |
 |[Crear soluciones de mashup](visio-online.md#build-mashup-solutions) <br/> |Sí  <br/> |Sí  <br/> |

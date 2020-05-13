@@ -12,21 +12,21 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: ae21a804059510c777d5ef0991c3158b9142ce50
-ms.sourcegitcommit: c37c418e0965962a87426ce1246a1081c04bde88
+ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44090143"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44214022"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
-Para los fines de este artículo, un servicio a nivel de inquilino es un servicio en&mdash;línea que, cuando se compra para cualquier usuario del inquilino (independiente o como parte de los planes de Office&mdash;365 o Microsoft 365), se activa en parte o en su totalidad para todos los usuarios del espacio empresarial. Aunque es posible que algunos usuarios sin licencia puedan obtener acceso al servicio, se necesita una licencia para cualquier usuario con el que pretenda beneficiarse del servicio.
+Para los fines de este artículo, un servicio a nivel de inquilino es un servicio en línea que, &mdash; cuando se compra para cualquier usuario del inquilino (independiente o como parte de los planes de Office 365 o Microsoft 365), &mdash; se activa en parte o en su totalidad para todos los usuarios del espacio empresarial. Aunque es posible que algunos usuarios sin licencia puedan obtener acceso al servicio, se necesita una licencia para cualquier usuario con el que pretenda beneficiarse del servicio.
 
 > [!NOTE]
 > Algunos servicios de inquilinos actualmente no pueden limitar las ventajas a usuarios específicos. Se deben realizar esfuerzos para limitar las ventajas del servicio a los usuarios con licencia. Esto ayudará a evitar posibles interrupciones en el servicio de su organización una vez que las capacidades de destino estén disponibles.
 
-Para ver las opciones para conceder licencias a los usuarios con el fin de beneficiarse de las características de cumplimiento de Microsoft 365 a partir del 1 de abril de 2020, descargue la comparación detallada de licencias de cumplimiento de Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+Para ver las opciones para conceder licencias a los usuarios con el fin de beneficiarse de las características de cumplimiento de Microsoft 365 a partir del 1 de abril de 2020, descargue la comparación detallada de licencias de cumplimiento de Microsoft 365. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -96,7 +96,7 @@ Para el ámbito ATP, siga las directivas de implementación de vínculos seguros
 
 Office 365 Cloud App Security (OCAS) es un subconjunto de Microsoft Cloud App Security, con características limitadas a Office 365 y sin seguridad adicional para aplicaciones en la nube de terceros y servicios de IaaS.
 
-OCAS proporciona a las organizaciones visibilidad de sus aplicaciones y servicios en la nube de productividad, proporciona análisis sofisticados para identificar y combatir las amenazas de la nube&mdash;, y les permite controlar la forma en que los datos viajan en Office 365.
+OCAS proporciona a las organizaciones visibilidad de sus aplicaciones y servicios en la nube de productividad, proporciona análisis sofisticados para identificar y combatir las amenazas de la nube, y les permite controlar la forma en que los datos viajan &mdash; en Office 365.
 
 Para comparar las características, consulte [diferencias entre Microsoft Cloud App Security y Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/editions-cloud-app-security-o365).
 
@@ -121,7 +121,7 @@ Los administradores pueden establecer el ámbito de las implementaciones de OCAS
 
 ## <a name="microsoft-cloud-app-security"></a>Microsoft Cloud App Security
 
-Microsoft Cloud App Security (MCAS) es una solución de agente de seguridad de acceso a la nube (CASB) que ofrece a las organizaciones visibilidad de sus aplicaciones y servicios en la nube, ofrece análisis sofisticados para identificar y combatir las&mdash;amenazas de la cibernéticos, y les permite controlar la forma en que los datos viajan por cualquier aplicación en la nube.
+Microsoft Cloud App Security (MCAS) es una solución de agente de seguridad de acceso a la nube (CASB) que ofrece a las organizaciones visibilidad de sus aplicaciones y servicios en la nube, ofrece análisis sofisticados para identificar y combatir las amenazas de la cibernéticos, y les permite controlar la forma en que los datos viajan &mdash; por cualquier aplicación en la nube.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -352,7 +352,7 @@ De forma predeterminada, los mensajes de correo electrónico de Exchange Online,
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en**ubicaciones**de **prevención** > de pérdida de datos.
+Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  **Locations**.
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Prevención de pérdida de datos de comunicación para Microsoft Teams
 
@@ -372,7 +372,7 @@ De forma predeterminada, los mensajes de chat y de canal de Microsoft son una *U
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en**ubicaciones**de **prevención** > de pérdida de datos.
+Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  **Locations**.
 
 ## <a name="information-barriers"></a>Barreras de información
 
@@ -417,7 +417,7 @@ Microsoft 365 E3/a3, Office 365 E3/a3 y Azure Information Protection Plan 1 prop
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
-Los administradores crean y administran directivas de cifrado de mensajes de Office 365 en el centro de administración de Exchange en**reglas**de **flujo** > de correo. De forma predeterminada, estas reglas se aplican a todos los usuarios del espacio empresarial. Para obtener más información acerca de la configuración de nuevas capacidades de cifrado de mensajes de Office 365, vea [set up New office 365 Message Encryption Capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Los administradores crean y administran directivas de cifrado de mensajes de Office 365 en el centro de administración de Exchange en reglas de **flujo de correo**  >  **Rules**. De forma predeterminada, estas reglas se aplican a todos los usuarios del espacio empresarial. Para obtener más información acerca de la configuración de nuevas capacidades de cifrado de mensajes de Office 365, vea [set up New office 365 Message Encryption Capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
@@ -514,7 +514,7 @@ Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
-Un usuario se beneficia de la auditoría avanzada porque los registros de auditoría relacionados con la actividad de los usuarios en los servicios de Microsoft 365 se pueden conservar hasta un año. Además, se registran los eventos de auditoría de gran valor, como cuando se tiene acceso a los elementos del buzón de un usuario o se leen. Para obtener más información, consulte [eventos de auditoría de valor alto](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit#high-value-audit-events).
+Un usuario se beneficia de la auditoría avanzada porque los registros de auditoría relacionados con la actividad de los usuarios en los servicios de Microsoft 365 se pueden conservar hasta un año. Además, se registran los eventos de auditoría de gran valor, como cuando se tiene acceso a los elementos del buzón de un usuario o se leen. Para obtener más información, consulte [auditoría avanzada en Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 

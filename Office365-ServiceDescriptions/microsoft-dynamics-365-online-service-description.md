@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: A partir de la actualización de diciembre de 2016 para Dynamics 365 (en línea y local), la funcionalidad de Dynamics CRM ahora se incluye como parte de Dynamics 365, un conjunto de aplicaciones empresariales inteligentes. Dynamics 365 unifica las capacidades de administración de las relaciones con el cliente (CRM) y planeación de recursos empresariales (ERP) al ofrecer nuevas aplicaciones para ayudar a administrar funciones empresariales específicas.
-ms.openlocfilehash: fac2e8a70cb3063c26827c4878009b4e9ad1d0f6
-ms.sourcegitcommit: cb70d69d8b563db91923be371b0307db91219030
+ms.openlocfilehash: 680ebec088cd98cf1e12a9a3ac6d2db60a129c38
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/08/2020
-ms.locfileid: "41857309"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213922"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Descripción del servicio Microsoft Dynamics 365 (Online)
 
@@ -47,7 +47,7 @@ Para obtener más información sobre las características de Dynamics 365, vea [
   
 ## <a name="application-availability-across-dynamics-365-plans"></a>Disponibilidad de aplicaciones en los planes de Dynamics 365
 
-En la siguiente tabla se enumeran todas las aplicaciones de Dynamics 365 y su disponibilidad en los planes empresariales y de empresa. Para obtener información específica sobre precios, licencias, derechos de usuario y mucho más, consulte la siguiente descarga: [Guía de licencias de Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
+En la siguiente tabla se enumeran todas las aplicaciones de Dynamics 365 y su disponibilidad en los planes empresariales y de empresa. Para obtener información específica sobre precios, licencias, derechos de usuario y mucho más, consulte la siguiente descarga: [Guía de licencias de Dynamics 365 (pdf)](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
   
 |||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|
@@ -67,7 +67,7 @@ En la siguiente tabla se enumeran todas las aplicaciones de Dynamics 365 y su di
   
 ## <a name="subscription-license-comparison-of-dynamics-365-for-sales-customer-service-field-service-and-project-service-automation"></a>Comparación de licencias de suscripción de Dynamics 365 para ventas, servicio de atención al cliente, servicio de campo y automatización del servicio de Project
 
-A continuación, se proporciona un resumen de alto nivel de los derechos de uso asociados con cada uno de los cinco niveles de servicio de usuario. Para obtener una comparación detallada, consulte el **Apéndice B** de la guía download: [Dynamics 365 Licensing Guide](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
+A continuación, se proporciona un resumen de alto nivel de los derechos de uso asociados con cada uno de los cinco niveles de servicio de usuario. Para obtener una comparación detallada, consulte el **Apéndice B** de la descarga: [Dynamics 365 Licensing Guide (pdf)](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409).
   
 ||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -84,7 +84,7 @@ A continuación, se proporciona un resumen de alto nivel de los derechos de uso 
 |**Portal solo: envío de casos de autoservicio y inicio de chat como soporte técnico (no agente)** <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |
 |**Solo portal, no empleado: actualizar las órdenes de trabajo, crear y actualizar oportunidades** <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup>`  <br/> |
 |**Informes de usuario, paneles y gráficos** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Configuración de informes del sistema, gráficos del sistema, paneles del sistema** <br/> |Ninguno  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
+|**Configuración de informes del sistema, gráficos del sistema, paneles del sistema** <br/> |None  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Clientes potenciales, oportunidades, objetivos, contratos, ofertas, pedidos, facturas, competidores** <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Campañas de ventas, campañas exprés, listas de marketing, listas de precios, listas de productos** <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Unified Service Desk** <br/> |Solo lectura  <br/> |Full  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
@@ -92,8 +92,8 @@ A continuación, se proporciona un resumen de alto nivel de los derechos de uso 
 |**Pedidos de trabajo, programación y envío con panel de programación, contratos de servicio, facturas de servicio de campo y pedidos de compra, activos de clientes, inventario, reparaciones y devoluciones** <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Proyecto, estimaciones y gastos de proyectos, disponibilidad de recursos y administración de programación, listas de precios/contratos/facturas de proyecto, aprobar transacciones de proyecto, Microsoft Project online Premium** <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |Full  <br/> |
 |**PowerApps** <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Full  <br/> |
-|**Microsoft social Engagement, voz del cliente, sin conexión móvil, Gamification Player y admin** <br/> |Ninguno  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Crear flujos de trabajo, importación masiva de datos y personalizaciones entre entidades incluidas en la aplicación** <br/> |Ninguno  <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Full  <br/> |
+|**Microsoft social Engagement, voz del cliente, sin conexión móvil, Gamification Player y admin** <br/> |None  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
+|**Crear flujos de trabajo, importación masiva de datos y personalizaciones entre entidades incluidas en la aplicación** <br/> |None  <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Full  <br/> |
    
  **Full** = derechos de acceso total 
   
@@ -108,7 +108,7 @@ A continuación, se proporciona un resumen de alto nivel de los derechos de uso 
   
 ## <a name="dynamics-365-service-level-agreement"></a>Dynamics 365 contrato de nivel de servicio
 
-Para obtener información sobre los términos de la licencia, las condiciones y la información complementaria relevante para el uso de productos y servicios con licencia a través de programas de licencias por volumen de Microsoft, consulte [contrato de nivel de servicio para Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888).
+Para obtener información sobre los términos de la licencia, las condiciones y la información complementaria relevante para el uso de productos y servicios con licencia a través de programas de licencias por volumen de Microsoft, consulte [contrato de nivel de servicio para Microsoft Online Services (pdf)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888).
   
 ## <a name="dynamics-365-service-downtime-windows"></a>Ventana de tiempo de inactividad de Dynamics 365
 
@@ -122,11 +122,11 @@ Las ventanas de tiempo de inactividad para el servicio Dynamics 365 se definen d
 |Paquete acumulativo de actualizaciones  <br/> |Sin impacto/sin tiempo de inactividad  <br/> |Centro de mensajes  <br/> |48 horas  <br/> |
 |Actualización principal  <br/> |Programada por el cliente y completada dentro de la ventana seleccionada  <br/> |Centro de mensajes  <br/> |90 días  <br/> |
    
-Consulte el [contrato de nivel de servicio de descarga de Microsoft Online Services](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888) para obtener la información más reciente sobre Windows de tiempo de inactividad. 
+Consulte el [contrato de nivel de servicio de descarga de Microsoft Online Services (pdf)](https://www.microsoftvolumelicensing.com/Downloader.aspx?DocumentId=15888) para obtener la información más reciente sobre Windows de tiempo de inactividad de servicio. 
   
 \***Acuerdo de nivel operativo** = el tiempo que el equipo de operaciones debe ofrecer en un conjunto de servicios definidos en el contrato de nivel de servicio. 
   
-## <a name="dynamics-365-trust-center"></a>Centro de confianza de Dynamics 365
+## <a name="microsoft-trust-center"></a>Centro de confianza de Microsoft
 
-Para obtener información sobre la seguridad, privacidad y cumplimiento de Dynamics 365, consulte el [centro de confianza de Microsoft dynamics 365](https://www.microsoft.com/TrustCenter/CloudServices/Dynamics365).
+Para obtener información sobre la seguridad, privacidad y cumplimiento de Dynamics 365, consulte el [centro de confianza de Microsoft](https://www.microsoft.com/TrustCenter/CloudServices/Dynamics365).
   

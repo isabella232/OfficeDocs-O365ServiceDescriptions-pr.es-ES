@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
 description: Office para la web (anteriormente, Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office para la web hace que sea más fácil trabajar y compartir archivos de Office desde cualquier lugar con una conexión a Internet desde prácticamente cualquier dispositivo. Los clientes de Microsoft 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en las presentaciones.
-ms.openlocfilehash: 12130b5aaa77a3e84748a9e60e3864559a21b4e3
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 447ea8b31424f1c37ecd5a76ee60014d94df9f26
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640138"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213992"
 ---
 # <a name="office-for-the-web-service-description"></a>Descripción de Office para el servicio Web
 
 Office para la web (anteriormente, Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador Web. Office para la web hace que sea más fácil trabajar y compartir archivos de Office desde cualquier lugar con una conexión a Internet desde prácticamente cualquier dispositivo. Los clientes de Microsoft 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos en las presentaciones. 
   
-Para comparar las características entre planes, consulte [comparar Microsoft 365 para planes de negocios](https://products.office.com/business/compare-more-office-365-for-business-plans).
+Para comparar las características de los planes, consulte [herramientas eficaces para apoyar a su empresa](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilidad de características en Office para los planes Web
 
@@ -160,7 +160,7 @@ Para comparar las características entre planes, consulte [comparar Microsoft 36
 |[Complementos de Office](excel-online.md#office-add-ins) <br/> |Sí<sup>5</sup>  <br/> |Sí  <br/> |
 |[Visualización y creación sin conexión](excel-online.md#offline-viewing-and-authoring) <br/> |No  <br/> |Sí  <br/> |
 |[Gráficos dinámicos](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Sí<sup>1</sup>  <br/> |Sí  <br/> |
-|[Tablas dinámicas](excel-online.md#pivottables) <br/> |Sí  <br/> |Sí  <br/> |
+|[PivotTables](excel-online.md#pivottables) <br/> |Sí  <br/> |Sí  <br/> |
 |[Publicar en la red social y presentar en línea](excel-online.md#post-to-social-network-and-present-online) <br/> |No  <br/> |Sí  <br/> |
 |[Visualización de Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Sí  <br/> |Sí  <br/> |
 |[Visualización de Power View](excel-online.md#power-view-viewing) <br/> |Sí  <br/> |Sí  <br/> |
