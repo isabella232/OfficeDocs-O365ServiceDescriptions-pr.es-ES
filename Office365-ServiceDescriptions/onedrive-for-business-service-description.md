@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Consulte las características de OneDrive disponibles en cada plan.
-ms.openlocfilehash: a44c426be19db30ccd2544ed58fc0cf614357ea8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639878"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44213932"
 ---
 # <a name="onedrive-service-description"></a>Descripción del servicio OneDrive
 
@@ -27,7 +27,7 @@ OneDrive para cuentas profesionales o educativas es el espacio de almacenamiento
   
 OneDrive se incluye en los planes de Microsoft 365 y Office 365, en los planes de SharePoint y también puede adquirirse como un plan independiente. 
     
-Para comparar planes, vea [Comparar planes de Office 365 para empresas](https://go.microsoft.com/fwlink/?linkid=799177) y [Comparar planes de OneDrive para la Empresa](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
+Para comparar planes, consulte [Potentes herramientas que dan soporte a su empresa](https://go.microsoft.com/fwlink/?linkid=799177) y [Comparar planes de OneDrive para la empresa](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
   
 > [!NOTE]
 > Los planes individuales de OneDrive incluyen Office para la web. 
