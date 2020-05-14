@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5189063a-f835-40e1-bdb8-e3dd4ecb3323
 description: Para obtener información sobre las características de Office 365 que acaban de publicar, o que están a punto de publicarse, consulte el mapa de ruta de Microsoft 365.
-ms.openlocfilehash: 70236f8d0600e5a614524fb1842d1fd62764655d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: e0a9c143a85a1df830b973b69babac6bb8b831f5
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639778"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044812"
 ---
 # <a name="service-updates"></a>Actualizaciones de servicio
 
@@ -43,6 +43,6 @@ Tenga en cuenta que Microsoft sigue la [Directiva del ciclo de vida en línea](h
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, consulte [Office 365 Platform Service Description](office-365-platform-service-description.md).
+Para ver la disponibilidad de características entre planes, consulte la descripción del servicio de la [plataforma de Microsoft 365 y Office 365](office-365-platform-service-description.md).
   
 

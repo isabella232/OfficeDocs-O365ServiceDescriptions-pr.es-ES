@@ -1,5 +1,5 @@
 ---
-title: 'Descripciones de servicio de Office 365 '
+title: Descripciones del servicio de Microsoft 365 y Office 365
 ms.author: sharik
 author: skjerland
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft Office 365 es un servicio basado en la nube diseñado para ayudar a satisfacer las necesidades de su organización en cuanto a seguridad, confiabilidad y productividad del usuario sólidas.
-ms.openlocfilehash: f297c1be0a2096a75dab8e14858236b69efb9986
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+description: Microsoft 365 y Office 365 son servicios basados en la nube diseñados para ayudar a satisfacer las necesidades de su organización en cuanto a seguridad, confiabilidad y productividad del usuario sólidas.
+ms.openlocfilehash: 8f52de49564c07a41153b0935c27aef1277c4bb8
+ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002070"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44044802"
 ---
-# <a name="office-365-service-descriptions"></a>Descripciones de servicio de Office 365 
+# <a name="microsoft-365-and-office-365-service-descriptions"></a>Descripciones del servicio de Microsoft 365 y Office 365 
 
-Microsoft Office 365 es un servicio basado en la nube diseñado para ayudar a satisfacer las necesidades de su organización en cuanto a seguridad, confiabilidad y productividad del usuario sólidas. 
+Microsoft 365 y Office 365 son servicios basados en la nube diseñados para ayudar a satisfacer las necesidades de su organización en cuanto a seguridad, confiabilidad y productividad del usuario sólidas. 
   
-En los temas de esta biblioteca encontrará descripciones detalladas de los servicios y las características disponibles con Office 365. Para comparar las características de los diferentes planes, consulte [Comparar los planes de Office 365 para empresas](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o la descripción del servicio pertinente en la lista siguiente. 
+Los temas de esta biblioteca proporcionan descripciones detalladas de los servicios y las características que están disponibles con Microsoft 365 y Office 365. Para comparar las características de los planes, consulte [herramientas eficaces que admiten su empresa](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o la descripción del servicio relevante en la lista siguiente. 
   
-Para buscar artículos de servicio técnico e información, consulte [Servicio técnico de Office](https://support.office.com/).
+Para obtener información y artículos de soporte técnico, consulte la [ayuda de office & Training](https://support.office.com/), la [documentación de Office para administradores y profesionales de ti](https://docs.microsoft.com/office/)y el [centro de ayuda de 365 para administradores y profesionales de ti](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide).
   
 > [!NOTE]
 > Si está buscando la hoja de cálculo de comparación de la descripción del servicio, se ha retirado. Las tablas de disponibilidad de características del producto de cada página de Descripción del servicio se han actualizado para ayudarle a elegir la versión de Office 365 que mejor se adapte a sus necesidades. 
@@ -46,13 +46,15 @@ Para empezar, consulte las siguientes descripciones de servicios:
 
 - [Descripción del servicio Exchange Online Protection](exchange-online-protection-service-description/exchange-online-protection-service-description.md)
 
-- [Descripción del servicio de Protección contra amenazas avanzada de Office 365](office-365-advanced-threat-protection-service-description.md)
-
 - [Descripción del servicio de Archivado de Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
-- [Descripción del servicio de OneDrive para la Empresa](onedrive-for-business-service-description.md)
+- [Descripción del servicio de Protección contra amenazas avanzada de Office 365](office-365-advanced-threat-protection-service-description.md)
 
-- [Descripción del servicio de SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md)
+- [Descripción del servicio Microsoft Teams](teams-service-description.md)
+
+- [Descripción del servicio OneDrive](onedrive-for-business-service-description.md)
+
+- [Descripción del servicio SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
 
 - [Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 
@@ -64,15 +66,19 @@ Para empezar, consulte las siguientes descripciones de servicios:
 
 - [Descripción del servicio Power BI](power-bi-service-description.md)
 
-- [Descripción del servicio Project online](project-online-service-description/project-online-service-description.md)
+- [Descripción del servicio de Microsoft Project](project-online-service-description/project-online-service-description.md)
 
 - [Descripción del servicio de Visio para la Web](visio-online-service-description/visio-online-service-description.md)
 
 - [Descripción del servicio Yammer](yammer-service-description/yammer-service-description.md)
 
+- [Descripción del servicio de Microsoft 365 Empresa Voice](microsoft-365-business-voice-service-description.md)
+
 - [Descripción del servicio de Microsoft 365 Empresa Premium](microsoft-365-service-descriptions/microsoft-365-business-service-description.md)
 
-- [Guía de licencias de cumplimiento de & de seguridad de Microsoft 365](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
+- [Licenciamiento de Microsoft 365 para pequeñas y medianas empresas](microsoft-365-service-descriptions/licensing-microsoft-365-in-smb.md)
+
+- [Instrucciones de licencias de Microsoft 365 para la seguridad y el cumplimiento](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
 - [Descripción del servicio Microsoft Dynamics 365 (Online)](microsoft-dynamics-365-online-service-description.md)
 
