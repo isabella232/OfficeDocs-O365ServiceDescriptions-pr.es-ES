@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: c3521baf89ddcdc442a7dcd461c5de15f2a2d48e
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: e3c4819c3734bd6c00f92d1cdf1411b1142d08b4
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44214022"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267339"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -66,7 +66,7 @@ De forma predeterminada, las características de ATP de Azure están habilitadas
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Microsoft ofrece capacidades de detección de amenazas para los usuarios con licencia.
+Los servicios ATP de Azure actualmente no pueden limitar las capacidades a usuarios específicos. Debe conceder una licencia a todos los usuarios que desee que se beneficien.
 
 ## <a name="office-365-advanced-threat-protection"></a>Protección contra amenazas avanzada de Office 365
 

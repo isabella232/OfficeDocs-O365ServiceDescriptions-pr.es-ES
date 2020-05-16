@@ -9,36 +9,36 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
-description: El centro &amp; de seguridad y cumplimiento está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-ms.openlocfilehash: ec6c84e80f25699537b92d38ae8eb7470931750d
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+description: El centro de seguridad &amp; y cumplimiento está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
+ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
+ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001996"
+ms.lasthandoff: 05/15/2020
+ms.locfileid: "44267329"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-El [Centro &amp; de seguridad y cumplimiento](https://protection.office.com/) está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
+El [centro de seguridad y &amp; cumplimiento](https://protection.office.com/) está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
   
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-Para ver las opciones para conceder licencias a los usuarios con el fin de beneficiarse de las características de cumplimiento de Microsoft 365 a partir del 1 de abril de 2020, descargue la comparación detallada de licencias de cumplimiento de Microsoft 365. [(PDF)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+Para ver las opciones para conceder licencias a los usuarios con el fin de beneficiarse de las características de cumplimiento de Microsoft 365 a partir del 1 de abril de 2020, descargue la comparación detallada de licencias de cumplimiento de Microsoft 365. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
   
-## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Disponibilidad &amp; del centro de cumplimiento de seguridad para planes empresariales y empresariales
+## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;Disponibilidad del centro de cumplimiento de seguridad para planes empresariales y empresariales
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**  |**Microsoft 365 empresa Basic**  |**Microsoft 365 Empresa Estándar**  |**Microsoft 365 Empresa Premium**  |**Office 365 Enterprise E1**, **Office 365 US Government G1**  |**Office 365 Enterprise E3**, **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US Government F3**|
-|[Acceso al centro de &amp; seguridad y cumplimiento](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
+|**Característica**  |**Microsoft 365 Empresa Básico**  |**Microsoft 365 Empresa Estándar**  |**Microsoft 365 Empresa Premium**  |**Office 365 Enterprise E1**, **Office 365 US Government G1**  |**Office 365 Enterprise E3**, **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US Government F3**|
+|[Acceso al centro de seguridad y &amp; cumplimiento](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |No   |No   |No|No   |No   |Sí   |
 |[Administración de amenazas](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) , como filtrado de correo y antimalware |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
 |[Administración avanzada de amenazas](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), como el explorador de amenazas para las campañas de suplantación de identidad<sup>6</sup>  |No   |No   |No   |No   |No   |Sí   |No   |
 |[Caja de seguridad del cliente](https://docs.microsoft.com/office365/securitycompliance/customer-lockbox-requests)  |No   |No   |No   |No   |No   |Sí   |No   |
 |[Administración de dispositivos móviles](https://support.office.com/article/set-up-mobile-device-management-mdm-in-office-365-dd892318-bc44-4eb1-af00-9db5430be3cd)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
 |[Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la empresa](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>7, 9</sup> |No   |No   |No   |No   |Sí   |Sí   |No   |
-|[Prevención de pérdida de datos de comunicación para Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |No   |No   |No   |No   |Sí   |No  |
+|[Prevención de pérdida de datos de comunicación para Microsoft Teams](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams)  |No   |No   |No   |No   |No   |Sí  |
 |[Etiquetas de sensibilidad manual](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | No | No  |No   | Sí | Sí | Sí | No  |
 |Etiquetas de sensibilidad automáticas| No | No  |No  | No | No | Sí<sup>13</sup> | No  |
 |[Barreras de información](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |No   |No   |No   |No   |No   |Sí   |No  |
@@ -53,8 +53,8 @@ Para ver las opciones para conceder licencias a los usuarios con el fin de benef
 |[Auditoría básica](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Sí   |Sí   |Sí|Sí   |Sí   |Sí   |Sí   |
 |[Auditoría avanzada](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |No   |No   |No   |No   |No   |Sí   |No   |
 |[Cumplimiento de la comunicación (directivas de supervisión)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |No   |No   |No   |No   |No   |Sí   |No   |
-|[Cifrado de mensajes de Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |No   |No   |No   |No   |No   |Sí   |No   |
-|[Cifrado avanzado de mensajes de Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |No   |No   |No   |No   |No   |Sí   |No   |
+|[Office 365 cifrado de mensajes (OME) Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |No   |No   |No   |No   |Sí  |Sí   |No   |
+|[Cifrado avanzado de mensajes de Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |No   |No   |No   |No   |No |Sí   |No   |
 |[Administración del acceso con privilegios](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |No   |No   |No   |No   |No   |Sí   |No   |
 |[Clave de cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |No   |No   |No   |No   |No   |Sí   |No   |
 |||||||||
@@ -85,12 +85,12 @@ límite de <sup>3</sup> 50 GB.
 
 <sup>13</sup> no incluye la etiqueta basada en el aprendizaje por máquina (clasificadores cocapacitados).
 
-## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>Disponibilidad &amp; del centro de cumplimiento de seguridad para planes independientes
+## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;Disponibilidad del centro de cumplimiento de seguridad para planes independientes
 
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Característica**  |**Exchange Online (plan 1)**  |**Exchange Online (plan 2)**  |**Quiosco de Exchange Online**  |**SharePoint Online plan 1**  |**SharePoint Online plan 2**  |**OneDrive para la Empresa Plan 1** |**OneDrive para la Empresa Plan 2** |**Skype Empresarial Online (plan 1)**  |**Skype Empresarial Online (plan 2)**  |
-|[Acceso al centro de &amp; seguridad y cumplimiento](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
+|[Acceso al centro de seguridad y &amp; cumplimiento](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |No   |No   |No   |No   |No   |No   |No   |No   |Sí   |
 |[Administración de amenazas](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security), como filtrado de correo y protección contra malware   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
 |[Administración avanzada de amenazas](https://docs.microsoft.com/office365/securitycompliance/office-365-ti), como el explorador de amenazas para las campañas de suplantación de identidad   |No   |No   |No   |No   |No   |No   |No   |No   |No  |
@@ -137,7 +137,7 @@ límite de <sup>3</sup> 50 GB.
 
 <sup>11</sup> se requiere una licencia de archivado de Exchange Online plan 2 o Exchange Online para poner un buzón de usuario en espera con una directiva de retención.
   
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Disponibilidad &amp; del centro de cumplimiento de seguridad en Office 365 operado por 21Vianet
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>&amp;Disponibilidad del centro de cumplimiento de seguridad en Office 365 operado por 21Vianet
 
 El centro de seguridad & cumplimiento no está disponible en ningún plan de Office 365 operado por 21Vianet.
   
