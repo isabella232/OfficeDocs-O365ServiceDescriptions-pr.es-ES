@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams ofrece mensajería instantánea, colaboración de archivos y datos, llamadas de audio y vídeo, reuniones en línea enriquecidas, experiencias móviles y capacidades de conferencia web amplias.
-ms.openlocfilehash: 59337249c650157797e2c577ceefe24d3db62863
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213662"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356898"
 ---
 # <a name="microsoft-teams-service-description"></a>Descripción del servicio Microsoft Teams
 
@@ -60,7 +60,7 @@ En esta tabla se muestra la disponibilidad de las características de Microsoft 
 |Voz  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Audioconferencia  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Aplicaciones, bots & conectores  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>4</sup>  <br/> |Sí<sup>4</sup>  <br/> |Sí<sup>4</sup>  <br/> |Sí  <br/> |
-|Eventos en directo  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |N°<sup>5</sup>  <br/> |N°<sup>5</sup>  <br/> |Sí  <br/> |
+|Eventos en directo  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |N°<sup>5</sup>  <br/> |N°<sup>5</sup>  <br/> |Sí  <br/> |
 
 <sup>1</sup> Microsoft Teams en gcc-High y DoD admiten miembros de 2500 en un equipo individual.<br/>
 <sup>2</sup> Microsoft Planner no está disponible actualmente para acceder a los canales privados.<br/>
@@ -68,6 +68,6 @@ En esta tabla se muestra la disponibilidad de las características de Microsoft 
 <sup>4</sup> Microsoft OneNote no está disponible en nubes DoD. Las aplicaciones y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
 <sup>5</sup> los eventos en directo no están disponibles en gcc-High o Dod en este momento.<br/>
 
-## <a name="next-steps"></a>Siguientes pasos
+## <a name="next-steps"></a>Pasos siguientes
 
 Para empezar a planear la implementación de Microsoft Teams, visite la [documentación técnica de Microsoft Teams](https://aka.ms/SuccessWithTeams). Manténgase informado sobre las características y capacidades de Microsoft Teams [uniendo nuestra comunidad y visitando nuestro blog de Microsoft Teams](https://aka.ms/TeamsBlog).

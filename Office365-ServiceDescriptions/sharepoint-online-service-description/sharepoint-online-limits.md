@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para los planes de Microsoft 365 y independientes.
-ms.openlocfilehash: ea8b55958678f14332ea808f0d49eed6827bcd58
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8f793cbda0728f3d9ccc800b1c8eb75fb5855bde
+ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638954"
+ms.lasthandoff: 05/25/2020
+ms.locfileid: "44356888"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -86,6 +86,10 @@ Un usuario puede pertenecer a 5.000 grupos y cada grupo puede tener hasta 5.000 
 
 200.000 términos en el almacén de términos, 1.000 conjuntos de términos globales, 1.000 grupos.
 
+### <a name="overall-site-metadata"></a>Metadatos generales del sitio
+
+1000 GB por sitio (los metadatos raramente alcanzan este tamaño).
+
 ### <a name="subsites"></a>Subsitios 
 
 2.000 por sitio (colección de sitios). Le recomendamos que cree sitios y los organice en hubs en lugar de crear subsitios. Si usa subsitios, le recomendamos limitar su número (especialmente en los sitios menor tráfico).
@@ -105,6 +109,6 @@ Un usuario puede pertenecer a 5.000 grupos y cada grupo puede tener hasta 5.000 
 > [!NOTE]
 > No hay ningún límite en el número de invitados que puede invitar a los sitios de SharePoint. Para obtener más información sobre el uso compartido externo, vea [external Sharing Overview](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulte también
 
 [Límites de búsqueda de SharePoint](/sharepoint/search-limits)
