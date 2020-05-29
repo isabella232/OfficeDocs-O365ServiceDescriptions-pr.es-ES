@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 9ffcba0e8c4e2fe92afe8fff4da093b38c207573
-ms.sourcegitcommit: 2d13c0f81cf0698a738dbb2a2943ad97c6128bbe
+ms.openlocfilehash: 8d3e63906024582f78db93a3cf288ca80c868387
+ms.sourcegitcommit: f7d8ab5daf7618c9b6827c8595403592faf2758b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/28/2020
-ms.locfileid: "44408930"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44412699"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -179,7 +179,7 @@ Los usuarios pueden beneficiarse de la capacidad de aplicar manualmente las etiq
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Microsoft 365 E5/A5/G5/E3/a3/G3/F1/F3/Business, Enterprise Mobility + Security F3/E3/E5, Office 365 E5/A5/E3/a3/F3, AIP plan 1 y AIP plan 2 proporcionan los derechos de un usuario para beneficiarse de la etiqueta de confidencialidad manual.
+Microsoft 365 E5/A5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + seguridad F3/E3/E5, Office 365 E5/A5/E3/a3/F3, el plan de AIP 1 y el plan AIP 2 proporcionan los derechos de un usuario para beneficiarse de la etiqueta de confidencialidad manual.
 
 Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5, Microsoft 365 Information Protection and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 y el plan de AIP 2 proporcionan los derechos de un usuario para beneficiarse del etiquetado de sensibilidad automático.
 
