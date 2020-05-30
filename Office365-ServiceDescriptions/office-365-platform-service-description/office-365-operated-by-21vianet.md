@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 ofrecido por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: df10728ec4e195fb69bb9140fa5da968a5ed2ac1
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 2cbb01706acaf5902ceda7a2ee16bcd3497a5f28
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226259"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429115"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -176,7 +176,7 @@ En la tabla siguiente se enumeran todas las características de plataforma para 
 |eDiscovery avanzado|No|No|No|No|No|No|No|
 |Puntuación segura<sup>4</sup>|No|No|No|No|No|No|No|
 |Inteligencia de amenazas|No|No|No|No|No|No|No|
-|**[Cumplimiento](compliance-servicedesc.md)**||||||||
+|**[Cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |Evaluaciones SAS 70 / SSAE16|No|No|No|No|No|No|No|
 |Certificación ISO 27001|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Cláusulas del modelo de UE|No|No|No|No|No|No|No|
@@ -348,7 +348,7 @@ En la siguiente tabla se enumeran los servicios de Exchange Online que están di
 |Cuarentena: gestión de administradores|Sí|Sí|Sí|Sí|Sí|Sí|Sí <sup>4</sup>|
 |Cuarentena: autoadministración de usuarios finales|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Protección contra amenazas avanzada|No|--|No|No|No|No|No|
-|**[Flujo de correo](../exchange-online-service-description/mail-flow.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F3 operado por 21Vianet**|
+|**[Flujo del correo](../exchange-online-service-description/mail-flow.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F3 operado por 21Vianet**|
 |Enrutamiento personalizado de correo saliente|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Secure messaging with a trusted partner|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Conditional mail routing|Sí|Sí|Sí|Sí|Sí|Sí|Sí|

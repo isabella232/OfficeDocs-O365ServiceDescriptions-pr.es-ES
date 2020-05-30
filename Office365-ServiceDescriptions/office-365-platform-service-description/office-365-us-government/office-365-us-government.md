@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En este artículo se proporciona información general sobre las características específicas de los entornos de Office 365 Government US.
-ms.openlocfilehash: c530009151f327f556a28194aaa692fcb5ebc122
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: fb7eac83230c92adfbd52a3744e9cfd101292050
+ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44045042"
+ms.lasthandoff: 05/30/2020
+ms.locfileid: "44429065"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -134,7 +134,7 @@ Para obtener información sobre los requisitos del sistema para los planes de Of
   
 ## <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-Para obtener información acerca del &amp; centro de seguridad y cumplimiento, así como vínculos a información adicional y disponibilidad, consulte [ &amp; Security Compliance Center](../../office-365-platform-service-description/office-365-securitycompliance-center.md).
+Para obtener información acerca del &amp; centro de seguridad y cumplimiento, así como vínculos a información adicional y disponibilidad, consulte [Security &amp; Compliance Center](../../office-365-platform-service-description/office-365-securitycompliance-center.md).
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilidad del servicio para cada plan
 
@@ -144,7 +144,7 @@ Cada plan de Office 365 incluye varios servicios individuales, como Exchange Onl
 |:-----|:-----|:-----|:-----|:-----|
 |**Servicios de Office 365** <br/> |**Office 365 Administración Pública G1** <br/> |**Office 365 Administración Pública G3** <br/> |**Office 365 Administración Pública G5** <br/> |**Office 365 administración pública F3** <br/> |
 |Office para la Web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Aplicaciones de Microsoft 365 para empresas  <br/> |No <br/> |Sí <br/> |Sí <br/> |No  <br/> |
+|Aplicaciones de Microsoft 365 para empresas  <br/> |No <br/> |Sí <br/> |Sí <br/> |No  <br/> |
 |Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección de Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |SharePoint Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -242,7 +242,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Explorador utilizado  <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |
 |Sistema operativo utilizado  <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |
 |Cree sus propios informes con los servicios Web de informes de Microsoft 365  <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |
-|**[Actualizaciones del servicio](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Administración Pública G1** <br/> |**Office 365 Administración Pública G3** <br/> |**Office 365 Administración Pública G5** <br/> |**Office 365 administración pública F3** <br/> |
+|**[Actualizaciones de servicio](../../office-365-platform-service-description/service-updates.md)** <br/> |**Office 365 Administración Pública G1** <br/> |**Office 365 Administración Pública G3** <br/> |**Office 365 Administración Pública G5** <br/> |**Office 365 administración pública F3** <br/> |
 |Actualizaciones habituales para todos los clientes  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Las notificaciones se envían a Centro de mensajes cuando la acción es necesaria  <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |
 |Roadmap.office.com para algún servicio actualizaciones  <br/> |No<sup>10, 13</sup> <br/> |No<sup>10, 13</sup> <br/> |No<sup>10, 13</sup> <br/> |No<sup>10, 13</sup> <br/> |
@@ -264,7 +264,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Puntuación segura<sup>14</sup> <br/> |Sí<sup>9, 15</sup> <br/> |Sí<sup>9</sup> <br/> |Sí<sup>9, 15</sup> <br/> |Sí<sup>9, 15</sup> <br/> |
 |Cifrado de mensajes de Office  <br/> |No  <br/> |Sí <br/> |Sí <br/> |No  <br/> |
 |Inteligencia de amenazas  <br/> |No<sup>12</sup> <br/> |No<sup>12</sup> <br/> |Sí <br/> |No<sup>12</sup> <br/> |
-|**[Cumplimiento](../../office-365-platform-service-description/compliance-servicedesc.md)** <br/> |||||
+|**[Cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> |||||
 |Evaluaciones SAS 70 / SSAE16  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Certificación ISO 27001  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cláusulas del modelo de UE  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -296,7 +296,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 <br/><sup>11</sup> todavía no está disponible en las ofertas de Office 365 Government, pero lo estará próximamente. 
 <br/><sup>12</sup> no se incluye, pero puede adquirirse como un complemento independiente en gcc. 
 <br/><sup>13</sup> no es compatible con las ofertas de Office 365 Government. 
-<br/><sup>14</sup> disponible en [https://securescore.office.com](https://securescore.office.com). Requiere permisos de administrador. Para obtener más información, vea [Introducción a la puntuación segura de Office 365](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score).
+<br/><sup>14</sup> disponible en [https://securescore.office.com](https://securescore.office.com) . Requiere permisos de administrador. Para obtener más información, vea [Introducción a la puntuación segura de Office 365](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score).
 ). 
 <br/><sup>15</sup> todavía no está disponible en el entorno de DoD, pero lo estará próximamente. 
 <br/><sup>16</sup> el centro de administración no incluye análisis de uso en entornos altos DoD o gcc.
