@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 y Office 365 están disponibles en diversos planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: e5800a18c0709db2e9b8c16b569a20434d9e25e4
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: c0210b264f077a4403bbe987c469fa2574f77bf2
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429075"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679577"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Microsoft 365 y Office 365
 
@@ -43,9 +43,9 @@ Office 365 está disponible en una variedad de planes a fin de satisfacer las ne
   
 Para obtener más información sobre las licencias por volumen, consulte [términos de licencia y documentación](https://go.microsoft.com/fwlink/?linkid=848696).
   
-## <a name="microsoft-365-and-office-365-nonprofit-plans-and-pricing"></a>Planes y precios de Microsoft 365 y Office 365 sin ánimo de lucro
+## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>Planes y precios de Microsoft 365 y Office 365 para ONG
 
-En el caso de las organizaciones aptas para los planes de Microsoft 365 o Office 365 sin ánimo de lucro, estos planes incluyen exactamente las mismas características que los planes de negocio correspondientes (por ejemplo, Office 365 no lucrativa E5 incluye las mismas características que Office 365 E5). La única diferencia entre los planes equivalentes es el precio. Para obtener más información acerca de los planes para ONG de Microsoft 365 y Office 365, consulte [Compare microsoft 365 y office 365 no lucrativa offers](https://go.microsoft.com/fwlink/?LinkID=627221)y [soluciones de productividad para organizaciones sin ánimo de lucro](https://go.microsoft.com/fwlink/?LinkID=786641).
+Para las organizaciones que cumplen con los planes de Microsoft 365 y Office 365 para ONG, estos planes incluyen exactamente las mismas características que los planes de negocios correspondientes (por ejemplo, Office 365 E5 para ONG incluye las mismas características que Office 365 E5). La única diferencia entre los planes equivalentes es el precio. Para obtener más información acerca de los planes de Microsoft 365 y Office 365 para ONG, vea [Compare microsoft 365 y office 365 ofertas para ONG](https://go.microsoft.com/fwlink/?LinkID=627221)y [soluciones de productividad para ONG](https://go.microsoft.com/fwlink/?LinkID=786641).
   
 ## <a name="system-requirements"></a>Requisitos del sistema
 
@@ -83,7 +83,7 @@ Para obtener información específica sobre los precios y características de lo
     
 - Administración Pública: [Planes de Office 365 Administración Pública de EE. UU.](https://go.microsoft.com/fwlink/?LinkID=827898)
     
-- ONG: [comparar ofertas de Microsoft 365 y Office 365 sin ánimo de lucro](https://go.microsoft.com/fwlink/?LinkID=733237)
+- ONG: [comparar las ofertas de Microsoft 365 y Office 365 para ONG](https://go.microsoft.com/fwlink/?LinkID=733237)
 
 - Office 365 Germany: [Planes de Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016)
     

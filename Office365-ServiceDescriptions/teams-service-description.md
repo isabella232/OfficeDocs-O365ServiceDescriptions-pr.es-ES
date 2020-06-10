@@ -8,18 +8,18 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams ofrece mensajería instantánea, colaboración de archivos y datos, llamadas de audio y vídeo, reuniones en línea enriquecidas, experiencias móviles y capacidades de conferencia web amplias.
-ms.openlocfilehash: 3ed7740d5413867767828b4b02079a7a9e57398d
-ms.sourcegitcommit: fba0c65c0e7d05b376854f76ef99852c4d293bc4
+ms.openlocfilehash: fbfa15c4a4e7f6ace835318310abdf1207eb6ef9
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/25/2020
-ms.locfileid: "44356898"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679587"
 ---
 # <a name="microsoft-teams-service-description"></a>Descripción del servicio Microsoft Teams
 
 Microsoft Teams es el centro de trabajo en equipo de Microsoft 365. El servicio de Microsoft Teams permite la mensajería instantánea, las llamadas de audio y vídeo, las reuniones en línea enriquecidas, las experiencias móviles y las amplias capacidades de conferencia Web. Además, Microsoft Teams proporciona características de colaboración y extensibilidad de datos y de archivos, y se integra con Microsoft 365 y otras aplicaciones de asociados de Microsoft.
 
-Skype empresarial online se retirará el 31 de julio de 2021, que se [anunció](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) el 30 de julio de 2019. Microsoft Teams es un servicio completamente nuevo, diseñado para la nube desde el principio aprovechando Azure y otras innovaciones de servicios de Microsoft. Microsoft Teams se basa en los grupos de Office 365, Microsoft Graph y con la misma seguridad de nivel empresarial, el cumplimiento y la facilidad de administración que el resto de Office 365. Teams aprovecha las identidades almacenadas en Azure Active Directory (Azure AD). Estos servicios se entregan desde centros de datos de Microsoft y son accesibles para los usuarios de una amplia variedad de dispositivos desde una red corporativa o a través de Internet. Para obtener más información, consulte los [pósteres de soluciones de telefonía y arquitectura de TI de Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
+Skype empresarial online se retirará el 31 de julio de 2021, que se [anunció](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) el 30 de julio de 2019. Microsoft Teams es un servicio completamente nuevo, diseñado para la nube desde el principio aprovechando Azure y otras innovaciones de servicios de Microsoft. Microsoft Teams se basa en los grupos 365 de Microsoft, Microsoft Graph y con la misma seguridad de nivel empresarial, el cumplimiento y la facilidad de administración que el resto de Office 365. Teams aprovecha las identidades almacenadas en Azure Active Directory (Azure AD). Estos servicios se entregan desde centros de datos de Microsoft y son accesibles para los usuarios de una amplia variedad de dispositivos desde una red corporativa o a través de Internet. Para obtener más información, consulte los [pósteres de soluciones de telefonía y arquitectura de TI de Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-architecture-solutions-posters).
 
 Microsoft sigue comprometidos con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, consulte el [centro de confianza de Microsoft](https://www.microsoft.com/trust-center) y el centro de accesibilidad de [Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
@@ -68,6 +68,6 @@ En esta tabla se muestra la disponibilidad de las características de Microsoft 
 <sup>4</sup> Microsoft OneNote no está disponible en nubes DoD. Las aplicaciones y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
 <sup>5</sup> los eventos en directo no están disponibles en gcc-High o Dod en este momento.<br/>
 
-## <a name="next-steps"></a>Pasos siguientes
+## <a name="next-steps"></a>Siguientes pasos
 
 Para empezar a planear la implementación de Microsoft Teams, visite la [documentación técnica de Microsoft Teams](https://aka.ms/SuccessWithTeams). Manténgase informado sobre las características y capacidades de Microsoft Teams [uniendo nuestra comunidad y visitando nuestro blog de Microsoft Teams](https://aka.ms/TeamsBlog).

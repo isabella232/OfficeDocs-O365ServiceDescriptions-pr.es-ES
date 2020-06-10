@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice es un servicio de complemento que le permite usar Microsoft Teams para llamadas telefónicas. Esto combina sistema telefónico, plan de llamadas nacionales, SMS y audioconferencia.
-ms.openlocfilehash: 7cf636b962f9f97b8b2b73466622494bb54f3a07
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 0653be3875dd2e8713f06ed84d9e0d9081eed3c0
+ms.sourcegitcommit: e6344116cc4e81e61218f66fb84f8a89a51eda8d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213972"
+ms.lasthandoff: 06/10/2020
+ms.locfileid: "44679597"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Descripción del servicio de Microsoft 365 Empresa Voice
 
@@ -25,16 +25,20 @@ Puede elegir entre dos opciones de voz de Microsoft 365 Business Voice:
 - Microsoft 365 Business Voice
 - Microsoft 365 Business Voice sin el plan de llamadas
 
-Microsoft 365 Business Voice está disponible con las siguientes suscripciones para pequeñas y medianas empresas con hasta 300 licencias:
+Microsoft 365 Business Voice está disponible con las siguientes suscripciones con hasta 300 licencias:
 
-- [Microsoft 365 empresa Basic](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 Empresa Estándar](office-365-platform-service-description/office-365-platform-service-description.md)
-- [Microsoft 365 Empresa Premium](microsoft-365-business-service-description.md)
-- [Office 365 E1](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e1-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 E3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-enterprise-e3-business-software?activetab=pivot%3aoverviewtab)
-- [Office 365 F3](https://www.microsoft.com/en-us/microsoft-365/business/office-365-f1?activetab=pivot%3aoverviewtab)
-- [Microsoft 365 a1](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
-- [Microsoft 365 a3](https://www.microsoft.com/en-us/microsoft-365/academic/compare-office-365-education-plans?activetab=tab:primaryr1)
+- Microsoft 365 Empresa Básico
+- Microsoft 365 Empresa Estándar
+- Microsoft 365 Empresa Premium
+- Microsoft 365 F1
+- Microsoft 365 F3
+- Office 365 F3
+- Microsoft y Office 365 Enterprise E1, E3 o E5
+- Microsoft 365 y Office 365 Education a1, a3 o A5
+- Microsoft 365 y Office 365 administración pública G1, G3 o G5 (sólo GCC)
+- Microsoft 365 empresa sin ánimo de lucro Basic
+- Estándar empresarial de Microsoft 365 sin ánimo de lucro
+- Microsoft 365 y Office 365 sin ánimo de lucro E1, E3 o E5
 
 ## <a name="microsoft-365-business-voice-features"></a>Características de Microsoft 365 Business Voice
 
