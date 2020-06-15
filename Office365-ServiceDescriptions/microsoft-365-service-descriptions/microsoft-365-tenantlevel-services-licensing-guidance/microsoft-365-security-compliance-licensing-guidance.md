@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 62bd075a22a7952bcd1f3608f0a7f82f3908d374
-ms.sourcegitcommit: 7c4be54e4f685c259b732167dc88ae34a8b1e4e2
+ms.openlocfilehash: 4664f782fcd15f3357ae2394b54a4a4302834073
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44524183"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711140"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -188,9 +188,7 @@ Microsoft 365 E5/A5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + Se
 
 Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5, Microsoft 365 Information Protection and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 y el plan de AIP 2 proporcionan los derechos de un usuario para beneficiarse del etiquetado de sensibilidad automático.
 
-Para obtener derechos específicos por licencia, vea la [comparación de licencias de cumplimiento (pdf) detallada de Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
-
-No incluye derechos para la clasificación automática basada en el aprendizaje de la máquina (clasificadores cocapacitados).
+Para obtener derechos específicos por licencia, consulte la comparación detallada de licencias de cumplimiento de Microsoft 365. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) No incluye derechos para la clasificación automática basada en el aprendizaje de la máquina (clasificadores cocapacitados).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -218,7 +216,7 @@ Microsoft 365 E5/A5, cumplimiento de Microsoft 365 E5/A5, protección y control 
 
 Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, la protección de la información y el gobierno de Microsoft 365 proporcionan los derechos para que un usuario se beneficie de aplicar automáticamente etiquetas de retención basadas en clasificadores que se puedan entrenar.
 
-Para obtener derechos específicos por licencia, vea la [comparación de licencias de cumplimiento (pdf) detallada de Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
+Para obtener derechos específicos por licencia, consulte la comparación detallada de licencias de cumplimiento de Microsoft 365. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 No incluye derechos para la retención automática basada en el aprendizaje de la máquina (clasificadores que se puedan entrenar).
 
@@ -230,7 +228,7 @@ De forma predeterminada, las características de gobierno de información se hab
 
 Las características de gobierno de la información se pueden aplicar a usuarios con licencia en ubicaciones específicas (sitios de grupo, sitios de grupo, etc.). Para obtener información sobre cómo configurar el gobierno de información para aplicar etiquetas automáticas y directivas para los usuarios con licencia, consulte [Manage Information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
 
-## <a name="records-management"></a>Administración de registros
+## <a name="records-management"></a>Records Management
 
 La administración de registros ayuda a las organizaciones a cumplir sus obligaciones de mantenimiento reglamentario y de negocios mediante el descubrimiento, la clasificación, la etiqueta, la retención y las funcionalidades de eliminación a plazo en sus datos de Microsoft 365 y de terceros.
 
@@ -240,7 +238,7 @@ Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, la protección y el
 
 Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, la protección de la información y el gobierno de Microsoft 365 proporcionan los derechos que tiene un usuario para beneficiarse de aplicar automáticamente etiquetas de retención o registro basadas en clasificadores que se puedan entrenar.
 
-Para obtener derechos específicos por licencia, vea la [comparación de licencias de cumplimiento (pdf) detallada de Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf).
+Para obtener derechos específicos por licencia, consulte la comparación detallada de licencias de cumplimiento de Microsoft 365. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 

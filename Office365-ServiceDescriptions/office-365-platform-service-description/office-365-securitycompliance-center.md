@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro de seguridad &amp; y cumplimiento está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-ms.openlocfilehash: 143e23db874a7529e20cef05d8d54b27624873f7
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
+ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267329"
+ms.lasthandoff: 06/12/2020
+ms.locfileid: "44711120"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -59,7 +59,7 @@ Para ver las opciones para conceder licencias a los usuarios con el fin de benef
 |[Clave de cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |No   |No   |No   |No   |No   |Sí   |No   |
 |||||||||
 
-<sup>1</sup> el gobierno de la información permite a los usuarios crear, publicar y aplicar manualmente etiquetas a los documentos; importar datos mediante el envío de la unidad o a través de la red.
+<sup>1</sup> el gobierno de la información permite a los usuarios crear, publicar y aplicar manualmente etiquetas a los documentos; importar datos mediante el envío de la unidad o a través de la red. Estas características están disponibles en E3 y E5, con solo disponibilidad limitada en E1. Para obtener una lista completa de las características disponibles en E1, E3 y E5, vea la comparación detallada de licencias de cumplimiento de 365 de Microsoft. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> el gobierno de información avanzado le permite conservar información importante y eliminar información inimportante mediante la clasificación de la información basándose en una directiva de retención o eliminación o en ambas. Incluye acciones inteligentes/automatizadas, como recomendaciones de directivas, la aplicación automática de etiquetas a datos, la aplicación de etiquetas basadas en tipos de datos confidenciales o consultas, la revisión de disposición y el uso de filtros de importación inteligente. También incluye la característica de supervisión para revisar las comunicaciones de los empleados con fines de seguridad y cumplimiento.
 
@@ -115,7 +115,7 @@ límite de <sup>3</sup> 50 GB.
 |[Administración del acceso con privilegios](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |No   |No   |No   |No   |Sí   |No   |No|No|No|
 |||||||||
 
-<sup>1</sup> el gobierno de la información permite a los usuarios crear, publicar y aplicar manualmente etiquetas a los documentos; importar datos mediante el envío de la unidad o a través de la red.
+<sup>1</sup> el gobierno de la información permite a los usuarios crear, publicar y aplicar manualmente etiquetas a los documentos; importar datos mediante el envío de la unidad o a través de la red. Estas características están disponibles en E3 y E5, con solo disponibilidad limitada en E1. Para obtener una lista completa de las características disponibles en E1, E3 y E5, vea la comparación detallada de licencias de cumplimiento de 365 de Microsoft. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> requiere la compra del complemento de archivado de Exchange Online.
 
