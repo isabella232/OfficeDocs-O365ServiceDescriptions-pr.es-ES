@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Necesita una comparación de características de las suscripciones que incluyen Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: 53a553004ebe43770906c9bfb6a00178ac47249f
-ms.sourcegitcommit: 0bb4df7278352b74ec1ca64b535bd33cc340cab2
+ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
+ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267349"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44845024"
 ---
 # <a name="exchange-online-service-description"></a>Descripción de servicio de Exchange Online
 
@@ -33,7 +33,7 @@ ms.locfileid: "44267349"
 [Informes de no entrega de correo electrónico en Exchange Online](https://docs.microsoft.com/Exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online)<br/> 
 [Ayuda de Exchange Online](https://docs.microsoft.com/exchange/exchange-online)
   
-Microsoft Exchange Online es una solución de mensajería hospedada que brinda las características de Microsoft Exchange Server como un servicio basado en la nube. Proporciona a los usuarios acceso a correo electrónico, calendario, contactos y tareas del equipo, la red y dispositivos móviles. Se integra completamente con Active Directory, lo que permite a los administradores usar directivas de grupo, como también otras herramientas de administración, para administrar características de Exchange Online en el entorno.
+Microsoft Exchange Online is a hosted messaging solution that delivers the capabilities of Microsoft Exchange Server as a cloud-based service. It gives users access to email, calendar, contacts, and tasks from PCs, the web, and mobile devices. It integrates fully with Active Directory, enabling administrators to use group policies, as well as other administration tools, to manage Exchange Online features across their environment.
   
 Las organizaciones que se suscriben a Exchange Online mantienen el control de los servicios de mensajería que ofrecen a los usuarios, pero no tienen la carga operativa del software de servidor local. Con los planes hospedados de Exchange Online que se describen en este documento, el correo electrónico está hospedado en servidores que admiten varios clientes simultáneamente. Estos servidores están alojados en centros de datos de Microsoft y son accesibles para los usuarios de una amplia variedad de dispositivos desde una red corporativa o a través de Internet.
   
@@ -50,9 +50,9 @@ Para obtener información acerca de las nuevas características del centro de ad
 
 Microsoft 365 está disponible en diversos planes para satisfacer mejor las necesidades de su organización. Para obtener información acerca de los diferentes planes, incluidas las opciones de planes independientes e información sobre cómo cambiar de un plan a otro, consulte [Opciones del plan 365 de Office](../office-365-platform-service-description/office-365-plan-options.md).
   
-Cada usuario que tiene acceso al servicio de Exchange Online debe tener asignado un plan de suscripción, y cada suscripción de usuario tiene su propio buzón. Las carpetas y mensajes de estos buzones residen en un ordenador que ejecuta Exchange Server en un centro de datos de Microsoft.
+Each user who accesses the Exchange Online service must be assigned to a subscription plan, and each user subscription has its own mailbox. Folders and messages in these mailboxes reside on a computer running Exchange Server at a Microsoft data center.
   
-Las suscripciones de usuario no son necesarias para salas de conferencias y buzones compartidos. Estos tipos de buzones especiales no tienen credenciales de inicio de sesión. En cambio, los usuarios con licencia con los permisos adecuados los administran y obtienen acceso a ellos mediante delegación.
+User subscriptions are not required for conference rooms and shared mailboxes. These special mailbox types do not have login credentials. Instead, licensed users with the appropriate permissions manage and access them via delegation.
   
 ## <a name="system-requirements-for-exchange-online"></a>Requisitos del sistema para Exchange Online
 
@@ -119,7 +119,7 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Directivas de la libreta de direcciones|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Libreta de direcciones jerárquica|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Listas de direcciones y lista global de direcciones|Sí|Sí|Sí|Sí|Sí<sup>18</sup>|Sí<sup>18</sup>|Sí<sup>18</sup>|Sí<sup>18</sup>|
-|Grupos de Microsoft 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
+|Grupos de Microsoft 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |Grupos de distribución|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Contactos externos (globales)|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Tarjeta de contacto universal|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -244,7 +244,7 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Alertas de capacidad|Sí|Sí|Sí|Sí|Sí|
 |Otros correos|No|No|Sí|Sí|Sí|
 |MailTips|Sí|Sí|Sí|Sí|Sí|
-|Acceso delegado|Sí|Sí|Sí \| sí|No|
+|Acceso delegado|Sí|Sí|Sí|Sí|No|
 |Reglas de la bandeja de entrada|Sí|Sí|Sí|Sí|Sí|
 |Cuentas conectadas|Sí|Sí|Sí<sup>19</sup>|Sí<sup>19</sup>|Sí<sup>19</sup>|
 |Buzones de correo inactivos|No|No|No<sup>6</sup>|Sí|No<sup>6</sup>|

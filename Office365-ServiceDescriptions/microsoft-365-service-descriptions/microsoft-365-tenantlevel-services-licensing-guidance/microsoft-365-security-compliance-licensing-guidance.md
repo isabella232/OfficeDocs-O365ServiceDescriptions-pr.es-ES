@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 4664f782fcd15f3357ae2394b54a4a4302834073
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
+ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711140"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44845014"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -210,6 +210,8 @@ Los usuarios se benefician al poder clasificar los datos con fines de retención
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
+Office 365 E5/A5/E3/a3/E1/a1 proporciona funcionalidades de gobierno de información básicas para aplicar manualmente las etiquetas de retención que no son de registros, importar archivos PST y archivar correo electrónico.
+
 Microsoft 365 E5/A5/E3/a3, Office 365 E5/A5/E3/a3 proporcionan los derechos para que un usuario se beneficie de una única directiva de retención para toda la organización o para una ubicación de retención de toda la organización o de una etiqueta de retención manual.
 
 Microsoft 365 E5/A5, cumplimiento de Microsoft 365 E5/A5, protección y control de la información de Microsoft 365, Office 365 E5/A5 y Office 365 el cumplimiento avanzado proporciona los derechos para que un usuario se beneficie de aplicar automáticamente etiquetas o directivas de retención, iniciar el período de retención de una etiqueta de retención basada en un evento personalizado, desencadenando una revisión de disposición manual al final del período de retención de la etiqueta, importando datos de terceros a través de conectores de datos nativos, detectando Contenido etiquetado y
@@ -218,7 +220,7 @@ Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, la protección de l
 
 Para obtener derechos específicos por licencia, consulte la comparación detallada de licencias de cumplimiento de Microsoft 365. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
-No incluye derechos para la retención automática basada en el aprendizaje de la máquina (clasificadores que se puedan entrenar).
+Office 365 Advanced Compliance no incluye derechos para la retención automática basada en el aprendizaje de la máquina (clasificadores que se puedan entrenar).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -406,7 +408,7 @@ Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los
 
 ## <a name="office-365-message-encryption"></a>Cifrado de mensajes de Office 365
 
-El cifrado de mensajes de Office 365 (OME) es un servicio basado en Azure Rights Management (Azure RMS) que permite enviar correo electrónico cifrado a otras personas dentro o fuera de la organización, independientemente de la dirección de correo electrónico de destino (Gmail, Yahoo! Mail, Outlook.com, etc.).
+Office 365 Message Encryption (OME) is a service built on Azure Rights Management (Azure RMS) that lets you send encrypted email to people inside or outside your organization, regardless of the destination email address (Gmail, Yahoo! Mail, Outlook.com, etc.).
 
 Para ver los mensajes cifrados, los destinatarios pueden obtener un código de acceso único, iniciar sesión con una cuenta de Microsoft, o iniciar sesión con una cuenta profesional o educativa asociada a Office 365. Los destinatarios también pueden enviar respuestas cifradas. No necesitan una suscripción para ver mensajes cifrados ni enviar respuestas cifradas.
 
