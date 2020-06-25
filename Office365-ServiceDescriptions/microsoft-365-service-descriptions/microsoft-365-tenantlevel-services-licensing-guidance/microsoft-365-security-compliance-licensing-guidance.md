@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: d9b6d40bb5c9e55805f0e26d008194aa0399ec3f
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845014"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873630"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -210,17 +210,21 @@ Los usuarios se benefician al poder clasificar los datos con fines de retención
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Office 365 E5/A5/E3/a3/E1/a1 proporciona funcionalidades de gobierno de información básicas para aplicar manualmente las etiquetas de retención que no son de registros, importar archivos PST y archivar correo electrónico.
+Microsoft 365 F3/Business Premium, Office 365 E1/a1/F3 y los planes independientes de Exchange proporcionan los derechos que tienen los usuarios para beneficiarse de la aplicación manual de etiquetas de retención que no son registros a los datos del buzón.
 
-Microsoft 365 E5/A5/E3/a3, Office 365 E5/A5/E3/a3 proporcionan los derechos para que un usuario se beneficie de una única directiva de retención para toda la organización o para una ubicación de retención de toda la organización o de una etiqueta de retención manual.
+Microsoft 365 F3/F1/Business Premium, Office 365 E1/a1/F3 y los planes independientes de SharePoint proporcionan los derechos que tienen los usuarios para beneficiarse de la aplicación manual de etiquetas de retención que no son de registros a los archivos de SharePoint o OneDrive. 
 
-Microsoft 365 E5/A5, cumplimiento de Microsoft 365 E5/A5, protección y control de la información de Microsoft 365, Office 365 E5/A5 y Office 365 el cumplimiento avanzado proporciona los derechos para que un usuario se beneficie de aplicar automáticamente etiquetas o directivas de retención, iniciar el período de retención de una etiqueta de retención basada en un evento personalizado, desencadenando una revisión de disposición manual al final del período de retención de la etiqueta, importando datos de terceros a través de conectores de datos nativos, detectando Contenido etiquetado y
+Microsoft 365 E5/A5/E3/a3, Office 365 E5/A5/E3/a3, Exchange plan 2 y Exchange Online archiving proporcionan los derechos para que un usuario se beneficie de una única directiva básica de retención de buzones en toda la organización o ubicación de la organización o para aplicar manualmente una etiqueta de retención que no es de registro a los datos del buzón.
+
+Microsoft 365 E5/A5/E3/a3, Office 365 E5/A5/E3/a3 y SharePoint plan 2 proporcionan los derechos para que un usuario se beneficie de una directiva de retención básica de SharePoint o de OneDrive, o para aplicar manualmente una etiqueta de retención que no es de registros a los archivos de SharePoint o OneDrive.
+
+Microsoft 365 E5/A5/E3/a3 y Office 365 E5/A5/E3/a3 proporcionan los derechos de un usuario para beneficiarse de una directiva de retención de Teams.
+
+Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, el gobierno y la protección de la información de Microsoft 365, Office 365 E5/A5 y el cumplimiento avanzado de Office 365 proporcionan los derechos que tiene un usuario para beneficiarse de la aplicación automática de etiquetas de retención o directivas. aplicación de etiquetas o directivas de retención predeterminadas, inicio del período de retención de una etiqueta de retención basada en un evento personalizado, desencadenando una revisión de disposición manual al final del período de retención de la etiqueta, importación de datos de terceros a través de conectores de datos nativos, declaración de un archivo a registro, detección de contenido con etiqueta y supervisión de la actividad de etiquetado.
 
 Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, la protección de la información y el gobierno de Microsoft 365 proporcionan los derechos para que un usuario se beneficie de aplicar automáticamente etiquetas de retención basadas en clasificadores que se puedan entrenar.
 
 Para obtener derechos específicos por licencia, consulte la comparación detallada de licencias de cumplimiento de Microsoft 365. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
-Office 365 Advanced Compliance no incluye derechos para la retención automática basada en el aprendizaje de la máquina (clasificadores que se puedan entrenar).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -390,9 +394,7 @@ Los usuarios se benefician de las capacidades de cumplimiento avanzadas de las b
 | Escenario | ¿Quién necesita una licencia? |
 |:-------|:------|
 | Dos grupos (Grupo 1 y grupo 2) no pueden comunicarse entre sí (es decir, los usuarios de grupo 1 tienen restringida la comunicación con los usuarios del grupo 2 y los usuarios del grupo 2 están restringidos para comunicarse con los usuarios del grupo 1). | Usuarios en el grupo 1 y el grupo 2 |
-| Los usuarios del grupo 1 están restringidos para comunicarse con el resto de la compañía. | Solo usuarios del grupo 1 |
-| El resto de la compañía tiene restringida la comunicación con el grupo 1. | Todos los usuarios excepto los del grupo 1 |
-| Los usuarios de grupo 1 tienen restricciones para comunicarse con los usuarios del grupo 2, pero los usuarios de grupo 2 pueden comunicarse con los usuarios del grupo 1. | Solo usuarios del grupo 1 ||
+| Los usuarios del grupo 1 están restringidos para comunicarse con el resto de la compañía. | Solo usuarios del grupo 1 ||
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 

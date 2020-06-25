@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para los planes de Microsoft 365 y independientes.
-ms.openlocfilehash: 0f8516b92d6d32477c95a4d6bbc894700f607226
-ms.sourcegitcommit: 5e181c09b8f7d0946419b2fb39fb700f6168536d
+ms.openlocfilehash: 1df1b5914d26e46798db04732b0574203ec1fab9
+ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/17/2020
-ms.locfileid: "44768116"
+ms.lasthandoff: 06/24/2020
+ms.locfileid: "44873622"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -25,7 +25,7 @@ Obtenga información sobre los límites de servicio de SharePoint para Microsoft
 |||||
 |:-----|:-----|:-----|:-----|
 |**Característica** <br/> |**Microsoft 365 Business Basic o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5, o SharePoint plan 1 o 2** <br/> | **Office 365 Enterprise F3** <br/> |
-|Almacenamiento total por organización<sup>1, 2, 6</sup> <br/> |1 TB más 10 GB por licencia adquirida  <br/> |1 TB más 10 GB por licencia comprado<sup>3</sup> <br/> |10 GB más 2 GB por licencia comprado<sup>3</sup> <br/> |
+|Almacenamiento total por organización<sup>1, 2, 6</sup> <br/> |1 TB más 10 GB por licencia adquirida  <br/> |1 TB más 10 GB por licencia comprado<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Almacenamiento máximo por sitio (colección de sitios)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Sitios (colecciones de sitios) por organización  <br/> |2 millones<sup>6</sup> <br/> |2 millones<sup>6</sup> <br/> |2 millones<br/> |
 |Número de usuarios  <br/> |Hasta 300  <br/> |1- 500 000<sup>7</sup> <br/> |1- 500 000<sup>7</sup> <br/> |
@@ -53,7 +53,7 @@ El límite admitido es 50.000, pero el límite general recomendado es 5.000. Rea
 
 ### <a name="file-size-and-file-path-length"></a>Tamaño de archivo y longitud de la ruta de archivo
 
-15 GB. El tamaño máximo de los archivos adjuntos a los elementos de lista es de 250 MB. Para obtener más información sobre las restricciones y los límites al usar la nueva aplicación de sincronización de OneDrive (OneDrive.exe), consulte [nombres de archivo y tipos de archivo no válidos](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+100 GB. El tamaño máximo de los archivos adjuntos a los elementos de lista es de 250 MB. Para obtener más información sobre las restricciones y los límites al usar la nueva aplicación de sincronización de OneDrive (OneDrive.exe), consulte [nombres de archivo y tipos de archivo no válidos](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 ### <a name="moving-and-copying-across-sites"></a>Mover y copiar entre sitios
 
