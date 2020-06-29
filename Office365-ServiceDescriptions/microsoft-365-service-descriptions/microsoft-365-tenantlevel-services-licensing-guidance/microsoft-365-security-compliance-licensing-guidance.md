@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: b4e1ef9efcaf8ef96be11497d81fecca7dccd912
-ms.sourcegitcommit: 83047250183f758d8330b67116cd257a799e1ea9
+ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
+ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/24/2020
-ms.locfileid: "44873630"
+ms.lasthandoff: 06/27/2020
+ms.locfileid: "44909453"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -129,7 +129,7 @@ MCAS descubre y evalúa la sombra, proporciona protección contra amenazas en ap
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, la seguridad de Microsoft 365 E5/A5/G5 y la protección de la información y el gobierno de Microsoft 365 proporcionan los derechos para que un usuario se beneficie de MCAS.
+MCAS, Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5/G5, la seguridad de Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5 y la protección de la información y el gobierno de Microsoft 365 proporcionan los derechos para que un usuario se beneficie de MCAS.
 
 Azure AD P1 proporciona los derechos para que un usuario se beneficie de las capacidades de detección de MCAS.
 
@@ -214,7 +214,7 @@ Microsoft 365 F3/Business Premium, Office 365 E1/a1/F3 y los planes independient
 
 Microsoft 365 F3/F1/Business Premium, Office 365 E1/a1/F3 y los planes independientes de SharePoint proporcionan los derechos que tienen los usuarios para beneficiarse de la aplicación manual de etiquetas de retención que no son de registros a los archivos de SharePoint o OneDrive. 
 
-Microsoft 365 E5/A5/E3/a3, Office 365 E5/A5/E3/a3, Exchange plan 2 y Exchange Online archiving proporcionan los derechos para que un usuario se beneficie de una única directiva básica de retención de buzones en toda la organización o ubicación de la organización o para aplicar manualmente una etiqueta de retención que no es de registro a los datos del buzón.
+Microsoft 365 E5/A5/E3/a3/Business Premium, Office 365 E5/A5/E3/a3, Exchange plan 2 y archivado de Exchange Online proporcionan los derechos para que un usuario se beneficie de una directiva de retención de buzones de correo básico en toda la organización o ubicación o para aplicar manualmente una etiqueta de retención que no es de registro a los datos del buzón.
 
 Microsoft 365 E5/A5/E3/a3, Office 365 E5/A5/E3/a3 y SharePoint plan 2 proporcionan los derechos para que un usuario se beneficie de una directiva de retención básica de SharePoint o de OneDrive, o para aplicar manualmente una etiqueta de retención que no es de registros a los archivos de SharePoint o OneDrive.
 
