@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium es la oferta más avanzada de Microsoft para los clientes de pequeñas y medianas empresas. Microsoft 365 Business Premium es una solución integrada que combina la productividad de Microsoft 365, la seguridad avanzada y la administración de dispositivos.
-ms.openlocfilehash: 7d4def2067790bb77456643ebc9c89d121aa8c9a
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213962"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988864"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamiento de Microsoft 365 para pequeñas y medianas empresas
 
@@ -137,7 +137,7 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |   | Protección contra amenazas avanzada de Windows Defender | No | No | No | Sí |
 |   | Inteligencia sobre amenazas de Office 365 | No | No  | No | Sí |
 |**Administración de identidades** | Restablecimiento de contraseñas de autoservicio para cuentas híbridas de Azure Active Directory, Azure MFA, acceso condicional   | No | Sí | Sí | Sí |
-|   | Azure AD: detección de aplicaciones en la nube, Azure AD Connect Health, SSO para más de 10 aplicaciones | No | No | Sí | Sí |
+|   | Azure AD: detección de aplicaciones en la nube, Azure AD Connect Health, SSO para más de 10 aplicaciones | Sí | Sí | Sí | Sí |
 |   | Plan 2 de Azure Active Directory | No | No | No | Sí |
 |**Administración de dispositivos & aplicaciones** | Microsoft Intune, Windows AutoPilot | No | Sí | Sí | Sí |
 |   | Activación en equipos compartidos, escritorio virtual de Windows | No | Sí | Sí | Sí |

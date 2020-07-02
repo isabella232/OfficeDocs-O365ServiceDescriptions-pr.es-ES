@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 2d7223061c47eaaeb4ca665e66fc99052a9688ae
-ms.sourcegitcommit: 176831056a3a992e133167a5e88cc64c71ff232b
+ms.openlocfilehash: e9bdbeb811f874f14cd292faff56dc7c0eb9a829
+ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/27/2020
-ms.locfileid: "44909453"
+ms.lasthandoff: 07/01/2020
+ms.locfileid: "44988874"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -497,7 +497,7 @@ El acceso condicional es la herramienta que Azure Active Directory usa para reun
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Enterprise Mobility + Security E3/a3, Microsoft 365 F3/E3/a3 y Azure Active Directory Premium plan 1 pueden beneficiarse de las directivas de acceso condicional. Los usuarios con licencia de Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security y Azure Active Directory Premium plan 2 pueden beneficiarse de la protección de identidad (directivas de acceso condicional basadas en riesgos).
+Los usuarios con licencia de Enterprise Mobility + Security E3/a3, Microsoft 365 F3/E3/a3/Business Premium y Azure Active Directory Premium plan 1 pueden beneficiarse de las directivas de acceso condicional. Los usuarios con licencia de Enterprise Mobility + Security E5/A5/G5, Microsoft 365 E5/A5, Microsoft E5 Security y Azure Active Directory Premium plan 2 pueden beneficiarse de la protección de identidad (directivas de acceso condicional basadas en riesgos).
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
