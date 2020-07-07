@@ -10,12 +10,11 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro de seguridad &amp; y cumplimiento está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-ms.openlocfilehash: 85c5328f19475dd19a21c74bb94d4a4068601a26
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
-ms.translationtype: MT
+ms.openlocfilehash: 5264f2bb01085980a2fdab11a854df14a674b98d
+ms.sourcegitcommit: d5ea7e294f0b231c787280928a352a6be585c580
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711120"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043042"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -50,6 +49,7 @@ Para ver las opciones para conceder licencias a los usuarios con el fin de benef
 |[exportación de exhibición de documentos electrónicos](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |No   |No   |No   |No   |Sí   |Sí   |No   |
 |[EDiscovery avanzado](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |No   |No   |No   |No   |No   |Sí   |No   |
 |[Archivado](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)  |Sí<sup>3</sup>  |Sí<sup>3</sup>  |Sí<sup>3</sup>   |Sí<sup>3</sup>  |Sí<sup>4</sup>  |Sí<sup>4</sup>  |No   |
+|[Directivas de alerta](https://docs.microsoft.com/microsoft-365/compliance/alert-policies) |Sí   |Sí   |Sí|Sí   |Sí   |Sí   |Sí   |
 |[Auditoría básica](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Sí   |Sí   |Sí|Sí   |Sí   |Sí   |Sí   |
 |[Auditoría avanzada](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit)<sup>12</sup> |No   |No   |No   |No   |No   |Sí   |No   |
 |[Cumplimiento de la comunicación (directivas de supervisión)](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)  |No   |No   |No   |No   |No   |Sí   |No   |
