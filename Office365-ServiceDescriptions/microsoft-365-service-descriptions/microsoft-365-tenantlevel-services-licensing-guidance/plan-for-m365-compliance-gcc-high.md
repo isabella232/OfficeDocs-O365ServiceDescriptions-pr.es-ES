@@ -8,17 +8,17 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades del gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government-GCC High es apropiado para cumplir estos requisitos.
-ms.openlocfilehash: b1b2b34d93ee7c8e2096fbd0492d16a466a05ef8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades del gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government – GCC High es apropiado para cumplir estos requisitos.
+ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
+ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262833"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45089641"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan para Microsoft 365 Compliance – GCC High
 
-Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades del gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government-GCC High es apropiado para cumplir estos requisitos.
+Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades del gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government – GCC High es apropiado para cumplir estos requisitos.
 
 > [!NOTE]
 >Si su organización ya ha cumplido con los requisitos de elegibilidad elevados de Microsoft 365 gubernamentales – GCC y ha sido aceptado en el programa, puede omitir los pasos 1 y 2 e ir directamente al paso 3.
@@ -37,7 +37,7 @@ Puede encontrar más información sobre la oferta de Microsoft 365 Government �
 La [Descripción del servicio Office 365 US Government](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) describe los beneficios de la plataforma, que se centran en cumplir con los requisitos de cumplimiento en los Estados Unidos.
 
 > [!TIP]
-> Es posible que desee transferir las tablas de información de la descripción del servicio a un libro de Excel y agregar dos columnas: **importante para mi organización y/n** y **que satisfaga las necesidades de la organización y/n**. A continuación, puede revisar esta lista con sus colegas para confirmar que este servicio cumple con las necesidades de su organización.
+> Es posible que desee transferir las tablas de información de la descripción del servicio a un libro de Excel y agregar dos columnas: **importante para mi organización y/n**   y **que satisfaga las necesidades de la organización y/n**. A continuación, puede revisar esta lista con sus colegas para confirmar que este servicio cumple con las necesidades de su organización.
 
 **Puntos de decisión**:<br/>
 - *Decida si Microsoft 365 Government – GCC-High es adecuado para su organización.*
@@ -70,7 +70,7 @@ Para cumplir con los requisitos de nuestros clientes de la nube de administraci�
 |                                         | Plan de archivos                                       | Sobre el trabajo pendiente de ingeniería |
 |                                         | Directivas recomendadas                            | Sobre el trabajo pendiente de ingeniería |
 |                                         | Filtros de importación inteligente                            | Sobre el trabajo pendiente de ingeniería |
-|                                         | Acerca de la retención basada en eventos                           | Sobre el trabajo pendiente de ingeniería |
+|                                         | Retención basada en eventos                           | Sobre el trabajo pendiente de ingeniería |
 |                                         | Revisión de disposición                              | Sobre el trabajo pendiente de ingeniería |
 |                                         | Barreras de información                            | Disponible              |
 |                                         | Prevención de pérdida de datos (DLP) para archivos y correo electrónico  | Disponible              |
@@ -79,15 +79,15 @@ Para cumplir con los requisitos de nuestros clientes de la nube de administraci�
 |                                         | Explorador de actividad de etiquetas                         | Sobre el trabajo pendiente de ingeniería |
 |                                         | Clasificadores capacitados                           | Sobre el trabajo pendiente de ingeniería |
 |                                         | Etiquetas unificadas y de confidencialidad         | Sobre el trabajo pendiente de ingeniería |
-| **Administración de riesgos de Insider**             | Cifrado de mensajes avanzado                     | Disponible              |
+| **Administración de riesgos internos**             | Cifrado de mensajes avanzado                     | Disponible              |
 |                                         | Administración de riesgos de Insider                         | Sobre el trabajo pendiente de ingeniería |
-|                                         | Cumplimiento con la comunidad                        | Sobre el trabajo pendiente de ingeniería |
+|                                         | Cumplimiento de las comunicaciones                        | Sobre el trabajo pendiente de ingeniería |
 |                                         | Caja de seguridad del cliente                                | Disponible              |
-|                                         | Clave del cliente                                    | Disponible              |
-|                                         | Privileged Access Management                    | Sobre el trabajo pendiente de ingeniería |
+|                                         | Clave de cliente                                    | Disponible              |
+|                                         | Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
 | **Detección de & responder**                  | Reserva local                            | Disponible              |
 |                                         | Administración de casos                                 | Disponible              |
-|                                         | Búsqueda                                          | Disponible              |
+|                                         | Search                                          | Disponible              |
 |                                         | Exportar                                          | Disponible              |
 |                                         | Descifrado de RMS                                  | Disponible              |
 |                                         | Exportación nativa                                   | Disponible              |
@@ -98,7 +98,7 @@ Para cumplir con los requisitos de nuestros clientes de la nube de administraci�
 |                                         | Codificación predictiva                               | Sobre el trabajo pendiente de ingeniería |
 |                                         | Exportación procesada con archivo de carga                 | Sobre el trabajo pendiente de ingeniería |
 |                                         | Etiquetado                                         | Sobre el trabajo pendiente de ingeniería |
-|                                         | Lectores                                         | Sobre el trabajo pendiente de ingeniería |
+|                                         | Espectadores                                         | Sobre el trabajo pendiente de ingeniería |
 |                                         | Redacciones                                      | Sobre el trabajo pendiente de ingeniería |
 |                                         | Filtrado                                       | Sobre el trabajo pendiente de ingeniería |
 |                                         | Asignación de custodio a carga de trabajo                   | Sobre el trabajo pendiente de ingeniería |
@@ -107,6 +107,7 @@ Para cumplir con los requisitos de nuestros clientes de la nube de administraci�
 |                                         | Revisión y anotaciones                             | Sobre el trabajo pendiente de ingeniería |
 |                                         | Recopilación no de Office 365                        | Sobre el trabajo pendiente de ingeniería |
 |                                         | Informe de términos de búsqueda                              | Sobre el trabajo pendiente de ingeniería |
+| **Administración de cumplimiento**               | Puntuación de cumplimiento                                 | Sobre el trabajo pendiente de ingeniería |
 
 <sup>1</sup> el estado identificado está sujeto a cambios a medida que se reevalúan los planes y las prioridades de los proyectos.<br/>
 <sup>2</sup> la aplicación manual de etiquetas requiere el [cliente de Azure Information Protection (AIP) versión 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history). 
