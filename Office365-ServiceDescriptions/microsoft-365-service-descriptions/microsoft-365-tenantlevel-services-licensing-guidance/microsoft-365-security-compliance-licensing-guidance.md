@@ -1,23 +1,22 @@
 ---
 title: Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: v-trscho
+author: vtrscho
 audience: ITPro
 ms.topic: reference
-ms.date: 4/13/2020
+ms.date: 7/13/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 6c3fe17e95d3515e1a0df3c697362bb3438e77ac
-ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
+ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
+ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45089661"
+ms.lasthandoff: 07/15/2020
+ms.locfileid: "45137566"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -70,7 +69,7 @@ Los servicios ATP de Azure actualmente no pueden limitar las capacidades a usuar
 
 ## <a name="office-365-advanced-threat-protection"></a>Protección contra amenazas avanzada de Office 365
 
-La protección contra amenazas avanzada (ATP) ayuda a proteger a las organizaciones contra ataques sofisticados, como suplantación de identidad y malware de día cero. También proporciona información útil al correlacionar señales de una amplia gama de datos para ayudar a identificar, priorizar y proporcionar recomendaciones sobre cómo resolver las posibles amenazas.
+La protección contra amenazas avanzada (ATP) ayuda a proteger a las organizaciones contra ataques sofisticados, como suplantación de identidad y malware de día cero. ATP también proporciona información útil al correlacionar las señales de una amplia gama de datos para ayudar a identificar, priorizar y proporcionar recomendaciones sobre cómo resolver las posibles amenazas.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 

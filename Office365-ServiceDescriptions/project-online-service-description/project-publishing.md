@@ -1,8 +1,7 @@
 ---
 title: Publicación de proyecto
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
 description: Las siguientes características de interoperabilidad de SharePoint y Skype empresarial están disponibles en Project online.
-ms.openlocfilehash: c0d1f8d471a9841306a0d35edfd546179185c23b
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: da4b75c49ab270a6fff3f6bc4ef5b6285a2972a8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638953"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131154"
 ---
 # <a name="project-publishing"></a>Publicación de proyecto
 
@@ -27,7 +26,7 @@ Las siguientes características de interoperabilidad de SharePoint y Skype empre
   
 ## <a name="create-a-project-site"></a>Crear un sitio de proyecto
 
-Si usa Project Web App, puede compartir un proyecto con otros creando otro sitio de proyecto en SharePoint o sincronizándolo con un sitio existente. El sitio comparte las tareas del proyecto como una lista de tareas de SharePoint. Obtenga más información sobre cómo [sincronizar con SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
+If you are using Project Web App, you can share a project with others by creating a new project site in SharePoint or by synching with an existing site. The site shares your project's tasks as a SharePoint task list. Learn more about [syncing with SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271352).
   
 ## <a name="master-projects-on-sharepoint"></a>Proyectos principales en SharePoint
 
@@ -47,7 +46,7 @@ Guarde un proyecto en una biblioteca de documentos de SharePoint para compartir 
   
 ## <a name="task-list-sync-to-sharepoint"></a>Sincronización de la lista de tareas con SharePoint
 
-Después de emparejar por primera vez su proyecto con una lista de tareas de SharePoint, puede sincronizarlo con la lista de tareas cuando actualiza el proyecto. Las relaciones anteriores entre tareas, hitos y asignación de campos (incluidas las notas) se conservan durante la sincronización. Los miembros de su equipo no han de tener Project Professional 2013 instalado para acceder a sus tareas. Obtenga más información sobre cómo [sincronizar con una lista de tareas de SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271353).
+After the first time you pair your project with a SharePoint task list, you can continue to synchronize with the task list as you update your project. Predecessor relationships between tasks, milestones, and field mapping (including notes) are maintained during synchronization. Your team members don't have to have Project Professional 2013 installed to access their tasks. Learn more about [syncing with a SharePoint tasks list](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

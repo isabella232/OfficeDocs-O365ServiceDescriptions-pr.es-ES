@@ -1,8 +1,7 @@
 ---
 title: Directiva de mensajería y conformidad
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y de directivas de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
-ms.openlocfilehash: 9ebfdae60eac6e646b3c1b64b13f3cbcb6612b0c
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640168"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132794"
 ---
 # <a name="messaging-policy-and-compliance"></a>Directiva de mensajería y cumplimiento
 
@@ -56,7 +55,7 @@ Puede configurar directivas de DLP en el EAC, lo que le permite:
 - Revisar los datos de incidentes en informes de DLP o agregar sus propios informes específicos mediante una acción de generación de informes de incidentes.
 
 > [!NOTE]
-> Las directivas de DLP se aplican solo al correo que entra o sale de la organización. El correo transmitido dentro de la organización (interno) no tiene directivas de DLP aplicadas a menos que se ejecute Exchange Server 2013 con DLP local. Esto también se aplica a las sugerencias de directivas de DLP, que informan a los usuarios sobre posibles infracciones de las directivas antes de que los datos confidenciales se envíen por error a destinatarios no autorizados.
+> DLP policies are applied only to mail that passes in or out of the organization. Intra-organizational (internal) mail does not have DLP policies applied unless you run Exchange Server 2013 with DLP on-premises. This also applies to DLP policy tips, which inform users about potential policy violations before sensitive data is mistakenly sent to unauthorized recipients.
 
 Para obtener más información sobre DLP, vea [prevención de pérdida de datos en Exchange Online](https://docs.microsoft.com/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
 
@@ -66,7 +65,7 @@ El cifrado de mensajes de Office 365, una parte de Azure Information Protection,
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Características de cumplimiento y de directivas de mensajería en las opciones de EOP.
 
-|**Característica**|**EOP independiente**|**Características de EOP <br/> en Exchange Online**|**Exchange Enterprise <br/> cal con servicios**|
+|**Característica**|**EOP independiente**|**Características de EOP en <br/> Exchange Online**|**Exchange Enterprise <br/> cal con servicios**|
 |:-----|:-----|:-----|:-----|
 |Reglas de flujo de correo|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>, 1, 3</sup>|
 |Registro de auditoría|Sí<sup>2</sup>|Sí|Sí|

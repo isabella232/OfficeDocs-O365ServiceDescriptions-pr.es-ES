@@ -1,8 +1,7 @@
 ---
 title: Aplicaciones de Office
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office es un excelente servicio que le ayudará a dar rienda suelta a sus mejores ideas, a realizar todo lo que se proponga y a estar conectado mientras está fuera. Solo debe iniciar sesión para tener una experiencia personalizada y las aplicaciones más actualizadas de Office, con características nuevas y mejoradas que se añaden periódicamente.
-ms.openlocfilehash: d5f5638ddcf965736b6d385594bf27228a5cf2b8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 3ca3f34f9c60d4e922c2f8cdcf25dc76c6ee1c1d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639678"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131434"
 ---
 # <a name="office-applications"></a>Aplicaciones de Office
 
@@ -59,7 +58,7 @@ Skype Empresarial es una aplicación de comunicaciones unificadas y un cliente d
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
-Microsoft InfoPath es un programa que le permite diseñar, distribuir, completar y enviar formularios electrónicos. Puede añadir los elementos web de InfoPath Web a un sitio de SharePoint Online. Más información acerca de [Elementos web de InfoPath Form](https://go.microsoft.com/fwlink/p/?LinkId=271687).
+Microsoft InfoPath is a program that allows you to design, distribute, complete, and submit electronic forms. You may choose to add the InfoPath Form Web Part to a SharePoint Online site. Learn more about the [InfoPath Form Web Part](https://go.microsoft.com/fwlink/p/?LinkId=271687).
 
 Para obtener información sobre cómo PowerApps, el sucesor de InfoPath, puede mejorar la productividad empresarial en SharePoint sin tener que escribir código, vea [Personalizar SharePoint con PowerApps](https://powerapps.microsoft.com/infopath/).
   

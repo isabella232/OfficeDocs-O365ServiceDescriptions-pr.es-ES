@@ -1,8 +1,7 @@
 ---
 title: Características de grupo de Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7317d894-ae8e-4ec2-bfca-7c9cb7cc32f1
 description: A continuación se describen las características de grupo disponibles en Yammer.
-ms.openlocfilehash: 873698fbe21f1be210fb89271bce0365ea4e69a9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 28600b37cab0d1ceb106b0628bad8c6b3b7b097c
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640058"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132074"
 ---
 # <a name="group-features-in-yammer"></a>Características de grupo de Yammer
 

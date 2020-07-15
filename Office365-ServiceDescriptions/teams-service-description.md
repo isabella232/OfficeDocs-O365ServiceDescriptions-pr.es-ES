@@ -1,19 +1,18 @@
 ---
 title: Descripción del servicio Microsoft Teams
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams ofrece mensajería instantánea, colaboración de archivos y datos, llamadas de audio y vídeo, reuniones en línea enriquecidas, experiencias móviles y capacidades de conferencia web amplias.
-ms.openlocfilehash: 13b7c1e08e331d90d2318eb7bad055ddf184e2d3
-ms.sourcegitcommit: 0637fd2740c83655379773f5f5d0adcf3cde693c
+ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/12/2020
-ms.locfileid: "44711150"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131994"
 ---
 # <a name="microsoft-teams-service-description"></a>Descripción del servicio Microsoft Teams
 
@@ -71,6 +70,6 @@ En esta tabla se muestra la disponibilidad de las características de Microsoft 
 <sup>4</sup> Microsoft OneNote no está disponible en nubes DoD. Las aplicaciones y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
 <sup>5</sup> los eventos en directo no están disponibles en gcc-High o Dod en este momento.<br/>
 
-## <a name="next-steps"></a>Siguientes pasos
+## <a name="next-steps"></a>Pasos siguientes
 
 Para empezar a planear la implementación de Microsoft Teams, visite la [documentación técnica de Microsoft Teams](https://aka.ms/SuccessWithTeams). Manténgase informado sobre las características y capacidades de Microsoft Teams [uniendo nuestra comunidad y visitando nuestro blog de Microsoft Teams](https://aka.ms/TeamsBlog).

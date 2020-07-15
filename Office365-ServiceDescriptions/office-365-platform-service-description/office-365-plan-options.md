@@ -1,8 +1,7 @@
 ---
 title: Opciones de planes de Office 365
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -16,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización.
-ms.openlocfilehash: fbef76e115a95c3add524e39d8b7e70d21605223
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 1410fec329c7d92de905a1d34df50d41c094b76f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213912"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132134"
 ---
 # <a name="office-365-plan-options"></a>Opciones de planes de Office 365
 
@@ -33,7 +32,7 @@ En la tabla siguiente se enumeran los diferentes planes y familias de servicios 
   
 |**Familia de servicios de Office 365**|**Planes**|
 |:-----|:-----|
-|**Business (máximo de 300 usuarios)** <br/> |[Microsoft 365 empresa Basic](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Aplicaciones de Microsoft 365 para negocios](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 Empresa Estándar](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
+|**Business (máximo de 300 usuarios)** <br/> |[Microsoft 365 Empresa Básico](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Aplicaciones de Microsoft 365 para negocios](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 Empresa Estándar](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**Enterprise (número ilimitado de usuarios)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F3](https://products.office.com/business/office-365-f1) <br/> |
 |**Educación (número ilimitado de usuarios)** <br/> |[Office 365 Educación](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Educación E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Administración pública (número ilimitado de usuarios)** <br/> |[Ver todos los planes de empresa disponibles](https://products.office.com/government/compare-office-365-government-plans) <br/> |
@@ -42,14 +41,14 @@ En la tabla siguiente se enumeran los diferentes planes y familias de servicios 
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Disponibilidad del servicio en cada plan de Office 365
 
-Cada plan de Office 365 incluye varios servicios individuales, como Exchange Online y SharePoint Online. En la siguiente tabla se muestran los servicios disponibles en cada plan de Office 365.
+Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
   
 > [!IMPORTANT]
->  Aunque un servicio pueda estar disponible en los planes de Office 365, las características disponibles en cada plan pueden ser diferentes. Para ver los detalles de las características que están disponibles para cada plan, vea la descripción de cada servicio o póngase en contacto con su representante de ventas de Microsoft o su revendedor para obtener más información. <br/>  Varios de los planes de Office 365 para empresas tienen complementos que puede comprar para su suscripción. Un complemento proporciona funciones adicionales a la suscripción. Para obtener más información, vea [Comprar o editar un complemento de Office 365 para empresas](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
+>  Aunque un servicio pueda estar disponible en los planes de Office 365, las características disponibles en cada plan pueden ser diferentes. Para ver los detalles de las características que están disponibles para cada plan, vea la descripción de cada servicio o póngase en contacto con su representante de ventas de Microsoft o su revendedor para obtener más información. <br/>  Several of the Office 365 for business plans have add-ons that you can buy for your subscription. An add-on provides additional functionality to the subscription. For more information, see [Buy or edit an add-on for Office 365 for business](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Servicio** <br/> |**Microsoft 365 empresa Basic** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Servicio** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
 |Plataforma Office 365  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Exchange Online  <br/> |Sí<sup>6</sup> <br/> |No  <br/> |Sí<sup>6</sup> <br/> |Sí<sup>6</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |

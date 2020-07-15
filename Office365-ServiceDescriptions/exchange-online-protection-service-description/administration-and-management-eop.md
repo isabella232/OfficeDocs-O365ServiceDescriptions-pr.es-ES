@@ -1,8 +1,7 @@
 ---
 title: Administración y administración [EOP]
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: En esta sección se describen las interfaces de administración que están disponibles para los administradores de Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 8b3f6cfceb015bc1730fe4c4d61c2fcda3f94259
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 70c1978f78d61ff09acd3360ff874e38db80250c
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640028"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131546"
 ---
 # <a name="administration-and-managementeop"></a>Administración y administración [EOP]
 
@@ -35,7 +34,7 @@ El Centro de administración de Exchange (EAC) es una consola de administración
   
 ## <a name="remote-windows-powershell-access"></a>Acceso a Windows PowerShell remoto
 
- Los administradores pueden usar Windows PowerShell remoto para realizar tareas de administración desde la línea de comandos. Para obtener más información sobre cómo usar Windows PowerShell, incluida información sobre cómo crear una sesión de Shell remoto y documentación sobre cada cmdlet, vea [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).
+ Administrators can use Remote Windows PowerShell to perform management tasks from the command line. For more information about how to use Windows PowerShell, including information about creating a remote Shell session and documentation about each cmdlet, see [Exchange Online PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=282266).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

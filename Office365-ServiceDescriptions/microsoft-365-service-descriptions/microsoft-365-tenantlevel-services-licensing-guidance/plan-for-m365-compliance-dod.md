@@ -1,24 +1,23 @@
 ---
 title: Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - DoD
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades de gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government – DoD es apropiado para cumplir con estos requisitos.
-ms.openlocfilehash: c45306738fcda2e3a7431cd15e5ac39d6373bd8a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades de gobierno federal de Estados Unidos u otras entidades que administran datos que están sujetos a los requisitos y las regulaciones gubernamentales, donde el uso de Microsoft 365 Government – DoD es adecuado para cumplir con estos requisitos.
+ms.openlocfilehash: f9fe178b5d22f1a40d6e5b9a12b83f9d65d22411
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262843"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132494"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - DoD
 
-Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades de gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government – DoD es apropiado para cumplir con estos requisitos.
+Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades de gobierno federal de Estados Unidos u otras entidades que administran datos que están sujetos a los requisitos y las regulaciones gubernamentales, donde el uso de Microsoft 365 Government – DoD es adecuado para cumplir con estos requisitos.
 
 > [!NOTE]
 > Si su organización ya ha cumplido los requisitos de elegibilidad de Microsoft 365 Government – DoD y ha sido aceptado en el programa, puede omitir los pasos 1 y 2 y ir directamente al paso 3.
@@ -73,7 +72,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                        |Plan de archivos                                       | Sobre el trabajo pendiente de ingeniería |
 |                                        |Directivas recomendadas                            | Sobre el trabajo pendiente de ingeniería |
 |                                        |Filtros de importación inteligente                            | Sobre el trabajo pendiente de ingeniería |  
-|                                        |Acerca de la retención basada en eventos                           | Sobre el trabajo pendiente de ingeniería |
+|                                        |Retención basada en eventos                           | Sobre el trabajo pendiente de ingeniería |
 |                                        |Revisión de disposición                              | Sobre el trabajo pendiente de ingeniería |
 |                                        |Barreras de información                            | Disponible              |
 |                                        |Prevención de pérdida de datos (DLP) para archivos y correo electrónico  | Disponible              |
@@ -82,12 +81,12 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                        |Explorador de actividad de etiquetas                         | Sobre el trabajo pendiente de ingeniería |
 |                                        |Clasificadores capacitados                           | Sobre el trabajo pendiente de ingeniería |
 |                                        |Etiquetas unificadas y de confidencialidad         | Sobre el trabajo pendiente de ingeniería |
-|**Administración de riesgos de Insider**             |Cifrado de mensajes avanzado                     | Disponible              |
+|**Administración de riesgos internos**             |Cifrado de mensajes avanzado                     | Disponible              |
 |                                        |Administración de riesgos de Insider                         | Sobre el trabajo pendiente de ingeniería |
-|                                        |Cumplimiento con la comunidad                        | Sobre el trabajo pendiente de ingeniería |
+|                                        |Cumplimiento de las comunicaciones                        | Sobre el trabajo pendiente de ingeniería |
 |                                        |Caja de seguridad del cliente                                | Disponible              |
-|                                        |Clave del cliente                                    | Disponible              |
-|                                        |Privileged Access Management                    | Sobre el trabajo pendiente de ingeniería |
+|                                        |Clave de cliente                                    | Disponible              |
+|                                        |Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
 |**Detección de & responder**                  |Reserva local                            | Disponible              |
 |                                        |Administración de casos                                 | Disponible              |
 |                                        |Búsqueda                                          | Disponible              |
@@ -101,7 +100,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                        |Codificación predictiva                               | Sobre el trabajo pendiente de ingeniería |
 |                                        |Exportación procesada con archivo de carga                 | Sobre el trabajo pendiente de ingeniería |
 |                                        |Etiquetado                                         | Sobre el trabajo pendiente de ingeniería |
-|                                        |Lectores                                         | Sobre el trabajo pendiente de ingeniería |
+|                                        |Espectadores                                         | Sobre el trabajo pendiente de ingeniería |
 |                                        |Redacciones                                      | Sobre el trabajo pendiente de ingeniería |
 |                                        |Filtrado                                       | Sobre el trabajo pendiente de ingeniería |
 |                                        |Asignación de custodio a carga de trabajo                   | Sobre el trabajo pendiente de ingeniería |

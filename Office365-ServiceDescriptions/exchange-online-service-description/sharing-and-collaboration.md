@@ -1,8 +1,7 @@
 ---
 title: Uso compartido y colaboración
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 9ea764cbaa95f5fd48b5856aae9758d9e6c26ee8
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 8e5ce6ce41f206c5736241340c393833ae78fea7
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43638898"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132594"
 ---
 # <a name="sharing-and-collaboration"></a>Uso compartido y colaboración
 
@@ -35,9 +34,9 @@ Para obtener más información sobre el uso compartido federado, vea [Uso compar
   
 ## <a name="site-mailboxes"></a>Buzones del sitio
 
-El correo electrónico y los documentos se mantienen tradicionalmente en dos repositorios de datos únicos e independientes. La mayoría de los equipos colabora mediante correo electrónico y documentos. El desafío es que pueda accederse al correo electrónico y a los documentos mediante clientes diferentes. Normalmente se traduce en una reducción en la productividad del usuario y en una mala experiencia de usuario.
+Email and documents are traditionally kept in two unique and separate data repositories. Most teams collaborate by using both email and documents. The challenge is that email and documents are accessed by using different clients. This usually results in a reduction in user productivity and a degraded user experience.
   
-El buzón del sitio es un nuevo concepto en Exchange 2013 que intenta solucionar este problema. Los buzones en el sitio mejoran la colaboración y la productividad del usuario mediante el uso de la misma interfaz de cliente al permitir el acceso a documentos de Microsoft SharePoint 2013 y correo electrónico de Exchange. Un buzón de sitio comprende funcionalmente la pertenencia al sitio de SharePoint 2013 (propietarios y miembros), almacenamiento compartido mediante un buzón de Exchange 2013 para los mensajes de correo electrónico y un sitio SharePoint 2013 para los documentos, además de una interfaz de administración que satisface las necesidades de ciclo de vida y aprovisionamiento.
+The site mailbox is a new concept in Exchange 2013 that attempts to solve this problem. Site mailboxes improve collaboration and user productivity by using the same client interface to allow access to both Microsoft SharePoint 2013 documents and Exchange email. A site mailbox functionally consists of SharePoint 2013 site membership (owners and members), shared storage through an Exchange 2013 mailbox for email messages and a SharePoint 2013 site for documents, and a management interface that addresses provisioning and life cycle needs.
   
 > [!IMPORTANT]
 > El plan debe incluir SharePoint. Los buzones del sitio requieren que los usuarios tengan licencias de SharePoint y Exchange. 

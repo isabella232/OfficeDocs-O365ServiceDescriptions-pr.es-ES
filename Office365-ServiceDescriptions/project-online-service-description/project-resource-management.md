@@ -1,8 +1,7 @@
 ---
 title: Administración de recursos del proyecto
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
 description: Las siguientes características de administración de recursos están disponibles en Project online.
-ms.openlocfilehash: 9534503dfe54be12e92041a34d156d462fb91eee
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 47f415ca77410d5a8420c6a4fabc9274743a516d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639868"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131114"
 ---
 # <a name="project-resource-management"></a>Administración de recursos del proyecto
 
@@ -31,11 +30,11 @@ Administre los costes de su proyecto.
   
 ## <a name="manage-nonworking-time"></a>Administrar el período no laborable
 
-Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no laborables a la programación de su proyecto. Obtenga más información sobre cómo [agregar días festivos y de descanso a su proyecto](https://go.microsoft.com/fwlink/p/?LinkId=271337).
+Add vacation, holidays, medical leave, and other nonworking time into your project schedule. Learn more about [adding holidays and vacation days to your project](https://go.microsoft.com/fwlink/p/?LinkId=271337).
   
 ## <a name="resource-leveling"></a>Resource leveling
 
-Cuando las personas del proyecto trabajen en demasiadas asignaciones a la vez, puede ajustar las asignaciones automáticamente. Esto se denomina redistribución de recursos. Vea [Redistribuir las asignaciones de recursos](https://go.microsoft.com/fwlink/p/?LinkId=271348).
+When people in your project are working on too many assignments at the same time, you can adjust their assignments automatically. This is known as resource leveling. See [Level resource assignments](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
 ## <a name="resource-sheet-and-usage-views"></a>Vistas de hoja y uso de recursos
 
@@ -51,7 +50,7 @@ Agregue recursos a un proyecto del equipo, Por ejemplo, recursos materiales tale
   
 ## <a name="work-generic-and-material-resources"></a>Work, generic, and material resources
 
-Agregue recursos al proyecto, tales como recursos de trabajo (personas), recursos genéricos (carpinteros) y recursos materiales (equipos y cemento). Vea [Especificación de costos de equipo y de otros recursos de costo](https://go.microsoft.com/fwlink/?LinkId=402922).
+Add resources to your project, such as work resources like people, generic resources like carpenters, and materials resources like computers and cement. See [Enter equipment costs and other cost resources](https://go.microsoft.com/fwlink/?LinkId=402922).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

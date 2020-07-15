@@ -1,7 +1,7 @@
 ---
-title: Descripción del servicio myanalytics
-ms.author: sharik
-author: skjerland
+title: Descripción del servicio MyAnalytics
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,14 +9,14 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: Características, distribuciones, privacidad y requisitos previos de myanalytics
-ms.openlocfilehash: 9b5683c0b2d19b0e263d25228b190110ba489b6a
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: f9f6a329aadb874be1e7b1e13cb0446daec8a4ee
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39262863"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132434"
 ---
-# <a name="myanalytics-service-description"></a>Descripción del servicio myanalytics
+# <a name="myanalytics-service-description"></a>Descripción del servicio MyAnalytics
 
 Myanalytics resume cómo dedica su tiempo en el trabajo y, a continuación, sugiere formas de trabajar de forma más inteligente. Myanalytics proporciona esta información a través de elementos a [los](#elements) que se puede obtener acceso en Microsoft Outlook o a través del explorador Web.
 
@@ -37,13 +37,13 @@ Myanalytics consta de los siguientes elementos:
 
 Al cumplir con las siguientes directrices, myanalytics protege la privacidad de los empleados y el cumplimiento normativo con las regulaciones locales:
 
-* Myanalytics no está diseñado para habilitar la evaluación, el seguimiento, la toma de decisiones automatizada, la creación de perfiles o la supervisión de los empleados.
+* MyAnalytics no está diseñado para permitir la evaluación, el seguimiento, la toma de decisiones, la generación de perfiles o el monitoreo automatizado de los empleados.
 * Myanalytics no concede a los empleados acceso a la nueva información de identificación personal en otros compañeros.
-* Los datos de myanalytics se procesan y almacenan en el buzón de correo de Exchange online del empleado.
-* Myanalytics admite el cumplimiento del Reglamento General de protección de datos (RGPD).
-* Myanalytics se puede configurar para que los usuarios deban participar a propósito.
+* Los datos de MyAnalytics se procesan y almacenan en el buzón de Exchange Online del empleado.
+* MyAnalytics admite el cumplimiento del Reglamento general de protección de datos (RGPD).
+* MyAnalytics puede configurarse para que las personas deban optar de forma intencionada por participar.
 * Myanalytics y Delve son aplicaciones independientes sin interdependencias.
-* Myanalytics recuerda a los usuarios que sus datos son privados y seguros.
+* MyAnalytics recuerda a los usuarios que sus datos son privados y seguros.
 
 Para obtener más información, vea la [Guía de privacidad de myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/privacy-guide).
 

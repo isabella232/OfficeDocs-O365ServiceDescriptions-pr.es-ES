@@ -1,8 +1,7 @@
 ---
 title: Office 365 Administración Pública
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En este artículo se proporciona información general sobre las características específicas de los entornos de Office 365 Government US.
-ms.openlocfilehash: fb7eac83230c92adfbd52a3744e9cfd101292050
-ms.sourcegitcommit: 2e9e8531ca651bfddcce04bb79cb72560a222d47
+ms.openlocfilehash: 7ca2dc6afa9d22f17b7c95d338e5b700df070d42
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/30/2020
-ms.locfileid: "44429065"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131734"
 ---
 # <a name="office-365-us-government"></a>Office 365 Administración Pública
 
@@ -66,7 +65,7 @@ Cuando se renueva el contrato de Office 365 Administración Pública del cliente
   
 ## <a name="customer-content-located-within-the-united-states"></a>Contenido de cliente ubicado dentro de los Estados Unidos
 
-Office 365 Administración Pública proporciona sus servicios desde centros de datos ubicados físicamente en los Estados Unidos. El siguiente contenido de cliente se almacena inactivo en centros de datos ubicados físicamente solo en los Estados Unidos: 
+Office 365 US Government services are provided from datacenters physically located in the United States. The following customer content is stored at rest in datacenters physically located only in the U.S.A.: 
   
 - Contenido de los buzones de Exchange Online (cuerpos de correo electrónico, entradas de calendario y contenido de los datos adjuntos de correo electrónico)
     
@@ -138,13 +137,13 @@ Para obtener información acerca del &amp; centro de seguridad y cumplimiento, a
   
 ## <a name="service-availability-for-each-plan"></a>Disponibilidad del servicio para cada plan
 
-Cada plan de Office 365 incluye varios servicios individuales, como Exchange Online y SharePoint Online. En la siguiente tabla se muestran los servicios disponibles en cada plan de Office 365 Administración Pública.
+Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 US Government plan.
   
 ||||||
 |:-----|:-----|:-----|:-----|:-----|
 |**Servicios de Office 365** <br/> |**Office 365 Administración Pública G1** <br/> |**Office 365 Administración Pública G3** <br/> |**Office 365 Administración Pública G5** <br/> |**Office 365 administración pública F3** <br/> |
 |Office para la Web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Aplicaciones de Microsoft 365 para empresas  <br/> |No <br/> |Sí <br/> |Sí <br/> |No  <br/> |
+|Aplicaciones de Microsoft 365 para empresas  <br/> |No <br/> |Sí <br/> |Sí <br/> |No  <br/> |
 |Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección de Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |SharePoint Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -258,7 +257,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |**[Privacidad, seguridad y transparencia](../../office-365-platform-service-description/privacy-security-and-transparency.md)** <br/> |||||
 |Gobierno de datos avanzado  <br/> |No<sup>12</sup> <br/> |No<sup>12</sup> <br/> |Sí <br/> |No<sup>12</sup> <br/> |
 |Cloud App Security  <br/> |No<sup>12, 15, 19</sup> <br/> |No<sup>12, 15, 19</sup> <br/> |Sí<sup>15, 19</sup> <br/> |No<sup>12, 15, 19</sup> <br/> |
-|Protección contra amenazas avanzada  <br/> |No<sup>12, 18</sup> <br/> |No<sup>12, 18</sup> <br/> |Sí<sup>18</sup>  <br/> |No<sup>12, 18</sup> <br/> |
+|Advanced Threat Protection  <br/> |No<sup>12, 18</sup> <br/> |No<sup>12, 18</sup> <br/> |Sí<sup>18</sup>  <br/> |No<sup>12, 18</sup> <br/> |
 |Caja de seguridad del cliente  <br/> |No<sup>12</sup> <br/> |No<sup>12</sup> <br/> |Sí <br/> |No<sup>12</sup> <br/> |
 |eDiscovery avanzado  <br/> |No<sup>12</sup> <br/> |No<sup>12</sup> <br/> |Sí  <br/> |No<sup>12</sup> <br/> |
 |Puntuación segura<sup>14</sup> <br/> |Sí<sup>9, 15</sup> <br/> |Sí<sup>9</sup> <br/> |Sí<sup>9, 15</sup> <br/> |Sí<sup>9, 15</sup> <br/> |

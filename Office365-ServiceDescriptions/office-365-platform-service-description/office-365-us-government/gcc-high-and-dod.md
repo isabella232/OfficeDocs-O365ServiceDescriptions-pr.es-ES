@@ -1,8 +1,7 @@
 ---
 title: Office 365 GCC High y DoD
-ms.author: danarl
-author: danarl
-manager: dianap
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -10,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Obtenga información sobre los compromisos exclusivos y las diferencias de los entornos altos y DoD de Office 365 GCC en comparación con el entorno comercial de Office 365.
-ms.openlocfilehash: ac769bf832d1aa3454596d5aad1c2a8b3769e6d2
-ms.sourcegitcommit: a11ee730139cd7822ee69d50fa2dd554e0c239ff
+ms.openlocfilehash: 388e7c3a37e88233982cf12a73e22622a61d1cb8
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43914786"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131984"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High y DoD
 
@@ -60,7 +59,7 @@ El personal de Office 365 no tiene acceso permanente a la producción de GCC alt
 
 Las suscripciones de los entornos altos y DoD de GCC incluyen las características principales de Exchange Online, SharePoint y Skype empresarial. Dada la mayor certificación y acreditación de la infraestructura, existen algunas diferencias de características entre las ofertas de Office Commercial Office 365 y las que están disponibles en GCC High y DoD.
   
-### <a name="exchange-online"></a>Exchange en línea
+### <a name="exchange-online"></a>Exchange Online
 
  La **compatibilidad de mensajería unificada de Exchange Online con IP-PBX local** es compatible con la integración de sistemas de IP-PBX local con mensajería unificada de Exchange online no se admite en las suscripciones alta y DoD de GCC. 
   
@@ -75,7 +74,7 @@ Además, no se admiten las direcciones de correo electrónico de alta disponibil
 
 ### <a name="skype-for-business-online"></a>Skype Empresarial Online
 
- **Conferencias RTC &amp; de llamadas RTC** : debido a la necesidad de usar la red telefónica conmutada (RTC) para los servicios orientados a la &amp; telefonía, los servicios de conferencia RTC de llamadas RTC no están disponibles actualmente en gcc High y DoD.
+ **Llamadas &amp; RTC Conferencias RTC** : debido a la necesidad de usar la red telefónica conmutada (RTC) para los servicios orientados a la telefonía, los &amp; servicios de conferencia RTC de llamadas RTC no están disponibles actualmente en gcc High y DoD.
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
 

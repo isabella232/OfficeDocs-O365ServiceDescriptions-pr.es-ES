@@ -1,8 +1,7 @@
 ---
 title: Word para la web
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word para el Web (anteriormente Word Web App) amplía su experiencia de Microsoft Word al explorador Web, donde puede trabajar con documentos directamente en el sitio web en el que está almacenado el documento.
-ms.openlocfilehash: 5845e8221ca0b1ff12e447e44136a8e3214cd325
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: c08017d34dc866bc2e0cecadb62269d31c9f44dc
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640218"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131304"
 ---
 # <a name="word-for-the-web"></a>Word para la web
 
@@ -43,7 +42,7 @@ Word para el Web guarda automáticamente el documento cuando se realizan cambios
   
 ## <a name="autotext"></a>AutoText
 
-Puede insertar bloques de texto con formato previo con Autotexto desde su Galería de autotexto. Esto es útil, por ejemplo, cuando necesita escribir repetidamente el mismo bloque grande de texto y este contiene mucho formato. Puede crear entradas de autotexto agregando texto seleccionado a la Galería de autotexto. Para obtener más información, vea [Insertar texto automáticamente](https://go.microsoft.com/fwlink/?linkid=846739).
+You can insert blocks of preformatted text using AutoText from your AutoText gallery. This is useful, for example, when you need to repeatedly enter the same large block of text and the text contains a lot of formatting. You create AutoText entries by adding selected text to the AutoText gallery. To learn more, see [Automatically insert text](https://go.microsoft.com/fwlink/?linkid=846739).
   
 ## <a name="browse-and-start-from-professionally-designed-templates"></a>Browse and start from professionally designed templates
 
@@ -71,11 +70,11 @@ No está disponible en Word para la Web. Las características avanzadas de colab
   
 ## <a name="content-controls"></a>Controles de contenido
 
-Los controles de contenido son controles individuales que puede agregar y personalizar para su uso en plantillas, formularios y documentos. Para obtener información sobre los controles de contenido, vea [Controles de contenido](https://go.microsoft.com/fwlink/p/?LinkId=846741).
+Content controls are individual controls that you can add and customize for use in templates, forms, and documents. To learn about content controls, see [Content controls](https://go.microsoft.com/fwlink/p/?LinkId=846741).
   
 ## <a name="cover-pages"></a>Portadas
 
-Microsoft Word ofrece una galería de prácticas portadas prediseñadas. Simplemente elija una portada y reemplace el texto de ejemplo por el suyo.
+Microsoft Word offers a gallery of convenient predesigned cover pages. You can simply choose a cover page and replace the sample text with your own.
   
 ## <a name="creation-of-advanced-document-elements"></a>Creation of advanced document elements
 
@@ -103,7 +102,7 @@ Busque y reemplace texto en el documento mediante la herramienta Buscar y reempl
   
 ## <a name="font-formatting"></a>Font formatting
 
-Con Word para la web, puede aplicar fuente, tamaño de fuente y varios atributos&mdash;de formato de fuente, como negrita, cursiva, subrayado y superíndice. Resalte texto, cambie el color de fuente y borre el formato del texto seleccionado. El formato del tema del documento está disponible para dar formato al texto en Word para el Web. Encontrará las fuentes del tema activo en la parte superior de la galería de fuentes y los colores de temas en la galería de colores de fuente. Obtenga más información sobre las [diferencias entre el uso de un documento en el explorador y en Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Con Word para la web, puede aplicar fuente, tamaño de fuente y varios atributos de formato de fuente, &mdash; como negrita, cursiva, subrayado y superíndice. Resalte texto, cambie el color de fuente y borre el formato del texto seleccionado. El formato del tema del documento está disponible para dar formato al texto en Word para el Web. Encontrará las fuentes del tema activo en la parte superior de la galería de fuentes y los colores de temas en la galería de colores de fuente. Obtenga más información sobre las [diferencias entre el uso de un documento en el explorador y en Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="footnotes-and-endnotes"></a>Footnotes and endnotes
 
@@ -127,7 +126,7 @@ Con Word para la web, puede crear fácilmente vínculos a marcadores dentro de u
   
 ## <a name="index"></a>Índice
 
-Un índice enumera los términos y temas que se tratan en un documento, junto con las páginas en las que aparecen. Para crear un índice, marque las entradas de este proporcionando el nombre de la entrada principal y la referencia cruzada en el documento y, después, cree el índice.
+An index lists the terms and topics that are discussed in a document, along with the pages that they appear on. To create an index, you mark the index entries by providing the name of the main entry and the cross-reference in your document, and then you build the index.
   
 ## <a name="ink-editor"></a>Editor para entradas de lápiz
 
@@ -185,7 +184,7 @@ Con Word para la web, puede cambiar el tamaño de las imágenes y agregar texto 
   
 ## <a name="preformatted-font-and-color-schemes"></a>Combinaciones de fuentes y colores con formato previo
 
-Puede usar temas para simplificar el proceso de crear documentos coincidentes de aspecto profesional. Los temas pueden aplicarse a las tablas, los gráficos, las formas y los diagramas para proporcionar combinaciones de colores, efectos y fuentes coherentes.
+You can use themes to simplify the process of creating matching, professional-looking documents. Themes can be applied to tables, charts, shapes and diagrams to provide consistent fonts, effects, and color schemes.
   
 ## <a name="present-online"></a>Present online
 
@@ -213,7 +212,7 @@ Más de una persona puede trabajar simultáneamente en un documento. En Word par
   
 ## <a name="reference-tools"></a>Reference tools
 
-Las características de índice, tabla de contenido y bibliografía se muestran en el documento tal como indica el modo Vista. En el modo Edición, aparecen como marcadores de posición que pueden eliminarse, pero no editarse ni actualizarse. Las herramientas de referencia avanzadas (como las que permiten crear una bibliografía, una tabla de contenido, un índice o un índice de autoridades) solo se encuentran disponibles en la aplicación de escritorio de Word.
+Bibliography, table of contents, and index features display in the document as expected in View mode. In Edit mode, they appear as placeholders that you can delete but not edit or update. Advanced reference tools, such as creating a bibliography, table of contents, index, or table of authorities, are only available in the Word desktop app.
   
 ## <a name="rendering-of-text-boxesshapes"></a>Representación de formas o cuadros de texto
 
@@ -221,7 +220,7 @@ Puede insertar cuadros de texto y formas y, después, cambiar rápidamente el co
   
 ## <a name="researcher"></a>Investigador
 
-Investigador le ayuda a encontrar e incorporar fuentes y contenido confiable al documento. Investigador usa Bing para obtener el contenido apropiado de la Web. Para más información, vea [Investigue para su documento con facilidad desde Word](https://go.microsoft.com/fwlink/?linkid=839490).
+Researcher helps you find and incorporate reliable sources and content for your document. Researcher uses Bing to pull in the appropriate content from the web. For more information, see [Research for your paper easily within Word](https://go.microsoft.com/fwlink/?linkid=839490).
   
 ## <a name="rich-media"></a>Rich media
 
@@ -239,7 +238,7 @@ Con Word para la web, puede guardar una copia del documento localmente.
 
 Puede usar Word para la web para guardar o convertir los archivos a PDF para que pueda compartirlos o imprimirlos mediante impresoras comerciales. Y no necesitará ningún otro software o complemento.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Uso compartido
 
 Con Word para la web, se trata de un proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre las [diferencias entre el uso de un documento en el explorador y en Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
@@ -261,7 +260,7 @@ No está disponible en Word para la Web. Puede ver una tabla de autoridades exis
   
 ## <a name="tap"></a>Pulsar
 
-Use la característica Pulsar para buscar y volver a usar contenido. Pulse en los archivos relevantes que use más frecuentemente para centrarse en la creación de documentos en lugar de buscar archivos e información. Para obtener más información, vea [Buscar y usar el contenido que necesite](https://go.microsoft.com/fwlink/?linkid=825878).
+Use the Tap feature to find and reuse content. Tap surfaces relevant files that you use most frequently, allowing you to focus on document creation rather than searching for files and information. For more information, see [Find and use the content you need](https://go.microsoft.com/fwlink/?linkid=825878).
   
 ## <a name="tell-me"></a>Información
 
@@ -285,7 +284,7 @@ Con Word para la web, puede insertar, editar o eliminar comentarios en el modo d
   
 ## <a name="watermarks"></a>Marcas de agua
 
-Las marcas de agua son texto o imágenes colocadas detrás del texto de su documento; por ejemplo, puede agregar marcas de agua de texto como Borrador o Confidencial. Word tiene una galería de marcas de agua entre las que elegir, o puede crear su propia marca de agua personalizada, como un logotipo de la empresa para su documento. 
+Watermarks are text or pictures placed behind the text in your document; for example, you can add text watermarks such as Draft or Confidential. Word has a gallery of watermarks to choose from, or you can create your own custom watermark, such as a company logo for your document. 
   
 ## <a name="word-count"></a>Word count
 

@@ -1,8 +1,7 @@
 ---
 title: Descripción del servicio Skype Empresarial Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: ¿Quiere saber qué licencias necesita comprar para obtener características específicas de Skype Empresarial? Vea información general sobre las licencias de Skype empresarial.
-ms.openlocfilehash: f98546f6b229d1573fb3b170e9da5d04763a4db2
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 283f0ee8aa60728a0ddd91665a0b68933216260d
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213712"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133074"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descripción del servicio Skype Empresarial Online
 
@@ -31,7 +30,7 @@ ms.locfileid: "44213712"
 
  **¿Desea saber qué licencias necesita comprar para obtener ciertas características de Skype empresarial? Consulte [licencias complementarias de Skype empresarial](https://go.microsoft.com/fwlink/?LinkID=799524).**
   
-Skype Empresarial Onlinees un servicio de comunicaciones que conecta a los usuarios para reuniones y conversaciones en cualquier momento y desde prácticamente cualquier lugar. Ofrece a los usuarios información sobre presencia y habilita mensajería instantánea y llamadas de audio y vídeo, reuniones online enriquecidas y extensas capacidades de conferencias web. 
+Skype for Business Online is a communications service that connects people for meetings and conversations anytime and from virtually anywhere. It gives users access to information about presence, and enables instant messaging, audio and video calling, rich online meetings, and extensive web conferencing capabilities. 
   
 Skype Empresarial está hospedado en servidores multinquilino que dan soporte a varios clientes a la vez. Estos servidores están alojados en centros de datos de Microsoft y son accesibles para los usuarios de una amplia variedad de dispositivos desde una red corporativa o a través de Internet. 
   
@@ -51,7 +50,7 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 empresa Basic** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Característica** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |**[Clientes para Skype Empresarial Online](skype-for-business-online-features.md#clients-for-skype-for-business-online)** <br/> ||||||||
 |Skype Empresarial completo  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Skype Empresarial básico  <br/> |No  <br/> |Sí<sup>1</sup> <br/> |Sí<sup>1</sup> <br/> |Sí<sup>1</sup> <br/> |No  <br/> |No  <br/> |Sí<sup>1</sup> <br/> |
@@ -60,7 +59,7 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.
 |Lync para Mac 2011  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Skype Empresarial clientes móviles  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Aplicación web Skype Empresarial  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Mensajería instantánea, presencia y contactos](skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 empresa Basic** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Mensajería instantánea, presencia y contactos](skype-for-business-online-features.md#instant-messaging-presence-and-contacts)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Presencia y mensajería instantánea de PC a PC  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Presencia y mensajería instantánea entre varias partes  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Configuración de la tarjeta de contacto  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -72,18 +71,18 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.
 |Expansión de la lista de distribución  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Chat persistente  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Fotos del remitente o el receptor  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Audio, vídeo y multimedia entre usuarios de Skype](skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 empresa Basic** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Audio, vídeo y multimedia entre usuarios de Skype](skype-for-business-online-features.md#skype-to-skype-audio-video-and-media)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Uso compartido del escritorio mediante Uso compartido de la pantalla basado en el vídeo (VbSS)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No<sup>4</sup> <br/> |
 |Uso compartido del escritorio y de aplicaciones mediante Protocolo de escritorio remoto (RDP)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No<sup>4</sup> <br/> |
 |Transferencias de archivos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Vídeo  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Calidad de servicio (QoS) de red: punto de código de servicios diferenciados (DSCP)  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**[Federación y conectividad pública de MI](skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 empresa Basic** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Federación y conectividad pública de MI](skype-for-business-online-features.md#federation-and-public-im-connectivity)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Office Communications Server 2007 R2 y Lync Server 2010 (mensajería instantánea, presencia, audio, vídeo, conferencias)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |XMPP (usado por Google Talk, por ejemplo) y federación de Sametime  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 | Federación de Skype  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Federación de AOL y Yahoo!  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**[Reuniones de Skype Empresarial Online](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 empresa Basic** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|AOL and Yahoo! federation  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
+|**[Reuniones de Skype Empresarial Online](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Conferencias de audio ad hoc y programadas  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Conferencias de vídeo ad hoc y programadas  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Vídeo del altavoz activo  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
@@ -112,7 +111,7 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.
 |Programar reuniones en línea en Outlook en la web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Delegación de Outlook para programar reuniones  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Crear reuniones públicas con identificadores de reunión estáticos desde Outlook  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**Llamadas de voz** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 empresa Basic** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Llamadas de voz** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Operadores automáticos  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Opciones de disponibilidad  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Capacidad de supervivencia de sucursal  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -152,7 +151,7 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.
 |[Planes de llamada](skype-for-business-online-features.md#calling-plans) (plan de llamadas internacionales, con la compra del complemento necesario)  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |No  <br/> |
 |[Créditos de comunicaciones](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |No  <br/> |No  <br/> |No<sup>6</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Voz de Skype empresarial  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|**[Seguridad y archivado](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 empresa Basic** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Seguridad y archivado](skype-for-business-online-features.md#security-and-archiving)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Mensajería instantánea y cifrado de medios  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Filtrado de mensajes instantáneos y archivos  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Control de versiones de cliente  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -162,7 +161,7 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.
 |Configuración de archivado a nivel de usuario  <br/> |Sí  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |No<sup>2</sup> <br/> |
 |Archivos de seguimiento de inicio de sesión  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Clave de cliente<sup>8</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
-|**[Interoperabilidad de Exchange y SharePoint](skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 empresa Basic** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Interoperabilidad de Exchange y SharePoint](skype-for-business-online-features.md#exchange-and-sharepoint-interoperability)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Interoperabilidad de presencia con Exchange Server  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Interoperabilidad de presencia con Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Interoperabilidad de mensajería unificada con Exchange Server  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -172,7 +171,7 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.
 |Interoperabilidad de archivado con Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Búsqueda de aptitudes con SharePoint Server  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Búsqueda de aptitudes con SharePoint Online  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|**[Gestión y administración de Skype Empresarial Online](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 empresa Basic** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Gestión y administración de Skype Empresarial Online](skype-for-business-online-features.md#skype-for-business-online-administration-and-management)** <br/> |**Skype Empresarial Server 2015** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Portal de Microsoft Office 365  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Centro de administración de Microsoft 365  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Centro de administración de Skype Empresarial  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -190,7 +189,7 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.
   
 ## <a name="feature-availability-across-skype-for-business-online-standalone-plans"></a>Disponibilidad de características en los planes independientes de Skype Empresarial Online
 
-La tabla siguiente muestra las características de Skype Empresarial Online disponibles en las distintas opciones independientes. Para obtener una descripción de estas características, vaya a [Características de Skype Empresarial Online](skype-for-business-online-features.md).
+The following table lists Skype for Business Online feature availability across standalone plans. For a description of these features, go to [Skype for Business Online features](skype-for-business-online-features.md).
   
 > [!NOTE]
 > Los usuarios con licencia de Plan independiente 2 de Skype Empresarial Online obtendrán el cliente de Skype Empresarial Basic, no el cliente completo de Skype Empresarial. Si desea que los usuarios tengan el cliente de Skype Empresarial, debe actualizarlos a una licencia que lo incluya, como una licencia basada en Enterprise. Para implementar el cliente de Skype empresarial para los usuarios, consulte [implementar el cliente de Skype empresarial en Microsoft 365 u Office 365](https://go.microsoft.com/fwlink/?LinkID=760715&amp;clcid=0x409). 
@@ -231,7 +230,7 @@ La tabla siguiente muestra las características de Skype Empresarial Online disp
 |Office Communications Server 2007 R2 y Lync Server 2010 (mensajería instantánea, presencia, audio, vídeo, conferencias)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |XMPP (usado por Google Talk, por ejemplo) y federación de Sametime  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
 | Federación de Skype  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Federación de AOL y Yahoo!  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
+|AOL and Yahoo! federation  <br/> |Sí  <br/> |No  <br/> |No  <br/> |
 |**[Reuniones de Skype Empresarial Online](skype-for-business-online-features.md#skype-for-business-online-meetings)** <br/> |**Skype Empresarial Server 2015** <br/> |**Skype Empresarial Online Plan independiente 1** <br/> |**Skype Empresarial Online Plan independiente 2** <br/> |
 |Conferencias de audio ad hoc y programadas  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |
 |Conferencias de vídeo ad hoc y programadas  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |

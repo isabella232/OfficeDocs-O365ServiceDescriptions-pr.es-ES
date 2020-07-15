@@ -1,8 +1,7 @@
 ---
 title: Características de perfiles de Yammer
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1be9fca5-8ccc-49b8-a638-065f0b5aa450
 description: Las siguientes características de perfil están disponibles en Yammer.
-ms.openlocfilehash: 88203bd0a62a8094596a3719e5dc3eff09cd6e31
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 4a3b0dc2a73a7d05b1acbee27ad23e732c127e02
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640023"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45133034"
 ---
 # <a name="profile-features-in-yammer"></a>Características de perfiles de Yammer
 

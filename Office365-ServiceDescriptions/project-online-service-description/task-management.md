@@ -1,8 +1,7 @@
 ---
 title: Administración de tareas
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
 description: Las siguientes características de administración de tareas están disponibles en Project online.
-ms.openlocfilehash: 2c12f50e40703a25b0c6909fc21b73ea92d73a84
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 803721cda7498c7acf876471ebc679bab5b5a577
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43640278"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131074"
 ---
 # <a name="task-management"></a>Administración de tareas
 
@@ -27,7 +26,7 @@ Las siguientes características de administración de tareas están disponibles 
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
-Cuando se desactiva una tarea, permanece en el plan del proyecto, pero no afecta lo siguiente: la disponibilidad de los recursos, la programación del proyecto o la forma en que se programan otras tareas. Obtenga más información sobre [cómo desactivar una tarea](https://go.microsoft.com/fwlink/p/?LinkId=271335).
+When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
 ## <a name="auto-complete"></a>Completar automáticamente
 
@@ -43,7 +42,7 @@ Ahora las tareas de proyectos pueden usar fechas hasta 2149.
   
 ## <a name="cross-project-critical-path"></a>Ruta crítica entre proyectos
 
-Una ruta crítica es una serie de tareas que debe completarse según la programación de un proyecto para poder finalizar a tiempo. Cree, edite y elimine una relación de dependencia con una tarea en otro proyecto. 
+A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project. 
   
 ## <a name="task-inspector"></a>Inspector de tareas
 
@@ -51,7 +50,7 @@ Vea los factores que afectan la programación de una tarea, como la fecha de ini
   
 ## <a name="task-path-analysis"></a>Análisis de ruta de acceso de tareas
 
-Vea la manera en que una tarea se conecta con otras tareas al resaltar la ruta de acceso a la tarea en todo el proyecto. Obtenga más información sobre [resaltar cómo se vinculan las tareas entre sí](https://go.microsoft.com/fwlink/p/?LinkId=271345).
+See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
 ## <a name="top-down-summary-tasks"></a>Tareas de resumen descendentes
 

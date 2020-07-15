@@ -1,8 +1,7 @@
 ---
 title: Descripción del servicio Microsoft Dynamics 365 (Online)
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dac07401-80b4-4af7-a6c9-7bc080da7236
 description: A partir de la actualización de diciembre de 2016 para Dynamics 365 (en línea y local), la funcionalidad de Dynamics CRM ahora se incluye como parte de Dynamics 365, un conjunto de aplicaciones empresariales inteligentes. Dynamics 365 unifica las capacidades de administración de las relaciones con el cliente (CRM) y planeación de recursos empresariales (ERP) al ofrecer nuevas aplicaciones para ayudar a administrar funciones empresariales específicas.
-ms.openlocfilehash: 680ebec088cd98cf1e12a9a3ac6d2db60a129c38
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: b1852f586ba6d4eb0ec8ac6c269caee922d17802
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213922"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132454"
 ---
 # <a name="microsoft-dynamics-365-online-service-description"></a>Descripción del servicio Microsoft Dynamics 365 (Online)
 
@@ -84,7 +83,7 @@ A continuación, se proporciona un resumen de alto nivel de los derechos de uso 
 |**Portal solo: envío de casos de autoservicio y inicio de chat como soporte técnico (no agente)** <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |
 |**Solo portal, no empleado: actualizar las órdenes de trabajo, crear y actualizar oportunidades** <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup> <br/> |Completo<sup>3</sup>`  <br/> |
 |**Informes de usuario, paneles y gráficos** <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Configuración de informes del sistema, gráficos del sistema, paneles del sistema** <br/> |None  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
+|**Configuración de informes del sistema, gráficos del sistema, paneles del sistema** <br/> |Ninguno  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Clientes potenciales, oportunidades, objetivos, contratos, ofertas, pedidos, facturas, competidores** <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Campañas de ventas, campañas exprés, listas de marketing, listas de precios, listas de productos** <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Unified Service Desk** <br/> |Solo lectura  <br/> |Full  <br/> |Full  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |
@@ -92,8 +91,8 @@ A continuación, se proporciona un resumen de alto nivel de los derechos de uso 
 |**Pedidos de trabajo, programación y envío con panel de programación, contratos de servicio, facturas de servicio de campo y pedidos de compra, activos de clientes, inventario, reparaciones y devoluciones** <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |Solo lectura  <br/> |Full  <br/> |
 |**Proyecto, estimaciones y gastos de proyectos, disponibilidad de recursos y administración de programación, listas de precios/contratos/facturas de proyecto, aprobar transacciones de proyecto, Microsoft Project online Premium** <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Solo lectura  <br/> |Full  <br/> |Full  <br/> |
 |**PowerApps** <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Full  <br/> |
-|**Microsoft social Engagement, voz del cliente, sin conexión móvil, Gamification Player y admin** <br/> |None  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
-|**Crear flujos de trabajo, importación masiva de datos y personalizaciones entre entidades incluidas en la aplicación** <br/> |None  <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Full  <br/> |
+|**Microsoft social Engagement, voz del cliente, sin conexión móvil, Gamification Player y admin** <br/> |Ninguno  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |Full  <br/> |
+|**Crear flujos de trabajo, importación masiva de datos y personalizaciones entre entidades incluidas en la aplicación** <br/> |Ninguno  <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Solo lectura<sup>4</sup> <br/> |Full  <br/> |
    
  **Full** = derechos de acceso total 
   

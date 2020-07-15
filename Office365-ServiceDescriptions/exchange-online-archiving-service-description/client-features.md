@@ -1,8 +1,7 @@
 ---
 title: Características de cliente de archivado de Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: El archivado de Microsoft Exchange Online permite a los usuarios conectarse a sus buzones de archivo desde distintos dispositivos y plataformas. Toda la conectividad de red con el archivo del usuario se produce a través de Internet y las conexiones de red privada virtual (VPN) no son necesarias. Para permitir el acceso de los usuarios a su buzón principal con Outlook en cualquier lugar, sin necesidad de conexión VPN, las organizaciones pueden publicar en un servidor de acceso de cliente local. Si se requiere acceso a VPN para acceder al buzón de correo principal del usuario en un servidor local, este requisito no cambiará.
-ms.openlocfilehash: 8dc4c065792b89a8a11f620b1493b91574e2013d
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: b460938b4ce9e0aeb2c0eb4ab99fe7f3fa8a8ea4
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639729"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132064"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Características de cliente de archivado de Exchange Online
 
@@ -28,14 +27,14 @@ El archivado de Microsoft Exchange Online permite a los usuarios conectarse a su
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook es un programa de correo muy completo que admite calendarios, contactos y tareas. Archivado de Exchange Online es compatible con Outlook 2013, Outlook 2010 Outlook 2007. Entre sus características principales se incluyen:
+Microsoft Outlook is a rich email program that includes support for calendaring, contacts, and tasks. Exchange Online Archiving supports Outlook 2013, Outlook 2010, and Outlook 2007. Key features include:
   
 - **Outlook en cualquier lugar** Outlook en cualquier lugar permite que los usuarios de Outlook se conecten a Exchange Server y archivado de Exchange Online a través de Internet sin necesidad de una conexión VPN. La comunicación entre Outlook y Archivado de Exchange Online se produce mediante un túnel seguro para SSL, con el componente de red de Windows RPC sobre HTTP.    
 - **Detección automática** El servicio Detección automática de Exchange configura Outlook de forma automática para que funcione con Archivado de Exchange Online. La detección automática permite que los usuarios de Outlook reciban la configuración de perfil necesaria directamente desde Exchange la primera vez (y a intervalos fijos posteriores) que inicien sesión con su dirección de correo electrónico y contraseña. 
 
 Outlook 2010 y versiones posteriores y Outlook en la web proporcionan a los usuarios las características completas del archivo, así como las características relacionadas, como la retención y las directivas de archivo.
   
-Aunque Outlook 2007 es compatible con la funcionalidad básica de archivo, no proporciona todas las características de archivo y cumplimiento existentes. Por ejemplo, no permite a los usuarios aplicar directivas de archivo o retención a los elementos de sus buzones. En su lugar, deben usar las directivas que proporciona el administrador. Para acceder al archivo, los usuarios de Outlook 2007 precisan la actualización acumulativa de Office 2007 de febrero de 2011.
+Outlook 2007 provides basic support for the archive, but not all archiving and compliance features are available in Outlook 2007. For example, with Outlook 2007, users cannot apply retention or archive policies to items in their mailboxes. They must rely on administrator-provisioned policies instead. Outlook 2007 users require the Office 2007 Cumulative Update for February 2011 to access the archive.
   
 > [!NOTE]
 > Outlook no se proporciona con Archivado de Exchange Online. Microsoft 365 apps for Enterprise (que incluye Microsoft Outlook) se incluye en algunos planes y puede adquirirse como una suscripción independiente. Para obtener más información, consulte [Opciones del plan 365 de Microsoft](../office-365-platform-service-description/office-365-plan-options.md). Para obtener más información sobre las aplicaciones de Microsoft 365 para empresas, vea la [Descripción del servicio de aplicaciones de Office](../office-applications-service-description/office-applications-service-description.md). 
@@ -48,10 +47,10 @@ La tabla siguiente contiene los clientes compatibles con Archivado de Exchange O
 |:-----|:-----|
 |Outlook 2010 y versiones posteriores  <br/> |Compatible con las últimas características de Archivado de Exchange Online.<sup>1</sup> <br/> |
 |Outlook 2007  <br/> |Compatible con Archivado de Exchange Online.<sup>1,2</sup> <br/> |
-|Outlook 2003  <br/> |No admitido  <br/> |
-|Outlook para Mac 2011  <br/> |No admitido  <br/> |
+|Outlook 2003  <br/> |No se admite  <br/> |
+|Outlook para Mac 2011  <br/> |No se admite  <br/> |
 |Outlook para Mac  <br/> |Admitido para su uso con archivado de Exchange Online. <sup>3</sup> <br/> |
-|Microsoft Office Entourage 2008, Web Services Edition  <br/> |No admitido  <br/> |
+|Microsoft Office Entourage 2008, Web Services Edition  <br/> |No se admite  <br/> |
 |IMAP y POP  <br/> |No se admite  <br/> |
 |Exchange ActiveSync (dispositivos móviles)  <br/> |No se admite  <br/> |
    
@@ -62,7 +61,7 @@ La tabla siguiente contiene los clientes compatibles con Archivado de Exchange O
 
 ## <a name="outlook-on-the-web"></a>Outlook en la web
 
-Outlook en la web es una versión basada en web del programa de correo electrónico Outlook que se usa con Exchange Online. Siempre que los usuarios se conectan&mdash;a Internet en casa, en la oficina o en la&mdash;calle, pueden tener acceso a su correo electrónico a través de Outlook en la Web.
+Outlook en la web es una versión basada en web del programa de correo electrónico Outlook que se usa con Exchange Online. Siempre que los usuarios se conectan a Internet &mdash; en casa, en la oficina o en la calle, &mdash; pueden tener acceso a su correo electrónico a través de Outlook en la Web.
   
 Los usuarios pueden tener acceso a su archivo iniciando sesión en Outlook en la Web local (usando la misma dirección URL). El archivo aparece junto a su buzón de correo principal en Outlook en la Web. No hay una forma explícita de obtener acceso al archivo directamente desde Outlook en la Web.
   

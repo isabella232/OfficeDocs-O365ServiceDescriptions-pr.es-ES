@@ -1,8 +1,7 @@
 ---
 title: Descripción del servicio de Microsoft Project
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: End User
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project Online, que se suministra con Office 365, ofrece prácticas capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de carteras de proyectos prácticamente desde cualquier lugar y con cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: b9601175bc147796922731b5367394c3392dbe55
-ms.sourcegitcommit: db9e72703c37087ea06c56761def5536fd20c570
+ms.openlocfilehash: dc5ba0c5663311a2c8817404d1fc72abbf3c772f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/19/2020
-ms.locfileid: "44820618"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131164"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -141,7 +140,7 @@ Las características que se enumeran en esta sección interactúan solo con los 
 |Vista de cuadrícula | Planear y administrar proyectos mediante una vista de cuadrícula jerárquica de tareas con Project Web App.| Sí | Sí |
 |Administración de problemas y riesgos | Identificar y realizar un seguimiento de los problemas y riesgos en el nivel de proyecto y tarea.| Sí | Sí |
 |Proyectos principales | Agrupe proyectos relacionados de menor tamaño en un solo proyecto maestro mediante Project Web App. | Sí | Sí |
-|Notifications | Manténgase al tanto de las asignaciones de tareas, el estado y los eventos de proyecto importantes con las notificaciones de Outlook y Teams. <sup>1</sup> | Sí | Sí |
+|Notificaciones | Manténgase al tanto de las asignaciones de tareas, el estado y los eventos de proyecto importantes con las notificaciones de Outlook y Teams. <sup>1</sup> | Sí | Sí |
 |Página principal de Project | Obtenga una vista de pájaros de los proyectos en los que ha trabajado recientemente, así como proyectos importantes que necesita supervisar de cerca.| Sí | Sí |
 |Control de versiones de proyectos | Comparar diferentes versiones de un proyecto con un informe que muestra lo que ha cambiado entre versiones. | Sí | Sí |
 |Tareas de resumen | Planee, administre y realice un seguimiento de las entregas y las fases mediante tareas de resumen en Project Web App. | Sí | Sí |

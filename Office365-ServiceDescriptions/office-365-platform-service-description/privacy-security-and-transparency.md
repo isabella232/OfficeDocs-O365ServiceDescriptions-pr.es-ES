@@ -1,8 +1,7 @@
 ---
 title: Privacy, security, and transparency
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,19 +11,19 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft valora las asociaciones que tenemos con nuestros clientes y pone mucho énfasis en la protección de la privacidad y seguridad de los datos de los clientes. Para obtener más información, visite el Centro de confianza de Microsoft.
-ms.openlocfilehash: 7b55ac4e310accb909e122e031c7d1557ce132fb
-ms.sourcegitcommit: 2e85637eaa2a856ae0cabf8665eebfc602ed7006
+ms.openlocfilehash: c01f86eaac77e611a9566dd77b66cafeb1d03ca0
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44044952"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131674"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
 > [!NOTE]
-> La información descrita en este artículo se aplica a las versiones internacionales de Office 365. Si usa una instancia en la nube nacional de Office 365, incluido Office 365 U.S. Government, Office 365 Germany y Office 365 ofrecido por 21Vianet, consulte [Microsoft National Clouds (Nubes nacionales de Microsoft](https://go.microsoft.com/fwlink/?linkid=841582). 
+> The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
   
-Microsoft valora las asociaciones que tenemos con nuestros clientes y pone mucho énfasis en la protección de la privacidad y seguridad de los datos de los clientes. Para obtener más información, visite el [Centro de confianza de Microsoft](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
+Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
   
 ## <a name="privacy"></a>Privacidad
 
@@ -50,9 +49,9 @@ La exhibición de documentos electrónicos, o eDiscovery, es el proceso de ident
 
 Como administrador de Microsoft, puede usar la caja de control del cliente para controlar cómo un ingeniero de soporte técnico de Microsoft obtiene acceso a los datos durante una sesión de ayuda. En casos donde el ingeniero requiere acceso a los datos para solucionar un problema, la Caja de seguridad del cliente le permite aprobar o rechazar la solicitud de acceso. Si se aprueba, el ingeniero puede tener acceso a los datos. Cada solicitud tiene una fecha de expiración y, una vez resuelto el problema, se cierra la solicitud y se revoca el acceso.
   
-La Caja de seguridad del cliente se incluye en el plan de Office 365 Enterprise 5 o se puede comprar una suscripción independiente con cualquier otro plan de Office 365 Enterprise. Para obtener más información, consulte [Solicitudes de caja de seguridad del cliente de Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
+Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
-## <a name="advanced-threat-protection"></a>Protección contra amenazas avanzada
+## <a name="advanced-threat-protection"></a>Advanced Threat Protection
 
 La protección contra amenazas avanzada de Office 365 ayuda a proteger la organización contra malware y virus. ATP incluye [vínculos seguros](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [datos adjuntos seguros](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [protección contra suplantación de identidad (phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)) y características de [inteligencia de falsificación](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Vínculos seguros protege de forma proactiva a los usuarios de hipervínculos malintencionados en un mensaje, lo que proporciona protección cada vez que se selecciona el vínculo. Datos adjuntos seguros protege contra malware y virus desconocidos enrutando todos los mensajes y datos adjuntos que no tienen una firma de virus y malware conocida hacia un entorno especial donde ATP puede detectar las malas intenciones. Para obtener más información acerca de ATP, consulte la [Descripción del servicio de protección contra amenazas avanzada de Office 365](../office-365-advanced-threat-protection-service-description.md).
   

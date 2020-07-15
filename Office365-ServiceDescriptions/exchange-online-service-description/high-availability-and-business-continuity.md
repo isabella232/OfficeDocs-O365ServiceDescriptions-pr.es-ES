@@ -1,8 +1,7 @@
 ---
 title: Alta disponibilidad y continuidad empresarial
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7b03465e-3b9c-4500-8956-a83377f4c2c3
 description: Microsoft Exchange Online ofrece un amplio soporte de retención y recuperación para la infraestructura de correo electrónico de una organización. Este servicio incluye replicación de buzón en centros de datos y la capacidad de recuperar buzones y elementos eliminados.
-ms.openlocfilehash: 6a0da1d74c74e1e301ab728e81ca884fc9edffc6
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 395977f77d4293d18c5cf53e02d43566ca9f7313
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639798"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131974"
 ---
 # <a name="high-availability-and-business-continuity"></a>Alta disponibilidad y continuidad empresarial
 
@@ -25,9 +24,9 @@ Microsoft Exchange Online ofrece un amplio soporte de retención y recuperación
   
 ## <a name="mailbox-replication-at-data-centers"></a>Replicación de buzón en centros de datos
 
-Los buzones de Exchange Online son replicados continuamente en copias de bases de datos múltiples, en centros de datos de Microsoft geográficamente dispersos, para brindar una capacidad de recuperación de datos en caso de fallos en la infraestructura de mensajería local. Para fallos a gran escala, se inician los procedimientos de gestión de continuidad de servicio.
+Exchange Online mailboxes are continuously replicated to multiple database copies, in geographically dispersed Microsoft data centers, to provide data restoration capability in the event of a local messaging infrastructure failure. For large-scale failures, service continuity management procedures are initiated.
   
-Para obtener más información sobre cómo protege Microsoft sus datos, vea [Centro de confianza de Office 365](https://go.microsoft.com/fwlink/p/?LinkId=299135). Si usa Office 365 ofrecido por 21Vianet, vea el [Centro de confianza de 21Vianet](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
+For more information about how Microsoft protects your data, see [Office 365 Trust Center](https://go.microsoft.com/fwlink/p/?LinkId=299135). If you are using Office 365 operated by 21Vianet, see the [21Vianet Trust Center](https://www.21vbluecloud.com/office365/trustcenter/onlineservices.mdl).
   
 ## <a name="deleted-mailbox-recovery"></a>Recuperación de buzones eliminados
 
@@ -39,9 +38,9 @@ Exchange Online permite a los usuarios restaurar elementos que han eliminado de 
   
 Después de eliminar un elemento de la carpeta Elementos eliminados, este permanecerá en la carpeta Elementos recuperables durante 14 días antes de ser eliminado de forma permanente, pero los administradores pueden aumentar este límite hasta un máximo de 30 días con el Windows PowerShell remoto. Los usuarios pueden recuperar el elemento durante este período de tiempo mediante la característica recuperar elementos eliminados en Outlook en la web o en Outlook. Obtenga información sobre cómo [cambiar el período de retención de elementos eliminados](https://go.microsoft.com/fwlink/p/?LinkId=286940).
   
-Si un usuario eliminó de forma manual un elemento de la carpeta Elementos recuperables, un administrador puede recuperarlo en este período de tiempo con la característica de recuperación de elementos individuales con el Windows PowerShell remoto. De forma predeterminada, la recuperación de elementos individuales se habilita cuando se crea un buzón. Para obtener más información, vea [Habilitar o deshabilitar la recuperación de elementos individuales de un buzón de correo](https://go.microsoft.com/fwlink/p/?LinkID=286941).
+If a user has manually purged an item from the Recoverable Items folder, an administrator can recover the item within the same time period by using the Single Item Recovery feature with remote Windows PowerShell. By default, Single Item Recovery is enabled when a mailbox is created. To learn more, see [Enable or disable single item recovery for a mailbox](https://go.microsoft.com/fwlink/p/?LinkID=286941).
   
-Para conservar los mensajes más de 30 días en la carpeta Elementos recuperables, las organizaciones pueden implementar un período de conservación de correos electrónicos más prolongado o conservaciones locales de duración definida. Obtenga más información sobre la [colocación de un buzón en Conservación local](https://go.microsoft.com/fwlink/p/?LinkId=271746).
+To preserve messages for longer than 30 days in the Recoverable Items folder, organizations can implement longer-term email preservation or time-based In-Place Holds. Learn more about [placing a mailbox on In-Place Hold](https://go.microsoft.com/fwlink/p/?LinkId=271746).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

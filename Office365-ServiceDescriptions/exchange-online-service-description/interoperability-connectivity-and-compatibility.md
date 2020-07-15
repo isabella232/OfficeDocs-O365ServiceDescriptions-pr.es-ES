@@ -1,8 +1,7 @@
 ---
 title: Interoperabilidad, conectividad y compatibilidad
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 6dcb4f38b62585eb6c87f175332cfaeef80230a9
-ms.sourcegitcommit: 7a68dc894dde0d06fab014c56914a78aa8cda847
+ms.openlocfilehash: 5308770ff7fc6ab6c44f27293ff89ebbffa6e72f
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43639998"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132754"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilidad, conectividad y compatibilidad
 
@@ -32,7 +31,7 @@ Lync Server 2010 y Lync Server 2013 local pueden interoperar con Exchange Online
     
 - Interoperabilidad de correo de voz
     
-Para obtener más información sobre la configuración de Skype Empresarial Server 2015 con Exchange Online, vea [Configuración de la integración local de Skype Empresarial Server 2015 con Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271804). Para obtener más información sobre las opciones de configuración híbridas, vea [Configuraciones híbridas admitidas en Skype Empresarial Server 2015](https://go.microsoft.com/fwlink/?LinkID=513084).
+For more information about how to configure Skype for Business Server 2015 with Exchange Online, see [Configuring On-premises Skype for Business Server 2015 Integration with Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271804). For hybrid configurations, see [Supported Skype for Business Server 2015 hybrid configurations](https://go.microsoft.com/fwlink/?LinkID=513084).
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
@@ -44,7 +43,7 @@ Para obtener más información sobre cómo conectar SharePoint a Exchange Online
 
 Exchange Online ofrece las siguientes características para la conexión con aplicaciones y dispositivos externos:
   
-- **A través de protocolos de mensajería como MAPI sobre HTTP, SMTP, POP3, IMAP4 o los servicios Web Exchange** Las aplicaciones externas que se ejecutan en implementaciones locales, en Azure o en otros servicios hospedados, pueden obtener acceso a los datos que se han almacenado con Exchange Online usando protocolos de mensajería como MAPI sobre HTTP, SMTP, POP3 e IMAPv4. Se recomiendan Exchange Web Services o la API administrada de Exchange Web Services para el desarrollo de aplicaciones. 
+- **Through messaging protocols such as MAPI over HTTP, SMTP, POP3, IMAP4, or Exchange Web Services** External applications that are running on-premises, in Azure, or in other hosted services can access data stored with Exchange Online by using messaging protocols such as MAPI over HTTP, SMTP, POP3, and IMAPv4. Exchange Web Services or the Exchange Web Services Managed API is recommended for application development. 
     
 - **Como servidor relé SMTP** Exchange Online se puede configurar como servicio de entrega SMTP para retransmitir los mensajes de correo electrónico enviados desde puertas de enlace de fax, hardware en red y aplicaciones personalizadas. 
     
@@ -54,7 +53,7 @@ Exchange Web Services (EWS) es la API de desarrollo recomendada para Exchange Se
   
 ### <a name="smtp-relay"></a>Relé SMTP
 
-Exchange Online se puede usar como servicio de entrega SMTP para transmitir los mensajes de correo electrónico desde puertas de enlace de fax, hardware en red y aplicaciones personalizadas. Por ejemplo, si una aplicación de línea de negocio envía alertas de correo electrónico a los usuarios, se podrá configurar para que utilice Exchange Online como sistema de entrega de correo. La aplicación o servicio deben autenticarse con el nombre de usuario y la contraseña de un buzón de correo válido y con licencia de Exchange Online y, seguidamente, conectarse mediante un TLS.
+Exchange Online can be used as an SMTP delivery service to relay email messages sent from fax gateways, network appliances, and custom applications. For example, if a line-of-business application sends email alerts to users, it can be configured to use Exchange Online as the mail delivery system. The application or service must authenticate with the username and password of a valid, licensed Exchange Online mailbox, and connect by using Transport Layer Security (TLS).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

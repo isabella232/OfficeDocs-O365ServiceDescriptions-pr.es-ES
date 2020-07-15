@@ -1,8 +1,7 @@
 ---
 title: Excel para la web
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes pueden ver y modificar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: 4866506af511200607786bc8188634c8b3139dff
-ms.sourcegitcommit: 5716c242365d632aec3d06bd090184481b2c3f9c
+ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44226230"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131424"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
@@ -39,7 +38,7 @@ Agregue un color de relleno de fondo a las pestañas de hoja en la parte inferio
 
 ## <a name="add-hyperlinks"></a>Agregar hipervínculos
 
-Agregue un hipervínculo en una celda para insertar vínculos a páginas web o abrir archivos en la Web. Puede escribir la dirección web directamente en la celda o utilizar el comando Insertar hipervínculo.
+Link to web pages or open files on the web by adding a hyperlink in a cell. You can type the web address directly in the cell or use the Insert Hyperlink command.
 
 ## <a name="advanced-data-types-stocks-and-geography"></a>Tipos de datos avanzados: existencias y geografía
 
@@ -47,7 +46,7 @@ Puede obtener datos de acciones y geográficas en Excel. Es tan fácil como escr
   
 ## <a name="advanced-time-filtering-timeline-slicer"></a>Advanced time filtering (Timeline slicer)
 
-El control de escala de tiempo permite filtrar datos modelados. Es una forma visual de ver y cambiar un intervalo continuo de fechas y filtrar objetos basados en elementos dinámicos, como tablas dinámicas y gráficos dinámicos.  
+The Timeline control lets you filter modeled data. It's a visual way to view and change a continuous range of dates and filter pivot-based objects, such as PivotTables and PivotCharts.  
   
 ## <a name="alignment"></a>Alignment
 
@@ -71,11 +70,11 @@ Excel para web puede completar lo que está escribiendo en una celda y, si hay m
   
 ## <a name="autosum"></a>AutoSum
 
-Seleccione las celdas que desea sumar y haga doble clic en Autosuma para realizar la suma total de una columna o fila de números. El resultado aparece en la siguiente celda en blanco.
+Total a column or row of numbers by selecting the cells you want to sum and then double-click AutoSum. The result appears in the next blank cell.
   
 ## <a name="calculations"></a>Cálculos
 
-Puede usar Excel para realizar una serie de cálculos iterativos, manuales y automáticos. Excel usa funciones para realizar estos cálculos. Para obtener más información, consulte [Funciones de Excel (por categoría)](https://go.microsoft.com/fwlink/?linkid=847459).
+You can use Excel to perform a variety of automatic, manual, and iterative calculations. Excel uses functions to perform these calculations. For more information, see [Excel functions by category](https://go.microsoft.com/fwlink/?linkid=847459).
 
 ## <a name="cell-references-in-formulas"></a>Referencias de celda en fórmulas
 
@@ -138,7 +137,7 @@ Puede duplicar (o copiar) hojas de cálculo dentro de un libro o a otro libro en
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Insertar libro en la página web o blog (OneDrive)
 
-Si almacena un libro de Excel en OneDrive.com, puede insertarlo directamente en un sitio web o blog. Los lectores pueden ordenar, filtrar y calcular los datos desde allí y, si actualiza el libro en OneDrive, podrán ver los últimos cambios la próxima vez que actualicen la página. Obtenga más información sobre cómo [insertar un libro de Excel en su blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
+If you store an Excel workbook on OneDrive.com, you can embed it directly in a blog or website. Your readers can sort, filter, and calculate data right there, and if you update the workbook in OneDrive, they'll see the latest changes the next time they refresh the page. Learn more about [embedding an Excel workbook on your blog](https://go.microsoft.com/fwlink/p/?LinkId=271673).
   
 ## <a name="external-references-links"></a>Referencias externas (vínculos)
 
@@ -194,7 +193,7 @@ Las ideas de Excel le ayudarán a comprender los datos a través de resúmenes v
   
 ## <a name="insert-charts"></a>Insert charts
 
-Cree un gráfico para representar los datos de manera visual. Elija de una variedad de tipos de gráficos, como columna, línea, gráficos circulares o de barra. Obtenga más información sobre los [tipos de gráficos disponibles](https://go.microsoft.com/fwlink/p/?LinkId=273899).
+Create a chart to visually represent your data. Choose from a variety of chart types, such as column, line, pie, or bar charts. Learn more about [available chart types](https://go.microsoft.com/fwlink/p/?LinkId=273899).
   
 ## <a name="insertdelete-rows-and-columns"></a>Insert/delete rows and columns
 
@@ -222,7 +221,7 @@ No puede crear rangos con nombre en Excel para la web, pero puede usar los rango
 
 ## <a name="number-formatting"></a>Formato de los números
 
-Cambie el formato de los números. Seleccione un formato como Moneda o Fecha corta de una lista de formatos, cambie la posición decimal o inserte un separador de miles.
+Change the format of numbers. Pick a format such as Currency or Short Date from a list of formats, change the decimal places, or insert a thousands separator.
   
 ## <a name="office-add-ins"></a>Complementos de Office
 
@@ -254,7 +253,7 @@ Use el comando imprimir en Excel para el Web para enviar la hoja de cálculo com
   
 ## <a name="real-time-co-authoring"></a>Real-time co-authoring
 
-Dos o más personas pueden trabajar en la misma hoja de cálculo de manera simultánea abriéndola en su explorador web en lugar de hacerlo en la aplicación de escritorio de Excel. La presencia en tiempo real permite ver en qué lugar de un documento trabajan los distintos coautores. Así puede evitar los conflictos de edición y ver los cambios en la medida en que se van realizando. Para más información sobre coautoría en tiempo real, vea [Colaborar en libros de Excel al mismo tiempo con la coautoría](https://go.microsoft.com/fwlink/?linkid=850793).
+Two or more people can work in the same spreadsheet at the same time by opening it in their web browser instead of in the Excel desktop app. Real-time presence helps you see where your co-authors are working in the document so that you don't create conflicts as you edit, and you can see changes as they're being made. For more information about real-time co-authoring, see [Collaborate on Excel workbooks at the same time with co-authoring](https://go.microsoft.com/fwlink/?linkid=850793).
   
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>Creación y edición de gráficos recomendados con controles de formato
 
@@ -286,13 +285,13 @@ No está disponible en Excel para la Web. Si la aplicación de escritorio de Exc
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
-¿Desea tener su propia copia del libro? Utilice el comando Guardar como ubicado en la ficha Archivo o haga clic con el botón secundario en el nombre del libro de su carpeta y utilice el comando Descargar para enviar una copia a su equipo.
+Want your own copy of the workbook? Use the Save As command on the File tab, or right-click the workbook's name in its folder and use the Download command to send a copy to your computer.
 
 ## <a name="sensitivity-labels"></a>Etiquetas de confidencialidad
 
 Mantenga el control del acceso y la confidencialidad de sus documentos aplicando manualmente una etiqueta o usando las etiquetas de Microsoft que se recomiendan automáticamente.
   
-## <a name="share"></a>Compartir
+## <a name="share"></a>Uso compartido
 
 Proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre cómo [usar Office para la web para trabajar juntos en office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   

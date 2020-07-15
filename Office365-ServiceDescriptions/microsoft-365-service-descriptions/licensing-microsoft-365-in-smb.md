@@ -1,20 +1,19 @@
 ---
 title: Licenciamiento de Microsoft 365 para pequeñas y medianas empresas
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium es la oferta más avanzada de Microsoft para los clientes de pequeñas y medianas empresas. Microsoft 365 Business Premium es una solución integrada que combina la productividad de Microsoft 365, la seguridad avanzada y la administración de dispositivos.
-ms.openlocfilehash: 1daa243d00291023b93b6c2f02cc0b73a06bb4a7
-ms.sourcegitcommit: 51c8a58b8d45f07a8f2d50bbcd94327283aa340d
+ms.openlocfilehash: b8171b54714cfa0c4b28347ec949a849bb819f53
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/01/2020
-ms.locfileid: "44988864"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132544"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamiento de Microsoft 365 para pequeñas y medianas empresas
 
@@ -150,7 +149,7 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |**Análisis** | Power BI Pro, myanalytics | No | No | No | Sí |
 | | Información de myanalytics | Sí | Sí | Sí | Sí |
 |**Assistance** | Correo electrónico de informe | Sí | Sí | Sí | Sí |
-|**Voz** | Conferencia RTC, PBX en la nube | No | No | No | Sí |
+|**Mensaje** | Conferencia RTC, PBX en la nube | No | No | No | Sí |
 
 **Notas**
 
@@ -190,7 +189,7 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 | OneDrive para la empresa de 1 TB       | Sí                     | Sí                    |
 | **Licencias**                                   | **Aplicaciones de Microsoft 365 para negocios** | **Aplicaciones de Microsoft 365 para empresas** |
 | Modelo de licencias                                 | Por usuario                | Por usuario               |
-| Tipo de licencia                                    | Suscripción            | Suscripción           |
+| Tipo de licencia                                    | Suscripción             | Suscripción            |
 | Instalación de PC/Mac<sup>6</sup>                     | 5                        | 2,5                      |
 | iOS/Android smartphone instala<sup>6</sup>     | 5                        | 2,5                      |
 | Tablet instala<sup>6</sup>                     | 5                        | 2,5                      |

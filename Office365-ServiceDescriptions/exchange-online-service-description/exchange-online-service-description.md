@@ -1,8 +1,7 @@
 ---
 title: Descripción de servicio de Exchange Online
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Necesita una comparación de características de las suscripciones que incluyen Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: 7b92bbbd418fd8b408f776b428dcbcc05e993bc5
-ms.sourcegitcommit: e5f098dd37787738c3399bb57c6d9596702039eb
+ms.openlocfilehash: 140cb5eb12a67248928fb75201375c039186dd09
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44845024"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131554"
 ---
 # <a name="exchange-online-service-description"></a>Descripción de servicio de Exchange Online
 
@@ -145,7 +144,7 @@ Si su organización tiene suscripciones a Office 365 Small Business, Office 365 
 |Outlook para Mac<sup>21</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí| No|
 |Outlook para iOS y Android<sup>21</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Exchange ActiveSync|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Administración de dispositivos móviles para Office 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
+|Basic Mobility and Security para Microsoft 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |POP e IMAP|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>12</sup>|
 |SMTP|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Compatibilidad con la aplicación EWS|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|

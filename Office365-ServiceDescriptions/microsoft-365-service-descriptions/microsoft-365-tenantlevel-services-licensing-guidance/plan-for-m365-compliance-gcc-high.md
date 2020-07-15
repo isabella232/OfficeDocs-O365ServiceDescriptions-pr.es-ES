@@ -1,20 +1,19 @@
 ---
 title: Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - GCC High
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades del gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government – GCC High es apropiado para cumplir estos requisitos.
-ms.openlocfilehash: 0d5fe248080b816056276ccb79687960cd1c58df
-ms.sourcegitcommit: 9297397dbc35931a75b2c7e0e8acb321d70bfd3f
+ms.openlocfilehash: 6e5e8fb9001adb873e07ce50f084bb80a3b28808
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45089641"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132504"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan para Microsoft 365 Compliance – GCC High
 
@@ -87,7 +86,7 @@ Para cumplir con los requisitos de nuestros clientes de la nube de administraci�
 |                                         | Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
 | **Detección de & responder**                  | Reserva local                            | Disponible              |
 |                                         | Administración de casos                                 | Disponible              |
-|                                         | Search                                          | Disponible              |
+|                                         | Búsqueda                                          | Disponible              |
 |                                         | Exportar                                          | Disponible              |
 |                                         | Descifrado de RMS                                  | Disponible              |
 |                                         | Exportación nativa                                   | Disponible              |

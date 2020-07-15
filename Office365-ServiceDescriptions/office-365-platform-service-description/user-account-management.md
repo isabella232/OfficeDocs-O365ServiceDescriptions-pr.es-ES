@@ -1,8 +1,7 @@
 ---
 title: User account management
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft admite los siguientes métodos para crear, administrar y autenticar usuarios.
-ms.openlocfilehash: 7711a57247c20d7185e613d042791b089b01b483
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: 38d9c247e54943599554e374bc3c9905f043361b
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44002317"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131664"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -32,7 +31,7 @@ Si necesita información sobre las herramientas que pueden ayudarle a realizar t
   
 ## <a name="need-help-signing-in-installing-or-uninstalling-or-canceling-your-subscription"></a>¿Necesita ayuda para iniciar sesión, instalar o desinstalar o para cancelar la suscripción?
 
-Obtener ayuda [para iniciar sesión en](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4) | la[instalación o desinstalación de Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658) | [Cancelar Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
+Obtener ayuda [para iniciar sesión en](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)la  |  [instalación o desinstalación de Office](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)  |  [Cancelar Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
 Para otros problemas, visite el [centro de soporte técnico de Microsoft](https://support.microsoft.com/contactus/). Para obtener soporte técnico para Office 365 operado por 21Vianet en China, póngase en contacto con el [equipo de soporte técnico de 21Vianet](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Para Office 365 Germany, póngase en contacto con el [equipo de soporte técnico de Office 365 Germany](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1). 
   
@@ -50,7 +49,7 @@ El tipo de identidad influye en la experiencia del usuario y en las opciones de 
 
 Al crear un nuevo usuario, el nombre de inicio de sesión y la dirección de correo electrónico del usuario se asignan al dominio predeterminado, tal como se establece en el centro de administración de Microsoft 365. Para obtener más información, vea [Agregar usuarios y un dominio](https://support.office.com/article/Add-your-users-and-domain-to-Office-365-6383f56d-3d09-4dcb-9b41-b5f5a5efd611). 
   
-De forma predeterminada, la suscripción usa \< el dominio _Company Name_ \> **. onmicrosoft.com** que se creó con la cuenta. \* Puede agregar uno o más dominios personalizados a Microsoft, en lugar de conservar el dominio onmicrosoft.com, y puede asignar usuarios para iniciar sesión con cualquiera de los dominios validados. Cada dominio asignado al usuario es la dirección de correo electrónico que aparecerá en los mensajes de correo electrónico enviados y recibidos. 
+De forma predeterminada, la suscripción usa el \< _company name_\> dominio **. onmicrosoft.com** que se creó con la cuenta. \* Puede agregar uno o más dominios personalizados a Microsoft, en lugar de conservar el dominio onmicrosoft.com, y puede asignar usuarios para iniciar sesión con cualquiera de los dominios validados. Cada dominio asignado al usuario es la dirección de correo electrónico que aparecerá en los mensajes de correo electrónico enviados y recibidos. 
   
 Puede hospedar hasta 900 dominios de Internet registrados, cada uno de ellos representado por un espacio de nombres diferente. 
   
@@ -58,7 +57,7 @@ Para las organizaciones que utilizan el inicio de sesión único, todos los usua
   
 Para más información acerca de los dominios en Office 365, vea la descripción del servicio de [Dominios](domains.md). 
   
-\* Si usa Office 365 operado por 21Vianet en China, el dominio predeterminado es \<nombreDeEmpresa\> **.onmsChina.cn**. Si está usando Office 365 Germany, el dominio predeterminado es \<nombreDeEmpresa\> **.onmicrosoft.de**
+\*Si usa Office 365 operado por 21Vianet en China, el dominio predeterminado es \<companyname\> **. onmsChina.cn**. Si usa Office 365 Germany, el dominio predeterminado es \<companyname\> **. onmicrosoft.de**
   
 ## <a name="authentication"></a>Autenticación
 
@@ -141,7 +140,7 @@ Al usar identidades de nube, las contraseñas se generan de forma automática cu
     
 - Para aumentar la seguridad, los usuarios deben cambiar sus contraseñas la primera vez que tengan acceso a los servicios de Microsoft. Como resultado, antes de que los usuarios puedan tener acceso a los servicios de Microsoft, deben iniciar sesión en el centro de administración de 365 de Microsoft, donde se les pide que cambien sus contraseñas.
     
-- Los administradores pueden establecer la directiva de caducidad de contraseñas. Para obtener más información, vea [Establecer una directiva de caducidad de contraseña del usuario](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
+- Admins can set the password expiration policy. For more information, see [Set a user's password expiration policy](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy).
     
 Existen varias herramientas para restablecer las contraseñas de los usuarios con las identidades de nube:
   
@@ -173,7 +172,7 @@ Los grupos de seguridad se usan en SharePoint Online para controlar el acceso a 
   
 ## <a name="administrator-roles"></a>Funciones de administrador
 
-Office 365 Enterprise sigue el modelo de control de acceso basado en roles (RBAC): los roles de administración definen los permisos y las funciones. La persona que se suscribe a Office 365 para su organización se convierte automáticamente en un administrador global o administrador de nivel superior. Existen cinco roles de administrador: administrador global, administrador de facturación, administrador de contraseñas, administrador de servicios y administrador de control de usuarios. Para más información sobre los roles de administrador en Office 365 Enterprise, incluida la forma en que se aplican a la administración de Exchange Online, SharePoint Online y Skype Empresarial Online, vea [Asignar roles de administrador](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). Si usa Office 365 ofrecido por 21Vianet en China, vea [Asignar roles de administrador en Office 365 para empresas](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
+Office 365 Enterprise follows a role-based access control (RBAC) model: permissions and capabilities are defined by management roles. The person who signs up for Office 365 for his or her organization automatically becomes a global administrator, or top-level administrator. There are five administrator roles: global administrator, billing administrator, password administrator, service administrator, and user management administrator. For more information about administrator roles in Office 365 Enterprise, including how they apply to Exchange Online, SharePoint Online, and Skype for Business Online administration, see [Assigning administrator roles](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/jj878348(v=ws.11)). If you are using Office 365 operated by 21Vianet in China, see [Assign admin roles in Office 365 for business](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles).
   
 ## <a name="delegated-administration-and-support-for-partners"></a>Soporte y administración delegada para socios
 
@@ -184,7 +183,7 @@ Los socios se pueden autorizar para administrar cuentas en nombre de los cliente
   
 ## <a name="azure-active-directory-services"></a>Servicios de Azure Active Directory
 
-Azure Active Directory (AD) ofrece funciones de administración de identidades y acceso completas a Office 365. Combina los servicios de directorio, gobierno de identidad avanzada, administración de acceso a aplicaciones y una plataforma completa basada en estándares para los desarrolladores. Para obtener más información sobre las características de AD en Office 365, vea el artículo [Personalización de marca de la página de inicio de sesión y autoservicio de restablecimiento de contraseña para usuarios en la nube](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Obtenga más información sobre las [ediciones gratuita, básica y premium de Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Azure Active Directory (AD) brings comprehensive identity and access management capabilities to Office 365. It combines directory services, advanced identity governance, application access management and a rich standards-based platform for developers. To learn more about AD features in Office 365, see [Sign in page branding and cloud user self-service password reset](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Learn more about the [Free, Basic, and Premium editions of Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

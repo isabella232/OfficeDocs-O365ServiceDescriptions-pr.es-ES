@@ -1,8 +1,7 @@
 ---
 title: Informes
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -12,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0a2ccc2e-cbc3-4bde-b419-17f4be14cd24
 description: Los administradores de Microsoft pueden ver informes que muestran cómo usa su organización los servicios de Microsoft. Estos informes permiten identificar problemas, filtrar datos y descargarlos a Microsoft Excel. También puede crear sus propios informes mediante los servicios Web de informes de Microsoft 365. Los administradores de Exchange Online y Exchange Online Protection (EOP) pueden usar los informes de protección de correo para ver datos sobre malware, correo no deseado y detecciones de reglas.
-ms.openlocfilehash: 4b2ca6916cf0f47c1eb973480e5eb2752d22d7fe
-ms.sourcegitcommit: f1322138cca22e4e1c640a31117f3b7999732b7a
+ms.openlocfilehash: e013a38446af676534043529ad285b7042c6ee34
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "44001971"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131854"
 ---
 # <a name="reports"></a>Informes
 

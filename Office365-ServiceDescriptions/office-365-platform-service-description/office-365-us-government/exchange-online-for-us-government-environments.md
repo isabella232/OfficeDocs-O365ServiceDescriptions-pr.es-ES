@@ -1,20 +1,19 @@
 ---
 title: Exchange Online para entornos gubernamentales de Estados Unidos
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general sobre las diferencias de características entre la nube del gobierno de Estados Unidos y la nube comercial, tal como se muestra en la descripción del servicio Exchange Online.
-ms.openlocfilehash: b2ea792f6a205cbe6c9031c924a22e7f6d1d3030
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: 6eae6379120b91697edf6e1cb631e8acf57e30a9
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213702"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131934"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online para entornos gubernamentales de Estados Unidos
 
@@ -117,7 +116,7 @@ En la tabla siguiente se indica si las características de Exchange Online espec
 |Outlook para Mac|Sí|Sí|Sí|Para cumplir con los requisitos de cumplimiento de GCC High y DoD, debe ejecutar al menos la versión 1803 de Office 365 ProPlus. Office 365 ProPlus no se incluye con G1 o F3.|
 |Outlook para iOS y Android|Sí|Sí|Sí||
 |Exchange ActiveSync|Sí|Sí|Sí||
-|Administración de dispositivos móviles para Office 365|Sí|Sí|Sí||
+|Basic Mobility and Security para Microsoft 365|Sí|Sí|Sí||
 |POP e IMAP|Sí|Sí|Sí||
 |SMTP|Sí|Sí|Sí||
 |Compatibilidad con la aplicación EWS|Sí|Sí|Sí||

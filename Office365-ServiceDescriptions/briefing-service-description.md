@@ -1,7 +1,7 @@
 ---
-title: Descripción del servicio de correo electrónico de informe
-ms.author: sharik
-author: skjerland
+title: Descripción del servicio de correo electrónico de Briefing
+ms.author: office365servicedesc
+author: pamelaar
 ms.reviewer: v-midehm
 ms.topic: reference
 ms.service: o365-administration
@@ -9,14 +9,14 @@ localization_priority: normal
 ms.prod: mya
 ms.custom: Adm_ServiceDesc
 description: El mensaje de informe de instrucciones ayuda a los usuarios a aprovechar al máximo todos los días. Identifica las oportunidades en varios elementos y proporciona avisos puntuales.
-ms.openlocfilehash: 40333ba8c66af3f44261093c94b6fbc87fc3fff8
-ms.sourcegitcommit: 2b9f68f7731dfd6f9d3f33e31e6303e81985ebb2
+ms.openlocfilehash: 16ce371bbe38a65cf1b302ef6cbdabdc45f28984
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/26/2019
-ms.locfileid: "39260665"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45132014"
 ---
-# <a name="briefing-email-service-description"></a>Descripción del servicio de correo electrónico de informe
+# <a name="briefing-email-service-description"></a>Descripción del servicio de correo electrónico de Briefing
 
 El mensaje informativo ayuda a los usuarios a mantener el control de su calendario y ser intencional sobre su día. Dentro de las dos primeras horas del día laborable (como se ha configurado en Outlook), recibirán un correo electrónico sobre los elementos relevantes para ayudarle mejor a prepararse para el futuro, como:
 
