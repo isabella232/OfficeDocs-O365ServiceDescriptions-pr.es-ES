@@ -1,8 +1,7 @@
 ---
 title: Descripción del servicio OneDrive
-ms.author: sharik
-author: skjerland
-manager: mnirkhe
+ms.author: office365servicedesc
+author: pamelaar
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -14,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Consulte las características de OneDrive disponibles en cada plan.
-ms.openlocfilehash: 860010cab2fb7a1c15f7335fb5d4aab2ffc3b557
-ms.sourcegitcommit: 1a212a9f9c8d28090bc0b7c6e20e76d1353dad2e
+ms.openlocfilehash: d838b4759514bd993e01d2b2aa9381677d482086
+ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44213932"
+ms.lasthandoff: 07/14/2020
+ms.locfileid: "45131294"
 ---
 # <a name="onedrive-service-description"></a>Descripción del servicio OneDrive
 
@@ -50,9 +49,9 @@ Para revisar los requisitos para la aplicación de sincronización de OneDrive y
 - Aplicaciones de Microsoft 365 para empresas
 - Office 365 Enterprise E1
 - Office 365 Administración Pública G1
-- Office 365 Empresa Essentials para ONG
-- Office 365 Empresa Premium para ONG
-- Office 365 para organizaciones sin ánimo de lucro E1
+- Microsoft 365 Empresa Básico para organizaciones sin ánimo de lucro
+- Microsoft 365 Empresa Estándar para organizaciones sin ánimo de lucro
+- Office 365 E1 para organizaciones sin ánimo de lucro
 - OneDrive para la Empresa Plan 1
 - SharePoint Online Plan 1
 - Microsoft 365 Empresa Premium
@@ -68,8 +67,8 @@ Para revisar los requisitos para la aplicación de sincronización de OneDrive y
 - Office 365 A5
 - Office 365 Administración Pública de EE. UU. G3
 - Office 365 Administración Pública de EE. UU. G5
-- Office 365 para organizaciones sin ánimo de lucro E3
-- Office 365 para ONG E5
+- Office 365 E3 para organizaciones sin ánimo de lucro
+- Office 365 E5 para organizaciones sin ánimo de lucro
 - OneDrive para la Empresa Plan 2
 - SharePoint Online Plan 2
 - Microsoft 365 Enterprise E3
@@ -78,8 +77,8 @@ Para revisar los requisitos para la aplicación de sincronización de OneDrive y
 - Microsoft 365 A5
 - Microsoft 365 Administración Pública de EE. UU. G3
 - Microsoft 365 Administración Pública de EE. UU. G5
-- Microsoft 365 E3 para ONG
-- Microsoft 365 E5 para ONG
+- Microsoft 365 E3 para organizaciones sin ánimo de lucro
+- Microsoft 365 E5 para organizaciones sin ánimo de lucro
 
 > [!NOTE]
 > Debe asignar como mínimo una licencia para un usuario antes de aumentar el espacio de almacenamiento predeterminado de OneDrive. 
