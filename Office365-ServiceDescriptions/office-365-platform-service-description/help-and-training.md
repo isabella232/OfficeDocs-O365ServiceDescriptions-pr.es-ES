@@ -28,7 +28,7 @@ Los artículos y vídeos de ayuda están disponibles en cualquier vínculo de ay
   
 ## <a name="training"></a>Aprendizaje
 
-Training is available through videos, webinars, and classes leading to certification. For more information, see:
+La formación está disponible en vídeos, seminarios web y clases que permiten certificación. Para más información, visite:
   
 - [Vídeos de aprendizaje de Office 365](https://go.microsoft.com/fwlink/p/?LinkId=286119)
     
@@ -45,13 +45,13 @@ Training is available through videos, webinars, and classes leading to certifica
 ## <a name="community"></a>Comunidad
 
 > [!NOTE]
-> Community resources apply to worldwide versions of Office 365. If you are using Office 365 operated by 21Vianet, you can use WeChat. See [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) and scroll to the bottom of the page for a QR code. 
+> Los recursos de la comunidad se aplican a las versiones internacionales de Office 365. Si usa Office 365 operado por 21Vianet, puede usar WeChat. Consulte [Obtener soporte técnico, de facturación y de suscripción para Office 365 operado por 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) y vaya a la parte inferior de la página de un código QR. 
   
-The Office 365 Community is a single destination for self-help support information. It has the latest information to help customers find answers to a variety of technical, billing, and service questions through support forums, wikis, and blogs. The support forums are staffed and moderated by Microsoft Support agents.
+La Comunidad de Office 365 es un destino único para obtener información de soporte técnico de autoayuda. Dispone de la información más reciente para ayudar a los clientes a encontrar respuestas a una variedad de dudas técnicas, de facturación y de servicios a través de wikis, blogs y foros de soporte técnico. Los foros de ayuda los administra y modera un agente de soporte de Microsoft.
   
 En la página de inicio de la Comunidad de Office 365, los clientes pueden obtener acceso a los siguientes recursos:
   
-- **Forums** Forums are intended to provide community participants with an online destination where they can post technical support questions and discuss topics related to the Office 365 services. Here are the forums that are available: 
+- **Foros** Los foros tienen el objetivo de proporcionar a los participantes de la comunidad un recurso en línea en el que pueden publicar dudas sobre soporte técnico y comentar temas relacionados con los servicios de Office 365. A continuación, se mencionan los foros disponibles: 
     
   - Implemente Office 365
     
@@ -83,9 +83,9 @@ En la página de inicio de la Comunidad de Office 365, los clientes pueden obten
     
   - Yammer
     
-- **Wikis** Wikis include wiki pages created by Microsoft employees and authenticated community members. This collaborative site encompasses the latest collective content about specific Office 365 technical scenarios. Each individual wiki page typically includes links to websites, webcasts, troubleshooting videos, FAQ pages, documents, and downloads about that specific technical scenario. Historical tracking of every revision date and author alias is provided along with the ability to compare versions. 
+- **Wikis** Las wikis incluyen páginas wiki creadas por empleados de Microsoft y miembros autenticados de la comunidad. Este sitio colaborativo abarca el contenido colectivo más actualizado sobre casos técnicos específicos de Office 365. Cada página wiki individual incluye normalmente enlaces a sitios web, difusiones por web, vídeos de solución de problemas, preguntas frecuentes, documentos y descargas sobre ese caso técnico concreto. En ellas se incluye el seguimiento histórico de cada fecha de revisión y alias de autor, junto con la función para comparar versiones. 
     
-- **Blogs** The Office 365 Technical Blog is a good resource for obtaining current information about Office 365 online services and for learning about the benefits of Office 365 features and functions. Topics include product insights, new product announcements, customer interviews, and a guest blog series. 
+- **Blogs** El blog técnico de Office 365 es un buen recurso para obtener información actual sobre los servicios en línea de Office 365 y para obtener información sobre las ventajas de las características y funciones de Office 365. Los temas incluyen información sobre productos, anuncios de productos nuevos, entrevistas a clientes y una serie de blogs de invitados. 
     
 Para obtener más información, visite la [Comunidad de Office 365](https://techcommunity.microsoft.com/).
   
@@ -99,13 +99,13 @@ Para obtener más información, visite [administrar Office 365](https://docs.mic
 
 Además de la comunidad de Office 365 y la ayuda en línea, Office 365 incluye los siguientes recursos de autoayuda:
   
-- **Troubleshooting tool for Office 365** After answering a series of short questions about your issue, the Troubleshooting tool for Office 365 suggests helpful tools and information based on your answers. To use the tool, go to the [Troubleshooting tool for Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) page of the Office 365 Community. 
+- **Herramienta de solución de problemas de Office 365** Después de responder a una serie de preguntas breves sobre su problema, la herramienta para la solución de problemas de Office 365 sugiere herramientas e información útiles basadas en sus respuestas. Para usar la herramienta, vaya a la página [Herramienta de solución de problemas de Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) de la Comunidad de Office 365. 
     
-- **Technical support videos** English language-only instructional troubleshooting videos have been developed based on the most commonly asked questions from customers. There are more than 35 individual videos and more coming every week. Topics range from an overview of the BlackBerry® Administration Center to activating and migrating directory synchronization. To view these videos, go to the Office 365 Community site and search for videos. Customers are encouraged to submit a request for a video through the community portal. Customers can also navigate to the [Office 365 YouTube](https://go.microsoft.com/fwlink/?LinkId=272059) and [Showcase](https://go.microsoft.com/fwlink/?LinkId=272060) channels. 
+- **Vídeos de soporte técnico** Se han desarrollado vídeos con instrucciones para la solución de problemas únicamente en inglés. Estos vídeos están basados en las preguntas más frecuentes realizadas por los clientes. Existen más de 35 vídeos individuales y la lista se amplía semanalmente. Los temas abarcan desde información general sobre el Centro de administración de BlackBerry® hasta la activación y migración de la sincronización de directorios. Para ver estos vídeos, vaya al sitio de la Comunidad de Office 365 y seleccione el que más le interese. Recomendamos a los clientes que envíen una petición de vídeo a través del portal de la comunidad. Los clientes también pueden navegar por los canales de [YouTube sobre Office 365](https://go.microsoft.com/fwlink/?LinkId=272059) y [Presentación](https://go.microsoft.com/fwlink/?LinkId=272060). 
     
-- **Social media** Following Office 365 on [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062), and [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) provides a way for customers and partners to become more educated about Office 365. This fast and easy way of learning about Office 365 allows customers to listen to what others are saying and be able to add their own comments and tweets. Microsoft support professionals monitor the Microsoft-related Facebook and Twitter activity to assist with any support-related inquiries. To find the most current Facebook feeds along with the most recent tweets, go to the bottom of the Office 365 Community homepage to hear the daily discussions among customers and partners. 
+- **Redes sociales** El seguimiento de Office 365 en [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062) y [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) permite a los clientes y socios obtener más información sobre Office 365. Esta forma rápida y sencilla de obtener información sobre Office 365 permite a los clientes conocer lo que dicen otros usuarios y agregar sus propios comentarios y tweets. Los profesionales de soporte técnico de Microsoft supervisan la actividad sobre Microsoft en Facebook y Twitter para ofrecer ayuda con todas las consultas de soporte. Para encontrar las fuentes más actuales de Facebook con los tweets más recientes, vaya a la parte inferior de la página principal de la Comunidad de Office 365 para leer las discusiones diarias entre clientes y socios. 
     
-    If you are using Office 365 operated by 21Vianet, you can use WeChat. See [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) and scroll to the bottom of the page for a QR code. 
+    Si usa Office 365 operado por 21Vianet, puede usar WeChat. Consulte [Obtener soporte técnico, de facturación y de suscripción para Office 365 operado por 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) y vaya a la parte inferior de la página de un código QR. 
     
 ## <a name="languages"></a>Idiomas
 

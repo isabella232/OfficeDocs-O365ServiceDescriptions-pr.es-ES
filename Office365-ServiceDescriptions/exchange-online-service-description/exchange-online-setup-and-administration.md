@@ -48,28 +48,28 @@ El centro de administración de 365 de Microsoft es el portal web desde el que e
   
 ### <a name="exchange-admin-center"></a>Centro de administración de Exchange
 
-Exchange Online provides a single unified management console that allows for ease of use and is optimized for management of on-premises, online, or hybrid deployments. The Exchange admin center (EAC) is where administrators can manage Exchange-specific settings.
+Exchange Online ofrece una consola de administración unificada exclusiva que brinda facilidad de uso y está optimizada para administrar implementaciones locales, en línea o híbridas. El Centro de administración de Exchange (EAC) es donde los administradores modifican las configuraciones específicas de Exchange.
   
 Para obtener más información sobre cómo usar el EAC para administrar Exchange Online, vea el [Centro de administración de Exchange](https://go.microsoft.com/fwlink/p/?LinkId=271807).
   
 ### <a name="remote-windows-powershell-for-exchange-online"></a>Windows PowerShell remoto para Exchange Online
 
-Using remote Windows PowerShell, administrators can connect to Exchange Online to perform management tasks that are not available or practical using the EAC. These include the ability to automate repetitive tasks, extract data for custom reports, customize policies, and connect Exchange Online to existing infrastructure and processes. For more information, see [Connect to Exchange Online Using Remote PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=308994).
+Con Windows PowerShell remoto, los administradores pueden conectarse a Exchange Online para realizar tareas de administración que no estén disponibles en el EAC o no se puedan completar fácilmente. Estas acciones pueden ser automatizar tareas repetitivas, extraer datos para informes personalizados, personalizar directivas y conectar Exchange Online a los procesos e infraestructuras existentes. Para obtener más información, vea [Conectarse a Exchange Online con PowerShell remoto](https://go.microsoft.com/fwlink/p/?LinkId=308994).
   
-Exchange Online uses the same Windows PowerShell cmdlets as Exchange Server 2013, with certain commands and parameters unavailable because these features do not apply in Exchange Online. For a list of cmdlets for use with Exchange Online, see [Exchange Online cmdlets](https://go.microsoft.com/fwlink/p/?LinkId=271808).
+Exchange Online usa los mismos cmdlets de Windows PowerShell que Exchange Server 2013, aunque algunos comandos y parámetros no están disponibles, ya que estas características no se aplican en Exchange Online. Vea la lista de los cmdlets que se usan con Exchange Online en [Cmdlets de Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271808).
   
-Administrators do not need to install any Exchange Server management or migration tools to use remote Windows PowerShell. However, administrators' computers must be running the Windows Management Framework 3.0, which contains Windows PowerShell v3 and WinRM 3.0; and Windows .NET Framework 4.5. These components are already installed on computers running Windows 8 or Windows Server 2012. Administrators can manually download these components for computers that are running Windows 7 or Windows Server 2008 R2.
+Los administradores no necesitan instalar ninguna herramienta de migración ni administración de Exchange Server para usar Windows PowerShell remoto. Sin embargo, los ordenadores de los administradores deben ejecutar Windows Management Framework 3.0, que incluye Windows PowerShell versión 3 y WinRM 3.0; y Windows .NET Framework 4.5. Estos componentes ya están instalados en ordenadores que ejecutan Windows 8 o Windows Server 2012. Los administradores pueden descargar estos componentes para los ordenadores que ejecutan Windows 7 o Windows Server 2008 R2.
   
 > [!IMPORTANT]
 > Para evitar que se produzcan ataques por denegación de servicio (DoS), solo se pueden tener abiertas tres conexiones de Windows PowerShell a la organización de Exchange Online. 
   
 ## <a name="self-service-capabilities-for-exchange-online"></a>Capacidades de autoservicio para Exchange Online
 
-Below are important capabilities that are available for managing Exchange Online by using the EAC, remote Windows PowerShell, and other tools. Many other settings can also be controlled with these tools, as described throughout this document.
+A continuación, se muestran funciones importantes disponibles para administrar Exchange Online con el EAC, Windows PowerShell remoto y otras herramientas. Muchas otras configuraciones también pueden controlarse con estas herramientas, como se describe a lo largo de este documento.
   
 ### <a name="mobile-device-security-policies-for-exchange-online"></a>Directivas de seguridad de dispositivos móviles para Exchange Online
 
-Exchange Online supports the same ActiveSync policies for mobile devices as Exchange Server 2013. Administrators can enforce and customize these security policies for specific users and groups by using the EAC or remote Windows PowerShell.
+Exchange Online admite las mismas directivas de ActiveSync para dispositivos móviles que Exchange Server 2013. Los administradores pueden aplicar y personalizar estas directivas de seguridad para grupos y usuarios concretos usando el EAC o Windows PowerShell remoto.
   
 ### <a name="message-tracking-for-exchange-online"></a>Seguimiento de mensajes para Exchange Online
 
@@ -77,7 +77,7 @@ El seguimiento de mensajes mediante la característica de informes de entrega se
   
 ### <a name="usage-reporting-for-exchange-online"></a>Informes de uso para Exchange Online
 
-Administrators can use remote Windows PowerShell to retrieve information about how people in their organizations use the Exchange Online service. Available information includes:
+Los administradores pueden usar Windows PowerShell remoto para recuperar la información sobre qué contactos de sus organizaciones usan el servicio de Exchange Online. La información disponible incluye:
   
 - Visualización del tamaño del buzón para cada usuario de la organización.
     
@@ -85,7 +85,7 @@ Administrators can use remote Windows PowerShell to retrieve information about h
     
 - Extracción de datos sobre el acceso a dispositivos móviles, como qué usuarios se conectan mediante Exchange ActiveSync, qué dispositivos están usando y cuándo fue la última vez que se conectaron.
     
-Remote Windows PowerShell cmdlets that start with "get-" can fetch data from the Exchange Online system. Administrators can export this information from Windows PowerShell in .csv format for advanced analysis or reporting.
+Los cmdlets de Windows PowerShell remoto que comienzan con "get-" pueden buscar los datos en el sistema de Exchange Online. Los administradores pueden exportar esta información desde Windows PowerShell en formato .csv para la generación de informes o análisis avanzados.
   
 Para obtener más información sobre los cmdlets de Windows PowerShell que se usan con Exchange Online, vea [Exchange Online cmdlets](https://go.microsoft.com/fwlink/p/?LinkId=271808).
   
@@ -95,7 +95,7 @@ La característica de registro de auditoría se describe en el siguiente tema: [
   
 ## <a name="service-and-product-upgrades-for-exchange-online"></a>Actualizaciones de productos y servicios para Exchange Online
 
-Exchange Online customers benefit from periodic upgrades to the latest Exchange technology, including new releases of Exchange Server. These upgrades are made available at no additional charge, and ensure that customers are always using the latest Exchange software.
+Los clientes de Exchange Online obtienen los beneficios de actualizaciones periódicas hasta la tecnología más reciente de Exchange, incluidas las nuevas versiones de Exchange Server. Estas actualizaciones están disponibles sin coste adicional y garantizan que los clientes siempre usen el software más reciente de Exchange.
   
 Cuando Microsoft lanza una versión principal de Exchange, los clientes tienen hasta 12 meses para actualizar su servicio a la nueva versión.
   

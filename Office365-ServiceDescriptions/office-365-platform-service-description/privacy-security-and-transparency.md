@@ -21,9 +21,9 @@ ms.locfileid: "45131674"
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
 > [!NOTE]
-> The information in this article applies to worldwide versions of Office 365. If you are using a national cloud instance of Office 365, including Office 365 U.S. Government, Office 365 Germany, and Office 365 operated by 21Vianet, see [Microsoft National Clouds](https://go.microsoft.com/fwlink/?linkid=841582). 
+> La información descrita en este artículo se aplica a las versiones internacionales de Office 365. Si usa una instancia en la nube nacional de Office 365, incluido Office 365 U.S. Government, Office 365 Germany y Office 365 ofrecido por 21Vianet, consulte [Microsoft National Clouds (Nubes nacionales de Microsoft](https://go.microsoft.com/fwlink/?linkid=841582). 
   
-Microsoft values the partnerships we have with our customers and places great emphasis on protecting the privacy and security of customer data. For more information, see the [Microsoft Trust Center](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
+Microsoft valora las asociaciones que tenemos con nuestros clientes y pone mucho énfasis en la protección de la privacidad y seguridad de los datos de los clientes. Para obtener más información, visite el [Centro de confianza de Microsoft](https://go.microsoft.com/fwlink/?LinkID=717951&amp;clcid=0x409).
   
 ## <a name="privacy"></a>Privacidad
 
@@ -49,7 +49,7 @@ La exhibición de documentos electrónicos, o eDiscovery, es el proceso de ident
 
 Como administrador de Microsoft, puede usar la caja de control del cliente para controlar cómo un ingeniero de soporte técnico de Microsoft obtiene acceso a los datos durante una sesión de ayuda. En casos donde el ingeniero requiere acceso a los datos para solucionar un problema, la Caja de seguridad del cliente le permite aprobar o rechazar la solicitud de acceso. Si se aprueba, el ingeniero puede tener acceso a los datos. Cada solicitud tiene una fecha de expiración y, una vez resuelto el problema, se cierra la solicitud y se revoca el acceso.
   
-Customer Lockbox is included in the Office 365 Enterprise 5 plan, or you can purchase a separate subscription with any other Office 365 Enterprise plan. For more information, see [Office 365 Customer Lockbox Requests](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
+La Caja de seguridad del cliente se incluye en el plan de Office 365 Enterprise 5 o se puede comprar una suscripción independiente con cualquier otro plan de Office 365 Enterprise. Para obtener más información, consulte [Solicitudes de caja de seguridad del cliente de Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
 ## <a name="advanced-threat-protection"></a>Advanced Threat Protection
 

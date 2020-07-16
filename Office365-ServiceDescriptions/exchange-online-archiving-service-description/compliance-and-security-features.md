@@ -27,15 +27,15 @@ En las siguientes secciones se describen las características de cumplimiento de
 
 Archivado de Exchange Online ofrece directivas de retención para ayudar a las organizaciones a reducir las responsabilidades asociadas con el correo electrónico y otras comunicaciones. Con estas directivas, los administradores pueden aplicar la configuración de retención a carpetas específicas de los buzones de los usuarios. Los administradores también pueden proporcionar a los usuarios un menú de directivas de retención y permitirles aplicar las directivas a elementos, conversaciones o carpetas específicos mediante Outlook 2010 o versiones posteriores o Outlook en la Web. En Archivado de Exchange Online, los administradores administran políticas de retención desde la infraestructura local.
   
-Exchange Online Archiving offers two types of policies: archive and delete. Both types can be applied to the same item or folder. For example, a user can tag an email message so that it is automatically moved to the personal archive in a specified number of days and deleted after another span of days.
+Archivado de Exchange Online ofrece dos tipos de directivas: de archivado y de eliminación. Ambos tipos se pueden aplicar en el mismo elemento o carpeta. Por ejemplo, un usuario puede etiquetar un mensaje de correo electrónico para que se transfiera automáticamente a su archivo personal al transcurrir un cierto número de días y se elimine el momento especificado.
   
 Con Outlook 2010 y versiones posteriores y Outlook en la web, los usuarios pueden aplicar directivas de retención a carpetas, conversaciones o mensajes individuales y también pueden ver las directivas de retención aplicadas y las fechas de eliminación esperadas en los mensajes. Los usuarios de otros clientes de correo electrónico pueden eliminar o archivar los mensajes conforme a las directivas de retención que les suministren los administradores, aunque no disfrutarán del mismo grado de visibilidad y control.
   
-The retention policy capabilities offered in Exchange Online Archiving are the same as those offered in Exchange Server 2010 Service Pack 2 (SP2) and later. Administrators can manage retention policies from on-premises Exchange Server 2010 and later environments. Managed Folders, an older approach to messaging records management that was introduced in Exchange 2007, are not available in and not compatible with Exchange Online Archiving. For more details, see [Retention Tags and Retention Policies](https://go.microsoft.com/fwlink/p/?LinkID=314153).
+Las capacidades de directivas de retención que se ofrecen en Archivado de Exchange Online son las mismas que se ofrecen en Exchange Server 2010 Service Pack 2 (SP2) y versiones posteriores. Los administradores pueden administrar las directivas de retención desde Exchange Server 2010 local y entornos posteriores. Las carpetas administradas, un enfoque anterior para la administración de registros de mensajería introducido en Exchange 2007, no están disponibles y no son compatibles con el Archivado de Exchange Online. Para obtener más información, vea [Etiquetas de retención y directivas de retención en Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
 ### <a name="in-place-hold-and-litigation-hold"></a>Retención local y retención por juicio
 
-When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
+Cuando existen sospechas fundadas de posibles litigios, se solicita a las organizaciones que conserven toda la información almacenada electrónicamente (ESI), incluso el correo electrónico que sea relevante para el caso. Dichas sospechas pueden tener lugar antes de que se conozcan los pormenores del caso, por lo que se suele conservar gran cantidad de material. Las organizaciones pueden conservar todo el correo electrónico relacionado con un tema concreto o el perteneciente a ciertos usuarios.
   
 En Exchange Online, puede usar la retención local o por juicio para realizar las tareas siguientes:
   
@@ -67,19 +67,19 @@ Para obtener más información, vea [Conservación local y retención por juicio
   
 ### <a name="in-place-ediscovery"></a>Exhibición de documentos electrónicos en contexto
 
-Exchange Online Archiving supports In-Place eDiscovery for searching the contents of mailboxes in an organization. Using the Exchange admin center or remote Windows PowerShell from an on-premises Exchange 2013 server, administrators or authorized Discovery managers can search a variety of mailbox items - including email messages, attachments, calendar appointments, tasks, and contacts. In-Place eDiscovery can search simultaneously across primary mailboxes and archives. Rich filtering capabilities include sender, receiver, message types, sent date, received date, carbon copy, and blind carbon copy, along with Keyword Query Language (KQL) syntax. For more details, see [In-Place eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169).
+Archivado de Exchange Online admite In-Place eDiscovery para buscar el contenido de buzones de una organización. Mediante el Centro de administración de Exchange o Windows PowerShell remoto en un servidor de Exchange 2013 local, los administradores o los administradores de detección autorizados pueden buscar diversos elementos del buzón, como, por ejemplo, mensajes de correo electrónico, archivos adjuntos, citas del calendario, tareas y contactos. In-Place eDiscovery permite realizar búsquedas simultáneas en los archivos y buzones principales. Entre las capacidades de filtrado enriquecidas se incluyen remitente, destinatario, tipo de mensaje, fecha de envío, fecha de recepción, copia y copia oculta, junto con la sintaxis del lenguaje de consulta de palabras clave (KQL). Para obtener más información, vea [In-Place eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
-The Exchange admin center and remote Windows PowerShell can be used to search up to 5,000 mailboxes at a time in an In-Place eDiscovery search. For details about using remote Windows PowerShell to run In-Place eDiscovery searches, see [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
-  
-> [!NOTE]
-> In remote Windows PowerShell, the  `Search-Mailbox` cmdlet can be used to search more than 5,000 mailboxes. For details about searching large numbers of mailboxes using remote Windows PowerShell, see [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171). 
-  
-Results of an In-Place eDiscovery search can be previewed in the Exchange admin center, exported to a .pst file, or copied to a special type of mailbox, called a discovery mailbox. Administrators or compliance officers can connect to the discovery mailbox to review messages. For details, see [Create an In-Place eDiscovery Search](https://go.microsoft.com/fwlink/p/?LinkId=314172).
+Se puede usar el Centro de administración de Exchange y Windows PowerShell remoto para realizar búsquedas en hasta 5000 buzones a la vez en una búsqueda de In-Place eDiscovery. Para obtener información detallada sobre cómo usar Windows PowerShell remoto para ejecutar búsquedas de In-Place eDiscovery, vea [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
   
 > [!NOTE]
-> When copying search results for an In-Place eDiscovery search performed across on-premises and cloud-based mailboxes or archives, you must select an on-premises discovery mailbox. Messages from the on-premises primary mailbox and the cloud-based archive are copied to the on-premises discovery mailbox. 
+> En Windows PowerShell remoto, se puede usar el cmdlet  `Search-Mailbox` para buscar en más de 5000 buzones. Para obtener más información sobre cómo realizar búsquedas en gran cantidad de buzones con Windows PowerShell remoto, vea [Search-Mailbox](https://go.microsoft.com/fwlink/p/?LinkId=314171). 
   
-Administrators can also search for and delete inappropriate email messages sent to multiple mailboxes across their organizations. For example, if confidential salary information was accidentally sent to all employees, an administrator can delete the email from the users' mailboxes. This type of search is not available in the Exchange admin center. It must be performed using Remote PowerShell. For details on how to delete messages from users' mailboxes, see [Search and Delete Messages](https://go.microsoft.com/fwlink/p/?LinkId=314173).
+Se puede obtener una vista previa de los resultados de las búsquedas de In-Place eDiscovery en el Centro de administración de Exchange; también se pueden exportar a un archivo .pst o copiar a un tipo especial de buzón denominado buzón de detección. Los administradores o los responsables del cumplimiento de normas pueden conectarse al buzón de detección para revisar los mensajes. Para obtener más información, vea [Crear una búsqueda de In-Place eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314172).
+  
+> [!NOTE]
+> Al copiar los resultados de la búsqueda para una búsqueda de exhibición de documentos electrónicos en contexto realizada en buzones locales y basados en la nube o en archivos, debe seleccionar un buzón de detección local. Los mensajes del buzón primario local y del archivo basado en la nube se copian al buzón de detección local. 
+  
+Los administradores también pueden buscar y eliminar mensajes de correo electrónico inapropiados enviados a varios buzones de sus organizaciones. Por ejemplo, si por accidente se envía información confidencial de salarios a todos los empleados, un administrador puede eliminar el correo electrónico de los buzones de los usuarios. Este tipo de búsqueda no está disponible en el Centro de administración de Exchange. Se debe realizar por medio de PowerShell remoto. Para obtener más información sobre cómo eliminar mensajes de los buzones de los usuarios, vea [Búsqueda y eliminación de mensajes en Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkId=314173).
   
 ## <a name="security-features-in-exchange-online-archiving"></a>Características de seguridad de Archivado de Exchange Online
 
@@ -99,13 +99,13 @@ Las conexiones cliente a Archivado de Exchange Online utilizan los siguientes m�
     
 ### <a name="encryption-smime-and-pgp"></a>Cifrado: S/MIME y PGP
 
-Exchange Online Archiving will store Secure/Multipurpose Internet Mail Extensions (S/MIME) messages. However, Exchange Online Archiving does not host S/MIME functions or host the public keys, nor does it provide key repository, key management, or key directory services because all of these services attach to the on-premises Exchange infrastructure.
+Archivado de Exchange Online almacenará mensajes de extensiones seguras multipropósito al correo de Internet (S/MIME). Sin embargo, Archivado de Exchange Online no hospeda funciones S/MIME, no alberga claves públicas ni proporciona repositorio de claves, administración de claves o servicios de directorios de claves porque todos estos servicios están conectados a la infraestructura de Exchange local.
   
 De manera similar, Archivado de Exchange Online almacenará mensajes cifrados usando soluciones de terceros del lado cliente, como Pretty Good Privacy (PGP).
   
 ### <a name="information-rights-management"></a>Information Rights Management
 
-Exchange Online Archiving does not provide hosted Information Rights Management (IRM) services, but administrators can use on-premises Active Directory Rights Management Services (AD RMS). If an AD RMS server is deployed, Outlook can communicate directly with that server, enabling users to compose and read IRM-protected messages. If interoperability between the AD RMS server and the on-premises Exchange environment is configured, users will be able to compose and read IRM-protected messages.
+Archivado de Exchange Online no proporciona servicios de Information Rights Management (IRM) hospedados, pero los administradores pueden usar Active Directory Rights Management Services (AD RMS) locales. Si se implementa un servidor AD RMS, Outlook puede comunicarse directamente con ese servidor, lo que permite a los usuarios redactar y leer mensajes protegidos por IRM. Si se configura la interoperabilidad entre el servidor AD RMS y el entorno Exchange local, los usuarios podrán redactar y leer mensajes protegidos por IRM.
   
 #### <a name="support-for-irm-in-outlook-on-the-web"></a>Compatibilidad con IRM en Outlook en la web
 
@@ -123,9 +123,9 @@ Archivado de Exchange Online proporciona dos tipos de capacidades de auditoría 
     
 - **Registro de auditoría de buzones** El registro de auditoría de buzones permite que los clientes lleven un seguimiento del acceso a los buzones por parte de usuarios que no sean el propietario del buzón en cuestión. 
     
-Several predefined audit reports are available in the Exchange admin center, including Administrator Role Changes, Litigation Hold, and Non-Owner Mailbox Access. Administrators can filter reports by date and role, and they can export all audit events for specified mailboxes in XML format for long-term retention or custom reporting.
+Hay disponibles varios informes de auditoría predefinidos en el centro de administración de Exchange, incluidos cambios de rol del administrador, retención por juicio y acceso al buzón de correo de un no propietario. Los administradores pueden filtrar los informes por fecha y rol, y pueden exportar todos los eventos de auditoría para buzones de correo especificados en formato XML a efectos de conservación a largo plazo o informes personalizados.
   
-Administrator audit logging is on by default, and mailbox audit logging is off by default. Administrators can use remote Windows PowerShell to enable mailbox audit logging for some or all mailboxes in their organization. For more information, see [Auditing Reports](https://go.microsoft.com/fwlink/p/?LinkId=314175).
+De manera predeterminada, el registro de auditoría de administrador está activado y el registro de auditoría de buzones está desactivado. Los administradores pueden utilizar Windows PowerShell remoto para activar el registro de auditoría de buzones para algunos o todos los buzones de la organización. Para obtener más información, vea [Informes de auditoría de Exchange](https://go.microsoft.com/fwlink/p/?LinkId=314175).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

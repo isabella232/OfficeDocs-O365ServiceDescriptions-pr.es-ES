@@ -21,13 +21,13 @@ ms.locfileid: "45132704"
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Archivado de buzones basados en Exchange Online
 
-Exchange Online mailboxes reside in the cloud, and archiving them requires unique hosting environments. In some cases, Exchange Online can also be used to archive on-premises mailboxes in the cloud. The options for archiving with Exchange Online are described in this section.
+Los buzones de Exchange Online residen en la nube y su archivado requiere entornos de hospedaje únicos. En algunos casos, Exchange Online también puede ser utilizado para archivar buzones locales en la nube. En esta sección, se describen las opciones de archivado con Exchange Online.
   
 Exchange Online ofrece capacidades de archivado integradas para buzones basados en la nube, incluido un archivo local que brinda a los usuarios un espacio muy conveniente para almacenar mensajes de correo electrónico antiguos. Un archivo local es un tipo especial de buzón de correo que aparece junto a las carpetas de buzones principales de un usuario en Outlook y Outlook en la Web. Los usuarios pueden tener acceso al archivo y buscar en él de la misma manera en que con sus buzones principales. La funcionalidad disponible depende del cliente en uso:
   
 - **Outlook 2016, outlook 2013, outlook 2010 y Outlook en la web** Los usuarios tienen acceso a todas las características del archivo, así como las características de cumplimiento relacionadas, como el control sobre la retención y las directivas de archivo. 
     
-- **Outlook 2007** Users have basic support for the In-Place Archive, but not all archiving and compliance features are available. For example, users cannot apply retention or archive policies to mailbox items and must rely on administrator-provisioned policies instead. 
+- **Outlook 2007** Los usuarios tienen soporte básico para el archivo local, pero no todas las características de archivo y cumplimiento están disponibles. Por ejemplo, los usuarios no pueden aplicar directivas de retención o archivo a elementos del buzón, en cambio, deben confiar en las directivas provistas por el administrador. 
     
 Los administradores usan el Centro de administración de Exchange o Windows PowerShell remoto para habilitar la característica de archivo personal para usuarios específicos.
   
@@ -43,12 +43,12 @@ Solo los datos de mensajería de un usuario pueden almacenarse en cada archivo p
   
 > [!IMPORTANT]
 > - Con el registro en diario, el uso de reglas de transporte o reglas de transferencia automática para copiar mensajes en un buzón de Exchange Online con fines de archivado no está permitido. Microsoft se reserva el derecho a denegar el archivado ilimitado en casos en los que no se usa un archivo de buzones de correo en un escenario personal o en otros casos de uso inadecuado.
-> - In-Place Archive has specific licensing requirements for Outlook users. Outlook 2007 users must have the Office 2007 Cumulative Update for February 2011 to access the personal archive. 
+> - El archivo local tiene requisitos de licencia específicos para usuarios de Outlook. Los usuarios de Outlook 2007 deberán tener actualización acumulada de Office 2007 para febrero de 2011 para poder acceder al archivo personal. 
 > - Exchange online no es compatible con el cmdlet _New-MailboxImportRequest_ de Windows PowerShell de Exchange Server 2010 Service Pack 1 o posterior para la importación de archivos. pst controlados por el administrador en un archivo personal. Si un usuario tiene el buzón principal y el archivo en Exchange Online, un administrador puede usar PST Capture, una herramienta gratuita, para importar datos de archivos .pst al buzón principal o archivo del usuario.
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Archivado basado en nube de buzones locales
 
-Using Exchange Online for cloud-based archiving of on-premises Exchange Server 2010 or later mailboxes is possible with Microsoft Exchange Online Archiving, a hosted archiving solution from Microsoft. This requires that the on-premises organization be in Hybrid mode or be set up for Exchange Online Archiving.
+El uso de Exchange Online para el archivo basado en la nube de buzones de Exchange Server 2010 local o posteriores es posible mediante el Archivado de Microsoft Exchange Online, una solución de archivado hospedada de Microsoft. Esto requiere que la organización local esté en modo híbrido o esté configurada para Archivado de Exchange Online.
   
 > [!IMPORTANT]
 > Los usuarios que cuentan con un buzón local en un servidor de buzones de Exchange 2010 que tiene una directiva de carpeta administrada aplicada no pueden tener un archivo local o basado en la nube habilitado. 
@@ -59,11 +59,11 @@ Exchange Online ofrece directivas de retención para ayudar a las organizaciones
   
 En Exchange Online, los administradores administran las directivas de retención mediante el Centro de administración de Exchange (EAC) o Windows PowerShell remoto.
   
-Exchange Online offers two types of policies: archive policies and delete policies. Both types can be combined on the same item or folder. For example, a user can tag an email message to be automatically moved to the In-Place Archive in a specified number of days and deleted after another span of days.
+Exchange Online ofrece dos tipos de directivas: directivas de archivado y directivas de eliminación. Ambos tipos pueden combinarse en el mismo elemento o carpeta. Por ejemplo, un usuario puede marcar un mensaje de correo electrónico para que sea movido automáticamente al archivo local transcurrida una cantidad específica de días y eliminado después de otra cantidad de días.
   
 Con Outlook 2010 o versiones posteriores y Outlook en la web, los usuarios pueden aplicar directivas de retención a carpetas, conversaciones o mensajes individuales. También pueden ver las directivas de retención aplicadas y las fechas de eliminación esperadas en los mensajes. Los usuarios de otros clientes de correo electrónico solamente pueden eliminar o archivar mensajes según las directivas de retención del servidor configuradas por el administrador.
   
-The retention policy capabilities offered in Exchange Online are the same as those offered in Exchange Server 2010 Service Pack 2 RU4. Administrators can use remote Windows PowerShell to migrate retention policies from on-premises Exchange Server 2010 or later environments to Exchange Online.
+Las capacidades de directivas de retención ofrecidas en Exchange Online son las mismas que las ofrecidas en Exchange Server 2010 Service Pack 2 RU4. Los administradores pueden usar Windows PowerShell remoto para migrar directivas de retención de entornos Exchange Server 2010 o posteriores locales a Exchange Online.
   
 > [!IMPORTANT]
 > Carpetas administradas, un enfoque para la administración de registros de mensajería presentado en Exchange Server 2007, no está disponible en Exchange Online. 
@@ -94,13 +94,13 @@ El cifrado de mensajes avanzado de Office 365 proporciona protección adicional 
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Extensiones seguras multipropósito al correo de Internet (S/MIME)
 
-S/MIME allows you to help protect sensitive information by sending signed and encrypted email within your organization. Administrators can use remote Windows PowerShell to set up S/MIME after establishing and issuing PKI certificates to users. These certificates must be synchronized from an on-premises Active Directory Certificate Service.
+S/MIME le ayuda a proteger información confidencial enviando correo electrónico firmado y cifrado dentro de su organización. Los administradores pueden usar Windows PowerShell remoto para configurar S/MIME tras establecer y emitir certificados PKI para los usuarios. Estos certificados deben sincronizarse desde un servicio de certificados de Active Directory local.
   
 S/MIME es compatible con Microsoft Edge e Internet Explorer 11. Actualmente, S/MIME no es compatible con Firefox, Opera y Chrome. Para obtener más información, consulte [S/MIME para la firma y el cifrado de mensajes](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019).
   
 ## <a name="in-place-hold-and-litigation-hold"></a>Retención local y retención por juicio
 
-When a reasonable expectation of litigation exists, organizations are required to preserve electronically stored information (ESI), including email that's relevant to the case. This expectation can occur before the specifics of the case are known, and preservation is often broad. Organizations may preserve all email related to a specific topic, or all email for certain individuals.
+Cuando existen sospechas fundadas de posibles litigios, se solicita a las organizaciones que conserven toda la información almacenada electrónicamente (ESI), incluso el correo electrónico que sea relevante para el caso. Dichas sospechas pueden tener lugar antes de que se conozcan los pormenores del caso, por lo que se suele conservar gran cantidad de material. Las organizaciones pueden conservar todo el correo electrónico relacionado con un tema concreto o el perteneciente a ciertos usuarios.
   
 En Exchange Online, puede usar la retención local o por juicio para realizar las tareas siguientes:
   
@@ -131,13 +131,13 @@ Para obtener más información, vea [Conservación local y retención por juicio
 
 Exchange Online permite a los clientes realizar búsquedas en el contenido de los buzones de correo en una organización con una interfaz basada en Web. Los administradores o funcionarios de seguridad y cumplimiento normativo autorizados a realizar búsquedas de Exhibición de documentos electrónicos en contexto (mediante asignación) pueden buscar mensajes de correo electrónico, documentos adjuntos, citas de calendario, tareas, contactos y otros elementos. La Exhibición de documentos electrónicos en contexto permite realizar búsquedas entre los archivos y buzones principales de manera simultánea. Las capacidades de filtrado enriquecidas incluyen remitente, destinatario, tipo de mensaje, fecha de envío/recepción y copia carbón/copia carbón oculta, junto con sintaxis de KQL. Los resultados de búsqueda también incluirán elementos de la carpeta Elementos eliminados, si coinciden con una consulta de búsqueda.
   
-Results of In-Place eDiscovery searches can be previewed in the web-based interface, exported to a PST file or copied to a special type of mailbox called a Discovery mailbox. A Discovery mailbox has a 50 GB quota for storing search results. Administrators can also connect Outlook to the Discovery mailbox to access search results, and export the search results to a .pst file.
+Se puede obtener una vista previa de los resultados de las búsquedas de Exhibición de documentos electrónicos en contexto en la interfaz basada en web; también se pueden exportar a un archivo PST o copiar a un tipo especial de buzón denominado buzón de detección. Un buzón de detección tiene una cuota de 50 GB para almacenar los resultados de la búsqueda. Los administradores también pueden conectar Outlook al buzón de detección para acceder a los resultados de búsqueda y para exportarlos a un archivo .pst.
   
-Administrators use either the Exchange admin center or remote Windows PowerShell to perform multi-mailbox searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox.
+Los administradores pueden usar el Centro de administración de Exchange (EAC) o Windows PowerShell remoto para realizar búsquedas en varios buzones. El Centro de administración de Exchange puede proporcionar una vista previa de solo lectura de los resultados de búsqueda, lo que permite a los administradores revisar rápidamente una búsqueda y volver a ejecutarla, si es necesario, con parámetros diferentes. Una vez optimizada la búsqueda, el administrador puede copiar los resultados en el buzón de detección.
   
-By default, one Discovery mailbox is created for each organization, but administrators can create additional Discovery mailboxes using remote Windows PowerShell. Discovery mailboxes cannot be used for any purpose other than storing In-Place eDiscovery search results.
+De forma predeterminada, se crea un buzón de detección para cada organización, pero los administradores pueden crear buzones de detección adicionales con Windows PowerShell remoto. Los buzones de detección no pueden ser utilizados con otro fin que no sea almacenar los resultados de búsqueda de Exhibición de documentos electrónicos en contexto.
   
-Administrators use either the Exchange admin center or remote Windows PowerShell to perform In-Place eDiscovery searches. The Exchange admin center can provide a read-only preview of the search results, enabling administrators to quickly verify a search and rerun it, if needed, with different parameters. Once a search is optimized, the administrator can copy the results to the Discovery mailbox or export search results to a PST file.
+Los administradores pueden usar el Centro de administración de Exchange (EAC) o Windows PowerShell remoto para realizar búsquedas de Exhibición de documentos electrónicos en contexto. El Centro de administración de Exchange puede proporcionar una vista previa de solo lectura de los resultados de búsqueda, lo que permite a los administradores revisar rápidamente una búsqueda y volver a ejecutarla, si es necesario, con parámetros diferentes. Una vez optimizada la búsqueda, el administrador puede copiar los resultados en el buzón de detección o exportarlos a un archivo PST.
   
 Los administradores pueden usar el Centro de administración de Exchange o Windows PowerShell remoto para buscar hasta 10 000 buzones de correo a la vez en una búsqueda de exhibición de documentos electrónicos local. 
   
@@ -155,7 +155,7 @@ Para obtener más información, vea [Exhibición de documentos electrónicos loc
 
 Puede usar reglas de flujo de correo para buscar condiciones específicas en los mensajes que pasan por su organización y que actúan en ellos. Las reglas de flujo de correo le permiten aplicar directivas de mensajería a mensajes de correo electrónico, proteger mensajes, proteger los sistemas de mensajería y evitar la fuga de información.
   
-Many organizations today are required by law, regulatory requirements, or company policies to apply messaging policies that limit the interaction between recipients and senders, both inside and outside the organization. In addition to limiting interactions among individuals, departmental groups inside the organization, and entities outside the organization, some organizations are also subject to the following messaging policy requirements:
+Hoy en día, muchas organizaciones son obligadas por ley, requisitos legales o directivas de la compañía, a aplicar directivas de mensajería para limitar la interacción entre destinatarios y remitentes, tanto dentro como fuera de la organización. Además de limitar las interacciones entre personas, departamentos de la misma organización y entidades fuera de la organización, algunas organizaciones están, asimismo, sujetas a los siguientes requisitos de directivas de mensajería:
   
 - Prevenir que contenido inapropiado entre y salga de la organización
     
@@ -188,7 +188,7 @@ Puede configurar directivas de DLP en la interfaz de administración del Centro 
     
 - Detectar información confidencial en datos adjuntos de mensajes, texto del cuerpo o líneas de asunto y ajustar el nivel de confianza en el que actúa Exchange Online.
     
-- Detect sensitive form data by using Document Fingerprinting. Document Fingerprinting helps you easily create custom sensitive information types based on text-based forms that you can use to define transport rules and DLP policies.
+- Detectar datos confidenciales mediante las huellas digitales de documentos. Las huellas digitales de documentos ayudan a crear fácilmente tipos de información confidencial personalizada en función de formularios basados en texto que se pueden usar para definir las reglas de transporte y las directivas DLP.
     
 - Agregar sugerencias de directivas, que pueden ayudar a reducir la pérdida de datos al mostrar un aviso a los usuarios de Outlook 2016, Outlook 2013, Outlook en la web y OWA para dispositivos, y también pueden mejorar la eficacia de las directivas al permitir la creación de informes falsos positivos. 
     
@@ -198,9 +198,9 @@ Para obtener más información sobre DLP, consulte [Prevención de pérdida de d
   
 ## <a name="journaling"></a>Registro en diario 
 
-You can configure Exchange Online to journal copies of emails to any external mailbox that can receive messages via SMTP. Journaling can help your organization respond to legal, regulatory, and organizational compliance requirements by recording inbound and outbound email communications. When planning for messaging retention and compliance, it's important to understand journaling and how it fits in with your organization's compliance policies.
+Puede configurar Exchange Online para registrar en diario copias de correos electrónicos en cualquier buzón externo que pueda recibir mensajes vía SMTP. El registro en diario puede ayudar a la organización a responder a los requisitos de cumplimiento legal, normativo y organizativo mediante el registro de las comunicaciones de correo electrónico entrantes y salientes. Al planear la retención y el cumplimento normativo de mensajes, es importante comprender el registro en diario, cómo se ajusta a las directivas de cumplimiento de la organización.
   
-You can manage journal rules by using the Exchange admin center or remote Windows PowerShell. You can configure journaling on a per-user and per-distribution list basis, and choose to journal only internal messages, only external messages, or both. Journaled messages include not only the original message but also information about the sender, recipients, copies, and blind copies.
+Puede administrar reglas de diario con el Centro de administración de Exchange (EAC) o Windows PowerShell remoto. Puede configurar el registro en diario por usuario y por lista de distribución, y elegir registrar en diario mensajes internos, mensajes externos solamente o ambos. Los mensajes registrados en diario incluyen el mensaje original y también información acerca del remitente, los destinatarios, copias y copias ocultas.
   
 Para garantizar una solución de registro en diario correcta y fiable, debe completar las siguientes tareas:
   

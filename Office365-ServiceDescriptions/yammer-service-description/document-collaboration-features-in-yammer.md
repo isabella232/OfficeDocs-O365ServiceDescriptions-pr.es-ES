@@ -24,7 +24,7 @@ A continuación se describen las características de colaboración de documentos
   
 ## <a name="document-collaboration-features-across-yammer-plans"></a>Características de colaboración de documentos de los distintos planes de Yammer
 
-Need help figuring out which Yammer plan best fits your organization's needs? Use the following table to see which document collaboration features are available in each plan.
+¿Necesita ayuda para saber qué plan Yammer se adapta mejor a las necesidades de su organización? Use la tabla siguiente para ver las características de colaboración de documentos disponibles en cada plan.
   
 |**Característica**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

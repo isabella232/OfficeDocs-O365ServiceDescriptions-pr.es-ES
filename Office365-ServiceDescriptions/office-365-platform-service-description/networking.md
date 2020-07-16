@@ -29,7 +29,7 @@ Microsoft usa direcciones IPv4 e IPv6. El uso de direcciones IPv6 es opcional y 
 Microsoft mantiene una lista de direcciones IP permitidas en la ayuda de Microsoft. Para obtener más información, consulte [direcciones URL e intervalos de direcciones IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges). Para Office 365 operado por 21Vianet, consulte [URL y direcciones IP para Office 365 operado por 21Vianet](https://docs.microsoft.com/office365/enterprise/managing-office-365-endpoints). Para Office 365 Germany, consulte [Puntos de conexión de Office 365 Germany](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8).
   
 > [!IMPORTANT]
-> We strongly recommend that you enable routing to the root domain names listed in the articles above (such as \*.Outlook.com, \*.MicrosoftOnline.com and \*.SharePoint.com) instead of routing to specific IP address subnets. Relying on IP address subnets runs the risk of outages for your users as changes are made. 
+> Se recomienda encarecidamente habilitar el enrutamiento a los nombres de dominio raíz que se enumeran en los artículos anteriores (como \*.Outlook.com, \*.MicrosoftOnline.com y \*.SharePoint.com) en lugar de enrutar a subredes de direcciones IP específicas. Al depender de subredes de direcciones IP, se corre el riesgo de interrupciones para los usuarios a medida que se realizan cambios. 
   
 ## <a name="bandwidth-requirements"></a>Requisitos de ancho de banda
 
@@ -43,7 +43,7 @@ Para obtener más información sobre Azure ExpressRoute, consulte [Azure Express
   
 ### <a name="wan-accelerators"></a>Aceleradores WAN
 
-Microsoft does not provide support for customer-owned WAN acceleration and caching devices with Office 365. If you decide to use a WAN optimization controller to improve performance under conditions of high latency or low bandwidth, you'll need to disable it while troubleshooting service requests with Microsoft, and work with your device vendor for device support. For more information, see [WAN Acceleration and caching devices with Office 365](https://support.microsoft.com/help/2690045/using-third-party-network-devices-or-solutions-with-office-365).
+Microsoft no ofrece compatibilidad con los dispositivos de almacenamiento en caché y aceleración de WAN propios del cliente en Office 365. Si decide usar un controlador de optimización de WAN para mejorar el rendimiento en condiciones de alta latencia o bajo ancho de banda, deberá deshabilitarlo cuando se intenten resolver solicitudes de servicio con Microsoft y trabajar con el proveedor de su dispositivo para la compatibilidad de dispositivos. Para obtener más información, vea [Dispositivos de almacenamiento en caché y aceleración de WAN con Office 365](https://support.microsoft.com/help/2690045/using-third-party-network-devices-or-solutions-with-office-365).
   
 ## <a name="the-global-microsoft-network"></a>Red global de Microsoft
 
@@ -51,9 +51,9 @@ La infraestructura de red de Microsoft consta de una gran cartera global de cent
   
 Para mantener la confidencialidad y la integridad de los datos de los clientes, Microsoft mantiene las redes de servicios de consumidor independientes de las redes de Microsoft. Se utilizan diversas técnicas para controlar los flujos de información; a continuación, se mencionan algunas de ellas:
   
-- Physical separation. Network segments are physically separated by routers that are configured to prevent specific communication patterns.
+- Separación física. Los segmentos de red se encuentran separados físicamente por enrutadores configurados para impedir patrones de comunicación específicos.
     
-- Logical separation. Virtual LAN (VLAN) technology is used to further separate communications.
+- Separación lógica. La tecnología LAN Virtual (VLAN) se utiliza para separar aun más las comunicaciones.
     
 - Firewalls. Los firewalls y otros puntos de aplicación de seguridad de red se usan para limitar los intercambios de datos con sistemas que están expuestos a Internet y para aislar los sistemas de los sistemas back-end administrados por Microsoft. 
     

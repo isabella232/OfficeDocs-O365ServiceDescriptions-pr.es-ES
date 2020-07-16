@@ -41,10 +41,10 @@ En la tabla siguiente se enumeran los diferentes planes y familias de servicios 
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Disponibilidad del servicio en cada plan de Office 365
 
-Each Office 365 plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+Cada plan de Office 365 incluye varios servicios individuales, como Exchange Online y SharePoint Online. En la siguiente tabla se muestran los servicios disponibles en cada plan de Office 365.
   
 > [!IMPORTANT]
->  Aunque un servicio pueda estar disponible en los planes de Office 365, las características disponibles en cada plan pueden ser diferentes. Para ver los detalles de las características que están disponibles para cada plan, vea la descripción de cada servicio o póngase en contacto con su representante de ventas de Microsoft o su revendedor para obtener más información. <br/>  Several of the Office 365 for business plans have add-ons that you can buy for your subscription. An add-on provides additional functionality to the subscription. For more information, see [Buy or edit an add-on for Office 365 for business](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
+>  Aunque un servicio pueda estar disponible en los planes de Office 365, las características disponibles en cada plan pueden ser diferentes. Para ver los detalles de las características que están disponibles para cada plan, vea la descripción de cada servicio o póngase en contacto con su representante de ventas de Microsoft o su revendedor para obtener más información. <br/>  Varios de los planes de Office 365 para empresas tienen complementos que puede comprar para su suscripción. Un complemento proporciona funciones adicionales a la suscripción. Para obtener más información, vea [Comprar o editar un complemento de Office 365 para empresas](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
   
 |||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
