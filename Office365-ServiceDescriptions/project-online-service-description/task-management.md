@@ -26,7 +26,7 @@ Las siguientes características de administración de tareas están disponibles 
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
-When you inactivate a task, it stays in the project plan but does not affect the following: resource availability, the project schedule, or how other tasks are scheduled. Learn more about [inactivating a task](https://go.microsoft.com/fwlink/p/?LinkId=271335).
+Cuando se desactiva una tarea, permanece en el plan del proyecto, pero no afecta lo siguiente: la disponibilidad de los recursos, la programación del proyecto o la forma en que se programan otras tareas. Obtenga más información sobre [cómo desactivar una tarea](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
 ## <a name="auto-complete"></a>Completar automáticamente
 
@@ -42,7 +42,7 @@ Ahora las tareas de proyectos pueden usar fechas hasta 2149.
   
 ## <a name="cross-project-critical-path"></a>Ruta crítica entre proyectos
 
-A critical path is the series of tasks that must be completed on schedule for a project to finish on schedule. You can create, edit, and delete a dependency relationship with a task in another project. 
+Una ruta crítica es una serie de tareas que debe completarse según la programación de un proyecto para poder finalizar a tiempo. Cree, edite y elimine una relación de dependencia con una tarea en otro proyecto. 
   
 ## <a name="task-inspector"></a>Inspector de tareas
 
@@ -50,7 +50,7 @@ Vea los factores que afectan la programación de una tarea, como la fecha de ini
   
 ## <a name="task-path-analysis"></a>Análisis de ruta de acceso de tareas
 
-See how one task connects to other tasks by highlighting its task path throughout the project. Learn more about [highlighting how tasks link to other tasks](https://go.microsoft.com/fwlink/p/?LinkId=271345).
+Vea la manera en que una tarea se conecta con otras tareas al resaltar la ruta de acceso a la tarea en todo el proyecto. Obtenga más información sobre [resaltar cómo se vinculan las tareas entre sí](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
 ## <a name="top-down-summary-tasks"></a>Tareas de resumen descendentes
 

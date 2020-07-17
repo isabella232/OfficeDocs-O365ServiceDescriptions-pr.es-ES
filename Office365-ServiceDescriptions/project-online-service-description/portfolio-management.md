@@ -36,19 +36,19 @@ Los recursos son las personas, los materiales o los costos necesarios para reali
   
 ## <a name="financial-management"></a>Administración financiera
 
-Adopt financial management processes to improve estimates of costs and benefits. Effectively track cost performance to make sure that each project is delivered within budget and that the portfolio achieves the expected results. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Adopte procesos de administración financiera para mejorar las estimaciones de costos y beneficios. Realice un seguimiento eficaz del rendimiento de los costos para asegurarse de que cada proyecto se ajuste al presupuesto y de que la cartera logre los resultados esperados. Para obtener más información, vea [Guía de soluciones de administración de carteras de proyectos (notas del producto)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="participate-in-workflow"></a>Participar en el flujo de trabajo
 
-Workflows provide a structured way for projects to proceed through the phases. A workflow includes definitions of the lifecycle stages through which the project progresses, such as proposal creation and initial approval. The workflow sets the information that is required or locked in each stage.
+Los flujos de trabajo ofrecen una forma estructurada de que los proyectos continúen a través de las fases. Un flujo de trabajo incluye definiciones de las fases del ciclo de vida a través del cual progresa el proyecto, como la creación de la propuesta y la aprobación inicial. El flujo de trabajo establece la información que se requiere o se bloquea en cada fase.
   
 ## <a name="portfolio-analytics-and-selection"></a>Selección y análisis de carteras
 
-Effectively identify, select, and deliver project portfolios that best align with your organization's business strategy and maximize your return on investment (ROI). To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+Identifique, seleccione y entregue con eficacia las carteras de proyectos que mejor se adapten a la estrategia empresarial de su organización y maximice el retorno de la inversión (ROI). Para obtener más información, vea [Guía de soluciones de administración de carteras de proyectos (notas del producto)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="program-management"></a>Administración del programa
 
-In program management, each project has its own set of goals that, when combined with each other, deliver the forecasted benefits of the overall program. To learn more, see [Project Portfolio Management Solutions Guide (white paper)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
+En la administración de programas, cada proyecto tiene su conjunto de objetivos que, cuando se combinan, permiten lograr los beneficios previstos para todo el programa. Para obtener más información, vea [Guía de soluciones de administración de carteras de proyectos (notas del producto)](https://go.microsoft.com/fwlink/p/?LinkId=402633).
   
 ## <a name="roadmap"></a>Hoja de ruta
 

@@ -70,13 +70,13 @@ El soporte técnico para las suscripciones de Microsoft 365 proporciona ayuda co
   
 ### <a name="technical-support-case-handling"></a>Gestión de casos del Soporte técnico
 
-Microsoft assigns a severity level to a case when it is opened, based on an assessment of the issue type and customer impact. Examples of issue types and severity levels are shown in the following table.
+Microsoft asigna un nivel de gravedad a un caso cuando se abre, en función de una evaluación del tipo de problema y el impacto que éste causa al cliente. En la tabla siguiente, se muestran ejemplos de tipos de problemas y niveles de gravedad.
   
 |**Nivel de gravedad**|**Operaciones y descripción de soporte**|**Ejemplos**|
 |:-----|:-----|:-----|
-|Gravedad A (crítica)  <br/> |One or more services aren't accessible or are unusable. Production, operations, or deployment deadlines are severely affected, or there will be a severe impact on production or profitability. Multiple users or services are affected.  <br/> | Problemas generalizados al enviar o recibir correo.  <br/>  El sitio de SharePoint no funciona.  <br/>  Ninguno de los usuarios puede enviar mensajes instantáneos, programar reuniones de Skype Empresarial o participar en ellas, o realizar llamadas de Skype Empresarial.  <br/> |
-|Gravedad B (alta)  <br/> |The service is usable but in an impaired fashion. The situation has moderate business impact and can be dealt with during business hours. A single user, customer, or service is partially affected.  <br/> | El botón Enviar es confuso en Outlook.  <br/>  La configuración es imposible desde EAC (Centro de administración de Exchange) pero posible en PowerShell.  <br/> |
-|Gravedad C (no crítica)  <br/> |The situation has minimal business impact. The issue is important but does not have a significant current service or productivity impact for the customer. A single user is experiencing partial disruption, but an acceptable workaround exists.  <br/> | Cómo establecer una contraseña de usuario que nunca caduca.  <br/>  El usuario no puede eliminar la información de contacto en Exchange Online.  <br/> |
+|Gravedad A (crítica)  <br/> |No se puede obtener acceso a uno o varios servicios o éstos no se pueden utilizar. Los plazos de producción, operaciones o desarrollo se ven afectados gravemente o se producirá un grave impacto en la producción o rentabilidad. Se ven afectados varios usuarios o servicios.  <br/> | Problemas generalizados al enviar o recibir correo.  <br/>  El sitio de SharePoint no funciona.  <br/>  Ninguno de los usuarios puede enviar mensajes instantáneos, programar reuniones de Skype Empresarial o participar en ellas, o realizar llamadas de Skype Empresarial.  <br/> |
+|Gravedad B (alta)  <br/> |El servicio se puede utilizar pero de forma limitada. La situación tiene un impacto moderado en el negocio y se puede tratar durante el horario comercial. Un solo usuario, cliente o servicio se ve afectado parcialmente.  <br/> | El botón Enviar es confuso en Outlook.  <br/>  La configuración es imposible desde EAC (Centro de administración de Exchange) pero posible en PowerShell.  <br/> |
+|Gravedad C (no crítica)  <br/> |La situación genera un mínimo impacto en el negocio. El problema es importante pero no genera un impacto significativo en la productividad o el servicio actual para el cliente. Un solo usuario sufre una interrupción parcial, pero existe una solución alternativa aceptable.  <br/> | Cómo establecer una contraseña de usuario que nunca caduca.  <br/>  El usuario no puede eliminar la información de contacto en Exchange Online.  <br/> |
 
 ### <a name="technical-support-initial-response-times"></a>Tiempos de respuesta inicial del soporte técnico
 
@@ -105,7 +105,7 @@ Según la ubicación y el idioma, hay disponibles ingenieros de soporte durante 
   
 ## <a name="shared-support-responsibilities"></a>Responsabilidades compartidas de soporte
 
-Microsoft understands that receiving timely technical support from qualified professionals is a key aspect of cloud services. Equally important is the critical role that the customer's IT department plays in the support of its users.
+Microsoft comprende que recibir el soporte técnico de manera oportuna por parte de profesionales cualificados es un aspecto clave de los servicios en la nube. De igual importancia es la función crítica que el departamento de TI del cliente cumple en el soporte de sus usuarios.
   
 ### <a name="administrator-role-and-responsibilities"></a>Rol de administrador y responsabilidades
 
@@ -131,7 +131,7 @@ El rol del administrador comprende lo siguiente:
 
 - Utilizar los recursos de soporte de autoservicio de Microsoft para resolver los problemas de soporte.
 
-The administrator is expected to provide initial assistance for the customer's users. However, if the administrator is unable to resolve issues with the help of self-service support resources, he or she should contact [Technical support](support.md#technical-support).
+Se espera que el administrador proporcione asistencia inicial a los usuarios del cliente. Sin embargo, si el administrador no puede resolver los problemas con la ayuda de los recursos de soporte de autoservicio, deberá ponerse en contacto con el [Soporte técnico](support.md#technical-support).
   
 ### <a name="microsoft-support-role"></a>Rol del soporte de Microsoft
 
@@ -177,7 +177,7 @@ Hay varios tipos de servicios de soporte adicionales disponibles:
 
 ### <a name="partners"></a>Asociados
 
-You can select a Microsoft partner and delegate administrative functions, including creating service request tickets. For more information, see the [Partners](partners.md) service description and [Add, change, or delete a subscription advisor partner](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
+Puede seleccionar un partner de Microsoft y delegar funciones administrativas, entre ellas, la creación de vales de solicitud de servicio. Para más información, vea la descripción de servicios de [Asociados](partners.md) y [Agregar, cambiar o eliminar un partner asesor de suscripción](https://docs.microsoft.com/office365/admin/misc/add-partner?view=o365-worldwide).
   
 ### <a name="developers"></a>Desarrolladores
 

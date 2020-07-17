@@ -21,7 +21,7 @@ ms.locfileid: "45131484"
 # <a name="service-updates"></a>Actualizaciones de servicio
 
 > [!NOTE]
-> This topic does not apply to Office 365 operated by 21Vianet. To learn about service updates, see [Get technical, billing, and subscription support for Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
+> Este tema no se aplica a Office 365 operado por 21Vianet. Para obtener información sobre las actualizaciones de servicio, consulte [Obtener soporte técnico, de facturación y de suscripción para Office 365 operado por 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409). 
   
 Para obtener información sobre las características que acaban de publicar, o que están a punto de publicarse, consulte el [plan de desarrollo de Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914).
   

@@ -124,7 +124,7 @@ PowerPoint para el Web se inicia desde un explorador Web y depende de una conexi
   
 ## <a name="picture-cropping"></a>Recortar imagen
 
-Improve the framing of a subject in a picture with the cropping tool. Simply click one of the cropping handles at the edge of the picture and drag it until you achieve the picture you want.
+Mejore el marco de un asunto en una imagen con la herramienta de recorte. Simplemente haga clic en uno de los controladores de recorte en el extremo de la imagen y arrástrelo hasta que consiga la imagen que quiere.
   
 ## <a name="pictures"></a>Imágenes
 
@@ -172,7 +172,7 @@ Las ilustraciones y los gráficos de Word no se pueden insertar en PowerPoint pa
   
 ## <a name="share"></a>Uso compartido
 
-If your presentation is saved in a SharePoint document library, then your presentation is online and you can share it by sending a link instead of an email attachment. People with proper permissions can view it in their web browser or mobile device. Learn more about [sharing a presentation](https://go.microsoft.com/fwlink/?LinkId=272776).
+Si guarda su presentación en una biblioteca de documentos de SharePoint, su presentación está en línea y puede compartirla mediante el envío de un vínculo en lugar de un adjunto de correo electrónico. Los usuarios con los permisos correspondientes pueden verla en su explorador web o dispositivo móvil. Obtenga más información sobre cómo [compartir una presentación](https://go.microsoft.com/fwlink/?LinkId=272776).
   
 ## <a name="slide-show"></a>Slide show
 

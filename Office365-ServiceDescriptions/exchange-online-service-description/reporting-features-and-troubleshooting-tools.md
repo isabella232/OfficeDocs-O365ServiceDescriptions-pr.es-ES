@@ -51,23 +51,23 @@ Las siguientes características de generación de informes y herramientas para l
 La característica de seguimiento de mensajes le permite, como administrador, seguir los mensajes de correo electrónico a medida que pasan a través del servicio de Exchange Online. Ayuda a determinar si el servicio ha recibido, rechazado, aplazado o entregado un mensaje de correo electrónico dirigido. Le permite responder las preguntas de los usuarios y resolver problemas con el flujo de correo de forma eficaz, y elimina la necesidad de comunicarse con el soporte técnico para recibir asistencia.
   
 > [!IMPORTANT]
-> For troubleshooting general issues and trends, use the reporting tools to obtain such data. For single point specifics where details are needed about a message, use the message trace tool. 
+> Para resolver problemas y tendencias generales, use las herramientas de informe a fin de obtener dichos datos. Para obtener información específica de un único punto donde se necesiten detalles en cuanto a algún mensaje, utilice la herramienta de seguimiento de mensaje. 
   
 Para obtener más información sobre la característica de seguimiento de mensajes, vea [Seguir un mensaje de correo electrónico](https://go.microsoft.com/fwlink/p/?LinkId=271777).
   
 ### <a name="auditing-reports"></a>Informes de auditoría
 
-You can use audit logging to troubleshoot configuration issues by tracking specific changes made by administrators and to help you meet regulatory, compliance, and litigation requirements. Exchange Online provides two types of audit logging:
+Puede usar el registro de auditoría para solucionar los problemas de configuración mediante el seguimiento de cambios específicos efectuados por los administradores y como ayuda para cumplir los requisitos normativos, de cumplimiento normativo y de litigio. Exchange Online proporciona dos tipos de registro de auditoría:
   
-- Administrator audit logging records any action performed by an administrator. This can help you troubleshoot configuration issues or identify the cause of security-related or compliance-related problems. 
+- El Registro de auditoría de administrador registra cualquier acción realizada por un administrador. Esto puede ayudar a solucionar problemas de configuración o a identificar la causa de problemas relacionados con la seguridad o el cumplimiento normativo. 
     
-- Mailbox audit logging records whenever a mailbox is accessed by someone other than the person who owns the mailbox. This can help you determine who has accessed a mailbox and what they've done. 
+- En el registro de auditoría de buzones de correo se indica cada vez que otro usuario que no es el propietario obtiene acceso al buzón. Esto puede ayudar a determinar quién ha tenido acceso a un buzón y lo que ha hecho. 
     
 Para obtener más información sobre los registros de auditoría, vea [Informes de auditoría](https://go.microsoft.com/fwlink/p/?LinkId=271779).
   
 ### <a name="unified-messaging-reports"></a>Informes de mensajería unificada
 
-You can use these reports to monitor and troubleshoot Unified Messaging (UM) in your Exchange Online organization. For more information, see [Run Reports for Voice Mail Calls](https://go.microsoft.com/fwlink/p/?LinkId=287042).
+Puede usar estos informes para supervisar y solucionar problemas de Mensajería Unificada (MU) en la organización de Exchange Online. Para obtener más información, vea [Ejecutar informes para llamadas de correo de voz](https://go.microsoft.com/fwlink/p/?LinkId=287042).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

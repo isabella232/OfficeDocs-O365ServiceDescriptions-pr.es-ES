@@ -27,14 +27,14 @@ El archivado de Microsoft Exchange Online permite a los usuarios conectarse a su
   
 ## <a name="microsoft-outlook"></a>Microsoft Outlook
 
-Microsoft Outlook is a rich email program that includes support for calendaring, contacts, and tasks. Exchange Online Archiving supports Outlook 2013, Outlook 2010, and Outlook 2007. Key features include:
+Microsoft Outlook es un programa de correo muy completo que admite calendarios, contactos y tareas. Archivado de Exchange Online es compatible con Outlook 2013, Outlook 2010 Outlook 2007. Entre sus características principales se incluyen:
   
 - **Outlook en cualquier lugar** Outlook en cualquier lugar permite que los usuarios de Outlook se conecten a Exchange Server y archivado de Exchange Online a través de Internet sin necesidad de una conexión VPN. La comunicación entre Outlook y Archivado de Exchange Online se produce mediante un túnel seguro para SSL, con el componente de red de Windows RPC sobre HTTP.    
 - **Detección automática** El servicio Detección automática de Exchange configura Outlook de forma automática para que funcione con Archivado de Exchange Online. La detección automática permite que los usuarios de Outlook reciban la configuración de perfil necesaria directamente desde Exchange la primera vez (y a intervalos fijos posteriores) que inicien sesión con su dirección de correo electrónico y contraseña. 
 
 Outlook 2010 y versiones posteriores y Outlook en la web proporcionan a los usuarios las características completas del archivo, así como las características relacionadas, como la retención y las directivas de archivo.
   
-Outlook 2007 provides basic support for the archive, but not all archiving and compliance features are available in Outlook 2007. For example, with Outlook 2007, users cannot apply retention or archive policies to items in their mailboxes. They must rely on administrator-provisioned policies instead. Outlook 2007 users require the Office 2007 Cumulative Update for February 2011 to access the archive.
+Aunque Outlook 2007 es compatible con la funcionalidad básica de archivo, no proporciona todas las características de archivo y cumplimiento existentes. Por ejemplo, no permite a los usuarios aplicar directivas de archivo o retención a los elementos de sus buzones. En su lugar, deben usar las directivas que proporciona el administrador. Para acceder al archivo, los usuarios de Outlook 2007 precisan la actualización acumulativa de Office 2007 de febrero de 2011.
   
 > [!NOTE]
 > Outlook no se proporciona con Archivado de Exchange Online. Microsoft 365 apps for Enterprise (que incluye Microsoft Outlook) se incluye en algunos planes y puede adquirirse como una suscripción independiente. Para obtener más información, consulte [Opciones del plan 365 de Microsoft](../office-365-platform-service-description/office-365-plan-options.md). Para obtener más información sobre las aplicaciones de Microsoft 365 para empresas, vea la [Descripción del servicio de aplicaciones de Office](../office-applications-service-description/office-applications-service-description.md). 

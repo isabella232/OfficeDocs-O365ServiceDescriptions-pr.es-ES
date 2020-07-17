@@ -24,7 +24,7 @@ A continuación se describen las características de plataforma de Yammer dispon
  
 ## <a name="activity-stream-api"></a>API de flujo de actividades
 
-Integrate existing enterprise business applications by adding data to the social graph. Drive discovery of activities taking place across all your existing business applications.
+Integre las aplicaciones empresariales existentes agregando datos al gráfico social. Fomente la detección de las actividades en las aplicaciones empresariales existentes.
   
 ## <a name="browser-extension"></a>Extensión del explorador
 

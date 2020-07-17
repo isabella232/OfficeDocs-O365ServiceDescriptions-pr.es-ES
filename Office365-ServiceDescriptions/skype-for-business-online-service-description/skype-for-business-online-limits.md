@@ -38,7 +38,7 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 ## <a name="peer-to-peer-limits"></a>Límites de punto a punto
 <a name="bkmk_P2P_LyncOnlineLimits"> </a>
 
-- **File transfer limit** The maximum size of a file that can be transferred in a Skype for Business Online IM conversation. To learn which file types are blocked for file transfer, see the Microsoft Support article about [sending and receiving files or attachments in Skype for Business Online](https://go.microsoft.com/fwlink/?LinkId=398280).
+- **Límite de transferencia de archivos** El tamaño máximo de un archivo que se puede transferir en una conversación de mensajería instantánea de Skype Empresarial Online. Para obtener información sobre los tipos de archivo que están bloqueados para transferencia, vea el artículo del soporte técnico de Microsoft sobre cómo [enviar y recibir archivos o datos adjuntos en Skype Empresarial Online](https://go.microsoft.com/fwlink/?LinkId=398280).
     
 - **Límite de conversaciones en pestañas abiertas** El número máximo de pestañas de conversación que un usuario de Skype Empresarial puede tener abiertas a la vez. 
     
@@ -94,7 +94,7 @@ Los límites en Skype empresarial online entran en las siguientes categorías:
 |Usuarios en un grupo de llamada de equipo  <br/> |IVA  <br/> |IVA  <br/> |IVA  <br/> |IVA  <br/> |IVA  <br/> |No aplicable  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> If the number of participants in a Skype for Business meeting exceeds 75 participants, then the participant list (presenters and attendees) in the meeting roster will be truncated so that an individual attendee sees only the presenters and the individual attendee's own name. The full participant list remains visible to the presenters in the meeting. Also, Gallery View and IM errors are hidden from the attendees. 
+> <sup>1</sup> Si el número de participantes en una reunión de Skype Empresarial supera los 75, la lista de participantes (moderadores y asistentes) de la lista de reuniones se truncará para que un asistente en particular vea solo los moderadores y el propio nombre del asistente en cuestión. La lista completa de participantes permanece visible para los presentadores de la reunión. Además, los errores de la Vista Galería y de mensajería instantánea quedarán ocultos para los asistentes. 
   
 ### <a name="meeting-limits-across-standalone-options"></a>Límites de reuniones en las opciones independientes
 

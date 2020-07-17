@@ -20,13 +20,13 @@ ms.locfileid: "45132397"
 
 Office 365 Germany es una opción diferenciada de los servicios de Office 365 que ya están disponibles en Europa. Ayuda a satisfacer las necesidades de los clientes más regulados en Alemania, la Unión Europea (UE) y la Asociación Europea de libre comercio (AELC) ofreciendo nuestros servicios de productividad líderes en el sector para el trabajo digital, desde los centros de datos alemanes, con residencia de datos en Alemania y estrictas acceso a datos y medidas de control a través de un modelo de confianza de datos único regulado por
 
-The data trustee, T-Systems International, an independent German company and subsidiary of Deutsche Telekom, controls physical and logical access to customer data. Customer data cannot be accessed without approval from or supervision by the data trustee, which is governed by German law.
+La administración de los datos la realiza T-Systems International, una compañía independiente alemana y subsidiaria de Deutsche Telekom, controlando el acceso físico y lógico a los datos de los clientes. No se puede acceder a dichos datos sin la aprobación o la supervisión del administrador de datos, que se rige por la legislación alemana.
 
 Basándose en esta evolución en las necesidades de los clientes, nuestra estrategia de nube para Alemania se centrará en la entrega de las nuevas regiones de la nube en Alemania que son coherentes con nuestra oferta global de la nube. Con este enfoque, ya no se aceptarán nuevos clientes ni se implementará ningún nuevo servicio de la nube de Microsoft disponible actualmente, Alemania. Los clientes existentes pueden seguir usando los servicios en la nube actuales disponibles hoy en día, que se mantendrán con las actualizaciones de seguridad necesarias. [Obtenga información sobre Office 365 Germany](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
 
 ## <a name="service-availability-for-each-plan"></a>Disponibilidad del servicio para cada plan
 
-Each Office 365 Germany plan includes a number of individual services, such as Exchange Online and SharePoint Online. The following table shows the services that are available in each Office 365 plan.
+Cada plan de Office 365 Germany incluye varios servicios individuales, como Exchange Online y SharePoint Online. En la siguiente tabla se muestran los servicios disponibles en cada plan de Office 365.
 
 ||||||||||
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -538,7 +538,7 @@ En la siguiente tabla se enumeran las características de Protección contra ame
 
 ## <a name="project-online-features"></a>Características de Project Online
 
-The following table lists the Project Online features that are available across Office 365 Germany plans. To learn more aboutProject Online, see [Getting Started with Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
+En la siguiente tabla se enumeran las características de Project Online que están disponibles en los planes de Office 365 Germany. Para obtener más información sobre Project Online, vea [Introducción a Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).
 
 ||||
 |:-----|:-----|:-----|
@@ -549,7 +549,7 @@ The following table lists the Project Online features that are available across 
 
 ## <a name="sharepoint-online-features"></a>Características de SharePoint Online
 
-All Office 365 plans include the SharePoint Online service, but not all plans support all SharePoint features. The following table lists features that are available across Office 365 Germany plans.
+Todos los planes de Office 365 incluyen el servicio de SharePoint Online, pero todos los planes no son compatibles con todas las características de SharePoint. En la siguiente tabla se enumeran las características que están disponibles en los planes de Office 365 Germany.
 
 ****
 
@@ -849,7 +849,7 @@ En la siguiente tabla se enumeran las características de Skype Empresarial Onli
 |Office Communications Server 2007 R2 y Lync Server 2010 (mensajería instantánea, presencia, audio, vídeo, conferencias)|Sí|No|Sí|Sí|Sí|Sí|No|
 |XMPP (usado por Google Talk, por ejemplo) y federación de Sametime|No|No|No|No|No|No|No|
 |Federación de Skype|No<sup>6</sup>|No|No<sup>6</sup>|No<sup>6</sup>|No<sup>6</sup>|No<sup>6</sup>|No|
-|AOL and Yahoo! federation|No|No|No|No|No|No|No|
+|Federación de AOL y Yahoo!|No|No|No|No|No|No|No|
 |**[Reuniones de Skype Empresarial Online](../skype-for-business-online-service-description/skype-for-business-online-features.md#skype-for-business-online-meetings)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Conferencias de audio ad hoc y programadas|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Conferencias de vídeo ad hoc y programadas|Sí|Sí|Sí|Sí|Sí|Sí|No|

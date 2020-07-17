@@ -30,11 +30,11 @@ Administre los costes de su proyecto.
   
 ## <a name="manage-nonworking-time"></a>Administrar el período no laborable
 
-Add vacation, holidays, medical leave, and other nonworking time into your project schedule. Learn more about [adding holidays and vacation days to your project](https://go.microsoft.com/fwlink/p/?LinkId=271337).
+Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no laborables a la programación de su proyecto. Obtenga más información sobre cómo [agregar días festivos y de descanso a su proyecto](https://go.microsoft.com/fwlink/p/?LinkId=271337).
   
 ## <a name="resource-leveling"></a>Resource leveling
 
-When people in your project are working on too many assignments at the same time, you can adjust their assignments automatically. This is known as resource leveling. See [Level resource assignments](https://go.microsoft.com/fwlink/p/?LinkId=271348).
+Cuando las personas del proyecto trabajen en demasiadas asignaciones a la vez, puede ajustar las asignaciones automáticamente. Esto se denomina redistribución de recursos. Vea [Redistribuir las asignaciones de recursos](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
 ## <a name="resource-sheet-and-usage-views"></a>Vistas de hoja y uso de recursos
 
@@ -50,7 +50,7 @@ Agregue recursos a un proyecto del equipo, Por ejemplo, recursos materiales tale
   
 ## <a name="work-generic-and-material-resources"></a>Work, generic, and material resources
 
-Add resources to your project, such as work resources like people, generic resources like carpenters, and materials resources like computers and cement. See [Enter equipment costs and other cost resources](https://go.microsoft.com/fwlink/?LinkId=402922).
+Agregue recursos al proyecto, tales como recursos de trabajo (personas), recursos genéricos (carpinteros) y recursos materiales (equipos y cemento). Vea [Especificación de costos de equipo y de otros recursos de costo](https://go.microsoft.com/fwlink/?LinkId=402922).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

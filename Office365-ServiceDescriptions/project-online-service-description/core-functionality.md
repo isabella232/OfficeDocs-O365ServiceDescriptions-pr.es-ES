@@ -42,11 +42,11 @@ Haga clic con el botón derecho en cualquier elemento de la vista del proyecto (
   
 ## <a name="custom-fields"></a>Campos personalizados
 
-In addition to the fields that are included with Project, you can also use custom fields to meet your organizational needs. To learn more about fields, see [Available fields reference](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
+Además de los campos que se incluyen en Project, también puede usar campos personalizados para adaptarse a las necesidades de su organización. Para obtener más información sobre los campos, vea la [referencia de los campos disponibles](https://support.office.com/en-us/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460).
   
 ## <a name="enhanced-copy-and-paste-across-microsoft-office-applications"></a>Enhanced copy and paste across Microsoft Office applications
 
-Collaborate on schedule development by copying and pasting schedule details between Office applications, such as Word. Learn more about [copying and pasting from Word into Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
+Colabore en el desarrollo de la programación copiando y pegando detalles de la programación entre las aplicaciones de Office, como Word. Para obtener más información, vea [Copiar y pegar desde Word a Project](https://go.microsoft.com/fwlink/p/?LinkId=271330).
   
 ## <a name="gantt-chart-calendar-and-task-sheet-views"></a>Gantt chart, calendar, and task sheet views
 
@@ -54,7 +54,7 @@ Presentar información del proyecto gráficamente mediante diagrama de Gantt, di
   
 ## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent user interface, the ribbon
 
-Increase productivity with the ribbon, a tab interface that you can use to quickly find and use Project features and controls. [Learn more about the ribbon](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Aumente la productividad con la cinta de opciones, una interfaz de pestaña que le permitirá encontrar y usar rápidamente los controles y las características de los proyectos. [Obtenga más información sobre la cinta de opciones](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="multiple-level-undo"></a>Deshacer en varios niveles
 
@@ -78,15 +78,15 @@ Guardar un archivo de proyecto como archivo PDF o XPS. Vea [Guardar un archivo d
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
-If you're not sure of all the details for a project, you can use placeholder text, such as "TBD" for resources, start dates, end dates, and so on. For more information, see [Top-down planning](https://go.microsoft.com/fwlink/p/?LinkId=271333).
+Si no está seguro de todos los detalles de un proyecto, puede usar el texto de marcador de posición (por ejemplo, "por determinar") para recursos, fechas de inicio, fechas de finalización, etc. Para obtener más información, vea [Planeación descendente](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
 ## <a name="project-templates"></a>Plantillas de proyecto
 
-You can save lots of time creating a project by using a past project as a template. See [Creating a new project from another project or template](https://go.microsoft.com/fwlink/p/?LinkId=271328).
+Puede ahorrar mucho tiempo al crear un proyecto con una plantilla de un proyecto anterior. Vea [Crear un proyecto a partir de otro proyecto o plantilla](https://go.microsoft.com/fwlink/p/?LinkId=271328).
   
 ## <a name="start-experience"></a>Experiencia de inicio
 
-Instead of dropping you into a blank project, Project 2013 presents a one-stop center for starting your project. You can use customer templates or a built-in guide to get you started in four easy steps.
+En lugar de comenzar con un proyecto en blanco, Project 2013 presenta un centro integrado para comenzar su proyecto. Puede usar plantillas de clientes o una guía integrada para comenzar en cuatro pasos fáciles.
   
 ## <a name="text-wrap"></a>Ajuste de texto
 

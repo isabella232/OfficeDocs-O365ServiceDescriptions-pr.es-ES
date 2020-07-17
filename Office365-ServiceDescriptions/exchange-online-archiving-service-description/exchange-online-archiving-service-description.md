@@ -60,7 +60,7 @@ Los administradores pueden usar un método de inicio de sesión único para la a
   
 ### <a name="user-subscriptions"></a>Suscripciones de usuario
 
-Each user who accesses the Exchange Online Archiving service must have an Exchange Online Archiving subscription. Each email archive subscription can be used only for storage of one user's messaging data.
+Cada usuario que acceda al servicio de Archivado de Exchange Online debe tener una suscripción de Archivado de Exchange Online. Cada suscripción de archivado de correo electrónico solo se puede utilizar para almacenar los datos de mensajería de un usuario.
   
 ## <a name="unlimited-archive-storage-quota"></a>Cuota de almacenamiento de archivo ilimitada
 

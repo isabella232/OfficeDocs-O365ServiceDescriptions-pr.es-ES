@@ -26,11 +26,11 @@ Para obtener explicaciones y procedimientos detallados, consulte la [ayuda del a
 
 ## <a name="admin-private-content-mode"></a>Modo de contenido privado de administración
 
-A verified admin of a Yammer network can view private messages and groups throughout the network.  Verified admins can see private content only when temporarily granting themselves access to private content to investigate issues.  For more information, see [Monitor private content in Yammer (verified admins)](https://go.microsoft.com/fwlink/?LinkId=627479).
+Un administrador superior de una red de Yammer puede ver los mensajes privados y grupos en toda la red.  Los administradores superiores pueden ver contenido privado solo cuando se conceden a sí mismos acceso temporal a contenido privado para investigar problemas.  Para obtener más información, vea [Supervisar contenido privado en Yammer (administradores superiores)](https://go.microsoft.com/fwlink/?LinkId=627479).
 
 ## <a name="analytics"></a>Análisis
 
-Gain insights from network analytics to find out how employees are using Yammer. From usage metrics to member statistics, identify ways to drive growth and increase the value of your network.
+Hágase con perspectivas obtenidas a partir del análisis de la red y sepa en todo cuál es el uso de Yammer por parte de sus empleados. Gracias a las métricas de uso y a las estadísticas de miembros, podrá fomentar el crecimiento e incrementar el valor de su red.
 
 ## <a name="custom-network-branding"></a>Personalización de marca de red personalizada
 

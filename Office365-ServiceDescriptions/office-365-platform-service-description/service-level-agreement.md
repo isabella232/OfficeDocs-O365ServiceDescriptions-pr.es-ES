@@ -23,14 +23,14 @@ ms.locfileid: "45131784"
 
 ## <a name="microsoft-online-services-level-agreement"></a>Contrato de nivel de Microsoft Online Services
 
-We provide financial backing to our commitment to achieve and maintain the service levels for each service. If we do not achieve and maintain the service levels for each service as described in the Service Level Agreement, then you might be eligible for a credit towards a portion of your monthly service fees. To learn more about our Service Level Agreements for the services, download the [Service Level Agreement for Microsoft Online Services](https://go.microsoft.com/fwlink/?linkid=272026). For overview information about system uptimes, as well as security, privacy, and compliance information, see [Transparent operations from Office 365](https://go.microsoft.com/fwlink/?linkid=845427).
+Proporcionamos apoyo financiero en nuestro compromiso de lograr y mantener los niveles de servicio. Si no logramos ni mantenemos los niveles de servicio de cada servicio tal como se describe en el Contrato de nivel de servicio, podrá obtener el crédito correspondiente a una parte de sus cuotas de servicio mensuales. Para obtener más información sobre los contratos de nivel de servicio de los servicios, descargue el [Contrato de nivel de servicio para Microsoft Online Services](https://go.microsoft.com/fwlink/?linkid=272026). Para obtener información general sobre los tiempos de actividad del sistema, así como información sobre seguridad, privacidad y cumplimiento, vea [Operaciones transparentes desde Office 365](https://go.microsoft.com/fwlink/?linkid=845427).
   
 ## <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
 Vea el [21Vianet Service Level Agreement (Contrato de nivel de servicio de 21Vianet)](https://go.microsoft.com/fwlink/?linkid=846729) y el [Online Services Standard Agreement (Contrato estándar de servicios en línea)](https://go.microsoft.com/fwlink/?linkid=846730) para Office 365 operado por 21Vianet. 
   
 > [!NOTE]
-> Office 365 operated by 21Vianet is a service offered and operated only in China. This service is powered by technology that Microsoft has licensed to 21Vianet. For more information, see [Learn about Office 365 operated by 21Vianet](https://go.microsoft.com/fwlink/?linkid=846725). 
+> Office 365 operado por 21Vianet es un servicio ofrecido y operado solo en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet. Para obtener más información, vea [Acerca de Office 365 operado por 21Vianet](https://go.microsoft.com/fwlink/?linkid=846725). 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

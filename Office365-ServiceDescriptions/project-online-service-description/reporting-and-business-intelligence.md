@@ -22,7 +22,7 @@ Las siguientes características de informes y Business Intelligence están dispo
   
 ## <a name="odata-feeds"></a>Fuentes de OData
 
-OData feeds enable REST queries and a variety of OData client libraries to make both queries of reporting data from a Project Web App instance. For example, you can directly use a REST query in a web browser, or use JavaScript to build web apps and client apps for mobile devices, tablets, PCs, and Mac computers. For more information, see the [Project 2013 OData service reference](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
+Las fuentes OData permiten consultas REST y diversas bibliotecas de cliente de OData para realizar consultas de datos de informes desde una instancia de Project Web App. Por ejemplo, puede usar directamente una consulta REST en un explorador web o usar JavaScript para crear aplicaciones web y aplicaciones cliente para dispositivos móviles, tabletas, equipos PC y Mac. Para más información, vea la página [ProjectData: referencia del servicio OData de Project](https://go.microsoft.com/fwlink/?LinkID=823655&amp;clcid=0x409).
   
 ## <a name="out-of-the-box-portfolio-dashboards"></a>Paneles de cartera prediseñados
 
@@ -30,5 +30,5 @@ Los informes completos y prediseñados están diseñados para que sean útiles d
   
 ## <a name="project-desktop-reporting"></a>Informes de escritorio de proyecto
 
-Project desktop reporting allows you to create and customize striking graphical reports of whatever project data you want, without having to rely on any other software. For more information, see [Create a project report](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
+Los informes de escritorio de proyecto le permiten crear y personalizar informes gráficos de los datos de proyecto que quiera, sin tener que depender de ningún otro software. Para más información, vea [Crear un informe de proyecto ](https://go.microsoft.com/fwlink/?LinkID=823657&amp;clcid=0x409).
   
