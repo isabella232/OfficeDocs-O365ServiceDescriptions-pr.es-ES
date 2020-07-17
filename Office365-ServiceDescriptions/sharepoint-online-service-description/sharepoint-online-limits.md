@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para los planes de Microsoft 365 y independientes.
-ms.openlocfilehash: c17ee9031938453d324c29de972dd232399dc01f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 2028f85fdf2998956e9f14bdcac13cc7902fad7e
+ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131054"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45154368"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -24,7 +24,7 @@ Obtenga información sobre los límites de servicio de SharePoint para Microsoft
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Microsoft 365 Business Basic o Business Premium** <br/> |**Office 365 Enterprise E1, E3 o E5, o SharePoint plan 1 o 2** <br/> | **Office 365 Enterprise F3** <br/> |
+|**Característica** <br/> |**Microsoft 365 Business Basic o Business Premium** <br/> |**Microsoft 365 E3 o E5, Office 365 Enterprise E1, E3 o E5, o SharePoint plan 1 o 2** <br/> | **Microsoft 365 F1 o F3, Office 365 Enterprise F3** <br/> |
 |Almacenamiento total por organización<sup>1, 2, 6</sup> <br/> |1 TB más 10 GB por licencia comprado<sup>3</sup>  <br/> |1 TB más 10 GB por licencia comprado<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Almacenamiento máximo por sitio (colección de sitios)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Sitios (colecciones de sitios) por organización  <br/> |2 millones<sup>6</sup> <br/> |2 millones<sup>6</sup> <br/> |2 millones<br/> |
@@ -115,6 +115,6 @@ Un usuario puede pertenecer a 5.000 grupos y cada grupo puede tener hasta 5.000 
 > [!NOTE]
 > No hay ningún límite en el número de invitados que puede invitar a los sitios de SharePoint. Para obtener más información sobre el uso compartido externo, vea [external Sharing Overview](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Recursos adicionales
 
 [Límites de búsqueda de SharePoint](/sharepoint/search-limits)
