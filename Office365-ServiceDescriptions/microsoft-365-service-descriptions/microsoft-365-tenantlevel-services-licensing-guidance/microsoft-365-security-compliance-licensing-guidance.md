@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 18df87a9bf867c68cf4a711c1f6c9f728d2b6655
-ms.sourcegitcommit: f3cf76cada0f11efc225c246fff4346910491659
+ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
+ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45137566"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45201560"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -341,6 +341,26 @@ De forma predeterminada, las características de PAM se habilitan en el nivel de
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
 Los clientes pueden administrar PAM por usuario mediante directivas de acceso y de grupo de aprobador, que se pueden aplicar a los usuarios con licencia. Para obtener más información, vea [Administración del acceso con privilegios en Office 365](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Privileged-access-management-in-Office-365-is-now-Generally/ba-p/261751).
+
+## <a name="double-key-encryption-for-microsoft-365"></a>Cifrado de doble clave para Microsoft 365 
+
+El cifrado de doble clave para Microsoft 365 permite proteger los datos extremadamente confidenciales para cumplir requisitos especializados y mantener el control total de la clave de cifrado. El cifrado de doble clave usa dos claves para proteger los datos, con una clave en el control y la segunda clave almacenada de forma segura en Microsoft Azure. Para ver los datos, debe tener acceso a ambas claves. Como Microsoft solo puede tener acceso a una clave, la clave y los datos no están disponibles para Microsoft, lo que garantiza que tendrá un control total sobre la privacidad y la seguridad de sus datos.
+
+### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
+
+Los usuarios se benefician del cifrado de doble clave al poder migrar sus datos cifrados a la nube e impedir el acceso de terceros, siempre que la clave permanezca en el control de los usuarios. Los usuarios finales pueden proteger y consumir contenido cifrado de doble clave, de forma similar a cualquier otro contenido protegido de la etiqueta de confidencialidad.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
+
+Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, el gobierno y la protección de la información de Microsoft 365, la Office 365 E5/A5 y el cumplimiento avanzado de Office 365 proporcionan los derechos para que un usuario se beneficie de dos claves de cifrado.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
+
+El cifrado de doble clave admite la versión de escritorio de Microsoft Office para Windows.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
+
+Para asignar claves de cifrado a datos dentro de una organización de Office 365 o Microsoft 365 para usuarios con licencia, siga las instrucciones de implementación de doble cifrado.
 
 ## <a name="office-365-data-loss-prevention-for-exchange-online-sharepoint-online-and-onedrive-for-business"></a>Prevención de pérdida de datos de Office 365 para Exchange Online, SharePoint Online y OneDrive para la empresa
 
