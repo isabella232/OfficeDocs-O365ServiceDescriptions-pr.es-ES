@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades gubernamentales de Estados Unidos, Estados, locales, Tribals o entidades gubernamentales, o en otras entidades que administran datos sujetos a los requisitos y las regulaciones gubernamentales, donde el uso de Microsoft 365 Government-GCC es adecuado para cumplir con estos requisitos.
-ms.openlocfilehash: 650a4131e7d028222d46d48a1d7304363acd6167
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 1e172588c21c15bd0422edb12d5024764f56ead7
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132464"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388106"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planeación de cumplimiento de Microsoft 365: GCC
 
@@ -75,7 +75,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Directivas recomendadas                            | Sobre el trabajo pendiente de ingeniería |
 |                                         | Filtros de importación inteligente                            | Sobre el trabajo pendiente de ingeniería |
 |                                         | Retención basada en eventos                           | Disponible              |
-|                                         | Revisión de disposición                              | Disponible              |
+|                                         | Revisión para eliminación                              | Disponible              |
 |                                         | Barreras de información                            | Disponible              |
 |                                         | Prevención de pérdida de datos (DLP) para archivos y correo electrónico  | Disponible              |
 |                                         | DLP para las conversaciones de canales y chat de Microsoft Teams    | Sobre el trabajo pendiente de ingeniería |
@@ -89,29 +89,29 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Caja de seguridad del cliente                                | Disponible              |
 |                                         | Clave de cliente                                    | Disponible              |
 |                                         | Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
-| **Detección de & responder**                  | Reserva local                            | Disponible              |
-|                                         | Administración de casos                                 | Disponible              |
-|                                         | Búsqueda                                          | Disponible              |
-|                                         | Exportar                                          | Disponible              |
-|                                         | Descifrado de RMS                                  | Disponible              |
-|                                         | Exportación nativa                                   | Disponible              |
-|                                         | Auditoría                                        | Disponible              |
-|                                         | Procesamiento avanzado                             | Sobre el trabajo pendiente de ingeniería |
-|                                         | Subprocesos de correo electrónico                                 | Sobre el trabajo pendiente de ingeniería |
-|                                         | Identificación casi duplicada                   | Sobre el trabajo pendiente de ingeniería |
-|                                         | Temas                                          | Sobre el trabajo pendiente de ingeniería |
-|                                         | Codificación predictiva                               | Sobre el trabajo pendiente de ingeniería |
-|                                         | Exportación procesada con archivo de carga                 | Sobre el trabajo pendiente de ingeniería |
-|                                         | Etiquetado                                         | Sobre el trabajo pendiente de ingeniería |
-|                                         | Espectadores                                         | Sobre el trabajo pendiente de ingeniería |
-|                                         | Redacciones                                      | Sobre el trabajo pendiente de ingeniería |
-|                                         | Filtrado                                       | Sobre el trabajo pendiente de ingeniería |
-|                                         | Asignación de custodio a carga de trabajo                   | Sobre el trabajo pendiente de ingeniería |
-|                                         | Comunicaciones de custodios                        | Sobre el trabajo pendiente de ingeniería |
-|                                         | Revisar conjuntos                                     | Sobre el trabajo pendiente de ingeniería |
-|                                         | Revisión y anotaciones                             | Sobre el trabajo pendiente de ingeniería |
-|                                         | Recopilación no de Office 365                        | Sobre el trabajo pendiente de ingeniería |
-|                                         | Informe de términos de búsqueda                              | Sobre el trabajo pendiente de ingeniería |
+| **Detección de & responder**                  | Exhibición de documentos electrónicos principal: preservación local                            | Disponible              |
+|                                         | Exhibición de documentos electrónicos principal: administración de casos                                 | Disponible              |
+|                                         | Exhibición de documentos electrónicos principal: búsqueda                                          | Disponible              |
+|                                         | Exhibición de documentos electrónicos principal: exportación                                          | Disponible              |
+|                                         | Exhibición de documentos electrónicos principal: descifrado de RMS                                  | Disponible              |
+|                                         | Exhibición de documentos electrónicos principal: exportación nativa                                   | Disponible              |
+|                                         | Exhibición de documentos electrónicos principal: auditoría                                        | Disponible              |
+|                                         | Exhibición avanzada de documentos electrónicos: procesamiento avanzado                             | Disponible |
+|                                         | EDiscovery avanzado: subprocesamiento de correo electrónico                                 | Disponible |
+|                                         | EDiscovery avanzado: identificación Near duplicada                   | Disponible |
+|                                         | Exhibición avanzada de documentos electrónicos: temas                                          | Disponible |
+|                                         | EDiscovery avanzado: Codificación predictiva                               | Disponible |
+|                                         | Exhibición avanzada de documentos electrónicos: exportación procesada con cargar archivo                 | Disponible |
+|                                         | Exhibición avanzada de documentos electrónicos: etiquetado                                         | Disponible |
+|                                         | Exhibición avanzada de documentos electrónicos: Visores                                         | Disponible |
+|                                         | Exhibición avanzada de documentos electrónicos: redacciones                                      | Disponible |
+|                                         | Exhibición avanzada de documentos electrónicos: filtrado                                       | Disponible |
+|                                         | EDiscovery avanzado: custodio a asignación de carga de trabajo                   | Disponible |
+|                                         | Exhibición avanzada de documentos electrónicos: comunicaciones de custodios                        | Disponible |
+|                                         | Exhibición avanzada de documentos electrónicos: conjuntos de revisión                                     | Disponible |
+|                                         | EDiscovery avanzado: revisión y anotaciones                             | Disponible |
+|                                         | EDiscovery avanzado: ingesta no de Office 365                        | Disponible |
+|                                         | Exhibición avanzada de documentos electrónicos: informe de términos de búsqueda                              | Disponible |
 
 <sup>1</sup> el estado identificado está sujeto a cambios a medida que se reevalúan los planes y las prioridades de los proyectos.<br/>
 <sup>2</sup> la aplicación manual de etiquetas requiere el [cliente de Azure Information Protection (AIP) versión 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history).

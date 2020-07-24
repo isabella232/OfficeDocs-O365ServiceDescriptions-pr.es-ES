@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams ofrece mensajería instantánea, colaboración de archivos y datos, llamadas de audio y vídeo, reuniones en línea enriquecidas, experiencias móviles y capacidades de conferencia web amplias.
-ms.openlocfilehash: bf8d879e002539753d0fd125fdb97f06ae4a6860
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e017d2ee8291bab0edf7c866b0d53b02dcfe7371
+ms.sourcegitcommit: d4025c73f14b663ffcaa1ef8db4174b51debdae7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131994"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45388096"
 ---
 # <a name="microsoft-teams-service-description"></a>Descripción del servicio Microsoft Teams
 
@@ -56,19 +56,18 @@ En esta tabla se muestra la disponibilidad de las características de Microsoft 
 |Chat  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Teams  <br/> |Sí <br/> |Sí <br/> |Sí <br/> |Sí<sup>1</sup>  <br/> |Sí<sup>1</sup>  <br/> |Sí  <br/> |
 |Canales: estándar  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Canales: privado  <br/> |Sí  <br/> |Sí<sup>2</sup>  <br/> |No<sup>3</sup>  <br/> |No<sup>3</sup>  <br/> |No<sup>3</sup>  <br/> |Sí  <br/> |
+|Canales: privado  <br/> |Sí  <br/> |Sí<sup>2</sup>  <br/> |No  <br/> |No  <br/> |No <br/> |Sí  <br/> |
 |Reuniones  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Pantalla que comparte el escritorio de audio y vídeo de PowerPoint <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Voz  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Audioconferencia  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Aplicaciones, bots & conectores  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>4</sup>  <br/> |Sí<sup>4</sup>  <br/> |Sí<sup>4</sup>  <br/> |Sí  <br/> |
-|Eventos en directo  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |N°<sup>5</sup>  <br/> |N°<sup>5</sup>  <br/> |Sí  <br/> |
+|Aplicaciones, bots & conectores  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>3</sup>  <br/> |Sí<sup>3</sup>  <br/> |Sí<sup>3</sup>  <br/> |Sí  <br/> |
+|Eventos en directo  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No<sup>4</sup>  <br/> |No<sup>4</sup>  <br/> |Sí  <br/> |
 
 <sup>1</sup> Microsoft Teams en gcc-High y DoD admiten miembros de 2500 en un equipo individual.<br/>
 <sup>2</sup> Microsoft Planner no está disponible actualmente para acceder a los canales privados.<br/>
-<sup>3</sup> los canales privados no están disponibles en las nubes GCC en este momento. Se publicarán actualizaciones adicionales sobre la disponibilidad en el centro de mensajes.<br/>
-<sup>4</sup> Microsoft OneNote no está disponible en nubes DoD. Las aplicaciones y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
-<sup>5</sup> los eventos en directo no están disponibles en gcc-High o Dod en este momento.<br/>
+<sup>3</sup> Microsoft OneNote no está disponible en nubes DoD. Las aplicaciones y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
+<sup>4</sup> los eventos en directo no están disponibles en gcc-High o Dod en este momento.<br/>
 
 ## <a name="next-steps"></a>Pasos siguientes
 
