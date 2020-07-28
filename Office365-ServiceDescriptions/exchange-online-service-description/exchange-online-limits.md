@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: c5fd2ac24f69dae3e87cf273e32cc5fd2eec3170
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: cb87b3890ed02248f88428d94f5a4149f0f9a0e0
+ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201574"
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "46501719"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -489,8 +489,13 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 |Límites de análisis para el contenido de datos adjuntos|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
 |Número máximo de destinatarios agregados a un mensaje por todas las reglas de trasporte|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|
 |Límite de reenvío|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|
-|Número de veces que se redirige un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
-|Número de veces que las reglas de transporte redirigen un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que se redirige un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que las reglas de transporte redirigen un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que se redirige un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Regla de bandeja de entrada|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|
+
+> [!NOTE]
+> <sup>1</sup> si se migró un buzón a Exchange Online, es posible que el límite de la regla de bandeja de entrada esté establecido en el valor que sea menor que el valor Exo predeterminado. Si es así, el valor se puede aumentar siguiendo este procedimiento. 
 
 ### <a name="journal-transport-and-inbox-rule-limits-across-standalone-options"></a>Límites de reglas del diario, transporte y bandeja de entrada en las opciones independientes
 
@@ -503,8 +508,8 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 |Límite de caracteres para todas las expresiones regulares usadas en todas las reglas de transporte|Sin límite|20 KB|20 KB|20 KB|
 |Número máximo de destinatarios agregados a un mensaje por todas las reglas de trasporte|Sin límite|100 destinatarios|100 destinatarios|100 destinatarios|
 |Límite de reenvío|Sin límite|10 destinatarios|10 destinatarios|10 destinatarios|
-|Número de veces que se redirige un mensaje|3 redireccionamientos|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
-|Número de veces que las reglas de transporte redirigen un mensaje|Sin límite|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que se redirige un mensaje|3 redireccionamientos|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
+|Número de veces que las reglas de transporte redirigen un mensaje|Sin límite|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
 
 ## <a name="moderation-limits"></a>Límites de moderación
 
