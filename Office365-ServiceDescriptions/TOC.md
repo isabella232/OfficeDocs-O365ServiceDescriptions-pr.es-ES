@@ -109,5 +109,5 @@
 #### [Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - DoD](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-dod.md)
 #### [Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - GCC High](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc-high.md)
 #### [Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - GCC](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/plan-for-m365-compliance-gcc.md)
-## [Descripción del servicio Microsoft Dynamics 365 (Online)](microsoft-dynamics-365-online-service-description.md)
+## [Descripción del servicio de Microsoft Dynamics 365](microsoft-dynamics-365-online-service-description.md)
  
