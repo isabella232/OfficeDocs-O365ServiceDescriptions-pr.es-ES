@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Cuando agrega un dominio, un asistente paso a paso le ayuda a agregar usuarios y convertir las direcciones de correo electrónico y otros servicios al nombre de la empresa. Al completar el asistente, el correo electrónico de la empresa empieza a llegar a Microsoft en lugar de ir a su proveedor de correo electrónico actual. Para obtener más información, vea Agregar usuarios y dominios a Microsoft. Si Office 365 operado por 21Vianet, vea Comprobar el dominio.
-ms.openlocfilehash: b6bbd87a1c3f303ceec0de90b42b322ba513d354
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 109dd15af75c8e3e04406a63c8868e010c12b9c5
+ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132404"
+ms.lasthandoff: 07/31/2020
+ms.locfileid: "46531223"
 ---
 # <a name="domains"></a>Dominios
 
@@ -26,7 +26,7 @@ Cuando agrega un dominio, un asistente paso a paso le ayuda a agregar usuarios y
   
 ## <a name="custom-domains"></a>Dominios personalizados
 
-Puede Agregar hasta 900 dominios a su suscripción. Pero no puede agregar un dominio a Office 365 que ya use en otro servicio en la nube de Microsoft. Esto significa que no puede Agregar el mismo dominio a varias suscripciones. Para obtener más información, consulte [preguntas más frecuentes sobre dominios](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
+Puede Agregar hasta 900 dominios a su suscripción (incluidos los subdominios). No puede Agregar un dominio a Microsoft 365 que ya está usando en otro servicio en la nube de Microsoft. Esto significa que no puede Agregar el mismo dominio a varias suscripciones. Para obtener más información, consulte [preguntas más frecuentes sobre dominios](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
   
 ### <a name="second-and-third-level-domains"></a>Dominios de segundo y tercer nivel
 
