@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para los planes de Microsoft 365 y independientes.
-ms.openlocfilehash: 7c449c12c4dc29784757454223d6b5479fa109b8
-ms.sourcegitcommit: 325de2faa5a2f72cd464c957ed867d83b6c28469
+ms.openlocfilehash: 1c05fb3e60a941a394a0736ca2a72442d2fe4612
+ms.sourcegitcommit: 9090cf400aa5deee337b23fcca4b90ae092a44cb
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45229646"
+ms.lasthandoff: 08/04/2020
+ms.locfileid: "46560085"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -99,6 +99,9 @@ Un usuario puede pertenecer a 5.000 grupos por sitio (colección de sitios) y ca
 ### <a name="subsites"></a>Subsitios 
 
 2.000 por sitio (colección de sitios). Le recomendamos que cree sitios y los organice en hubs en lugar de crear subsitios. Si usa subsitios, le recomendamos limitar su número (especialmente en los sitios menor tráfico).
+
+> [!NOTE] 
+> Su organización está limitada a los sitios concentradores de 2.000. Es posible que no necesite un sitio concentrador para cada función y es importante realizar alguna planeación antes de crear concentradores. Para obtener más información, consulte [planeación de los sitios concentradores de SharePoint](https://docs.microsoft.com/sharepoint/planning-hub-sites).
 
 ### <a name="sharepoint-hosted-applications"></a>Aplicaciones hospedadas en SharePoint
 
