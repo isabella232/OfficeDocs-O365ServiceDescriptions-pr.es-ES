@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word para el Web (anteriormente Word Web App) amplía su experiencia de Microsoft Word al explorador Web, donde puede trabajar con documentos directamente en el sitio web en el que está almacenado el documento.
-ms.openlocfilehash: c08017d34dc866bc2e0cecadb62269d31c9f44dc
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
+ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131304"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46616916"
 ---
 # <a name="word-for-the-web"></a>Word para la web
 
@@ -128,10 +128,6 @@ Con Word para la web, puede crear fácilmente vínculos a marcadores dentro de u
 
 Un índice enumera los términos y temas que se tratan en un documento, junto con las páginas en las que aparecen. Para crear un índice, marque las entradas de este proporcionando el nombre de la entrada principal y la referencia cruzada en el documento y, después, cree el índice.
   
-## <a name="ink-editor"></a>Editor para entradas de lápiz
-
-Editor para entradas de lápiz permite editar y dar formato a documentos con gestos naturales como rodear con el dedo para seleccionar texto y tachar para eliminarlo.
-  
 ## <a name="insert-online-pictures"></a>Insert online pictures
 
 Con Word para la web, puede insertar una imagen desde un archivo guardado en el disco duro local o desde imágenes de Bing. Obtenga más información sobre las [diferencias entre el uso de un documento en el explorador y en Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
@@ -238,7 +234,7 @@ Con Word para la web, puede guardar una copia del documento localmente.
 
 Puede usar Word para la web para guardar o convertir los archivos a PDF para que pueda compartirlos o imprimirlos mediante impresoras comerciales. Y no necesitará ningún otro software o complemento.
   
-## <a name="share"></a>Uso compartido
+## <a name="share"></a>Share
 
 Con Word para la web, se trata de un proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre las [diferencias entre el uso de un documento en el explorador y en Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
@@ -297,4 +293,8 @@ La característica de zoom está disponible en el modo de visualización. Con Wo
 ## <a name="feature-availability"></a>Disponibilidad de características
 
 Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Office para la descripción del servicio Web](office-online-service-description.md). 
+
+## <a name="operating-parameter-limitations-and-specifications"></a>Especificaciones y limitaciones de los parámetros de funcionamiento
+
+Para obtener información acerca de los límites de parámetros de funcionamiento, vea [limitaciones y especificaciones de parámetros de funcionamiento en Word](https://docs.microsoft.com/office/troubleshoot/word/operating-parameter-limitation).
   
