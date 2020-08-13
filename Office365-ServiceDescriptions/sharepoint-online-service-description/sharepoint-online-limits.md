@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para los planes de Microsoft 365 y independientes.
-ms.openlocfilehash: 1c05fb3e60a941a394a0736ca2a72442d2fe4612
-ms.sourcegitcommit: 9090cf400aa5deee337b23fcca4b90ae092a44cb
+ms.openlocfilehash: a8b42885b558d04aee0ed3743cffc203dde2f248
+ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "46560085"
+ms.lasthandoff: 08/12/2020
+ms.locfileid: "46649600"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -67,7 +67,7 @@ La copia/traslado de varios archivos en una sola operación tiene tres requisito
 
 ### <a name="sync"></a>Sincronizar
 
-**Nueva aplicación de sincronización de OneDrive** : para obtener un rendimiento óptimo, le recomendamos que no almacene más de 300.000 archivos en todas las bibliotecas de documentos sincronizadas, incluso si usa archivos a petición o si elige solo algunas carpetas de las bibliotecas para sincronizar.
+**Nueva aplicación de sincronización de OneDrive** : para obtener un rendimiento óptimo, se recomienda almacenar un máximo de 300.000 archivos por usuario en todas las bibliotecas de documentos sincronizadas, incluso si usa archivos a petición o si elige solo algunas carpetas de las bibliotecas para sincronizar.
 
 **Aplicación de sincronización anterior de OneDrive para la empresa (Groove.exe)** : puede sincronizar hasta 20.000 elementos en total en todas las bibliotecas sincronizadas. Esto incluye bibliotecas de OneDrive, bibliotecas de sitios de grupo o ambas. Aparte del límite general de sincronización, hay límites en el número de elementos que se pueden sincronizar para cada tipo de biblioteca:
 
@@ -118,6 +118,6 @@ Un usuario puede pertenecer a 5.000 grupos por sitio (colección de sitios) y ca
 > [!NOTE]
 > No hay ningún límite en el número de invitados que puede invitar a los sitios de SharePoint. Para obtener más información sobre el uso compartido externo, vea [external Sharing Overview](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 [Límites de búsqueda de SharePoint](/sharepoint/search-limits)
