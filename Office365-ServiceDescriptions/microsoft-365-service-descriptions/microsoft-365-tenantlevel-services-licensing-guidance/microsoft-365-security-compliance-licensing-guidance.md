@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 2aac8f15b0c7433dc25b02cabd860ce4fbb06912
-ms.sourcegitcommit: 4c1a7e802c0426e4ae164ff61ac612f87dec2d1f
+ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
+ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45201560"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798386"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -320,7 +320,7 @@ Los administradores pueden activar los controles de caja de caja del cliente en 
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Microsoft proporciona solicitudes de aprobación del control de acceso de Lockbox del cliente para los usuarios de la organización.
+El servicio de caja de caja del cliente no se puede limitar actualmente a usuarios específicos. Debe conceder una licencia a todos los usuarios que desee que se beneficien.
 
 ## <a name="privileged-access-management-in-office-365"></a>Administración de acceso privilegiado en Office 365
 

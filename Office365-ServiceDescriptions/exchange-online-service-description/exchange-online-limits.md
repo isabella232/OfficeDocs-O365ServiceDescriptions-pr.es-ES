@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 0793d814aec8de33fea7c546652f0659dfda18a1
-ms.sourcegitcommit: 7edfd698124bec003a42e384d4b9102694f0e251
+ms.openlocfilehash: 9c8554f8f995e00058fb5c3bafe915d328ba9c53
+ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "46580833"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "46798396"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -197,7 +197,7 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (no en espera)|30 GB|30 GB|30 GB|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|30 GB|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (en espera)|100 GB<sup>1</sup>|100 GB<sup>1</sup>|100 GB<sup>1</sup>|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|100 GB<sup>1</sup>|
 |Advertencia de número de mensajes por carpeta en la carpeta Elementos recuperables|2,75 millones|2,75 millones|2,75 millones|2,75 millones|2,75 millones|2,75 millones|
-|Número máximo de subcarpetas por carpeta de buzón de correo|10,000|10,000|10,000|10,000|10,000|10,000|
+|Número máximo de subcarpetas por carpeta de buzón de correo|10.000<sup>2</sup>|10.000<sup>2</sup>|10.000<sup>2</sup>|10.000<sup>2</sup>|10.000<sup>2</sup>|10.000<sup>2</sup>|
 |Advertencia de número de subcarpetas por carpeta de buzón de correo|9000|9000|9000|9000|9000|9000|
 |Profundidad máxima de jerarquía de carpeta|300|300|300|300|300|300|
 |Advertencia de profundidad de jerarquía de carpeta|250|250|250|250|250|250|
@@ -207,6 +207,7 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 
 > [!NOTE]
 > <sup>1</sup> Es la cuota de almacenamiento de la carpeta Elementos recuperables, y no la cuota de todo el buzón de archivo. La cuota de almacenamiento del buzón de archivo es ilimitada para los usuarios que cuentan con una licencia de Exchange Online Plan 2 o para los usuarios que tienen una licencia de Plan 1 de Exchange Online y de Archivado de Exchange Online. Para obtener más información sobre la cuota de elementos recuperables, vea [Aumentar la cuota de elementos recuperables para los buzones de correo en retención](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>2</sup> La cuota de almacenamiento inicial para la carpeta Elementos recuperables de un buzón de archivo es de 100 GB. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de la carpeta Elementos recuperables. Para obtener más información, vea [Información general sobre el archivado ilimitado en Office 365](https://go.microsoft.com/fwlink/?linkid=844060). Consulte el [mapa de ruta de Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) para obtener más información sobre la disponibilidad del archivado de expansión automática.
+> <sup>2</sup> este es un límite de tienda; es una de las restricciones de forma de buzón. Solo puede haber 10.000 carpetas secundarias directas para cualquier elemento primario determinado. Esto se aplica independientemente de la migración u otros clientes que creen carpetas.
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>Límites de carpetas de buzones de correo de los distintos planes independientes
 
