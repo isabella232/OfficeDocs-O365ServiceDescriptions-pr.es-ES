@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro de seguridad &amp; y cumplimiento está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-ms.openlocfilehash: d2ec7d1de214d513b90fae6a498ad0b8dacf98f4
-ms.sourcegitcommit: 6219d45fcfc3627654ece0447dfef1d3a29aa9f5
+ms.openlocfilehash: 42e9961bb956d5fc5483ef982e76d50e3e4b5d30
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "46501709"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300534"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -41,7 +41,7 @@ Para ver las opciones para conceder licencias a los usuarios con el fin de benef
 |[Etiquetas de sensibilidad manual](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | No | No  |No   | Sí | Sí | Sí | No  |
 |Etiquetas de sensibilidad automáticas| No | No  |No  | No | No | Sí<sup>13</sup> | No  |
 |[Barreras de información](https://docs.microsoft.com/office365/securitycompliance/information-barriers)  |No   |No   |No   |No   |No   |Sí   |No  |
-|[Gobierno de información](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
+|[Gobierno de información](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance)<sup>1</sup>  |Sí<sup>11</sup>   |Sí<sup>11</sup>   |Sí<sup>11</sup>   |Sí   |Sí   |Sí   |Sí<sup>11</sup>   |
 |[Gobierno de información avanzado](https://docs.microsoft.com/office365/securitycompliance/labels)<sup>2</sup>  |No   |No   |No   |No   |No   |Sí   |No   |
 |[Búsqueda de contenido](https://docs.microsoft.com/office365/securitycompliance/search-for-content)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
 |[casos de eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |

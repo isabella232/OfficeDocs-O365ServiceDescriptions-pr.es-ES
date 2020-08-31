@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vea qué características de SharePoint están disponibles en cada plan.
-ms.openlocfilehash: cc98d37abe936a7ad6ac67c22b5e8250e6326adb
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
+ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131034"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300514"
 ---
 # <a name="sharepoint-service-description"></a>Descripción del servicio SharePoint
 
@@ -52,7 +52,7 @@ Si adquiere un plan y crea un sitio que usa las características de Enterprise, 
 
 OneDrive en Microsoft 365 es almacenamiento en línea para usuarios individuales dentro de una organización. Los usuarios pueden almacenar, sincronizar y compartir archivos de trabajo en varios dispositivos de manera fácil y segura. OneDrive se incluye en SharePoint y también puede adquirirse como un plan independiente. Para obtener información sobre la cantidad de almacenamiento de OneDrive en cada plan, vea la [Descripción del servicio de onedrive](../onedrive-for-business-service-description.md).
 
-## <a name="apps"></a>Apps
+## <a name="apps"></a>Aplicaciones
 
 Para sincronizar archivos de SharePoint en un equipo, los usuarios pueden usar la [aplicación de sincronización de OneDrive](https://support.office.com/article/sync-sharepoint-and-teams-files-with-the-onedrive-sync-app-6de9ede8-5b6e-4503-80b2-6190f3354a88) para Windows o Mac. Para obtener información sobre la disponibilidad de características en la aplicación de sincronización, vea la [Descripción del servicio de OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description). 
 
@@ -97,13 +97,13 @@ A menos que se indique lo contrario, las siguientes características están disp
 - [Migración: herramienta de migración de SharePoint](/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [Migración: administrador de migración](/sharepointmigration/mm-get-started)
 - [Migración: herramienta de evaluación de migración de SharePoint](/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)
-- [Migración: mover.IO](https://mover.io/). Actualmente, solo está disponible para los clientes de Norteamérica.
+- [Migración: mover.IO](https://mover.io/). Ahora disponible en todo el mundo.
 - [Multigeográfico (residencia de datos)](/office365/enterprise/multi-geo-capabilities-in-onedrive-and-sharepoint-online-in-office-365). Con un complemento que requiere un mínimo de 500 licencias de Microsoft. Póngase en contacto con su representante de Microsoft para obtener más información.
 - [Aprovisionamiento de sitios mediante programación](/sharepoint/dev/solution-guidance/modern-experience-customizations-provisioning-sites)
 - [Reemplazo de sitio raíz](/sharepoint/modern-root-site)
 - [Restaurar sitios eliminados](/sharepoint/restore-deleted-site-collection)
 - [Centro de administración de SharePoint](/sharepoint/get-started-new-admin-center). Las organizaciones con trabajadores de Firstline necesitan al menos un usuario de Enterprise para obtener acceso al centro de administración.
-- [Analizador de modernización de SharePoint](/sharepoint/dev/transform/modernize-scanner)
+- [Escáner de modernización de SharePoint](/sharepoint/dev/transform/modernize-scanner)
 - [Shell de administración de SharePoint Online](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). Las organizaciones con trabajadores de Firstline necesitan al menos un usuario de Enterprise para obtener acceso al centro de administración.
 - [Gobernanza del sitio](/sharepoint/governance-overview) 
 - [Almacén de términos: metadatos administrados](/sharepoint/managed-metadata)
@@ -167,7 +167,7 @@ A menos que se indique lo contrario, las siguientes características están disp
 - [Biblioteca de activos de la organización](/sharepoint/organization-assets-library)
 - [Noticias de la organización](/sharepoint/organization-news-site)
 - [Aprobación de la página](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Páginas](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Administración de registros
 - [Papelera de reciclaje](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Aplicación móvil de SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)
