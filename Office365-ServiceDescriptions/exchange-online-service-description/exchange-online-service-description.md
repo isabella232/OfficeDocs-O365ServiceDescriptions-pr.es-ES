@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Necesita una comparación de características de las suscripciones que incluyen Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: 56994c011862bde5d41ac02613a6ddd106228da2
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
+ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300524"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47315381"
 ---
 # <a name="exchange-online-service-description"></a>Descripción de servicio de Exchange Online
 
@@ -144,7 +144,7 @@ Para ver la disponibilidad de características en Microsoft 365 Business Premium
 |Outlook para Windows <sup>21</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí| No|
 |Outlook en la Web<sup>21</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Outlook para Mac<sup>21</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí| No|
-|Outlook para iOS y Android<sup>21</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Outlook para iOS y Android<sup>21</sup>|Sí<sup>25</sup>|Sí<sup>25</sup>|Sí|Sí|Sí|Sí|Sí|Sí|
 |Exchange ActiveSync|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Basic Mobility and Security para Microsoft 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |POP e IMAP|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>12</sup>|
@@ -199,6 +199,7 @@ Para ver la disponibilidad de características en Microsoft 365 Business Premium
 <sup>22</sup> para obtener más información, consulte [Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> la compatibilidad de mensajería unificada de Exchange Online para sistemas PBX de terceros a través de conexiones directas del cliente accionado por el cliente de SBCS terminará en abril de 2019. Consulte el blog del equipo de Exchange, [descontinuación de la compatibilidad con los controladores de borde de sesión en la mensajería unificada de Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) para obtener más información. <br/>
 <sup>24</sup> un usuario de F3 no puede Agregar delegados a su propio buzón de correo, pero puede tener acceso a otro buzón de correo (incluidos los buzones compartidos) y realizar las acciones que se hayan delegado en ellos.
+<sup>25</sup> una suscripción para Microsoft 365 apps for Enterprise también es necesaria para exchange Server 2013 y exchange Server 2016.
   
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilidad de características en los planes independientes de Exchange Online
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Office 365 Advanced Threat Protection (ATP) es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger a su organización frente a virus y malware desconocidos proporcionando una protección de día cero eficaz e incluye características para proteger a su organización de vínculos dañinos en tiempo real.
-ms.openlocfilehash: 53e80f635485594f95c62dfa5452ef5352b5a4d7
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 0e9c7e76cabd9f39a13c16689a4255732617b09d
+ms.sourcegitcommit: 0f2d249dfc93432e17344f70b8317a455204f018
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132374"
+ms.lasthandoff: 09/01/2020
+ms.locfileid: "47318947"
 ---
 # <a name="office-365-advanced-threat-protection-service-description"></a>Descripción del servicio de Protección contra amenazas avanzada de Office 365
 
@@ -32,7 +32,7 @@ Las siguientes son las principales formas en que puede usar ATP para la protecci
 
 ## <a name="office-365-advanced-threat-protection-atp-availability"></a>Disponibilidad de la protección contra amenazas avanzada (ATP) de Office 365
 
-ATP se incluye en Office 365 Enterprise E5, Office 365 Education A5 y Microsoft 365 Business Premium.
+El plan 2 de ATP de Office 365 está incluido en Office 365 E5, Office 365 A5 y en Microsoft 365 E5. El plan 1 de ATP de Office 365 está incluido en Microsoft 365 Empresa Premium.
 
 Puede Agregar ATP a los siguientes planes de suscripción de Exchange y Microsoft 365:
 
@@ -78,12 +78,13 @@ ATP puede usarse con cualquier agente de transferencia de correo SMTP, como Micr
 
 A continuación, se incluye cada característica. Cuando se menciona Exchange Online, por lo general se refiere a la familia de servicios de Office 365 Enterprise.
 
-|**Característica**|**Plan ATP 1**<br>(anteriormente ATP independiente)|**Plan ATP 2**<br>(anteriormente, inteligencia de amenazas <br>independientemente| Office 365 Enterprise E5|
+|**Característica**|**Plan ATP 1**<br>(anteriormente ATP independiente)|**Plan ATP 2**<br>(anteriormente, inteligencia de amenazas <br>independientemente| Seguridad de Microsoft 365 E5/E5|
 |:-----|:-----|:-----|:-----|
 |*Configuración, protección y detección*|
-|[Datos adjuntos seguros](#safe-attachments)|Sí|Sí|Sí|
+|[Archivos adjuntos seguros](#safe-attachments)|Sí|Sí|Sí|
 |Datos adjuntos seguros en Microsoft Teams|Sí|Sí|Sí|
 |[Vínculos seguros](#safe-links)|Sí|Sí|Sí|
+|[Documentos seguros](#safe-documents)|No|No|Sí|
 |Vínculos seguros en Teams|Sí|Sí|Sí|
 |[ATP para SharePoint, OneDrive y Microsoft Teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Sí|Sí|Sí|
 |[directivas contra la suplantación de identidad](#anti-phishing-policies)|Sí|Sí|Sí|
@@ -123,13 +124,32 @@ Vínculos seguros está disponible para las direcciones URL en las siguientes ap
 > [!NOTE]
 > Los usuarios deben tener una licencia para ATP <sup>\*</sup> , deben estar incluidos en las directivas de vínculos seguros de ATP y deben haber iniciado sesión en sus dispositivos para que la protección esté en su lugar.
 >
-> <sup>\*</sup>Para las licencias de ATP de toda la organización (por ejemplo, ATP_ENTERPRISE_FACULTY), no es necesario asignar licencias ATP a usuarios individuales.
+> <sup>\*</sup> Para las licencias de ATP de toda la organización (por ejemplo, ATP_ENTERPRISE_FACULTY), no es necesario asignar licencias ATP a usuarios individuales.
 >
 > Para obtener más información acerca de la protección de vínculos seguros de ATP, consulte [how ATP Safe links Works with URL in Office Documents](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-atp-safe-links-works#how-atp-safe-links-works-with-urls-in-office-documents).
 
+### <a name="safe-documents"></a>Documentos seguros
+
+La característica de [documentos seguros de ATP](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) usa la [protección contra amenazas avanzada de Microsoft defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para examinar documentos y archivos que se abren en la [vista protegida](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653).
+
+¿Qué necesita saber antes de empezar?
+
+- Documentos seguros ahora está disponible para los usuarios con la versión de Office 2004 (12730. x) o superior. Esta característica está desactivada de forma predeterminada y el administrador de seguridad la tendrá que habilitar.
+
+- Esta característica solo está disponible para los usuarios con la licencia de seguridad Microsoft 365 E5 o Microsoft 365 E5 (no se incluye en los planes de ATP de Office 365).
+
+- Word, Excel, PowerPoint y Visio en Windows, así como aplicaciones de Office en dispositivos iOS y Android
+
+- Canales de Microsoft Teams y charlas
+
+> [!NOTE]
+> Los usuarios deben tener una licencia para la seguridad de Microsoft 365 E5 o Microsoft 365 E5 <sup>\*</sup> , deben incluirse en las directivas de documentos seguros de ATP y deben haber iniciado sesión en sus dispositivos para que la protección esté en su lugar.
+>
+> Para obtener más información acerca de la protección de documentos seguros de ATP, consulte [documentos seguros en Microsoft 365 E5](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs).
+
 ### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP para SharePoint, OneDrive y Microsoft Teams
 
-[ATP para SharePoint, OneDrive y Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) ayuda a detectar y bloquear los archivos identificados como malintencionados en los sitios de grupo y las bibliotecas de documentos. Además, la protección de vínculos seguros de ATP ahora está disponible en canales y chats de Microsoft Teams.
+[ATP para SharePoint, OneDrive y Microsoft Teams](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)  ayuda a detectar y bloquear los archivos identificados como malintencionados en los sitios de grupo y las bibliotecas de documentos. Además, la protección de vínculos seguros de ATP ahora está disponible en canales y chats de Microsoft Teams.
 
 ### <a name="anti-phishing-policies"></a>Directivas contra phishing
 
