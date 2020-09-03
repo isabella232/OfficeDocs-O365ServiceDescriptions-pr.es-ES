@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 y Office 365 están disponibles en diversos planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: b011201ed43d27a0efbb14413eb11a2853906133
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 20982db7e0b858d6220e79871e9a2933957dfa7f
+ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315361"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47337856"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Microsoft 365 y Office 365
 
@@ -96,23 +96,23 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |Proteger el contenido con Azure Information Protection  <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |No<sup>2</sup> <br/> |
 |**[Características de Microsoft 365 Suite](office-365-suite-features.md)** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Reservas de Microsoft  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|Correo electrónico de Resumen de Microsoft<sup>21</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft Power Automate  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>13</sup> <br/> |
+|Correo electrónico de Resumen de Microsoft<sup>20</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Microsoft Power Automate  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>12</sup> <br/> |
 |Microsoft Forms  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |API de Microsoft Graph  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft myanalytics<sup>19</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
+|Microsoft myanalytics<sup>18</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Microsoft Planner  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft PowerApps  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>12</sup> <br/> | 
-|Microsoft Project para la Web <sup>22</sup> <br/> |Sí <br/> |No <br/>|Sí <br/> |Sí <br/> |Sí <br/> |Sí <br/> | Sí <br/> |
+|Microsoft PowerApps  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> | 
+|Microsoft Project para la Web <sup>21</sup> <br/> |Sí <br/> |No <br/>|Sí <br/> |Sí <br/> |Sí <br/> |Sí <br/> | Sí <br/> |
 |Microsoft StaffHub  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft Stream  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>17</sup> <br/> |
+|Microsoft Stream  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |
 |Microsoft Teams<sup>10</sup> <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> |
 |Office Delve  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Grupos de Microsoft 365  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Office 365 Video  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>11</sup> <br/> |
-|Bloc de notas de clase de OneNote  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>14</sup> <br/> |No  <br/> |
-|Microsoft Kaizala<sup>18</sup> <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> |
+|Bloc de notas de clase de OneNote  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>13</sup> <br/> |No  <br/> |
+|Microsoft Kaizala<sup>17</sup> <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> |
 |Búsqueda de Microsoft|No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |
 |**[Administración de cuentas de usuario](user-account-management.md)** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Identidad de la nube, identidad federada o autenticación con varios factores  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -126,7 +126,7 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |Administración de grupos de seguridad de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Varios roles de administrador disponibles  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Permitir que un socio administre Microsoft 365 por usted  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Servicios de Azure Active Directory<sup>20</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Servicios de Azure Active Directory<sup>19</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Dominios](domains.md)** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Agregar dominios de segundo nivel personalizados, como fourthcoffee.com  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Agregar dominios de tercer nivel personalizados, como marketing.fourthcoffee.com  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -185,8 +185,8 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |Office 365 Cloud App Security  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Protección contra amenazas avanzada  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Caja de seguridad del cliente  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
-|Clave de cliente<sup>15</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
-|EDiscovery avanzado<sup>16</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
+|Clave de cliente<sup>14</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
+|EDiscovery avanzado<sup>15</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Puntuación segura<sup>7</sup> de Microsoft <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Inteligencia de amenazas  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |**[Cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
@@ -216,14 +216,13 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 <br/><sup>9</sup> experiencia reducida. Si la organización depende de Internet Explorer 8 o Internet Explorer 9 para obtener acceso a servicios y aplicaciones web anteriores, considere la posibilidad de actualizar a Internet Explorer 11 y evaluar el modo de empresa de Internet Explorer 11. Esta actualización ayuda a mejorar la compatibilidad con versiones anteriores para aplicaciones web heredadas. 
 <br/><sup>10</sup> Microsoft Teams está disponible en Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise (E1, E3, E5, F3) y los planes de Office 365 Education. 
 <br/><sup>11</sup> en Office 365 Enterprise F3, Office 365 video se limita a la visualización (no se pueden publicar ni compartir). 
-<br/><sup>12</sup> en Office 365 Enterprise F3, PowerApps solo se limita al consumo (no se pueden publicar ni compartir). 
-<br/><sup>13</sup> en Office 365 Enterprise F3, el flujo se limita al consumo y las ejecuciones se limitan a 750 por usuario y mes. 
-<br/><sup>14</sup> solo está disponible en los planes de Office 365 Education, incluido Office 365 E5 Education. No está disponible en Office 365 Enterprise E5. 
-<br/><sup>15</sup> para obtener más información, consulte [Service Encryption with Customer Key](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
-<br/><sup>16</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]).
-<br/><sup>17</sup> consumo solo para Microsoft Stream: sin publicación ni uso compartido.
-<br/><sup>18</sup> a partir del 2019 de mayo, los SKU existentes de Office 365 y Microsoft 365 se rellenarán con Kaizala Pro. A partir del 1 de junio de 2019, Kaizala Pro se incluirá en todas las SKU de Office 365 y Microsoft 365 elegibles.
-<br/><sup>19</sup> para obtener más información, consulte [planes y entornos de myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
-<br/><sup>20</sup> incluye las características de Azure Active Directory descritas en la columna **Office 365 apps** en la página de [precios de Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) . Debe agregar Azure Active Directory plan 1 o plan 2, Enterprise Mobile Security o Microsoft 365 E3 o E5 para obtener las características Premium de Azure AD.<br/>
-<sup>21</sup> el mensaje de correo electrónico de informe se proporciona automáticamente a todos los usuarios de Exchange Online. Para obtener más información, vea [configurar el correo electrónico de informe](https://docs.microsoft.com/Briefing/be-admin).<br>
-<sup>22</sup> para ver los detalles de la característica, vea la [Descripción del servicio de Microsoft Project](../project-online-service-description/project-online-service-description.md). Se concede a los usuarios acceso limitado a los derechos de proyecto para la Web. Estos derechos están restringidos para su uso solo con el proyecto de la aplicación web y solo para los inquilinos que tienen una licencia de plan de proyecto 1, plan de proyecto 3 o plan 5 de proyecto. Estos derechos no conceden acceso a las aplicaciones de la plataforma de alimentación u otros conjuntos de datos, el cliente de escritorio de Project online o Project online.
+<br/><sup>12</sup> en Office 365 Enterprise F3, el flujo se limita al consumo y las ejecuciones se limitan a 750 por usuario y mes. 
+<br/><sup>13</sup> solo disponible en los planes de Office 365 Education, incluido Office 365 E5 Education. No está disponible en Office 365 Enterprise E5. 
+<br/><sup>14</sup> para obtener más información, consulte [Service Encryption with Customer Key](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<br/><sup>15</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]).
+<br/><sup>16</sup> consumo solo para Microsoft Stream: sin publicación ni uso compartido.
+<br/><sup>17</sup> a partir del 2019 de mayo, los SKU existentes de Office 365 y Microsoft 365 se rellenarán con Kaizala Pro. A partir del 1 de junio de 2019, Kaizala Pro se incluirá en todas las SKU de Office 365 y Microsoft 365 elegibles.
+<br/><sup>18</sup> para obtener más información, consulte [planes y entornos de myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
+<br/><sup>19</sup> incluye las características de Azure Active Directory descritas en la columna **Office 365 apps** en la página de [precios de Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) . Debe agregar Azure Active Directory plan 1 o plan 2, Enterprise Mobile Security o Microsoft 365 E3 o E5 para obtener las características Premium de Azure AD.<br/>
+<sup>20</sup> el mensaje de correo electrónico de informe se proporciona automáticamente a todos los usuarios de Exchange Online. Para obtener más información, vea [configurar el correo electrónico de informe](https://docs.microsoft.com/Briefing/be-admin).<br>
+<sup>21</sup> para obtener más información sobre características, vea la [Descripción del servicio de Microsoft Project](../project-online-service-description/project-online-service-description.md). Se concede a los usuarios acceso limitado a los derechos de proyecto para la Web. Estos derechos están restringidos para su uso solo con el proyecto de la aplicación web y solo para los inquilinos que tienen una licencia de plan de proyecto 1, plan de proyecto 3 o plan 5 de proyecto. Estos derechos no conceden acceso a las aplicaciones de la plataforma de alimentación u otros conjuntos de datos, el cliente de escritorio de Project online o Project online.

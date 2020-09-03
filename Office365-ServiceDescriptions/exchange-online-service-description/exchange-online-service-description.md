@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Necesita una comparación de características de las suscripciones que incluyen Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: 3fde5c78c111c8a5e76442b42fc746e289ef340a
-ms.sourcegitcommit: 4438b2649901eb2640e106631b58991c785cc73e
+ms.openlocfilehash: 80c25945014118c78a5b9d61aada73d470f3d7e4
+ms.sourcegitcommit: 0aa413228626ed0e151589c9964308aedf1ca374
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/31/2020
-ms.locfileid: "47315381"
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "47337866"
 ---
 # <a name="exchange-online-service-description"></a>Descripción de servicio de Exchange Online
 
@@ -198,9 +198,9 @@ Para ver la disponibilidad de características en Microsoft 365 Business Premium
 <sup>21</sup> la tabla indica si el cliente trabaja o no con los planes asociados. Aunque esto no significa que los clientes se incluyan en la compra de estos planes. <br/>
 <sup>22</sup> para obtener más información, consulte [Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
 <sup>23</sup> la compatibilidad de mensajería unificada de Exchange Online para sistemas PBX de terceros a través de conexiones directas del cliente accionado por el cliente de SBCS terminará en abril de 2019. Consulte el blog del equipo de Exchange, [descontinuación de la compatibilidad con los controladores de borde de sesión en la mensajería unificada de Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) para obtener más información. <br/>
-<sup>24</sup> un usuario de F3 no puede Agregar delegados a su propio buzón de correo, pero puede tener acceso a otro buzón de correo (incluidos los buzones compartidos) y realizar las acciones que se hayan delegado en ellos.
+<sup>24</sup> un usuario de F3 no puede Agregar delegados a su propio buzón de correo, pero puede tener acceso a otro buzón de correo (incluidos los buzones compartidos) y realizar las acciones que se hayan delegado en ellos.<br/>
 <sup>25</sup> una suscripción para Microsoft 365 apps for Enterprise también es necesaria para exchange Server 2013 y exchange Server 2016.
-  
+
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilidad de características en los planes independientes de Exchange Online
 
 |**Característica**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
@@ -282,6 +282,7 @@ Para ver la disponibilidad de características en Microsoft 365 Business Premium
 |SMTP|Sí|Sí|Sí|Sí|Sí|
 |Compatibilidad con la aplicación EWS|Sí|Sí|Sí|Sí|No|
 |Outlook para Mac|Sí|Sí|Sí|Sí|No|
+|Outlook para iOS y Android<sup>21</sup>|Sí<sup>25</sup>|Sí<sup>25</sup>|Sí|Sí|Sí|
 |**[Servicios de mensajes de voz](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan 1)**|**Exchange Online (plan 2)**|**Quiosco de Exchange Online**|
 |Correo de voz|Sí|Sí|No|Sí|No|
 |Interoperabilidad de correo de voz de terceros|Sí|Sí|Sí|Sí|Sí|
@@ -330,4 +331,5 @@ Para ver la disponibilidad de características en Microsoft 365 Business Premium
 <sup>21</sup> algunos complementos y elementos Web de terceros podrían no estar disponibles. <br/>
 <sup>22</sup> para eDiscovery, necesita una consulta independiente para local frente a nube. <br/>
 <sup>23</sup> el quiosco de Exchange online no proporciona derechos de acceso para la utilización con servidores locales. Para cumplir con las normas, el cliente debe adquirir o haber adquirido previamente las CAL adecuadas o debe actualizar a Enterprise SKU, que proporciona estos derechos de acceso. <br/>
-<sup>24</sup> los grupos de 365 de Microsoft están disponibles con funcionalidad reducida.
+<sup>24</sup> los grupos de 365 de Microsoft están disponibles con funcionalidad reducida.<br/>
+<sup>25</sup> una suscripción para Microsoft 365 apps for Enterprise también es necesaria para exchange Server 2013 y exchange Server 2016.
