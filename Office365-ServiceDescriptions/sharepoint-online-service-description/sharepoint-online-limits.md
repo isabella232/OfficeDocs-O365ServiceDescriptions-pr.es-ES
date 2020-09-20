@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para los planes de Microsoft 365 y independientes.
-ms.openlocfilehash: a8b42885b558d04aee0ed3743cffc203dde2f248
-ms.sourcegitcommit: 3ad5d292cc16367a4b7ecd60aad6329130cc594a
+ms.openlocfilehash: d01e2af69d566b0e44d515e762049acd3cfba864
+ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/12/2020
-ms.locfileid: "46649600"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "47962099"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -49,7 +49,7 @@ Una lista puede tener hasta 30 millones elementos y una biblioteca puede tener h
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Permisos exclusivos para los elementos de una lista o biblioteca
 
-El límite admitido es 50.000 elementos con permisos únicos, pero el límite general recomendado es 5.000. Realizar cambios en más de 5.000 elementos con permisos únicos a la vez lleva más tiempo. Para listas de gran tamaño, diseñe para que tenga el menor número de permisos únicos posible.
+El límite permitido es 50.000 elementos con permisos únicos, pero el límite general recomendado es 5.000. Realizar cambios en más de 5.000 elementos con permisos únicos a la vez lleva más tiempo. Para listas de gran tamaño, diseñe para que tenga el menor número de permisos únicos posible.
 
 Otro límite es 5.000 asignaciones de funciones por elemento con permisos únicos. 
 
