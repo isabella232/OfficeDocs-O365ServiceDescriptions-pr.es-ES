@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: El mensaje de informe de instrucciones ayuda a los usuarios a aprovechar al máximo todos los días. Identifica las oportunidades en varios elementos y proporciona avisos puntuales.
-ms.openlocfilehash: 57d12fa0edd5f91184084c3c6e49e16266ff7bf4
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: 06509aafad67451fb1f75d15649351ec2101689a
+ms.sourcegitcommit: cc39932b65461bded971132ba058bd4e005b9072
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134037"
+ms.lasthandoff: 09/21/2020
+ms.locfileid: "48170535"
 ---
 # <a name="briefing-email-service-description"></a>Descripción del servicio de correo electrónico de Briefing
 

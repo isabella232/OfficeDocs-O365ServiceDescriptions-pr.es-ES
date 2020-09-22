@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams ofrece mensajería instantánea, colaboración de archivos y datos, llamadas de audio y vídeo, reuniones en línea enriquecidas, experiencias móviles y capacidades de conferencia web amplias.
-ms.openlocfilehash: 81dd8ad165c0a0155544b929dd8abee767fa150a
-ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
+ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
+ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46531213"
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "48175187"
 ---
 # <a name="microsoft-teams-service-description"></a>Descripción del servicio Microsoft Teams
 
@@ -22,11 +22,10 @@ Skype empresarial online se retirará el 31 de julio de 2021, que se [anunció](
 
 Microsoft sigue comprometidos con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, consulte el [centro de confianza de Microsoft](https://www.microsoft.com/trust-center) y el centro de accesibilidad de [Office](https://support.office.com/article/Office-Accessibility-Center-Resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
 
-Para su referencia, hemos incluido esta tabla maestra de las suscripciones que permiten a los usuarios de Microsoft Teams. Para obtener información detallada sobre el plan, consulte [Buscar los Microsoft Teams adecuados para su empresa](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Para obtener más Office 365 en planes gubernamentales, consulte [office 365 planes gubernamentales](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 a G5 incluye acceso a las características de Microsoft Teams.
+Para su referencia, hemos incluido esta tabla maestra de las suscripciones que permiten a los usuarios de Microsoft Teams. Para obtener información detallada sobre el plan, consulte [Buscar los Microsoft Teams adecuados para su empresa](https://www.microsoft.com/microsoft-365/microsoft-teams/compare-microsoft-teams-options?rtc=1). Para obtener más Office 365 en planes gubernamentales, consulte [office 365 planes gubernamentales](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans). Office 365 G1 a G5 incluye acceso a las características de Microsoft Teams.<br><br>
 
-|||||||||
+| Planes para pequeñas empresas | Planes empresariales | Planes de educación | Planes para programadores |
 |:-----|:-----|:-----|:-----|
-|**Planes para pequeñas empresas** <br/> |**Planes empresariales** <br/> |**Planes de educación** <br/> |**Planes para programadores** <br/> |
 |Microsoft 365 Empresa Básico <br/> |Office 365 E1 <br/> |Office 365 A1 <br/> |Office 365 Developer <br/> |
 |Microsoft 365 Empresa Estándar <br/> |Office 365 E3 <br/> |Office 365 A3 <br/>|   <br/> |
 |Microsoft 365 Empresa Premium <br/> | Office 365 E5<br/> |Office 365 A5 <br/>  |  <br/> |
@@ -48,11 +47,10 @@ Microsoft Teams no está disponible como un servicio independiente.
 
 ## <a name="feature-category-reference"></a>Referencia de categoría de características 
 
-En esta tabla se muestra la disponibilidad de las características de Microsoft Teams a través de planes de licencia o instancias de nube. Se aplican ciertas advertencias. Para obtener más información, vea las notas al pie. Esta tabla puede cambiar sin previo aviso. Consulte Microsoft 365 notificaciones del centro de mensajes para la mensajería de cambio de servicio principal y la [documentación de referencia de términos de licencia de Microsoft](https://www.microsoft.com/licensing/product-licensing/products).
+En esta tabla se muestra la disponibilidad de las características de Microsoft Teams a través de planes de licencia o instancias de nube. Se aplican ciertas advertencias. Para obtener más información, vea las notas al pie. Esta tabla puede cambiar sin previo aviso. Consulte Microsoft 365 notificaciones del centro de mensajes para la mensajería de cambio de servicio principal y la [documentación de referencia de términos de licencia de Microsoft](https://www.microsoft.com/licensing/product-licensing/products).<br><br>
 
-|||||||
+| Característica | Empresa pequeña | Planes empresariales | GCC | GCC-High | DOD | Educación |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-| <br/>|**Empresa pequeña** <br/> |**Planes empresariales** <br/> |**GCC** <br/> |**GCC-High** <br/> |**REQUISITO** <br/> |**Educación** <br/> |
 |Chat  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Teams  <br/> |Sí <br/> |Sí <br/> |Sí <br/> |Sí<sup>1</sup>  <br/> |Sí<sup>1</sup>  <br/> |Sí  <br/> |
 |Canales: estándar  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -64,11 +62,11 @@ En esta tabla se muestra la disponibilidad de las características de Microsoft 
 |Aplicaciones, bots & conectores  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>3</sup>  <br/> |Sí<sup>3</sup>  <br/> |Sí<sup>3</sup>  <br/> |Sí  <br/> |
 |Eventos en directo  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No<sup>4</sup>  <br/> |No<sup>4</sup>  <br/> |Sí  <br/> |
 
-<sup>1</sup> Microsoft Teams en gcc-High y DoD admiten miembros de 2500 en un equipo individual.<br/>
-<sup>2</sup> Microsoft Planner no está disponible actualmente para acceder a los canales privados.<br/>
-<sup>3</sup> Microsoft OneNote no está disponible en nubes DoD. Las aplicaciones y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
-<sup>4</sup> los eventos en directo no están disponibles en gcc-High o Dod en este momento.<br/>
+> <sup>1</sup>  Microsoft Teams en gcc-High y DoD admiten miembros de 2500 en un equipo individual.<br/>
+> <sup>2</sup> Microsoft Planner no está disponible actualmente para acceder a los canales privados.<br/>
+> <sup>3</sup> Microsoft OneNote no está disponible en nubes DoD. Las aplicaciones y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
+> <sup>4</sup> los eventos en directo no están disponibles en gcc-High o Dod en este momento.<br/>
 
-## <a name="next-steps"></a>Siguientes pasos
+## <a name="next-steps"></a>Pasos siguientes
 
 Para empezar a planear la implementación de Microsoft Teams, visite la [documentación técnica de Microsoft Teams](https://aka.ms/SuccessWithTeams). Manténgase informado sobre las características y capacidades de Microsoft Teams [uniendo nuestra comunidad y visitando nuestro blog de Microsoft Teams](https://aka.ms/TeamsBlog).
