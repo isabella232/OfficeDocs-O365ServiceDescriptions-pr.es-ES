@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 283491c67a8000dfc7d2b46f40c21e8a51d6bd07
-ms.sourcegitcommit: bd1b87d320d4e9fd731f23704f589257562a5935
+ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798386"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214389"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -148,6 +148,32 @@ Para obtener información sobre cómo configurar las directivas de Microsoft Clo
 
 Los administradores pueden asignar el ámbito de las implementaciones de MCAS a los usuarios con licencia mediante las funciones de implementación con ámbito disponibles en el servicio. Para obtener más información, vea [implementación con ámbito](https://docs.microsoft.com/cloud-app-security/scoped-deployment).
 
+## <a name="compliance-manager"></a>Administrador de cumplimiento
+
+Simplificar el cumplimiento y reducir el riesgo con el administrador de cumplimiento. El administrador de cumplimiento ayuda a las organizaciones a cumplir los requisitos de regulaciones, estándares, directivas de la empresa u otros marcos de control deseados.
+
+### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
+
+A continuación, se indican las ventajas para los usuarios del servicio de administrador de cumplimiento:
+
+- Convierte reglas complicadas, estándares, directivas de la empresa u otros marcos de control deseados en un lenguaje sencillo
+- Proporciona acceso a una vasta biblioteca de evaluaciones preparadas y evaluaciones personalizadas para cumplir con las necesidades de cumplimiento exclusivas.
+- Asigna controles normativos a acciones de mejora recomendadas
+- Proporciona instrucciones paso a paso sobre cómo implementar las soluciones para cumplir los requisitos normativos.
+- Ayuda a los usuarios a priorizar acciones que tendrán el mayor impacto en el cumplimiento de su organización al asociar una puntuación a cada acción
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
+
+Los clientes con Office 365 E1/a1/E3/a3 y las licencias de 365 E3/a3 de Microsoft podrán tener acceso a la evaluación de línea base de protección de datos. Los clientes con licencias de Office 365 E5/A5 y Microsoft 365 E5/A5 podrán tener acceso a las evaluaciones de línea base de protección de datos, RGPD, NIST 800-53 y ISO 22701. Las evaluaciones Premium estarán disponibles para su compra a los clientes de Office 365 E5/A5 y Microsoft 365 E5/A5.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
+
+El administrador de cumplimiento se aprovisiona de forma predeterminada para su espacio empresarial. Los administradores establecen los permisos de usuario y asignan roles para que los usuarios que no sean administradores de la organización puedan empezar a usar el administrador de cumplimiento. Para obtener más información, vea la [documentación](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)de.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
+
+El acceso al administrador de cumplimiento se controla mediante la configuración de los permisos de usuario y la asignación de roles. Para obtener más información, vea la [documentación](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)
+
 ## <a name="microsoft-defender-atp"></a>ATP de Microsoft Defender
 
 ATP de Microsoft defender es una solución de seguridad de extremo que incluye evaluación y administración de vulnerabilidad basada en riesgos; capacidades de reducción de superficie de ataques; protección de próxima generación basada en el comportamiento y en la nube; detección y respuesta de extremos (EDR); investigación y corrección automáticas; y servicios de búsqueda administrada. Consulte la página [ATP de Microsoft defender](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) para obtener más información.
@@ -227,11 +253,11 @@ Para obtener derechos específicos por licencia, consulte la comparación detall
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
-De forma predeterminada, las características de gobierno de información se habilitan en el nivel de inquilino para todos los usuarios del espacio empresarial. Para obtener información sobre cómo configurar el gobierno de información para aplicar etiquetas automáticas y directivas para los usuarios con licencia, consulte [Manage Information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
+De forma predeterminada, las características de gobierno de información se habilitan en el nivel de inquilino para todos los usuarios del espacio empresarial. Para obtener información sobre cómo configurar el gobierno de información para aplicar etiquetas y directivas a los usuarios con licencia, consulte [Manage Information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Las características de gobierno de la información se pueden aplicar a usuarios con licencia en ubicaciones específicas (sitios de grupo, sitios de grupo, etc.). Para obtener información sobre cómo configurar el gobierno de información para aplicar etiquetas automáticas y directivas para los usuarios con licencia, consulte [Manage Information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
+Las características de gobierno de la información se pueden aplicar a usuarios con licencia en ubicaciones específicas (sitios de grupo, sitios de grupo, etc.). Para obtener información sobre cómo configurar el gobierno de información para aplicar etiquetas y directivas a los usuarios con licencia, consulte [Manage Information Governance](https://docs.microsoft.com/microsoft-365/compliance/manage-information-governance).
 
 ## <a name="records-management"></a>Records Management
 
@@ -256,6 +282,61 @@ De forma predeterminada, las características de administración de registros es
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
 Las características de administración de registros se pueden aplicar a usuarios con licencia en ubicaciones específicas (sitios de grupo, sitios de grupo, etc.). Para obtener información sobre cómo configurar la administración de registros para aplicarla a los usuarios con licencia, consulte [Administración de registros en Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/records-management).
+
+## <a name="data-connectors"></a>Conectores de datos 
+
+Microsoft proporciona conectores de datos de terceros que se pueden configurar en el centro de cumplimiento de Microsoft 365. Para obtener una lista de los conectores de datos proporcionados por Microsoft, consulte la tabla [conectores de datos de terceros](https://docs.microsoft.com/microsoft-365/compliance/archiving-third-party-data) . En esta tabla también se resumen las soluciones de cumplimiento que se pueden aplicar a los datos de terceros después de importar y archivar datos en Microsoft 365 y vínculos a las instrucciones paso a paso para cada conector.
+
+### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
+
+Una de las principales ventajas de usar conectores de datos para importar y archivar datos de terceros en Microsoft 365 es que puede aplicar diversas soluciones de cumplimiento de Microsoft 365 a esa una vez que se ha importado. Esto ayuda a garantizar que los datos de su organización que no son de Microsoft cumplen con las regulaciones y los estándares que afectan a su organización.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
+
+Las siguientes licencias proporcionan los derechos para que un usuario se beneficie de los conectores de datos:
+
+- Microsoft 365 E5/A5
+- Microsoft 365 E5/control de & de protección de información A5
+- Cumplimiento de Microsoft 365 E5/A5
+- Microsoft 365 E5/administración de riesgos de Insider A5 
+- Microsoft 365 E5/la exhibición de documentos electrónicos A5 y auditoría 
+- Office 365 E5/A5
+- Cumplimiento avanzado de Office 365
+
+Para los conectores de datos del centro de seguridad & cumplimiento de M365 que provienen de uno de los socios de Microsoft, la organización necesitará una relación comercial con el socio antes de poder implementar esos conectores.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
+
+Los conectores se configuran mediante la seguridad & el centro de cumplimiento y el catálogo de conectores.
+
+### <a name="how-can-the-service-be-applied-only---to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
+
+Los servicios de conectores de datos son un valor de nivel de espacio empresarial. Todos los usuarios que se vayan a beneficiar de este servicio deben tener licencia.
+
+## <a name="microsoft-graph-apis-for-teams-dlp"></a>API de Microsoft Graph para DLP de Teams
+
+Al principio de este año, [anunciamos la versión preliminar pública de la API de notificación de cambios de Microsoft Graph para los mensajes en Teams](https://developer.microsoft.com/en-us/graph/blogs/announcing-change-notifications-for-microsoft-teams-messages). Esta API permite a los programadores crear aplicaciones que puedan escuchar los mensajes de Microsoft Teams en tiempo casi real y habilitar implementaciones de escenario de DLP tanto para clientes como para proveedores de software independientes (ISV). Además, la API de revisión de Microsoft Graph permite aplicar acciones de DLP a los mensajes de Microsoft Teams.
+
+### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
+
+Las capacidades de [prevención de pérdida de datos (DLP)](https://docs.microsoft.com/microsoft-365/compliance/dlp-microsoft-teams?view=o365-worldwide) se usan ampliamente en Microsoft Teams, especialmente cuando las organizaciones se han desplazado al trabajo remoto. Si su organización tiene DLP, ahora puede definir directivas que impiden que los usuarios compartan información confidencial en una sesión de chat o de canal de Microsoft Teams.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
+
+Necesitará una de las siguientes licencias de E5 para admitir la protección de prevención de pérdida de datos (DLP) en el chat de Microsoft Teams:
+
+- Microsoft 365 E5/A5
+- Cumplimiento de Microsoft 365 E5/A5
+- Microsoft 365 E5/protección y gobernanza de la información A5
+- Office 365 E5/A5 
+
+### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
+
+El acceso a la API está configurado en el nivel de espacio empresarial.
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
+
+La API de Microsoft Graph para Teams DLP es un valor de nivel de espacio empresarial. Todos los usuarios que se vayan a beneficiar de este servicio deben tener licencia.
 
 ## <a name="ediscovery"></a>eDiscovery
 
@@ -533,9 +614,13 @@ Para la protección de identidad y el acceso condicional en concreto, un usuario
 
 La auditoría avanzada en Microsoft 365 proporciona una retención de un año de registros de auditoría para actividades de usuario y de administrador, y proporciona la capacidad de crear directivas de retención de registro de auditoría personalizadas para administrar la retención de registros de auditoría para otros servicios de Microsoft 365. También proporciona acceso a eventos fundamentales para las investigaciones y el acceso de gran ancho de banda a la API de actividad de administración 365 de Office. Para obtener más información, consulte [auditoría avanzada en Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/advanced-audit).
 
+También puede habilitar un período de retención de 10 años con un SKU de complemento. El SKU del complemento será necesario a partir de la 2021 inicial.
+
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
 Los usuarios con licencia de Office 365 E5, Microsoft 365 E5, el cumplimiento de Microsoft 365 E5 y Microsoft 365 eDiscovery y Audit pueden beneficiarse de la auditoría avanzada.
+
+Los usuarios con licencia con una auditoría avanzada y el complemento de retención de registro de auditoría de diez años pueden beneficiarse de la retención de registro de auditoría de 10 años.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -543,8 +628,10 @@ Un usuario se beneficia de la auditoría avanzada porque los registros de audito
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
-De forma predeterminada, la auditoría avanzada está habilitada en el nivel de espacio empresarial para todas las organizaciones que tienen una suscripción de Office 365 o Microsoft 365 E5, y proporciona automáticamente una retención de un año de registros de auditoría para actividades (realizadas por los usuarios con la licencia adecuada) en Azure Active Directory, Exchange y SharePoint. Además, las organizaciones pueden usar directivas de retención de registro de auditoría para administrar el período de retención de los registros de auditoría generados por la actividad en otros servicios de Microsoft 365. Para obtener más información, vea [administrar directivas de retención de los registros de auditoría](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
+De forma predeterminada, la auditoría avanzada está habilitada en el nivel de espacio empresarial para todas las organizaciones que tienen una suscripción de Office 365 o Microsoft 365 E5, y proporciona automáticamente una retención de un año de registros de auditoría para actividades (realizadas por los usuarios con la licencia adecuada) en Azure Active Directory, Exchange y SharePoint. Además, las organizaciones pueden usar directivas de retención de registro de auditoría para administrar el período de retención de los registros de auditoría generados por la actividad en otros servicios de Microsoft 365. La funcionalidad de retención de registro de auditoría de 10 años también se habilita con las mismas directivas de retención. Para obtener más información, vea [administrar directivas de retención de los registros de auditoría](https://docs.microsoft.com/microsoft-365/compliance/audit-log-retention-policies).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
 La retención de un año de registros de auditoría y la auditoría de eventos vitales solo se aplican a los usuarios con la licencia adecuada. Además, los administradores pueden usar directivas de retención de registro de auditoría para especificar duraciones de retención más cortas para los registros de auditoría de usuarios específicos.
+
+la retención de 10 años de registros de auditoría solo se aplica a los usuarios con la licencia de complemento correspondiente. El SKU del complemento será necesario a partir de la 2021 inicial.

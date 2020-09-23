@@ -10,12 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-ms.openlocfilehash: a09609e81d9d179dcd156db886913d3124b2e16f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Exchange Online funciona con versiones móviles y de escritorio de Outlook, así como con Outlook en la Web.
+ms.openlocfilehash: 32fb8ee9124a805233daaab2968158825cb46ca4
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132974"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214359"
 ---
 # <a name="clients-and-mobile-devices"></a>Clientes y dispositivos móviles
 
@@ -23,11 +24,11 @@ ms.locfileid: "45132974"
 
 Microsoft Outlook es un programa de correo electrónico que incluye soporte para calendario, contactos, tareas y las siguientes características clave:
   
-- **MAPI sobre http** La interfaz de programación de aplicaciones de mensajería (MAPI) a través de HTTP permite que los usuarios de Outlook se conecten a los buzones de Exchange Online a través de Internet desde fuera del firewall de su organización. MAPI sobre HTTP, el reemplazo a largo plazo para Outlook en cualquier lugar. Este método de conectividad ofrece una mayor resistencia de conexión, mayor Inicio de sesión seguro, extensibilidad, así como mejoras para ti y soporte técnico. Para obtener más información, consulte [RPC sobre http alcanza el final del soporte técnico en Office 365](https://go.microsoft.com/fwlink/?linkid=863890) y [MAPI sobre http](https://go.microsoft.com/fwlink/?linkid=393041).
+- **MAPI sobre http** : la interfaz de programación de aplicaciones de mensajería (MAPI) a través de http permite que los usuarios de Outlook se conecten a los buzones de Exchange Online a través de Internet desde fuera del firewall de su organización. MAPI sobre HTTP, el reemplazo a largo plazo para Outlook en cualquier lugar. Este método de conectividad ofrece una mayor resistencia de conexión, mayor Inicio de sesión seguro, extensibilidad, así como mejoras para ti y soporte técnico. Para obtener más información, consulte [RPC sobre http alcanza el final del soporte técnico en Office 365](https://go.microsoft.com/fwlink/?linkid=863890) y [MAPI sobre http](https://go.microsoft.com/fwlink/?linkid=393041).
 
-- **Detección automática** La característica del servicio Detección automática configura Outlook automáticamente para que funcione con Exchange Online. Los usuarios de Outlook reciben la configuración de perfil requerida directamente de Exchange Online la primera vez que inician sesión con su dirección de correo electrónico y contraseña. Mediante esta configuración se actualiza automáticamente el cliente de Outlook con la información necesaria para crear y mantener el perfil del usuario. Se requiere un certificado SSL para utilizar el servicio Detección automática. Este certificado SSL está limitado a un único dominio SSL principal. 
+- **Autodiscover** : la característica del servicio Detección automática configura automáticamente Outlook para que funcione con Exchange Online. Los usuarios de Outlook reciben la configuración de perfil requerida directamente de Exchange Online la primera vez que inician sesión con su dirección de correo electrónico y contraseña. Mediante esta configuración se actualiza automáticamente el cliente de Outlook con la información necesaria para crear y mantener el perfil del usuario. Se requiere un certificado SSL para utilizar el servicio Detección automática. Este certificado SSL está limitado a un único dominio SSL principal. 
 
-- **Modo caché de Exchange** La característica modo caché de Exchange permite a los usuarios de Outlook obtener acceso a copias locales de sus buzones de Exchange Online cuando no están conectados a Internet. El modo caché de Exchange guarda una copia del lado cliente de los buzones de Exchange de los usuarios en Outlook y la sincroniza automáticamente con el servidor de correo electrónico. Se recomienda usar Outlook en modo caché de Exchange porque ofrece acceso sin conexión y permite proporcionar una experiencia de usuario eficiente incluso cuando las condiciones de red entre el cliente y el servidor no sean las más óptimas. 
+- **Modo caché de Exchange** : la característica modo de intercambio en caché permite a los usuarios de Outlook obtener acceso a copias locales de sus buzones de Exchange Online cuando no están conectados a Internet. El modo caché de Exchange guarda una copia del lado cliente de los buzones de Exchange de los usuarios en Outlook y la sincroniza automáticamente con el servidor de correo electrónico. Se recomienda usar Outlook en modo caché de Exchange porque ofrece acceso sin conexión y permite proporcionar una experiencia de usuario eficiente incluso cuando las condiciones de red entre el cliente y el servidor no sean las más óptimas. 
 
 De forma predeterminada, el acceso a Outlook está habilitado para todos los usuarios. Los administradores pueden deshabilitar el acceso para determinados usuarios o grupos a través de Windows PowerShell. Se recomienda usar la última versión de Outlook, con el último Service Pack instalado, para tener acceso a Exchange Online. 
   
@@ -39,7 +40,12 @@ Microsoft 365 está diseñado para trabajar con los exploradores y las versiones
 - Microsoft no proporcionará actualizaciones de software para resolver problemas no relacionados con la seguridad.
 
 > [!IMPORTANT]
->  Outlook no se incluye como parte del precio de suscripción de Exchange Online. Microsoft 365 apps for Enterprise (que incluye Microsoft Outlook) se incluye en algunos planes y puede adquirirse como una suscripción independiente. Si usa POP para conectarse a una cuenta de correo electrónico de Exchange Online, verá las siguientes limitaciones: > no hay información de calendario > no hay información de disponibilidad > ninguna lista global de direcciones > sin correo electrónico de inserción > al conectarse a través de POP, todos los mensajes se descargarán en el cliente y no habrá sincronización entre varios equipos o dispositivos 
+> Outlook no se incluye como parte del precio de suscripción de Exchange Online. Microsoft 365 apps for Enterprise (que incluye Microsoft Outlook) se incluye en algunos planes y puede adquirirse como una suscripción independiente. Si utiliza POP para conectarse a una cuenta de correo electrónico de Exchange Online, verá las siguientes limitaciones:
+> - No hay información de calendario
+>- No hay información de disponibilidad
+>- No se incluye la lista global de direcciones
+>- No se incluye correo electrónico de inserción
+>- Al conectarse a través de POP, todos los mensajes se descargan en el cliente y los diversos equipos o dispositivos no se sincronizan (por ejemplo, entre un teléfono y un portátil). 
   
 ## <a name="outlook-on-the-web"></a>Outlook en la web
 
@@ -47,9 +53,9 @@ Outlook en la web es una versión basada en web del programa de correo electrón
   
 Outlook en la web tiene dos versiones de cliente y ambas se pueden usar con Exchange Online:
   
-- **Outlook en la web** La versión estándar de Outlook en la web ofrece a los usuarios de Exchange Online una experiencia de mensajería muy similar a la de los usuarios de Outlook. Es compatible con la mayoría de los exploradores web más recientes y está optimizada para su uso en tabletas y smartphones, así como en equipos de escritorio y portátiles. Los usuarios pueden leer y enviar mensajes, organizar contactos y programar citas y reuniones. El tiempo de espera predeterminado basado en actividad se establece en seis horas, pero lo puede [configurar un administrador en Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) de 5 minutos a 8 horas. Este tiempo de espera depende de las interacciones del usuario en la aplicación Web, como seleccionar un botón o seleccionar un mensaje. También hay un tiempo de espera distinto orientado a la seguridad, que no es configurable y que se producirá independientemente de la actividad del usuario. Si un usuario tiene una sesión abierta durante 8 horas, Outlook Web App cerrará la sesión del usuario de forma automática y le solicitará que se vuelva a autenticar. 
+- **Outlook en la web** : la versión estándar de Outlook en la web proporciona a los usuarios de Exchange Online una experiencia de mensajería más similar a la de los usuarios de Outlook. Es compatible con la mayoría de los exploradores web más recientes y está optimizada para su uso en tabletas y smartphones, así como en equipos de escritorio y portátiles. Los usuarios pueden leer y enviar mensajes, organizar contactos y programar citas y reuniones. El tiempo de espera predeterminado basado en actividad se establece en seis horas, pero lo puede [configurar un administrador en Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) de 5 minutos a 8 horas. Este tiempo de espera depende de las interacciones del usuario en la aplicación Web, como seleccionar un botón o seleccionar un mensaje. También hay un tiempo de espera distinto orientado a la seguridad, que no es configurable y que se producirá independientemente de la actividad del usuario. Si un usuario tiene una sesión abierta durante 8 horas, Outlook Web App cerrará la sesión del usuario de forma automática y le solicitará que se vuelva a autenticar. 
 
-- **Versión ligera de Outlook en la web** La versión ligera de Outlook en la web ofrece a los usuarios de Exchange Online acceso al buzón con prácticamente cualquier explorador web. Los usuarios pueden leer y enviar mensajes, organizar contactos y programar citas y reuniones. El tiempo de espera predeterminado basado en actividad se establece en seis horas, pero lo puede [configurar un administrador en Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) de 5 minutos a 8 horas. Este tiempo de espera depende de las interacciones del usuario en la aplicación Web, como seleccionar un botón o seleccionar un mensaje. También hay un tiempo de espera distinto orientado a la seguridad, que no es configurable y que se producirá independientemente de la actividad del usuario. Si un usuario tiene una sesión abierta durante 8 horas, la versión ligera de Outlook Web App cerrará la sesión del usuario de forma automática y le solicitará que se vuelva a autenticar. 
+- **La versión ligera de Outlook en la web** : la versión ligera de Outlook en la web proporciona a los usuarios de Exchange Online acceso al buzón de correo con casi cualquier explorador Web. Los usuarios pueden leer y enviar mensajes, organizar contactos y programar citas y reuniones. El tiempo de espera predeterminado basado en actividad se establece en seis horas, pero lo puede [configurar un administrador en Windows PowerShell](https://go.microsoft.com/fwlink/p/?LinkId=399155) de 5 minutos a 8 horas. Este tiempo de espera depende de las interacciones del usuario en la aplicación Web, como seleccionar un botón o seleccionar un mensaje. También hay un tiempo de espera distinto orientado a la seguridad, que no es configurable y que se producirá independientemente de la actividad del usuario. Si un usuario tiene una sesión abierta durante 8 horas, la versión ligera de Outlook Web App cerrará la sesión del usuario de forma automática y le solicitará que se vuelva a autenticar. 
 
 Outlook en la web también está disponible en versiones móviles. Para obtener más información, consulte [esta página](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   
@@ -59,11 +65,10 @@ Exchange Online admite Microsoft Outlook para Mac, que ofrece correo electrónic
   
 ## <a name="outlook-for-ios-android-and-windows-phone"></a>Outlook para iOS, Android y Windows Phone
 
-Exchange Online funciona con las aplicaciones de Outlook disponibles para iOS, Android y Windows Phone. En cualquiera de estos dispositivos, use la App Store para encontrar la aplicación de Outlook. Este es un desglose por sistema operativo móvil.
+Exchange Online funciona con las aplicaciones de Outlook disponibles para iOS, Android y Windows Phone. En cualquiera de estos dispositivos, use la App Store para encontrar la aplicación de Outlook. Este es un desglose por sistema operativo móvil.<br><br>
   
-|||||
+| Dispositivo | Android | iOS | Windows Phone |
 |:-----|:-----|:-----|:-----|
-|Dispositivo  <br/> |Android  <br/> |iOS  <br/> |Windows Phone  <br/> |
 |Disponibilidad de aplicaciones móviles de Outlook  <br/> |Sí  <br/> [Obtener Outlook para Android](https://go.microsoft.com/fwlink/?linkid=863380) <br/> |Sí  <br/> [Obtener Outlook para iOS](https://go.microsoft.com/fwlink/?linkid=863382) <br/> |Integrado  <br/> |
 |Aplicaciones de correo electrónico integradas compatibles con Exchange Online  <br/> |Aplicación de gmail/aplicación de correo electrónico de Samsung  <br/> |aplicación de correo de iOS  <br/> |Correo, calendario, contactos de Outlook  <br/> |
 |Más información  <br/> |[Configuración móvil de Android](https://go.microsoft.com/fwlink/?linkid=525632) <br/> |[instalación de iPhone o iPad](https://go.microsoft.com/fwlink/?linkid=396655) <br/> |[Configuración de Windows Phone](https://go.microsoft.com/fwlink/?linkid=831342) <br/> |
@@ -150,7 +155,7 @@ El Protocolo simple de transferencia de correo (SMTP) se usa para enviar correo 
 > [!IMPORTANT]
 > Se requieren direcciones IP para los servidores de origen autorizados para que se admita la retransmisión SMTP. Al usar SMTP para enviar correo electrónico, se requiere la autenticación y el cifrado de Seguridad de la capa de transporte (TLS). 
   
-## <a name="blackberryreg-devices"></a>&reg;Dispositivos BlackBerry
+## <a name="blackberry-devices"></a>Dispositivos BlackBerry
 
 El correo electrónico está disponible en &reg; dispositivos BlackBerry a través de Exchange ActiveSync. Para saber cuáles son sus opciones, consulte estos temas:
   

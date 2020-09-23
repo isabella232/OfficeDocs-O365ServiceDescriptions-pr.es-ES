@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: El archivado de Microsoft Exchange Online es una solución de archivado de clase empresarial, basada en la nube de Microsoft 365, para organizaciones que han implementado Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 y posterior), o suscribirse a determinados planes de Exchange online o Microsoft 365. Archivado de Exchange Online ayuda a satisfacer las necesidades de estas organizaciones relacionadas con el archivo, el cumplimiento normativo, las disposiciones legales y la exhibición de documentos electrónicos, al mismo tiempo que simplifica la infraestructura local, reduce costes y facilita el trabajo de TI.
-ms.openlocfilehash: 6869fd655142eb6dd6df062fc669f5c8e9c5840f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5039ac00dca0cce5f79eb5bed743e5a4cb1e388b
+ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131524"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48214309"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de Archivado de Exchange Online
 
@@ -35,9 +35,9 @@ Para comparar las características de los planes, consulte [herramientas eficace
   
 ## <a name="exchange-online-archiving-plans"></a>Planes de Archivado de Exchange Online
 
-Archivado de Exchange Online está disponible a través de los siguientes planes.
+Archivado de Exchange Online está disponible a través de los siguientes planes.<br><br>
   
-|**Plan**|**Descripción**|
+| Plan | Descripción |
 |:-----|:-----|
 |**Archivado de Exchange Online para Exchange Server** <br/> |Archivo basado en la nube para usuarios con buzones de correo principales en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o posterior).  <br/> Si desea agregar un archivo basado en la nube a un buzón principal que está en un servidor de Exchange local, necesita configurar una implementación híbrida. Para obtener más información acerca de las implementaciones híbridas, consulte [implementaciones híbridas de Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  <br/> |
 |**Archivado de Exchange Online para Exchange Server (a través de Enterprise CAL Suite)** <br/> |Archivo basado en la nube para usuarios con buzones de correo principales en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o posterior). Para obtener más información, consulte [licencias de acceso de cliente y licencias de administración](https://www.microsoft.com/licensing/product-licensing/client-access-license).  <br/> |
@@ -50,7 +50,7 @@ Archivado de Exchange Online está disponible a través de los siguientes planes
   
 ¿Busca información sobre todos los planes de 365 de Microsoft? Microsoft 365 está disponible en diversos planes para satisfacer mejor las necesidades de su organización. Para obtener información acerca de los diferentes planes, incluidas las opciones de planes independientes e información sobre cómo cambiar de un plan a otro, consulte [Opciones del plan 365 de Office](../office-365-platform-service-description/office-365-plan-options.md).
   
-## <a name="requirements"></a>Requisitos
+## <a name="requirements"></a>Requirements
 
 Para usar el archivado de Exchange Online para Exchange Server, los buzones de correo de los usuarios deben residir en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange Server 2010 (SP2 o posterior).
   
@@ -75,9 +75,8 @@ Cada usuario que acceda al servicio de Archivado de Exchange Online debe tener u
   
 ## <a name="feature-availability-across-exchange-online-archiving-plans"></a>Disponibilidad de características en los planes de Archivado de Exchange Online
 
-||||
+| Característica | Archivado de Exchange Online para Exchange Server<sup>1</sup> | Archivado de Exchange Online para Exchange Online<sup>2</sup> |
 |:-----|:-----|:-----|
-|**Característica** <br/> |**Archivado de Exchange Online para Exchange Server<sup>1</sup>**          <br/> |**Archivado de Exchange Online para Exchange Online<sup>2</sup>** <br/> |
 |**[Características de archivo de archivado de Exchange Online](archive-features.md)** <br/> |||
 |Buzón de archivo  <br/> |Sí  <br/> |Sí  <br/> |
 |Mover mensajes con la Directiva de archivo  <br/> |Sí  <br/> |Sí  <br/> |
