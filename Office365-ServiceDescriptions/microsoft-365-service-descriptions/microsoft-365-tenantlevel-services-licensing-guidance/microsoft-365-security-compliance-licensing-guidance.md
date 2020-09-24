@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: e146341f817672b7bc7d5a98c43ed337e48db07d
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214389"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245735"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -168,13 +168,13 @@ Los clientes con Office 365 E1/a1/E3/a3 y las licencias de 365 E3/a3 de Microsof
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
-El administrador de cumplimiento se aprovisiona de forma predeterminada para su espacio empresarial. Los administradores establecen los permisos de usuario y asignan roles para que los usuarios que no sean administradores de la organización puedan empezar a usar el administrador de cumplimiento. Para obtener más información, vea la [documentación](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)de.
+El administrador de cumplimiento se aprovisiona de forma predeterminada para su espacio empresarial. Los administradores establecen los permisos de usuario y asignan roles para que los usuarios que no sean administradores de la organización puedan empezar a usar el administrador de cumplimiento. Para obtener más información, vea Introducción [al administrador de cumplimiento: set User Permissions and Assign roles](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-El acceso al administrador de cumplimiento se controla mediante la configuración de los permisos de usuario y la asignación de roles. Para obtener más información, vea la [documentación](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup?view=o365-worldwide#set-user-permissions-and-assign-roles)
+El acceso al administrador de cumplimiento se controla mediante la configuración de los permisos de usuario y la asignación de roles. Para obtener más información, vea Introducción [al administrador de cumplimiento: set User Permissions and Assign roles](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-atp"></a>ATP de Microsoft Defender
+## <a name="microsoft-defender-atp"></a>inquilino dedicado
 
 ATP de Microsoft defender es una solución de seguridad de extremo que incluye evaluación y administración de vulnerabilidad basada en riesgos; capacidades de reducción de superficie de ataques; protección de próxima generación basada en el comportamiento y en la nube; detección y respuesta de extremos (EDR); investigación y corrección automáticas; y servicios de búsqueda administrada. Consulte la página [ATP de Microsoft defender](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) para obtener más información.
 
@@ -483,17 +483,17 @@ De forma predeterminada, los mensajes de chat y de canal de Microsoft son una *U
 
 Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  **Locations**.
 
-## <a name="information-barriers"></a>Barreras de información
+## <a name="information-barriers"></a>Barreras de la información
 
 Las barreras de información son directivas que un administrador puede configurar para evitar que los usuarios o grupos se comuniquen entre sí. Esto es útil si, por ejemplo, un departamento está controlando información que no debe compartirse con otros departamentos, o bien es necesario evitar que un grupo se comunique con los contactos externos. Las directivas de barrera de información también evitan búsquedas y detección. Esto significa que si intenta comunicarse con alguien con quien no debe comunicarse, no encontrará a ese usuario en el selector de personas.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
-Los usuarios se benefician de las capacidades de cumplimiento avanzadas de las barreras de la información cuando están restringidas de la comunicación con otros usuarios. Por ejemplo:
+Los usuarios se benefician de las capacidades de cumplimiento avanzadas de las barreras de la información cuando están restringidas de la comunicación con otros usuarios. Por ejemplo:<br><br>
 
 | Escenario | ¿Quién necesita una licencia? |
-|:-------|:------|
-| Dos grupos (Grupo 1 y grupo 2) no pueden comunicarse entre sí (es decir, los usuarios de grupo 1 tienen restringida la comunicación con los usuarios del grupo 2 y los usuarios del grupo 2 están restringidos para comunicarse con los usuarios del grupo 1). | Usuarios en el grupo 1 y el grupo 2 ||
+|:------|:------|:------|
+| Dos grupos (grupo &nbsp; 1 y grupo &nbsp; 2) no pueden comunicarse entre sí (es decir, &nbsp; los usuarios de grupo 1 tienen restringida la comunicación con los usuarios del grupo &nbsp; 2 y los &nbsp; usuarios del grupo 2 están restringidos para comunicarse con &nbsp; los usuarios del grupo 1). | Usuarios en el grupo &nbsp; 1 y el grupo &nbsp; 2 |
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 

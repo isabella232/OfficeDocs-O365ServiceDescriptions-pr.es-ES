@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: obtenga información sobre las características y los requisitos de Exchange Online Protection. Se incluye una lista de los planes que proporcionan protección en línea de Exchange, así como una comparación de las características en los planes.
-ms.openlocfilehash: 74a2d3a1af3e369e51e1f9b3b4e1cf5cc981c0d8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: d518468f738671980c1d314533b976209d7de124
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132844"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245725"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descripción del servicio Exchange Online Protection
 
@@ -45,9 +45,9 @@ El [plan de desarrollo de Microsoft 365](https://office.microsoft.com/products/o
 
 ## <a name="exchange-online-protection-eop-plans"></a>Planes de Online Protection (EOP)
 
-EOP está disponible a través de los siguientes planes de suscripción:
+EOP está disponible a través de los siguientes planes de suscripción:<br><br>
 
-|**Plan**|**Descripción**|
+| Planear | Descripción |
 |:-----|:-----|
 |[EOP independiente](https://products.office.com/exchange/exchange-email-security-spam-protection)|Un servicio independiente basado en la nube que protege su organización de correo electrónico local.|
 |[Características de EOP en Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|La protección integrada para sus buzones de Exchange Online hospedados en la nube.|
@@ -57,7 +57,7 @@ EOP está disponible a través de los siguientes planes de suscripción:
 
 Microsoft Exchange Enterprise CAL con servicios proporciona las características de protección de correo electrónico de EOP y las siguientes características adicionales basadas en la nube:
 
-- [Data loss prevention (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
+- [Prevención de pérdida de datos (DLP)](messaging-policy-and-compliance-servicedesc.md#data-loss-prevention-dlp)
 
 - [Creación de informes mediante servicios web](reporting-and-message-trace.md#reporting-using-web-services)
 
@@ -78,11 +78,10 @@ Para obtener más límites en EOP, consulte [límites de Exchange Online Protect
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Disponibilidad de características en los planes de Exchange Online Protection (EOP) 
 
-A continuación, se incluye cada característica. Si desea ver información más detallada sobre las características de EOP, haga clic en los vínculos de la tabla. Cuando se menciona Exchange Online, por lo general se refiere a la familia de servicios de Office 365 Enterprise.
+A continuación, se incluye cada característica. Si desea ver información más detallada sobre las características de EOP, haga clic en los vínculos de la tabla. Cuando se menciona Exchange Online, por lo general se refiere a la familia de servicios de Office 365 Enterprise.<br><br>
 
-|||||
+| Característica | EOP independiente | Características de EOP en Exchange  Online | Exchange Enterprise CAL con servicios|
 |:-----|:-----|:-----|:-----|
-|**Característica**|**EOP independiente**|**Características de EOP en <br/> Exchange Online**|**Exchange Enterprise <br/> cal con servicios**|
 |[Destinatarios de correo](recipient-domain-and-company-management.md#mail-recipients)|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí|
 |[Permisos de grupo de roles administrativos](recipient-domain-and-company-management.md#admin-role-group-permissions)|Sí<sup>2</sup>|Sí|Sí|
 |[Administración de dominios](recipient-domain-and-company-management.md#domain-management)|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|

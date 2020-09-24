@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no se pueden configurar a menos que se especifique lo contrario.
-ms.openlocfilehash: baf6bc688492ca340442ee2d14f98bd9e135c43d
-ms.sourcegitcommit: 5bad2698c44963874c993181ef7f2e468ea7fb16
+ms.openlocfilehash: a2f7db904cf837f1441222d7867d2abb6fd70733
+ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "48134057"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48245705"
 ---
 # <a name="exchange-online-protection-limits"></a>Límites de Exchange Online Protection
 
@@ -47,9 +47,10 @@ Los siguientes límites existen actualmente para Exchange Online Protection. Est
     
 ### <a name="limits-across-eop-options"></a>Límites entre las opciones de EOP
 
-|**Característica**|****EOP independiente****|****Características de EOP en Exchange Online****|****Exchange Enterprise CAL con servicios****|
+| Característica | EOP independiente | Características de EOP en Exchange  Online | Exchange Enterprise CAL con servicios |
 |:-----|:-----|:-----|:-----|
 |Límite de dominio  <br/> |900  <br/> |900  <br/> |900  <br/> |
+|Límite de dominios remotos  <br/> |200  <br/> |200  <br/> |200  <br/> |
 |Límite de tamaño de mensaje (incluidos datos adjuntos)  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Límite de destinatarios  <br/> |Consulte "Límite de destinatarios" en la sección anterior  <br/> |500 destinatarios al enviar desde un buzón de correo hospedado; consulte "Límite de destinatarios" en la sección anterior para ver otros escenarios  <br/> |Consulte "Límite de destinatarios" en la sección anterior  <br/> |
 |Límite de remitentes seguros  <br/> |1024 entradas  <br/> |1024 entradas  <br/> ||
