@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro de seguridad &amp; y cumplimiento está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-ms.openlocfilehash: 42e9961bb956d5fc5483ef982e76d50e3e4b5d30
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300534"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261602"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -27,9 +27,8 @@ Para ver las opciones para conceder licencias a los usuarios con el fin de benef
   
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>&amp;Disponibilidad del centro de cumplimiento de seguridad para planes empresariales y empresariales
 
-|||||||||
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 | Office 365 F3, Office 365 US Government F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**  |**Microsoft 365 Empresa Básico**  |**Microsoft 365 Empresa Estándar**  |**Microsoft 365 Empresa Premium**  |**Office 365 Enterprise E1**, **Office 365 US Government G1**  |**Office 365 Enterprise E3**, **Office 365 US Government G3**  |**Office 365 Enterprise E5**  |**Office 365 Enterprise F3**  **Office 365 US Government F3**|
 |[Acceso al centro de seguridad y &amp; cumplimiento](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |No   |No   |No|No   |No   |Sí   |
 |[Administración de amenazas](https://docs.microsoft.com/office365/securitycompliance/protect-against-threats) , como filtrado de correo y antimalware |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
@@ -57,7 +56,6 @@ Para ver las opciones para conceder licencias a los usuarios con el fin de benef
 |[Cifrado avanzado de mensajes de Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |No   |No   |No   |No   |No |Sí   |No   |
 |[Administración del acceso con privilegios](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |No   |No   |No   |No   |No   |Sí   |No   |
 |[Clave de cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview)  |No   |No   |No   |No   |No   |Sí   |No   |
-|||||||||
 
 <sup>1</sup> el gobierno de la información permite a los usuarios crear, publicar y aplicar manualmente etiquetas a los documentos; importar datos mediante el envío de la unidad o a través de la red. Estas características están disponibles en E3 y E5, con solo disponibilidad limitada en E1. Para obtener una lista completa de las características disponibles en E1, E3 y E5, vea la comparación detallada de licencias de cumplimiento de 365 de Microsoft. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -69,7 +67,7 @@ límite de <sup>3</sup> 50 GB.
 
 <sup>5</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]).
 
-<sup>6</sup> la protección contra amenazas avanzada está disponible en Office 365 Enterprise E5 y como un servicio independiente para Office 365 Enterprise E1 y Office 365 Enterprise E3.
+<sup>6</sup> la protección contra amenazas avanzada está disponible en Office 365 E5 y como un servicio independiente para Office 365 E1 y Office 365 E3.
 
 <sup>7</sup> incluye los archivos almacenados en repositorios de Microsoft Teams.
 
@@ -87,9 +85,8 @@ límite de <sup>3</sup> 50 GB.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;Disponibilidad del centro de cumplimiento de seguridad para planes independientes
 
-|||||||||
+| Característica | Plan 1 de Exchange Online | Plan 2 de Exchange Online | Quiosco de Exchange Online | SharePoint Online Plan 1 | SharePoint Online Plan 2 | OneDrive para la Empresa Plan 1 | OneDrive para la Empresa Plan 2 | Skype Empresarial Online plan 1 | Skype Empresarial Online Plan 2|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica**  |**Exchange Online (plan 1)**  |**Exchange Online (plan 2)**  |**Quiosco de Exchange Online**  |**SharePoint Online plan 1**  |**SharePoint Online plan 2**  |**OneDrive para la Empresa Plan 1** |**OneDrive para la Empresa Plan 2** |**Skype Empresarial Online (plan 1)**  |**Skype Empresarial Online (plan 2)**  |
 |[Acceso al centro de seguridad y &amp; cumplimiento](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
 |[Office 365 Cloud App Security](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security)  |No   |No   |No   |No   |No   |No   |No   |No   |Sí   |
 |[Administración de amenazas](https://docs.microsoft.com/cloud-app-security/what-is-cloud-app-security), como filtrado de correo y protección contra malware   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
@@ -113,7 +110,6 @@ límite de <sup>3</sup> 50 GB.
 |[Cifrado de mensajes de Office 365 (OME)](https://docs.microsoft.com/microsoft-365/compliance/ome)  |No   |No   |No   |No   |Sí   |No   |No|No|No|
 |[Cifrado avanzado de mensajes de Office 365](https://docs.microsoft.com/microsoft-365/compliance/ome-advanced-message-encryption)  |No   |No   |No   |No   |Sí   |No   |No|No|No|
 |[Administración del acceso con privilegios](https://docs.microsoft.com/microsoft-365/compliance/privileged-access-management-overview)  |No   |No   |No   |No   |Sí   |No   |No|No|No|
-|||||||||
 
 <sup>1</sup> el gobierno de la información permite a los usuarios crear, publicar y aplicar manualmente etiquetas a los documentos; importar datos mediante el envío de la unidad o a través de la red. Estas características están disponibles en E3 y E5, con solo disponibilidad limitada en E1. Para obtener una lista completa de las características disponibles en E1, E3 y E5, vea la comparación detallada de licencias de cumplimiento de 365 de Microsoft. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -123,7 +119,7 @@ límite de <sup>3</sup> 50 GB.
 
 <sup>4</sup> las conversaciones de Skype se almacenan como parte del buzón de correo.
 
-<sup>5</sup> la exhibición avanzada de documentos electrónicos requiere Office 365 Enterprise E5 o una licencia de complemento.
+<sup>5</sup> la exhibición avanzada de documentos electrónicos requiere Office 365 E5 o una licencia de complemento.
 
 <sup>6</sup> el archivado de Skype se encuentra en el buzón del usuario.
 

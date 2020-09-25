@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f866fe3b-a183-4e6d-abd9-bbec0a0c7fae
 description: Los siguientes límites existen actualmente para Exchange Online Protection. Estos límites no se pueden configurar a menos que se especifique lo contrario.
-ms.openlocfilehash: a2f7db904cf837f1441222d7867d2abb6fd70733
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: 555177349005c275fcbf91a1e70467ebcc25f2be
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245705"
+ms.locfileid: "48261502"
 ---
 # <a name="exchange-online-protection-limits"></a>Límites de Exchange Online Protection
 
@@ -25,25 +25,25 @@ Los siguientes límites existen actualmente para Exchange Online Protection. Est
 > [!TIP]
 > Para obtener más información acerca de los límites de Exchange Online, vea [límites de Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Los límites de la regla de transporte se aplican también a los clientes de EOP independiente. Los límites de tasa de destinatarios y tasa de mensajes de Exchange Online no se aplican a los clientes de EOP independiente. 
   
-- **Límite de dominio** Puede agregar hasta 900 dominios por espacio empresarial. Los subdominios pueden incluirse en este límite de 900, o bien, si es necesario, como parte de una opción global de subdominios coincidentes. Para obtener más información, vea [Administrar dominios aceptados en EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
+- **Límite de dominio** : puede agregar hasta 900 dominios por inquilino. Los subdominios pueden incluirse en este límite de 900, o bien, si es necesario, como parte de una opción global de subdominios coincidentes. Para obtener más información, vea [Administrar dominios aceptados en EOP](https://go.microsoft.com/fwlink/p/?LinkId=282239).
 
-- **Límite de dominios remotos** Puede Agregar hasta 200 dominios remotos por inquilino.
+- **Límite de dominios remotos** : puede agregar hasta 200 dominios remotos por inquilino.
     
-- **Límite de tamaño de mensajes** El tamaño máximo de un mensaje para clientes de EOP independiente, con archivos adjuntos, es de 150 MB. 
+- **Límite de tamaño de mensajes** : el tamaño máximo de mensaje para los clientes de EOP independiente, incluidos los datos adjuntos, es de 150 MB. 
     
-- **Número de mensajes salientes enviados** El límite de cantidad de mensajes salientes que se envían a través de EOP es lo suficientemente elevado como para garantizar la comunicación normal por correo electrónico no sea tratada como correo no deseado. Si desea enviar mensajes de correo electrónico comerciales en grandes cantidades, en lugar de enviar mensajes salientes a través de EOP, le recomendamos que utilice un proveedor de servicios de correo electrónico de terceros o que los envíe a través de sus servidores de correo electrónico locales. 
+- **Número de mensajes salientes enviados** : el límite para el número de mensajes salientes enviados a través de EOP es lo suficientemente elevado como para garantizar que la comunicación normal del correo electrónico no se trate como correo no deseado. Si desea enviar mensajes de correo electrónico comerciales en grandes cantidades, en lugar de enviar mensajes salientes a través de EOP, le recomendamos que utilice un proveedor de servicios de correo electrónico de terceros o que los envíe a través de sus servidores de correo electrónico locales. 
     
-- **Límite de destinatarios** Siempre que el host de envío pueda dividir el mensaje en "fragmentos" de menos de 500 destinatarios, no se define un límite explícito. Sin embargo, cada "fragmento" se trata realmente como un mensaje nuevo. Demasiados mensajes en un breve período, mensajes desde un host con mala reputación o mensajes con contenido dudoso podrían bloquearse o limitarse. 
+- **Límite de destinatarios** : siempre que el host de envío pueda dividir el mensaje en "fragmentos" de menos de 500 destinatarios, no se define ningún límite explícito. Sin embargo, cada "fragmento" se trata realmente como un mensaje nuevo. Demasiados mensajes en un breve período, mensajes desde un host con mala reputación o mensajes con contenido dudoso podrían bloquearse o limitarse. 
     
-- **Límite de listas de direcciones IP permitidas o bloqueadas** Cuando configure una lista de direcciones IP permitidas o una lista de direcciones IP bloqueadas en el filtro de conexión, puede especificar un máximo de 1.273 entradas, donde una entrada es una dirección IP única o una rango CIDR de direcciones IP de /24 a /32. 
+- Límite de listas de direcciones IP **permitidas o bloqueadas** : al configurar una lista de direcciones IP permitidas o una lista de direcciones IP bloqueadas en el filtro de conexión, puede especificar un máximo de 1273 entradas, donde una entrada es una dirección IP única o un intervalo CIDR de direcciones IP de/24 a/32. 
     
-- **Límite de aplazamiento de mensajes** Los mensajes en aplazamientos permanecerán en nuestras colas durante 24 horas. Los reintentos de envío de mensajes se basan en el tipo de error que se recibe del sistema de correo del destinatario. Los mensajes se vuelven a intentar cada 15 minutos. 
+- **Límite de aplazamiento de mensajes** : los mensajes en aplazamiento permanecerán en nuestras colas durante 24 horas. Los reintentos de envío de mensajes se basan en el tipo de error que se recibe del sistema de correo del destinatario. Los mensajes se vuelven a intentar cada 15 minutos. 
     
-- **Período de retención de cuarentena de correo no deseado** De forma predeterminada, los mensajes de correo no deseado que se envían a la cuarentena se conservan durante 30 días. Los administradores pueden reducir este valor por medio de las directivas de filtro de contenido. 
+- **Período de retención de cuarentena de correo no deseado** : de forma predeterminada, los mensajes de correo no deseado enviados a la cuarentena se conservan durante 30 días. Los administradores pueden reducir este valor por medio de las directivas de filtro de contenido. 
     
-- **Notificaciones de cuarentena de correo no deseado de usuario final** De manera predeterminada, si se habilitan, las notificaciones de cuarentena de correo no deseado de usuario final se envían cada 3 días. Se pueden configurar para que se envíen cada 1 a 15 días. 
+- **Notificaciones de cuarentena de correo no deseado para el usuario final** : de forma predeterminada, si está habilitada, las notificaciones de cuarentena de correo no deseado de usuario final se envían cada 3 días. Se pueden configurar para que se envíen cada 1 a 15 días. 
     
-- **Límites de seguimiento de mensajes y informes** Para obtener los informes y los límites de seguimiento de mensajes, consulte la sección "informes, disponibilidad y latencia de los datos de seguimiento de mensajes" en [Reporting and Message Trace in Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248).
+- **Límites de seguimiento de mensajes y informes** : para obtener los informes y los límites de seguimiento de mensajes, consulte la sección "informes y disponibilidad de datos y latencia de seguimiento de mensajes" en [Reporting and Message Trace in Exchange Online Protection](https://go.microsoft.com/fwlink/?LinkId=394248).
     
 ### <a name="limits-across-eop-options"></a>Límites entre las opciones de EOP
 

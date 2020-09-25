@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización.
-ms.openlocfilehash: 1410fec329c7d92de905a1d34df50d41c094b76f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: f90f8a029307eb7c8d240a5038c3142516320cee
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132134"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261592"
 ---
 # <a name="office-365-plan-options"></a>Opciones de planes de Office 365
 
@@ -28,16 +28,16 @@ Microsoft Office 365 está disponible en varios planes para satisfacer mejor las
   
 ## <a name="office-365-service-families-and-plans"></a>Planes y familias de servicios de Office 365
 
-En la tabla siguiente se enumeran los diferentes planes y familias de servicios disponibles en Office 365. Para obtener información general de alto nivel sobre las características y los precios, o para chatear con un representante en línea, seleccione cualquiera de los vínculos de la columna planes.
+En la tabla siguiente se enumeran los diferentes planes y familias de servicios disponibles en Office 365. Para obtener información general de alto nivel sobre las características y los precios, o para chatear con un representante en línea, seleccione cualquiera de los vínculos de la columna planes.<br><br>
   
-|**Familia de servicios de Office 365**|**Planes**|
+| Familia de servicios de Office 365 | Planes |
 |:-----|:-----|
 |**Business (máximo de 300 usuarios)** <br/> |[Microsoft 365 Empresa Básico](https://www.microsoft.com/p/office-365-business-essentials/CFQ7TTC0K59V) <br/> [Aplicaciones de Microsoft 365 para negocios](https://www.microsoft.com/p/office-365-business/cfq7ttc0k62t) <br/> [Microsoft 365 Empresa Estándar](https://www.microsoft.com/p/office-365-business-premium/CFQ7TTC0K5J7) <br/> |
 |**Enterprise (número ilimitado de usuarios)** <br/> |[Office 365 Enterprise E1](https://products.office.com/business/office-365-enterprise-e1-business-software?) <br/> [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) <br/> [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software) <br/> [Office 365 Enterprise F3](https://products.office.com/business/office-365-f1) <br/> |
 |**Educación (número ilimitado de usuarios)** <br/> |[Office 365 Educación](https://products.office.com/academic/compare-office-365-education-plans) <br/> [Office 365 Educación E5](https://products.office.com/academic/compare-office-365-education-plans) <br/> |
 |**Administración pública (número ilimitado de usuarios)** <br/> |[Ver todos los planes de empresa disponibles](https://products.office.com/government/compare-office-365-government-plans) <br/> |
 |**Office 365 operado por 21Vianet en China** <br/> |[Ver todos los planes de negocio disponibles](https://products.office.com/zh-cn/business/compare-office-365-for-business-plans) <br/> |
-|**Office 365 Germany** <br/> |[Vea más información sobre Office 365 Germany](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany?view=o365-germany) <br/> |
+|**Office 365 Germany** <br/> |[Vea más información sobre Office 365 Germany](https://docs.microsoft.com/microsoft-365/admin/admin-overview/learn-about-office-365-germany) <br/> |
    
 ### <a name="service-availability-within-each-office-365-plan"></a>Disponibilidad del servicio en cada plan de Office 365
 
@@ -46,15 +46,14 @@ Cada plan de Office 365 incluye varios servicios individuales, como Exchange Onl
 > [!IMPORTANT]
 >  Aunque un servicio pueda estar disponible en los planes de Office 365, las características disponibles en cada plan pueden ser diferentes. Para ver los detalles de las características que están disponibles para cada plan, vea la descripción de cada servicio o póngase en contacto con su representante de ventas de Microsoft o su revendedor para obtener más información. <br/>  Varios de los planes de Office 365 para empresas tienen complementos que puede comprar para su suscripción. Un complemento proporciona funciones adicionales a la suscripción. Para obtener más información, vea [Comprar o editar un complemento de Office 365 para empresas](https://support.office.com/article/Buy-or-edit-an-add-on-for-Office-365-for-business-4e7b57d6-b93b-457d-aecd-0ea58bff07a6). 
   
-|||||||||
+| Servicio | Microsoft 365 Empresa Básico | Aplicaciones de Microsoft 365 para negocios | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3  | Office 365 Enterprise E5<sup>4,</sup><sup>16</sup> | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Servicio** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5<sup>4</sup>,<sup>16</sup>** <br/> |**Office 365 Enterprise F3** <br/> |
 |Plataforma Office 365  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Exchange Online  <br/> |Sí<sup>6</sup> <br/> |No  <br/> |Sí<sup>6</sup> <br/> |Sí<sup>6</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |Sí<sup>9</sup> <br/> |
 |SharePoint Online  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |OneDrive para la Empresa  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>5</sup> <br/> |
 |Skype empresarial online <sup>15</sup> <br/> |Sí<sup>10</sup> <br/> |No  <br/> |Sí<sup>10</sup> <br/> |Sí<sup>10</sup> <br/> |Sí<sup>11</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>14</sup> <br/> |
-|Office para la Web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Office para la web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Aplicaciones de Office  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Project Online  <br/> |No<sup>1</sup> <br/> |No  <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |No<sup>1</sup> <br/> |
 |Power BI  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
@@ -106,9 +105,9 @@ Puede combinar los planes de Enterprise, de Empresa e independientes (por ejempl
   
 ## <a name="standalone-services"></a>Servicios independientes
 
-Los siguientes servicios en línea están disponibles por sí mismos, como planes independientes. También se pueden agregar a los planes de la familia de servicios Empresa y Enterprise que todavía no los incluyan. Para obtener información sobre precios o para chatear con un representante en línea, seleccione cualquiera de los planes que aparecen en la tabla siguiente.
+Los siguientes servicios en línea están disponibles por sí mismos, como planes independientes. También se pueden agregar a los planes de la familia de servicios Empresa y Enterprise que todavía no los incluyan. Para obtener información sobre precios o para chatear con un representante en línea, seleccione cualquiera de los planes que aparecen en la tabla siguiente.<br><br>
   
-|**Servicio**|**Planes**|
+| Servicio | Planes |
 |:-----|:-----|
 |Exchange Online  <br/> |[Exchange Online (plan 1)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online (plan 2)](https://products.office.com/exchange/compare-microsoft-exchange-online-plans) <br/> [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection) <br/> [Protección contra amenazas avanzada de Exchange Online](https://products.office.com/exchange/advance-threat-protection) <br/> [Archivado de Exchange Online](https://products.office.com/exchange/microsoft-exchange-online-archiving-email) <br/> [Quiosco de Exchange Online](https://products.office.com/business/office-365-f1) <br/> |
 |SharePoint Online  <br/> |[SharePoint Online plan 1](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> [SharePoint Online plan 2](https://products.office.com/SharePoint/compare-sharepoint-plans) <br/> |

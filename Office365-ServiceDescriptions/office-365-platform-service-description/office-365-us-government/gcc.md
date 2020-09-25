@@ -9,22 +9,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Para cumplir con los requisitos exclusivos y en constante evolución de los gobiernos federales, estatales, locales y Tribals, así como los contratistas que retienen o procesan datos en nombre del gobierno de Estados Unidos, Microsoft ofrece los servicios de Office 365 US Government Community (GCC). Disponible a través de varios canales, incluidas las licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Los ensayos solo están disponibles para entidades gubernamentales de Estados Unidos en este momento.
-ms.openlocfilehash: 63cd26644cfdfc218026d120b73574ad1dc14c00
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 46300e28b40101da6c2f9864d1c1618351a5bd0d
+ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131744"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261501"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
 Para cumplir con los requisitos exclusivos y en constante evolución de los gobiernos federales, estatales, locales y Tribals, así como los contratistas que retienen o procesan datos en nombre del gobierno de Estados Unidos, Microsoft ofrece los servicios de Office 365 US Government Community (GCC). Disponible a través de varios canales, incluidas las licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Los ensayos solo están disponibles para entidades gubernamentales de Estados Unidos en este momento. 
   
-Póngase en contacto con su equipo de la cuenta o con su partner de confianza para obtener más información o iniciar el proceso de validación. Puede obtener más información en la página [Comparación de los planes de Office 365 Administración Pública](https://products.office.com/government/compare-office-365-government-plans) página. 
+Póngase en el equipo de la cuenta o en el socio preferido para obtener más información o iniciar el proceso de validación. Puede obtener más información en la página [Comparación de los planes de Office 365 Administración Pública](https://products.office.com/government/compare-office-365-government-plans) página. 
   
-## <a name="how-to-use-this-service-description-section"></a>Cómo usar esta sección de Descripción del servicio
+## <a name="how-to-use-this-service-description"></a>Cómo utilizar esta descripción del servicio
 
-La descripción del servicio Office 365 US Government está diseñada para servir como una superposición a la descripción del servicio Office 365 general. Define los compromisos y diferencias únicos con respecto a las ofertas de Office 365 Enterprise.
+La descripción del servicio Office 365 US Government está diseñada para servir como una superposición a la descripción del servicio Office 365 general. Define los compromisos y las diferencias únicos en comparación con Office 365 para las ofertas de la empresa.
   
 ## <a name="us-government-community-compliance"></a>Cumplimiento de US Government Community
 
@@ -36,11 +36,10 @@ Exchange Online, SharePoint Online, archivado de Exchange Online, Skype empresar
   
 ## <a name="office-365-us-government-community-screened-personnel"></a>Personal investigado de Office 365 Administración Pública Community
 
-El personal de Office 365 no tiene acceso permanente al contenido de los clientes hospedado en Office 365 US Government Community. Cualquier personal que solicite la elevación de permisos temporales que concedería el acceso al contenido del cliente debe haber aprobado primero las siguientes comprobaciones de antecedentes. 
+El personal de Office 365 no tiene acceso permanente al contenido de los clientes hospedado en Office 365 US Government Community. Cualquier personal que solicite la elevación de permisos temporales que concedería el acceso al contenido del cliente debe haber aprobado primero las siguientes comprobaciones de antecedentes.<br><br> 
   
-|||
+| Comprobaciones de antecedentes y examen del personal de Microsoft<sup>1</sup> | Descripción |
 |:-----|:-----|
-|**Comprobaciones de antecedentes y examen del personal de Microsoft** <sup>1</sup> <br/> |**Descripción** <br/> |
 |Ciudadanía estadounidense  <br/> |Comprobación de la ciudadanía estadounidense  <br/> |
 |Comprobación del historial de empleo  <br/> |Comprobación del historial de empleo (7 años)  <br/> |
 |Verificación de educación  <br/> |Comprobación del grado más alto obtenido  <br/> |
@@ -56,18 +55,18 @@ El personal de Office 365 no tiene acceso permanente al contenido de los cliente
   
 ## <a name="office-365-us-government-community-and-yammer"></a>Office 365 Administración Pública Community y Yammer
 
-Yammer Enterprise no es un componente de Office 365 Administración Pública, pero puede adquirirse gratuitamente como oferta independiente para cada usuario con licencia para Office 365 Administración Pública, planes E1 y E3. Esta oferta actualmente está limitada a los clientes que compren Office 365 Administración Pública con contrato Enterprise y contratos de suscripción Enterprise. 
+Yammer for Enterprise no es un componente de Office 365 US Government, pero puede adquirirse sin costo como una oferta independiente para cada usuario con licencia para Office 365 el plan E1 y E3 del gobierno de Estados Unidos. Esta oferta actualmente está limitada a los clientes que compren Office 365 Administración Pública con contrato Enterprise y contratos de suscripción Enterprise. 
   
 Actualmente, Yammer ofrece la separación lógica de los datos de cliente en el nivel de aplicación. En cambio, Yammer no proporciona las mismas características de ubicación de datos y acceso de datos que Office 365 Administración Pública, no es compatible con la acreditación FedRAMP y está sujeto a unos términos de contrato distintos a los servicios de Office 365. Se recomienda que revise la descripción del [servicio de Yammer](../../yammer-service-description/yammer-service-description.md) y los términos de privacidad al evaluar el uso adecuado de Yammer para su organización. Para conocer los planes de Office 365 para la Administración pública que incluye Yammer, consulte [Office 365 Administración Pública](office-365-us-government.md).
   
-Si decide que el uso de Yammer es adecuado para su organización como parte de su suscripción de Office 365 Administración Pública y ha adquirido uno de los planes mencionados anteriormente que incluye Yammer, en la Inscripción Enterprise, puede solicitar una modificación para habilitar la suscripción de Yammer Enterprise.
+Si decide que el uso de Yammer es adecuado para su organización como parte de su suscripción de Office 365 US Government y ha adquirido uno de los planes mencionados anteriormente que incluye Yammer, en el registro de su empresa, puede solicitar una enmienda para habilitar la suscripción de Yammer para la empresa.
   
 ## <a name="office-365-us-government-community-and-myanalytics"></a>Office 365 Administración Pública Community y MyAnalytics
 
-MyAnalytics está diseñado y funciona según la implementación de controles del programa FedRAMP de los servicios de Office 365, pero aún no ha pasado la revisión de una 3PAO (organización de evaluación de terceros) en el marco de la auditoría del FedRAMP anual de Office 365. Si lo necesita, puede solicitar más información a su oficina de cumplimiento antes de habilitar los servicios de MyAnalytics para los usuarios de su organización.
+MyAnalytics está diseñado y funciona según la implementación de controles del programa FedRAMP de los servicios de Office 365, pero aún no ha pasado la revisión de una 3PAO (organización de evaluación de terceros) en el marco de la auditoría del FedRAMP anual de Office 365. Si es necesario, consulte a su Office de cumplimiento antes de habilitar los servicios de myanalytics para los usuarios de su organización.
   
 ## <a name="office-365-us-government-community-cloud-gcc-customer-support"></a>Asistencia al cliente de Office 365 de la comunidad de administración de Estados Unidos (GCC)
 
 El soporte técnico al cliente de Office 365 GCC se proporciona en los mismos términos y condiciones ofrecidos a [las versiones en todo el mundo de Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/support), incluida la ubicación física del agente de soporte o las garantías de ciudadanía. Office 365 GCC funciona junto con la nube pública de Azure, que es compatible con los siguientes [términos y condiciones.](https://azure.microsoft.com/support/plans/)
 
-Microsoft le recuerda que no debe compartir ninguna información controlada, confidencial o confidencial con el personal de soporte técnico como parte de su incidente de soporte técnico de Office 365 GCC, hasta que confirme su autorización para ver o acceder a dichos datos. Microsoft se compromete a [proteger su privacidad.](https://privacy.microsoft.com/en-US/privacystatement ) El soporte técnico al cliente de Office 365 GCC no se incluye en el límite de la acreditación de servicios y no proporciona FedRAMP, SRG, ITAR, IRS 1075 o CJIS garantías de cumplimiento.
+Microsoft le recuerda que no debe compartir ninguna información controlada, confidencial o confidencial con el personal de soporte técnico como parte de su incidente de soporte técnico de Office 365 GCC, hasta que confirme su autorización para ver o acceder a dichos datos. Microsoft se compromete a [proteger su privacidad.](https://privacy.microsoft.com/privacystatement) El soporte técnico al cliente de Office 365 GCC no se incluye en el límite de la acreditación de servicios y no proporciona FedRAMP, SRG, ITAR, IRS 1075 o administración de datos CJIS ni garantías de cumplimiento.
