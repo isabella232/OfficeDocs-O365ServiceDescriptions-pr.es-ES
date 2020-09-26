@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
-description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project Online, que se suministra con Office 365, ofrece prácticas capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de carteras de proyectos prácticamente desde cualquier lugar y con cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: dc5ba0c5663311a2c8817404d1fc72abbf3c772f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project online, que se entrega a través de Office 365, proporciona potentes capacidades de administración de proyectos para planificar, priorizar y administrar proyectos e inversiones en carteras de proyectos desde prácticamente cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
+ms.openlocfilehash: 7a32ec57b0a6de38fd0df3d4e0e4127bbc5f1628
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131164"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276795"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -26,13 +26,13 @@ ms.locfileid: "45131164"
 
 Microsoft Project ofrece las siguientes aplicaciones para ayudarle a satisfacer las necesidades de su organización en cuanto a la administración de proyectos y trabajo:
 
-- Project para la web
+- Project para la Web
 - Project Online 
 - Cliente de escritorio de Project online
 
 Este artículo le ayudará a comprender qué aplicaciones se proporcionan en cada suscripción de proyecto y qué funciones ofrece cada aplicación.
 
-### <a name="project-for-the-web"></a>Project para la web
+### <a name="project-for-the-web"></a>Project para la Web
 
 Proyecto para el Web es la oferta más reciente de Microsoft para la administración de trabajos y proyectos basados en la nube. Project for the Web proporciona funciones de administración de trabajo sencillas y eficaces que satisfacen la mayoría de las necesidades y los roles. Los jefes de proyecto y los miembros del equipo pueden usar Project para la web para planear y administrar el trabajo de cualquier tamaño.
 
@@ -75,23 +75,23 @@ En el futuro, Microsoft se centrará en Project para las innovaciones Web. Sin e
 
 ## <a name="microsoft-project-subscriptions"></a>Suscripciones de Microsoft Project
 
-Microsoft Project está disponible a través de tres suscripciones diferentes para satisfacer mejor las necesidades de su organización. Estas suscripciones son el plan de proyecto 1, el plan de proyecto 3 y el plan de proyecto 5. Para comparar las características a través de las suscripciones, consulte [Feature Availability Across Applications and subscriptions](#feature-availability-across-applications-and-subscriptions).
+Microsoft Project está disponible a través de tres suscripciones diferentes para satisfacer mejor las necesidades de su organización. Estas suscripciones son el plan de proyecto 1, el plan de proyecto 3 y el plan de proyecto 5. Para comparar las características a través de las suscripciones, consulte [Feature Availability Across Applications and subscriptions](#feature-availability-across-applications-and-subscriptions).<br><br>
 
 |Producto | Plan 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Project para la web |**x**  | **x x** | **x x** |
+|Project para la Web |**x**  | **x x** | **x x** |
 |Project Online | |**x x**| **x x x** |
 |Cliente de escritorio de Project online | |**x**|**x**|
 
-En la tabla anterior, el número de comprobaciones (**x**) indica el nivel general de capacidades que proporciona un plan. Por ejemplo, para Project online, el plan 5 proporciona más funciones y después planea 3.
+En la tabla anterior, el número de comprobaciones (**x**) indica el nivel general de capacidades que proporciona un plan. Por ejemplo, para Project online, el plan 5 proporciona más capacidades que el plan 3.
 
 ## <a name="feature-availability-across-applications-and-subscriptions"></a>Disponibilidad de características entre las aplicaciones y las suscripciones
 
 ### <a name="project-for-the-web-features"></a>Proyecto para las características Web
 
-Las características que se enumeran en esta sección interactúan sólo con los datos del proyecto para el almacén de datos Web. Todas estas características están disponibles en todas las suscripciones de Microsoft Project: Plan de proyecto 1, plan de proyecto 3 y plan de proyecto 5.
+Las características que se enumeran en esta sección interactúan sólo con los datos del proyecto para el almacén de datos Web. Todas estas características están disponibles en todas las suscripciones de Microsoft Project: Plan de proyecto 1, plan de proyecto 3 y plan de proyecto 5.<br><br>
 
-|Característica | Descripción | Licencias de Office 365 | Plan 1 | Plan 3 | Plan 5|
+| Característica | Descripción | Licencias de Office 365 | Plan 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|--------------|------------|------------|------------|
 |**Administración de proyectos, tareas y tiempo**||||||
 |Vista de panel | Realice un seguimiento visual de las tareas del proyecto para mejorar el flujo de trabajo y la supervisión del estado con paneles de tareas preparados y personalizados.| Ver solamente | Sí | Sí| Sí|
@@ -112,7 +112,7 @@ Las características que se enumeran en esta sección interactúan sólo con los
 |Informes personalizados | Comprenda los datos importantes para su organización mediante la creación de informes personalizados basados en informes de salida de caja o desde cero. | No | Sí | Sí | Sí |
 |Paneles y portales | Cree paneles y portales personalizados para ayudar a satisfacer necesidades organizativas específicas.| No | Sí | Sí | Sí |
 |**Mejoras** ||||||
-|Coauthoring | Trabaje junto con las partes interesadas y los miembros del equipo para crear, editar y actualizar simultáneamente listas de tareas, programaciones de proyecto y mucho más.| Ver solamente | Sí | Sí | Sí |
+|Coautoría | Trabaje junto con las partes interesadas y los miembros del equipo para crear, editar y actualizar simultáneamente listas de tareas, programaciones de proyecto y mucho más.| Ver solamente | Sí | Sí | Sí |
 |Indicadores gráficos | Comprenda el estado de las tareas, las asignaciones y mucho más con indicadores gráficos.| Ver solamente | Sí | Sí | Sí |
 |**Movilidad** ||||||
 |Aplicaciones móviles | Cree aplicaciones móviles personalizadas con PowerApps. <sup>4</sup> |No | No | Sí | Sí |
@@ -125,7 +125,7 @@ Las características que se enumeran en esta sección interactúan sólo con los
 
 ### <a name="project-online-features"></a>Características de Project Online
 
-Las características que se enumeran en esta sección interactúan solo con los datos del almacén de datos de SharePoint de Project online.
+Las características que se enumeran en esta sección interactúan solo con los datos del almacén de datos de SharePoint de Project online.<br><br>
 
 |Característica | Descripción | Plan de proyecto 3 | Plan de proyecto 5 |
 |--------|-------------|-----------------------------|------------------------|
@@ -151,7 +151,7 @@ Las características que se enumeran en esta sección interactúan solo con los 
 |Aprobaciones del parte de horas | Los integrantes del grupo pueden enviar partes de horas para su aprobación. Los jefes de recursos y los supervisores pueden revisar, aprobar y rechazar partes de horas enviados. | Sí | Sí |
 |Configuración del período no laborable | Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no laborables a la programación de su proyecto. | No | Sí |
 |**Colaboración** ||||
-|Attachments | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
+|Datos adjuntos | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
 |Miembros del equipo externo |Colaborar con personas de fuera de la organización al concederles acceso para ver e interactuar con sus proyectos, tareas y documentos. <sup>6</sup> | Sí | Sí |
 |Sitios del proyecto | Crear y personalizar un concentrador para la colaboración y los documentos de un proyecto. | Sí | Sí |
 Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí |
@@ -201,7 +201,7 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 
 ### <a name="project-online-desktop-client-features"></a>Características del cliente de escritorio de Project online
 
-|Característica | Descripción |
+| Característica | Descripción |
 |--------|-------------|
 |**Administración de proyectos y tareas**||
 |Líneas base | Establezca líneas de base de proyecto para supervisar el rendimiento actual con respecto al rendimiento pasado. |
@@ -274,9 +274,9 @@ Project para web y Project online tienen la misma directiva de copia de segurida
 
 ### <a name="project-for-the-web-boundaries-and-limitations"></a>Proyecto para los límites y limitaciones Web
 
-Project para la web tiene algunas limitaciones, que se describen en la siguiente tabla.
+Project para la web tiene algunas limitaciones, que se describen en la siguiente tabla.<br><br>
 
-|Entidad/campo | Límite |
+| Entidad/campo | Límite |
 |-------------|-------|
 |**Tarea** ||
 |Máx. nivel de jerarquía para la tarea | 10 niveles |
@@ -285,7 +285,7 @@ Project para la web tiene algunas limitaciones, que se describen en la siguiente
 |Máx. duración de la tarea de Resumen | 3650 días (10 años) |
 |Máx. recursos que se pueden asignar a una tarea | 20 recursos |
 |Intervalo de fechas admitido para la tarea | 1/1/1984 &ndash; 12/31/2149 |
-|**Proyecto** ||
+|**Project** ||
 |Máx. total de tareas para el proyecto | 500 |
 |Máx. duración total del proyecto | 3650 días (10 años) |
 |Máx. recursos totales del proyecto | 150 |

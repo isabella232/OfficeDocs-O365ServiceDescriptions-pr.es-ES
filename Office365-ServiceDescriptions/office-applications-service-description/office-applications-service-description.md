@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 es un servicio de suscripción que proporciona la última versión de las aplicaciones de escritorio de Office con las que ya está familiarizado, como Word, Excel y PowerPoint.
-ms.openlocfilehash: e7a6562d20d4f126b25bb8ceca3e7c8dbf17c418
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 25f90724a1dd5170b85e970e16cb0c264cd03009
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131454"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276801"
 ---
 # <a name="office-applications-service-description"></a>Descripción del servicio de aplicaciones de Office
 
@@ -34,16 +34,15 @@ Para comparar las características de los planes, consulte [herramientas eficace
 
 Use la siguiente tabla para comparar la disponibilidad de las características en los planes y las ediciones de licencias por volumen de Microsoft Office 2013 y Office 2016.
   
-Varios de los planes de Microsoft 365 para empresas tienen complementos que puede comprar para su suscripción. Un complemento proporciona funciones adicionales a la suscripción. Para obtener más información, vea [comprar o editar un complemento](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).
+Varios de los planes de Microsoft 365 para empresas tienen complementos que puede comprar para su suscripción. Un complemento proporciona funciones adicionales a la suscripción. Para obtener más información, vea [comprar o editar un complemento](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).<br><br>
 
-|||||||||||||
+| Aplicación/característica | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Profesional Plus 2019 | Aplicaciones de Microsoft 365 para empresas | Aplicaciones de Microsoft 365 para negocios | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Office Professional Plus 2013** <br/> |**Office Profesional Plus 2016** <br/> |**Office Profesional Plus 2019** <br/> |**Aplicaciones de Microsoft 365 para empresas** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Microsoft 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |**Aplicaciones de Office** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |Sí  <br/> |Sí  <br/> |Afirma<sup>+<sup> <br/>|Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
+|[Microsoft OneNote](office-applications.md#microsoft-onenote) <br/> |Sí  <br/> |Sí  <br/> |Afirma <sup>+<sup> <br/>|Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Microsoft Outlook](office-applications.md#microsoft-outlook) <br/> |Sí  <br/> |Sí  <br/> |Sí <br/>|Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Microsoft Publisher](office-applications.md#microsoft-publisher) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Microsoft Access](office-applications.md#microsoft-access) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |Sí<sup>11</sup> <br/> |No  <br/> |Sí<sup>11</sup> <br/> |Sí<sup>11</sup>  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
@@ -55,7 +54,7 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |[Office Mobile para Android](office-applications.md#office-mobile-for-android) <br/> |No  <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup>  <br/>|Sí  <br/> |Sí  <br/> |Sí<sup>14</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>14</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>14</sup>  <br/> |
 |[Office Mobile para Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |Sí  <br/> |Sí<sup>13</sup> <br/> |Sí <sup>13</sup> <br/>|Sí  <br/> |Sí  <br/> |Sí<sup>14</sup>  <br/> |Sí  <br/> |Sí<sup>14</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>14</sup>  <br/> |
 |Outlook para Android  <br/> |No  <br/> |No  <br/> |No  <br/>|Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|**Valor empresarial** <br/> |**Office Professional Plus 2013** <br/> |**Office Profesional Plus 2016** <br/> |**Office Profesional Plus 2019** <br/> |**Aplicaciones de Microsoft 365 para empresas** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Microsoft 365 Empresa Premium** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**Valor empresarial** <br/> |**Office Professional Plus 2013** <br/> |**Office Profesional Plus 2016** <br/> |**Office Profesional Plus 2019** <br/> |**Aplicaciones de Microsoft 365 para empresas** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Microsoft 365 Empresa Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |Cinco instalaciones por usuario en PC o Mac  <br/> |No  <br/> |No  <br/>| No  <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |No  <br/> |Sí  <br/> |Sí<sup>7</sup> <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> | 
 |Aprovisionamiento de cuentas de usuario automatizado  <br/> |N/D  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Interfaz de usuario multilingüe  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
@@ -73,7 +72,7 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |Information Rights Management con Azure Information Protection  <br/> |No  <br/> |No  <br/> |No  <br/>|No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí <br/> |No<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |No<sup>2</sup> <br/> |
 |Information Rights Management mediante Windows Server AD RMS  <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |Sí <br/>| Sí<sup>3</sup> <br/>|Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |
 |Complemento de Office, ActiveX y soporte de BHO  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>+++<sup> <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|Acceso de cliente de OneNote a blocs de notas en SharePoint Server, SharePoint Online, OneDrive para la empresa y Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Afirma<sup>++</sup> <br/> |Sí <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí <br/> |No  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |
+|Acceso de cliente de OneNote a blocs de notas en SharePoint Server, SharePoint Online, OneDrive para la empresa y Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Afirma <sup>++</sup> <br/> |Sí <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí <br/> |No  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |
 |Telemetría de Office  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Soporte sin conexión para aplicaciones cliente  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/>  |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Power Map para Excel  <br/> |No<sup>4</sup> <br/> |Sí  <br/>|Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
@@ -88,19 +87,19 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |Volume activation (KMS/MAK)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|No<sup>9</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No <br> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |
    
 > [!NOTE]
-><sup>+</sup>Al instalar Office 365 u Office 2019, obtendrá OneNote para Windows 10 de forma predeterminada. Para obtener más información, vea [preguntas más frecuentes sobre OneNote](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
-><sup>++</sup>Acceso de la aplicación OneNote a blocs de notas en SharePoint Server, SharePoint Online, OneDrive para la empresa y Office 365. <br/>
-><sup>+++</sup>La compatibilidad de BHO es una tecnología de extensión para Internet Explorer. <br/>
+><sup>+</sup> Al instalar Office 365 u Office 2019, obtendrá OneNote para Windows 10 de forma predeterminada. Para obtener más información, vea [preguntas más frecuentes sobre OneNote](https://support.office.com/article/6582c7ae-2ec6-408d-8b7a-3ed71a3c2103).<br/>
+><sup>++</sup> Acceso de la aplicación OneNote a blocs de notas en SharePoint Server, SharePoint Online, OneDrive para la empresa y Office 365. <br/>
+><sup>+++</sup> La compatibilidad de BHO es una tecnología de extensión para Internet Explorer. <br/>
 ><sup>1</sup> las características de archivado y cumplimiento son compatibles con esta versión de Office, pero los planes de Exchange Online y SharePoint Online no se incluyen y deben adquirirse por separado o usarse con los equivalentes de servidor local admitidos.<br/>
-<sup>2</sup> Azure Information Protection no se incluye, pero puede adquirirse como un complemento independiente y habilitará las características de Information Rights Management (IRM) compatibles. Algunas características de Azure Information Protection requieren una suscripción a Microsoft 365 apps for Enterprise, que no se incluye en Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 Enterprise E1, Office 365 Education u Office 365 Enterprise F3.<br/>
+<sup>2</sup> Azure Information Protection no se incluye, pero puede adquirirse como un complemento independiente y habilitará las características de Information Rights Management (IRM) compatibles. Algunas características de Azure Information Protection requieren una suscripción a Microsoft 365 apps for Enterprise, que no se incluye en Microsoft 365 Business Basic, Microsoft 365 Business Standard, Office 365 E1, Office 365 Education u Office 365 F3.<br/>
 <sup>3</sup> Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM admitidas.<br/>
 <sup>4</sup> si tiene Office 2013 Professional Plus o una versión independiente de Excel 2013, puede usar la vista previa de Power Map para Excel 2013, que es un complemento no compatible. La versión anterior de la vista previa de Power Map ha expirado y no funcionará con ninguna versión de Excel. Si ha instalado la versión anterior, desinstálelo desde el panel de control y, a continuación, descargue e instale la versión actual de la vista previa de Power map. Esta versión tiene la misma funcionalidad que la versión de Power Map que se ha lanzado con Microsoft 365 SP1.<br/> 
-<sup>5</sup> Skype empresarial Basic está disponible para todos los clientes. El cliente de escritorio de Skype empresarial es una aplicación instalada localmente que proporciona características de presencia, mensajería instantánea y conferencias para los planes que incluyen Skype empresarial online. Microsoft 365 apps for Enterprise y Office 365 Enterprise E3 incluyen la aplicación de Skype completa, que incluye características adicionales, como la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. A Skype for Business Online license must be assigned for each user. Para obtener una comparación de las características y capacidades, consulte [tablas de comparación de clientes de escritorio de Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
+<sup>5</sup> Skype empresarial Basic está disponible para todos los clientes. El cliente de escritorio de Skype empresarial es una aplicación instalada localmente que proporciona características de presencia, mensajería instantánea y conferencias para los planes que incluyen Skype empresarial online. Microsoft 365 apps for Enterprise y Office 365 E3 incluyen la aplicación de Skype completa, que incluye características adicionales, como la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. A Skype for Business Online license must be assigned for each user. Para obtener una comparación de las características y capacidades, consulte [tablas de comparación de clientes de escritorio de Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
 <sup>6</sup> algunas escuelas son aptas para educación Plus, que incluye las aplicaciones de Microsoft 365 para empresas y permite a los estudiantes, los profesores y el personal instalar la última versión de Office en un máximo de cinco equipos PC o Mac y en otros dispositivos móviles, como tabletas Windows y iPad. Las escuelas pueden optar a Office 365 Educación Plus cuando conceden una licencia de Office en toda la institución para los profesores y el personal a través de la inscripción en soluciones educativas, soluciones educativas Open Value Subscription o un contrato para escuelas. Tenga en cuenta que Access y Publisher solo están disponibles en PC. OneNote para Mac está disponible como descarga independiente en Mac App Store. <br/>
 <sup>7</sup> se puede instalar Office para Mac 2011, pero no activarlo. <br/>
 <sup>8</sup> Microsoft 365 apps for Enterprise es compatible con la infraestructura de escritorio virtual dedicada del usuario (VDI). Las aplicaciones de Microsoft 365 para empresas solo admiten servicios de escritorio remoto (RDS) cuando se compran a través de un programa de licencias por volumen.<br/>
-<sup>9</sup> la activación por volumen para Office 365 Enterprise E3 y Microsoft 365 apps for Enterprise se limitan a instalaciones en Windows Server 2008 R2 y versiones posteriores con el rol RDS habilitado o las instalaciones de Windows to go. En cualquier caso, los usuarios que tienen acceso a estas instalaciones deben ser usuarios con licencia de Office 365 Enterprise E3 o aplicaciones Microsoft 365 para empresas.<br/> 
-<sup>10</sup> capacidades de Skype empresarial en Office 365 Enterprise F3 incluyen el plan 1 de Skype empresarial (sin uso compartido de escritorio, sin uso compartido de aplicaciones, no se pueden iniciar conferencias de audio, vídeo o web entre varias partes, no se pueden programar reuniones).<br/> 
+<sup>9</sup> la activación por volumen de Office 365 E3 y Microsoft 365 apps for Enterprise se limitan a instalaciones en Windows Server 2008 R2 y versiones posteriores con el rol RDS habilitado o las instalaciones de Windows to go. En cualquier caso, los usuarios que tienen acceso a estas instalaciones deben ser usuarios con licencia de Office 365 E3 o Microsoft 365 apps for Enterprise.<br/> 
+<sup>10</sup> capacidades de Skype empresarial en Office 365 F3 incluir el plan 1 de Skype empresarial (sin uso compartido de escritorio, sin uso compartido de aplicaciones, no se pueden iniciar conferencias de audio, vídeo o web entre varias partes, no se pueden programar reuniones).<br/> 
 <sup>11</sup> el acceso está disponible actualmente si se encuentra en el canal actual o en la versión de destino para el canal diferido. Si usa el Canal diferido, Access estará disponible en junio de 2017. Para obtener más información, vea [Access incluye como parte de las suscripciones de Microsoft 365 y Office 365](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/> 
 <sup>12</sup> InfoPath 2013 todavía se admite y se incluye en la instalación de Office Professional Plus 2016, pero no hay ninguna versión nueva para Office 2016.<br/> 
 <sup>13</sup> compatibilidad con funciones de edición básicas.<br/> 
@@ -109,9 +108,8 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 
 ## <a name="office-application-availability-in-office-for-mac-plans"></a>Disponibilidad de las aplicaciones de Office en los planes de Office para Mac
 
-||||
+| Aplicación de Office | Office 2016 para Mac en Office 365<sup>1</sup> | Office para Mac 2011 en Office 365<sup>3</sup> |
 |:-----|:-----|:-----|
-|**Aplicaciones de Office** <br/> |**Office 2016 para Mac en Office 365<sup>1</sup>** <br/> |**Office para Mac 2011 en Office 365<sup>3</sup>** <br/> |
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Sí  <br/> |Sí  <br/> |
 |[Microsoft Excel](office-applications.md#microsoft-excel) <br/> |Sí  <br/> |Sí  <br/> |
 |[Microsoft PowerPoint](office-applications.md#microsoft-powerpoint) <br/> |Sí  <br/> |Sí  <br/> |
@@ -122,28 +120,27 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |[Skype Empresarial](office-applications.md#skype-for-business) <br/> |Sí  <br/> |Sí  <br/> |
 |[Microsoft InfoPath](office-applications.md#microsoft-infopath) <br/> |No  <br/> |No  <br/> |
    
-> <sup>1</sup> Office 2016 para Mac requiere Mac OS X 10,10 o posterior. Para los clientes que se conectan a Exchange a través de Outlook para Mac, se requiere la conectividad de Microsoft Exchange Server 2010 Service Pack 2 o posterior. Para obtener más información, vea [Microsoft 365 y recursos de Office](https://products.office.com/en-US/office-system-requirements).<br/>
-<sup>2</sup> Disponible como descarga independiente en la Tienda de aplicaciones. Para obtener más información, consulte el artículo [OneNote for Mac (OneNote para Mac)](https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/introducing-onenote-for-mac/).<br/> 
+> <sup>1</sup> Office 2016 para Mac requiere Mac OS X 10,10 o posterior. Para los clientes que se conectan a Exchange a través de Outlook para Mac, se requiere la conectividad de Microsoft Exchange Server 2010 Service Pack 2 o posterior. Para obtener más información, vea [Microsoft 365 y recursos de Office](https://products.office.com/office-system-requirements).<br/>
+<sup>2</sup> Disponible como descarga independiente en la Tienda de aplicaciones. Para obtener más información, consulte el artículo [OneNote for Mac (OneNote para Mac)](https://aka.ms/OneNoteforMac).<br/> 
 <sup>3</sup> se puede instalar Office para Mac 2011, pero no activarlo.
 
 ## <a name="office-application-and-feature-availability-in-government-plans"></a>Disponibilidad de características y aplicaciones de Office en los planes gubernamentales
 
-Las siguientes aplicaciones de Office están disponibles en las nubes gubernamentales; sin embargo, es posible que algunas funciones basadas en la nube no estén disponibles actualmente, como se indica en la tabla.
+Las siguientes aplicaciones de Office están disponibles en las nubes gubernamentales; sin embargo, es posible que algunas funciones basadas en la nube no estén disponibles actualmente, como se indica en la tabla.<br><br>
 
-|||||
+| Característica o aplicación de Office | GCC | GCC High | DOD |
 |-----|-----|-----|-----|
-|**Aplicaciones de Office** | **GCC** | **GCC High** | **REQUISITO** |
 |**[Microsoft Excel](office-applications.md#microsoft-excel)** está completamente disponible en las nubes gubernamentales, con la excepción de las siguientes características que no están disponibles en este momento:| Sí | Sí | Sí |
 |animaciones 3D incrustadas y modelos 3D | No | No | No |
 |Tipos de datos | No | No | No |
 |Relleno rápido  | No | No | No |
 |Ideas (servicios de conocimientos) | No | No | No |
-|Integración mejorada con PowerBI (objetos visuales personalizados, crear gráficos PBI directamente desde Excel) | No | No | No |
+|Integración mejorada con Power BI (objetos visuales personalizados, crear gráficos PBI directamente desde Excel) | No | No | No |
 |Tinta digital inteligente | No | No | No |
 |Grupos de Office 365 | No | No | No |
 |Datos de gráficos dinámicos conectados a tablas dinámicas | No | No | No |
 |PowerPivot | No | No | No |
-|Publicar en PowerBI | No | No | No |
+|Publicación en Power BI | No | No | No |
 |Colaboración en tiempo real (presencia, coautoría normal, chat dentro del documento) | No | No | No |
 |Shared with Me | No | No | No |
 |Búsqueda inteligente | No | No | No |

@@ -8,29 +8,28 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e0bc13b9-e56b-44db-bb95-36ae6cbe1da8
-description: Con Visio para la web, puede ver, editar y compartir diagramas de Visio en la Web.
-ms.openlocfilehash: d9a206f56c4ef8641dc248c0d22301afd887c62f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Compare las funcionalidades de Visio para la web con la aplicación de escritorio de Visio.
+ms.openlocfilehash: bc360ef3348179aaeba4eb1111004e4088707f63
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131954"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276667"
 ---
 # <a name="visio-for-the-web-service-description"></a>Descripción del servicio de Visio para la Web
 
 Con Visio para la web, puede ver, editar y compartir diagramas de Visio en la Web. Empiece con un diagrama básico para expresar ideas comunes, como representar un plan, realizar una propuesta o describir una secuencia de pasos en un proceso. Es fácil y sencillo crear diagramas de primera clase con los tipos de diagramas más usados y conjuntos de formas enriquecidas. Visio para los usuarios Web puede ver y colaborar compartiendo diagramas e insertando comentarios en los archivos cargados en SharePoint Online o OneDrive para la empresa online.
   
-Para obtener más información y empezar a trabajar, consulte [Visio plan 1](https://products.office.com/en-US/visio/visio-online).
+Para obtener más información y empezar a trabajar, consulte [Visio plan 1](https://products.office.com/visio/visio-online).
   
 Para obtener ayuda al usar Visio para la web, consulte la [ayuda de visio & Learning](https://support.office.com/visio).
   
 ## <a name="feature-availability-and-comparison"></a>Disponibilidad y comparación de características
 
-En la tabla siguiente se comparan las características de la característica Web de las aplicaciones de escritorio de Visio enriquecidas con características. Use la tabla para descubrir qué características están disponibles en Visio para la web y, a continuación, seleccione el nombre de la característica para leer una breve descripción de cómo funciona la característica. Es posible que descubra que algunas personas de su organización necesitan capacidades avanzadas de la aplicación de escritorio de Visio mientras que otras solo necesitan ver y modificar los diagramas de Visio con Visio para la Web. 
+En la siguiente tabla se comparan Visio para obtener las funciones de características Web de la aplicación de escritorio de Visio enriquecida con características. Use la tabla para descubrir qué características están disponibles en Visio para la web y, a continuación, seleccione el nombre de la característica para leer una breve descripción de cómo funciona la característica. Es posible que descubra que algunas personas de su organización necesitan capacidades avanzadas de la aplicación de escritorio de Visio mientras que otras solo necesitan ver y modificar los diagramas de Visio con Visio para la Web.<br><br> 
   
-||||
+| Característica de aplicación | Visio para la web | Aplicación de escritorio de Visio |
 |:-----|:-----|:-----|
-|**Características de aplicaciones** <br/> |**Visio para la Web** <br/> |**Aplicación de escritorio de Visio** <br/> |
 |[Aplicar formato enriquecido a texto y formas](visio-online.md#apply-rich-formatting-to-text-and-shapes) <br/> |Sí  <br/> |Sí  <br/> |
 |[Organizar objetos](visio-online.md#arrange-objects) <br/> |Sí  <br/> |Sí  <br/> |
 |[Crear soluciones de mashup](visio-online.md#build-mashup-solutions) <br/> |Sí  <br/> |Sí  <br/> |
@@ -66,9 +65,8 @@ En la tabla siguiente se comparan las características de la característica Web
   
 ## <a name="supported-file-types-in-visio-for-the-web"></a>Tipos de archivo admitidos en Visio para la web
 
-||||
+| Diagrama de Visio creado en Visio 2010 o posterior | Modo de visualización | Modo de edición |
 |:-----|:-----|:-----|
-|**Diagramas de Visio creados en Visio 2010 o posterior** <br/> |**Modo de visualización** <br/> |**Modo de edición** <br/> |
 |Open XML (. vsdx)  <br/> |Sí  <br/> |No  <br/> |
 |Binario (. VSD)  <br/> |Sí  <br/> |No  <br/> |
 |Macro (. vsdm)  <br/> |Sí  <br/> |No  <br/> |

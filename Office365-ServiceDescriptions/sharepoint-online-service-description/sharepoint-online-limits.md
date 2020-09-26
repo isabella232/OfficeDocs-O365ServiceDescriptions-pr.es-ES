@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para los planes de Microsoft 365 y independientes.
-ms.openlocfilehash: d01e2af69d566b0e44d515e762049acd3cfba864
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
+ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962099"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48276725"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -22,9 +22,8 @@ Obtenga información sobre los límites de servicio de SharePoint para Microsoft
   
 ## <a name="limits-by-plan"></a>Límites por plan 
 
-|||||
+| Característica | Microsoft 365 Business Basic, Business Standard o Business Premium | Microsoft 365 E3 o E5, Office 365 E1, E3 o E5, o SharePoint plan 1 o 2 | Microsoft 365 F1 o F3, Office 365 F3 |
 |:-----|:-----|:-----|:-----|
-|**Característica** <br/> |**Microsoft 365 Business Basic, Business Standard o Business Premium** <br/> |**Microsoft 365 E3 o E5, Office 365 Enterprise E1, E3 o E5, o SharePoint plan 1 o 2** <br/> | **Microsoft 365 F1 o F3, Office 365 Enterprise F3** <br/> |
 |Almacenamiento total por organización<sup>1, 2, 6</sup> <br/> |1 TB más 10 GB por licencia comprado<sup>3</sup>  <br/> |1 TB más 10 GB por licencia comprado<sup>3</sup> <br/> |1 TB<sup>3</sup> <br/> |
 |Almacenamiento máximo por sitio (colección de sitios)<sup>4</sup><br/> |25 TB <br/> |25 TB <br/> |25 TB<sup>5</sup> <br/> |
 |Sitios (colecciones de sitios) por organización  <br/> |2 millones<sup>6</sup> <br/> |2 millones<sup>6</sup> <br/> |2 millones<br/> |
@@ -36,7 +35,7 @@ Obtenga información sobre los límites de servicio de SharePoint para Microsoft
 <br/> <sup>4</sup> este es el *límite* de almacenamiento de un solo sitio (anteriormente denominado "colección de sitios"), no la cantidad de almacenamiento que se *proporciona* para cada sitio. Este límite se aplica a todos los tipos de sitios, incluidos los sitios de grupo conectados a Office 365 y OneDrive. Los administradores de SharePoint pueden [establecer manualmente límites de almacenamiento inferiores](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
 <br/> <sup>5</sup> los trabajadores de Firstline no pueden administrar los sitios de SharePoint. 
 <br/> <sup>6</sup> no se incluye el OneDrive creado para cada usuario con licencia. 
-<br/> <sup>7</sup>Si tiene más de 500.000 usuarios, póngase en contacto con un representante de Microsoft. 
+<br/> <sup>7</sup> si tiene más de 500.000 usuarios, póngase en contacto con un representante de Microsoft. 
   
 ## <a name="service-limits-for-all-plans"></a>Límites de servicio para todos los planes
 
@@ -49,9 +48,9 @@ Una lista puede tener hasta 30 millones elementos y una biblioteca puede tener h
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Permisos exclusivos para los elementos de una lista o biblioteca
 
-El límite permitido es 50.000 elementos con permisos únicos, pero el límite general recomendado es 5.000. Realizar cambios en más de 5.000 elementos con permisos únicos a la vez lleva más tiempo. Para listas de gran tamaño, diseñe para que tenga el menor número de permisos únicos posible.
+El límite permitido es 50.000 de elementos con permisos únicos, pero el límite general recomendado es 5.000. Realizar cambios en más de 5.000 elementos con permisos únicos a la vez lleva más tiempo. Para listas de gran tamaño, diseñe para que tenga el menor número de permisos únicos posible.
 
-Otro límite es 5.000 asignaciones de funciones por elemento con permisos únicos. 
+Otro límite es 5.000 asignaciones de funciones por elemento con permisos exclusivos. 
 
 ### <a name="file-size-and-file-path-length"></a>Tamaño de archivo y longitud de la ruta de archivo
 
@@ -118,6 +117,6 @@ Un usuario puede pertenecer a 5.000 grupos por sitio (colección de sitios) y ca
 > [!NOTE]
 > No hay ningún límite en el número de invitados que puede invitar a los sitios de SharePoint. Para obtener más información sobre el uso compartido externo, vea [external Sharing Overview](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Vea también
+## <a name="see-also"></a>Consulte también
 
 [Límites de búsqueda de SharePoint](/sharepoint/search-limits)

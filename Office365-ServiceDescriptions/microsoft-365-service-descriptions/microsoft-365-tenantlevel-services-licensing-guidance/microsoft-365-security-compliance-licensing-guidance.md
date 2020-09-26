@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: f2da71ee9bdc8f8250d3f4a98e8f09b0a43edede
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: fc3385774a01e76b7297aa77a490acf6153b555c
+ms.sourcegitcommit: 57f06932a94f09990c0e02a2da491923ca2c1a2f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245735"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48284992"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -164,7 +164,7 @@ A continuación, se indican las ventajas para los usuarios del servicio de admin
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Los clientes con Office 365 E1/a1/E3/a3 y las licencias de 365 E3/a3 de Microsoft podrán tener acceso a la evaluación de línea base de protección de datos. Los clientes con licencias de Office 365 E5/A5 y Microsoft 365 E5/A5 podrán tener acceso a las evaluaciones de línea base de protección de datos, RGPD, NIST 800-53 y ISO 22701. Las evaluaciones Premium estarán disponibles para su compra a los clientes de Office 365 E5/A5 y Microsoft 365 E5/A5.
+Los clientes con Office 365 E1/a1/E3/a3 y las licencias de 365 E3/a3 de Microsoft podrán tener acceso a la evaluación de línea base de protección de datos. Los clientes con licencias de Office 365 E5/A5 y Microsoft 365 E5/A5 podrán tener acceso a las evaluaciones de línea base de protección de datos, RGPD, NIST 800-53 e ISO 22701. Los clientes deben tener al menos una licencia de Office 365 E5/A5 o Microsoft 365 E5/A5 para usar la característica de evaluación personalizada. Las evaluaciones Premium estarán disponibles para su compra a los clientes de Office 365 E5/A5 y Microsoft 365 E5/A5.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -211,7 +211,7 @@ Microsoft 365 E5/A5/G5/E3/a3/G3/F1/F3/Business Premium, Enterprise Mobility + Se
 > [!NOTE]
 > Power BI se incluye con Microsoft 365 E5/A5/G5; en todos los demás planes, Power BI debe tener una licencia por separado.
 
-Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5, Microsoft 365 Information Protection and Governance, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 y el plan de AIP 2 proporcionan los derechos de un usuario para beneficiarse del etiquetado de sensibilidad automático.
+Microsoft 365 E5/A5/G5, el cumplimiento de Microsoft 365 E5/A5/G5, la protección de la información de Microsoft 365 y el gobierno, Office 365 E5, Office 365 Advanced Compliance, Enterprise Mobility + Security E5 y el plan AIP 2 proporcionan los derechos para que un usuario se beneficie del etiquetado de sensibilidad automático.
 
 Para obtener derechos específicos por licencia, consulte la comparación detallada de licencias de cumplimiento de Microsoft 365. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx) No incluye derechos para la clasificación automática basada en el aprendizaje de la máquina (clasificadores cocapacitados).
 
@@ -247,7 +247,7 @@ Microsoft 365 E5/A5/E3/a3 y Office 365 E5/A5/E3/a3 proporcionan los derechos de 
 
 Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, el gobierno y la protección de la información de Microsoft 365, Office 365 E5/A5 y el cumplimiento avanzado de Office 365 proporcionan los derechos que tiene un usuario para beneficiarse de la aplicación automática de etiquetas de retención o directivas. aplicación de etiquetas o directivas de retención predeterminadas, inicio del período de retención de una etiqueta de retención basada en un evento personalizado, desencadenando una revisión de disposición manual al final del período de retención de la etiqueta, importación de datos de terceros a través de conectores de datos nativos, declaración de un archivo a registro, detección de contenido con etiqueta y supervisión de la actividad de etiquetado.
 
-Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, la protección de la información y el gobierno de Microsoft 365 proporcionan los derechos para que un usuario se beneficie de aplicar automáticamente etiquetas de retención basadas en clasificadores que se puedan entrenar.
+Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, la protección de la información de Microsoft 365 y el gobierno proporcionan los derechos que tiene un usuario para beneficiarse de aplicar automáticamente etiquetas de retención basadas en clasificadores que se puedan entrenar.
 
 Para obtener derechos específicos por licencia, consulte la comparación detallada de licencias de cumplimiento de Microsoft 365. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -267,7 +267,7 @@ La administración de registros ayuda a las organizaciones a cumplir sus obligac
 
 Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, la protección y el gobierno de la información de Microsoft 365, Office 365 E5/A5, Office 365 el cumplimiento avanzado proporcionan los derechos que tiene un usuario para beneficiarse de la administración de registros, lo que incluye declarar elementos como registros, aplicar automáticamente etiquetas de retención o registro y ejecutar procesos de revisión de disposición
 
-Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, la protección de la información y el gobierno de Microsoft 365 proporcionan los derechos que tiene un usuario para beneficiarse de aplicar automáticamente etiquetas de retención o registro basadas en clasificadores que se puedan entrenar.
+Microsoft 365 E5/A5, el cumplimiento de Microsoft 365 E5/A5, la protección de la información de Microsoft 365 y el gobierno proporcionan los derechos que tiene un usuario para beneficiarse de aplicar automáticamente etiquetas de retención o registro basadas en clasificadores que se puedan entrenar.
 
 Para obtener derechos específicos por licencia, consulte la comparación detallada de licencias de cumplimiento de Microsoft 365. [(Pdf)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](https://docs.microsoft.com/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
@@ -483,7 +483,7 @@ De forma predeterminada, los mensajes de chat y de canal de Microsoft son una *U
 
 Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  **Locations**.
 
-## <a name="information-barriers"></a>Barreras de la información
+## <a name="information-barriers"></a>Barreras de información
 
 Las barreras de información son directivas que un administrador puede configurar para evitar que los usuarios o grupos se comuniquen entre sí. Esto es útil si, por ejemplo, un departamento está controlando información que no debe compartirse con otros departamentos, o bien es necesario evitar que un grupo se comunique con los contactos externos. Las directivas de barrera de información también evitan búsquedas y detección. Esto significa que si intenta comunicarse con alguien con quien no debe comunicarse, no encontrará a ese usuario en el selector de personas.
 
