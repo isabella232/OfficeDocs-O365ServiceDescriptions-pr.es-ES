@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e7616079-5b13-4f1c-99ed-b20174e0808d
 description: Microsoft admite los siguientes métodos para crear, administrar y autenticar usuarios.
-ms.openlocfilehash: 967d60becc99d55cd188b4623e936b37cb04f7c7
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 56bc8c2e89df4540ec5a74edf76216a4401d6666
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261552"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294216"
 ---
 # <a name="user-account-management"></a>User account management
 
@@ -33,7 +33,7 @@ Si necesita información sobre las herramientas que pueden ayudarle a realizar t
 
 Obtener ayuda para: Inicio [de sesión](https://support.office.com/article/where-to-sign-in-to-office-365-for-business-e9eb7d51-5430-4929-91ab-6157c5a050b4)  |  [instalar o desinstalar](https://support.office.com/article/download-and-install-or-reinstall-office-365-or-office-2019-on-a-pc-or-mac-4414eaaf-0478-48be-9c42-23adc4716658)Office  |  [Cancelar Office 365](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
   
-Para otros problemas, visite el [centro de soporte técnico de Microsoft](https://support.microsoft.com/contactus/). Para obtener soporte técnico para Office 365 operado por 21Vianet en China, póngase en contacto con el [equipo de soporte técnico de 21Vianet](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Para Office 365 Germany, póngase en contacto con el [equipo de soporte técnico de Office 365 Germany](https://support.office.com/article/Get-technical-and-billing-support-for-Office-365-Germany-83ef2266-2543-48d7-a41a-1b56b403a8e9?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1). 
+Para otros problemas, visite el [centro de soporte técnico de Microsoft](https://support.microsoft.com/contactus/). Para obtener soporte técnico para Office 365 operado por 21Vianet en China, póngase en contacto con el [equipo de soporte técnico de 21Vianet](https://support.office.com/article/Get-technical-billing-and-subscription-support-for-Office-365-operated-by-21Vianet-671FB12E-F5D8-4CDF-B3E9-E8068A9AA496). Para Office 365 Germany, póngase en contacto con el [equipo de soporte técnico de Office 365 Germany](https://support.office.com/article/83ef2266-2543-48d7-a41a-1b56b403a8e9). 
   
 ## <a name="sign-in-options"></a>Opciones de inicio de sesión
 
@@ -87,7 +87,7 @@ En los clientes enriquecidos, como las aplicaciones de escritorio de Microsoft O
     
 - **Autenticación básica/proxy sobre SSL** : el cliente de Outlook pasa las credenciales de autenticación básicas a través de SSL a Exchange Online. Exchange Online proxy la solicitud de autenticación a la plataforma de identidad y, a continuación, al servidor local de Federación de Active Directory (para SSO). 
     
-Para garantizar un descubrimiento y autenticación adecuados de los servicios de Microsoft, los administradores deben aplicar un conjunto de componentes y actualizaciones a cada estación de trabajo que use clientes enriquecidos (como Microsoft Office 2010) y se conecte a Office 365. La configuración de escritorio es una herramienta automatizada para configurar las estaciones de trabajo con las actualizaciones necesarias. Para obtener más información, vea [usar mis aplicaciones de escritorio de Office actuales](https://support.office.com/article/set-up-office-2010-desktop-programs-to-work-with-office-365-for-business-3324b8b8-dceb-45e2-ac24-c642720108f7?ocmsassetID=HA102817827&CorrelationId=8eb1b198-827a-4999-a584-05a05a92d224&ui=en-US&rs=en-US&ad=US).
+Para garantizar un descubrimiento y autenticación adecuados de los servicios de Microsoft, los administradores deben aplicar un conjunto de componentes y actualizaciones a cada estación de trabajo que use clientes enriquecidos (como Microsoft Office 2010) y se conecte a Office 365. La configuración de escritorio es una herramienta automatizada para configurar las estaciones de trabajo con las actualizaciones necesarias. Para obtener más información, vea [usar mis aplicaciones de escritorio de Office actuales](https://support.office.com/article/3324b8b8-dceb-45e2-ac24-c642720108f7).
   
 ### <a name="sign-in-experience"></a>Experiencia de inicio de sesión
 
@@ -114,7 +114,7 @@ La experiencia de inicio de sesión cambia en función del tipo de identidad en 
   
 ## <a name="create-user-accounts"></a>Crear cuentas de usuario
 
-Hay varias formas de agregar usuarios. Para obtener más información, vea [Agregar usuarios individualmente o en la ayuda de administración masiva](https://docs.microsoft.com/office365/admin/add-users/add-users) y [Agregar, quitar y administrar usuarios en la vista previa del centro de administración de Microsoft 365](https://support.office.com/article/add-remove-and-manage-users-in-the-new-office-365-admin-center-6e80db58-c36b-4add-b1c8-cc5135f111f3?amp%3Bclcid=0x409&ui=en-US&rs=en-US&ad=US). Si usa Office 365 operado por 21Vianet en China, vea [Crear o modificar cuentas de usuario en Office 365 operado por 21Vianet: ayuda para administradores](https://docs.microsoft.com/office365/admin/add-users/add-users).
+Hay varias formas de agregar usuarios. Para obtener más información, vea [Agregar usuarios individualmente o en la ayuda de administración masiva](https://docs.microsoft.com/office365/admin/add-users/add-users) y [Agregar, quitar y administrar usuarios en la vista previa del centro de administración de Microsoft 365](https://support.office.com/article/6e80db58-c36b-4add-b1c8-cc5135f111f3). Si usa Office 365 operado por 21Vianet en China, vea [Crear o modificar cuentas de usuario en Office 365 operado por 21Vianet: ayuda para administradores](https://docs.microsoft.com/office365/admin/add-users/add-users).
   
 ## <a name="delete-user-accounts"></a>Eliminar cuentas de usuario
 
@@ -181,7 +181,7 @@ Los socios se pueden autorizar para administrar cuentas en nombre de los cliente
   
 ## <a name="azure-active-directory-services"></a>Servicios de Azure Active Directory
 
-Azure Active Directory (AD) ofrece funciones de administración de identidades y acceso completas a Office 365. Combina los servicios de directorio, gobierno de identidad avanzada, administración de acceso a aplicaciones y una plataforma completa basada en estándares para los desarrolladores. Para obtener más información sobre las características de AD en Office 365, vea el artículo [Personalización de marca de la página de inicio de sesión y autoservicio de restablecimiento de contraseña para usuarios en la nube](https://www.microsoft.com/en-us/microsoft-365/blog/2015/02/17/sign-page-branding-cloud-user-self-service-password-reset-office-365/). Obtenga más información sobre las [ediciones gratuita, básica y premium de Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
+Azure Active Directory (AD) ofrece funciones de administración de identidades y acceso completas a Office 365. Combina los servicios de directorio, gobierno de identidad avanzada, administración de acceso a aplicaciones y una plataforma completa basada en estándares para los desarrolladores. Para obtener más información sobre las características de AD en Office 365, vea [iniciar sesión de personalización de marca de la página y el restablecimiento de contraseña del usuario de nube]() https://go.microsoft.com/fwlink/?linkid=2144147 . Obtenga más información sobre las [ediciones gratuita, básica y premium de Azure Active Directory](https://msdn.microsoft.com/library/azure/dn532272.aspx). 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

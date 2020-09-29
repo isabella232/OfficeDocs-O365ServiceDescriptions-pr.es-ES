@@ -10,18 +10,19 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
-ms.openlocfilehash: b03c74e0c760cf22c12e6973a544553d119471fe
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Lea este artículo para obtener información sobre las características de cumplimiento disponibles en archivado de Microsoft Exchange Online.
+ms.openlocfilehash: 0826a2677dcc3d8c336ecea3901ed7486c71eda3
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132744"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293626"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Características de cumplimiento y seguridad en archivado de Exchange Online
 
 ## <a name="compliance-features-in-exchange-online-archiving"></a>Características de cumplimiento en Archivado de Exchange Online
 
-En las siguientes secciones se describen las características de cumplimiento de Archivado de Exchange Online (EOP) de Microsoft.
+En este artículo se describen las características de cumplimiento de archivado de Microsoft Exchange Online.
   
 ### <a name="retention-policies"></a>Directivas de retención
 
@@ -31,7 +32,7 @@ Archivado de Exchange Online ofrece dos tipos de directivas: de archivado y de e
   
 Con Outlook 2010 y versiones posteriores y Outlook en la web, los usuarios pueden aplicar directivas de retención a carpetas, conversaciones o mensajes individuales y también pueden ver las directivas de retención aplicadas y las fechas de eliminación esperadas en los mensajes. Los usuarios de otros clientes de correo electrónico pueden eliminar o archivar los mensajes conforme a las directivas de retención que les suministren los administradores, aunque no disfrutarán del mismo grado de visibilidad y control.
   
-Las capacidades de directivas de retención que se ofrecen en Archivado de Exchange Online son las mismas que se ofrecen en Exchange Server 2010 Service Pack 2 (SP2) y versiones posteriores. Los administradores pueden administrar las directivas de retención desde Exchange Server 2010 local y entornos posteriores. Las carpetas administradas, un enfoque anterior para la administración de registros de mensajería introducido en Exchange 2007, no están disponibles y no son compatibles con el Archivado de Exchange Online. Para obtener más información, vea [Etiquetas de retención y directivas de retención en Exchange 2016](https://go.microsoft.com/fwlink/p/?LinkID=314153).
+Las capacidades de directivas de retención que se ofrecen en Archivado de Exchange Online son las mismas que se ofrecen en Exchange Server 2010 Service Pack 2 (SP2) y versiones posteriores. Los administradores pueden administrar las directivas de retención desde Exchange Server 2010 local y entornos posteriores. Las carpetas administradas, un enfoque anterior para la administración de registros de mensajería introducido en Exchange 2007, no están disponibles y no son compatibles con el Archivado de Exchange Online. Para obtener más información, vea [Etiquetas de retención y directivas de retención](https://go.microsoft.com/fwlink/p/?LinkID=314153).
   
 ### <a name="in-place-hold-and-litigation-hold"></a>Retención local y retención por juicio
 
@@ -67,7 +68,7 @@ Para obtener más información, vea [Conservación local y retención por juicio
   
 ### <a name="in-place-ediscovery"></a>Exhibición de documentos electrónicos en contexto
 
-Archivado de Exchange Online admite In-Place eDiscovery para buscar el contenido de buzones de una organización. Mediante el Centro de administración de Exchange o Windows PowerShell remoto en un servidor de Exchange 2013 local, los administradores o los administradores de detección autorizados pueden buscar diversos elementos del buzón, como, por ejemplo, mensajes de correo electrónico, archivos adjuntos, citas del calendario, tareas y contactos. In-Place eDiscovery permite realizar búsquedas simultáneas en los archivos y buzones principales. Entre las capacidades de filtrado enriquecidas se incluyen remitente, destinatario, tipo de mensaje, fecha de envío, fecha de recepción, copia y copia oculta, junto con la sintaxis del lenguaje de consulta de palabras clave (KQL). Para obtener más información, vea [In-Place eDiscovery](https://go.microsoft.com/fwlink/p/?LinkId=314169).
+Archivado de Exchange Online admite In-Place eDiscovery para buscar el contenido de buzones de una organización. Mediante el Centro de administración de Exchange o Windows PowerShell remoto en un servidor de Exchange 2013 local, los administradores o los administradores de detección autorizados pueden buscar diversos elementos del buzón, como, por ejemplo, mensajes de correo electrónico, archivos adjuntos, citas del calendario, tareas y contactos. In-Place eDiscovery permite realizar búsquedas simultáneas en los archivos y buzones principales. Entre las capacidades de filtrado enriquecidas se incluyen remitente, destinatario, tipo de mensaje, fecha de envío, fecha de recepción, copia y copia oculta, junto con la sintaxis del lenguaje de consulta de palabras clave (KQL). Para obtener más información, vea [Exhibición de documentos electrónicos local](https://go.microsoft.com/fwlink/p/?LinkId=314169).
   
 Se puede usar el Centro de administración de Exchange y Windows PowerShell remoto para realizar búsquedas en hasta 5000 buzones a la vez en una búsqueda de In-Place eDiscovery. Para obtener información detallada sobre cómo usar Windows PowerShell remoto para ejecutar búsquedas de In-Place eDiscovery, vea [New-MailboxSearch](https://go.microsoft.com/fwlink/p/?LinkId=314170). 
   
@@ -119,9 +120,9 @@ Los mensajes protegidos con IRM están indizados y permiten realizar búsquedas,
 
 Archivado de Exchange Online proporciona dos tipos de capacidades de auditoría integradas:
   
-- **Registro de auditoría de administradores** El registro de auditoría de administradores permite a los clientes realizar un seguimiento de los cambios realizados por parte de sus administradores en el entorno de Archivado de Exchange Online, incluidos los cambios en los roles de RBAC o en las directivas y la configuración de Exchange. 
+- **Registro de auditoría de administrador** : el registro de auditoría de administrador permite a los clientes realizar un seguimiento de los cambios realizados por sus administradores en el entorno de archivado de Exchange Online, incluidos los cambios en los roles RBAC o en las directivas y la configuración de Exchange. 
     
-- **Registro de auditoría de buzones** El registro de auditoría de buzones permite que los clientes lleven un seguimiento del acceso a los buzones por parte de usuarios que no sean el propietario del buzón en cuestión. 
+- **Registro de auditoría de buzones** de correo: el registro de auditoría permite a los clientes realizar un seguimiento del acceso a los buzones por parte de usuarios que no sean el propietario del buzón. 
     
 Hay disponibles varios informes de auditoría predefinidos en el centro de administración de Exchange, incluidos cambios de rol del administrador, retención por juicio y acceso al buzón de correo de un no propietario. Los administradores pueden filtrar los informes por fecha y rol, y pueden exportar todos los eventos de auditoría para buzones de correo especificados en formato XML a efectos de conservación a largo plazo o informes personalizados.
   

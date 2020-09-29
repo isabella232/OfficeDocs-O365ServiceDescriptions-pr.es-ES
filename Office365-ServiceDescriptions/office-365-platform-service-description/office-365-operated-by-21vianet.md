@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 ofrecido por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: 7a134e878d36539a6f51f2706dae29841282eefa
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261542"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294136"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -173,7 +173,7 @@ En la tabla siguiente se enumeran todas las características de plataforma para 
 |eDiscovery avanzado|No|No|No|No|No|No|No|
 |Puntuación segura<sup>4</sup>|No|No|No|No|No|No|No|
 |Inteligencia de amenazas|No|No|No|No|No|No|No|
-|**[Cumplen](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
+|**[Cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |Evaluaciones SAS 70 / SSAE16|No|No|No|No|No|No|No|
 |Certificación ISO 27001|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Cláusulas del modelo de UE|No|No|No|No|No|No|No|
@@ -229,7 +229,7 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 |[Skype Empresarial](../office-applications-service-description/office-applications.md#skype-for-business)|Sí|Sí|Sí|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí|Sí<sup>4</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|No|No|No|No|No|No|N°<sup>5</sup>|No|No|No|
 |[Aplicaciones de Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps)|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
-|[Office para Mac para Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|No|Sí|No|No|No|Sí|N°<sup>5</sup>|No|Sí|No|
+|[Office para Mac para Office 365](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|No|Sí|No|No|No|Sí|N°<sup>5</sup>|No|Sí|No|
 |Aplicación de Microsoft Office para Android|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Aplicación de Microsoft Office para iOS|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |[Office Mobile para iPhone o iPad](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>5</sup>|Sí|Sí|Sí|
@@ -278,7 +278,7 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 <br/><sup>6</sup> se puede instalar Office 2011 para Mac, pero no activarlo.
 <br/><sup>7</sup> Office 365 ProPlus es compatible con la infraestructura de escritorio virtual dedicada del usuario (VDI). Office 365 ProPlus solo admite servicios de escritorio remoto (RDS) cuando se compra a través de un programa de licencias por volumen.
 <br/><sup>8</sup> la activación por volumen para Office 365 Enterprise E3 y Office 365 ProPlus se limitan a instalaciones en Windows Server 2008 R2 y versiones posteriores con el rol RDS habilitado o instalaciones de Windows to go. En cualquier caso, los usuarios que tienen acceso a estas instalaciones deben ser usuarios con licencia de Office 365 Enterprise E3 o Office 365 ProPlus.
-<br/><sup>9</sup> el acceso está disponible actualmente si se encuentra en el canal actual o en la versión de destino para el canal diferido. Si usa el Canal diferido, Access estará disponible en junio de 2017. Para obtener más información, consulte [Access se incluye en Office 365 Empresa y Empresa Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).
+<br/><sup>9</sup> el acceso está disponible actualmente si se encuentra en el canal actual o en la versión de destino para el canal diferido. Si usa el Canal diferido, Access estará disponible en junio de 2017. Para obtener más información, consulte [Access se incluye en Office 365 Empresa y Empresa Premium](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef).
 <br/><sup>10</sup> Visio for the Web se encuentra actualmente en versión preliminar de Office 365 operado por 21Vianet. Para obtener más información acerca de Visio para la web, vea la [Descripción de servicio Web de Visio](../visio-online-service-description/visio-online-service-description.md).
 <br/><sup>11</sup> próximamente en Office 365 operado por 21Vianet.
 <br/><sup>15</sup> no se puede tener acceso a los servicios de Google (incluido la tienda Play) en China. Hay varios almacenes de aplicaciones mantenidos por principales fabricantes telefónicos o compañías de motores de búsqueda desde los que los usuarios pueden instalar aplicaciones móviles.
@@ -520,7 +520,7 @@ Archivado de Exchange Online está disponible a través de los siguientes planes
 > [!NOTE]
 > La versión de Office 365 operado por 21Vianet de Office 365 es específica de China.
 
-| Planear | Descripción |
+| Plan | Descripción |
 |:-----|:-----|
 |**Archivado de Exchange Online para Exchange Server para Office 365 operado por 21Vianet**|Archivado basado en la nube para usuarios con buzones de correo primarios en Exchange Server 2013 o Exchange 2010 (SP2 o posterior).  <br/> Si desea agregar un archivo basado en la nube a un buzón principal que está en un servidor de Exchange local, necesita configurar una implementación híbrida. Para obtener más información sobre las implementaciones híbridas, consulte [Implementaciones híbridas de Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  |
 |**Archivado de Exchange Online para Exchange Online para Office 365 operado por 21Vianet**| Los planes siguientes incluyen funcionalidad de archivado y no requieren Archivado de Exchange Online como complemento:  <br/>  Office 365 A1 operado por 21Vianet  <br/>  Office 365 Enterprise E3 operado por 21Vianet  <br/>  Plan 2 de Exchange Online para Office 365 operado por 21Vianet  <br/>  Para obtener detalles acerca de la capacidades de archivo de los buzones de correo de Exchange Online, consulte [Buzones de archivo de Exchange Online](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview).|

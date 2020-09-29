@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Obtenga información sobre la disponibilidad de características de SharePoint para los clientes de la nube de US Government.
-ms.openlocfilehash: c360bc7ebda3c1a4041e0dcd8c2d5cb9699b8820
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 4e09ec8fda62fb5ce7a6e886799c5f35edd32cf5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42175022"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294196"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint para entornos gubernamentales de Estados Unidos
 
@@ -40,7 +40,7 @@ No existen diferencias conocidas entre las características de desarrollador par
 - Las conexiones a aplicaciones externas como orígenes de datos para complementos están limitadas a los orígenes que se encuentran dentro de los límites de seguridad del sistema admitidos por el entorno gubernamental.
 - La funcionalidad de servicios de conectividad empresarial (BCS) se admite en escenarios de conectividad en los que los orígenes de datos permanecen accesibles dentro del límite de seguridad del servicio de nube.
 
-Si usa aplicaciones de terceros en los sitios, revise las declaraciones de privacidad y cumplimiento que ofrecen los terceros para evaluar el uso adecuado de estos servicios en su organización. Las aplicaciones y servicios de terceros pueden implicar el almacenamiento, la transmisión y el procesamiento de los datos de los clientes de su organización en sistemas de terceros que están fuera de la nube pública y que, por lo tanto, no están cubiertos por el cumplimiento y la protección de datos. asignaciones. 
+Si usa aplicaciones de terceros en los sitios, revise las declaraciones de privacidad y cumplimiento que ofrecen los terceros para evaluar el uso adecuado de estos servicios en su organización. Las aplicaciones y servicios de terceros pueden implicar el almacenamiento, la transmisión y el procesamiento de los datos de los clientes de su organización en sistemas de terceros que están fuera de la nube pública y que, por lo tanto, no están cubiertos por los compromisos de protección y protección de datos. 
 
 ## <a name="it-admin-features"></a>Características de administración de ti
 
@@ -62,7 +62,7 @@ Para obtener información acerca de las siguientes características, consulte la
 - Caja de seguridad del cliente
 - Prevención de pérdida de datos (DLP)
 - Exhibición de documentos electrónicos (búsqueda de contenido, retención, exportación)
-- Office 365 Advanced Threat Protection (ATP)
+- Protección contra amenazas avanzada de Office 365 (ATP)
 - Etiquetas de confidencialidad
 
 Para obtener información sobre las características de Azure Active Directory para el gobierno, consulte [Azure Government Security + Identity Documentation](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory). 
@@ -95,4 +95,4 @@ Su traslado a la nube ofrece experiencias de transformación con controles de ad
 
 Después de configurar la organización en la nube de Microsoft US Government Cloud, siga la ruta de implementación recomendada que se describe en el centro de recursos para la [adopción de SharePoint](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/). Asegúrese de participar con los expertos en administración de cambios y la adopción.
 También puede trabajar con [FastTrack](https://www.microsoft.com/fasttrack) o con su partner elegido para implementar el servicio para sus usuarios.
-Visite el [centro de confianza de Microsoft](https://www.microsoft.com/en-us/trust-center) para obtener más información sobre la forma en que Microsoft se acerca a la seguridad, la privacidad y el cumplimiento, los principios básicos sobre cómo permite que las organizaciones atiendan a sus clientes.
+Visite el [centro de confianza de Microsoft](https://www.microsoft.com/trust-center) para obtener más información sobre la forma en que Microsoft se acerca a la seguridad, la privacidad y el cumplimiento, los principios básicos sobre cómo permite que las organizaciones atiendan a sus clientes.

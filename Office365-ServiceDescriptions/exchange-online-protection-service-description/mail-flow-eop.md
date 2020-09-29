@@ -1,5 +1,5 @@
 ---
-title: Flujo de correo [EOP]
+title: Flujo de correo en Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,17 +10,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 214e5779-35c6-4912-af0c-8b0552239f13
-description: Para la mayoría de las organizaciones que usan Office 365, hospedamos sus buzones y nos ocupamos del flujo de correo. Es la configuración más sencilla y significa que Microsoft administra todos los buzones y el filtrado. En cambio, algunas organizaciones tienen una empresa que necesita mantener todos sus buzones de manera local. Exchange Online Protection (EOP) le permite hacer esto y proporciona procesamiento de correo electrónico no deseado y contra correo no deseado en la nube.
-ms.openlocfilehash: 751551ef6b3ae710646b2fb63960eee5983d6c47
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Lea este artículo para obtener información sobre el flujo de correo en Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: c6b885abe6522c3f8d1b780c8c64c621c34011c2
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132824"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293676"
 ---
-# <a name="mail-floweop"></a>Flujo de correo [EOP]
+# <a name="mail-flow-in-exchange-online-protection"></a>Flujo de correo en Exchange Online Protection
 
-Para la mayoría de las organizaciones que usan Microsoft, hospedamos sus buzones y se ocupan del flujo de correo. Es la configuración más sencilla y significa que Microsoft administra todos los buzones y el filtrado. En cambio, algunas organizaciones tienen una empresa que necesita mantener todos sus buzones de manera local. Exchange Online Protection (EOP) le permite hacer esto y proporciona procesamiento de correo electrónico no deseado y contra correo no deseado en la nube. Para obtener más información y para comprar EOP, vaya a [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
+Para la mayoría de las organizaciones que usan Microsoft, hospedamos sus buzones y se ocupan del flujo de correo. Es la configuración más sencilla y significa que Microsoft administra todos los buzones y el filtrado. En cambio, algunas organizaciones tienen una empresa que necesita mantener todos sus buzones de manera local. Exchange Online Protection (EOP) le permite hacerlo y proporciona procesamiento de correo electrónico no deseado y contra correo no deseado en la nube. Para obtener más información y para comprar EOP, vaya a [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
 ¿Busca información sobre la administración de dominios o el bloqueo perimetral basado en directorios (DBEB)? Consulte [Administración de destinatarios, dominios y compañías](recipient-domain-and-company-management.md). Para obtener más información sobre todas las características de EOP, vea la [Descripción del servicio de protección en línea de Exchange](exchange-online-protection-service-description.md).
   

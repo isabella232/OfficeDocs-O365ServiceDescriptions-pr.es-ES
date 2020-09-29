@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes pueden ver y modificar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: 9df8a65c438a13ed43fc8b7e50abc069a42a96e2
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131424"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294108"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
@@ -161,7 +161,7 @@ Consulte las fórmulas detrás de los resultados de una celda en la barra de fó
   
 ## <a name="formula-tools-advanced"></a>Herramientas de fórmulas, avanzadas
 
-La aplicación de escritorio de Microsoft Excel proporciona las herramientas de fórmula más avanzadas, como el estilo de referencia 3D. Excel para la Web admite un número cada vez mayor de fórmulas de Excel avanzadas, como [fórmulas de matriz dinámica](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Obtenga más información sobre [fórmulas](https://support.office.com/article/overview-of-formulas-in-excel-ecfdc708-9162-49e8-b993-c311f47ca173?ocmsassetID=HA102748997&CTT=1&CorrelationId=1baa4c77-693e-4503-a2c5-b66a8b40dd40&ui=en-US&rs=en-US&ad=US).
+La aplicación de escritorio de Microsoft Excel proporciona las herramientas de fórmula más avanzadas, como el estilo de referencia 3D. Excel para la Web admite un número cada vez mayor de fórmulas de Excel avanzadas, como [fórmulas de matriz dinámica](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531). Obtenga más información sobre [fórmulas](https://support.microsoft.com/office/ecfdc708-9162-49e8-b993-c311f47ca173).
   
 ## <a name="freeze-panes"></a>Freeze panes
 
@@ -189,7 +189,7 @@ Puede ocultar y mostrar filas, columnas y hojas de un libro en Excel para Web.
 
 ## <a name="ideas"></a>Ideas
 
-Las ideas de Excel le ayudarán a comprender los datos a través de resúmenes visuales de alto nivel, tendencias y patrones. Simplemente seleccione una celda en un rango de datos y, a continuación, seleccione el botón **ideas** de la pestaña **Inicio** . las ideas de Excel analizarán los datos y devolverán elementos visuales interesantes sobre el mismo en un panel de tareas. Obtenga más información sobre las [ideas en Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
+Las ideas de Excel le ayudarán a comprender los datos a través de resúmenes visuales de alto nivel, tendencias y patrones. Simplemente seleccione una celda en un rango de datos y, a continuación, seleccione el botón **ideas** de la pestaña **Inicio** . Las ideas en Excel analizarán los datos y devolverán elementos visuales interesantes sobre el mismo en un panel de tareas. Obtenga más información sobre las [ideas en Excel](https://support.office.com/article/3223aab8-f543-4fda-85ed-76bb0295ffc4).
   
 ## <a name="insert-charts"></a>Insert charts
 
@@ -291,7 +291,7 @@ No está disponible en Excel para la Web. Si la aplicación de escritorio de Exc
 
 Mantenga el control del acceso y la confidencialidad de sus documentos aplicando manualmente una etiqueta o usando las etiquetas de Microsoft que se recomiendan automáticamente.
   
-## <a name="share"></a>Uso compartido
+## <a name="share"></a>Compartir
 
 Proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre cómo [usar Office para la web para trabajar juntos en office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   

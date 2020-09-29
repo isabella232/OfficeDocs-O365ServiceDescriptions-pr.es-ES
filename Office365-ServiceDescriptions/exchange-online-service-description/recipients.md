@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: En este tema, se describen las características relacionadas con los destinatarios que se incluyen con Microsoft Exchange Online. Incluye correo electrónico, contactos, grupos de distribución, calendarios y capacidades de programación.
-ms.openlocfilehash: a2d1f37bf4f86399522573d18177f6c397fd761c
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 5156272ea444414b8da650cf294f99bdfb8b4081
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132644"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293866"
 ---
-# <a name="recipients"></a>Destinatarios
+# <a name="recipients"></a>Recipientes
 
 En este tema, se describen las características relacionadas con los destinatarios que se incluyen con Microsoft Exchange Online. Incluye correo electrónico, contactos, grupos de distribución, calendarios y capacidades de programación.
   
@@ -57,7 +57,7 @@ Exchange Online permite a los usuarios crear reglas de bandeja de entrada que re
   
 ### <a name="clutter"></a>Otros correos
 
-La característica Otros correos permite centrarse en los mensajes más importantes de la Bandeja de entrada. Usa el aprendizaje automático para clasificar la Bandeja de entrada al mover los mensajes con prioridad inferior a la nueva carpeta Otros correos. Otros correos respeta las reglas de correo electrónico existentes. Por lo tanto, si creó reglas para organizar el correo electrónico, esas reglas siguen aplicándose y Otros correos no actuará en dichos mensajes. Otros correos está deshabilitado de forma predeterminada en la Bandeja de entrada. Para obtener más información, vea cómo [ordenar la Bandeja de entrada en Office 365](https://www.microsoft.com/en-us/microsoft-365/blog/2014/11/11/de-clutter-inbox-office-365/).
+La característica Otros correos permite centrarse en los mensajes más importantes de la Bandeja de entrada. Usa el aprendizaje automático para clasificar la Bandeja de entrada al mover los mensajes con prioridad inferior a la nueva carpeta Otros correos. Otros correos respeta las reglas de correo electrónico existentes. Por lo tanto, si creó reglas para organizar el correo electrónico, esas reglas siguen aplicándose y Otros correos no actuará en dichos mensajes. Otros correos está deshabilitado de forma predeterminada en la Bandeja de entrada. Para obtener más información, vea cómo [ordenar la Bandeja de entrada en Office 365](https://go.microsoft.com/fwlink/?linkid=2144145).
   
 ### <a name="connected-accounts"></a>Cuentas conectadas
 

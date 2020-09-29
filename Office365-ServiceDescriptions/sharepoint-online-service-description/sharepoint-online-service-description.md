@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vea qué características de SharePoint están disponibles en cada plan.
-ms.openlocfilehash: edfb00340b3fafcde2952f1fc808db8c00e96c31
-ms.sourcegitcommit: dccccbaa8022e7f730bf20fdf6144172f2148832
+ms.openlocfilehash: c46f5e71f097486148c80d1b617b6958b9363984
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/28/2020
-ms.locfileid: "47300514"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294116"
 ---
 # <a name="sharepoint-service-description"></a>Descripción del servicio SharePoint
 
@@ -90,7 +90,7 @@ A menos que se indique lo contrario, las siguientes características están disp
 - [Uso de aplicaciones y supervisión de errores](/sharepoint/monitor-apps)
 - Informes de actividad y uso de [SharePoint](/office365/admin/activity-reports/sharepoint-activity) y [OneDrive](/office365/admin/activity-reports/onedrive-for-business-activity)
 - [Cambiar dirección URL del sitio](/sharepoint/change-site-address)
-- [Configuración de retención y almacenamiento predeterminada para OneDrive](/en-us/onedrive/set-default-storage-space)
+- [Configuración de retención y almacenamiento predeterminada para OneDrive](/onedrive/set-default-storage-space)
 - [Entorno híbrido de SharePoint Server](/sharepoint/hybrid/hybrid). Los trabajadores de Firstline requieren una licencia de acceso de cliente (CAL) para obtener acceso a SharePoint Server.
 - [Administración de la configuración de creación de sitios](/sharepoint/manage-site-creation)
 - [Administración de límites de almacenamiento del sitio](/sharepoint/manage-site-collection-storage-limits)
@@ -104,7 +104,7 @@ A menos que se indique lo contrario, las siguientes características están disp
 - [Restaurar sitios eliminados](/sharepoint/restore-deleted-site-collection)
 - [Centro de administración de SharePoint](/sharepoint/get-started-new-admin-center). Las organizaciones con trabajadores de Firstline necesitan al menos un usuario de Enterprise para obtener acceso al centro de administración.
 - [Escáner de modernización de SharePoint](/sharepoint/dev/transform/modernize-scanner)
-- [Shell de administración de SharePoint Online](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps). Las organizaciones con trabajadores de Firstline necesitan al menos un usuario de Enterprise para obtener acceso al centro de administración.
+- [Shell de administración de SharePoint Online](/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps&preserve-view=true). Las organizaciones con trabajadores de Firstline necesitan al menos un usuario de Enterprise para obtener acceso al centro de administración.
 - [Gobernanza del sitio](/sharepoint/governance-overview) 
 - [Almacén de términos: metadatos administrados](/sharepoint/managed-metadata)
 
@@ -167,7 +167,7 @@ A menos que se indique lo contrario, las siguientes características están disp
 - [Biblioteca de activos de la organización](/sharepoint/organization-assets-library)
 - [Noticias de la organización](/sharepoint/organization-news-site)
 - [Aprobación de la página](https://support.office.com/article/a8b2e689-d4a1-4639-8028-333c0ece30d9)
-- [Páginas](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [Pages](https://support.office.com/article/b3d46deb-27a6-4b1e-87b8-df851e503dec)
 - Administración de registros
 - [Papelera de reciclaje](https://support.office.com/article/6df466b6-55f2-4898-8d6e-c0dff851a0be)
 - [Aplicación móvil de SharePoint](https://support.office.com/article/539608ac-4725-455e-aea0-9ca1f769849f)

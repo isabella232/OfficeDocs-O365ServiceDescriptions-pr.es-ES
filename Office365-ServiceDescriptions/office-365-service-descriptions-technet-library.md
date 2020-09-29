@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 y Office 365 son servicios basados en la nube diseñados para ayudar a satisfacer las necesidades de su organización en cuanto a seguridad, confiabilidad y productividad del usuario sólidas.
-ms.openlocfilehash: 64c21ecc0ebe63ba973f4efafec926bddd6ba3c0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e991d402b5e6c20b95b83fbe1666f6817b383362
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131464"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294186"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descripciones del servicio de Microsoft 365 y Office 365 
 
@@ -26,7 +26,7 @@ Microsoft 365 y Office 365 son servicios basados en la nube diseñados para ayud
   
 Los temas de esta biblioteca proporcionan descripciones detalladas de los servicios y las características que están disponibles con Microsoft 365 y Office 365. Para comparar las características de los planes, consulte [herramientas eficaces que admiten su empresa](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o la descripción del servicio relevante en la lista siguiente. 
   
-Para obtener información y artículos de soporte técnico, consulte la [ayuda de office & Training](https://support.office.com/), la [documentación de Office para administradores y profesionales de ti](https://docs.microsoft.com/office/)y el [centro de ayuda de 365 para administradores y profesionales de ti](https://docs.microsoft.com/microsoft-365/?view=o365-worldwide).
+Para obtener información y artículos de soporte técnico, consulte la [ayuda de office & Training](https://support.office.com/), la [documentación de Office para administradores y profesionales de ti](https://docs.microsoft.com/office/)y el [centro de ayuda de 365 para administradores y profesionales de ti](https://docs.microsoft.com/microsoft-365/).
   
 > [!NOTE]
 > Si está buscando la hoja de cálculo de comparación de la descripción del servicio, se ha retirado. Las tablas de disponibilidad de características del producto de cada página de Descripción del servicio se han actualizado para ayudarle a elegir la versión de Office 365 que mejor se adapte a sus necesidades. 
@@ -86,5 +86,5 @@ Para empezar, consulte las siguientes descripciones de servicios:
   
 ## <a name="disclaimer"></a>Aviso de declinación de responsabilidades
 
-&copy;2018 Microsoft Corporation. Reservados todos los derechos. Microsoft, Office 365 y otros nombres de productos y servicios son o podrían ser marcas comerciales o marcas comerciales registradas en los Estados Unidos o en otros países. La información provista aquí tiene fines informativos únicamente y representa la vista actual de Microsoft Corporation a partir de fecha de la última publicación o revisión de este documento. No tiene como fin ser un contrato de servicio y no compromete a Microsoft ni al cliente con ninguna característica, capacidad o responsabilidad aquí mencionada. MICROSOFT NO OTORGA NINGUNA GARANTÍA, YA SEA EXPLÍCITA, IMPLÍCITA O ESTATUTARIA, CON RESPECTO A LA INFORMACIÓN CONTENIDA EN ESTE DOCUMENTO.
+&copy; 2018 Microsoft Corporation. Reservados todos los derechos. Microsoft, Office 365 y otros nombres de productos y servicios son o podrían ser marcas comerciales o marcas comerciales registradas en los Estados Unidos o en otros países. La información provista aquí tiene fines informativos únicamente y representa la vista actual de Microsoft Corporation a partir de fecha de la última publicación o revisión de este documento. No está diseñado para ser un contrato de servicio y no compromete a Microsoft ni al cliente con ninguna característica, funcionalidad o responsabilidad mencionada en este documento. MICROSOFT NO OTORGA NINGUNA GARANTÍA, YA SEA EXPLÍCITA, IMPLÍCITA O ESTATUTARIA, CON RESPECTO A LA INFORMACIÓN CONTENIDA EN ESTE DOCUMENTO.
  

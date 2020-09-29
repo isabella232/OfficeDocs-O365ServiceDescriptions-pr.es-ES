@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades gubernamentales de Estados Unidos, Estados, locales, Tribals o entidades gubernamentales, o en otras entidades que administran datos sujetos a los requisitos y las regulaciones gubernamentales, donde el uso de Microsoft 365 Government-GCC es adecuado para cumplir con estos requisitos.
-ms.openlocfilehash: af09151b0ab1060c5a00c60d0b05bbd69c3300c0
-ms.sourcegitcommit: 638bacac9e663444f7a094d5887476d8a87e3b58
+ms.openlocfilehash: 564c8c55b1659d80ffa18802e623634088740ba5
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/18/2020
-ms.locfileid: "47962139"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293876"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planeación de cumplimiento de Microsoft 365: GCC
 
@@ -62,9 +62,9 @@ Le recomendamos que tenga tiempo para revisar minuciosamente la configuración d
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Paso 4. Conocer las funcionalidades que actualmente no están disponibles o deshabilitadas de forma predeterminada en Microsoft 365 Government – GCC<sup>1</sup>
 
-Para cumplir los requisitos de nuestros clientes de la nube de administración pública, existen algunas diferencias entre los planes de Microsoft 365 gubernamentales-GCC y Enterprise. Consulte la tabla siguiente para ver las características que están disponibles.
+Para cumplir los requisitos de nuestros clientes de la nube de administración pública, existen algunas diferencias entre los planes de Microsoft 365 gubernamentales-GCC y Enterprise. Consulte la tabla siguiente para ver las características que están disponibles.<br><br>
 
-|                                         | **Característica**                                     | **Estado GCC**         |
+| Área | Característica | Estado GCC |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
 | **Protección de la información**              | Etiquetas unificadas y de confidencialidad         | Disponible              |
 |                                         | Etiquetas de contenedor para SharePoint Online, grupos de Office          | Publicación              |

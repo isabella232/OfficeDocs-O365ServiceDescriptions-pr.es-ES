@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 38abfbd2-5aaa-444a-a431-5e71c566f3e4
-description: En las siguientes secciones se describen las características de archivo de archivado de Microsoft Exchange Online.
-ms.openlocfilehash: 7f6b5863d94862644fb90d1d0d85c3765ad05e9b
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Obtenga información sobre las características de archivo disponibles en el archivado de Microsoft Exchange Online.
+ms.openlocfilehash: da7b9fd7583904424300dff010117e50a6193552
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131534"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293656"
 ---
 # <a name="archive-features-in-exchange-online-archiving"></a>Características de archivo de archivado de Exchange Online
 

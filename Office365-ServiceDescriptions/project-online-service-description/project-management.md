@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: dd18ef8d-234b-487f-807c-d9f12eb17458
 description: Las siguientes características de administración de proyectos están disponibles en Project online.
-ms.openlocfilehash: 6952e801fe96d9467c7b642b002abf6f97664414
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 3a6e49d3b373646524f4f1f96e955bd4b78e1677
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131224"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294112"
 ---
 # <a name="project-management"></a>Administración de proyectos
 
@@ -44,4 +44,4 @@ Use un enfoque centralizado y común para la administración del tiempo y las ta
 
 ## <a name="project-home"></a>Página principal de Project
 
-La Página principal de Project es el punto de partida en el que se obtiene un acceso rápido y sencillo a los proyectos que han funcionado recientemente y los principales proyectos más importantes. Puede marcar estos proyectos como favoritos con controles fáciles de usar para que se muestren de forma destacada en la Página principal de Project. Para obtener más información, vea Introducción [a la Página principal de Project](https://support.office.com/article/get-started-with-project-home-a3b38418-35e7-4df4-8e4a-ba6a4fa0562a?ui=en-US&rs=en-US&ad=US).
+La Página principal de Project es el punto de partida en el que se obtiene un acceso rápido y sencillo a los proyectos que han funcionado recientemente y los principales proyectos más importantes. Puede marcar estos proyectos como favoritos con controles fáciles de usar para que se muestren de forma destacada en la Página principal de Project. Para obtener más información, vea Introducción [a la Página principal de Project](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a).

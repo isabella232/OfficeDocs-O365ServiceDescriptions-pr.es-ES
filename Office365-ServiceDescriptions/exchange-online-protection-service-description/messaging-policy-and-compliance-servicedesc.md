@@ -1,5 +1,5 @@
 ---
-title: Directiva de mensajería y conformidad
+title: Directiva de mensajería y cumplimiento en Exchange Online Protection
 ms.author: office365servicedesc
 author: pamelaar
 audience: ITPro
@@ -10,15 +10,15 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
-description: Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y de directivas de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
-ms.openlocfilehash: 53997df9a3e5de8b8b2e319f6e4c36382e4db412
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Lea este artículo para obtener información sobre las características de cumplimiento y de directivas de mensajería de Microsoft Exchange Online Protection (EOP).
+ms.openlocfilehash: 0609c1fe48404035907096eb047e3947a1bf7ace
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132794"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293806"
 ---
-# <a name="messaging-policy-and-compliance"></a>Directiva de mensajería y cumplimiento
+# <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Directiva de mensajería y cumplimiento en Exchange Online Protection
 
 Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y de directivas de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
 
@@ -65,7 +65,7 @@ El cifrado de mensajes de Office 365, una parte de Azure Information Protection,
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Características de cumplimiento y de directivas de mensajería en las opciones de EOP.
 
-|**Característica**|**EOP independiente**|**Características de EOP en <br/> Exchange Online**|**Exchange Enterprise <br/> cal con servicios**|
+| Característica | EOP independiente | Características de EOP en <br/> Exchange Online | Exchange Enterprise <br/> CAL con servicios |
 |:-----|:-----|:-----|:-----|
 |Reglas de flujo de correo|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>, 1, 3</sup>|
 |Registro de auditoría|Sí<sup>2</sup>|Sí|Sí|

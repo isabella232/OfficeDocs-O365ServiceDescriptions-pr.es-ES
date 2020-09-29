@@ -9,20 +9,20 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany es una opción diferenciada de los servicios de Office 365 que ya están disponibles en Europa. Ayuda a satisfacer las necesidades de los clientes más regulados en Alemania, la Unión Europea (UE) y la Asociación Europea de libre comercio (AELC) ofreciendo nuestros servicios de productividad líderes en el sector para el trabajo digital, desde los centros de datos alemanes, con residencia de datos en Alemania y estrictas acceso a datos y medidas de control a través de un modelo de confianza de datos único regulado por
-ms.openlocfilehash: 1f2ef704626f32e78fe0f7806e5fe669c12e3c5c
-ms.sourcegitcommit: 0d192547dda1adc93616996972490f50d8068981
+ms.openlocfilehash: d9dbd2e1d63d007ab27805924a07f8dcb11bb8fa
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48268492"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293856"
 ---
-# <a name="office-365-germany"></a>Office 365 Germany
+# <a name="office-365-germany"></a>Office 365 Alemania
 
 Office 365 Germany es una opción diferenciada de los servicios de Office 365 que ya están disponibles en Europa. Ayuda a satisfacer las necesidades de los clientes más regulados en Alemania, la Unión Europea (UE) y la Asociación Europea de libre comercio (AELC) ofreciendo nuestros servicios de productividad líderes en el sector para el trabajo digital, desde los centros de datos alemanes, con residencia de datos en Alemania y estrictas acceso a datos y medidas de control a través de un modelo de confianza de datos único regulado por
 
 La administración de los datos la realiza T-Systems International, una compañía independiente alemana y subsidiaria de Deutsche Telekom, controlando el acceso físico y lógico a los datos de los clientes. No se puede acceder a dichos datos sin la aprobación o la supervisión del administrador de datos, que se rige por la legislación alemana.
 
-Basándose en esta evolución en las necesidades de los clientes, nuestra estrategia de nube para Alemania se centrará en la entrega de las nuevas regiones de la nube en Alemania que son coherentes con nuestra oferta global de la nube. Con este enfoque, ya no se aceptarán nuevos clientes ni se implementará ningún nuevo servicio de la nube de Microsoft disponible actualmente, Alemania. Los clientes existentes pueden seguir usando los servicios en la nube actuales disponibles hoy en día, que se mantendrán con las actualizaciones de seguridad necesarias. [Obtenga información sobre Office 365 Germany](https://support.office.com/article/Learn-about-Office-365-Germany-8a5a4bbc-667a-4cac-8769-d8ac9015db4c?ui=en-US&amp;rs=en-US&amp;ad=US).
+Basándose en esta evolución en las necesidades de los clientes, nuestra estrategia de nube para Alemania se centrará en la entrega de las nuevas regiones de la nube en Alemania que son coherentes con nuestra oferta global de la nube. Con este enfoque, ya no se aceptarán nuevos clientes ni se implementará ningún nuevo servicio de la nube de Microsoft disponible actualmente, Alemania. Los clientes existentes pueden seguir usando los servicios en la nube actuales disponibles hoy en día, que se mantendrán con las actualizaciones de seguridad necesarias. [Obtenga información sobre Office 365 Germany](https://support.office.com/article/8a5a4bbc-667a-4cac-8769-d8ac9015db4c).
 
 ## <a name="service-availability-for-each-plan"></a>Disponibilidad del servicio para cada plan
 
@@ -192,7 +192,7 @@ Para obtener información específica sobre los precios y las características d
 ## <a name="office-application-features"></a>Características de aplicaciones de Office  
 
 > [!NOTE]
-> Los planes de Office 365 Germany incluyen aplicaciones de software cliente que se instalan y se ejecutan en el dispositivo del usuario final ("aplicaciones de software cliente"), como Office 365 ProPlus, Office 2013\* y Office 2016. Las aplicaciones de software cliente no funcionan exclusivamente en los centros de datos alemanes y pueden permitir que un usuario final obtenga acceso a servicios en línea que no son [servicios en línea en alemán](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). A efectos de su contrato con Microsoft, las aplicaciones de software cliente no corresponden a los servicios en línea alemanes. Los compromisos de residencia de datos alemanes y el control de acceso por el administrador de confianza de datos alemán solo se aplican a los servicios en línea alemanes.<br/> \*Office 2013 para Office 365 Germany requiere que se [habilite la autenticación moderna](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).
+> Los planes de Office 365 Germany incluyen aplicaciones de software cliente que se instalan y se ejecutan en el dispositivo del usuario final ("aplicaciones de software cliente"), como Office 365 ProPlus, Office 2013\* y Office 2016. Las aplicaciones de software cliente no funcionan exclusivamente en los centros de datos alemanes y pueden permitir que un usuario final obtenga acceso a servicios en línea que no son [servicios en línea en alemán](https://microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&amp;DocumentTypeId=58). A efectos de su contrato con Microsoft, las aplicaciones de software cliente no corresponden a los servicios en línea alemanes. Los compromisos de residencia de datos alemanes y el control de acceso por el administrador de confianza de datos alemán solo se aplican a los servicios en línea alemanes.<br/> \*Office 2013 para Office 365 Germany requiere que se [habilite la autenticación moderna](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).
 
 Use las tablas siguientes para comparar la disponibilidad de las características en los planes de Office 365 Germany.<br><br>
 
@@ -209,7 +209,7 @@ Use las tablas siguientes para comparar la disponibilidad de las característica
 |[Skype Empresarial](../office-applications-service-description/office-applications.md#skype-for-business)|Sí<sup>6</sup>|Sí<sup>6</sup>|Sí<sup>6</sup>|Sí<sup>6</sup>|Sí<sup>6</sup>|Sí|Sí|Sí<sup>6</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|No|No|No|No<sup>7</sup>|No|Sí|Sí|No|
 |[Aplicaciones de Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps)|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
-|[Office para Mac para Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|Sí|No|Sí|No<sup>7</sup>|No|Sí|Sí|No|
+|[Office para Mac para Office 365](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|Sí|No|Sí|No<sup>7</sup>|No|Sí|Sí|No|
 |[Office Mobile para iPhone o iPad](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|Sí|No|Sí|No<sup>7</sup>|No|Sí|Sí|No|
 |[Office Mobile para Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)|Sí|No|Sí|No<sup>7</sup>|No|Sí|Sí|No|
 |[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|Sí|No|Sí|No<sup>7</sup>|No|Sí|Sí|No|
@@ -249,7 +249,7 @@ Use las tablas siguientes para comparar la disponibilidad de las característica
 
 > [!NOTE]
 > <sup>1</sup> los planes de Office 365 Germany incluyen aplicaciones de software cliente que se instalan y ejecutan en un dispositivo del usuario final ("aplicaciones de software cliente"), como Office 365 ProPlus, Office 2013 y Office 2016. Las aplicaciones de software cliente no funcionan exclusivamente en los centros de datos alemanes y pueden permitir que un usuario final obtenga acceso a servicios en línea que no son servicios en línea en alemán. A efectos de su contrato con Microsoft, las aplicaciones de software cliente no corresponden a los servicios en línea alemanes. Los compromisos de residencia de datos alemanes y el control de acceso por el administrador de confianza de datos alemán solo se aplican a los servicios en línea alemanes.<br/>
-<sup>2</sup> Office 2013 necesita que [modern authentication be enabled](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
+<sup>2</sup> Office 2013 necesita que [modern authentication be enabled](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).<br/>
 <sup>3</sup> Azure Information Protection no se incluye, pero puede adquirirse como un complemento independiente para habilitar las características de IRM admitidas.<br/>
 <sup>4</sup> Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM admitidas. <br/>
 <sup>5</sup> Si tiene Office Professional Plus 2013 o una versión independiente de Excel 2013, puede descargar y usar [Power Map Preview para Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) como un complemento no admitido. <br/>
@@ -257,7 +257,7 @@ Use las tablas siguientes para comparar la disponibilidad de las característica
 <sup>7</sup> Algunas escuelas cumplen los requisitos de Educación Plus, que incluye Office 365 ProPlus, y permite a alumnos, profesores y empleados instalar la última versión de Office en un máximo de cinco equipos Mac o PC y en otros dispositivos móviles, incluidas tabletas Windows y iPad. Las escuelas pueden optar a Office 365 Educación Plus cuando conceden una licencia de Office en toda la institución para los profesores y el personal a través de la inscripción en soluciones educativas, soluciones educativas Open Value Subscription o un contrato para escuelas. Tenga en cuenta que Access y Publisher solo están disponibles en PC. OneNote para Mac está disponible como descarga independiente en Mac App Store.<br/>
 <sup>8</sup> Se puede instalar Office 2011 para Mac, pero no activarlo. <br/>
 <sup>9</sup> La activación por volumen de Office 365 Germany Enterprise E3 y Office 365 ProPlus está limitada a las instalaciones en Windows Server 2008 R2 y las versiones más recientes con el rol RDS habilitado o las instalaciones Windows To Go. En cualquier caso, los usuarios que tienen acceso a estas instalaciones deben ser usuarios con licencia de Office 365 Germany Enterprise E3 o de Office 365 ProPlus.<br/>
-<sup>10</sup> el acceso está disponible actualmente si se encuentra en el canal actual o en la versión dirigida para el canal diferido. Si usa el Canal diferido, Access estará disponible en junio de 2017. Para obtener más información, consulte [Access se incluye en Office 365 Empresa y Empresa Premium](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/>
+<sup>10</sup> el acceso está disponible actualmente si se encuentra en el canal actual o en la versión dirigida para el canal diferido. Si usa el Canal diferido, Access estará disponible en junio de 2017. Para obtener más información, consulte [Access se incluye en Office 365 Empresa y Empresa Premium](https://support.office.com/article/f55c8362-5816-4f8b-897d-0a05e7ba0fef).<br/>
 <sup>11</sup> No está disponible para Office 365 Germany, pero lo estará próximamente.
 
 | Característica | Office Professional Plus 2013 | Office Professional Plus 2016 | Office 365 ProPlus<sup>10</sup> |
@@ -273,7 +273,7 @@ Use las tablas siguientes para comparar la disponibilidad de las característica
 |[Skype Empresarial](../office-applications-service-description/office-applications.md#skype-for-business)|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|
 |[Microsoft InfoPath](../office-applications-service-description/office-applications.md#microsoft-infopath)|Sí|Sí|No|
 |[Aplicaciones de Windows 10](../office-applications-service-description/office-applications.md#windows-10-apps)|Sí|Sí|Sí|
-|[Office para Mac para Office 365](https://support.office.com/article/General-requirements-for-Outlook-2016-for-Mac-A07A593D-B383-4906-A6C1-962D5543ED57?ui=en-US&amp;rs=en-US&amp;ad=US)|No|Sí|Sí|
+|[Office para Mac para Office 365](https://support.office.com/article/A07A593D-B383-4906-A6C1-962D5543ED57)|No|Sí|Sí|
 |[Office Mobile para iPhone o iPad](../office-applications-service-description/office-applications.md#office-mobile-for-ipadiphone)|No|Sí|Sí|
 |[Office Mobile para Android](../office-applications-service-description/office-applications.md#office-mobile-for-android)|No|Sí|Sí|
 |[Office Mobile para Windows Phone](../office-applications-service-description/office-applications.md#office-mobile-for-windows-phone)|No|Sí|Sí|
@@ -313,7 +313,7 @@ Use las tablas siguientes para comparar la disponibilidad de las característica
 
 > [!NOTE]
 > <sup>1</sup> los planes de Office 365 Germany incluyen aplicaciones de software cliente que se instalan y ejecutan en un dispositivo del usuario final ("aplicaciones de software cliente"), como Office 365 ProPlus, Office 2013 y Office 2016. Las aplicaciones de software cliente no funcionan exclusivamente en los centros de datos alemanes y pueden permitir que un usuario final obtenga acceso a servicios en línea que no son servicios en línea en alemán. A efectos de su contrato con Microsoft, las aplicaciones de software cliente no corresponden a los servicios en línea alemanes. Los compromisos de residencia de datos alemanes y el control de acceso por el administrador de confianza de datos alemán solo se aplican a los servicios en línea alemanes.<br/>
-<sup>2</sup> Office 2013 necesita que [modern authentication be enabled](https://support.office.com/article/Using-Office-365-modern-authentication-with-Office-clients-776c0036-66fd-41cb-8928-5495c0f9168a?ui=en-US&amp;rs=en-US&amp;ad=US&amp;fromAR=1).<br/>
+<sup>2</sup> Office 2013 necesita que [modern authentication be enabled](https://support.office.com/article/776c0036-66fd-41cb-8928-5495c0f9168a).<br/>
 <sup>3</sup> las características de archivado y cumplimiento son compatibles con esta versión de Office, pero los planes de Exchange Online y SharePoint Online no se incluyen y deben adquirirse por separado o usarse con los equivalentes de servidor local admitidos.<br/> <sup>4</sup> Azure Information Protection no se incluye, pero puede adquirirse como un complemento independiente para habilitar las características de IRM admitidas.<br/> <sup>5</sup> Windows Server AD RMS es un servidor local que debe comprarse y administrarse por separado para habilitar las características de IRM admitidas.<br/>
 <sup>6</sup> si tiene Office Professional Plus 2013 o una versión independiente de Excel 2013, puede descargar y usar la [vista previa de Power Map para Excel 2013](https://go.microsoft.com/fwlink/p/?LinkID=397382&amp;clcid=0x409) como un complemento no compatible.<br/>
 <sup>7</sup> Skype empresarial Basic está disponible para todos los clientes. El cliente de escritorio de Skype Empresarial es una aplicación instalada localmente que proporciona funciones de presencia, de mensajería instantánea y de conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus y Office 365 Enterprise E3 incorporan la aplicación de Skype completa, que proporciona características adicionales, incluida la compatibilidad avanzada con telefonía, el archivado y las características de cumplimiento. Debe asignarse una licencia de Skype Empresarial Online a cada usuario. Para obtener más información sobre las características de Lync Basic, consulte [tablas de comparación de clientes de escritorio](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/>
@@ -448,7 +448,7 @@ En la siguiente tabla se enumeran las características de Exchange Online que es
 |Complementos de Outlook y MAPI de Outlook|Sí<sup>16</sup>|Sí<sup>16</sup>|Sí<sup>16</sup>|Sí<sup>16</sup>|Sí<sup>16</sup>|Sí<sup>16</sup>|Sí<sup>16</sup>|No|
 
 > [!NOTE]
-> <sup>1</sup> Exchange 2010 solo admite una implementación híbrida mínima. (La implementación híbrida completa no es compatible con Exchange 2010). Para obtener más información acerca de la implementación híbrida mínima, consulte [usar la migración rápida para migrar buzones de Exchange a Office 365](https://support.office.com/article/Use-express-migration-to-migrate-Exchange-mailboxes-to-Office-365-fdecceed-0702-4af3-85be-f2a0013937ef?ui=en-US&amp;rs=en-US&amp;ad=US).<br/>
+> <sup>1</sup> Exchange 2010 solo admite una implementación híbrida mínima. (La implementación híbrida completa no es compatible con Exchange 2010). Para obtener más información acerca de la implementación híbrida mínima, consulte [usar la migración rápida para migrar buzones de Exchange a Office 365](https://support.office.com/article/fdecceed-0702-4af3-85be-f2a0013937ef).<br/>
 <sup>2</sup> Office 365 Germany Business Essentials y Office 365 Germany Business Premium no ofrecen derechos de acceso para la utilización con servidores locales. Para cumplir con las normas, el cliente debe adquirir o haber adquirido previamente las CAL adecuadas o debe actualizar a Enterprise SKU, que proporciona estos derechos de acceso.<br/>
 <sup>3</sup> no está disponible para Office 365 Germany, pero lo estará próximamente.<br/>
 <sup>4</sup> Azure Information Protection no se incluye, pero puede adquirirse como complemento independiente (o agregarse de forma gratuita al plan de Office 365 Germany Education a1) para habilitar las características de IRM admitidas. El cifrado de mensajes de Office 365 depende de Azure Information Protection.<br/>
@@ -486,7 +486,7 @@ En la siguiente tabla se enumeran las características de Exchange Online Protec
 |[Cuarentena](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): administración del administrador|Sí|Sí|Sí|
 |[Cuarentena](../exchange-online-protection-service-description/anti-spam-and-anti-malware-protection-eop.md#quarantine): autoadministración de usuarios finales|Sí|Sí|Sí|
 |[Gobierno de datos avanzado](https://go.microsoft.com/fwlink/?linkid=716857)<sup>17</sup>|No|Sí|Sí|
-|[Inteligencia sobre amenazas de Office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-ti?redirectSourcePath=%252fen-us%252farticle%252f32405da5-bee1-4a4b-82e5-8399df94c512)<sup>18</sup>|No|Sí|Sí|
+|[Inteligencia sobre amenazas de Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-ti)<sup>18</sup>|No|Sí|Sí|
 |[Notificación de correo no deseado en Outlook en la web](https://docs.microsoft.com/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Sí<sup>8</sup>|No<sup>8</sup>|No<sup>8</sup>|
 |[Enrutamiento de correo electrónico entre Microsoft y sus propios servidores de correo electrónico](../exchange-online-protection-service-description/mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sí|Sí|Sí|
 |[Mensajería segura con un socio de confianza](../exchange-online-protection-service-description/mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sí|Sí|Sí|
@@ -531,10 +531,9 @@ En la siguiente tabla se enumeran las características de Protección contra ame
 
 ## <a name="project-online-features"></a>Características de Project Online
 
-En la siguiente tabla se enumeran las características de Project Online que están disponibles en los planes de Office 365 Germany. Para obtener más información sobre Project Online, vea [Introducción a Project Online](https://www.microsoft.com/en-us/microsoft-365/blog/2014/04/18/join-the-office-365-support-webcast-april-22-getting-started-with-project-online/).<br><br>
-<!-- Do not remove "en-us" from this URL. Since blog posts aren't localized, we need to keep "en-us" in the URL or users in non-English locales will get an error when they click the link. -->
+En la siguiente tabla se enumeran las características de Project Online que están disponibles en los planes de Office 365 Germany. Para obtener más información sobre Project Online, vea [Introducción a Project Online](https://go.microsoft.com/fwlink/?linkid=2144053).<br><br>
 
-| Planear | Descripción | Usuarios de destino |
+| Plan | Descripción | Usuarios de destino |
 |:-----|:-----|:-----|
 |Project Online Essentials| Interfaz basada en web para miembros de un equipo  <br/>  Actualizar tareas, problemas y riesgos  <br/>  Enviar partes de horas  <br/>  Compartir documentos y colaborar con presencia de Skype Empresarial|Integrantes del equipo|
 |Project Online Professional| Todas las funciones de Project Online Essentials, además de:  <br/>  Interfaz de usuario enriquecida a través del cliente de escritorio  <br/>  Acceso en cualquier momento y lugar a través de la interfaz web  <br/>  Programación y valoración de proyectos  <br/>  Administración de recursos  <br/>  Publicación de proyectos en la nube  <br/>  Incluye la versión más actualizada de la aplicación de escritorio de Project, enviada instantáneamente por streaming a su PC con Windows.  <br/>  Cada licencia de suscripción permite hasta cinco instalaciones simultáneas de la aplicación de escritorio de Project.|Jefes de proyecto|

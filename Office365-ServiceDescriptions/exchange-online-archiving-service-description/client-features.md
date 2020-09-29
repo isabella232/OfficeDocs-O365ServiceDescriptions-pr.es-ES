@@ -10,13 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
-description: El archivado de Microsoft Exchange Online permite a los usuarios conectarse a sus buzones de archivo desde distintos dispositivos y plataformas. Toda la conectividad de red con el archivo del usuario se produce a través de Internet y las conexiones de red privada virtual (VPN) no son necesarias. Para permitir el acceso de los usuarios a su buzón principal con Outlook en cualquier lugar, sin necesidad de conexión VPN, las organizaciones pueden publicar en un servidor de acceso de cliente local. Si se requiere acceso a VPN para acceder al buzón de correo principal del usuario en un servidor local, este requisito no cambiará.
-ms.openlocfilehash: 6f29f434f5b6515460ee526450fba4a50bb6c191
-ms.sourcegitcommit: e2ebd2f3e4b6e2ec76a29498dc276fa0f05f18a3
+description: Lea este artículo para obtener información sobre las características de cliente disponibles en archivado de Microsoft Exchange Online.
+ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/26/2020
-ms.locfileid: "47255907"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293646"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Características de cliente de archivado de Exchange Online
 
@@ -29,8 +29,8 @@ El archivado de Microsoft Exchange Online permite a los usuarios conectarse a su
 
 Microsoft Outlook es un programa de correo muy completo que admite calendarios, contactos y tareas. Archivado de Exchange Online es compatible con Outlook 2013, Outlook 2010 Outlook 2007. Entre sus características principales se incluyen:
   
-- **Outlook en cualquier lugar** Outlook en cualquier lugar permite que los usuarios de Outlook se conecten a Exchange Server y archivado de Exchange Online a través de Internet sin necesidad de una conexión VPN. La comunicación entre Outlook y Archivado de Exchange Online se produce mediante un túnel seguro para SSL, con el componente de red de Windows RPC sobre HTTP.    
-- **Detección automática** El servicio Detección automática de Exchange configura Outlook de forma automática para que funcione con Archivado de Exchange Online. La detección automática permite que los usuarios de Outlook reciban la configuración de perfil necesaria directamente desde Exchange la primera vez (y a intervalos fijos posteriores) que inicien sesión con su dirección de correo electrónico y contraseña. 
+- **Outlook Anywhere** : Outlook Anywhere permite que los usuarios de Outlook se conecten a Exchange Server y al archivado de Exchange Online a través de Internet sin necesidad de una conexión VPN. La comunicación entre Outlook y Archivado de Exchange Online se produce mediante un túnel seguro para SSL, con el componente de red de Windows RPC sobre HTTP.    
+- **Autodiscover** : el servicio Detección automática de Exchange configura automáticamente Outlook para que funcione con el archivado de Exchange Online. La detección automática permite que los usuarios de Outlook reciban la configuración de perfil necesaria directamente desde Exchange la primera vez (y a intervalos fijos posteriores) que inicien sesión con su dirección de correo electrónico y contraseña. 
 
 Outlook 2010 y versiones posteriores y Outlook en la web proporcionan a los usuarios las características completas del archivo, así como las características relacionadas, como la retención y las directivas de archivo.
   
@@ -41,12 +41,12 @@ Aunque Outlook 2007 es compatible con la funcionalidad básica de archivo, no pr
   
 ### <a name="clients-supported-by-exchange-online-archiving"></a>Clientes compatibles con Exchange Online Archiving
 
-La tabla siguiente contiene los clientes compatibles con Archivado de Exchange Online:
+La tabla siguiente contiene los clientes compatibles con Archivado de Exchange Online:<br><br>
   
-|**Cliente**|**Compatibilidad con EOA**|
+| Cliente | Compatibilidad con EOA |
 |:-----|:-----|
 |Outlook 2013 y versiones posteriores  <br/> |Compatible con las últimas características de Archivado de Exchange Online.<sup>1</sup> <br/> |
-|Outlook 2010  <br/> |Admite las características más recientes de archivado de Exchange Online solo hasta el Oct. 13, 2020|
+|Outlook 2010  <br/> |Admite las características más recientes de archivado de Exchange Online solo hasta el Oct. 13, 2020|
 |Outlook 2007  <br/> |No admitido |
 |Outlook 2003  <br/> |No se admite  <br/> |
 |Outlook para Mac 2011  <br/> |No se admite  <br/> |

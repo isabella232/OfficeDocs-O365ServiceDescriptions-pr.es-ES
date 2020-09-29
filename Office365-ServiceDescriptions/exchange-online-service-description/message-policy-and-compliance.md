@@ -10,12 +10,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
-ms.openlocfilehash: 5565085472d43230f9059e1dcac115105a2e20d5
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Obtenga información sobre la Directiva de mensajes y el cumplimiento en Exchange Online.
+ms.openlocfilehash: d723d686e3e939753e8007d41b0fdaf0d0363524
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132704"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293836"
 ---
 # <a name="message-policy-and-compliance"></a>Regulación de mensajes y cumplimiento
 
@@ -44,7 +45,7 @@ Solo los datos de mensajería de un usuario pueden almacenarse en cada archivo p
 > [!IMPORTANT]
 > - Con el registro en diario, el uso de reglas de transporte o reglas de transferencia automática para copiar mensajes en un buzón de Exchange Online con fines de archivado no está permitido. Microsoft se reserva el derecho a denegar el archivado ilimitado en casos en los que no se usa un archivo de buzones de correo en un escenario personal o en otros casos de uso inadecuado.
 > - El archivo local tiene requisitos de licencia específicos para usuarios de Outlook. Los usuarios de Outlook 2007 deberán tener actualización acumulada de Office 2007 para febrero de 2011 para poder acceder al archivo personal. 
-> - Exchange online no es compatible con el cmdlet _New-MailboxImportRequest_ de Windows PowerShell de Exchange Server 2010 Service Pack 1 o posterior para la importación de archivos. pst controlados por el administrador en un archivo personal. Si un usuario tiene el buzón principal y el archivo en Exchange Online, un administrador puede usar PST Capture, una herramienta gratuita, para importar datos de archivos .pst al buzón principal o archivo del usuario.
+> - Exchange online no es compatible con el cmdlet  _New-MailboxImportRequest_ de Windows PowerShell de Exchange Server 2010 Service Pack 1 o posterior para la importación de archivos. pst controlados por el administrador en un archivo personal. Si un usuario tiene el buzón principal y el archivo en Exchange Online, un administrador puede usar PST Capture, una herramienta gratuita, para importar datos de archivos .pst al buzón principal o archivo del usuario.
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Archivado basado en nube de buzones locales
 
@@ -72,7 +73,7 @@ Para obtener más información, consulte [Etiquetas de retención y directivas d
   
 ## <a name="encryption-of-data-at-rest"></a>Cifrado de datos en reposo
 
-El cifrado de datos de clientes en reposo se proporciona mediante varias tecnologías de servicio, como BitLocker, DKM, el cifrado de servicio de almacenamiento de Azure y el cifrado de servicios en Exchange Online, Skype empresarial, OneDrive para la empresa y SharePoint Online. El cifrado del servicio de Office 365 incluye una opción para usar las claves de cifrado administradas por el cliente que se almacenan en Azure Key Vault. Esta opción de clave administrada por el cliente, denominada [clave de cliente](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key?redirectSourcePath=%252fen-us%252farticle%252fControlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697), está disponible para Exchange Online, SharePoint Online y OneDrive para la empresa. 
+El cifrado de datos de clientes en reposo se proporciona mediante varias tecnologías de servicio, como BitLocker, DKM, el cifrado de servicio de almacenamiento de Azure y el cifrado de servicios en Exchange Online, Skype empresarial, OneDrive para la empresa y SharePoint Online. El cifrado del servicio de Office 365 incluye una opción para usar las claves de cifrado administradas por el cliente que se almacenan en Azure Key Vault. Esta opción de clave administrada por el cliente, denominada [clave de cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview), está disponible para Exchange Online, SharePoint Online y OneDrive para la empresa. 
   
 ### <a name="bitlocker"></a>BitLocker
 
@@ -96,7 +97,7 @@ El cifrado de mensajes avanzado de Office 365 proporciona protección adicional 
 
 S/MIME le ayuda a proteger información confidencial enviando correo electrónico firmado y cifrado dentro de su organización. Los administradores pueden usar Windows PowerShell remoto para configurar S/MIME tras establecer y emitir certificados PKI para los usuarios. Estos certificados deben sincronizarse desde un servicio de certificados de Active Directory local.
   
-S/MIME es compatible con Microsoft Edge e Internet Explorer 11. Actualmente, S/MIME no es compatible con Firefox, Opera y Chrome. Para obtener más información, consulte [S/MIME para la firma y el cifrado de mensajes](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019).
+S/MIME es compatible con Microsoft Edge e Internet Explorer 11. Actualmente, S/MIME no es compatible con Firefox, Opera y Chrome. Para obtener más información, consulte [S/MIME para la firma y el cifrado de mensajes](https://docs.microsoft.com/Exchange/policy-and-compliance/smime?view=exchserver-2019&preserve-view=true).
   
 ## <a name="in-place-hold-and-litigation-hold"></a>Retención local y retención por juicio
 
@@ -170,7 +171,7 @@ Hoy en día, muchas organizaciones son obligadas por ley, requisitos legales o d
 > [!IMPORTANT]
 > Los tipos de archivo de datos adjuntos que requieren la instalación de iFilters de terceros en el servidor de correo electrónico (como Adobe. pdf) no se pueden inspeccionar con reglas de flujo de correo hasta que se instale un iFilter adecuado. Para obtener más información acerca de los tipos de archivo admitidos por las reglas de flujo de correo, consulte [usar reglas de flujo de correo para inspeccionar datos adjuntos de mensajes en Office 365](https://docs.microsoft.com/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments).
   
-Para obtener más información acerca de las reglas de flujo de correo, consulte [reglas de flujo de correo en Exchange 2016](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019).
+Para obtener más información acerca de las reglas de flujo de correo, consulte [reglas de flujo de correo en Exchange 2016](https://docs.microsoft.com/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?view=exchserver-2019&preserve-view=true).
   
 ## <a name="data-loss-prevention"></a>Prevención de pérdida de datos
 

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 17f16feff60a54d3781089a4f08c0eb6e6fb21c2
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+ms.openlocfilehash: e826db7c1c83a99f468379ea1f387fa4a473c025
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214349"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293796"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -239,7 +239,7 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 
 Los siguientes límites se aplican a todos los mensajes de correo electrónico.
 
-- **Límite de tamaño**de mensajes: los límites de tamaño de los mensajes son necesarios para evitar que los mensajes grandes bloqueen la entrega de otros mensajes y afecten al rendimiento del servicio de todos los usuarios. Estos límites incluyen documentos adjuntos y se aplican a todos los mensajes de la organización (entrantes, salientes e internos). Los mensajes más grandes que este límite no se entregarán y el remitente recibirá un informe de no entrega (NDR). Aunque los límites de tamaño de los mensajes se pueden configurar hacia arriba, abajo o por usuario, los administradores además pueden crear reglas de transporte para limitar el tamaño máximo de un adjunto concreto. Para obtener más información, consulte [Microsoft admite mensajes de correo electrónico más grandes](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- **Límite de tamaño**de mensajes: los límites de tamaño de los mensajes son necesarios para evitar que los mensajes grandes bloqueen la entrega de otros mensajes y afecten al rendimiento del servicio de todos los usuarios. Estos límites incluyen documentos adjuntos y se aplican a todos los mensajes de la organización (entrantes, salientes e internos). Los mensajes más grandes que este límite no se entregarán y el remitente recibirá un informe de no entrega (NDR). Aunque los límites de tamaño de los mensajes se pueden configurar hacia arriba, abajo o por usuario, los administradores además pueden crear reglas de transporte para limitar el tamaño máximo de un adjunto concreto. Para obtener más información, consulte [Microsoft admite mensajes de correo electrónico más grandes](https://go.microsoft.com/fwlink/?linkid=2144144).
 
     > [!NOTE]
     > Algunos clientes de correo electrónico pueden tener límites de tamaño de mensaje más bajos o pueden limitar el tamaño de un archivo adjunto individual a un valor inferior al límite de tamaño de los mensajes de Exchange Online.
@@ -280,7 +280,7 @@ Los siguientes límites se aplican a todos los mensajes de correo electrónico.
 |Límite de profundidad de incrustación de mensajes|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|
 
 > [!NOTE]
-> <sup>1</sup> el tamaño máximo de mensaje predeterminado para los buzones de Microsoft es de 25 MB. Los administradores de Microsoft pueden especificar un límite personalizado entre 1 y 150 MB. Sin embargo, el tamaño de los mensajes que usted puede enviar o recibir también depende de qué admite el cliente de correo electrónico o la solución. Para obtener más información acerca de cómo personalizar el tamaño de mensaje máximo permitido para su organización, vea [Microsoft admite mensajes de correo electrónico de mayor tamaño](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). 
+> <sup>1</sup> el tamaño máximo de mensaje predeterminado para los buzones de Microsoft es de 25 MB. Los administradores de Microsoft pueden especificar un límite personalizado entre 1 y 150 MB. Sin embargo, el tamaño de los mensajes que usted puede enviar o recibir también depende de qué admite el cliente de correo electrónico o la solución. Para obtener más información acerca de cómo personalizar el tamaño de mensaje máximo permitido para su organización, vea [Microsoft admite mensajes de correo electrónico de mayor tamaño](https://go.microsoft.com/fwlink/?linkid=2144144). 
 <br/> <sup>2</sup> puede enviar y recibir hasta 150 MB de mensajes entre usuarios (donde el mensaje nunca deja los centros de seguridad de Microsoft). Los mensajes que se enrutan fuera de los centros de información de Microsoft están sujetos a un aumento de codificación de traducción 33% adicional, en cuyo caso el tamaño máximo del mensaje es de 112 MB. <br/> 
 <sup>3</sup> OWA permite que su mensaje esté sujeto al incremento de codificación del 33 % y limita el tamaño del mensaje que se puede enviar al 25 % menos que el valor configurado. Por ejemplo, si personaliza la configuración de tamaño de mensaje máximo en 100 MB, no se pueden enviar mensajes que superen los 75 MB. 
 <br/> <sup>4</sup> Exchange Online calcula el tamaño de los mensajes que desea mover a Exchange Online. Las versiones de Exchange anteriores a Exchange Server 2013 pueden informar un tamaño de elemento más pequeño. Este límite se aplica a las migraciones basadas en movimiento mediante cualquier servicio de replicación de buzones de correo de Exchange compatible. El límite de tamaño general de los mensajes limita los otros métodos de migración (total, preconfigurada, IMAP, PST) y de otras herramientas de terceros. <br/> 
@@ -309,7 +309,7 @@ Los siguientes límites se aplican a todos los mensajes de correo electrónico.
 |Límite de profundidad de incrustación de mensajes|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|
 
 > [!NOTE]
-> <sup>1</sup> los administradores de Microsoft pueden especificar un límite personalizado entre 1 y 150 MB. Sin embargo, el tamaño de los mensajes que usted puede enviar o recibir también depende de qué admite el cliente de correo electrónico o la solución. Para obtener más información acerca de cómo personalizar el tamaño de mensaje máximo permitido para su organización, vea [Microsoft admite mensajes de correo electrónico de mayor tamaño](https://www.microsoft.com/en-us/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/). <br/> <sup>2</sup> puede enviar y recibir hasta 150 MB de mensajes entre usuarios (donde el mensaje nunca deja los centros de seguridad de Microsoft). Los mensajes que se enrutan fuera de los centros de información de Microsoft están sujetos a un aumento de codificación de traducción 33% adicional, en cuyo caso el tamaño máximo del mensaje es de 112 MB. <br/> 
+> <sup>1</sup> los administradores de Microsoft pueden especificar un límite personalizado entre 1 y 150 MB. Sin embargo, el tamaño de los mensajes que usted puede enviar o recibir también depende de qué admite el cliente de correo electrónico o la solución. Para obtener más información acerca de cómo personalizar el tamaño de mensaje máximo permitido para su organización, vea [Microsoft admite mensajes de correo electrónico de mayor tamaño](https://go.microsoft.com/fwlink/?linkid=2144144). <br/> <sup>2</sup> puede enviar y recibir hasta 150 MB de mensajes entre usuarios (donde el mensaje nunca deja los centros de seguridad de Microsoft). Los mensajes que se enrutan fuera de los centros de información de Microsoft están sujetos a un aumento de codificación de traducción 33% adicional, en cuyo caso el tamaño máximo del mensaje es de 112 MB. <br/> 
 <sup>3</sup> OWA permite que su mensaje esté sujeto al incremento de codificación del 33 % y limita el tamaño del mensaje que se puede enviar al 25 % menos que el valor configurado. Por ejemplo, si personaliza la configuración de tamaño máximo del mensaje en 100 MB, se pueden enviar mensajes que no superen los 75 MB. <br/> 
 <sup>4</sup> Es el límite predeterminado para organizaciones de Exchange Server 2013. Los administradores pueden cambiar este valor para su organización. <br/> 
 <sup>5</sup> Exchange Online calcula el tamaño de los mensajes que se van a mover a Exchange Online. Las versiones de Exchange anteriores a Exchange Server 2013 pueden informar de un tamaño de elemento más pequeño. <br/> 
@@ -431,7 +431,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |Límite de envío de mensajes a un grupo de distribución grande|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
 |Tamaño máximo de mensaje para grupos de distribución con entre 5 000 y 99 999 miembros.|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Tamaño máximo de mensaje para grupos de distribución con 100 000 miembros.|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |10 |10 |
+|Número máximo de propietarios de un grupo de distribución|10  |10  |10  |10  |10  |10  |
 |Número máximo de grupos que un usuario puede crear|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -443,7 +443,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |:-----|:-----|:-----|:-----|:-----|
 |Número máximo de miembros de un grupo de distribución|100 000 miembros<sup>1</sup>|100 000 miembros|100 000 miembros|100 000 miembros|
 |Límite de envío de mensajes a un grupo de distribución grande|5000 o más miembros<sup>1</sup>|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
-|Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |
+|Número máximo de propietarios de un grupo de distribución|10  |10  |10  |10  |
 |Número máximo de grupos que un usuario puede crear|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]

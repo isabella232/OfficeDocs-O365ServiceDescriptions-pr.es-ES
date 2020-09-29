@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 y Office 365 están disponibles en diversos planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: 047da03c7cae7ef907824bdff95a94bd6f15bfb6
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 7cf4d42f1108e4ca303e2150449d3a6767487afc
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261532"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293826"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Microsoft 365 y Office 365
 
@@ -189,7 +189,7 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |EDiscovery avanzado<sup>15</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Puntuación segura<sup>7</sup> de Microsoft <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Inteligencia de amenazas  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
-|**[Cumplen](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
+|**[Cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
 |Evaluaciones SAS 70 / SSAE16  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Certificación ISO 27001  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cláusulas del modelo de UE  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -218,7 +218,7 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 <br/><sup>11</sup> en Office 365 Enterprise F3, Office 365 video se limita a la visualización (no se pueden publicar ni compartir). 
 <br/><sup>12</sup> en Office 365 Enterprise F3, el flujo se limita al consumo y las ejecuciones se limitan a 750 por usuario y mes. 
 <br/><sup>13</sup> solo disponible en los planes de Office 365 Education, incluido Office 365 E5 Education. No está disponible en Office 365 Enterprise E5. 
-<br/><sup>14</sup> para obtener más información, consulte [Service Encryption with Customer Key](https://support.office.com/article/Controlling-your-data-in-Office-365-using-Customer-Key-f2cd475a-e592-46cf-80a3-1bfb0fa17697?ui=en-US&amp;rs=en-US&amp;ad=US). 
+<br/><sup>14</sup> para obtener más información, consulte [Service Encryption with Customer Key](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697). 
 <br/><sup>15</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]).
 <br/><sup>16</sup> consumo solo para Microsoft Stream: sin publicación ni uso compartido.
 <br/><sup>17</sup> a partir del 2019 de mayo, los SKU existentes de Office 365 y Microsoft 365 se rellenarán con Kaizala Pro. A partir del 1 de junio de 2019, Kaizala Pro se incluirá en todas las SKU de Office 365 y Microsoft 365 elegibles.

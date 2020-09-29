@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word para el Web (anteriormente Word Web App) amplía su experiencia de Microsoft Word al explorador Web, donde puede trabajar con documentos directamente en el sitio web en el que está almacenado el documento.
-ms.openlocfilehash: cc6a5f432cc0a89da96042b4879b32545af5dac5
-ms.sourcegitcommit: dcb3fdbf34ed2c2cda083caba2ea94dd64a6eec1
+ms.openlocfilehash: 3f4d2950284a866fc86d05be71976a57a6a17244
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "46616916"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48294056"
 ---
 # <a name="word-for-the-web"></a>Word para la web
 
@@ -40,7 +40,7 @@ Puede descargar un complemento para Word en la Tienda Office. Los complementos d
 
 Word para el Web guarda automáticamente el documento cuando se realizan cambios.
   
-## <a name="autotext"></a>AutoText
+## <a name="autotext"></a>Autotexto
 
 Puede insertar bloques de texto con formato previo con Autotexto desde su Galería de autotexto. Esto es útil, por ejemplo, cuando necesita escribir repetidamente el mismo bloque grande de texto y este contiene mucho formato. Puede crear entradas de autotexto agregando texto seleccionado a la Galería de autotexto. Para obtener más información, vea [Insertar texto automáticamente](https://go.microsoft.com/fwlink/?linkid=846739).
   
@@ -160,7 +160,7 @@ Inserte saltos de página tanto en Word para la web como en la aplicación de es
 
 Con Word para la web, puede ajustar los márgenes, el tamaño del papel y si la página se coloca vertical u horizontalmente en los documentos. Word para la web no muestra las reglas y las líneas de cuadrícula. Obtenga más información sobre las [diferencias entre el uso de un documento en el explorador y en Word](https://go.microsoft.com/fwlink/p/?LinkId=271859). 
   
-Obtenga información sobre cómo [eliminar una página en blanco en Word para el Web](https://support.office.com/en-US/article/Delete-a-blank-page-B583020A-D26C-4661-873C-CB66FBDB03D1).
+Obtenga información sobre cómo [eliminar una página en blanco en Word para el Web](https://support.office.com/article/B583020A-D26C-4661-873C-CB66FBDB03D1).
   
 ## <a name="page-layout-tools-advanced"></a>Herramientas de diseño de página, avanzadas
 
@@ -234,7 +234,7 @@ Con Word para la web, puede guardar una copia del documento localmente.
 
 Puede usar Word para la web para guardar o convertir los archivos a PDF para que pueda compartirlos o imprimirlos mediante impresoras comerciales. Y no necesitará ningún otro software o complemento.
   
-## <a name="share"></a>Share
+## <a name="share"></a>Compartir
 
 Con Word para la web, se trata de un proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información sobre las [diferencias entre el uso de un documento en el explorador y en Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   

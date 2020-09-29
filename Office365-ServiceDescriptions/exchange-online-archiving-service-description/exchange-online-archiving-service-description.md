@@ -12,13 +12,13 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
-description: El archivado de Microsoft Exchange Online es una solución de archivado de clase empresarial, basada en la nube de Microsoft 365, para organizaciones que han implementado Microsoft Exchange Server 2019, Microsoft Exchange Server 2016, Microsoft Exchange Server 2013, Microsoft Exchange Server 2010 (SP2 y posterior), o suscribirse a determinados planes de Exchange online o Microsoft 365. Archivado de Exchange Online ayuda a satisfacer las necesidades de estas organizaciones relacionadas con el archivo, el cumplimiento normativo, las disposiciones legales y la exhibición de documentos electrónicos, al mismo tiempo que simplifica la infraestructura local, reduce costes y facilita el trabajo de TI.
-ms.openlocfilehash: 5039ac00dca0cce5f79eb5bed743e5a4cb1e388b
-ms.sourcegitcommit: 8d17d5df1427a817df15d45eae5f2f3e48d7b12d
+description: Lea este artículo para obtener información sobre el archivado de Microsoft Exchange Online.
+ms.openlocfilehash: 4c83a11a953f29c20c6e7e743403985c465d0aad
+ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48214309"
+ms.lasthandoff: 09/28/2020
+ms.locfileid: "48293642"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de Archivado de Exchange Online
 
@@ -50,7 +50,7 @@ Archivado de Exchange Online está disponible a través de los siguientes planes
   
 ¿Busca información sobre todos los planes de 365 de Microsoft? Microsoft 365 está disponible en diversos planes para satisfacer mejor las necesidades de su organización. Para obtener información acerca de los diferentes planes, incluidas las opciones de planes independientes e información sobre cómo cambiar de un plan a otro, consulte [Opciones del plan 365 de Office](../office-365-platform-service-description/office-365-plan-options.md).
   
-## <a name="requirements"></a>Requirements
+## <a name="requirements"></a>Requisitos
 
 Para usar el archivado de Exchange Online para Exchange Server, los buzones de correo de los usuarios deben residir en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange Server 2010 (SP2 o posterior).
   
