@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Vea qué características están disponibles en los distintos planes de Yammer.
-ms.openlocfilehash: 5465dc6dadfd69ae365cda70cbc07b54b0bb5220
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 6a0a95ba335fc6b75c1730b101b55d052a69cd95
+ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276742"
+ms.lasthandoff: 10/09/2020
+ms.locfileid: "48408256"
 ---
 # <a name="yammer-service-description"></a>Descripción del servicio Yammer
 
 Yammer es la mejor red social de su clase, segura y privada empresarial. Yammer faculta a los empleados para que sean más productivos y exitosos, ya que les permite colaborar fácilmente, tomar decisiones con mayor rapidez y organizarse a sí mismos en Teams para realizar cualquier desafío de la empresa. Se trata de una nueva forma de trabajar que lógicamente impulsa la alineación y la agilidad de los negocios, reduce los tiempos de ciclo, implica a los empleados y mejora las relaciones con clientes y socios.
   
-Para obtener una lista de los planes que incluyen Yammer, consulte [Microsoft Service Families and Plans](../office-365-platform-service-description/office-365-plan-options.md#office-365-service-families-and-plans).
+Para obtener una lista de los planes que incluyen Yammer, consulte [Microsoft Service Families and Plans](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans).
   
 Para comparar las características de los planes, consulte [herramientas eficaces para apoyar a su empresa](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409).
   
@@ -34,7 +34,7 @@ Para conocer los requisitos del sistema para Office 365, el servicio de suscripc
 
 Yammer está disponible con los siguientes planes:<br><br>
   
-| Plan | Descripción |
+| Planear | Descripción |
 |:-----|:-----|
 |[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |Red social empresarial disponible en cualquier lugar y en cualquier momento.  <br/> |
 |[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Red social empresarial con características avanzadas de seguridad, administración e integración.  <br/> |
