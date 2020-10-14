@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para los planes de Microsoft 365 y independientes.
-ms.openlocfilehash: 5563789395bbf1113e29fb368997aeba53119bc3
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 15acfde2ceb9a2ff62e2905c1796253a2117f7c1
+ms.sourcegitcommit: df00a1b12b1f5288fb756f1c002ec46ce6e0e5db
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276725"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48447347"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -48,9 +48,9 @@ Una lista puede tener hasta 30 millones elementos y una biblioteca puede tener h
 
 ### <a name="unique-permissions-for-items-in-a-list-or-library"></a>Permisos exclusivos para los elementos de una lista o biblioteca
 
-El límite permitido es 50.000 de elementos con permisos únicos, pero el límite general recomendado es 5.000. Realizar cambios en más de 5.000 elementos con permisos únicos a la vez lleva más tiempo. Para listas de gran tamaño, diseñe para que tenga el menor número de permisos únicos posible.
+El límite permitido es 50.000 elementos con permisos únicos, pero el límite general recomendado es 5.000. Realizar cambios en más de 5.000 elementos con permisos únicos a la vez lleva más tiempo. Para listas de gran tamaño, diseñe para que tenga el menor número de permisos únicos posible.
 
-Otro límite es 5.000 asignaciones de funciones por elemento con permisos exclusivos. 
+Otro límite es 5.000 asignaciones de funciones por elemento con permisos únicos. 
 
 ### <a name="file-size-and-file-path-length"></a>Tamaño de archivo y longitud de la ruta de archivo
 
@@ -66,9 +66,9 @@ La copia/traslado de varios archivos en una sola operación tiene tres requisito
 
 ### <a name="sync"></a>Sincronizar
 
-**Nueva aplicación de sincronización de OneDrive** : para obtener un rendimiento óptimo, se recomienda almacenar un máximo de 300.000 archivos por usuario en todas las bibliotecas de documentos sincronizadas, incluso si usa archivos a petición o si elige solo algunas carpetas de las bibliotecas para sincronizar.
+**Aplicación de sincronización de OneDrive (OneDrive.exe) actual** : para obtener un rendimiento óptimo, le recomendamos que no almacene más de 300.000 archivos por usuario en todas las bibliotecas de documentos sincronizadas, incluso si usa archivos a petición o si elige solo algunas carpetas de las bibliotecas que se van a sincronizar.
 
-**Aplicación de sincronización anterior de OneDrive para la empresa (Groove.exe)** : puede sincronizar hasta 20.000 elementos en total en todas las bibliotecas sincronizadas. Esto incluye bibliotecas de OneDrive, bibliotecas de sitios de grupo o ambas. Aparte del límite general de sincronización, hay límites en el número de elementos que se pueden sincronizar para cada tipo de biblioteca:
+**Aplicación de sincronización anterior de OneDrive para la empresa (Groove.exe usado con entornos de SharePoint locales más antiguos)** : puede sincronizar el total de hasta 20.000 elementos en todas las bibliotecas sincronizadas. Esto incluye bibliotecas de OneDrive, bibliotecas de sitios de grupo o ambas. Aparte del límite general de sincronización, hay límites en el número de elementos que se pueden sincronizar para cada tipo de biblioteca:
 
    - Puede sincronizar hasta 20.000 elementos en una biblioteca de OneDrive. Esto incluye carpetas y archivos. 
    - Puede sincronizar hasta 5.000 elementos en una biblioteca de SharePoint. Esto incluye carpetas y archivos. Estas son las bibliotecas que se encuentran en varios sitios de SharePoint, como sitios de grupo y sitios de la comunidad, bibliotecas que otras personas crearon o que ha creado desde la página sitios. Puede sincronizar varias bibliotecas de SharePoint. Los sitios de grupo que sincronice también contarán con el límite global de elementos 20.000 en todas las bibliotecas sincronizadas.
@@ -117,6 +117,6 @@ Un usuario puede pertenecer a 5.000 grupos por sitio (colección de sitios) y ca
 > [!NOTE]
 > No hay ningún límite en el número de invitados que puede invitar a los sitios de SharePoint. Para obtener más información sobre el uso compartido externo, vea [external Sharing Overview](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 [Límites de búsqueda de SharePoint](/sharepoint/search-limits)
