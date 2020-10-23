@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Necesita una comparación de características de las suscripciones que incluyen Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: b3abce805be8cfefd9a65e72f5ec2b0f2b2ac653
-ms.sourcegitcommit: 1e0e3f5a43431e9a732ee2ca4459332c410b07e7
+ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48245695"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661288"
 ---
 # <a name="exchange-online-service-description"></a>Descripción de servicio de Exchange Online
 
@@ -52,6 +52,9 @@ Microsoft 365 está disponible en diversos planes para satisfacer mejor las nece
 Cada usuario que tiene acceso al servicio de Exchange Online debe tener asignado un plan de suscripción, y cada suscripción de usuario tiene su propio buzón. Las carpetas y mensajes de estos buzones residen en un ordenador que ejecuta Exchange Server en un centro de datos de Microsoft.
   
 Las suscripciones de usuario no son necesarias para salas de conferencias y buzones compartidos. Estos tipos de buzones especiales no tienen credenciales de inicio de sesión. En cambio, los usuarios con licencia con los permisos adecuados los administran y obtienen acceso a ellos mediante delegación.
+
+**Derechos de uso del buzón de usuario de Microsoft 365 F1** <br/>
+Microsoft 365 F1 no incluye derechos en un buzón de Exchange. Para habilitar una experiencia completa de Microsoft Teams, las licencias de M365 F1 pueden incluir el plan de servicios de Exchange Online K1 habilitado. Aunque el plan de servicios de Exchange Online K1 aprovisionará un buzón para el usuario, M365 F1 los usuarios no tienen derecho a usar el buzón. Le recomendamos que deshabilite Outlook en la web mediante [estos pasos](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) y le pida a los usuarios que no tengan acceso al buzón de Exchange a través de otros métodos.
   
 ## <a name="system-requirements-for-exchange-online"></a>Requisitos del sistema para Exchange Online
 

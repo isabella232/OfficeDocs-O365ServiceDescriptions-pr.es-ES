@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: b7a1793b049b1e38bc7821c94befd1eab5d7eb55
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
+ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294166"
+ms.lasthandoff: 10/22/2020
+ms.locfileid: "48661298"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -164,7 +164,7 @@ A continuación, se indican las ventajas para los usuarios del servicio de admin
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Los clientes con Office 365 E1/a1/E3/a3 y las licencias de 365 E3/a3 de Microsoft podrán tener acceso a la evaluación de línea base de protección de datos. Los clientes con licencias de Office 365 E5/A5 y Microsoft 365 E5/A5 podrán tener acceso a las evaluaciones de línea base de protección de datos, RGPD, NIST 800-53 e ISO 22701. Los clientes deben tener al menos una licencia de Office 365 E5/A5 o Microsoft 365 E5/A5 para usar la característica de evaluación personalizada. Las evaluaciones Premium estarán disponibles para su compra a los clientes de Office 365 E5/A5 y Microsoft 365 E5/A5.
+Los clientes con licencias de Office 365 E5/A5 y Microsoft 365 E5/A5 podrán tener acceso a las evaluaciones de línea base de protección de datos, RGPD, NIST 800-53 e ISO 27001, así como usar la característica de evaluación personalizada. Las evaluaciones Premium estarán disponibles para su compra a los clientes de Office 365 E5/A5 y Microsoft 365 E5/A5.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
