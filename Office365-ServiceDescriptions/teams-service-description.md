@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams ofrece mensajería instantánea, colaboración de archivos y datos, llamadas de audio y vídeo, reuniones en línea enriquecidas, experiencias móviles y capacidades de conferencia web amplias.
-ms.openlocfilehash: e9e537fc9c9bb54110d126d6007dcc209ebaa0e8
-ms.sourcegitcommit: e201e94eff3463c71d5c4b24db0148eee351fb1c
+ms.openlocfilehash: bd97ba4813fb9247afb478ddf1d9469a68fef6dc
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "48175187"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773444"
 ---
 # <a name="microsoft-teams-service-description"></a>Descripción del servicio Microsoft Teams
 
@@ -35,11 +35,11 @@ Para su referencia, hemos incluido esta tabla maestra de las suscripciones que p
 |  <br/> |Microsoft 365 E3 <br/> |  <br/> |  <br/> |
 |  <br/> |Microsoft 365 E5 <br/> |  <br/> |  <br/> |
 
-Para obtener instrucciones detalladas sobre la implementación de la característica del producto, consulte la [documentación del administrador de Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams). Esta descripción de servicio detalla las diferencias clave entre los servicios que se proporcionan en las distintas instalaciones en la nube. Las funciones principales de Microsoft Teams no difieren entre las suscripciones. La disponibilidad de las capacidades de cumplimiento depende del nivel de su suscripción. Para obtener más información, consulte [seguridad y cumplimiento en Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Para obtener una lista detallada de las características disponibles en cada suscripción, consulte la descripción del servicio de la [plataforma Microsoft 365 y Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
+Para obtener instrucciones detalladas sobre la implementación de la característica del producto, consulte la [documentación del administrador de Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams). Esta descripción de servicio detalla las diferencias clave entre los servicios que se proporcionan en las distintas instalaciones en la nube. Las funciones principales de Microsoft Teams no difieren entre las suscripciones. La disponibilidad de las capacidades de cumplimiento depende del nivel de su suscripción. Para obtener más información, consulte [seguridad y cumplimiento en Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Para obtener una lista detallada de las características disponibles en cada suscripción, consulte la descripción del servicio de la [plataforma Microsoft 365 y Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
-**Características de voz en la nube**: para audioconferencia, su organización debe comprar y asignar una licencia de conferencia de audio a cada usuario que vaya a configurar reuniones de acceso telefónico local. Para las características de Microsoft teams que requieren planes de llamada, cada usuario necesita un sistema telefónico y un plan de llamadas nacionales o nacionales e internacionales. Para obtener más información, consulte [licencias de complementos de Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
+**Características de voz en la nube** : para audioconferencia, su organización debe comprar y asignar una licencia de conferencia de audio a cada usuario que vaya a configurar reuniones de acceso telefónico local. Para las características de Microsoft teams que requieren planes de llamada, cada usuario necesita un sistema telefónico y un plan de llamadas nacionales o nacionales e internacionales. Para obtener más información, consulte [licencias de complementos de Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
 
-**Eventos en directo**: esta oferta en Office 365 reemplaza a la difusión de reunión de Skype retirada. Las funciones de eventos en directo están disponibles para los planes de licencias como se detalla en el servicio de transmisión por secuencias. Consulte los detalles de la [licencia de Microsoft Stream](https://docs.microsoft.com/stream/license-overview). Se puede tener acceso al servicio de eventos en directo a través de Stream, Yammer o Microsoft Teams. Para obtener más información sobre las funcionalidades de eventos activos, vea [eventos en directo en microsoft 365 en Yammer, Microsoft Teams y Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
+**Eventos en directo** : esta oferta en Office 365 reemplaza a la difusión de reunión de Skype retirada. Las funciones de eventos en directo están disponibles para los planes de licencias como se detalla en el servicio de transmisión por secuencias. Consulte los detalles de la [licencia de Microsoft Stream](https://docs.microsoft.com/stream/license-overview). Se puede tener acceso al servicio de eventos en directo a través de Stream, Yammer o Microsoft Teams. Para obtener más información sobre las funcionalidades de eventos activos, vea [eventos en directo en microsoft 365 en Yammer, Microsoft Teams y Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
 
 Todos los planes de suscripción admitidos son aptos para acceder al cliente web de Microsoft Teams, los clientes de escritorio y las aplicaciones móviles.
 
@@ -59,13 +59,14 @@ En esta tabla se muestra la disponibilidad de las características de Microsoft 
 |Pantalla que comparte el escritorio de audio y vídeo de PowerPoint <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Voz  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Audioconferencia  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Aplicaciones, bots & conectores  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>3</sup>  <br/> |Sí<sup>3</sup>  <br/> |Sí<sup>3</sup>  <br/> |Sí  <br/> |
-|Eventos en directo  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No<sup>4</sup>  <br/> |No<sup>4</sup>  <br/> |Sí  <br/> |
+|Aplicaciones, bots & conectores  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>4</sup>  <br/> |Sí<sup>4</sup>  <br/> |Sí<sup>3, 4</sup>  <br/> |Sí  <br/> |
+|Eventos en directo  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |N°<sup>5</sup>  <br/> |N°<sup>5</sup>  <br/> |Sí  <br/> |
 
-> <sup>1</sup>  Microsoft Teams en gcc-High y DoD admiten miembros de 2500 en un equipo individual.<br/>
+> <sup>1</sup>  Microsoft Teams en GCC-High y DoD admiten miembros de 2500 en un equipo individual.<br/>
 > <sup>2</sup> Microsoft Planner no está disponible actualmente para acceder a los canales privados.<br/>
-> <sup>3</sup> Microsoft OneNote no está disponible en nubes DoD. Las aplicaciones y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
-> <sup>4</sup> los eventos en directo no están disponibles en gcc-High o Dod en este momento.<br/>
+> <sup>3</sup> Microsoft OneNote no está disponible en nubes DoD.<br/>
+> <sup>4</sup> las aplicaciones y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
+> <sup>5</sup> los eventos en directo no están disponibles en el GCC-High o Dod en este momento.<br/>
 
 ## <a name="next-steps"></a>Pasos siguientes
 

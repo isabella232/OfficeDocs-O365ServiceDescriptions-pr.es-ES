@@ -15,12 +15,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización.
-ms.openlocfilehash: 213f3bef10445ac8964e356f3438b9fd3fe100cf
-ms.sourcegitcommit: 31d4c11cf5ee60bed67074fe57b1cae5ef232a7c
+ms.openlocfilehash: 5e8b187cb0148215340b1ac83bb9df4ee6b70de0
+ms.sourcegitcommit: 9c453d611e9e06aa2f86719b8e09e5a8654ecd29
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "48408226"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "48773454"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Opciones de plan de Microsoft 365 y Office 365
 
@@ -49,8 +49,8 @@ Cada plan de Microsoft 365 o Office 365 incluye una serie de servicios individua
 | Servicio | Aplicaciones de Microsoft 365 | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1  | Microsoft 365 E3/Office 365 E3 | Microsoft 365 E5/Office 365 E5<sup>3,</sup><sup>15</sup> | Microsoft 365 F3/Office 365 F3 | Microsoft 365 F1 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Plataforma Office 365  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Exchange Online  <br/> |No  <br/> |Sí<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |Sí<sup>6</sup> <br/> |Sí<sup>6</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>16</sup> <br/> |
-|SharePoint Online  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>17</sup> <br/> |
+|Exchange Online  <br/> |No  <br/> |Sí<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |Sí<sup>5</sup> <br/> |Sí<sup>6</sup> <br/> |Sí<sup>6</sup> <br/> |Sí<sup>8</sup> <br/> |No<sup>16</sup> <br/> |
+|SharePoint Online  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>17</sup> <br/> |
 |OneDrive  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>4</sup> <br/> |Sí<sup>4</sup> <br/> |
 |Skype empresarial online <sup>14</sup> <br/> |No  <br/> |Sí<sup>9</sup> <br/> |Sí<sup>9</sup> <br/> |Sí<sup>9</sup> <br/> |Sí<sup>9</sup> <br/> |Sí<sup>10</sup> <br/> |Sí<sup>12</sup> <br/> |Sí<sup>13</sup> <br/> |Sí<sup>13</sup> <br/> |
 |Office para la web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |N°<sup>18</sup> <br/> |
@@ -76,7 +76,7 @@ Cada plan de Microsoft 365 o Office 365 incluye una serie de servicios individua
 <sup>13</sup> incluye Skype empresarial online (plan 1).<br>
 <sup>14</sup> Microsoft Teams ahora es el cliente principal para mensajería, reuniones y llamadas en Microsoft 365. A partir de la Oct. 1, 2018, los nuevos clientes con 500 puestos o menos están incorporados a Microsoft Teams y no tienen acceso a Skype empresarial online. Los inquilinos que ya usan Skype empresarial online pueden seguir haciéndolo (incluido el aprovisionamiento de nuevos usuarios) hasta que completen la transición a Microsoft Teams.<br>
 <sup>15</sup> incluye el cumplimiento de Microsoft 365 E5, que proporciona clasificación y retención automáticas, clave de cliente, cifrado de mensajes avanzado, administración de riesgos de Insider, cumplimiento de la comunicación, barreras de la información, caja de comprobación del cliente, administración del acceso con privilegios, auditoría avanzada, administración de registros y funcionalidades avanzadas de eDiscovery; y Microsoft 365 E5 Security, que incluye Office 365 el plan 2 de la protección contra amenazas avanzada (ATP), Microsoft defender ATP, el plan 2 de Azure Active Directory, Azure ATP, Microsoft Cloud App Security y documentos seguros.<br>
-<sup>16</sup> los usuarios de Microsoft 365 F1 están aprovisionados el servicio de quiosco de Exchange planea habilitar solo el calendario de Teams, sin derechos para implementar buzones de correo.<br>
+<sup>16</sup> Microsoft 365 F1 no incluye derechos en un buzón de Exchange. Para habilitar la experiencia completa de Microsoft Teams, las licencias de M365 F1 pueden incluir el plan de servicios de Exchange Online K1 habilitado. Aunque el plan de servicios de Exchange Online K1 aprovisionará un buzón para el usuario, M365 F1 los usuarios no tienen derecho a usar el buzón. Se recomienda que los clientes deshabiliten Outlook en la web mediante [estos pasos](https://docs.microsoft.com/exchange/recipients-in-exchange-online/manage-user-mailboxes/enable-or-disable-outlook-web-app) y pidan a los usuarios que no tengan acceso al buzón de Exchange a través de otros métodos.<br>
 <sup>17</sup> incluye el quiosco de SharePoint Online. No puede ser administradores. Sin buzón de sitio. Sin sitio personal.<br>
 <sup>18</sup> los usuarios de Microsoft 365 F1 pueden leer archivos mediante Office para la web, pero no tienen derechos de creación, edición y guardado. 
   
