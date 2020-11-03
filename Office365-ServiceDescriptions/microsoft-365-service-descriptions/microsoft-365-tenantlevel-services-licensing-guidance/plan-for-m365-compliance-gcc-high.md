@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades del gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government – GCC High es apropiado para cumplir estos requisitos.
-ms.openlocfilehash: 3cbe9271b8e23467fc7934e5847d8433ea5a6768
-ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
+ms.openlocfilehash: 8101a5801b01ba3c2d6e72e28cc0ce482b17ac8b
+ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48793671"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830361"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan para Microsoft 365 Compliance – GCC High
 
@@ -57,7 +57,7 @@ Le recomendamos que tenga tiempo para revisar minuciosamente la configuración d
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>Paso 4. Comprenda las funcionalidades que actualmente no están disponibles o deshabilitadas de forma predeterminada en Microsoft 365 Government – GCC-High<sup>1</sup>
 
-Para cumplir los requisitos de nuestros clientes de la nube de administración pública, existen algunas diferencias entre los planes de Microsoft 365 Government – GCC-High y Enterprise. Consulte la tabla siguiente para ver las características que están disponibles.<br><br>
+Para cumplir los requisitos de nuestros clientes de la nube de administración pública, existen algunas diferencias entre los planes de Microsoft 365 Government – GCC-High y Enterprise. Consulte la tabla siguiente para ver las características que están disponibles. Consulte [aquí](https://www.microsoft.com/microsoft-365/roadmap?filters=GCC%2CGCC%20High%2CDoD%2CMicrosoft%20Information%20Protection%2CMicrosoft%20Compliance%20center%2COffice%20365%20Data%20Loss%20Prevention%2CSecurity%20and%20Compliance%20center#owRoadmapMainContent) para obtener las últimas actualizaciones de productos de cumplimiento publicadas en el plan de desarrollo de Microsoft 365.<br><br>
 
 | Área                                    | Característica                                         | Estado GCC             |
 | --------------------------------------- | ----------------------------------------------- | ---------------------- |
@@ -65,30 +65,32 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Coincidencia exacta de datos          | Disponible              |
 |                                         | Clasificación y etiquetado automáticos para Exchange Online, SharePoint Online y OneDrive                      | Publicación              |
 |                                         | Clasificación y etiquetado automáticos para las aplicaciones de Office (Word, Excel, PowerPoint, Outlook) en Web, Android, iOS, Windows y Mac            | En desarrollo |
-|                                         | Directivas basadas en clasificación con Office 365 grupos |  Publicación              |
-|                                         | Clasificación y etiquetado automáticos para dispositivos móviles                                       |Sobre el trabajo pendiente de ingeniería              |
-|                                         | Clasificación y etiquetado automáticos para Teams                            |Sobre el trabajo pendiente de ingeniería |
-|                                         | Clasificación de datos: información general y explorador de actividad de contenido                            | Sobre el trabajo pendiente de ingeniería |
-|                                         | Clasificadores de aprendizaje en equipo con etiquetado automático                           | Sobre el trabajo pendiente de ingeniería  |
+|                                         | Clasificación y etiquetado automáticos para clientes de Office (móvil)                                       | Sobre el trabajo pendiente de ingeniería              |
+|                                         | Clasificación y etiquetado automáticos para Teams                            | Sobre el trabajo pendiente de ingeniería |
+|                                         | Análisis de clasificación de datos: información general y explorador de contenido                            | Sobre el trabajo pendiente de ingeniería |
+|                                         | Análisis: clasificadores de aprendizaje en equipo con etiquetado automático en el lado del servicio                           | Sobre el trabajo pendiente de ingeniería  |
+|                                         | Análisis: clasificadores de aprendizaje en equipo con etiquetado automático en aplicaciones de Office/lado del cliente                           | Sobre el trabajo pendiente de ingeniería  |
 |                                         | Cifra básico de mensajes de Office 365 (E3)                            | Disponible              |
 |                                         | Cifrado avanzado de mensajes de Office 365 (e5)  | Disponible              |
 |                                         | Clave del cliente de Office 365    | Disponible |
 |                                         | Traer su propia clave (BYOK) para el ciclo de vida de aprovisionamiento de claves administradas por el cliente                            | Disponible |
 |                                         | Mantenga su propia clave (HYOK) que abarca Azure Information Protection y Active Directory (AD) Rights Management (AD) Rights Management para escenarios altamente regulados (versión preliminar)                         | Disponible |
-|                                         | Cifrado de claves doble                           | En desarrollo |
-|                                         | Co-autoría en documentos cifrados mediante WXP Web Apps         | Sobre el trabajo pendiente de ingeniería |
-|                                         | Prevención de pérdida de datos para archivos y correo electrónico         | Disponible |
-|                                         | Prevención de pérdida de datos para conversaciones de canales y chat de Microsoft Teams | Sobre el trabajo pendiente de ingeniería |
-|                                         | Extremo de prevención de pérdida de datos | Sobre el trabajo pendiente de ingeniería |
+|                                         | Cifrado de claves doble                           | Disponible |
+|                                         | Cifrado: co-autoría en documentos cifrados con aplicaciones Web de WXP         | Sobre el trabajo pendiente de ingeniería |
+|                                         | Prevención de pérdida de datos (DLP) para archivos y correo electrónico         | Disponible |
+|                                         | DLP para las conversaciones de canales y chat de Microsoft Teams | Sobre el trabajo pendiente de ingeniería |
+|                                         | Punto de conexión de DLP | Sobre el trabajo pendiente de ingeniería |
 | **Gobierno de la información** | Gobierno de la información: archivado de correo electrónico                                       | Disponible              |
 |                                         | Gobierno de la información: bloqueo de preservación          | Disponible              |
 |                                         | Gobierno de la información: PST de importación                      | Disponible              |
 |                                         | Gobierno de la información: etiquetas de retención manuales sin registro            | Disponible |
 |                                         | Gobierno de la información: etiquetas de retención predeterminadas para las bibliotecas de documentos, las carpetas y las bibliotecas de documentos de SharePoint/OneDrive para la empresa; Buzones de Exchange; y Office 365 grupos | Disponible              |
 |                                         | Gobierno de la información: directivas de retención para toda la organización; ubicaciones o usuarios específicos; automáticamente en función de una condición específica (por ejemplo, palabras clave o información confidencial); y se basa en un evento                                       | Disponible              |
+|                                         | Gobierno de la información: directivas de retención para Teams                            | Sobre el trabajo pendiente de ingeniería |
 |                                         | Gobierno de la información: etiquetas de retención con la clasificación Syntex de SharePoint                            | Sobre el trabajo pendiente de ingeniería |
-|                                         | Gobierno de la información: directivas de retención con clasificador capacitado                            | Sobre el trabajo pendiente de ingeniería |
-|                                         | Gobierno de la información: directivas de retención para Yammer y Teams                            | Sobre el trabajo pendiente de ingeniería |
+|                                         | Gobierno de la información: directivas de retención con clasificadores capacitados                            | Sobre el trabajo pendiente de ingeniería |
+|                                         | Gobierno de la información: directivas de retención para la grabación de reuniones de Microsoft Teams                            | Sobre el trabajo pendiente de ingeniería |
+|                                         | Gobierno de la información: directivas de retención para Yammer                            | Sobre el trabajo pendiente de ingeniería |
 |                                         | Administración de registros: clasificación manual para etiquetas de registros                           | Disponible              |
 |                                         | Administración de registros: etiquetas de registros predeterminadas para SharePoint, bibliotecas de documentos, carpetas y bibliotecas de OneDrive para la empresa; y Office 365 grupos                              | Disponible              |
 |                                         | Administración de registros: directivas de registro automáticas basadas en condiciones específicas (por ejemplo, palabras clave o información confidencial); y se basa en un evento                            | Disponible              |
@@ -97,17 +99,18 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Administración de registros: prueba de la eliminación                            | Disponible |
 |                                         | Administración de registros: control de versiones de registros                         | Disponible |
 |                                         | Administración de registros: registros normativos                         | Sobre el trabajo pendiente de ingeniería |
-|                                         | Administración de registros: obligatoriedad de licencia                           | Sobre el trabajo pendiente de ingeniería |
 |                                         | Administración de registros: revisión de disposición en varias fases | Sobre el trabajo pendiente de ingeniería |
-|                                         | Administración de registros: explorador de actividades de etiqueta | Sobre el trabajo pendiente de ingeniería |
-|                                         | Administración de registros: clasificadores capacitados | Sobre el trabajo pendiente de ingeniería |
-| **Administración de riesgos de Insider**             | Caja de seguridad del cliente                                | Disponible            |
+|                                         | Administración de registros: usar la clasificación de SharePoint Syntex para aplicar etiquetas de registro | Sobre el trabajo pendiente de ingeniería |
+| **Administración de riesgos internos**             | Caja de seguridad del cliente                                | Disponible            |
 |                                         | Administración de riesgos de Insider: indicadores de Office para Teams, sitios de SharePoint, mensajes de correo electrónico                         | En desarrollo |
 |                                         | Administración de riesgos de Insider: robo de datos al pertenecer a los usuarios                        | En desarrollo |
 |                                         | Administración de riesgos de Insider: pérdidas de datos generales                                | En desarrollo              |
 |                                         | Administración de riesgos de Insider: investigar alertas de administración de riesgos de Insider                                   | En desarrollo              |
 |                                         | Administración de riesgos de Insider: panel de casos, explorador de contenido y plantillas de aviso | En desarrollo |
 |                                         | Administración de riesgos de Insider: escalar para la investigación de eDiscovery avanzado | En desarrollo|
+|                                         | Administración de riesgos de Insider: indicadores de dispositivos de actividad en Windows 10 compilación 1809 y posteriores | Sobre el trabajo pendiente de ingeniería|
+|                                         | Administración de riesgos de Insider: indicadores de infracción de la Directiva de seguridad (versión preliminar) | Sobre el trabajo pendiente de ingeniería|
+|                                         | Administración de riesgos de Insider: indicadores para alertas de ATP de Windows Defender (versión preliminar) | Sobre el trabajo pendiente de ingeniería|
 |                                         | Administración de riesgos de Insider: plantillas de directiva para pérdidas de datos por usuarios con prioridad (versión preliminar) | Sobre el trabajo pendiente de ingeniería |
 |                                         | Administración de riesgos de Insider: plantillas de directiva para pérdidas de datos por usuarios descontentos (versión preliminar) | Sobre el trabajo pendiente de ingeniería |
 |                                         | Administración de riesgos de Insider: plantillas de directiva para infracciones de directivas de seguridad generales (versión preliminar) | Sobre el trabajo pendiente de ingeniería |
@@ -120,8 +123,17 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Cumplimiento de comunicaciones (directivas de control incl.): alertas de acceso; plantillas de aviso; panel de directivas de comunicación | En desarrollo  |
 |                                         | Cumplimiento de la comunicación (con directivas de supervisión): escalar para la investigación para la exhibición avanzada de documentos electrónicos | En desarrollo |
 |                                         | Cumplimiento de comunicaciones (incluye directivas de supervisión): detección de contenido para adultos | En desarrollo |
+|                                         | Cumplimiento de la comunicación (con directivas de supervisión): detecta la infracción del código de conducta en el tiempo | Publicación |
+|                                         | Cumplimiento de comunicaciones (incl. directivas de supervisión): compatibilidad con permisos más granulares | Publicación |
+|                                         | Cumplimiento de comunicaciones (incl. directivas de supervisión): analizar datos de chat de usuarios con un buzón local | Publicación |
+|                                         | Cumplimiento de comunicaciones (con directivas de supervisión): conflicto de plantilla de interés | Sobre el trabajo pendiente de ingeniería |
+|                                         | Cumplimiento de la comunicación (con directivas de supervisión): capacidad para omitir la firma de correo electrónico o renuncia | Sobre el trabajo pendiente de ingeniería |
+|                                         | Cumplimiento de comunicaciones (incl. directivas de supervisión): entrega de administración de riesgos de Insiders | Sobre el trabajo pendiente de ingeniería |
+|                                         | Cumplimiento de comunicaciones (incl. directivas de supervisión): comprobación de estado de la Directiva y capacidad para pausar la Directiva | Sobre el trabajo pendiente de ingeniería |
+|                                         | Cumplimiento de comunicaciones (incl. directivas de supervisión): convertir el contenido de mantenimiento durante la investigación | Sobre el trabajo pendiente de ingeniería |
+|                                         | Cumplimiento de la comunicación (con directivas de supervisión): Burnout y Suicide Detection | Sobre el trabajo pendiente de ingeniería |
 |                                         | Barreras de información | Sobre el trabajo pendiente de ingeniería |
-|                                         | Privileged Access Management                    | Sobre el trabajo pendiente de ingeniería |
+|                                         | Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
 | **Detección de & responder**                  | Exhibición de documentos electrónicos principal: preservación local                            | Disponible              |
 |                                         | Exhibición de documentos electrónicos principal: administración de casos                                 | Disponible              |
 |                                         | Exhibición de documentos electrónicos principal: búsqueda                                          | Disponible              |
@@ -131,6 +143,8 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Exhibición de documentos electrónicos principal: auditoría                                        | Disponible              |
 |                                         | Exhibición de documentos electrónicos principal: Centro de cumplimiento de Microsoft compatibilidad expandida para buscar y exportar elementos en SharePoint y en la papelera de reciclaje de OneDrive para la empresa                                        | En desarrollo              |
 |                                         | Exhibición avanzada de documentos electrónicos: procesamiento avanzado                             | Disponible |
+|                                         | EDiscovery avanzado: custodio a asignación de carga de trabajo                             | Disponible |
+|                                         | Exhibición avanzada de documentos electrónicos: comunicaciones de custodios                             | Disponible |
 |                                         | Exhibición avanzada de documentos electrónicos: panel                             | Disponible |
 |                                         | EDiscovery avanzado: subprocesamiento de correo electrónico                                 | Disponible |
 |                                         | EDiscovery avanzado: exportar (descargar, exportar, agregar a otro conjunto de revisión)                   | Disponible |
@@ -147,13 +161,13 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Exhibición avanzada de documentos electrónicos: informe de términos de búsqueda                             | Disponible |
 |                                         | EDiscovery avanzado: corrección de errores de un único elemento                        | Disponible |
 |                                         | EDiscovery avanzado: admitir la exportación de PST                              | Publicación |
+|                                         | EDiscovery avanzado: admitir contenido vinculado de OneDrive y SharePoint Online (datos adjuntos modernos)                              | Disponible |
 |                                         | Exhibición avanzada de documentos electrónicos: etiquetado                              | Disponible |
 |                                         | Exhibición avanzada de documentos electrónicos: informes de inquilino                              | Disponible |
 |                                         | Exhibición avanzada de documentos electrónicos: temas                               | Disponible |
 |                                         | Exhibición avanzada de documentos electrónicos: Visores                              | Disponible |
 |                                         | Exhibición avanzada de documentos electrónicos: eDiscovery avanzado de Yammer en el centro de cumplimiento de Microsoft                              | Disponible |
 |                                         | Exhibición avanzada de documentos electrónicos: soporte de bytes CJK o doble para la exhibición avanzada de documentos electrónicos                              | En desarrollo |
-|                                         | Exhibición avanzada de documentos electrónicos: API de Graph                              | En desarrollo |
 |                                         | EDiscovery avanzado: dar soporte a las reacciones de Teams                             | En desarrollo |
 |                                         | Exhibición avanzada de documentos electrónicos: soporte técnico de Microsoft Compliance Center ampliado para buscar y exportar elementos en SharePoint y en la papelera de reciclaje de OneDrive para la empresa                               | Sobre el trabajo pendiente de ingeniería |
 |                                         | Auditoría básica                              | Disponible |
@@ -167,12 +181,14 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Auditoría avanzada: información de auditoría procesada                              | Sobre el trabajo pendiente de ingeniería |
 |                                         | Auditoría avanzada: buscar eventos de término en Exchange Online y SharePoint Online                              | Sobre el trabajo pendiente de ingeniería |
 |    **Administración de cumplimiento**            | Centro de seguridad y cumplimiento de Microsoft 365                              | Disponible |
-|                                         | Administrador de cumplimiento (Versión preliminar)                                 | Sobre el trabajo pendiente de ingeniería              |
-|                                         | Microsoft Cloud App Security                                 | Sobre el trabajo pendiente de ingeniería              |
+|                                         | Administrador de cumplimiento (Versión preliminar)                                 | Publicación              |
+|                                         | Microsoft Cloud App Security                                 | Disponible              |
 |                                         | Compatibilidad con caracteres de doble byte                                 | Sobre el trabajo pendiente de ingeniería              |
+|    **Sistema**            | API de Graph para eDiscovery avanzado                              | En desarrollo |
+|                                         | Conectores de datos de origen                                 | Sobre el trabajo pendiente de ingeniería              |
+|                                         | Conectores de datos de terceros                                 | Sobre el trabajo pendiente de ingeniería              |
+|                                         | API de Graph para la exportación de datos de Microsoft Teams                                 | Sobre el trabajo pendiente de ingeniería              |
 
 <sup>1</sup> el estado identificado está sujeto a cambios a medida que se reevalúan los planes y las prioridades de los proyectos.<br/>
-<sup>2</sup> la aplicación manual de etiquetas requiere el [cliente de Azure Information Protection (AIP) versión 1](https://docs.microsoft.com/azure/information-protection/rms-client/client-version-release-history). 
-
 
 **Punto de decisión** : *decida si las características de cumplimiento satisfacen las necesidades de su organización.*

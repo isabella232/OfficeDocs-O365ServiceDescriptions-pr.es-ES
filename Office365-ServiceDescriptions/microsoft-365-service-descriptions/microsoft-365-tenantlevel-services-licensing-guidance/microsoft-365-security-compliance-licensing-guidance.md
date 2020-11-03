@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 5ee2dc81d70239f00f967ace7a8594a0d5730e38
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: d83791aa46ca8c77227f3a7ce692f4439866a151
+ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661298"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "48830401"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -164,7 +164,7 @@ A continuación, se indican las ventajas para los usuarios del servicio de admin
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Los clientes con licencias de Office 365 E5/A5 y Microsoft 365 E5/A5 podrán tener acceso a las evaluaciones de línea base de protección de datos, RGPD, NIST 800-53 e ISO 27001, así como usar la característica de evaluación personalizada. Las evaluaciones Premium estarán disponibles para su compra a los clientes de Office 365 E5/A5 y Microsoft 365 E5/A5.
+Los clientes con licencias de Office 365 E5/A5 y Microsoft 365 E5/A5 podrán tener acceso a las evaluaciones de línea base de protección de datos, RGPD, NIST 800-53 e ISO 27001, así como usar la característica de evaluación personalizada. Las evaluaciones Premium estarán disponibles para su compra a los clientes de Office 365 E5/A5 y Microsoft 365 E5/A5 durante la primera mitad de 2021. Estarán disponibles para su compra a través de VL, CSP y WebDirect.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -461,7 +461,7 @@ De forma predeterminada, los mensajes de correo electrónico de Exchange Online,
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  **Locations**.
+Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  **Locations** .
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Prevención de pérdida de datos de comunicación para Microsoft Teams
 
@@ -481,7 +481,7 @@ De forma predeterminada, los mensajes de chat y de canal de Microsoft son una *U
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  **Locations**.
+Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  **Locations** .
 
 ## <a name="information-barriers"></a>Barreras de información
 
@@ -523,7 +523,7 @@ Microsoft 365 E3/a3, Office 365 E3/a3 y Azure Information Protection Plan 1 prop
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
-Los administradores crean y administran directivas de cifrado de mensajes de Office 365 en el centro de administración de Exchange en reglas de **flujo de correo**  >  **Rules**. De forma predeterminada, estas reglas se aplican a todos los usuarios del espacio empresarial. Para obtener más información acerca de la configuración de nuevas capacidades de cifrado de mensajes de Office 365, vea [set up New office 365 Message Encryption Capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Los administradores crean y administran directivas de cifrado de mensajes de Office 365 en el centro de administración de Exchange en reglas de **flujo de correo**  >  **Rules** . De forma predeterminada, estas reglas se aplican a todos los usuarios del espacio empresarial. Para obtener más información acerca de la configuración de nuevas capacidades de cifrado de mensajes de Office 365, vea [set up New office 365 Message Encryption Capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
