@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general sobre las diferencias de características entre la nube del gobierno de Estados Unidos y la nube comercial, tal como se muestra en la descripción del servicio Exchange Online.
-ms.openlocfilehash: 2277f7d74cb893dd172bc13efcbd01d964b81736
-ms.sourcegitcommit: 9794350861e41d80980ecf6b9000a730b5564988
+ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
+ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48793658"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "48988087"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online para entornos gubernamentales de Estados Unidos
 
@@ -66,7 +66,7 @@ En la tabla siguiente se indica si las características de Exchange Online espec
 |Reglas de flujo de correo|Sí|Sí|Sí||
 |Prevención de pérdida de datos|Sí|Sí|Sí|Requiere el plan de servicio G3 o G5.|
 |Registro en diario|Sí|Sí|Sí||
-|**[Protección contra correo electrónico no deseado y antimalware](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**DoD**|**Consideraciones clave**|
+|**[Protección contra correo no deseado y malware](../../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**GCC**|**GCC High**|**DoD**|**Consideraciones clave**|
 |Protección contra correo no deseado integrada|Sí|Sí|Sí||
 |Customize anti-spam policies|Sí|Sí|Sí||
 |Protección contra malware integrada|Sí|Sí|Sí||
@@ -111,6 +111,7 @@ En la tabla siguiente se indica si las características de Exchange Online espec
 |Buzones de sitio|Sí|Sí|Sí||
 |Carpetas públicas|Sí|Sí|Sí||
 |**[Clientes y dispositivos móviles](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**Consideraciones clave**|
+|Para realizar la web|Sí|No|No||
 |Outlook para Windows|Sí|Sí|Sí|Para cumplir con los requisitos de cumplimiento de GCC High y DoD, debe ejecutar al menos la versión 1803 de Office 365 ProPlus. Office 365 ProPlus no se incluye con G1 o F3.|
 |Outlook en la Web|Sí|Sí|Sí||
 |Outlook para Mac|Sí|Sí|Sí|Para cumplir con los requisitos de cumplimiento de GCC High y DoD, debe ejecutar al menos la versión 1803 de Office 365 ProPlus. Office 365 ProPlus no se incluye con G1 o F3.|
@@ -149,41 +150,41 @@ En la tabla siguiente se indica si las características de Exchange Online espec
 
 ### <a name="connectivity-with-third-party-services"></a>Conectividad con los servicios de terceros  
 
-Los entornos tanto altos como DoD de GCC son entornos restringidos que requieren la aprobación y configuración explícita de las conexiones salientes. Además, Microsoft no puede acomodar solicitudes para permitir el acceso saliente desde estos entornos a servicios en la nube comercial (Commercial Office 365, Google GSuite, servicios Web de Amazon, etc.).     
+Los entornos tanto altos como DoD de GCC son entornos restringidos que requieren la aprobación y configuración explícita de las conexiones salientes. Además, Microsoft no puede acomodar solicitudes para permitir el acceso saliente desde estos entornos a servicios en la nube comercial (Commercial Office 365, Google GSuite, servicios Web de Amazon, etc.).
 
-Debido a estas restricciones, las características que se basan en esta conectividad saliente de los entornos altos/DoD de GCC no suelen ser compatibles, como: 
+Debido a estas restricciones, las características que se basan en esta conectividad saliente de los entornos altos/DoD de GCC no suelen ser compatibles, como:
 
-- Cuentas conectadas: los usuarios no pueden agregar ni sincronizar cuentas (Google, POP/IMAP, etc.). 
+- Cuentas conectadas: los usuarios no pueden agregar ni sincronizar cuentas (Google, POP/IMAP, etc.).
 
-- Compatibilidad con proveedores de almacenamiento de archivos de terceros: solo se puede tener acceso a la cuenta de OneDrive para la empresa del usuario *dentro de GCC/DoD* desde dentro de los diversos clientes de Outlook con el propósito de adjuntar o compartir archivos. No se pueden agregar cuentas de almacenamiento de terceros (Dropbox, Box, Google Drive). 
+- Compatibilidad con proveedores de almacenamiento de archivos de terceros: solo se puede tener acceso a la cuenta de OneDrive para la empresa del usuario *dentro de GCC/DoD* desde dentro de los diversos clientes de Outlook con el propósito de adjuntar o compartir archivos. No se pueden agregar cuentas de almacenamiento de terceros (Dropbox, Box, Google Drive).
 
-- Conectividad con redes sociales, como Facebook o LinkedIn. 
+- Conectividad con redes sociales, como Facebook o LinkedIn.
 
-### <a name="azure-active-directory-b2b-collaboration"></a>Colaboración B2B de Azure Active Directory 
+### <a name="azure-active-directory-b2b-collaboration"></a>Colaboración B2B de Azure Active Directory
 
 La colaboración B2B de Azure Active Directory actualmente es compatible solo entre organizaciones que están dentro de la nube de Azure US Government y que ambos admiten la colaboración B2B.
 
 Además, los usuarios de B2B como invitados en los grupos de Office 365 no se admiten en los entornos de GCC altos y DoD. 
 
-Para obtener más información y las actualizaciones más recientes, consulte [Azure Government Security + Identity](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity). 
+Para obtener más información y las actualizaciones más recientes, consulte [Azure Government Security + Identity](https://docs.microsoft.com/azure/azure-government/documentation-government-services-securityandidentity).
 
-### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>Comportamiento de cifrado de mensajes de Office 365 en límite alto/DoD de GCC 
+### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>Comportamiento de cifrado de mensajes de Office 365 en límite alto/DoD de GCC
 
 Si va a usar el cifrado de mensajes de Office 365 en un entorno de GCC High, tenga en cuenta estas características únicas sobre la experiencia de los destinatarios:  
 
 - Al enviar correo electrónico cifrado desde GCC High o DoD a destinatarios en el mismo entorno:
     
-    - Los remitentes pueden cifrar mensajes de correo electrónico manualmente en Outlook para PC y Mac y Outlook en la web, o las organizaciones pueden configurar una directiva para cifrar correos electrónicos con las reglas de flujo de correo de Exchange. 
+    - Los remitentes pueden cifrar mensajes de correo electrónico manualmente en Outlook para PC y Mac y Outlook en la web, o las organizaciones pueden configurar una directiva para cifrar correos electrónicos con las reglas de flujo de correo de Exchange.
     
-    - Los destinatarios incluidos en GCC High/DoD reciben la misma experiencia de lectura en línea en Outlook para PC y Mac y Outlook en la web como todos los demás usuarios de Office 365. 
+    - Los destinatarios incluidos en GCC High/DoD reciben la misma experiencia de lectura en línea en Outlook para PC y Mac y Outlook en la web como todos los demás usuarios de Office 365.
 
 <!-- end list -->
 
 - Al enviar correo electrónico cifrado desde GCC High o DoD a destinatarios fuera de ese entorno (incluido GCC y Commercial):
     
-    - Los remitentes que se encuentran en GCC High/DoD pueden enviar correo electrónico cifrado fuera del límite alto/DoD de GCC. 
+    - Los remitentes que se encuentran en GCC High/DoD pueden enviar correo electrónico cifrado fuera del límite alto/DoD de GCC.
     
-    - Todos los destinatarios externos a GCC/DoD, incluidos los usuarios comerciales de Office 365, los usuarios de Outlook.com y otros usuarios de otros proveedores de correo electrónico, reciben un correo de contenedor. Este correo de contenedor redirige al destinatario al portal de OME donde el destinatario puede leer y responder al mensaje. 
+    - Todos los destinatarios externos a GCC/DoD, incluidos los usuarios comerciales de Office 365, los usuarios de Outlook.com y otros usuarios de otros proveedores de correo electrónico, reciben un correo de contenedor. Este correo de contenedor redirige al destinatario al portal de OME donde el destinatario puede leer y responder al mensaje.
 
 Para obtener más información y las actualizaciones más recientes, vea [Comparar versiones de OME](https://docs.microsoft.com/microsoft-365/compliance/ome-version-comparison).
 
@@ -201,12 +202,32 @@ En el entorno de DoD:
 
   - Actualmente, la confianza de Federación (incluido el uso compartido de información de disponibilidad) solo se admite entre los inquilinos del entorno DoD. No se admite entre los inquilinos de DoD y GCC o los inquilinos comerciales.
 
-### <a name="client-configuration"></a>Configuración de clientes 
+### <a name="client-configuration"></a>Configuración de clientes
 
-Los pasos adicionales están relacionados con la implementación y configuración de Office ProPlus (incluido Outlook). Para obtener una descripción detallada de estos pasos, consulte [Guidance for Deploying Microsoft 365 apps for Enterprise in an GCC High or DoD Environment ](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod).
+Los pasos adicionales están relacionados con la implementación y configuración de Office ProPlus (incluido Outlook). Para obtener una descripción detallada de estos pasos, consulte [Guidance for Deploying Microsoft 365 apps for Enterprise in an GCC High or DoD Environment](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-gcc-high-dod).
 
 Outlook para iOS y Android también está disponible para los entornos de GCC altos y DoD. Para obtener más información acerca de las limitaciones y la administración de características en estos entornos, consulte [uso de Outlook para iOS y Android en la nube de la comunidad de administración pública](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-in-the-government-cloud).
 
 ### <a name="add-ins-in-outlook-and-outlook-web-app"></a>Complementos en Outlook y Outlook Web App  
 
 Solo algunos complementos de OWA y Outlook están disponibles en GCC High y DoD. Mis plantillas y las reuniones sugeridas están disponibles y se espera que funcionen. Solo se admiten los cinco complementos predeterminados de OWA. La integración con aplicaciones de terceros es posible, pero estas integraciones no están cubiertas por las promesas de cumplimiento de Microsoft para GCC High o DoD. Los clientes deben familiarizarse con prácticas de administración de datos de terceros y las promesas de cumplimiento antes de configurar el complemento para su organización.
+
+## <a name="feature-nuances-within-gcc-environments"></a>Características de matices de contenido en entornos GCC
+
+| Característica | Descripción | WW | Disponibilidad en GCC |
+|:-----|:-----|:-----|:-----|
+|Plataformas compatibles|Web, Android, iOS, Mac, Windows|Todo|Solo Web|
+|El concentrador M365 admite|Integraciones con Outlook, Teams, Planner|Todo|Outlook, Planner (Teams para que esté disponible con la aplicación tareas de Teams)|
+|Migración de Wunderlist|Permitir que los usuarios de Wunderlist migren datos a tareas pendientes|Sí|No|
+|Notificaciones push|Enviar notificaciones de inserción a los usuarios finales para los avisos, etc.|Sí|No|
+|Compatibilidad con Helpshift|Usar la interfaz de helpshift para crear una solicitud de soporte técnico|Sí|No|
+|Mi día|Planeación del día|Sí|Sí|
+|Lista planificada|Ver todas las tareas con una fecha de vencimiento|Sí|Sí|
+|Asignado a la lista|Todas las tareas que se le han asignado en una lista compartida, Planner o WXP (futuro)|Sí|Sí|
+|Correo electrónico marcado|Ver los mensajes de correo electrónico marcados en Outlook como tareas|Sí|Sí|
+|Compatibilidad con varias cuentas|Usar la cuenta de hogar y la oficina en un panel|Sí|Sí|
+|Uso compartido de listas|Compartir listas con compañeros de la misma organización|Sí|Sí|
+|Uso compartido entre inquilinos|Compartir la lista de tareas fuera de la organización|Sí|No|
+|Avisos y periodicidad|Establecer avisos para la tarea |Sí|Sí|
+
+* Todas las demás características no mencionadas están disponibles en ambos entornos.
