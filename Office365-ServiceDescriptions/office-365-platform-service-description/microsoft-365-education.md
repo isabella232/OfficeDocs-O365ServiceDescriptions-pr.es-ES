@@ -9,35 +9,36 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Obtenga información sobre las diferencias entre los planes de Microsoft 365 y Office 365 Education.
-ms.openlocfilehash: d0dfabd0269941d9bda4517cc9f22d17f8c4237f
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 013442afe663aa162428194777593d7c35b1c872
+ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276740"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "49072691"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Educación
 
-Microsoft 365 está disponible en diversos planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Microsoft 365 y Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. 
+Microsoft 365 está disponible en diversos planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Microsoft 365 y Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos.
   
 Microsoft 365 proporciona un sistema completo, que incluye Office 365, Windows 10, and Enterprise Mobility and Security. En la tabla siguiente se enumeran las características de Office 365 para el ámbito educativo a1, a3 y A5 junto con las características de Microsoft 365 para educación a3 y A5 correspondientes. Para comparar las características de los planes empresariales y empresariales, vea [comparar los planes de microsoft 365 para empresas](https://go.microsoft.com/fwlink/?linkid=799177), o bien, para obtener una lista más detallada de las características, consulte la descripción del servicio correspondiente en las [descripciones de servicio de Microsoft 365 y Office 365](../office-365-service-descriptions-technet-library.md). Para buscar artículos de soporte técnico e información, consulte [Office Help &amp; Training](https://support.office.com/).
   
 ## <a name="services-and-features"></a>Características y servicios
 
-Cada plan de Microsoft 365 Education incluye una serie de servicios individuales, como Exchange Online y SharePoint Online. En la tabla siguiente se muestran los servicios que están disponibles en cada plan de Office 365 y Microsoft 365 para que pueda elegir la solución que mejor se adapte a sus necesidades. Para revisar los servicios y las características con mayor detalle, vea la descripción del servicio [Office 365 Education](office-365-education.md) .<br><br>
+Cada plan de Microsoft 365 Education incluye una serie de servicios individuales, como Exchange Online y SharePoint Online. En la tabla siguiente se muestran los servicios que están disponibles en cada plan de Office 365 y Microsoft 365 para que pueda elegir la solución que mejor se adapte a sus necesidades. Para revisar los servicios y las características con mayor detalle, vea la descripción del servicio [Office 365 Education](office-365-education.md) .<br></br>
 
 | Servicio | Office 365 Ámbito educativo A1 | Office 365 Educación A3 | Office 365 educación A5 | Microsoft 365 Educación A3 | Microsoft 365 Educación A5 | Beneficio del uso de estudiantes de Office 365 a3 | Office 365 A5-beneficio de uso de estudiantes | Beneficio del uso de estudiantes de Microsoft 365 Education a3 | Beneficio del uso de estudiantes de Microsoft 365 Education A5 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |Plataforma Office 365|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Office para la web|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Aplicaciones de Microsoft 365 para empresas|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Exchange Online|Yes1|Sí2|Sí2|Sí2|Sí2|Yes1|Yes1|Yes1|Yes1|
-|SharePoint Online|Yes3|Yes4|Yes4|Yes4|Yes4|Yes3|Yes3|Yes3|Yes3|
+|Exchange Online|Sí<sup>1</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|
+|SharePoint Online|Sí<sup>3</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
 |OneDrive para la Empresa|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Microsoft Teams|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Skype Empresarial Online|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Project|No5|No5|No5|No5|No5|No5|No5|No5|No5|
+|Project|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|
 |Yammer Academic|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Microsoft Stream|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |**Herramientas de aula**|**Office 365 Ámbito educativo A1**|**Office 365 Educación A3**|**Office 365 educación A5**|**Microsoft 365 Educación A3**|**Microsoft 365 Educación A5**|**Beneficio del uso de estudiantes de Office 365 a3**|**Office 365 A5-beneficio de uso de estudiantes**|**Beneficio del uso de estudiantes de Microsoft 365 Education a3**|**Beneficio del uso de estudiantes de Microsoft 365 Education A5**|
 |Experiencias de clase en Microsoft Teams|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Bloc de notas de clase de OneNote|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -52,64 +53,66 @@ Cada plan de Microsoft 365 Education incluye una serie de servicios individuales
 |**Vídeos de voz y reuniones**|**Office 365 Ámbito educativo A1**|**Office 365 Educación A3**|**Office 365 educación A5**|**Microsoft 365 Educación A3**|**Microsoft 365 Education A56**|**Beneficio del uso de estudiantes de Office 365 a3**|**Office 365 A5-beneficio de uso de estudiantes**|**Beneficio del uso de estudiantes de Microsoft 365 Education a3**|**Beneficio del uso de estudiantes de Microsoft 365 Education A5**|
 |Difusión de reunión de Skype|No|Sí|Sí|Sí|Sí|No|No|No|No|
 |Reservas de Microsoft|No|Sí|Sí|Sí|Sí|No|No|No|No|
-|Conferencia de audio de Office 365|No|No|Sí|No|Sí|No|No|No|No|
-|Sistema telefónico de Office 365|No|No|Sí|No|Sí|No|No|No|No|
+|Audioconferencia|No|No|Sí|No|Sí|No|No|No|No|
+|Sistema telefónico|No|No|Sí|No|Sí|No|No|No|No|
 |**Análisis**|**Office 365 Ámbito educativo A1**|**Office 365 Educación A3**|**Office 365 educación A5**|**Microsoft 365 Educación A3**|**Microsoft 365 Educación A5**|**Beneficio del uso de estudiantes de Office 365 a3**|**Office 365 A5-beneficio de uso de estudiantes**|**Beneficio del uso de estudiantes de Microsoft 365 Education a3**|**Beneficio del uso de estudiantes de Microsoft 365 Education A5**|
 |Delve|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Power BI Pro|No|No|Sí|No|Sí|No|No|No|No|
 |Mis análisis|No|No|Sí|No|Sí|No|No|No|No|
-|**Azure Active Directory <sup> 11<sup>**|**Office 365 Ámbito educativo A1**|**Office 365 Educación A3**|**Office 365 educación A5**|**Microsoft 365 Educación A3**|**Microsoft 365 Educación A5**|**Beneficio del uso de estudiantes de Office 365 a3**|**Office 365 A5-beneficio de uso de estudiantes**|**Beneficio del uso de estudiantes de Microsoft 365 Education a3**|**Beneficio del uso de estudiantes de Microsoft 365 Education A5**|
+|**Azure Active Directory**|**Office 365 Ámbito educativo A1**|**Office 365 Educación A3**|**Office 365 educación A5**|**Microsoft 365 Educación A3**|**Microsoft 365 Educación A5**|**Beneficio del uso de estudiantes de Office 365 a3**|**Office 365 A5-beneficio de uso de estudiantes**|**Beneficio del uso de estudiantes de Microsoft 365 Education a3**|**Beneficio del uso de estudiantes de Microsoft 365 Education A5**|
 |Azure Active Directory básico|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Plan 1 de Azure Active Directory|No|No|No|Sí|No|No|No|Sí|Sí|
 |Plan 2 de Azure Active Directory|No|No|No|No|Sí|No|No|No|Sí|
 |**Cumplimiento**|**Office 365 Ámbito educativo A1**|**Office 365 Educación A3**|**Office 365 educación A5**|**Microsoft 365 Educación A3**|**Microsoft 365 Educación A5**|**Beneficio del uso de estudiantes de Office 365 a3**|**Office 365 A5-beneficio de uso de estudiantes**|**Beneficio del uso de estudiantes de Microsoft 365 Education a3**|**Beneficio del uso de estudiantes de Microsoft 365 Education A5**|
 |Administración de derechos de Office 365|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Plan 17 de Azure Information Protection <sup><sup>|No|No|No|Sí|No|No|No|No|No|
-|Plan 27 de Azure Information Protection <sup><sup>|No|No|No|No|Sí|No|No|No|No|
-|Retención por juicio|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|búsqueda de exhibición de documentos electrónicos|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|exportación de exhibición de documentos electrónicos|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Plan 1 de Azure Information Protection|No|No|No|Sí|No|No|No|No|No|
+|Azure Information Protection Plan 2|No|No|No|No|Sí|No|No|No|No|
+|Retención por juicio|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Búsqueda de contenido|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Exhibición de documentos electrónicos principal (incluida la retención y la exportación)|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |eDiscovery avanzado|No|No|Sí|No|Sí|No|No|No|No|
-|Data loss prevention|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Cifrado de mensajes de Office 365|Yes12|Sí|Sí|Sí|Sí|Yes12|Yes12|Yes12|Yes12|
+|Prevención de pérdida de datos (DLP) para correo electrónico y archivos|No|Sí|Sí|Sí|Sí|No|No|No|No|
+|DLP de extremo|No|No|No|No|Sí|No|No|No|No|
+|DLP de comunicaciones (chat de Microsoft Teams)|No|Sí|Sí|Sí|Sí|No|No|No|No|
+|Cumplimiento de la comunicación|No|No|Sí|No|Sí|No|No|No|No|
+|Clave de cliente|No|No|Sí|No|Sí|No|No|No|No|
+|Auditoría básica|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Auditoría avanzada|No|No|Sí|No|Sí|No|No|No|No|
+|Cifrado básico de mensajes de Office 365|Sí<sup>9</sup>|Sí|Sí|Sí|Sí|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|
+|Cifrado avanzado de mensajes de Office 365|No|No|Sí|No|Sí|No|No|No|No|
 |Caja de seguridad del cliente|No|No|Sí|No|Sí|No|No|No|No|
-|Gobierno de datos avanzado|No|No|Sí|No|Sí|No|No|No|No|
+|Administración de riesgos de Insider|No|No|No|No|Sí|No|No|No|No|
+|Administración del acceso con privilegios|No|No|Sí|No|Sí|No|No|No|No|
 |**Administración y seguridad**|**Office 365 Ámbito educativo A1**|**Office 365 Educación A3**|**Office 365 educación A5**|**Microsoft 365 Educación A3**|**Microsoft 365 Educación A5**|**Beneficio del uso de estudiantes de Office 365 a3**|**Office 365 A5-beneficio de uso de estudiantes**|**Beneficio del uso de estudiantes de Microsoft 365 Education a3**|**Beneficio del uso de estudiantes de Microsoft 365 Education A5**|
-|Protección contra amenazas avanzada de Office 365 (plan 2)|No|No|No|No|No|No|Sí|No|Sí|
+|Microsoft defender para Office 365<sup>10</sup> plan 2|No|No|No|No|Sí|No|Sí|No|Sí|
 |School Data Sync|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Administración de seguridad avanzada|No|Sí|Sí|Sí|Sí|No|No|No|No|
-|Intune para educación <sup> 8<sup>|No|No|No|Sí|Sí|No|No|Sí|Sí|
+|Intune para educación<sup>6</sup>|No|No|No|Sí|Sí|No|No|Sí|Sí|
 |Advanced Threat Analytics|No|No|No|Sí|Sí|No|No|Sí|Sí|
-|El antivirus de Windows Defender|No|No|No|Sí|Sí|No|No|No|No|
-|Protección de dispositivos|No|No|No|Sí|Sí|No|No|No|No|
-|**Seguridad avanzada**|**Office 365 Ámbito educativo A1**|**Office 365 Educación A3**|**Office 365 educación A5**|**Microsoft 365 Educación A3**|**Microsoft 365 Educación A5**|**Beneficio del uso de estudiantes de Office 365 a3**|**Office 365 A5-beneficio de uso de estudiantes**|**Beneficio del uso de estudiantes de Microsoft 365 Education a3**|**Beneficio del uso de estudiantes de Microsoft 365 Education A5**|
-|Protección contra amenazas avanzada|No|No|Sí|No|Sí|No|No|No|Sí|
-|Inteligencia de amenazas|No|No|Sí|No|Sí|No|No|No|No|
-|Cloud App Security|No|No|No|No|Sí|Sí|Sí|Sí|Sí|
-|Protección contra amenazas avanzada de Microsoft Defender|No|No|No|No|Yes13|No|No|No|No|
+|Antivirus de Microsoft defender|No|No|No|Sí|Sí|No|No|No|No|
+|Protección de dispositivos de Microsoft defender|No|No|No|Sí|Sí|No|No|No|No|
+|Microsoft defender para identidad<sup>11</sup>|No|No|No|No|Sí|No|No|No|Sí|
+|Office 365 Cloud App Security|No|No|No|No|Sí|Sí|Sí|Sí|Sí|
+|Microsoft 365 Cloud App Security|No|No|No|No|No|No|No|Sí|Sí|
+|Microsoft defender para el extremo<sup>12</sup>|No|No|No|No|Sí|No|No|No|No|
 |**Ventajas de servidor y CAL**|**Office 365 Ámbito educativo A1**|**Office 365 Educación A3**|**Office 365 educación A5**|**Microsoft 365 Educación A3**|**Microsoft 365 Educación A5**|**Beneficio del uso de estudiantes de Office 365 a3**|**Office 365 A5-beneficio de uso de estudiantes**|**Beneficio del uso de estudiantes de Microsoft 365 Education a3**|**Beneficio del uso de estudiantes de Microsoft 365 Education A5**|
-|Exchange <sup> 9<sup>|No|No|No|Yes10|Sí|No|No|No|No|
-|SharePoint <sup> 9<sup>|No|No|No|Yes10|Sí|No|No|No|No|
-|Skype empresarial <sup> 9<sup>|No|No|No|Yes10|Sí|No|No|No|No|
+|Exchange<sup>7</sup>|No|No|No|Sí<sup>8</sup>|Sí|No|No|No|No|
+|SharePoint<sup>7</sup>|No|No|No|Sí<sup>8</sup>|Sí|No|No|No|No|
+|Skype empresarial<sup>7</sup>|No|No|No|Sí<sup>8</sup>|Sí|No|No|No|No|
 |Windows Server CAL|No|No|No|Sí|Sí|No|No|No|No|
 |Microsoft Endpoint Configuration Manager|No|No|No|Sí|Sí|No|No|No|No|
 |System Center Endpoint Protection|No|No|No|Sí|Sí|No|No|No|No|
 
-  
-
-   
 > [!NOTE]
 > <sup>1</sup> incluye Exchange Online (plan 1) más características adicionales. <br/>
 > <sup>2</sup> incluye Exchange Online (plan 2). <br/>
 > <sup>3</sup> incluye SharePoint Online (plan 1) más características adicionales. <br/>
 > <sup>4</sup> incluye SharePoint Online plan 2. <br/>
-> <sup>5</sup> Microsoft Project no se incluye en Office 365, pero puede adquirirse por separado. Project online Essentials es gratuito. Si es un estudiante o una institución educativa, puede optar a comprar el plan 3 del proyecto y el plan 5 a precios educativos.   <br/>
-> <sup>6</sup> Microsoft 365 Education A5 contiene capacidades de sistema telefónico, audioconferencia y plan de llamadas. Para implementar el plan de llamadas es necesario adquirir un plan adicional (ya sea plan de llamadas nacionales o plan de llamadas internacionales). <br/>
-> <sup>7</sup> para obtener más información sobre las características de Azure Information Protection que se incluyen con los planes de Microsoft, consulte [Azure Information Protection](https://go.microsoft.com/fwlink/?linkid=838357). <br/>
-> <sup>8</sup> incluye Intune. <br/>
-> se incluyen <sup>nueve</sup> servidores y cal para Exchange, SharePoint y Skype empresarial. <br/>
-> <sup>10</sup> ECAL o Core cal, en función de la versión de a3 que se compre, con A5, se incluyen los derechos de ECAL. <br/>
-> <sup>11</sup> para obtener más información sobre Azure Active Directory, vea [¿Qué es Active Directory?](https://docs.microsoft.com/azure/active-directory/active-directory-whatis). <br/>
-> <sup>12</sup> es necesario Office Pro Plus para aplicar protecciones y enviar correos electrónicos protegidos desde el escritorio de Outlook. <br/> 
-> <sup>13</sup> el beneficio de uso para estudiantes de Microsoft 365 Education no incluye la protección contra amenazas avanzada de Microsoft defender.  
-
+> <sup>5</sup> Microsoft Project no se incluye en Office 365, pero puede adquirirse por separado. Project online Essentials es gratuito. Si es un estudiante o una institución educativa, puede optar a comprar el plan 3 del proyecto y el plan 5 a precios educativos. <br/>
+> <sup>6</sup> incluye Intune. <br/>
+> <sup>7</sup> se incluyen servidores y cal para Exchange, SharePoint y Skype empresarial. <br/>
+> <sup>8</sup> ECAL o Core cal, según la versión de a3 que haya adquirido, con A5, se incluyen los derechos de ECAL. <br/>
+> se necesitan <sup>9</sup> aplicaciones de Microsoft 365 para aplicar protecciones y enviar correos electrónicos protegidos desde el escritorio de Outlook. <br/>
+> <sup>10</sup> anteriormente, la protección contra amenazas avanzada de Office 365. <br/>
+> <sup>11</sup> anteriormente, la protección contra amenazas avanzada de Azure. <br/>
+> <sup>12</sup> anteriormente protección contra amenazas avanzada de Microsoft defender. <br/>

@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades del gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government – GCC High es apropiado para cumplir estos requisitos.
-ms.openlocfilehash: 8101a5801b01ba3c2d6e72e28cc0ce482b17ac8b
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 93e1a9d1c7b9819b7e3cb66e18827259c3393254
+ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830361"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "49072671"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan para Microsoft 365 Compliance – GCC High
 
@@ -36,7 +36,7 @@ Puede encontrar más información sobre la oferta de Microsoft 365 Government �
 La [Descripción del servicio Office 365 US Government](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) describe los beneficios de la plataforma, que se centran en cumplir con los requisitos de cumplimiento en los Estados Unidos.
 
 > [!TIP]
-> Es posible que desee transferir las tablas de información de la descripción del servicio a un libro de Excel y agregar dos columnas: **importante para mi organización y/n** y **que satisfaga las necesidades de la organización y/n** . A continuación, puede revisar esta lista con sus colegas para confirmar que este servicio cumple con las necesidades de su organización.
+> Es posible que desee transferir las tablas de información de la descripción del servicio a un libro de Excel y agregar dos columnas: **importante para mi organización y/n** y **que satisfaga las necesidades de la organización y/n**. A continuación, puede revisar esta lista con sus colegas para confirmar que este servicio cumple con las necesidades de su organización.
 
 **Puntos de decisión** :<br/>
 - *Decida si Microsoft 365 Government – GCC-High es adecuado para su organización.*
@@ -133,7 +133,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Cumplimiento de comunicaciones (incl. directivas de supervisión): convertir el contenido de mantenimiento durante la investigación | Sobre el trabajo pendiente de ingeniería |
 |                                         | Cumplimiento de la comunicación (con directivas de supervisión): Burnout y Suicide Detection | Sobre el trabajo pendiente de ingeniería |
 |                                         | Barreras de información | Sobre el trabajo pendiente de ingeniería |
-|                                         | Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
+|                                         | Privileged Access Management                    | Sobre el trabajo pendiente de ingeniería |
 | **Detección de & responder**                  | Exhibición de documentos electrónicos principal: preservación local                            | Disponible              |
 |                                         | Exhibición de documentos electrónicos principal: administración de casos                                 | Disponible              |
 |                                         | Exhibición de documentos electrónicos principal: búsqueda                                          | Disponible              |
@@ -181,7 +181,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Auditoría avanzada: información de auditoría procesada                              | Sobre el trabajo pendiente de ingeniería |
 |                                         | Auditoría avanzada: buscar eventos de término en Exchange Online y SharePoint Online                              | Sobre el trabajo pendiente de ingeniería |
 |    **Administración de cumplimiento**            | Centro de seguridad y cumplimiento de Microsoft 365                              | Disponible |
-|                                         | Administrador de cumplimiento (Versión preliminar)                                 | Publicación              |
+|                                         | Administrador de cumplimiento                                 | Publicación              |
 |                                         | Microsoft Cloud App Security                                 | Disponible              |
 |                                         | Compatibilidad con caracteres de doble byte                                 | Sobre el trabajo pendiente de ingeniería              |
 |    **Sistema**            | API de Graph para eDiscovery avanzado                              | En desarrollo |
