@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project online, que se entrega a través de Office 365, proporciona potentes capacidades de administración de proyectos para planificar, priorizar y administrar proyectos e inversiones en carteras de proyectos desde prácticamente cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 7a32ec57b0a6de38fd0df3d4e0e4127bbc5f1628
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 5288a0b4160ad8f48fbae17030a4726b541dc7b0
+ms.sourcegitcommit: e6626910d7ccd2898a6e550b7c46b4f623142bd9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276795"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "49085744"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -48,7 +48,7 @@ Project online se basa en la plataforma de SharePoint y almacena los datos en el
 
 Project online está disponible a través de dos suscripciones: Plan de proyecto 3 y plan de proyecto 5. Las características enumeradas en la sección [características de Project online](#project-online-features) interactúan solo con los datos del almacén de datos de SharePoint de Project online.
 
-La funcionalidad de integrantes del grupo para Project online está disponible a través de una suscripción de Project online Essentials. Project online Essentials es una suscripción de *complemento*a un integrante   del grupo para clientes que tienen suscripciones plan de proyecto 3 o plan 5 de proyecto. Proporciona a los miembros del equipo una interfaz web para realizar actualizaciones de tareas y de tiempo en los proyectos administrados en Project online.
+La funcionalidad de integrantes del grupo para Project online está disponible a través de una suscripción de Project online Essentials. Project online Essentials es una suscripción de *complemento* a un integrante   del grupo para clientes que tienen suscripciones plan de proyecto 3 o plan 5 de proyecto. Proporciona a los miembros del equipo una interfaz web para realizar actualizaciones de tareas y de tiempo en los proyectos administrados en Project online.
 
 Los integrantes del grupo con Project online Essentials pueden realizar las siguientes funciones de Project online:
 
@@ -102,26 +102,29 @@ Las características que se enumeran en esta sección interactúan sólo con los
 |Programación de tareas | Obtenga una vista de pájaros de los proyectos en los que ha trabajado recientemente, así como proyectos importantes que necesita supervisar de cerca.| Ver solamente | Sí | Sí | Sí |
 |Vista escala de tiempo (diagrama de Gantt) | Realizar un seguimiento y comprender visualmente las fechas de los proyectos, las dependencias y las asignaciones en una vista jerárquica de escala de tiempo.|Ver solamente | Sí | Sí | Sí |
 |Tareas de resumen | Planear, administrar y realizar un seguimiento de los resultados y las fases mediante tareas de resumen.| Ver solamente | Sí | Sí | Sí |
+|Crear y usar campos personalizados de tarea | Agregar campos personalizados locales a las tareas de un proyecto, agregar datos a estos campos o actualizar datos en estos campos.| No | Sí | Sí | Sí |
 |**Colaboración** ||||||
 |Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí | Sí | Sí |
 |**Administración de recursos y programas** ||||||
 |Configuración del equipo del proyecto | Administrar un equipo de proyecto agregando y quitando miembros y estableciendo el calendario laboral. | No | Sí | Sí | Sí |
-|Guías básicas | Cree guías básicas visuales e interactivas en los proyectos de proyectos de Microsoft Project online, Microsoft Project para la web y Azure Boards. <sup>2</sup>   Con el plan de proyecto 1, obtiene acceso de solo lectura a las guías básicas. Con el plan de proyecto 3 o el plan 5 del proyecto, también puede crear guías básicas. | Solo ver | Solo ver | Sí | Sí |
+|Guías básicas | Cree guías básicas visuales e interactivas en los proyectos de proyectos de Microsoft Project online, Microsoft Project para la web y Azure Boards. <sup>2</sup> con el plan de proyecto 1 obtiene acceso de solo lectura a las guías básicas. Con el plan de proyecto 3 o el plan 5 del proyecto, también puede crear guías básicas. | Solo ver | Solo ver | Sí | Sí |
 |**Informe**<sup>3</sup> ||||||
-|Informes preparados | Use informes predefinidos para comprender los datos de proyectos, programas, carteras y recursos. | No | Sí | Sí | Sí |
-|Informes personalizados | Comprenda los datos importantes para su organización mediante la creación de informes personalizados basados en informes de salida de caja o desde cero. | No | Sí | Sí | Sí |
-|Paneles y portales | Cree paneles y portales personalizados para ayudar a satisfacer necesidades organizativas específicas.| No | Sí | Sí | Sí |
+|Leer informes de *Project para los datos Web* | Ver informes, paneles y informes de Power BI personalizados o listos para su comprensión para comprender los datos de proyectos, programas, carteras y recursos. | No | No | Sí | Sí |
+|Crear informes con *Project para los datos Web* | Comprenda los datos importantes para la organización mediante la creación de informes de Power BI personalizados basados en informes de salida de cuadro o desde cero.<br> Cree paneles y portales personalizados de Power BI para ayudar a satisfacer necesidades organizativas específicas. | No | No | Sí | Sí |
 |**Mejoras** ||||||
 |Coautoría | Trabaje junto con las partes interesadas y los miembros del equipo para crear, editar y actualizar simultáneamente listas de tareas, programaciones de proyecto y mucho más.| Ver solamente | Sí | Sí | Sí |
 |Indicadores gráficos | Comprenda el estado de las tareas, las asignaciones y mucho más con indicadores gráficos.| Ver solamente | Sí | Sí | Sí |
 |**Movilidad** ||||||
 |Aplicaciones móviles | Cree aplicaciones móviles personalizadas con PowerApps. <sup>4</sup> |No | No | Sí | Sí |
 |**Personalización e integración**||||||
-|PowerApps | Compilar y consumir soluciones para web y Mobile con PowerApps. <sup>4</sup> | No | No | Sí | Sí |
-|Flujos de trabajo | Automatizar e integrar procesos de negocio con la automatización de la alimentación. <sup>5</sup> | No | No | Sí | Sí |
-|Integración con Microsoft | Colaborar, administrar documentos y mucho más mediante herramientas y aplicaciones de Microsoft conocidas. <sup>1</sup> | Sí | Sí | Sí | Sí |
+|Uso de la aplicación de proyecto preparada | Use la aplicación de proyecto precreada para ver un proyecto, crear un nuevo proyecto, agregar nuevos datos a un proyecto o actualizar los datos del proyecto existente. | Solo vista | Sí | Sí | Sí |
+|Personalización de vistas y formularios <sup>4</sup> | Personalice sólo las vistas y los formularios de la aplicación de Project. | No | Sí | Sí | Sí |
+|Usar campos personalizados | Ver, agregar, actualizar o eliminar datos en un campo personalizado. | Solo vista | Solo vista | Sí | Sí |
+|Usar entidades personalizadas <sup>5</sup> | Cree y defina entidades personalizadas para conservar los datos adicionales que necesita para sus proyectos, programas, carteras, etc. | No | Solo vista | Sí | Sí |
 |**Seguridad y administración de usuarios**||||||
 |Grupos modernos de Office | Cree un equipo de proyecto para colaborar con y configurar fácilmente una colección de recursos que los integrantes del grupo puedan compartir. | Sí | Sí | Sí | Sí |
+|**Aplicaciones de terceros**||||||
+|Conectarse al *proyecto para la web* con aplicaciones de terceros <sup>4</sup> | Use una aplicación personalizada o de terceros para ver, crear, actualizar o eliminar datos de proyecto en cualquier entidad de proyecto nativa o personalizada.<br> Cree informes en aplicaciones de terceros basadas en Project para los datos Web. | No | No | Sí | Sí |
 
 ### <a name="project-online-features"></a>Características de Project Online
 
@@ -151,7 +154,7 @@ Las características que se enumeran en esta sección interactúan solo con los 
 |Aprobaciones del parte de horas | Los integrantes del grupo pueden enviar partes de horas para su aprobación. Los jefes de recursos y los supervisores pueden revisar, aprobar y rechazar partes de horas enviados. | Sí | Sí |
 |Configuración del período no laborable | Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no laborables a la programación de su proyecto. | No | Sí |
 |**Colaboración** ||||
-|Datos adjuntos | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
+|Attachments | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
 |Miembros del equipo externo |Colaborar con personas de fuera de la organización al concederles acceso para ver e interactuar con sus proyectos, tareas y documentos. <sup>6</sup> | Sí | Sí |
 |Sitios del proyecto | Crear y personalizar un concentrador para la colaboración y los documentos de un proyecto. | Sí | Sí |
 Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí |
@@ -164,7 +167,7 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 |Configuración del equipo del proyecto | Administre un equipo de proyecto agregando y quitando miembros, estableciendo niveles de asignación y agregando miembros externos. | Sí | Sí |
 |Vistas de capacidad de recursos | Realizar un seguimiento y administrar la capacidad de los recursos en el nivel de proyecto, equipo y organización. | Sí | Sí |
 |Costes de recursos | Realizar un seguimiento de los costos de recursos del proyecto y administrarlos. | Sí | Sí |
-|Negociaciones de recursos (bookings) | Los jefes de proyecto pueden enviar solicitudes de recursos por rol, aptitudes o nombre. Los administradores de recursos pueden revisar las solicitudes y asignar los mejores recursos disponibles. |Sí<sup>7</sup> | Sí<sup>8</sup> |
+|Negociaciones de recursos (bookings) | Los jefes de proyecto pueden enviar solicitudes de recursos por rol, aptitudes o nombre. Los administradores de recursos pueden revisar las solicitudes y asignar los mejores recursos disponibles. |Sí<sup>8</sup> | Sí<sup>9</sup> |
 |Planeación de la capacidad de recursos | Realizar un seguimiento y administrar la capacidad de los recursos en el nivel de proyecto, equipo y organización. | No | Sí |
 |Guías básicas | Cree guías básicas visuales e interactivas en los proyectos de proyectos de Microsoft Project online, Microsoft Project para la web y Azure Boards. <sup>2</sup> | Sí | Sí |
 |Análisis de cartera y priorización | Identifique, seleccione y entregue carteras de proyectos que mejor se adapten a la estrategia empresarial de su organización y maximice el retorno de la inversión (ROI). | No | Sí |
@@ -179,25 +182,26 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 |Custom fields | Agregue campos personalizados a nivel de proyecto, tarea y recurso para realizar un seguimiento de los datos importantes para la organización y los proyectos. | Sí | Sí |
 |Éstas | Calcule y Capture datos importantes mediante fórmulas en tareas y proyectos. | Sí | Sí |
 |PowerApps | Compilar y consumir soluciones para web y móviles (mediante OData) con PowerApps. <sup>4</sup> | Sí | Sí |
-|Flujos de trabajo | Automatizar e integrar procesos de negocio (a través de OData) con la automatización de energía. <sup>5</sup> | Sí | Sí |
+|Flujos de trabajo | Automatizar e integrar procesos de negocio (a través de OData) con la automatización de energía. <sup>7</sup> | Sí | Sí |
 |Integración con Microsoft 365 | Colaborar, administrar documentos y más mediante herramientas y aplicaciones de Microsoft conocidas. <sup>1</sup> | Sí | Sí |
 |Integración con Microsoft Planner | Conectar tareas de proyecto a un plan de Planner y realizar un seguimiento del trabajo detallado en Planner. <sup>1</sup> | Sí | Sí |
 |**Administración de seguridad, usuarios y servicios**||||
-|Integración con Active Directory | Cree equipos desde cualquier miembro del Active Directory de su organización. <sup>9</sup> | Sí | Sí |
+|Integración con Active Directory | Cree equipos desde cualquier miembro del Active Directory de su organización. <sup>10</sup> | Sí | Sí |
 |Administración de usuarios | Administre los permisos y los roles de usuario y grupo en el nivel de proyecto, equipo y organización. | No | Sí |
-|Administración de servicios | Planee, instale y configure, mantenga y extienda su entorno de Microsoft Project como parte de su entorno de Office 365<sup>1</sup> .  | No | Sí |
+|Administración de servicios | Planee, instale y configure, mantenga y extienda su entorno de Microsoft Project como parte de su entorno de Office 365<sup>1</sup> . | No | Sí |
 
 #### <a name="notes"></a>Notas
 
 <sup>1</sup> requiere una suscripción comercial a Office o Microsoft 365.</br>
 <sup>dos</sup> tarjetas de Azure adquiridas por separado.</br>
-<sup>3</sup> el informe para el proyecto para el Web y Project online está disponible mediante Power BI. La visualización, edición y creación de informes requieren una suscripción a Power BI. Microsoft proporciona un conjunto de informes predefinidos de Power BI. Los usuarios pueden personalizar estos informes o crear informes adicionales con Power BI.</br> 
-<sup>4</sup> la creación y el uso de aplicaciones móviles de powerapps personalizadas que tienen acceso a Project para los datos Web requieren una suscripción de powerapps y una suscripción al plan de proyecto 3 o proyecto 5.</br>
-<sup>5</sup> para automatizar e integrar los procesos empresariales con la automatización de la alimentación con Project para los datos Web es necesario disponer de una suscripción de potencia automatizada y una suscripción de plan de proyecto 3 o proyecto 5.</br>
+<sup>3</sup> el informe para el proyecto para el Web y Project online está disponible mediante Power BI. Requiere una licencia de Power BI.</br>
+<sup>4</sup> la creación y el uso de aplicaciones de energía independientes más allá de la aplicación de Project integrada que tiene acceso a Project para los datos de cliente de web o de Project online requiere una suscripción a Power apps independiente.</br>
+<sup>5</sup> limitado a 5 entidades personalizadas.</br>
 <sup>6</sup> las licencias de Project online para usuarios externos siguen la misma directiva que la de los usuarios internos. Cualquier interacción en un sitio de Project online requiere una suscripción a Plan 3 o proyecto 5 de proyecto.</br>
-<sup>7</sup> los usuarios con una suscripción a un plan de proyecto 3 o un plan 5 pueden enviar solicitudes de compromiso de recursos. No pueden revisar, entregar o aprobar solicitudes de participación de recursos.</br>
-<sup>8</sup> los usuarios con una suscripción a un plan de proyecto 5 pueden revisar, cumplir y aprobar solicitudes de participación en recursos.</br>
-<sup>9</sup> Active Directory requiere una suscripción independiente. </br>
+<sup>7</sup> automatizar e integrar procesos empresariales con la automatización de la alimentación con Project para los datos Web requiere una suscripción de potencia automatizada y una suscripción de plan de proyecto 3 o proyecto 5.</br>
+<sup>8</sup> los usuarios con una suscripción a un plan de proyecto 3 o un plan 5 pueden enviar solicitudes de compromiso de recursos. No pueden revisar, entregar o aprobar solicitudes de participación de recursos.</br>
+<sup>9</sup> los usuarios con una suscripción a un plan de proyecto 5 pueden revisar, cumplir y aprobar solicitudes de participación en recursos.</br>
+<sup>10</sup> Active Directory requiere una suscripción independiente. </br>
 
 ### <a name="project-online-desktop-client-features"></a>Características del cliente de escritorio de Project online
 
@@ -285,7 +289,7 @@ Project para la web tiene algunas limitaciones, que se describen en la siguiente
 |Máx. duración de la tarea de Resumen | 3650 días (10 años) |
 |Máx. recursos que se pueden asignar a una tarea | 20 recursos |
 |Intervalo de fechas admitido para la tarea | 1/1/1984 &ndash; 12/31/2149 |
-|**Project** ||
+|**Proyecto** ||
 |Máx. total de tareas para el proyecto | 500 |
 |Máx. duración total del proyecto | 3650 días (10 años) |
 |Máx. recursos totales del proyecto | 150 |
