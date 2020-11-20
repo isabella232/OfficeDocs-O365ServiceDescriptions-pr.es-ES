@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 70de0bd1a2feac6e75f9e7c355825c23fa8d0dfd
-ms.sourcegitcommit: 0d27ffdf8f30b7300089a786338cb9723ace1a38
+ms.openlocfilehash: 71ea60a2041118a13f5ff304c0b3b8c86f089ae9
+ms.sourcegitcommit: a4afd9739559c0735e167e758d04b7f676b89190
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "48999723"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49330267"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -298,8 +298,8 @@ Las siguientes licencias proporcionan los derechos para que un usuario se benefi
 - Microsoft 365 E5/A5
 - Microsoft 365 E5/control de & de protección de información A5
 - Cumplimiento de Microsoft 365 E5/A5
-- Microsoft 365 E5/administración de riesgos de Insider A5 
-- Microsoft 365 E5/la exhibición de documentos electrónicos A5 y auditoría 
+- Microsoft 365 E5/administración de riesgos de Insider A5
+- Microsoft 365 E5/la exhibición de documentos electrónicos A5 y auditoría
 - Office 365 E5/A5
 - Cumplimiento avanzado de Office 365
 
@@ -377,11 +377,7 @@ Se pueden habilitar las claves de cifrado de clave de cliente de Office 365 para
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Para asignar claves de cifrado a datos dentro de una organización de Office 365 o Microsoft 365 para usuarios con licencia, siga las instrucciones de implementación de claves de cifrado de clave de cliente.
-
-- Para los archivos de SharePoint Online, OneDrive para la empresa y Microsoft Teams, los archivos de uno o varios sitios pueden cifrarse con la clave de cliente.
-
-- Para Exchange Online y Skype empresarial, los buzones pueden cifrarse con la clave de cliente.
+Para Exchange Online y Skype empresarial, los buzones pueden cifrarse con la clave de cliente. Debe configurar Azure antes de poder usar la clave de cliente de Office 365. Consulte [configurar la clave de cliente](https://docs.microsoft.com/microsoft-365/compliance/customer-key-set-up?view=o365-worldwide) para conocer los pasos que debe seguir para crear y configurar los recursos necesarios de Azure y los pasos para configurar la clave de cliente en Office 365. Una vez completada la configuración de Azure, determine qué directiva y, por lo tanto, qué claves asignar a los buzones de correo y los archivos de su organización. Los buzones de correo y los archivos para los que no se asigna una directiva usarán directivas de cifrado controladas y administradas por Microsoft. Para obtener más información acerca de la clave de cliente o para obtener información general, consulte [Service Encryption with Customer key in Office 365](https://docs.microsoft.com/microsoft-365/compliance/customer-key-overview?view=o365-worldwide).
 
 ## <a name="office-365-customer-lockbox"></a>Caja de seguridad del cliente de Office 365
 
