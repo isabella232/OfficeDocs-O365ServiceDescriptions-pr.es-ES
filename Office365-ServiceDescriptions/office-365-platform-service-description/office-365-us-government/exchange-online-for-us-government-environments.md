@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general sobre las diferencias de características entre la nube del gobierno de Estados Unidos y la nube comercial, tal como se muestra en la descripción del servicio Exchange Online.
-ms.openlocfilehash: e8e552076f7e318db9a4de17ad605d3c260b2295
-ms.sourcegitcommit: 09b52ff24e7153457c7b4f775ea809079103f6e9
+ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
+ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "48988087"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "49376093"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online para entornos gubernamentales de Estados Unidos
 
@@ -111,7 +111,7 @@ En la tabla siguiente se indica si las características de Exchange Online espec
 |Buzones de sitio|Sí|Sí|Sí||
 |Carpetas públicas|Sí|Sí|Sí||
 |**[Clientes y dispositivos móviles](../../exchange-online-service-description/clients-and-mobile-devices.md)**|**GCC**|**GCC High**|**DoD**|**Consideraciones clave**|
-|Para realizar la web|Sí|No|No||
+|Tareas pendientes en la web|Sí|No|No||
 |Outlook para Windows|Sí|Sí|Sí|Para cumplir con los requisitos de cumplimiento de GCC High y DoD, debe ejecutar al menos la versión 1803 de Office 365 ProPlus. Office 365 ProPlus no se incluye con G1 o F3.|
 |Outlook en la Web|Sí|Sí|Sí||
 |Outlook para Mac|Sí|Sí|Sí|Para cumplir con los requisitos de cumplimiento de GCC High y DoD, debe ejecutar al menos la versión 1803 de Office 365 ProPlus. Office 365 ProPlus no se incluye con G1 o F3.|
@@ -170,7 +170,7 @@ Para obtener más información y las actualizaciones más recientes, consulte [A
 
 ### <a name="office-365-message-encryption-behavior-across-gcc-highdod-boundary"></a>Comportamiento de cifrado de mensajes de Office 365 en límite alto/DoD de GCC
 
-Si va a usar el cifrado de mensajes de Office 365 en un entorno de GCC High, tenga en cuenta estas características únicas sobre la experiencia de los destinatarios:  
+Si planea usar el cifrado de mensajes de Office 365 en un entorno de GCC High, tenga en cuenta estas características únicas sobre la experiencia de los destinatarios:  
 
 - Al enviar correo electrónico cifrado desde GCC High o DoD a destinatarios en el mismo entorno:
     
@@ -212,13 +212,13 @@ Outlook para iOS y Android también está disponible para los entornos de GCC al
 
 Solo algunos complementos de OWA y Outlook están disponibles en GCC High y DoD. Mis plantillas y las reuniones sugeridas están disponibles y se espera que funcionen. Solo se admiten los cinco complementos predeterminados de OWA. La integración con aplicaciones de terceros es posible, pero estas integraciones no están cubiertas por las promesas de cumplimiento de Microsoft para GCC High o DoD. Los clientes deben familiarizarse con prácticas de administración de datos de terceros y las promesas de cumplimiento antes de configurar el complemento para su organización.
 
-## <a name="feature-nuances-within-gcc-environments"></a>Características de matices de contenido en entornos GCC
+## <a name="feature-nuances-within-gcc-environments-for-microsoft-to-do"></a>Características de matices en entornos GCC para tareas pendientes de Microsoft
 
 | Característica | Descripción | WW | Disponibilidad en GCC |
 |:-----|:-----|:-----|:-----|
 |Plataformas compatibles|Web, Android, iOS, Mac, Windows|Todo|Solo Web|
 |El concentrador M365 admite|Integraciones con Outlook, Teams, Planner|Todo|Outlook, Planner (Teams para que esté disponible con la aplicación tareas de Teams)|
-|Migración de Wunderlist|Permitir que los usuarios de Wunderlist migren datos a tareas pendientes|Sí|No|
+|Migración de Wunderlist|Permitir que los usuarios de Wunderlist migren datos a tareas pendientes en la web|Sí|No|
 |Notificaciones push|Enviar notificaciones de inserción a los usuarios finales para los avisos, etc.|Sí|No|
 |Compatibilidad con Helpshift|Usar la interfaz de helpshift para crear una solicitud de soporte técnico|Sí|No|
 |Mi día|Planeación del día|Sí|Sí|
