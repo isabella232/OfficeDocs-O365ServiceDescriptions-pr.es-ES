@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 ofrecido por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: be7b7edc4f441544b4b61afe2f03385c7581b6c1
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: cf7a9d2a9f8775f655eb51d3023ac01683445965
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294136"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411659"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -151,7 +151,7 @@ En la tabla siguiente se enumeran todas las características de plataforma para 
 |Explorador utilizado|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Sistema operativo utilizado|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Cree sus propios informes con los servicios Web de informes de Microsoft 365|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Actualizaciones de servicio](service-updates.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F3 operado por 21Vianet**|
+|**[Actualizaciones del servicio](service-updates.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F3 operado por 21Vianet**|
 |Actualizaciones habituales para todos los clientes|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Notificaciones enviadas al centro de mensajes cuando se requiere una acción, se resuelve un problema, se implementan características o se modifica el servicio.|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |[Roadmap.Office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) para algunas actualizaciones de servicio|Sí|--|Sí|Sí|Sí|Sí|Sí|
@@ -295,7 +295,7 @@ En la tabla siguiente se proporcionan vínculos a comparaciones de Office para o
 > - Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office.
 > - Los clientes locales de Microsoft Office Web Apps Server 2013 obtienen una licencia de edición web de Office si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (como Office Professional Plus, Office Standard o una licencia de Office 365 ProPlus).
 
-| Aplicación | Office para la web ofrecido por 21Vianet | Vínculo a una comparación de características detallada |
+| Application | Office para la web ofrecido por 21Vianet | Vínculo a una comparación de características detallada |
 |:-----|:-----|:-----|
 |Word|Word para el Web ofrecido por 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para el Web ofrecido por 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -334,7 +334,7 @@ En la siguiente tabla se enumeran los servicios de Exchange Online que están di
 |Reglas de flujo del correo (reglas de transporte)|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
 |Prevención de pérdida de datos|No|No|No|No|No|Sí|No|
 |Registro en diario|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Protección contra correo electrónico no deseado y antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F3 operado por 21Vianet**|
+|**[Protección contra correo no deseado y malware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F3 operado por 21Vianet**|
 |Protección contra correo no deseado integrada|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Customize anti-spam policies|Sí|Sí|Sí|Sí|Sí|Sí|Sí <sup>4</sup>|
 |Protección contra malware integrada|Sí<sup>5</sup>|Sí<sup>5</sup>|Sí<sup>5</sup>|Sí<sup>5</sup>|Sí<sup>5</sup>|Sí<sup>5</sup>|Sí<sup>5</sup>|
@@ -732,7 +732,7 @@ La versión de Office 365 operado por 21Vianet de Office 365 es específica de C
 |Query throttling|Sí|No|Sí|Sí|Sí|Sí|Sí|
 |Vista previa al activar el puntero|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Ranking models|N°<sup>5</sup>|No|No|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|
-|Refiners|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Refinadores|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |RESTful Query API/Query OM|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Result sources|Sí|Sí|Sí|No|No|No|No|
 |Search connector framework|No|No|No|No|No|No|No|
@@ -1070,7 +1070,7 @@ No se admiten las siguientes características móviles:
 - "LinkedIn" & "Reports to" Data on People Card
 - Favoritos
 - Reproducir mis correos electrónicos
-- Complementos
+- Add-Ins
 - Respuesta inteligente
 - Fuente de Office
 - Tiempo para dejar
@@ -1099,7 +1099,7 @@ En la siguiente tabla se enumeran las características de Project Online que est
 |[Campos personalizados](../project-online-service-description/core-functionality.md#custom-fields)|No|Sí|Sí|Sí|No|
 |[Funciones copiar y pegar mejoradas en aplicaciones de Microsoft Office](../project-online-service-description/core-functionality.md#enhanced-copy-and-paste-across-microsoft-office-applications)|No|Sí|Sí|Sí|No|
 |[Vistas de diagrama de Gantt, calendario y hoja de tareas](../project-online-service-description/core-functionality.md#gantt-chart-calendar-and-task-sheet-views)|No|Sí|Sí|Sí|No|
-|[Interfaz de usuario de Microsoft Fluent, la cinta de opciones](../project-online-service-description/core-functionality.md#microsoft-fluent-user-interface-the-ribbon)|No|Sí|Sí|Sí|No|
+|[Interfaz de usuario, cinta](../project-online-service-description/core-functionality.md#user-interface-the-ribbon)|No|Sí|Sí|Sí|No|
 |[Deshacer en varios niveles](../project-online-service-description/core-functionality.md#multiple-level-undo)|No|Sí|Sí|Sí|No|
 |[Network diagram view](../project-online-service-description/core-functionality.md#network-diagram-view)|No|Sí|Sí|Sí|No|
 |[Tienda Office](../project-online-service-description/core-functionality.md#office-store)|No|No|No|No|No|

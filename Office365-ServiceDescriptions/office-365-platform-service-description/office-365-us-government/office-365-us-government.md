@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos exclusivos y en constante evolución del sector público de los Estados Unidos, Microsoft ha creado Office 365 US Government Plans (o Office 365 Government). En este artículo se proporciona información general sobre las características específicas de los entornos de Office 365 Government US.
-ms.openlocfilehash: 3e4b5b908196b96d56f79fd9ec487e43bb631366
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 583d901990feca273421f6c66a5f611cd3591200
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830417"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411619"
 ---
 # <a name="office-365-government"></a>Office 365 Administración Pública
 
@@ -237,7 +237,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Explorador utilizado|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
 |Sistema operativo utilizado|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
 |Cree sus propios informes con los servicios Web de informes de Microsoft 365|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
-|**[Actualizaciones de servicio](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Administración Pública G1**|**Office 365 Administración Pública G3**|**Office 365 Administración Pública G5**|**Office 365 administración pública F3**|
+|**[Actualizaciones del servicio](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Administración Pública G1**|**Office 365 Administración Pública G3**|**Office 365 Administración Pública G5**|**Office 365 administración pública F3**|
 |Actualizaciones habituales para todos los clientes|Sí|Sí|Sí|Sí|
 |Las notificaciones se envían a Centro de mensajes cuando la acción es necesaria|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
 |Roadmap.office.com para algún servicio actualizaciones|No<sup>10, 13</sup>|No<sup>10, 13</sup>|No<sup>10, 13</sup>|No<sup>10, 13</sup>|
@@ -446,6 +446,7 @@ Las siguientes aplicaciones de Office están disponibles en las nubes gubernamen
 |Chat contextual con coautores: charle con coautores en el documento|No|No|No|
 |Dictado|No<sup>1</sup>|No<sup>1</sup>|No<sup>1</sup>|
 
+Para obtener la disponibilidad de las características de Microsoft Teams en GCC/GCC High/DoD, visite la [Descripción del servicio Microsoft Teams](https://docs.microsoft.com/office365/servicedescriptions/teams-service-description).
 > <sup>1</sup> disponibilidad próximamente.
 <br/><sup>2</sup> disponibilidad en Surface Hub local (no iniciada).
 <br/><sup>3</sup> el uso compartido externo está disponible para el entorno gcc. Obtenga más información sobre cómo [activar o desactivar Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) para su organización. El uso compartido externo está deshabilitado para los entornos de GCC altos y DOD; los usuarios de la organización pueden hacer lo siguiente: completar un formulario y enviar respuestas, [duplicar y compartir un formulario como una plantilla](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f), [trabajar en co-autoría o colaborar en un formulario](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b), y [obtener acceso a los resultados del formulario](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af).

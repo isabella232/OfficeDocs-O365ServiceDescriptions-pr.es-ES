@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y trabajo cotidiano. Project online, que se entrega a través de Office 365, proporciona potentes capacidades de administración de proyectos para planificar, priorizar y administrar proyectos e inversiones en carteras de proyectos desde prácticamente cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 5288a0b4160ad8f48fbae17030a4726b541dc7b0
-ms.sourcegitcommit: e6626910d7ccd2898a6e550b7c46b4f623142bd9
+ms.openlocfilehash: c00ab33ada0de493a0e1f79c898f735824f9e7d9
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085744"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411599"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -67,7 +67,7 @@ El cliente de escritorio de Microsoft Project online es un programa de administr
 
 Aunque Project para web y Project online son aplicaciones independientes, puede usarlas en paralelo. Puede ver todos los proyectos de ambas aplicaciones en la Página principal de Project. Puede usar la función de guía básica del proyecto para crear guías de desarrollo que incluyan proyectos de ambas aplicaciones. Además, puede usar Power BI y el proyecto para el paquete de contenido de web Power BI para obtener información sobre proyectos y recursos en las dos aplicaciones. <sup>3</sup>
 
-Este diagrama muestra cómo las aplicaciones pueden funcionar juntas en paralelo.
+Este diagrama muestra cómo las aplicaciones pueden trabajar juntas en paralelo.
 
 ![Diagrama que muestra el proyecto en la web y Project online juntos](../media/project-online-applications.png)
 
@@ -102,7 +102,7 @@ Las características que se enumeran en esta sección interactúan sólo con los
 |Programación de tareas | Obtenga una vista de pájaros de los proyectos en los que ha trabajado recientemente, así como proyectos importantes que necesita supervisar de cerca.| Ver solamente | Sí | Sí | Sí |
 |Vista escala de tiempo (diagrama de Gantt) | Realizar un seguimiento y comprender visualmente las fechas de los proyectos, las dependencias y las asignaciones en una vista jerárquica de escala de tiempo.|Ver solamente | Sí | Sí | Sí |
 |Tareas de resumen | Planear, administrar y realizar un seguimiento de los resultados y las fases mediante tareas de resumen.| Ver solamente | Sí | Sí | Sí |
-|Crear y usar campos personalizados de tarea | Agregar campos personalizados locales a las tareas de un proyecto, agregar datos a estos campos o actualizar datos en estos campos.| No | Sí | Sí | Sí |
+|Crear y usar campos personalizados de tarea | Agregar campos personalizados locales a las tareas de un proyecto, agregar datos a estos campos o actualizar datos en estos campos.| Solo vista | Sí | Sí | Sí |
 |**Colaboración** ||||||
 |Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí | Sí | Sí |
 |**Administración de recursos y programas** ||||||
@@ -118,13 +118,13 @@ Las características que se enumeran en esta sección interactúan sólo con los
 |Aplicaciones móviles | Cree aplicaciones móviles personalizadas con PowerApps. <sup>4</sup> |No | No | Sí | Sí |
 |**Personalización e integración**||||||
 |Uso de la aplicación de proyecto preparada | Use la aplicación de proyecto precreada para ver un proyecto, crear un nuevo proyecto, agregar nuevos datos a un proyecto o actualizar los datos del proyecto existente. | Solo vista | Sí | Sí | Sí |
-|Personalización de vistas y formularios <sup>4</sup> | Personalice sólo las vistas y los formularios de la aplicación de Project. | No | Sí | Sí | Sí |
-|Usar campos personalizados | Ver, agregar, actualizar o eliminar datos en un campo personalizado. | Solo vista | Solo vista | Sí | Sí |
-|Usar entidades personalizadas <sup>5</sup> | Cree y defina entidades personalizadas para conservar los datos adicionales que necesita para sus proyectos, programas, carteras, etc. | No | Solo vista | Sí | Sí |
+|Personalización de vistas y formularios <sup>4</sup> | Personalice sólo las vistas y los formularios de la aplicación de Project. | Solo vista | Sí | Sí | Sí |
+|Usar columnas personalizadas | Permite ver, agregar, actualizar o eliminar datos en una columna agregada a una tabla. | Solo vista | Solo vista | Sí | Sí |
+|Usar tablas personalizadas <sup>5</sup> | Cree y defina tablas personalizadas para contener los datos adicionales que necesita para sus proyectos, carteras, etc. | No | Solo vista | Sí | Sí |
 |**Seguridad y administración de usuarios**||||||
 |Grupos modernos de Office | Cree un equipo de proyecto para colaborar con y configurar fácilmente una colección de recursos que los integrantes del grupo puedan compartir. | Sí | Sí | Sí | Sí |
 |**Aplicaciones de terceros**||||||
-|Conectarse al *proyecto para la web* con aplicaciones de terceros <sup>4</sup> | Use una aplicación personalizada o de terceros para ver, crear, actualizar o eliminar datos de proyecto en cualquier entidad de proyecto nativa o personalizada.<br> Cree informes en aplicaciones de terceros basadas en Project para los datos Web. | No | No | Sí | Sí |
+|Conectarse a *Project para la web* con aplicaciones de terceros <sup>4</sup> | Use una aplicación personalizada o de terceros para ver, crear, actualizar o eliminar datos de proyecto en cualquier tabla de proyecto nativa o personalizada.<br> Cree informes en aplicaciones de terceros en función del proyecto para los datos Web. | No | No | Sí | Sí |
 
 ### <a name="project-online-features"></a>Características de Project Online
 
@@ -157,7 +157,7 @@ Las características que se enumeran en esta sección interactúan solo con los 
 |Attachments | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administre estos datos adjuntos en una biblioteca central en el nivel de equipo o de proyecto. | Sí | Sí |
 |Miembros del equipo externo |Colaborar con personas de fuera de la organización al concederles acceso para ver e interactuar con sus proyectos, tareas y documentos. <sup>6</sup> | Sí | Sí |
 |Sitios del proyecto | Crear y personalizar un concentrador para la colaboración y los documentos de un proyecto. | Sí | Sí |
-Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí |
+|Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí |
 |**Administración de propuestas** ||||
 |Configuración del flujo de trabajo de aprobación de solicitudes de proyecto | Cree los flujos de trabajo que necesita para evaluar, priorizar y aprobar la demanda entrante. | No | Sí |
 |Creación de formularios de solicitud de proyecto | Recopilar datos importantes sobre la demanda entrante para ayudarle a evaluar y priorizar el nuevo trabajo. | No | Sí |
@@ -196,7 +196,7 @@ Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <su
 <sup>dos</sup> tarjetas de Azure adquiridas por separado.</br>
 <sup>3</sup> el informe para el proyecto para el Web y Project online está disponible mediante Power BI. Requiere una licencia de Power BI.</br>
 <sup>4</sup> la creación y el uso de aplicaciones de energía independientes más allá de la aplicación de Project integrada que tiene acceso a Project para los datos de cliente de web o de Project online requiere una suscripción a Power apps independiente.</br>
-<sup>5</sup> limitado a 5 entidades personalizadas.</br>
+<sup>5</sup> limitado a 5 tablas personalizadas.</br>
 <sup>6</sup> las licencias de Project online para usuarios externos siguen la misma directiva que la de los usuarios internos. Cualquier interacción en un sitio de Project online requiere una suscripción a Plan 3 o proyecto 5 de proyecto.</br>
 <sup>7</sup> automatizar e integrar procesos empresariales con la automatización de la alimentación con Project para los datos Web requiere una suscripción de potencia automatizada y una suscripción de plan de proyecto 3 o proyecto 5.</br>
 <sup>8</sup> los usuarios con una suscripción a un plan de proyecto 3 o un plan 5 pueden enviar solicitudes de compromiso de recursos. No pueden revisar, entregar o aprobar solicitudes de participación de recursos.</br>

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 8708b029-f2d3-498d-b1f3-7052f4eb3b18
 description: Las siguientes características principales de funcionalidad están disponibles en Project online.
-ms.openlocfilehash: 81a749c6fa58f02227085bacc87e4630ca8ea310
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: a9a043ea3106803ae9a7869e0c7946bcbdedca6b
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294046"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411589"
 ---
 # <a name="core-functionality"></a>Funcionalidad principal
 
@@ -34,7 +34,7 @@ Seleccione **archivo** para usar las características de backstage, donde puede 
   
 ## <a name="click-to-run"></a>Hacer clic y ejecutar
 
-Instale rápidamente Project online a través de Internet, redes internas, sistemas de archivos locales o medios sin conexión para asegurarse de que está actualizado con la versión más reciente de la aplicación de escritorio de Project. Para obtener más información, vea [Hacer clic y ejecutar](https://go.microsoft.com/fwlink/p/?LinkId=271596).
+Instale rápidamente Project online a través de Internet, redes internas, sistemas de archivos locales o medios sin conexión para asegurarse de que está al día con la versión más reciente de la aplicación de escritorio de Project. Para obtener más información, vea [Hacer clic y ejecutar](https://go.microsoft.com/fwlink/p/?LinkId=271596).
   
 ## <a name="contextual-right-click-menus"></a>Menús contextuales con el botón derecho
 
@@ -52,13 +52,13 @@ Colabore en el desarrollo de la programación copiando y pegando detalles de la 
 
 Presentar información del proyecto gráficamente mediante diagrama de Gantt, diagrama de red, gráfico, hoja, uso y vistas de formulario. Vea [Seleccionar la vista adecuada para su programación de proyecto](https://go.microsoft.com/fwlink/?LinkId=402905).
   
-## <a name="microsoft-fluent-user-interface-the-ribbon"></a>Microsoft Fluent user interface, the ribbon
+## <a name="user-interface-the-ribbon"></a>Interfaz de usuario, cinta
 
-Aumente la productividad con la cinta de opciones, una interfaz de pestaña que le permitirá encontrar y usar rápidamente los controles y las características de los proyectos. [Obtenga más información sobre la cinta de opciones](https://go.microsoft.com/fwlink/p/?LinkId=271325).
-  
+Aumente la productividad con la cinta de opciones, una interfaz de pestaña que le permitirá encontrar y usar rápidamente los controles y las características de los proyectos.
+
 ## <a name="multiple-level-undo"></a>Deshacer en varios niveles
 
-Puede deshacer varios cambios a la vez mediante el menú Deshacer. 
+Puede deshacer varios cambios a la vez mediante el menú Deshacer.
   
 ## <a name="network-diagram-view"></a>Vista Diagrama de red
 
@@ -70,7 +70,7 @@ Vea tareas, dependencias y la ruta crítica del proyecto en la vista Diagrama de
   
 ## <a name="online-help"></a>Ayuda en línea
 
-La ayuda de Project está disponible en Office.com o en las guías de introducción directamente en **File** Project (seleccione \> **nuevo**archivo). [Vea estos vídeos para cambiar a Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+La ayuda de Project está disponible en Office.com o en las guías de introducción directamente en **File** Project (seleccione \> **nuevo** archivo). [Vea estos vídeos para cambiar a Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 
@@ -103,5 +103,3 @@ Use los controles de zoom de la barra de estado para cambiar rápidamente la per
 ## <a name="feature-availability"></a>Disponibilidad de características
 
 Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Project online Service Description](project-online-service-description.md).
-  
-

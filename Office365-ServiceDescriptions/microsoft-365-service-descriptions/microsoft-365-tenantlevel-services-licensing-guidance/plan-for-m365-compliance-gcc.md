@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades gubernamentales de Estados Unidos, Estados, locales, Tribals o entidades gubernamentales, o en otras entidades que administran datos sujetos a los requisitos y las regulaciones gubernamentales, donde el uso de Microsoft 365 Government-GCC es adecuado para cumplir con estos requisitos.
-ms.openlocfilehash: cdffd000037a4481e420b41418ce80f4febcb013
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 15e533e9a0484d494ee9430d057df9dcd847fffd
+ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072681"
+ms.lasthandoff: 11/25/2020
+ms.locfileid: "49411649"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planeación de cumplimiento de Microsoft 365: GCC
 
@@ -46,7 +46,7 @@ La [Descripción del servicio Office 365 US Government](https://docs.microsoft.c
 > [!NOTE]
 > Microsoft 365 Government-GCC solo está disponible en Estados Unidos. Los clientes que no son del gobierno de Estados Unidos pueden elegir entre varios [planes de Office 365 administración pública](https://products.office.com/government/compare-office-365-government-plans).
 
-**Puntos de decisión** : <br/>
+**Puntos de decisión**: <br/>
 - *Decida si Microsoft 365 Government-GCC es adecuado para su organización.*
 - *Confirmar que la organización cumple los requisitos de elegibilidad.*
 
@@ -58,7 +58,7 @@ Tras haber decidido que este servicio es adecuado para su organización, inicie 
 
 Le recomendamos que tenga tiempo para revisar minuciosamente la configuración de administración y seguridad antes de modificarla y tenga en cuenta el impacto en el cumplimiento antes de realizar cambios en la configuración de seguridad predeterminada.
 
-**Punto de decisión** : *decida si va a modificar cualquiera de las configuraciones de seguridad predeterminadas de Microsoft 365 Government-GCC, que se resuelven para comprender primero el impacto de los cambios que puede realizar.*
+**Punto de decisión**: *decida si va a modificar cualquiera de las configuraciones de seguridad predeterminadas de Microsoft 365 Government-GCC, que se resuelven para comprender primero el impacto de los cambios que puede realizar.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gccsup1sup"></a>Paso 4. Conocer las funcionalidades que actualmente no están disponibles o deshabilitadas de forma predeterminada en Microsoft 365 Government – GCC<sup>1</sup>
 
@@ -182,7 +182,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Auditoría avanzada: información de auditoría procesada                               | Sobre el trabajo pendiente de ingeniería |
 |                                         | Auditoría avanzada: buscar eventos de término en Exchange Online y SharePoint Online                              | Sobre el trabajo pendiente de ingeniería |
 |    **Administración de cumplimiento**            | Centro de seguridad y cumplimiento de Microsoft 365                              | Disponible |
-|                                         | Administrador de cumplimiento                              | Publicación |
+|                                         | Administrador de cumplimiento                              | Disponible |
 |                                         | Microsoft Cloud App Security                              | Sobre el trabajo pendiente de ingeniería |
 |                                         | Compatibilidad con caracteres de doble byte                              | Sobre el trabajo pendiente de ingeniería |
 |    **Sistema**            | API de Graph para eDiscovery avanzado                              | En desarrollo |
@@ -195,4 +195,4 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 
 <sup>1</sup> el estado identificado está sujeto a cambios a medida que se reevalúan los planes y las prioridades de los proyectos.<br/>
 
-**Punto de decisión** : *decida si las características de cumplimiento satisfacen las necesidades de su organización.*
+**Punto de decisión**: *decida si las características de cumplimiento satisfacen las necesidades de su organización.*
