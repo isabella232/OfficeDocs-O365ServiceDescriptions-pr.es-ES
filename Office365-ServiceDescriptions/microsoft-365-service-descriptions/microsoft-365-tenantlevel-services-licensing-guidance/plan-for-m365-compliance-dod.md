@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades de gobierno federal de Estados Unidos u otras entidades que administran datos que están sujetos a los requisitos y las regulaciones gubernamentales, donde el uso de Microsoft 365 Government – DoD es adecuado para cumplir con estos requisitos.
-ms.openlocfilehash: c15ca172c97c6549649e44d76dca019d866a7a4f
-ms.sourcegitcommit: 29db7a8836114967fa3bf95ceed0b01222959962
+ms.openlocfilehash: 6f0a271a6d547f69dfb7d3d20ba943465eb149a6
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "48830421"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519051"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - DoD
 
@@ -38,9 +38,9 @@ Puede encontrar más información acerca de la oferta de Microsoft 365 Governmen
 La [Descripción del servicio Office 365 US Government](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government) describe los beneficios de la plataforma, que se centran en cumplir con los requisitos de cumplimiento en los Estados Unidos.
 
 > [!TIP]
-> Es posible que desee transferir las tablas de información de la descripción del servicio a un libro de Excel y agregar dos columnas: **importante para mi organización y/n** y **que satisfaga las necesidades de la organización y/n** . A continuación, puede revisar esta lista con sus colegas para confirmar que este servicio cumple con las necesidades de su organización.
+> Es posible que desee transferir las tablas de información de la descripción del servicio a un libro de Excel y agregar dos columnas: **importante para mi organización y/n** y **que satisfaga las necesidades de la organización y/n**. A continuación, puede revisar esta lista con sus colegas para confirmar que este servicio cumple con las necesidades de su organización.
 
-**Puntos de decisión** :<br/>
+**Puntos de decisión**:<br/>
 - *Decida si Microsoft 365 Government-DoD es adecuado para su organización.*
 - *Confirmar que la organización cumple los requisitos de elegibilidad.*
 
@@ -55,7 +55,7 @@ Tras haber decidido que este servicio es adecuado para su organización, inicie 
 
 Le recomendamos que tenga tiempo para revisar minuciosamente la configuración de administración y seguridad antes de modificarla y tenga en cuenta el impacto en el cumplimiento antes de realizar cambios en la configuración de seguridad predeterminada.
 
-**Punto de decisión** : *decida si va a modificar cualquiera de los valores predeterminados de la configuración de seguridad de Microsoft 365 Government-DOD, resolviendo para comprender primero el impacto de los cambios que puede realizar.*
+**Punto de decisión**: *decida si va a modificar cualquiera de los valores predeterminados de la configuración de seguridad de Microsoft 365 Government-DOD, resolviendo para comprender primero el impacto de los cambios que puede realizar.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--dodsup1sup"></a>Paso 4. Conocer las funcionalidades que actualmente no están disponibles o deshabilitadas de forma predeterminada en Microsoft 365 Government – DoD<sup>1</sup>
 
@@ -109,7 +109,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Administración de riesgos de Insider: escalar para la investigación de eDiscovery avanzado |Sobre el trabajo pendiente de ingeniería|
 |                                         | Administración de riesgos de Insider: indicadores de dispositivos de actividad en Windows 10 compilación 1809 y posteriores |Sobre el trabajo pendiente de ingeniería|
 |                                         | Administración de riesgos de Insider: indicadores de infracción de la Directiva de seguridad (versión preliminar) |Sobre el trabajo pendiente de ingeniería|
-|                                         | Administración de riesgos de Insider: indicadores para alertas de ATP de Windows Defender (versión preliminar) |Sobre el trabajo pendiente de ingeniería|
+|                                         | Administración de riesgos de Insider: indicadores de las alertas de Microsoft defender para Endpoint (versión preliminar) |Sobre el trabajo pendiente de ingeniería|
 |                                         | Administración de riesgos de Insider: plantillas de directiva para pérdidas de datos por usuarios con prioridad (versión preliminar) | Sobre el trabajo pendiente de ingeniería |
 |                                         | Administración de riesgos de Insider: plantillas de directiva para pérdidas de datos por usuarios descontentos (versión preliminar) | Sobre el trabajo pendiente de ingeniería |
 |                                         | Administración de riesgos de Insider: plantillas de directiva para infracciones de directivas de seguridad generales (versión preliminar) | Sobre el trabajo pendiente de ingeniería |
@@ -184,4 +184,4 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 
 <sup>1</sup> el estado identificado está sujeto a cambios a medida que se reevalúan los planes y las prioridades de los proyectos.<br/>
 
-**Punto de decisión** : *decida si las características de cumplimiento satisfacen las necesidades de su organización.*
+**Punto de decisión**: *decida si las características de cumplimiento satisfacen las necesidades de su organización.*

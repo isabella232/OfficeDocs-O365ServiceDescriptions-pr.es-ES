@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 y Office 365 están disponibles en diversos planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: 7cf4d42f1108e4ca303e2150449d3a6767487afc
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 805cb3c5c5e3ff197394b60d59a4c162792e27a7
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293826"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519131"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Microsoft 365 y Office 365
 
@@ -168,7 +168,7 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |Explorador utilizado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Sistema operativo utilizado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cree sus propios informes con los servicios Web de informes de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Actualizaciones de servicio](service-updates.md)** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
+|**[Actualizaciones del servicio](service-updates.md)** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Actualizaciones habituales para todos los clientes  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Las notificaciones se envían a Centro de mensajes cuando la acción es necesaria  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Roadmap.office.com para algún servicio actualizaciones  <br/> |Sí  <br/> |--  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -183,7 +183,7 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |**Confianza** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |**[Privacidad, seguridad y transparencia](privacy-security-and-transparency.md)** <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Office 365 Cloud App Security  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
-|Protección contra amenazas avanzada  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
+|Microsoft Defender para Office 365  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Caja de seguridad del cliente  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Clave de cliente<sup>14</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |EDiscovery avanzado<sup>15</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft valora las asociaciones que tenemos con nuestros clientes y pone mucho énfasis en la protección de la privacidad y seguridad de los datos de los clientes. Para obtener más información, visite el Centro de confianza de Microsoft.
-ms.openlocfilehash: c01f86eaac77e611a9566dd77b66cafeb1d03ca0
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: e7c34e6647b6d04be9fb83550c00f52d47917cbb
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131674"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519061"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
@@ -51,11 +51,10 @@ Como administrador de Microsoft, puede usar la caja de control del cliente para 
   
 La Caja de seguridad del cliente se incluye en el plan de Office 365 Enterprise 5 o se puede comprar una suscripción independiente con cualquier otro plan de Office 365 Enterprise. Para obtener más información, consulte [Solicitudes de caja de seguridad del cliente de Office 365](https://go.microsoft.com/fwlink/?LinkID=717969&amp;clcid=0x409).
   
-## <a name="advanced-threat-protection"></a>Advanced Threat Protection
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
 
-La protección contra amenazas avanzada de Office 365 ayuda a proteger la organización contra malware y virus. ATP incluye [vínculos seguros](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [datos adjuntos seguros](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [protección contra suplantación de identidad (phishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)) y características de [inteligencia de falsificación](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Vínculos seguros protege de forma proactiva a los usuarios de hipervínculos malintencionados en un mensaje, lo que proporciona protección cada vez que se selecciona el vínculo. Datos adjuntos seguros protege contra malware y virus desconocidos enrutando todos los mensajes y datos adjuntos que no tienen una firma de virus y malware conocida hacia un entorno especial donde ATP puede detectar las malas intenciones. Para obtener más información acerca de ATP, consulte la [Descripción del servicio de protección contra amenazas avanzada de Office 365](../office-365-advanced-threat-protection-service-description.md).
+Defender para Office 365 ayuda a proteger su organización contra malware y virus. Defender para Office 365 incluye [vínculos seguros](https://docs.microsoft.com/office365/securitycompliance/atp-safe-links), [datos adjuntos seguros](https://docs.microsoft.com/office365/securitycompliance/atp-safe-attachments), [antiphishing](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)y características de [inteligencia de suplantación](https://docs.microsoft.com/office365/securitycompliance/learn-about-spoof-intelligence) . Vínculos seguros protege de forma proactiva a los usuarios de hipervínculos malintencionados en un mensaje, lo que proporciona protección cada vez que se selecciona el vínculo. Datos adjuntos seguros protege contra malware y virus desconocidos, enrutando todos los mensajes y datos adjuntos que no tienen una firma de virus/malware conocida en un entorno especial donde defender para Office 365 puede detectar los intentos malintencionados. Para obtener más información acerca de defender para Office 365, consulte [Descripción del servicio de Microsoft defender para office 365](../office-365-advanced-threat-protection-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
 Para ver la disponibilidad de características entre planes, consulte la descripción del servicio de la [plataforma de Microsoft 365 y Office 365](office-365-platform-service-description.md).
-  

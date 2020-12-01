@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general sobre las diferencias de características entre la nube del gobierno de Estados Unidos y la nube comercial, tal como se muestra en la descripción del servicio Exchange Online.
-ms.openlocfilehash: 9f4250e48dc26899a4d4d184ac626bdfaea953e2
-ms.sourcegitcommit: fa0434ccf1d6a43a84d354c85352d8564fc036c4
+ms.openlocfilehash: 0a09c43b310e5c77321c6ac9cf1a9cf5989a6bef
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "49376093"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519101"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online para entornos gubernamentales de Estados Unidos
 
@@ -73,7 +73,7 @@ En la tabla siguiente se indica si las características de Exchange Online espec
 |Customize anti-malware policies|Sí|Sí|Sí||
 |Cuarentena: gestión de administradores|Sí|Sí|Sí||
 |Cuarentena: autoadministración de usuarios finales|Sí|Sí|Sí||
-|Protección contra amenazas avanzada|Sí|Sí|Sí|Requiere el plan de servicio G5 (o la compra del complemento).<br><br>La suplantación de identidad (phishing) para la suplantación de usuarios y dominios y la inteligencia de suplantación todavía no están disponibles en GCC High y DoD.|
+|Microsoft Defender para Office 365|Sí|Sí|Sí|Requiere el plan de servicio G5 (o la compra del complemento).<br><br>La suplantación de identidad (phishing) para la suplantación de usuarios y dominios y la inteligencia de suplantación todavía no están disponibles en GCC High y DoD.|
 |**[Flujo de correo](../../exchange-online-service-description/mail-flow.md)**|**GCC**|**GCC High**|**DoD**|**Consideraciones clave**|
 |Enrutamiento personalizado de correo saliente|Sí|Sí|Sí||
 |Secure messaging with a trusted partner|Sí|Sí|Sí||

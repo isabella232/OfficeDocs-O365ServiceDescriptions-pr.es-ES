@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vea qué características de SharePoint están disponibles en cada plan.
-ms.openlocfilehash: e99bfed4518c42e848e3937722d7b91eb3ec9ef1
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: 06a4f6a51e4f7bc4fa50867441f763a15291ef47
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661268"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519161"
 ---
 # <a name="sharepoint-service-description"></a>Descripción del servicio SharePoint
 
@@ -135,7 +135,7 @@ SharePoint se integra con las capacidades avanzadas de seguridad y cumplimiento 
 - [Prevención de pérdida de datos (DLP)](/microsoft-365/compliance/data-loss-prevention-policies) 
 - [exhibición](/microsoft-365/compliance/ediscovery-cases) de documentos electrónicos (búsqueda de contenido, retención, exportación)
 - [Barreras de información](/microsoft-365/compliance/information-barriers)
-- [Protección contra amenazas avanzada de Office 365 (ATP)](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
+- [Microsoft Defender para Office 365](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)
 - [Etiquetas y directivas de retención](/microsoft-365/compliance/auto-apply-retention-labels-scenario)
 - [Etiquetas de confidencialidad](/microsoft-365/compliance/sensitivity-labels)
 - [Auditoría unificada](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) (auditoría de la actividad del usuario y del administrador de SharePoint)

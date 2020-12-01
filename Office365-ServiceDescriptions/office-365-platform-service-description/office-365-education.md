@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes de Office 365 Education, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de aplicaciones de escritorio de Microsoft Office con versiones basadas en la nube de los servicios de colaboración y comunicaciones de próxima generación de Microsoft, &mdash; incluidos Microsoft Exchange Online, Microsoft SharePoint Online, Office para la web y Microsoft Skype empresarial online &mdash; para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
-ms.openlocfilehash: 51bb35c9ba93a67535bc5939dd7cb402441654e8
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 63cf6859c28c612649fc30579c534f210696056a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293886"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518881"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
@@ -138,7 +138,7 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 |Explorador utilizado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Sistema operativo utilizado  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cree sus propios informes con los servicios Web de informes de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Actualizaciones de servicio](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Actualizaciones del servicio](service-updates.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Actualizaciones habituales para todos los clientes  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Las notificaciones se envían a Centro de mensajes cuando la acción es necesaria  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Roadmap.office.com para algún servicio actualizaciones  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -153,7 +153,7 @@ En la siguiente tabla se enumeran todas las características de plataforma que e
 |**Confianza** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Privacidad, seguridad y transparencia](privacy-security-and-transparency.md) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Administración de seguridad avanzada  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|Protección contra amenazas avanzada  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|Microsoft Defender para Office 365  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Caja de seguridad del cliente  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |EDiscovery avanzado<sup>7</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Puntuación segura<sup>5</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -220,7 +220,7 @@ El [centro de seguridad y &amp; cumplimiento](https://docs.microsoft.com/microso
 <sup>2</sup> el gobierno de datos avanzado le permite conservar información importante y eliminar información inimportante mediante la clasificación de la información basándose en una directiva de retención o eliminación o en ambas. Incluye acciones inteligentes/automatizadas, como recomendaciones de directivas; aplicar automáticamente etiquetas a los datos; aplicar etiquetas basadas en consultas o tipos de datos confidenciales; y el uso de filtros de importación inteligente. También incluye la característica de supervisión para revisar las comunicaciones de los empleados con fines de seguridad y cumplimiento. <br/> 
 <sup>3</sup> ilimitado. <br/> 
 <sup>4</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]). <br/> 
-<sup>5</sup> la protección contra amenazas avanzada está disponible en Office 365 A5 y como un servicio independiente para Office 365 a1 y Office 365 a3.<br/>
+<sup>5</sup> Microsoft defender para Office 365 está disponible en Office 365 A5 y como servicio independiente para Office 365 a1 y Office 365 a3.<br/>
 <sup>6</sup> también puede usar la [API de actividad de administración 365 de Office](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado. <br/>
   
 ## <a name="office-application-features"></a>Características de aplicaciones de Office  
@@ -329,14 +329,14 @@ En la siguiente tabla se enumeran las características de Exchange online que es
 |Reglas de transporte  <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |Sí<sup>2</sup> <br/> |
 |Prevención de pérdida de datos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Registro en diario  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|**[Protección contra correo electrónico no deseado y antimalware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
+|**[Protección contra correo no deseado y malware](../exchange-online-service-description/anti-spam-and-anti-malware-protection.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Protección contra correo no deseado integrada  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Customize anti-spam policies  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Protección contra malware integrada  <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |
 |Customize anti-malware policies  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cuarentena: gestión de administradores  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cuarentena: autoadministración de usuarios finales  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Protección contra amenazas avanzada  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|Microsoft Defender para Office 365  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |**[Flujo de correo](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Enrutamiento personalizado de correo saliente  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Secure messaging with a trusted partner  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -506,7 +506,7 @@ El espacio de almacenamiento del buzón disponible para un usuario está determi
 <sup>3</sup> los buzones de recursos no requieren una licencia.<br/> 
 <sup>4</sup> los buzones de sitio se crean y administran en SharePoint Online. Para obtener más información, vea Prepararse para usar buzones de sitio en Office 365.<br/> 
 <sup>5</sup> se limita a 1000 buzones de carpetas públicas y el tamaño total máximo de todos los buzones de carpetas públicas es de 50 TB.<br/> 
-<sup>6</sup> el archivo local solo puede usarse para archivar correo de una sola entidad o usuario (por ejemplo, un buzón compartido) para el que se ha aplicado una licencia. No se permite usar el Archivo local para almacenar correo de varios usuarios o entidades. Por ejemplo, un administrador de TI no puede crear un buzón compartido ni permitir que los usuarios lo copien (con los campos CC o CCO, o mediante una regla de transporte) con el fin de archivarlo. Tenga en cuenta que un buzón compartido que usan varias personas en realidad no almacena correo electrónico de esos usuarios individuales. Varios usuarios tienen acceso y envían correos electrónicos como el buzón compartido. Por lo tanto, los únicos correos electrónicos almacenados en el buzón compartido son los que se envían a o desde él como el buzón compartido.<br/> 
+<sup>6</sup> In-Place archivo solo se puede usar para archivar correo de una sola entidad o usuario (por ejemplo, un buzón compartido) para el que se ha aplicado una licencia. No se permite usar el Archivo local para almacenar correo de varios usuarios o entidades. Por ejemplo, un administrador de TI no puede crear un buzón compartido ni permitir que los usuarios lo copien (con los campos CC o CCO, o mediante una regla de transporte) con el fin de archivarlo. Tenga en cuenta que un buzón compartido que usan varias personas en realidad no almacena correo electrónico de esos usuarios individuales. Varios usuarios tienen acceso y envían correos electrónicos como el buzón compartido. Por lo tanto, los únicos correos electrónicos almacenados en el buzón compartido son los que se envían a o desde él como el buzón compartido.<br/> 
 <sup>7</sup> si ha creado una directiva de retención en Exchange Online, los mensajes se moverán automáticamente al buzón de archivo de un usuario solo si el buzón de correo principal del usuario tiene más de 10 MB. La directiva de retención no se ejecutará automáticamente para los buzones cuyo tamaño sea inferior a 10 MB. 
   
 #### <a name="capacity-alerts"></a>Alertas de capacidad
@@ -691,7 +691,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |Número máximo de miembros de un grupo de distribución<sup>1</sup> <br/> |100 000 miembros  <br/> |100 000 miembros  <br/> |100 000 miembros  <br/> |
 |Límite de envío de mensajes a un grupo de distribución grande  <br/> |5 000 o más miembros  <br/> |5 000 o más miembros  <br/> |5 000 o más miembros  <br/> |
 |Tamaño máximo de mensaje para grandes grupos de distribución  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|Número máximo de propietarios de un grupo de distribución  <br/> |10    <br/> |10    <br/> |10    <br/> |
+|Número máximo de propietarios de un grupo de distribución  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Número máximo de grupos que un usuario puede crear  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Necesita una comparación de características de las suscripciones que incluyen Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: ad4107a146ea4c4042cd9c1551110c7ec4ca0632
-ms.sourcegitcommit: 9610e71d9e64a2bb0ffdfed8cc7ad51f8829905a
+ms.openlocfilehash: 9f800f70476914694926685fff654e379c16965a
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "48661288"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518901"
 ---
 # <a name="exchange-online-service-description"></a>Descripción de servicio de Exchange Online
 
@@ -97,14 +97,14 @@ Para ver la disponibilidad de características en Microsoft 365 Business Premium
 |Transport rules|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|
 |Prevención de pérdida de datos|Sí<sup>5, 14</sup>|Sí<sup>5, 14</sup>|No|No|No|Sí|Sí|No|
 |Registro en diario|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Protección contra correo electrónico no deseado y antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Protección contra correo no deseado y malware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Protección contra correo no deseado integrada|Sí<sup>6</sup>|Sí<sup>6</sup>|Sí|Sí|Sí|Sí|Sí|Sí|
 |Customize anti-spam policies|Sí, pero solo mediante PowerShell|Sí, pero solo mediante PowerShell|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
 |Protección contra malware integrada|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|Sí<sup>8</sup>|
 |Customize anti-malware policies|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
 |Cuarentena: gestión de administradores|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
 |Cuarentena: autoadministración de usuarios finales|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
-|Protección contra amenazas avanzada|No|Sí|No|No|No|No|Sí|No|
+|Microsoft Defender para Office 365|No|Sí|No|No|No|No|Sí|No|
 |**[Flujo de correo](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Enrutamiento personalizado de correo saliente|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Secure messaging with a trusted partner|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -232,7 +232,7 @@ Para ver la disponibilidad de características en Microsoft 365 Business Premium
 |Reglas de transporte|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|
 |Prevención de pérdida de datos|Sí<sup>10, 14</sup>|Sí<sup>10, 14</sup>|No|Sí|No|
 |Registro en diario|Sí|Sí|Sí|Sí|Sí|
-|**[Protección contra correo electrónico no deseado y antimalware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan &nbsp; 1)**|**Exchange Online (plan &nbsp; 2)**|**Quiosco de Exchange Online**|
+|**[Protección contra correo no deseado y malware](anti-spam-and-anti-malware-protection.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online (plan &nbsp; 1)**|**Exchange Online (plan &nbsp; 2)**|**Quiosco de Exchange Online**|
 |Protección contra correo no deseado integrada|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí|Sí|Sí|
 |Customize anti-spam policies|Sí, pero solo mediante PowerShell|Sí, pero solo mediante PowerShell|Sí|Sí|Sí<sup>8</sup>|
 |Protección contra malware integrada|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|Sí<sup>7</sup>|

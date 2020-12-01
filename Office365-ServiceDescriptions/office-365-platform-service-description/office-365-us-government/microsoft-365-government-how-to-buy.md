@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona una introducción a Microsoft 365 Government y se describen las opciones de compra.
-ms.openlocfilehash: 2bf7910aabe9cca517392a9709e759f932a05058
-ms.sourcegitcommit: 8d0cba71c48d22bd53bc3e7b2f51e6662e1e51e8
+ms.openlocfilehash: c64b60a2cf22e95d7e6158240cf505abf47451d2
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48931040"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519141"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government: Cómo comprar
 
@@ -89,7 +89,7 @@ Para obtener más información acerca de los servicios disponibles en Microsoft 
 
 - [Descripción del servicio de Office 365 Government](office-365-us-government.md)
 - [Descripción de Enterprise Mobility + Security for US Government Service Description](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft defender ATP para clientes de alta disponibilidad de los Estados Unidos GCC](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/commercial-gov)
+- [Microsoft defender for Endpoint for US Government it GCC High customers](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams para implementaciones gubernamentales-GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
 - [Teams para grandes implementaciones gubernamentales-GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams para la administración gubernamental-implementaciones de DoD](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)
@@ -161,7 +161,7 @@ Vea los siguientes recursos para obtener más información sobre Microsoft 365 G
 
 - [Descripción del servicio de Office 365 Government](office-365-us-government.md)
 - [Descripción de Enterprise Mobility + Security for US Government Service Description](https://docs.microsoft.com/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft defender ATP para clientes de alta disponibilidad de los Estados Unidos GCC](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/commercial-gov)
+- [Microsoft defender for Endpoint for US Government it GCC High customers](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams para implementaciones gubernamentales-GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc)
 - [Teams para grandes implementaciones gubernamentales-GCC](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams para la administración gubernamental-implementaciones de DoD](https://docs.microsoft.com/MicrosoftTeams/plan-for-government-dod)

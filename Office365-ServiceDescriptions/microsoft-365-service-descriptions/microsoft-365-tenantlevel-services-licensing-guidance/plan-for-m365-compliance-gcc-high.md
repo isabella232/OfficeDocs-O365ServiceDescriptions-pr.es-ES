@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades del gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government – GCC High es apropiado para cumplir estos requisitos.
-ms.openlocfilehash: 93e1a9d1c7b9819b7e3cb66e18827259c3393254
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072671"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518921"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan para Microsoft 365 Compliance – GCC High
 
@@ -38,7 +38,7 @@ La [Descripción del servicio Office 365 US Government](https://docs.microsoft.c
 > [!TIP]
 > Es posible que desee transferir las tablas de información de la descripción del servicio a un libro de Excel y agregar dos columnas: **importante para mi organización y/n** y **que satisfaga las necesidades de la organización y/n**. A continuación, puede revisar esta lista con sus colegas para confirmar que este servicio cumple con las necesidades de su organización.
 
-**Puntos de decisión** :<br/>
+**Puntos de decisión**:<br/>
 - *Decida si Microsoft 365 Government – GCC-High es adecuado para su organización.*
 - *Confirmar que la organización cumple los requisitos de elegibilidad.*
 
@@ -53,7 +53,7 @@ Tras haber decidido que este servicio es adecuado para su organización, inicie 
 
 Le recomendamos que tenga tiempo para revisar minuciosamente la configuración de administración y seguridad antes de modificarla y tenga en cuenta el impacto en el cumplimiento antes de realizar cambios en la configuración de seguridad predeterminada.
 
-**Punto de decisión** : *decida si va a modificar cualquiera de las configuraciones de seguridad predeterminadas de Microsoft 365 Government – GCC-High, que se resuelven para comprender primero el impacto de los cambios que puede realizar.*
+**Punto de decisión**: *decida si va a modificar cualquiera de las configuraciones de seguridad predeterminadas de Microsoft 365 Government – GCC-High, que se resuelven para comprender primero el impacto de los cambios que puede realizar.*
 
 ## <a name="step-4-understand-which-capabilities-are-currently-unavailable-or-disabled-by-default-in-microsoft-365-government--gcc-highsup1sup"></a>Paso 4. Comprenda las funcionalidades que actualmente no están disponibles o deshabilitadas de forma predeterminada en Microsoft 365 Government – GCC-High<sup>1</sup>
 
@@ -110,7 +110,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Administración de riesgos de Insider: escalar para la investigación de eDiscovery avanzado | En desarrollo|
 |                                         | Administración de riesgos de Insider: indicadores de dispositivos de actividad en Windows 10 compilación 1809 y posteriores | Sobre el trabajo pendiente de ingeniería|
 |                                         | Administración de riesgos de Insider: indicadores de infracción de la Directiva de seguridad (versión preliminar) | Sobre el trabajo pendiente de ingeniería|
-|                                         | Administración de riesgos de Insider: indicadores para alertas de ATP de Windows Defender (versión preliminar) | Sobre el trabajo pendiente de ingeniería|
+|                                         | Administración de riesgos de Insider: indicadores de las alertas de Microsoft defender para Endpoint (versión preliminar) | Sobre el trabajo pendiente de ingeniería|
 |                                         | Administración de riesgos de Insider: plantillas de directiva para pérdidas de datos por usuarios con prioridad (versión preliminar) | Sobre el trabajo pendiente de ingeniería |
 |                                         | Administración de riesgos de Insider: plantillas de directiva para pérdidas de datos por usuarios descontentos (versión preliminar) | Sobre el trabajo pendiente de ingeniería |
 |                                         | Administración de riesgos de Insider: plantillas de directiva para infracciones de directivas de seguridad generales (versión preliminar) | Sobre el trabajo pendiente de ingeniería |
@@ -133,7 +133,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Cumplimiento de comunicaciones (incl. directivas de supervisión): convertir el contenido de mantenimiento durante la investigación | Sobre el trabajo pendiente de ingeniería |
 |                                         | Cumplimiento de la comunicación (con directivas de supervisión): Burnout y Suicide Detection | Sobre el trabajo pendiente de ingeniería |
 |                                         | Barreras de información | Sobre el trabajo pendiente de ingeniería |
-|                                         | Privileged Access Management                    | Sobre el trabajo pendiente de ingeniería |
+|                                         | Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
 | **Detección de & responder**                  | Exhibición de documentos electrónicos principal: preservación local                            | Disponible              |
 |                                         | Exhibición de documentos electrónicos principal: administración de casos                                 | Disponible              |
 |                                         | Exhibición de documentos electrónicos principal: búsqueda                                          | Disponible              |
@@ -191,4 +191,4 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 
 <sup>1</sup> el estado identificado está sujeto a cambios a medida que se reevalúan los planes y las prioridades de los proyectos.<br/>
 
-**Punto de decisión** : *decida si las características de cumplimiento satisfacen las necesidades de su organización.*
+**Punto de decisión**: *decida si las características de cumplimiento satisfacen las necesidades de su organización.*

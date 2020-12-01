@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Premium es la oferta más avanzada de Microsoft para los clientes de pequeñas y medianas empresas. Microsoft 365 Business Premium es una solución integrada que combina la productividad de Microsoft 365, la seguridad avanzada y la administración de dispositivos.
-ms.openlocfilehash: b8171b54714cfa0c4b28347ec949a849bb819f53
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 1cd0fa1c8ef351eb6a54f4d2b9cb58f2d6e400f4
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132544"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49518841"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamiento de Microsoft 365 para pequeñas y medianas empresas
 
@@ -26,14 +26,14 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |**Área de servicio** |**Característica** | **Microsoft 365 Empresa Estándar** | **Microsoft 365 Empresa Premium** |
 |--|------------ | ------------------------------- | -------------------------- |
 |**Licencias disponibles** | Número máximo de usuarios | 300  | 300  |
-|**Aplicaciones de Office** | Instalar Office en un máximo de 5 PC/Mac + 5 tabletas + 5 smartphones por usuario (Word, Excel, PowerPoint, OneNote, Access), Office Online | Negocio | Negocio |
+|**Aplicaciones de Office** | Instalar Office en un máximo de 5 PC/Mac + 5 tabletas + 5 smartphones por usuario (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business |
 |**Correo electrónico & calendario** | Outlook, Exchange Online| 50 GB | 50 GB |
 |**Concentrador para trabajo en equipo** | Área de trabajo basada en chat, reuniones en línea y más en Microsoft Teams | Sí |Sí |
 |**Almacenamiento de archivos.** | OneDrive para la Empresa  | 1 TB por usuario | 1 TB por usuario |
 |**Social, vídeo, sitios** | Stream, Yammer, Planner, SharePoint Online, PowerApps y Power Automate | Sí | Sí |
 |**Aplicaciones empresariales** | Programación de reservas de aplicaciones &ndash; <sup>1</sup> | Sí | Sí |
 |   | Aplicaciones empresariales &ndash; MileIQ<sup>1</sup> | Sí | Sí |
-|**Protección contra amenazas** | Protección contra amenazas avanzada de Office 365 | No | Sí |
+|**Protección contra amenazas** | Microsoft Defender para Office 365 | No | Sí |
 |   | Aplicación de protección contra la vulnerabilidad de Windows | No | Sí  |
 |**Administración de identidades** | Restablecimiento de contraseñas de autoservicio para cuentas híbridas de Azure Active Directory | No | Sí |
 |   | Azure multi-factor Authentication, directivas de acceso condicional | No | Sí |
@@ -57,14 +57,14 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |**Área de servicio**   | **Característica**  | **Office 365 E3** | **Microsoft 365 Empresa Premium** |
 |---|---------------|-------------------|----------------------------|
 |**Licencias disponibles** | Número máximo de usuarios | Ilimitado | 300 |
-|**Aplicaciones de Office** | Instalar Office en un máximo de 5 PC/Mac + 5 tabletas + 5 smartphones por usuario (Word, Excel, PowerPoint, OneNote, Access), Office Online | ProPlus | Negocio |
+|**Aplicaciones de Office** | Instalar Office en un máximo de 5 PC/Mac + 5 tabletas + 5 smartphones por usuario (Word, Excel, PowerPoint, OneNote, Access), Office Online | ProPlus | Business |
 |**Correo electrónico & calendario** | Outlook, Exchange Online | 100 GB | 50 GB |
 |**Concentrador para trabajo en equipo** | Área de trabajo basada en chat, reuniones en línea y más en Microsoft Teams | Sí | Sí |
 |**Almacenamiento de archivos.** | OneDrive para la Empresa | Ilimitado | 1 TB por usuario |
 |**Social, vídeo, sitios** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power automatice<sup>1</sup> | Sí | Sí |
 |**Aplicaciones empresariales** | Programación de reservas de aplicaciones &ndash; <sup>2</sup> | Sí | Sí |
 |   | Aplicaciones empresariales &ndash; MileIQ<sup>2</sup> | No | Sí |
-|**Protección contra amenazas** | Protección contra amenazas avanzada de Office 365 | No | Sí |
+|**Protección contra amenazas** | Microsoft Defender para Office 365 | No | Sí |
 |   | Aplicación de protección contra la vulnerabilidad de Windows | No | Sí |
 |**Administración de identidades** | Restablecimiento de contraseñas de autoservicio para cuentas híbridas de Azure Active Directory | No | Sí |
 |   | Azure multi-factor Authentication, directivas de acceso condicional | No  | Sí |
@@ -90,14 +90,14 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |**Área de servicio**   |**Característica** | **Microsoft 365 Empresa Estándar** | **Microsoft 365 Empresa Premium** | **Office 365 E3** |
 |---|-------------|---------------------------------|----------------------------|-------------------|
 |**Licencias disponibles** | Número máximo de usuarios | 300 | 300 | Ilimitado |
-|**Aplicaciones de Office** | Instalar Office en un máximo de 5 PC/Mac + 5 tabletas + 5 smartphones por usuario (Word, Excel, PowerPoint, OneNote, Access), Office Online | Negocio | Negocio | ProPlus |
-|**Correo electrónico & calendario** | Outlook, Exchange Online  | 50 GB | 50 GB | 100 GB |
+|**Aplicaciones de Office** | Instalar Office en un máximo de 5 PC/Mac + 5 tabletas + 5 smartphones por usuario (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus |
+|**Correo electrónico & calendario** | Outlook, Exchange Online  | 50 GB | 50 GB | 100 GB |
 |**Concentrador para trabajo en equipo** | Área de trabajo basada en chat, reuniones en línea y más en Microsoft Teams | Sí | Sí | Sí |
 |**Almacenamiento de archivos.** | OneDrive para la Empresa | 1 TB por usuario | 1 TB por usuario | Ilimitado |
 |**Social, vídeo, sitios** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power automatice<sup>1</sup> | Sí | Sí | Sí |
 |**Aplicaciones empresariales** | Programación de reservas de aplicaciones &ndash; <sup>2</sup> | Sí | Sí | Sí |
 |   | Aplicaciones empresariales &ndash; MileIQ<sup>2</sup> | Sí | Sí | No |
-|**Protección contra amenazas** | Protección contra amenazas avanzada de Office 365 | No | Sí | No |
+|**Protección contra amenazas** | Microsoft Defender para Office 365 | No | Sí | No |
 |   | Aplicación de protección contra la vulnerabilidad de Windows | No | Sí | No |
 |**Administración de identidades** | Restablecimiento de contraseñas de autoservicio para cuentas híbridas de Azure Active Directory | No | Sí | No |
 |   | Azure multi-factor Authentication, directivas de acceso condicional | No | Sí | No |
@@ -123,7 +123,7 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |**Área de servicio**   |**Característica** | **Microsoft 365 Empresa Estándar** | **Microsoft 365 Empresa Premium** | **Microsoft 365 E3** | **Microsoft 365 E5** |
 |---|-------------|---------------------------------|----------------------------| ----------------- |-------------------|
 |**Licencias disponibles** | Número máximo de usuarios | 300 | 300 | Ilimitado | Ilimitado |
-|**Aplicaciones de Office** | Instalar Office en un máximo de 5 PC/Mac + 5 tabletas + 5 smartphones por usuario (Word, Excel, PowerPoint, OneNote, Access), Office Online | Negocio | Negocio | ProPlus | ProPlus |
+|**Aplicaciones de Office** | Instalar Office en un máximo de 5 PC/Mac + 5 tabletas + 5 smartphones por usuario (Word, Excel, PowerPoint, OneNote, Access), Office Online | Business | Business | ProPlus | ProPlus |
 |**Correo electrónico & calendario** | Outlook, Exchange Online | 50 GB | 50 GB | Ilimitado | Ilimitado |
 |**Concentrador para trabajo en equipo** | Área de trabajo basada en chat, reuniones en línea y más en Microsoft Teams | Sí | Sí | Sí | Sí |
 |**Almacenamiento de archivos.** | OneDrive para la Empresa | 1 TB por usuario | 1 TB por usuario | Ilimitado | Ilimitado |
@@ -132,8 +132,8 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |**Aplicaciones empresariales** | Programación de reservas de aplicaciones &ndash; <sup>1</sup> | Sí | Sí | Sí | Sí |
 |   | Aplicaciones empresariales &ndash; MileIQ<sup>1</sup> | Sí | Sí | No | No |
 |**Protección contra amenazas** | Análisis de amenazas avanzadas de Microsoft, protección de dispositivos, protección de credenciales, AppLocker, protección de datos empresariales | No | No | Sí | Sí |
-|   | Protección contra amenazas avanzada de Office 365 | No | Sí | No | Sí |
-|   | Protección contra amenazas avanzada de Windows Defender | No | No | No | Sí |
+|   | Microsoft Defender para Office 365 | No | Sí | No | Sí |
+|   | Microsoft Defender para punto de conexión | No | No | No | Sí |
 |   | Inteligencia sobre amenazas de Office 365 | No | No  | No | Sí |
 |**Administración de identidades** | Restablecimiento de contraseñas de autoservicio para cuentas híbridas de Azure Active Directory, Azure MFA, acceso condicional   | No | Sí | Sí | Sí |
 |   | Azure AD: detección de aplicaciones en la nube, Azure AD Connect Health, SSO para más de 10 aplicaciones | Sí | Sí | Sí | Sí |
@@ -149,7 +149,7 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 |**Análisis** | Power BI Pro, myanalytics | No | No | No | Sí |
 | | Información de myanalytics | Sí | Sí | Sí | Sí |
 |**Assistance** | Correo electrónico de informe | Sí | Sí | Sí | Sí |
-|**Mensaje** | Conferencia RTC, PBX en la nube | No | No | No | Sí |
+|**Voz** | Conferencia RTC, PBX en la nube | No | No | No | Sí |
 
 **Notas**
 
@@ -189,7 +189,7 @@ En este artículo se comparan las opciones de licencia para las PYMES, con un é
 | OneDrive para la empresa de 1 TB       | Sí                     | Sí                    |
 | **Licencias**                                   | **Aplicaciones de Microsoft 365 para negocios** | **Aplicaciones de Microsoft 365 para empresas** |
 | Modelo de licencias                                 | Por usuario                | Por usuario               |
-| Tipo de licencia                                    | Suscripción             | Suscripción            |
+| Tipo de licencia                                    | Suscripción            | Suscripción           |
 | Instalación de PC/Mac<sup>6</sup>                     | 5                        | 2,5                      |
 | iOS/Android smartphone instala<sup>6</sup>     | 5                        | 2,5                      |
 | Tablet instala<sup>6</sup>                     | 5                        | 2,5                      |
@@ -207,7 +207,7 @@ Microsoft 365 Business Premium incluye el cliente de aplicaciones para empresas 
 
 <sup>3</sup> los conjuntos de aplicaciones proporcionan distintos niveles de integración con los servidores de productividad empresarial.
 
-<sup>4</sup> archivar el correo electrónico de Outlook &mdash; no hay archivos. pst necesarios &mdash; y establecer directivas de retención que archiven o eliminen correo electrónico automáticamente. Los administradores de TI pueden administrar de forma centralizada el archivo local.
+<sup>4</sup> archivar el correo electrónico de Outlook &mdash; no hay archivos. pst necesarios &mdash; y establecer directivas de retención que archiven o eliminen correo electrónico automáticamente. Los administradores de TI pueden administrar de forma centralizada el archivo de In-Place.
 
 <sup>5</sup> requiere servicios en línea adicionales.
 

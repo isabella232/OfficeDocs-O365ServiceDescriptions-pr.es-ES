@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro de seguridad &amp; y cumplimiento está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-ms.openlocfilehash: 93f1ee30103b72edd5846a4d6f58444d157ab10e
-ms.sourcegitcommit: 0f17ea421190f52bf55e530e9374543fd59b8665
+ms.openlocfilehash: 348c56d0d3f507f543490a33d5d7c20d864d7e8e
+ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261602"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49519121"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -67,7 +67,7 @@ límite de <sup>3</sup> 50 GB.
 
 <sup>5</sup> la exhibición avanzada de documentos electrónicos se admite en Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]).
 
-<sup>6</sup> la protección contra amenazas avanzada está disponible en Office 365 E5 y como un servicio independiente para Office 365 E1 y Office 365 E3.
+<sup>6</sup> Microsoft defender para Office 365 está disponible en Office 365 E5 y como un servicio independiente para Office 365 E1 y Office 365 E3.
 
 <sup>7</sup> incluye los archivos almacenados en repositorios de Microsoft Teams.
 
