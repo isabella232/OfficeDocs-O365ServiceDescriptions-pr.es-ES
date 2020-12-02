@@ -64,7 +64,7 @@
 ### [Características de archivo](exchange-online-archiving-service-description/archive-features.md)
 ### [Características de cliente](exchange-online-archiving-service-description/client-features.md)
 ### [Características de cumplimiento y seguridad](exchange-online-archiving-service-description/compliance-and-security-features.md)
-## [Descripción del servicio de Protección contra amenazas avanzada de Office 365](office-365-advanced-threat-protection-service-description.md)
+## [Descripción del servicio de Microsoft Defender para Office 365](office-365-advanced-threat-protection-service-description.md)
 ## [Descripción del servicio Microsoft Teams](teams-service-description.md)
 ## [Descripción del servicio OneDrive](onedrive-for-business-service-description.md)
 ## [Descripción del servicio SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
