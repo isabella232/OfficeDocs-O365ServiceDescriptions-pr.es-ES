@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 10e4a725d84cf6ad9e6503c8c6c711204bba9bde
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: e2c5a7f9f7c3e5a44f48efa43f239f43590b6c2c
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518941"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566672"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -37,7 +37,7 @@ Los analistas de SecOps y los profesionales de la seguridad se benefician de ten
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security y Azure Active Directory Premium plan 2 proporcionan los derechos para que un usuario se beneficie de Azure Active Directory Identity Protection.
+Los clientes con licencias de E1 y E3 solo podrán tener acceso a la evaluación de línea base de protección de datos predeterminada. Los clientes con licencias de Office 365 E5/A5 y Microsoft 365 E5/A5 (compatibilidad, protección de información & gobernanza y SKU de eDiscovery y de auditoría incluidos) podrán acceder a la línea base de protección de datos, RGPD, NIST 800-53 e ISO 27001 de evaluaciones de salida de caja. La característica de evaluación personalizada y las evaluaciones Premium están reservadas para los clientes de Office 365 E5/A5 y Microsoft 365 E5/A5. Las evaluaciones Premium estarán disponibles para su compra durante la primera mitad de 2021 a través de VL, CSP y WebDirect. 
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
@@ -47,7 +47,7 @@ De forma predeterminada, las características de Azure AD Identity Protection es
 
 Los administradores pueden definir el ámbito de la protección de identidad de Azure AD mediante la asignación de directivas de riesgo que definen el nivel de restablecimiento de contraseña y permiten el acceso solo a los usuarios con licencia. Para obtener instrucciones sobre cómo establecer el ámbito de las implementaciones de Azure AD Identity Protection, vea [Configure The Sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
-## <a name="microsoft-defender-for-identity"></a>Microsoft Defender for Identity
+## <a name="microsoft-defender-for-identity"></a>Microsoft defender para identidad
 
 Microsoft defender for Identity es un servicio en la nube que ayuda a proteger entornos híbridos empresariales de varios tipos de ataques cibernéticos avanzados y amenazas internas.
 
@@ -67,7 +67,7 @@ De forma predeterminada, Microsoft defender para las características de identid
 
 Actualmente, Microsoft defender para los servicios de identidad no es capaz de limitar las capacidades a usuarios específicos. Debe conceder una licencia a todos los usuarios que desee que se beneficien.
 
-## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
+## <a name="microsoft-defender-for-office-365"></a>Microsoft defender para Office 365
 
 Defender para Office 365 ayuda a proteger a las organizaciones contra ataques sofisticados, como suplantación de identidad y malware de día cero. Defender para Office 365 también proporciona información útil al correlacionar señales de una amplia gama de datos para ayudar a identificar, priorizar y proporcionar recomendaciones sobre cómo resolver las posibles amenazas.
 
@@ -174,7 +174,7 @@ El administrador de cumplimiento se aprovisiona de forma predeterminada para su 
 
 El acceso al administrador de cumplimiento se controla mediante la configuración de los permisos de usuario y la asignación de roles. Para obtener más información, vea Introducción [al administrador de cumplimiento: set User Permissions and Assign roles](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-setup#set-user-permissions-and-assign-roles).
 
-## <a name="microsoft-defender-for-endpoint"></a>Microsoft Defender para punto de conexión
+## <a name="microsoft-defender-for-endpoint"></a>Microsoft defender para extremo
 
 Microsoft defender for Endpoint es una solución de seguridad de extremo que incluye la evaluación y la administración de vulnerabilidades basadas en riesgos; capacidades de reducción de superficie de ataques; protección de próxima generación basada en el comportamiento y en la nube; detección y respuesta de extremos (EDR); investigación y corrección automáticas; y servicios de búsqueda administrada. Consulte la página [de Microsoft defender for Endpoint](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) para obtener más información.
 
@@ -479,7 +479,7 @@ De forma predeterminada, los mensajes de chat y de canal de Microsoft son una *U
 
 Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  **Locations**.
 
-## <a name="information-barriers"></a>Barreras de información
+## <a name="information-barriers"></a>Barreras de la información
 
 Las barreras de información son directivas que un administrador puede configurar para evitar que los usuarios o grupos se comuniquen entre sí. Esto es útil si, por ejemplo, un departamento está controlando información que no debe compartirse con otros departamentos, o bien es necesario evitar que un grupo se comunique con los contactos externos. Las directivas de barrera de información también evitan búsquedas y detección. Esto significa que si intenta comunicarse con alguien con quien no debe comunicarse, no encontrará a ese usuario en el selector de personas.
 

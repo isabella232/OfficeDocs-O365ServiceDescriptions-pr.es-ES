@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades del gobierno federal de Estados Unidos u otras entidades que administran datos sujetos a las regulaciones y los requisitos gubernamentales, donde el uso de Microsoft 365 Government – GCC High es apropiado para cumplir estos requisitos.
-ms.openlocfilehash: 52cd100938e126c9a562f021ba2046cc34e25b59
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 5937eed535814176e99d6bfbfd9301c7b08326c3
+ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518921"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49566652"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan para Microsoft 365 Compliance – GCC High
 
@@ -132,7 +132,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Cumplimiento de comunicaciones (incl. directivas de supervisión): comprobación de estado de la Directiva y capacidad para pausar la Directiva | Sobre el trabajo pendiente de ingeniería |
 |                                         | Cumplimiento de comunicaciones (incl. directivas de supervisión): convertir el contenido de mantenimiento durante la investigación | Sobre el trabajo pendiente de ingeniería |
 |                                         | Cumplimiento de la comunicación (con directivas de supervisión): Burnout y Suicide Detection | Sobre el trabajo pendiente de ingeniería |
-|                                         | Barreras de información | Sobre el trabajo pendiente de ingeniería |
+|                                         | Barreras de la información | Sobre el trabajo pendiente de ingeniería |
 |                                         | Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
 | **Detección de & responder**                  | Exhibición de documentos electrónicos principal: preservación local                            | Disponible              |
 |                                         | Exhibición de documentos electrónicos principal: administración de casos                                 | Disponible              |
@@ -181,7 +181,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Auditoría avanzada: información de auditoría procesada                              | Sobre el trabajo pendiente de ingeniería |
 |                                         | Auditoría avanzada: buscar eventos de término en Exchange Online y SharePoint Online                              | Sobre el trabajo pendiente de ingeniería |
 |    **Administración de cumplimiento**            | Centro de seguridad y cumplimiento de Microsoft 365                              | Disponible |
-|                                         | Administrador de cumplimiento                                 | Publicación              |
+|                                         | Administrador de cumplimiento                                 | Disponible              |
 |                                         | Microsoft Cloud App Security                                 | Disponible              |
 |                                         | Compatibilidad con caracteres de doble byte                                 | Sobre el trabajo pendiente de ingeniería              |
 |    **Sistema**            | API de Graph para eDiscovery avanzado                              | En desarrollo |
