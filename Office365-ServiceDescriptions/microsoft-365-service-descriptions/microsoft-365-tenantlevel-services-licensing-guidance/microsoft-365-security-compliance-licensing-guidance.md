@@ -1,22 +1,22 @@
 ---
 title: Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
-ms.author: v-trscho
-author: vtrscho
+ms.author: v-smandalika
+author: v-smandalika
 audience: ITPro
 ms.topic: reference
-ms.date: 7/13/2020
+ms.date: 12/01/2020
 f1_keywords:
 - office-online-service-description
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: e2c5a7f9f7c3e5a44f48efa43f239f43590b6c2c
-ms.sourcegitcommit: 04f9191b177e714a8dbdd50e7a891ff295483dbe
+ms.openlocfilehash: b42a6be33bf94795f2e9e6e537bb548775d672ea
+ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "49566672"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576018"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -47,9 +47,33 @@ De forma predeterminada, las características de Azure AD Identity Protection es
 
 Los administradores pueden definir el ámbito de la protección de identidad de Azure AD mediante la asignación de directivas de riesgo que definen el nivel de restablecimiento de contraseña y permiten el acceso solo a los usuarios con licencia. Para obtener instrucciones sobre cómo establecer el ámbito de las implementaciones de Azure AD Identity Protection, vea [Configure The Sign-in Risk Policy](https://docs.microsoft.com/azure/active-directory/identity-protection/howto-sign-in-risk-policy).
 
+## <a name="azure-active-directory-identity-governance"></a>Control de identidad de Azure Active Directory
+
+El gobierno de identidades de Azure Active Directory le permite equilibrar la necesidad de la organización de la seguridad y la productividad de los empleados con los procesos y la visibilidad correctos. Utiliza la administración de derechos, las revisiones de acceso, la administración de identidad privilegiada y las directivas de términos de uso para garantizar que las personas adecuadas tengan el acceso adecuado a los recursos adecuados.
+
+### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
+
+El gobierno de identidades de Azure Active Directory aumenta la productividad de los usuarios al facilitar la solicitud de acceso a aplicaciones, grupos y Microsoft Teams en un paquete de acceso. Los usuarios también se pueden configurar como aprobadores, sin implicar a los administradores. Para las revisiones de Access, los usuarios pueden revisar los miembros de los grupos con recomendaciones inteligentes para realizar acciones en intervalos regulares.
+
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
+
+Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security y Azure Active Directory Premium plan 2 proporcionan los derechos para que un usuario se beneficie del gobierno de identidades de Azure Active Directory.
+
+### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
+
+Las características de gobierno de identidad de Azure AD están habilitadas en el nivel de inquilino, pero se implementan por usuario. Para obtener información sobre el control de identidad de Azure AD, vea [¿Qué es el control de identidad de Azure Active Directory?](https://docs.microsoft.com/azure/active-directory/governance/identity-governance-overview)
+
+### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
+
+Los administradores pueden asignar un ámbito de gobierno de identidades de Azure AD mediante la asignación de paquetes de acceso, revisiones de acceso o administración de identidades privilegiada solo para los usuarios con licencia. Para obtener instrucciones sobre cómo asignar el ámbito de las implementaciones del gobierno de identidad de Azure AD, consulte:
+
+- [Requisitos de licencia de administración de derechos de Azure AD](https://docs.microsoft.com/azure/active-directory/governance/entitlement-management-overview#license-requirements)
+- [Requisitos de licencia de revisión de acceso a Azure AD](https://docs.microsoft.com/azure/active-directory/governance/access-reviews-overview#license-requirements)
+- [Requisitos de licencia para usar la administración de identidades con privilegios](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/subscription-requirements)
+
 ## <a name="microsoft-defender-for-identity"></a>Microsoft defender para identidad
 
-Microsoft defender for Identity es un servicio en la nube que ayuda a proteger entornos híbridos empresariales de varios tipos de ataques cibernéticos avanzados y amenazas internas.
+Microsoft defender para identidad (anteriormente protección contra amenazas avanzada de Azure) es un servicio en la nube que ayuda a proteger los entornos híbridos empresariales de varios tipos de ataques avanzados y amenazas internas.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -61,7 +85,7 @@ Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 S
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
-De forma predeterminada, Microsoft defender para las características de identidad se habilitan en el nivel de inquilino para todos los usuarios del espacio empresarial. Para obtener información sobre cómo configurar Microsoft defender para identidad, vea [crear su Microsoft defender para una instancia de identidad](https://docs.microsoft.com/azure-advanced-threat-protection/install-atp-step1).
+De forma predeterminada, Microsoft defender para las características de identidad se habilitan en el nivel de inquilino para todos los usuarios del espacio empresarial. Para obtener información sobre cómo configurar ATP de Azure, vea [crear su Microsoft defender para una instancia de identidad](https://docs.microsoft.com/defender-for-identity/install-step1).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
@@ -69,27 +93,28 @@ Actualmente, Microsoft defender para los servicios de identidad no es capaz de l
 
 ## <a name="microsoft-defender-for-office-365"></a>Microsoft defender para Office 365
 
-Defender para Office 365 ayuda a proteger a las organizaciones contra ataques sofisticados, como suplantación de identidad y malware de día cero. Defender para Office 365 también proporciona información útil al correlacionar señales de una amplia gama de datos para ayudar a identificar, priorizar y proporcionar recomendaciones sobre cómo resolver las posibles amenazas.
+Microsoft defender para Office 365 (anteriormente Office 365 la protección contra amenazas avanzada) ayuda a proteger a las organizaciones contra ataques sofisticados, como suplantación de identidad y malware de día cero. Microsoft defender para Office 365 también proporciona información útil al correlacionar señales de una amplia gama de datos para ayudar a identificar, priorizar y proporcionar recomendaciones sobre cómo resolver las posibles amenazas.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
-Defender para Office 365 protege a los usuarios de ataques sofisticados, como suplantación de identidad y malware de día cero. Para obtener una lista completa de los servicios que se proporcionan en el plan 1 y el plan 2, consulte [Microsoft defender para Office 365](https://products.office.com/exchange/advance-threat-protection).
+Microsoft defender para Office 365 protege a los usuarios de ataques sofisticados, como suplantación de identidad y malware de día cero. Para obtener una lista completa de los servicios que se proporcionan en el plan 1 y el plan 2, consulte [Microsoft defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide&preserve-view=true).
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio? 
 
-Microsoft defender para Office 365, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security, Microsoft 365 empresa Premium y Microsoft defender para Office 365 los planes 1 y 2 proporcionan los derechos de un usuario para beneficiarse de defender para Office 365.
+Microsoft defender para Office 365 los planes 1 y 2, Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Security y Microsoft 365 empresa Premium proporcionan los derechos que debe tener un usuario para beneficiarse de Microsoft defender para Office 365.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
-De forma predeterminada, las características de Microsoft defender para Office 365 están habilitadas en el nivel de inquilino para todos los usuarios del espacio empresarial. Para obtener información sobre cómo configurar las directivas de defender para Office 365 para usuarios con licencia, consulte [Microsoft defender para office 365](https://docs.microsoft.com/office365/securitycompliance/office-365-atp).
+De forma predeterminada, las características de Microsoft defender para Office 365 están habilitadas en el nivel de inquilino para todos los usuarios del espacio empresarial. Para obtener información sobre cómo configurar las directivas de Microsoft defender para Office 365 para usuarios con licencia, consulte [Microsoft defender para office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp?view=o365-worldwide&preserve-view=true).
+
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
 Para el ámbito de Microsoft defender para Office 365, siga las directivas de implementación de vínculos seguros y datos adjuntos seguros:
 
-- Para obtener información sobre cómo configurar vínculos seguros para usuarios con licencia, consulte [configurar directivas de vínculos seguros en Microsoft defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- Para obtener información sobre cómo configurar vínculos seguros para usuarios con licencia, consulte [configurar las directivas de vínculos seguros de Microsoft defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links?view=o365-worldwide&preserve-view=true).
 
-- Para obtener información sobre cómo configurar datos adjuntos seguros para usuarios con licencia, consulte [configurar directivas de datos adjuntos seguros en Microsoft defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies).
+- Para obtener información sobre cómo configurar datos adjuntos seguros para usuarios con licencia, consulte [configurar las directivas de datos adjuntos seguros de Microsoft defender para Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments?view=o365-worldwide&preserve-view=true).
 
 ## <a name="office-365-cloud-app-security"></a>Office 365 Cloud App Security
 
@@ -105,7 +130,7 @@ OCAS detecta el sombreado, proporciona protección contra amenazas en Office 365
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos que tiene un usuario para beneficiarse del servicio?
 
-Office 365 E5/A5/G5 proporciona los derechos para que un usuario se beneficie de OCAS.
+Office 365 E5/A3/A5/G5 proporciona los derechos para que un usuario se beneficie de OCAS.
 Para obtener más información, vea la hoja de datos de [licencias de Microsoft Cloud App Security](https://www.aka.ms/mcaslicensing).
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
@@ -176,7 +201,7 @@ El acceso al administrador de cumplimiento se controla mediante la configuració
 
 ## <a name="microsoft-defender-for-endpoint"></a>Microsoft defender para extremo
 
-Microsoft defender for Endpoint es una solución de seguridad de extremo que incluye la evaluación y la administración de vulnerabilidades basadas en riesgos; capacidades de reducción de superficie de ataques; protección de próxima generación basada en el comportamiento y en la nube; detección y respuesta de extremos (EDR); investigación y corrección automáticas; y servicios de búsqueda administrada. Consulte la página [de Microsoft defender for Endpoint](https://www.microsoft.com/microsoft-365/windows/microsoft-defender-atp?rtc=1) para obtener más información.
+Microsoft defender for Endpoint (anteriormente Microsoft defender ATP) es una solución de seguridad de extremo que incluye la evaluación y la administración de vulnerabilidades basadas en riesgos; capacidades de reducción de superficie de ataques; protección de próxima generación basada en el comportamiento y en la nube; detección y respuesta de extremos (EDR); investigación y corrección automáticas; y servicios de búsqueda administrada. Consulte la página [de Microsoft defender for Endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para obtener más información.
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 

@@ -8,12 +8,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está dirigida a los profesionales de ti que imponen las implementaciones de Office 365 en entidades gubernamentales de Estados Unidos, Estados, locales, Tribals o entidades gubernamentales, o en otras entidades que administran datos sujetos a los requisitos y las regulaciones gubernamentales, donde el uso de Microsoft 365 Government-GCC es adecuado para cumplir con estos requisitos.
-ms.openlocfilehash: aed241390a60fed9fd11afd717465f8200087062
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: d315b6e15b9b85d0a336a1a22d43eeb636b40830
+ms.sourcegitcommit: 4f91480f1f2d4ce6037c42542e4d8ca1d35adc3c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519041"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576021"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planeación de cumplimiento de Microsoft 365: GCC
 
@@ -137,7 +137,7 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Cumplimiento de la comunicación: comprobación del estado de la Directiva y capacidad para pausar la Directiva | Sobre el trabajo pendiente de ingeniería |
 |                                         | Cumplimiento de la comunicación: traduzca contenido de mantenimiento durante la investigación | Sobre el trabajo pendiente de ingeniería |
 |                                         | Cumplimiento de la comunicación: detección de Burnout y Suicide | Sobre el trabajo pendiente de ingeniería |
-|                                         | Barreras de información | Sobre el trabajo pendiente de ingeniería |
+|                                         | Barreras de la información | Sobre el trabajo pendiente de ingeniería |
 |                                         | Administración del acceso con privilegios                    | Sobre el trabajo pendiente de ingeniería |
 | **Detección de & responder**                  | Exhibición de documentos electrónicos principal: preservación local                            | Disponible              |
 |                                         | Exhibición de documentos electrónicos principal: auditoría                                 | Disponible              |
@@ -175,9 +175,9 @@ Para cumplir los requisitos de nuestros clientes de la nube de administración p
 |                                         | Auditoría avanzada: acceso a eventos vitales (por ejemplo, mailitemsaccessed)                              | Disponible |
 |                                         | Auditoría avanzada: mayor ancho de banda para la API de actividad de administración                              | Disponible |
 |                                         | Auditoría avanzada: retención legal para los mensajes de canales privados de Teams                               | Disponible |
-|                                         | Auditoría avanzada: retención de registro (1 año)                               | Disponible |
+|                                         | Auditoría avanzada: retención de registro (1 año)                               | Publicación |
 |                                         | Auditoría avanzada: Centro de seguridad y cumplimiento                               | Disponible |
-|                                         | Auditoría avanzada: retención a largo plazo en registros de auditoría                               | Sobre el trabajo pendiente de ingeniería |
+|                                         | Auditoría avanzada: retención a largo plazo en registros de auditoría (10 años)                               | Sobre el trabajo pendiente de ingeniería |
 |                                         | Auditoría avanzada: eventos de envío de correo y reenvío de correo                               | Sobre el trabajo pendiente de ingeniería |
 |                                         | Auditoría avanzada: información de auditoría procesada                               | Sobre el trabajo pendiente de ingeniería |
 |                                         | Auditoría avanzada: buscar eventos de término en Exchange Online y SharePoint Online                              | Sobre el trabajo pendiente de ingeniería |
