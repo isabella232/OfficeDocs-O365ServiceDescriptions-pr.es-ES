@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel para web (anteriormente Excel Web App) amplía su experiencia de Microsoft Excel al explorador Web, donde puede trabajar con libros directamente en el sitio web en el que se almacena el libro. Todos los clientes pueden ver y modificar ligeramente los archivos de Office con Office para la Web.
-ms.openlocfilehash: dabe7923f7feb1686c0e11af9ab9f28dbcb8447c
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: 88b379e5752ec665cf60966c0556c8c5e1b28727
+ms.sourcegitcommit: 6afe3622d72f6047c3d8d6659ad6b90764142ced
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294108"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "49586643"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
@@ -54,7 +54,7 @@ Utilice los botones de alineación ubicados en la ficha Inicio para cambiar la a
   
 ## <a name="apply-conditional-formatting"></a>Aplicar formato condicional
 
-Use un formato condicional que le ayude a explorar y analizar datos visualmente, a detectar problemas críticos y a identificar patrones y tendencias. Obtenga más información sobre cómo [usar el formato condicional en Excel para la web](https://go.microsoft.com/fwlink/p/?LinkId=282326).
+Use un formato condicional que le ayude a explorar y analizar datos visualmente, a detectar problemas críticos y a identificar patrones y tendencias. Obtenga más información sobre cómo [usar el formato condicional en Excel para la web](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?).
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
@@ -89,7 +89,7 @@ Las tablas y los gráficos de Excel hacen que sea más fácil dar formato a los 
 
 ## <a name="check-spelling"></a>Revisar la ortografía
 
-Para comprobar la ortografía de cualquier texto de la hoja de cálculo, seleccione **revisión**  >  **Proofing**  >  **ortográfica**de revisión. Obtenga más información sobre la revisión [ortográfica](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
+Para comprobar la ortografía de cualquier texto de la hoja de cálculo, seleccione **revisión**  >  **Proofing**  >  **ortográfica** de revisión. Obtenga más información sobre la revisión [ortográfica](https://support.office.com/article/185efb8d-ee3f-4511-b7ef-35599c924159).
 
 ## <a name="comment-creation"></a>Comment creation
 
@@ -209,7 +209,7 @@ Agregar y dar formato a formas como cuadros, círculos, líneas, conectores o fl
 
 ## <a name="keyboard-shortcuts"></a>Métodos abreviados de teclado
 
-Puede controlar los métodos abreviados de teclado para que funcionen del mismo modo en versiones web y de escritorio de Excel cambiando la configuración de los métodos abreviados de teclado &mdash; , incluso puede invalidar los accesos directos del explorador. Solo tiene **Help**que seleccionar los  >  **métodos abreviados de teclado**de ayuda. "
+Puede controlar los métodos abreviados de teclado para que funcionen del mismo modo en versiones web y de escritorio de Excel cambiando la configuración de los métodos abreviados de teclado &mdash; , incluso puede invalidar los accesos directos del explorador. Solo tiene **Help** que seleccionar los  >  **métodos abreviados de teclado** de ayuda. "
   
 ## <a name="merge-cells"></a>Merge cells
 
