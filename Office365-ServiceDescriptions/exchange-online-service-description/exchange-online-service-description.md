@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Necesita una comparación de características de las suscripciones que incluyen Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: 9f800f70476914694926685fff654e379c16965a
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 32f3730cc53ab8c9e4de2752936c956e864f37f6
+ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518901"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "49601755"
 ---
 # <a name="exchange-online-service-description"></a>Descripción de servicio de Exchange Online
 
@@ -104,7 +104,7 @@ Para ver la disponibilidad de características en Microsoft 365 Business Premium
 |Customize anti-malware policies|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
 |Cuarentena: gestión de administradores|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
 |Cuarentena: autoadministración de usuarios finales|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
-|Microsoft Defender para Office 365|No|Sí|No|No|No|No|Sí|No|
+|Microsoft defender para Office 365|No|Sí|No|No|No|No|Sí|No|
 |**[Flujo de correo](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Enrutamiento personalizado de correo saliente|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Secure messaging with a trusted partner|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -116,7 +116,7 @@ Para ver la disponibilidad de características en Microsoft 365 Business Premium
 |Otros correos|Sí|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |MailTips|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Acceso delegado|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No<sup>24</sup>|
-|Reglas de la bandeja de entrada|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
+|Reglas de la bandeja de entrada|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Cuentas conectadas|Sí|Sí|Sí|Sí|Sí<sup>17</sup>|Sí<sup>17</sup>|Sí<sup>17</sup>|Sí<sup>17</sup>|
 |Buzones de correo inactivos|No|No|No<sup>9</sup>|No<sup>9</sup>|No<sup>9</sup>|Sí|Sí|No<sup>9</sup>|
 |Libreta de direcciones sin conexión|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -200,7 +200,7 @@ Para ver la disponibilidad de características en Microsoft 365 Business Premium
 <sup>20</sup> para eDiscovery, necesita una consulta independiente para local frente a nube. <br/>
 <sup>21</sup> la tabla indica si el cliente trabaja o no con los planes asociados. Aunque esto no significa que los clientes se incluyan en la compra de estos planes. <br/>
 <sup>22</sup> para obtener más información, consulte [Service Encryption with Customer Key](https://docs.microsoft.com/office365/securitycompliance/controlling-your-data-using-customer-key). <br/>
-<sup>23</sup> la compatibilidad de mensajería unificada de Exchange Online para sistemas PBX de terceros a través de conexiones directas del cliente accionado por el cliente de SBCS terminará en abril de 2019. Consulte el blog del equipo de Exchange, [descontinuación de la compatibilidad con los controladores de borde de sesión en la mensajería unificada de Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853) para obtener más información. <br/>
+<sup>23</sup> la compatibilidad de mensajería unificada de Exchange Online para sistemas PBX de terceros a través de conexiones directas del cliente accionado por el cliente de SBCS terminará en abril de 2019. Para obtener más información, consulte el blog del equipo de Exchange para obtener [compatibilidad con los controladores de borde de sesión en la mensajería unificada de Exchange Online](https://techcommunity.microsoft.com/t5/Exchange-Team-Blog/New-date-for-discontinuation-of-support-for-Session-Border/ba-p/607853). <br/>
 <sup>24</sup> un usuario de F3 no puede Agregar delegados a su propio buzón de correo, pero puede tener acceso a otro buzón de correo (incluidos los buzones compartidos) y realizar las acciones que se hayan delegado en ellos.<br/>
 <sup>25</sup> una suscripción para Microsoft 365 apps for Enterprise también es necesaria para exchange Server 2013 y exchange Server 2016.
 
