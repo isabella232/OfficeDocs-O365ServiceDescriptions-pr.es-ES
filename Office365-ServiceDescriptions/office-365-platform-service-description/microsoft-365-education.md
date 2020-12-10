@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Obtenga información sobre las diferencias entre los planes de Microsoft 365 y Office 365 Education.
-ms.openlocfilehash: 013442afe663aa162428194777593d7c35b1c872
-ms.sourcegitcommit: fc52b42bd955cc24ff938706e5ccce3da18e2e85
+ms.openlocfilehash: cc8d225e7caa622c4fb818d5823288e05145ba7b
+ms.sourcegitcommit: 3bde58616418da0560b2089c5359b519811d21dc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "49072691"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "49611262"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Educación
 
@@ -32,13 +32,14 @@ Cada plan de Microsoft 365 Education incluye una serie de servicios individuales
 |Office para la web|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Aplicaciones de Microsoft 365 para empresas|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Exchange Online|Sí<sup>1</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|
-|SharePoint Online|Sí<sup>3</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
+|SharePoint Online|Sí<sup>3</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
 |OneDrive para la Empresa|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Microsoft Teams|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Skype Empresarial Online|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Project|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|
 |Yammer Academic|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Microsoft Stream|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Microsoft Planner|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |**Herramientas de aula**|**Office 365 Ámbito educativo A1**|**Office 365 Educación A3**|**Office 365 educación A5**|**Microsoft 365 Educación A3**|**Microsoft 365 Educación A5**|**Beneficio del uso de estudiantes de Office 365 a3**|**Office 365 A5-beneficio de uso de estudiantes**|**Beneficio del uso de estudiantes de Microsoft 365 Education a3**|**Beneficio del uso de estudiantes de Microsoft 365 Education A5**|
 |Experiencias de clase en Microsoft Teams|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Bloc de notas de clase de OneNote|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
