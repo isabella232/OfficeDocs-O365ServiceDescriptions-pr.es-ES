@@ -1,20 +1,20 @@
 ---
 title: Entornos gubernamentales de OneDrive para el US
-ms.author: ankirti
-author: kaarins
-manager: ankirti
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: ankirti
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Obtenga información sobre la disponibilidad de características de OneDrive para los clientes de la nube de US Government.
-ms.openlocfilehash: f128a83008a67e61056fb601031815a9d83ee241
-ms.sourcegitcommit: 6b7918dd0f125b49d81b11672617c95ebd676b01
+ms.openlocfilehash: 0094edfed04bd6c8195d6ede2cf611c9b5420541
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/20/2020
-ms.locfileid: "42175020"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624543"
 ---
 # <a name="onedrive-for-us-government-environments"></a>Entornos gubernamentales de OneDrive para el US
 
@@ -37,14 +37,14 @@ Nuestro objetivo es entregar todas las características y funcionalidades comerc
 
 Para obtener las diferencias de características entre la nube comercial y los entornos de nube de administración, consulte [uso compartido de archivos](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing).
 
-## <a name="web-features"></a>Características Web
+## <a name="web-features"></a>Características web
 
 Estas son las diferencias entre las características web para los clientes comerciales y las de los clientes de la nube de administración pública:
 
 - Las tarjetas de archivo no están disponibles en los entornos de GCC High y DoD
 - El acceso a la biblioteca de SharePoint ("bibliotecas compartidas" en el panel de navegación) no está disponible en los entornos de GCC High y DoD
 
-## <a name="mobile-features"></a>Características de dispositivos móviles
+## <a name="mobile-features"></a>Características móviles
 
 Estas son las diferencias entre las características móviles para los clientes comerciales y las de los clientes de la nube de administración pública:
 

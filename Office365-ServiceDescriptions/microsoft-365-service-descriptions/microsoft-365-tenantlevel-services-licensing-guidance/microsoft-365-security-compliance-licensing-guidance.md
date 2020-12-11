@@ -1,7 +1,8 @@
 ---
 title: Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
-ms.author: v-smandalika
-author: v-smandalika
+ms.author: office365servicedesc
+author: pamelaar
+ms.reviewer: v-smandalika
 audience: ITPro
 ms.topic: reference
 ms.date: 12/01/2020
@@ -11,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 62f155a916be00d352693c0ede325861a77fd2ba
-ms.sourcegitcommit: d0ca41de5b242d2d5688d92d55064d9eecbb89a9
+ms.openlocfilehash: de9d26c576b4dd4e77e18db3b85068eff717b0c9
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49601775"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624561"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & de seguridad
 
@@ -482,7 +483,7 @@ De forma predeterminada, los mensajes de correo electrónico de Exchange Online,
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  **Locations**.
+Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  .
 
 ## <a name="communication-data-loss-prevention-for-teams"></a>Prevención de pérdida de datos de comunicación para Microsoft Teams
 
@@ -502,9 +503,9 @@ De forma predeterminada, los mensajes de chat y de canal de Microsoft son una *U
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 
-Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  **Locations**.
+Los administradores pueden personalizar las ubicaciones (cargas de trabajo), los usuarios incluidos y los usuarios excluidos en el centro de seguridad & cumplimiento, en ubicaciones de **prevención de pérdida de datos**  >  .
 
-## <a name="information-barriers"></a>Barreras de la información
+## <a name="information-barriers"></a>Barreras de información
 
 Las barreras de información son directivas que un administrador puede configurar para evitar que los usuarios o grupos se comuniquen entre sí. Esto es útil si, por ejemplo, un departamento está controlando información que no debe compartirse con otros departamentos, o bien es necesario evitar que un grupo se comunique con los contactos externos. Las directivas de barrera de información también evitan búsquedas y detección. Esto significa que si intenta comunicarse con alguien con quien no debe comunicarse, no encontrará a ese usuario en el selector de personas.
 
@@ -544,7 +545,7 @@ Microsoft 365 E3/a3, Office 365 E3/a3 y Azure Information Protection Plan 1 prop
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se implementa o se implementa el servicio?
 
-Los administradores crean y administran directivas de cifrado de mensajes de Office 365 en el centro de administración de Exchange en reglas de **flujo de correo**  >  **Rules**. De forma predeterminada, estas reglas se aplican a todos los usuarios del espacio empresarial. Para obtener más información acerca de la configuración de nuevas capacidades de cifrado de mensajes de Office 365, vea [set up New office 365 Message Encryption Capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
+Los administradores crean y administran directivas de cifrado de mensajes de Office 365 en el centro de administración de Exchange en reglas de **flujo de correo**  >  . De forma predeterminada, estas reglas se aplican a todos los usuarios del espacio empresarial. Para obtener más información acerca de la configuración de nuevas capacidades de cifrado de mensajes de Office 365, vea [set up New office 365 Message Encryption Capabilities](https://docs.microsoft.com/office365/securitycompliance/set-up-new-message-encryption-capabilities).
 
 ### <a name="how-can-the-service-be-applied-only-to-users-in-the-tenant-who-are-licensed-for-the-service"></a>¿Cómo se puede aplicar el servicio solo a los usuarios del inquilino que tienen licencia para el servicio?
 

@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f1af9134-bc63-4334-897a-c2120fb572e9
 description: A continuación se describen las características de detección disponibles en Yammer.
-ms.openlocfilehash: 5271b6b5b41acd4287f1b341f13c969e26abac8e
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 8992cf1bbadf980b9e869eecc8d99b6fef1a3c78
+ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132084"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49624531"
 ---
 # <a name="discovery-features-in-yammer"></a>Características de detección de Yammer
 
@@ -24,7 +24,7 @@ A continuación se describen las características de detección disponibles en Y
   
 ## <a name="feeds"></a>Suministros
 
-Manténgase al tanto de las conversaciones relevantes, filesm y proyectos que se produzcan en toda la organización. Las fuentes le permiten participar rápidamente en conversaciones, @mention a sus compañeros para recorrerlas en una discusión y obtener una vista previa de los documentos.
+Manténgase al tanto de las conversaciones, los archivos y los proyectos relevantes que ocurren en toda la organización. Las fuentes le permiten participar rápidamente en conversaciones, @mention a sus compañeros para recorrerlas en una discusión y obtener una vista previa de los documentos.
 
 ## <a name="instant-type-ahead"></a>Tipo anticipado instantáneo
 
