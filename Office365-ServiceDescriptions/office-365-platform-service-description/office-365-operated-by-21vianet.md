@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 ofrecido por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: cf7a9d2a9f8775f655eb51d3023ac01683445965
-ms.sourcegitcommit: ace6cd97a0d3823959e1629929be77489f79b520
+ms.openlocfilehash: 64a403f935450e9b3500e352acb1dfa7f9717aeb
+ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "49411659"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683564"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -61,9 +61,18 @@ Cada plan de Office 365 operado por 21Vianet incluye varios servicios individual
 
 Para obtener información sobre los requisitos del sistema para Office 365, vea [Requisitos del sistema para Office](https://products.office.com/office-system-requirements/#Office365forBEG) en el sitio de productos de [office.com](https://www.office.com).
 
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>&amp;Disponibilidad del centro de cumplimiento de seguridad en Office 365 operado por 21Vianet
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 
-The Office 365 Security &amp; Compliance Center is not available in any plans for Office 365 operated by 21Vianet.
+El centro de cumplimiento de Microsoft 365 proporciona acceso sencillo a las herramientas necesarias para administrar las necesidades de cumplimiento de su organización. Las siguientes soluciones están disponibles en el centro de cumplimiento para los planes operados por 21Vianet:
+
+- Prevención de pérdida de datos (DLP)
+- Retención
+- Auditoría
+- Protección de la información de Microsoft (MIP)
+
+Consulte detalles de soluciones individuales para conocer el conjunto exacto de capacidades disponibles en el plan operado por 21Vianet.
+
+Para obtener más información sobre el centro de cumplimiento de Microsoft, haga clic [aquí](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center).
 
 ## <a name="platform-features"></a>Características de plataforma 
 
@@ -171,8 +180,12 @@ En la tabla siguiente se enumeran todas las características de plataforma para 
 |Protección contra amenazas avanzada|No|No|No|No|No|No|No|
 |Caja de seguridad del cliente|No|No|No|No|No|No|No|
 |eDiscovery avanzado|No|No|No|No|No|No|No|
+|Auditoría básica<sup>17</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Auditoría avanzada<sup>17</sup>|No|No|No|No|No|No|No|
 |Puntuación segura<sup>4</sup>|No|No|No|No|No|No|No|
 |Inteligencia de amenazas|No|No|No|No|No|No|No|
+|Control de la información: directivas de retención|Sí<sup>16</sup>|Sí<sup>16</sup>|Sí<sup>16</sup>|No|Sí<sup>16</sup>|Sí<sup>16</sup>|Sí|
+|Control de la información (excluyendo las directivas de retención)|No|No|No|No|No|No|No|
 |**[Cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/offering-home)**||||||||
 |Evaluaciones SAS 70 / SSAE16|No|No|No|No|No|No|No|
 |Certificación ISO 27001|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -206,7 +219,9 @@ En la tabla siguiente se enumeran todas las características de plataforma para 
 <sup>12</sup> es posible que algunos contenidos no se apliquen a Office 365 operado por 21Vianet.<br/>
 <sup>13</sup> Experiencia reducida. Si la organización depende de Internet Explorer 8 o Internet Explorer 9 para obtener acceso a servicios y aplicaciones web anteriores, considere la posibilidad de actualizar a Internet Explorer 11 y evaluar el modo de empresa de Internet Explorer 11. Esta actualización ayuda a mejorar la compatibilidad con versiones anteriores para aplicaciones web heredadas. <br/>
 <sup>14</sup> la autenticación multifactor no es compatible actualmente con Outlook Mobile (iOS y Android). <br/>
-<sup>15</sup> Bloc de notas de clase de OneNote está disponible a través de 21Vianet, pero la barra de herramientas Bloc de notas de clase de OneNote no está disponible para aplicaciones para Windows 10, iPad o OneNote para la Web.
+<sup>15</sup> Bloc de notas de clase de OneNote está disponible a través de 21Vianet, pero la barra de herramientas Bloc de notas de clase de OneNote no está disponible para aplicaciones para Windows 10, iPad o OneNote para la Web. <br/>
+<sup>16</sup> Office 365 operado por 21Vianet solo es compatible con las directivas de retención. No se admiten las etiquetas de retención o las directivas de retención para las ubicaciones de Yammer y Teams. Para obtener más información, consulte Introducción [a las directivas de retención](https://docs.microsoft.com/microsoft-365/compliance/get-started-with-retention). <br/>
+<sup>17</sup> la auditoría en Microsoft 365 proporciona a las organizaciones visibilidad en muchos tipos de actividades auditadas en diferentes servicios de Microsoft 365. Use la búsqueda de registro de auditoría del [ &amp; centro de cumplimiento de seguridad](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) para ver la actividad del usuario y del administrador de su organización. También puede usar la [API de actividad de administración 365 de Office](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado. Cuando un usuario o administrador realiza una actividad auditada, se genera un registro de auditoría y se almacena en el registro de auditoría de la organización del cliente. El período de tiempo durante el que se conserva un registro de auditoría (y que se pueden buscar en el registro de auditoría) depende de la suscripción de Office 365 o Microsoft 365 Enterprise del cliente y el tipo de licencia asignado a usuarios específicos.
 
 ## <a name="office-365-application-features"></a>Características de aplicaciones de Office 365
 
@@ -295,7 +310,7 @@ En la tabla siguiente se proporcionan vínculos a comparaciones de Office para o
 > - Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office.
 > - Los clientes locales de Microsoft Office Web Apps Server 2013 obtienen una licencia de edición web de Office si han adquirido una licencia del conjunto de aplicaciones de escritorio de Office (como Office Professional Plus, Office Standard o una licencia de Office 365 ProPlus).
 
-| Application | Office para la web ofrecido por 21Vianet | Vínculo a una comparación de características detallada |
+| Aplicación | Office para la web ofrecido por 21Vianet | Vínculo a una comparación de características detallada |
 |:-----|:-----|:-----|
 |Word|Word para el Web ofrecido por 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para el Web ofrecido por 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -455,10 +470,10 @@ Para obtener información acerca de los límites de Exchange Online, consulte lo
 - [Límites de Exchange ActiveSync](../exchange-online-service-description/exchange-online-limits.md#exchange-activesync-limits)
 
 > [!IMPORTANT]
-> - Los límites aplicados a una organización de Microsoft 365 pueden diferir en función de cuánto tiempo se haya inscrito la organización en el servicio. Cuando se cambia un límite en los centros de datos de Microsoft, la aplicación de los cambios en todos los clientes existentes puede tardar cierto tiempo.
+> - Los límites aplicados a una organización de Microsoft 365 pueden ser diferentes según el tiempo que la organización haya estado inscrita en el servicio.  Cuando se cambia un límite en los centros de datos de Microsoft, la aplicación de los cambios en todos los clientes existentes puede tardar cierto tiempo.
 > - No puede modificar la mayoría de estos límites, pero usted y sus usuarios deben conocerlos.
 > - Estos límites se aplican tanto a los destinatarios internos como a los externos.
-> - De forma predeterminada, Exchange Online Protection (EOP) protege los buzones de correo de Exchange Online. Para obtener los límites que se aplican a las características de EOP en Exchange Online, consulte [límites de Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
+> - De manera predeterminada, Exchange Online Protection (EOP) protege los buzones de Exchange Online. Para los límites que se aplican a las características de EOP en Exchange Online, vea [Límites de Exchange Online Protection](../exchange-online-protection-service-description/exchange-online-protection-limits.md).
 
 ## <a name="exchange-online-protection-features"></a>Características de Exchange Online Protection
 
@@ -609,7 +624,7 @@ La versión de Office 365 operado por 21Vianet de Office 365 es específica de C
 |Asistentes de configuración|No|No|No|No|No|No|No|
 |Actualización diferida de colección de sitios|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Caché distribuida|No|No|No|No|No|No|No|
-|Data loss prevention|No|No|No|No|No|No|No|
+|Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la empresa|No|Sí|Sí|No|No|Sí|No|
 |Encryption at rest|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Colecciones de sitios de encabezado host|No|No|No|No|No|No|No|
 |Administración de permisos mejorada|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -641,7 +656,7 @@ La versión de Office 365 operado por 21Vianet de Office 365 es específica de C
 |Compatibilidad con estándares de accesibilidad|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Mejoras de la biblioteca de activos/compatibilidad con vídeo|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Auditoría|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Informes de auditoría &amp; (por ejemplo, ediciones de documentos, ediciones de directivas, eliminaciones)|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|&amp;Informes de auditoría (por ejemplo, ediciones de documento, ediciones de Directiva, eliminaciones)|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Content Organizer|Sí|No|Sí|Sí|Sí|Sí|Sí|
 |Design Manager|Sí|No|Sí|Sí|Sí|Sí|Sí|
 |Conjuntos de documentos|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -732,7 +747,7 @@ La versión de Office 365 operado por 21Vianet de Office 365 es específica de C
 |Query throttling|Sí|No|Sí|Sí|Sí|Sí|Sí|
 |Vista previa al activar el puntero|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Ranking models|N°<sup>5</sup>|No|No|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|N°<sup>5</sup>|
-|Refinadores|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Refiners|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |RESTful Query API/Query OM|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Result sources|Sí|Sí|Sí|No|No|No|No|
 |Search connector framework|No|No|No|No|No|No|No|
@@ -1003,7 +1018,7 @@ En la siguiente tabla se enumeran los planes de Office 365 que incluye el servic
 |Conferencias de audio ad hoc y programadas|No|Sí|
 |Conferencias de vídeo ad hoc y programadas|No|Sí|
 |Vídeo del altavoz activo|No|Sí|
-|Codificación H. 264 y eecoding|No|Sí|
+|Codificación y descodificación H. 264|No|Sí|
 |Vídeo entre varias partes|No|Sí|
 |Vídeo de alta definición o imágenes de todos los asistentes|No|Sí|
 |Controles de moderador|No|Sí|
@@ -1051,7 +1066,7 @@ En la siguiente tabla se enumeran los planes de Office 365 que incluye el servic
 |Windows PowerShell|Sí|Sí|
 |Informes de Skype empresarial online en el centro de administración de Microsoft 365|No<sup>4</sup>|No<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Para obtener más información sobre las características de Lync Basic, consulte [tablas de comparación de clientes de escritorio](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic está disponible para todos los clientes. El cliente para equipos de escritorio de Lync Basic es una aplicación instalada de forma local que ofrece características de presencia, mensajería instantánea y conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Para obtener más información sobre las características de Lync Basic, consulte [tablas de comparación de clientes de escritorio](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 y Office 365 son servicios basados en la nube diseñados para ayudar a satisfacer las necesidades de su organización en cuanto a seguridad, confiabilidad y productividad del usuario sólidas.
-ms.openlocfilehash: 8a9ced37242ad08c53f17f33a77a42308c4df95b
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: 86fbb5db51b9416284bb07b330499137ce2ce15d
+ms.sourcegitcommit: 5fbf54f8cbd66db58772ce904d64482a70e0beae
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518721"
+ms.lasthandoff: 12/16/2020
+ms.locfileid: "49687891"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descripciones del servicio de Microsoft 365 y Office 365 
 
@@ -83,6 +83,8 @@ Para empezar, consulte las siguientes descripciones de servicios:
 
 > [!NOTE]
 > <sup>1</sup> Incluye disponibilidad de [características del conjunto de aplicaciones](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), como, por ejemplo, Office Delve, Microsoft MyAnalytics, Microsoft Sway y Microsoft Teams.
+>
+> Para obtener más información sobre las aplicaciones empresariales de Microsoft 365 Dynamics, consulte <https://docs.microsoft.com/dynamics365/> .
   
 ## <a name="disclaimer"></a>Aviso de declinación de responsabilidades
 

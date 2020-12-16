@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 y Office 365 están disponibles en diversos planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes, incluidos los planes de Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: 805cb3c5c5e3ff197394b60d59a4c162792e27a7
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
+ms.openlocfilehash: b3e05549dea19a9f3f669ad085df27d41e0a5f71
+ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49519131"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "49683524"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Microsoft 365 y Office 365
 
@@ -187,6 +187,8 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |Caja de seguridad del cliente  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Clave de cliente<sup>14</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |EDiscovery avanzado<sup>15</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
+|Auditoría básica<sup>22</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Auditoría avanzada<sup>22</sup> <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Puntuación segura<sup>7</sup> de Microsoft <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Inteligencia de amenazas  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |**[Cumplimiento](https://docs.microsoft.com/microsoft-365/compliance/offering-home)** <br/> ||||||||
@@ -225,4 +227,5 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 <br/><sup>18</sup> para obtener más información, consulte [planes y entornos de myanalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 <br/><sup>19</sup> incluye las características de Azure Active Directory descritas en la columna **Office 365 apps** en la página de [precios de Azure Active Directory](https://azure.microsoft.com/pricing/details/active-directory/) . Debe agregar Azure Active Directory plan 1 o plan 2, Enterprise Mobile Security o Microsoft 365 E3 o E5 para obtener las características Premium de Azure AD.<br/>
 <sup>20</sup> el mensaje de correo electrónico de informe se proporciona automáticamente a todos los usuarios de Exchange Online. Para obtener más información, vea [configurar el correo electrónico de informe](https://docs.microsoft.com/Briefing/be-admin).<br>
-<sup>21</sup> a los usuarios se les proporciona acceso de solo vista al proyecto para la Web. Estos derechos están restringidos para su uso solo con el proyecto de la aplicación web y solo para los inquilinos que tienen una licencia de plan de proyecto 1, plan de proyecto 3 o plan 5 de proyecto. Estos derechos no conceden acceso a las aplicaciones de la plataforma de alimentación u otros conjuntos de datos, el cliente de escritorio de Project online o Project online. Para obtener información detallada sobre las características, vea la [Descripción del servicio de Microsoft Project](../project-online-service-description/project-online-service-description.md).
+<sup>21</sup> a los usuarios se les proporciona acceso de solo vista al proyecto para la Web. Estos derechos están restringidos para su uso solo con el proyecto de la aplicación web y solo para los inquilinos que tienen una licencia de plan de proyecto 1, plan de proyecto 3 o plan 5 de proyecto. Estos derechos no conceden acceso a las aplicaciones de la plataforma de alimentación u otros conjuntos de datos, el cliente de escritorio de Project online o Project online. Para obtener información detallada sobre las características, vea la [Descripción del servicio de Microsoft Project](../project-online-service-description/project-online-service-description.md).<br/>
+<sup>22</sup> Audit en Microsoft 365 proporciona a las organizaciones visibilidad en muchos tipos de actividades auditadas en diferentes servicios de Microsoft 365. Use la búsqueda de registro de auditoría del [ &amp; centro de cumplimiento de seguridad](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) para ver la actividad del usuario y del administrador de su organización. También puede usar la [API de actividad de administración 365 de Office](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado. Cuando un usuario o administrador realiza una actividad auditada, se genera un registro de auditoría y se almacena en el registro de auditoría de la organización del cliente. El período de tiempo durante el que se conserva un registro de auditoría (y que se pueden buscar en el registro de auditoría) depende de la suscripción de Office 365 o Microsoft 365 Enterprise del cliente y el tipo de licencia asignado a usuarios específicos.
