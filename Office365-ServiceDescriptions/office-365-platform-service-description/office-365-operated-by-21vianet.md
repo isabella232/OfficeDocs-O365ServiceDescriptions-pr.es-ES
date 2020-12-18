@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 ofrecido por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: 64a403f935450e9b3500e352acb1dfa7f9717aeb
-ms.sourcegitcommit: fba931bd0f929d89d3432bd2b469a32ac50f5a08
+ms.openlocfilehash: 4618e4ddb7bb9225f94bb1f40f33a3c41bc09ee5
+ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683564"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "49709758"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -60,19 +60,6 @@ Cada plan de Office 365 operado por 21Vianet incluye varios servicios individual
 ## <a name="system-requirements"></a>Requisitos del sistema
 
 Para obtener información sobre los requisitos del sistema para Office 365, vea [Requisitos del sistema para Office](https://products.office.com/office-system-requirements/#Office365forBEG) en el sitio de productos de [office.com](https://www.office.com).
-
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
-
-El centro de cumplimiento de Microsoft 365 proporciona acceso sencillo a las herramientas necesarias para administrar las necesidades de cumplimiento de su organización. Las siguientes soluciones están disponibles en el centro de cumplimiento para los planes operados por 21Vianet:
-
-- Prevención de pérdida de datos (DLP)
-- Retención
-- Auditoría
-- Protección de la información de Microsoft (MIP)
-
-Consulte detalles de soluciones individuales para conocer el conjunto exacto de capacidades disponibles en el plan operado por 21Vianet.
-
-Para obtener más información sobre el centro de cumplimiento de Microsoft, haga clic [aquí](https://docs.microsoft.com/microsoft-365/compliance/microsoft-365-compliance-center).
 
 ## <a name="platform-features"></a>Características de plataforma 
 
@@ -535,7 +522,7 @@ Archivado de Exchange Online está disponible a través de los siguientes planes
 > [!NOTE]
 > La versión de Office 365 operado por 21Vianet de Office 365 es específica de China.
 
-| Plan | Descripción |
+| Planear | Descripción |
 |:-----|:-----|
 |**Archivado de Exchange Online para Exchange Server para Office 365 operado por 21Vianet**|Archivado basado en la nube para usuarios con buzones de correo primarios en Exchange Server 2013 o Exchange 2010 (SP2 o posterior).  <br/> Si desea agregar un archivo basado en la nube a un buzón principal que está en un servidor de Exchange local, necesita configurar una implementación híbrida. Para obtener más información sobre las implementaciones híbridas, consulte [Implementaciones híbridas de Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  |
 |**Archivado de Exchange Online para Exchange Online para Office 365 operado por 21Vianet**| Los planes siguientes incluyen funcionalidad de archivado y no requieren Archivado de Exchange Online como complemento:  <br/>  Office 365 A1 operado por 21Vianet  <br/>  Office 365 Enterprise E3 operado por 21Vianet  <br/>  Plan 2 de Exchange Online para Office 365 operado por 21Vianet  <br/>  Para obtener detalles acerca de la capacidades de archivo de los buzones de correo de Exchange Online, consulte [Buzones de archivo de Exchange Online](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview).|

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Consulte Qué características de Skype empresarial online están disponibles en los distintos planes de Microsoft 365 y Office 365.
-ms.openlocfilehash: 18144b42d6f94f4ce93432d681e136cd8063656c
-ms.sourcegitcommit: 4a81f0082bd64471702b0ff8f50e8ddb61db03fd
+ms.openlocfilehash: 070ea7ca1e66b1157726bea68c4130800b21a9f5
+ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48276758"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "49709748"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descripción del servicio Skype Empresarial Online
 
@@ -145,7 +145,7 @@ Para obtener una comparación más detallada, consulte la tabla siguiente.<br><b
 |Llamadas de Skype y federadas  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Llamadas de equipo  <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Monitor de llamadas de vídeo  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|Correo de voz  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
+|Correo de voz  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |[Planes de llamada](skype-for-business-online-features.md#calling-plans) (plan de llamadas nacionales, con la compra del complemento necesario)  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |No  <br/> |
 |[Planes de llamada](skype-for-business-online-features.md#calling-plans) (plan de llamadas internacionales, con la compra del complemento necesario)  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |No  <br/> |
 |[Créditos de comunicaciones](https://go.microsoft.com/fwlink/?LinkID=821961&amp;clcid=0x409) <br/> |No  <br/> |No  <br/> |No<sup>6</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
