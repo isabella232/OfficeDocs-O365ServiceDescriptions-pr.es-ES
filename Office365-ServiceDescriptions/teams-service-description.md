@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Microsoft Teams ofrece mensajería instantánea, colaboración de archivos y datos, llamadas de audio y vídeo, reuniones en línea enriquecidas, experiencias móviles y capacidades de conferencia web amplias.
-ms.openlocfilehash: e782a0f9736dc5b60b31fd6edf0cda66528944dd
-ms.sourcegitcommit: 145fce4b54b700460bcd424ffc76bfdb976d617d
+ms.openlocfilehash: 508e02d0e2d2afc3fa559e6759307c0c08a4c6d9
+ms.sourcegitcommit: eae5f1a9793fd0ca082ee81143765ae5849263dc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "49003953"
+ms.lasthandoff: 12/21/2020
+ms.locfileid: "49724565"
 ---
 # <a name="microsoft-teams-service-description"></a>Descripción del servicio Microsoft Teams
 
@@ -37,9 +37,9 @@ Para su referencia, hemos incluido esta tabla maestra de las suscripciones que p
 
 Para obtener instrucciones detalladas sobre la implementación de la característica del producto, consulte la [documentación del administrador de Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams). Esta descripción de servicio detalla las diferencias clave entre los servicios que se proporcionan en las distintas instalaciones en la nube. Las funciones principales de Microsoft Teams no difieren entre las suscripciones. La disponibilidad de las capacidades de cumplimiento depende del nivel de su suscripción. Para obtener más información, consulte [seguridad y cumplimiento en Microsoft Teams](https://docs.microsoft.com/microsoftteams/security-compliance-overview). Para obtener una lista detallada de las características disponibles en cada suscripción, consulte la descripción del servicio de la [plataforma Microsoft 365 y Office 365](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-platform-service-description).
 
-**Características de voz en la nube** : para audioconferencia, su organización debe comprar y asignar una licencia de conferencia de audio a cada usuario que vaya a configurar reuniones de acceso telefónico local. Para las características de Microsoft teams que requieren planes de llamada, cada usuario necesita un sistema telefónico y un plan de llamadas nacionales o nacionales e internacionales. Para obtener más información, consulte [licencias de complementos de Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
+**Características de voz en la nube**: para audioconferencia, su organización debe comprar y asignar una licencia de conferencia de audio a cada usuario que vaya a configurar reuniones de acceso telefónico local. Para las características de Microsoft teams que requieren planes de llamada, cada usuario necesita un sistema telefónico y un plan de llamadas nacionales o nacionales e internacionales. Para obtener más información, consulte [licencias de complementos de Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing).
 
-**Eventos en directo** : esta oferta en Office 365 reemplaza a la difusión de reunión de Skype retirada. Las funciones de eventos en directo están disponibles para los planes de licencias como se detalla en el servicio de transmisión por secuencias. Consulte los detalles de la [licencia de Microsoft Stream](https://docs.microsoft.com/stream/license-overview). Se puede tener acceso al servicio de eventos en directo a través de Stream, Yammer o Microsoft Teams. Para obtener más información sobre las funcionalidades de eventos activos, vea [eventos en directo en microsoft 365 en Yammer, Microsoft Teams y Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
+**Eventos en directo**: esta oferta en Office 365 reemplaza a la difusión de reunión de Skype retirada. Las funciones de eventos en directo están disponibles para los planes de licencias como se detalla en el servicio de transmisión por secuencias. Consulte los detalles de la [licencia de Microsoft Stream](https://docs.microsoft.com/stream/license-overview). Se puede tener acceso al servicio de eventos en directo a través de Stream, Yammer o Microsoft Teams. Para obtener más información sobre las funcionalidades de eventos activos, vea [eventos en directo en microsoft 365 en Yammer, Microsoft Teams y Microsoft Stream](https://docs.microsoft.com/stream/live-event-m365).
 
 Todos los planes de suscripción admitidos son aptos para acceder al cliente web de Microsoft Teams, los clientes de escritorio y las aplicaciones móviles.
 
@@ -66,9 +66,11 @@ En esta tabla se muestra la disponibilidad de las características de Microsoft 
 > <sup>2</sup> Microsoft Planner no está disponible actualmente para acceder a los canales privados.<br/>
 > <sup>3</sup> el enrutamiento directo debe configurarse para que las conferencias de audio y voz de Microsoft Teams funcionen en GCCH y DoD.<br/>
 > <sup>4</sup> Microsoft OneNote no está disponible en nubes DoD.<br/>
-> <sup>5</sup> las aplicaciones y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
+> <sup>5</sup> las aplicaciones de terceros y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
 > <sup>6</sup> los eventos en directo no están disponibles en el GCC-High o Dod en este momento.<br/>
 
-## <a name="next-steps"></a>Pasos siguientes
+## <a name="next-steps"></a>Siguientes pasos
 
 Para empezar a planear la implementación de Microsoft Teams, visite la [documentación técnica de Microsoft Teams](https://aka.ms/SuccessWithTeams). Manténgase informado sobre las características y capacidades de Microsoft Teams [uniendo nuestra comunidad y visitando nuestro blog de Microsoft Teams](https://aka.ms/TeamsBlog).
+
+Para obtener más información acerca de las características de Microsoft Teams por plataforma del sistema operativo, consulte el [artículo características de Microsoft Teams por compatibilidad de plataforma](https://aka.ms/teamsfeaturesbyplatform).
