@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice es un servicio de complemento que le permite usar Microsoft Teams para llamadas telefónicas. Esto combina sistema telefónico, plan de llamadas nacionales, SMS y audioconferencia.
-ms.openlocfilehash: 2f1f25dba03016ee9da086a8819394b1eab8691c
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+ms.openlocfilehash: b1b547e7b02865136774e555f33be8e5750de4d4
+ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624551"
+ms.lasthandoff: 12/23/2020
+ms.locfileid: "49730748"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Descripción del servicio de Microsoft 365 Empresa Voice
 
@@ -43,30 +43,30 @@ Microsoft 365 Business Voice está disponible con las siguientes suscripciones c
 ## <a name="microsoft-365-business-voice-features"></a>Características de Microsoft 365 Business Voice
 
 | Característica | Microsoft 365 Business Voice | Microsoft 365 Business Voice sin el plan de llamadas |
-|--------------------------------------------------------|----------------------------------|-------------------------------------------------------|
-| Números locales                                          | Sí                              | Sí                                                   |
-| Llamadas de VoIP                                           | Sí                              | Sí                                                   |
-| Operadores automáticos                                        | Sí                              | Sí                                                   |
-| Cola de llamadas                                             | Sí                              | Sí                                                   |
-| Identificador de llamada                                              | Sí                              | Sí                                                   |
-| Enrutamiento de llamada                                           | Sí                              | Sí                                                   |
-| Llamadas de emergencia                                      | Sí                              | Sí                                                   |
-| Llamadas de emergencia con ubicación dinámica                | Sí                              | Sí                                                   |
-| Correo de voz                                             | Sí                              | Sí                                                   |
-| Estacionamiento de llamadas                                              | Sí                              | Sí                                                   |
-| Desvío de llamadas                                        | Sí                              | Sí                                                   |
-| Delegación de llamadas (compartir una línea telefónica con un delegado)   | Sí                              | Sí                                                   |
-| Música en espera                                          | Sí                              | Sí                                                   |
-| Bloque de llamadas                                             | Sí                              | Sí                                                   |
-| Marcado de extensión de operador automático                       | Sí                              | Sí                                                   |
-| Operador automático/transferencia de cola de llamadas a correo de voz compartido | Sí                              | Sí                                                   |
-| Respuesta de voz interactiva multilingüe (IVR)          | Sí                              | Sí                                                   |
-| Directiva de llamadas                                         | Sí                              | Sí                                                   |
-| Plan de llamadas nacionales                                  | Sí                              | Sí                                                    |
-| Marcado gratuito\*                                    | Sí                              | Sí                                                    |
-| Plan de llamadas internacionales\*                           | Sí                              | Sí                                                    |
-| Audioconferencia                                     | Sí                              | No<sup>1</sup>                                                   |
+|--------------------------------------------------------|------------------------------|---------------------------------------------------|
+| Números locales | Sí | Afirma<sup>*</sup> |
+| Llamadas de VoIP | Sí | Afirma<sup>*</sup> |
+| Operadores automáticos | Sí | Afirma<sup>*</sup> |
+| Cola de llamadas | Sí | Afirma<sup>*</sup> |
+| Identificador de llamada | Sí | Afirma<sup>*</sup> |
+| Enrutamiento de llamada | Sí | Afirma<sup>*</sup> |
+| Llamadas de emergencia | Sí | Afirma<sup>*</sup> |
+| Llamadas de emergencia con ubicación dinámica | Sí | Afirma<sup>*</sup> |
+| Correo de voz | Sí | Afirma<sup>*</sup> |
+| Estacionamiento de llamadas | Sí | Afirma<sup>*</sup> |
+| Desvío de llamadas | Sí | Afirma<sup>*</sup> |
+| Delegación de llamadas (compartir una línea telefónica con un delegado) | Sí | Afirma<sup>*</sup> |
+| Música en espera | Sí | Afirma<sup>*</sup> |
+| Bloque de llamadas | Sí | Afirma<sup>*</sup> |
+| Marcado de extensión de operador automático | Sí | Afirma<sup>*</sup> |
+| Operador automático/transferencia de cola de llamadas a correo de voz compartido | Sí | Afirma<sup>*</sup> |
+| Respuesta de voz interactiva multilingüe (IVR) | Sí | Afirma<sup>*</sup> |
+| Directiva de llamadas | Sí | Afirma<sup>*</sup> |
+| Plan de llamadas nacionales | Sí | Requiere un plan de llamadas de terceros |
+| Marcado gratuito<sup>**</sup> | Sí | Requiere un plan de llamadas de terceros |
+| Plan de llamadas internacionales<sup>**</sup> | Sí | Requiere un plan de llamadas de terceros |
+| Audioconferencia | Sí | Sí |
 
-<sup>1</sup> Disponible con un plan de llamadas proporcionado por terceros.
+<sup>*</sup> Disponible con un plan de llamadas proporcionado por terceros.
 
-\* El marcado gratuito y el plan de llamadas internacionales están disponibles a un coste adicional mediante [créditos de comunicaciones](https://docs.microsoft.com/microsoftteams/what-are-communications-credits). Para obtener más información, consulte [marcado](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) gratuito y tasas de [llamadas internacionales](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates).
+<sup>**</sup> El marcado gratuito y el plan de llamadas internacionales están disponibles a un coste adicional mediante [créditos de comunicaciones](https://docs.microsoft.com/microsoftteams/what-are-communications-credits). Para obtener más información, consulte [marcado](https://docs.microsoft.com/microsoftteams/toll-free-dialing-limitations-and-restrictions) gratuito y tasas de [llamadas internacionales](https://www.microsoft.com/microsoft-365/microsoft-teams/voice-calling?rtc=1#ow-download-rates).

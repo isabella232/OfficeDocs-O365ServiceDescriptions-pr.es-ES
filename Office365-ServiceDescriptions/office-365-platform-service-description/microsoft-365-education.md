@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Obtenga información sobre las diferencias entre los planes de Microsoft 365 y Office 365 Education.
-ms.openlocfilehash: cc8d225e7caa622c4fb818d5823288e05145ba7b
-ms.sourcegitcommit: 3bde58616418da0560b2089c5359b519811d21dc
+ms.openlocfilehash: 2e149dc53127046bdb813bb10ca65a857fef67d8
+ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49611262"
+ms.lasthandoff: 12/23/2020
+ms.locfileid: "49730738"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Educación
 
@@ -32,7 +32,7 @@ Cada plan de Microsoft 365 Education incluye una serie de servicios individuales
 |Office para la web|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Aplicaciones de Microsoft 365 para empresas|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Exchange Online|Sí<sup>1</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|
-|SharePoint Online|Sí<sup>3</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
+|SharePoint Online|Sí<sup>3</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
 |OneDrive para la Empresa|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Microsoft Teams|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Skype Empresarial Online|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -74,7 +74,7 @@ Cada plan de Microsoft 365 Education incluye una serie de servicios individuales
 |eDiscovery avanzado|No|No|Sí|No|Sí|No|No|No|No|
 |Prevención de pérdida de datos (DLP) para correo electrónico y archivos|No|Sí|Sí|Sí|Sí|No|No|No|No|
 |DLP de extremo|No|No|No|No|Sí|No|No|No|No|
-|DLP de comunicaciones (chat de Microsoft Teams)|No|Sí|Sí|Sí|Sí|No|No|No|No|
+|DLP de comunicaciones (chat de Microsoft Teams)|No|No|Sí|No|Sí|No|No|No|No|
 |Cumplimiento de la comunicación|No|No|Sí|No|Sí|No|No|No|No|
 |Clave de cliente|No|No|Sí|No|Sí|No|No|No|No|
 |Auditoría básica|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
