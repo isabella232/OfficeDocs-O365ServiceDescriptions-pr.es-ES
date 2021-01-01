@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El centro de seguridad &amp; y cumplimiento está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-ms.openlocfilehash: 972ead8dd3cb7411355d215a3a77f597a24461b9
-ms.sourcegitcommit: a30f8263170877468df92cdf882f0c8a09eca6df
+ms.openlocfilehash: 4537008977f19ef947ea0bae9a4164cfbe9991d4
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/23/2020
-ms.locfileid: "49730728"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740971"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -30,21 +30,19 @@ Para ver las opciones para conceder licencias a los usuarios con el fin de benef
 | Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 | Office 365 F3, Office 365 US Government F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Acceso al centro de seguridad y &amp; cumplimiento](https://docs.microsoft.com/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
-|[Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la empresa](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)<sup>1, 3</sup> |No   |Sí  |Sí   |No   |Sí   |Sí   |No   |
-|[Etiquetas de sensibilidad manual](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>4</sup> | No | No  |No   | Sí | Sí | Sí | No  |
+|[Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la empresa](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)<sup>2</sup> | No | No  |No   | Sí | Sí | Sí | No  |
+|[Etiquetas de sensibilidad manual](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)<sup>3</sup> | No | No  |No   | Sí | Sí | Sí | No  |
 |[casos de eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
 |[suspensiones de eDiscovery (incluidas las suspensiones de exhibición de documentos electrónicos basadas en consultas)](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)  |No   |No   |No  |No   |Sí   |Sí   |No   |
 |[exportación de exhibición de documentos electrónicos](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |No   |No   |No   |No   |Sí   |Sí   |No   |
-|[Auditoría básica](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>2</sup> |Sí   |Sí   |Sí|Sí   |Sí   |Sí   |Sí   |
+|[Auditoría básica](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>1</sup> |Sí   |Sí   |Sí|Sí   |Sí   |Sí   |Sí   |
 |[Office 365 cifrado de mensajes (OME) Basic](https://docs.microsoft.com/microsoft-365/compliance/ome)  |No   |No   |No   |No   |Sí  |Sí   |No   |
 
-<sup>1</sup> incluye los archivos almacenados en repositorios de Microsoft Teams.
+<sup>1</sup> los registros de auditoría para todos los planes que incluyen auditoría básica (excepto para E5) se conservan durante 90 días. Dado que E5 incluye auditoría avanzada, los registros de auditoría se conservan durante un año. Además, puede usar la [API de actividad de administración 365 de Office](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado.
 
-<sup>2</sup> los registros de auditoría para todos los planes que incluyen auditoría básica (excepto para E5) se conservan durante 90 días. Dado que E5 incluye auditoría avanzada, los registros de auditoría se conservan durante un año. Además, puede usar la [API de actividad de administración 365 de Office](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado.
+<sup>2</sup> requiere el complemento de prevención de pérdida de datos de Office 365.
 
-<sup>3</sup> requiere el complemento de prevención de pérdida de datos de Office 365.
-
-<sup>4</sup> las etiquetas de confidencialidad también se incluyen en Azure Information Protection P1 y P2.
+<sup>3</sup> las etiquetas de confidencialidad también se incluyen en Azure Information Protection P1 y P2.
 
 ## <a name="security-amp-compliance-center-availability-for-standalone-plans"></a>&amp;Disponibilidad del centro de cumplimiento de seguridad para planes independientes
 

@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 ofrecido por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: 4618e4ddb7bb9225f94bb1f40f33a3c41bc09ee5
-ms.sourcegitcommit: 0b4cb697845acba8db68100ea062f3aad2205b4c
+ms.openlocfilehash: ea937b095550466e604b20e4eb5f943a6897bfa9
+ms.sourcegitcommit: ee08ab6a47235054d5029807ab79fba546326273
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49709758"
+ms.lasthandoff: 12/31/2020
+ms.locfileid: "49740991"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -522,7 +522,7 @@ Archivado de Exchange Online está disponible a través de los siguientes planes
 > [!NOTE]
 > La versión de Office 365 operado por 21Vianet de Office 365 es específica de China.
 
-| Planear | Descripción |
+| Plan | Descripción |
 |:-----|:-----|
 |**Archivado de Exchange Online para Exchange Server para Office 365 operado por 21Vianet**|Archivado basado en la nube para usuarios con buzones de correo primarios en Exchange Server 2013 o Exchange 2010 (SP2 o posterior).  <br/> Si desea agregar un archivo basado en la nube a un buzón principal que está en un servidor de Exchange local, necesita configurar una implementación híbrida. Para obtener más información sobre las implementaciones híbridas, consulte [Implementaciones híbridas de Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).  |
 |**Archivado de Exchange Online para Exchange Online para Office 365 operado por 21Vianet**| Los planes siguientes incluyen funcionalidad de archivado y no requieren Archivado de Exchange Online como complemento:  <br/>  Office 365 A1 operado por 21Vianet  <br/>  Office 365 Enterprise E3 operado por 21Vianet  <br/>  Plan 2 de Exchange Online para Office 365 operado por 21Vianet  <br/>  Para obtener detalles acerca de la capacidades de archivo de los buzones de correo de Exchange Online, consulte [Buzones de archivo de Exchange Online](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview).|
@@ -1053,7 +1053,7 @@ En la siguiente tabla se enumeran los planes de Office 365 que incluye el servic
 |Windows PowerShell|Sí|Sí|
 |Informes de Skype empresarial online en el centro de administración de Microsoft 365|No<sup>4</sup>|No<sup>4</sup>|
 
-<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic está disponible para todos los clientes. El cliente para equipos de escritorio de Lync Basic es una aplicación instalada de forma local que ofrece características de presencia, mensajería instantánea y conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Office 365 ProPlus, and Office 365 Enterprise E3 include the full Skype for Business (Lync) application, which include additional features including advanced telephony support, archiving &amp; compliance features. A Skype for Business Online license must be assigned for each user. Para obtener más información sobre las características de Lync Basic, consulte [tablas de comparación de clientes de escritorio](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).
+<sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. The Lync Basic desktop client is a locally installed application that provides presence, instant messaging and conferencing features for Office 365 plans that include Skype for Business Online. Office 365 ProPlus y Office 365 Enterprise E3 incluyen la aplicación de Skype empresarial (Lync) completa, que incluye características adicionales, incluida la compatibilidad con telefonía avanzada, las características de cumplimiento de archivado &amp; . A Skype for Business Online license must be assigned for each user. Para obtener más información sobre las características de Lync Basic, consulte [tablas de comparación de clientes de escritorio](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).
 <br/><sup>2</sup> A Skype for Business Online Plan 1 user may participate in a sharing session if they are invited by a Skype for Business Online Plan 2 user.
 <br/><sup>3</sup> Archiving for Skype for Business Online depends upon the Exchange In-Place Hold feature, which is not included in this plan.
 <br/><sup>4</sup> Tenants with a standalone Skype for Business Online plan can access reporting features if the tenant also has at least one active Exchange license, such as Exchange Online Plan 1 or Exchange Online Plan 2.
@@ -1076,7 +1076,6 @@ No se admiten las siguientes características móviles:
 - Respuesta inteligente
 - Fuente de Office
 - Tiempo para dejar
-- Etiqueta de confidencialidad de Microsoft Information Protection
 - Almacenamiento de Dropbox
 - Almacenamiento de Google Drive
 - Almacenamiento de la caja
