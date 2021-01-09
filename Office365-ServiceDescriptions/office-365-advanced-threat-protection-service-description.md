@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender para Office 365 es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger su organización contra virus y malware desconocidos al proporcionar una sólida protección de día cero e incluye características para proteger su organización de vínculos dañinos en tiempo real.
-ms.openlocfilehash: fd2869eb98b64fca4f241339497486a392815402
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: 4bb1a39fd9369dd2c691a442c351f74c9f544b12
+ms.sourcegitcommit: 69bb27491ec44b1c4a01cec94a4e0f353c707593
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780014"
+ms.lasthandoff: 01/09/2021
+ms.locfileid: "49790444"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descripción del servicio de Microsoft Defender para Office 365
 
@@ -28,11 +28,11 @@ Las siguientes son las formas principales de usar Defender para Office 365 para 
 
 - Defender para Office 365 se puede habilitar para proteger los buzones hospedados en la nube de Exchange Online. Para obtener más información acerca de Exchange Online, consulte la descripción [del servicio de Exchange Online.](exchange-online-service-description/exchange-online-service-description.md)
 
-- En una implementación híbrida, Defender para Office 365 se puede configurar para proteger su entorno de mensajería y controlar el enrutamiento de correo cuando tiene una combinación de buzones locales y en la nube con Exchange Online Protection para el filtrado de correo electrónico entrante.
+- En una implementación híbrida, Defender para Office 365 se puede configurar para proteger su entorno de mensajería y controlar el enrutamiento de correo cuando tiene una combinación de buzones locales y en la nube con Exchange Online Protection para el filtrado de correo entrante.
 
 ## <a name="microsoft-defender-for-office-365-availability"></a>Disponibilidad de Microsoft Defender para Office 365
 
-Defender para Office 365 Plan 2 se incluye en Office 365 E5, Office 365 A5 y Microsoft 365 E5. Defender para Office 365 Plan 1 se incluye en Microsoft 365 Empresa Premium.
+Microsoft Defender para Office 365 Plan 2 se incluye en Office 365 E5, Office 365 A5, Seguridad de Microsoft 365 E5 y Microsoft 365 E5, como se especifica aquí: [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) . Defender para Office 365 Plan 1 se incluye en Microsoft 365 Empresa Premium.
 
 Puede agregar Defender para Office 365 a los siguientes planes de suscripción de Exchange y Microsoft 365:
 
@@ -94,13 +94,10 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 |Investigación de amenazas (investigación de amenazas avanzada)|[Detecciones en tiempo real](#real-time-detections)|[Explorador](#explorer)|[Explorador](#explorer)|
 |[Respuesta a incidentes automatizada](#automated-incident-response)|No|Sí|Sí|
 |[Simulador de ataque](#attack-simulator)|No|Sí|Sí|
-|*Integración con Microsoft 365 Defender*|No|Sí|Sí|
-
-> [!TIP]
-> ¿Desea una lista descargable de diferencias entre Defender para Office 365 Plan 1 y Plan 2? [Obtener el PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
+|*Integración con [Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|No|Sí|Sí|
 
 > [!NOTE]
-> Si su espacio empresarial solo tiene una licencia de prueba de Office ATP P2 u licencia de prueba de Office 365 E5, sin ninguna otra licencia apta para la Protección contra amenazas de Microsoft, no podrá acceder a la Protección contra amenazas de Microsoft. Para obtener más información sobre la licencia MTP, vea <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites>
+> Si su espacio empresarial solo tiene la licencia de prueba de Defender para Office 365 Plan 2 o la licencia de prueba de Microsoft 365 E5, sin ninguna otra licencia apta para Microsoft 365 Defender, no podrá acceder a Microsoft 365 Defender. Para obtener más información, vea [los requisitos de Microsoft 365 Defender.](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 
 ## <a name="defender-for-office-365-capabilities"></a>Capacidades de Defender para Office 365
 
@@ -113,7 +110,7 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 
 ### <a name="safe-links"></a>Vínculos seguros
 
-La [característica Vínculos](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) seguros protege de forma proactiva a los usuarios de direcciones URL malintencionadas en un mensaje o en un documento de Office. La protección se mantiene cada vez que seleccionan el vínculo, ya que los vínculos maliciosos se bloquean de forma dinámica mientras se puede acceder a los vínculos buenos.
+La [característica Vínculos seguros](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) protege de forma proactiva a los usuarios de direcciones URL malintencionadas en un mensaje o en un documento de Office. La protección se mantiene cada vez que seleccionan el vínculo, ya que los vínculos maliciosos se bloquean de forma dinámica mientras se puede acceder a los vínculos buenos.
 
 Los vínculos seguros están disponibles para las direcciones URL en las siguientes aplicaciones:
 
@@ -161,11 +158,11 @@ La [característica Documentos seguros](https://docs.microsoft.com/microsoft-365
 
 ### <a name="real-time-reports"></a>Informes en tiempo real
 
-Las capacidades de supervisión disponibles en el Centro de seguridad y cumplimiento de & incluyen informes y [perspectivas](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) en tiempo real que permiten a los administradores de seguridad y cumplimiento centrarse en problemas de prioridad alta, como ataques de seguridad o un aumento de la actividad sospechosa. Además de resaltar las áreas problemáticas, los informes inteligentes y las conclusiones incluyen recomendaciones y vínculos para ver y explorar datos y también realizar acciones rápidas.
+Las capacidades de supervisión disponibles en el Centro de seguridad & Cumplimiento ( ) incluyen informes y perspectivas en tiempo real que permiten a los administradores de seguridad y cumplimiento centrarse en problemas de prioridad alta, como ataques de seguridad o aumento de la actividad [https://protection.office.com](https://protection.office.com) sospechosa. [](https://docs.microsoft.com/microsoft-365/security/office-365-security/view-reports-for-atp) Además de resaltar las áreas problemáticas, los informes inteligentes y las conclusiones incluyen recomendaciones y vínculos para ver y explorar datos y también realizar acciones rápidas.
 
 ### <a name="explorer"></a>Explorador
 
-Explorer (también conocido como el explorador de amenazas) es un informe en tiempo real que permite a los usuarios autorizados identificar y analizar las amenazas recientes. De forma predeterminada, en este informe se muestran los datos de los últimos 7 días; sin embargo, las vistas se pueden modificar para mostrar los datos de los últimos 30 días.
+Explorer (también conocido como el explorador de amenazas) es un informe en tiempo real que permite a los usuarios autorizados identificar y analizar las amenazas recientes. De forma predeterminada, este informe muestra los datos de los últimos siete días; sin embargo, las vistas se pueden modificar para mostrar los datos de los últimos 30 días.
 
 El explorador contiene vistas, como Malware (para correo electrónico y contenido), Envíos, Suplantación de identidad y Todo el correo electrónico. Para ver cómo se compara Explorer con las detecciones en tiempo real, [descargue este PDF.](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
@@ -173,7 +170,7 @@ Para obtener más información acerca del Explorador (en Microsoft Defender para
 
 ### <a name="real-time-detections"></a>Detecciones en tiempo real
 
-Las detecciones en tiempo real son un informe en tiempo real que permite a los usuarios autorizados identificar y analizar las amenazas recientes. Al igual que en Explorer, de forma predeterminada, este informe muestra los datos de los últimos 7 días.
+Las detecciones en tiempo real son un informe en tiempo real que permite a los usuarios autorizados identificar y analizar las amenazas recientes. De forma predeterminada, al igual que el Explorador, este informe muestra los datos de los últimos siete días.
 
 Las detecciones en tiempo real contienen vistas, como malware (para correo electrónico y contenido), envíos y suplantación de identidad. Para ver cómo se comparan las detecciones en tiempo real con el Explorador, [descargue este PDF.](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf)
 
@@ -185,7 +182,7 @@ Para obtener más información acerca del Explorador (en Microsoft Defender para
 
 ### <a name="automated-incident-response"></a>Respuesta a incidentes automatizada
 
-[Las capacidades](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) automatizadas de respuesta a incidentes (AIR) disponibles en Defender para Office 365 Plan 2 le permiten ejecutar procesos de investigación automatizados en respuesta a amenazas conocidas que existen actualmente. Al automatizar determinadas tareas de investigación, el equipo de operaciones de seguridad puede funcionar de forma más eficaz y eficaz. Las acciones de corrección, como la eliminación de mensajes de correo electrónico malintencionados, se toman tras la aprobación por parte del equipo de operaciones de seguridad. Para obtener más información, vea [Cómo funciona AIR en Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
+[Las capacidades](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-air) de respuesta a incidentes automatizadas (AIR) disponibles en Defender para Office 365 Plan 2 le permiten ejecutar procesos de investigación automatizados en respuesta a amenazas conocidas que existen actualmente. Al automatizar determinadas tareas de investigación, el equipo de operaciones de seguridad puede funcionar de forma más eficaz y eficaz. Las acciones de corrección, como la eliminación de mensajes de correo electrónico malintencionados, se toman tras la aprobación por parte del equipo de operaciones de seguridad. Para obtener más información, vea [Cómo funciona AIR en Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
 ### <a name="attack-simulator"></a>Simulador de ataque
 
