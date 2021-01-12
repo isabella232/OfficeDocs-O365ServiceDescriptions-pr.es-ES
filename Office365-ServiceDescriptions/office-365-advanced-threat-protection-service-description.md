@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender para Office 365 es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger su organización contra virus y malware desconocidos al proporcionar una sólida protección de día cero e incluye características para proteger su organización de vínculos dañinos en tiempo real.
-ms.openlocfilehash: 4bb1a39fd9369dd2c691a442c351f74c9f544b12
-ms.sourcegitcommit: 69bb27491ec44b1c4a01cec94a4e0f353c707593
+ms.openlocfilehash: a049d8d1beb9f95cec02fbaf7276f305e382365c
+ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/09/2021
-ms.locfileid: "49790444"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "49794966"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descripción del servicio de Microsoft Defender para Office 365
 
@@ -97,7 +97,7 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 |*Integración con [Microsoft 365 Defender](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)*|No|Sí|Sí|
 
 > [!NOTE]
-> Si su espacio empresarial solo tiene la licencia de prueba de Defender para Office 365 Plan 2 o la licencia de prueba de Microsoft 365 E5, sin ninguna otra licencia apta para Microsoft 365 Defender, no podrá acceder a Microsoft 365 Defender. Para obtener más información, vea [los requisitos de Microsoft 365 Defender.](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+> Si su espacio empresarial solo tiene una licencia de prueba de Office ATP P2 u licencia de prueba de Office 365 E5, sin ninguna otra licencia apta para la Protección contra amenazas de Microsoft, no podrá acceder a la Protección contra amenazas de Microsoft. Para obtener más información sobre la licencia MTP, vea <https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites> .
 
 ## <a name="defender-for-office-365-capabilities"></a>Capacidades de Defender para Office 365
 
