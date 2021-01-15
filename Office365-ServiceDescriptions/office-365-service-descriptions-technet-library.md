@@ -12,30 +12,32 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
-description: Microsoft 365 y Office 365 son servicios basados en la nube diseñados para ayudar a satisfacer las necesidades de su organización en cuanto a seguridad, confiabilidad y productividad del usuario sólidas.
-ms.openlocfilehash: 86fbb5db51b9416284bb07b330499137ce2ce15d
-ms.sourcegitcommit: 5fbf54f8cbd66db58772ce904d64482a70e0beae
+description: Microsoft 365 y Office 365 son servicios basados en la nube diseñados para ayudar a satisfacer las necesidades de seguridad, confiabilidad y productividad de los usuarios de su organización.
+ms.openlocfilehash: 656624e78999eca65c7b24981a50fa203ea9c1c1
+ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49687891"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49871163"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descripciones del servicio de Microsoft 365 y Office 365 
 
-Microsoft 365 y Office 365 son servicios basados en la nube diseñados para ayudar a satisfacer las necesidades de su organización en cuanto a seguridad, confiabilidad y productividad del usuario sólidas. 
+Microsoft 365 y Office 365 son servicios basados en la nube diseñados para ayudar a satisfacer las necesidades de seguridad, confiabilidad y productividad de los usuarios de su organización. 
   
-Los temas de esta biblioteca proporcionan descripciones detalladas de los servicios y las características que están disponibles con Microsoft 365 y Office 365. Para comparar las características de los planes, consulte [herramientas eficaces que admiten su empresa](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) o la descripción del servicio relevante en la lista siguiente. 
+Los artículos de esta biblioteca proporcionan descripciones detalladas de los servicios y características disponibles con Microsoft 365 y Office 365. Para obtener información acerca de las aplicaciones empresariales de Microsoft Dynamics 365, consulte la [documentación de Microsoft Dynamics 365.](https://docs.microsoft.com/dynamics365/)
+
+Para comparar características entre planes, consulte Herramientas eficaces [para](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) admitir su empresa o la descripción del servicio relevante en la lista siguiente. 
   
-Para obtener información y artículos de soporte técnico, consulte la [ayuda de office & Training](https://support.office.com/), la [documentación de Office para administradores y profesionales de ti](https://docs.microsoft.com/office/)y el [centro de ayuda de 365 para administradores y profesionales de ti](https://docs.microsoft.com/microsoft-365/).
+Para obtener [artículos](https://docs.microsoft.com/office/)de soporte técnico e información, consulte Office [Help & Training](https://support.office.com/), documentación de Office para administradores y profesionales de TI, y el Centro de ayuda de [Microsoft 365](https://docs.microsoft.com/microsoft-365/)para administradores y profesionales de TI.
   
 > [!NOTE]
-> Si está buscando la hoja de cálculo de comparación de la descripción del servicio, se ha retirado. Las tablas de disponibilidad de características del producto de cada página de Descripción del servicio se han actualizado para ayudarle a elegir la versión de Office 365 que mejor se adapte a sus necesidades. 
+> Si está buscando la hoja de cálculo de comparación de descripción del servicio, se ha retirado. Las tablas de disponibilidad de características del producto en cada página de descripción del servicio se han actualizado para ayudarle a elegir mejor la versión de Office 365 que se adapte a sus necesidades. 
   
-Microsoft ofrece el beneficio del centro FastTrack para Office 365 para los servicios elegibles en los planes elegibles. El beneficio le permite trabajar de forma remota con especialistas de Microsoft para obtener su entorno de Office 365 listo para su uso. Para obtener más información, vea [Ventajas del Centro de FastTrack para Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
+Microsoft ofrece las ventajas del Centro de FastTrack para Office 365 para los servicios elegibles en los planes elegibles. La ventaja le permite trabajar de forma remota con especialistas de Microsoft para preparar su entorno de Office 365 para su uso. Para obtener más información, vea [Ventajas del Centro de FastTrack para Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Para empezar, consulte las siguientes descripciones de servicios:
   
-- [Microsoft 365 y Office 365 Platform Service Description](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- Descripción del servicio de plataforma [de Microsoft 365 y Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
 
 - [Descripción del servicio de aplicaciones de Office](office-applications-service-description/office-applications-service-description.md)
 
@@ -47,7 +49,7 @@ Para empezar, consulte las siguientes descripciones de servicios:
 
 - [Descripción del servicio de Archivado de Exchange Online](exchange-online-archiving-service-description/exchange-online-archiving-service-description.md)
 
-- [Descripción del servicio de Microsoft defender para Office 365](office-365-advanced-threat-protection-service-description.md)
+- [Descripción del servicio de Microsoft Defender para Office 365](office-365-advanced-threat-protection-service-description.md)
 
 - [Descripción del servicio Microsoft Teams](teams-service-description.md)
 
@@ -79,14 +81,11 @@ Para empezar, consulte las siguientes descripciones de servicios:
 
 - [Instrucciones de licencias de Microsoft 365 para la seguridad y el cumplimiento](microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance.md)
 
-- [Descripción del servicio Microsoft Dynamics 365 (Online)](microsoft-dynamics-365-online-service-description.md)
 
 > [!NOTE]
 > <sup>1</sup> Incluye disponibilidad de [características del conjunto de aplicaciones](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), como, por ejemplo, Office Delve, Microsoft MyAnalytics, Microsoft Sway y Microsoft Teams.
->
-> Para obtener más información sobre las aplicaciones empresariales de Microsoft 365 Dynamics, consulte <https://docs.microsoft.com/dynamics365/> .
   
 ## <a name="disclaimer"></a>Aviso de declinación de responsabilidades
 
-&copy; 2018 Microsoft Corporation. Reservados todos los derechos. Microsoft, Office 365 y otros nombres de productos y servicios son o podrían ser marcas comerciales o marcas comerciales registradas en los Estados Unidos o en otros países. La información provista aquí tiene fines informativos únicamente y representa la vista actual de Microsoft Corporation a partir de fecha de la última publicación o revisión de este documento. No está diseñado para ser un contrato de servicio y no compromete a Microsoft ni al cliente con ninguna característica, funcionalidad o responsabilidad mencionada en este documento. MICROSOFT NO OTORGA NINGUNA GARANTÍA, YA SEA EXPLÍCITA, IMPLÍCITA O ESTATUTARIA, CON RESPECTO A LA INFORMACIÓN CONTENIDA EN ESTE DOCUMENTO.
+&copy; 2018 Microsoft Corporation. Reservados todos los derechos. Microsoft, Office 365 y otros nombres de productos y servicios son o podrían ser marcas comerciales o marcas comerciales registradas en los Estados Unidos o en otros países. La información provista aquí tiene fines informativos únicamente y representa la vista actual de Microsoft Corporation a partir de fecha de la última publicación o revisión de este documento. No pretende ser un contrato de servicio y no compromete a Microsoft ni al cliente a ninguna de las características, capacidades o responsabilidades mencionadas en este documento. MICROSOFT NO OTORGA NINGUNA GARANTÍA, YA SEA EXPLÍCITA, IMPLÍCITA O ESTATUTARIA, CON RESPECTO A LA INFORMACIÓN CONTENIDA EN ESTE DOCUMENTO.
  

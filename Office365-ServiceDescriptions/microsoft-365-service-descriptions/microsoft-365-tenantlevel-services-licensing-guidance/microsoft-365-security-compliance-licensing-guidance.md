@@ -11,12 +11,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones en el servicio debido al acceso sin licencia.
-ms.openlocfilehash: ef31f5c9b833163434e6df224b6f8bf8bd462155
-ms.sourcegitcommit: 58befa733e889d34e2f7598ccf894cc8a60dcea0
+ms.openlocfilehash: 0971b241d486180bd406c8472fa1a2dbcb9cb873
+ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "49786862"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49871143"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security--compliance"></a>Guía de licencias de Microsoft 365 para el cumplimiento de & seguridad
 
@@ -37,7 +37,7 @@ Los analistas y profesionales de seguridad de SecOps se benefician de tener vist
 
 ### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos para que un usuario se beneficie del servicio?
 
-Los clientes con licencias de Office 365 E5/A5 y Microsoft 365 E5/A5 podrán acceder a las evaluaciones predefinidas de línea base de protección de datos, RGPD, NIST 800-53 e ISO 27001, así como usar la característica de evaluación personalizada. Las evaluaciones premium estarán disponibles para su compra para los clientes de Office 365 E5/A5 y Microsoft 365 E5/A5 durante la primera mitad de 2021. Estarán disponibles para su compra a través de VL, CSP y WebDirect.
+Enterprise Mobility + Security E5/A5, Microsoft 365 E5/A5, Microsoft 365 E5/A5 Security y Azure Active Directory Premium Plan 2 proporcionan los derechos para que un usuario se beneficie de Azure Active Directory Identity Protection.
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se aprovisiona o implementa el servicio?
 
