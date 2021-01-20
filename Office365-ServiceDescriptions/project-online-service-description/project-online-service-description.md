@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y el trabajo diario. Project Online, que se proporciona a través de Office 365, proporciona eficaces capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones en carteras de proyectos, desde prácticamente cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: efe500b4d141cdcf8a58c0613fd966c2b90e9ad3
-ms.sourcegitcommit: c347eb958f754cdde93ab7182f3f85d5a93cd81d
+ms.openlocfilehash: 961aa648ccd5cf0f143016baddf659ae9d5082b4
+ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "49794976"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "49905153"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -38,7 +38,7 @@ Project para la web es la oferta más reciente de Microsoft para la administraci
 
 Project para la web se basa en microsoft Power Platform. Power Platform consta de PowerApps, Power Automate, Power BI y Microsoft Dataverse. El proyecto para los datos web se almacena en Microsoft Dataverse. 
 
-Project para la web está disponible a través de tres suscripciones: Plan de proyecto 1, Plan de proyecto 3 y Plan de proyecto 5. Las características que aparecen [en la sección De características](#project-for-the-web-features) de Project para la web interactúan solo con los datos del proyecto para el almacén de datos web.
+Project para la web está disponible a través de tres suscripciones: Plan de proyecto 1, Plan de proyecto 3 y Plan de proyecto 5. Las características [enumeradas en Project para las características web](#project-for-the-web-features) interactúan solo con los datos del proyecto para el almacén de datos web.
 
 ### <a name="project-online"></a>Project Online
  
@@ -46,7 +46,7 @@ Project Online es una solución en línea flexible para la administración de ca
 
 Project Online se basa en la plataforma de SharePoint y almacena datos en el almacén de datos de SharePoint.
 
-Project Online está disponible a través de dos suscripciones: Project Plan 3 y Project Plan 5. Las características que aparecen en [la sección características de Project Online](#project-online-features) interactúan solo con los datos del almacén de datos de SharePoint de Project Online.
+Project Online está disponible a través de dos suscripciones: Project Plan 3 y Project Plan 5. Las características enumeradas [en las características de Project Online](#project-online-features) interactúan solo con los datos del almacén de datos de SharePoint de Project Online.
 
 La funcionalidad de los miembros del equipo para Project Online está disponible a través de una suscripción a Project Online Essentials o Project Plan 1. Project Online Essentials es  una suscripción de complemento de miembro del equipo para los clientes que tienen suscripciones a Project Plan 3 o Project Plan 5. Las suscripciones a Project Online Essentials y Project Plan 1 les ofrece a los miembros del equipo una interfaz web para realizar actualizaciones de tareas y horas en proyectos administrados en Project Online.
 
@@ -102,7 +102,7 @@ Las características que se enumeran en esta sección interactúan solo con los 
 |Programación de tareas | Obtenga una vista a ojos ojos de los proyectos en los que ha trabajado recientemente, así como de los proyectos importantes que necesita supervisar estrechamente.| Ver solamente | Sí | Sí | Sí |
 |Vista Escala de tiempo (diagrama de Gantt) | Realice un seguimiento visualmente y comprenda las fechas, dependencias y asignaciones del proyecto en una vista jerárquica de escala de tiempo.|Ver solamente | Sí | Sí | Sí |
 |Tareas de resumen | Planee, administre y realice un seguimiento de las entregas y fases mediante el uso de tareas de resumen.| Ver solamente | Sí | Sí | Sí |
-|Crear y usar campos personalizados de tareas | Agregue campos personalizados locales a las tareas de un proyecto, agregue datos a estos campos o actualice los datos de estos campos.| Solo vista | Sí | Sí | Sí |
+|Crear y usar campos personalizados de tareas | Agregue campos personalizados locales a las tareas de un proyecto, agregue datos a estos campos o actualice los datos de estos campos.| Vista solo | Sí | Sí | Sí |
 |**Colaboración** ||||||
 |Integración de Microsoft Teams | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí | Sí | Sí |
 |**Administración de recursos y programas** ||||||
@@ -117,10 +117,10 @@ Las características que se enumeran en esta sección interactúan solo con los 
 |**Movilidad** ||||||
 |Aplicaciones móviles | Crear aplicaciones móviles personalizadas con PowerApps. <sup>4</sup> |No | No | Sí | Sí |
 |**Personalización e integración**||||||
-|Usar la aplicación de Project lista para usar | Use la aplicación project lista para usar para ver un proyecto, crear un nuevo proyecto, agregar nuevos datos a un proyecto o actualizar los datos del proyecto existentes. | Solo vista | Sí | Sí | Sí |
-|Personalizar vistas y formularios <sup>4</sup> | Personalizar solo vistas y formularios en la aplicación de Project lista para usar. | Solo vista | Sí | Sí | Sí |
-|Usar columnas personalizadas | Ver, agregar, actualizar o eliminar datos de una columna agregada a una tabla. | Solo vista | Solo vista | Sí | Sí |
-|Usar tablas personalizadas <sup>5</sup> | Cree y defina tablas personalizadas para contener datos adicionales que necesite para sus proyectos, carteras, etc. | No | Solo vista | Sí | Sí |
+|Usar la aplicación de Project lista para usar | Use la aplicación project lista para usar para ver un proyecto, crear un nuevo proyecto, agregar nuevos datos a un proyecto o actualizar los datos del proyecto existentes. | Vista solo | Sí | Sí | Sí |
+|Personalizar vistas y formularios <sup>4</sup> | Personalizar solo vistas y formularios en la aplicación de Project lista para usar. | Vista solo | Sí | Sí | Sí |
+|Usar columnas personalizadas | Ver, agregar, actualizar o eliminar datos de una columna agregada a una tabla. | Vista solo | Vista solo | Sí | Sí |
+|Usar tablas personalizadas <sup>5</sup> | Cree y defina tablas personalizadas para contener datos adicionales que necesite para sus proyectos, carteras, etc. | No | Vista solo | Sí | Sí |
 |**Seguridad y administración de usuarios**||||||
 |Grupos modernos de Office | Cree un equipo de proyecto con el que colaborar y configure fácilmente una colección de recursos para que los miembros del equipo los compartan. | Sí | Sí | Sí | Sí |
 |**Aplicaciones de terceros**||||||
@@ -242,7 +242,7 @@ Las características que aparecen en esta sección interactúan solo con los dat
 |Ordenación y agrupación | Use la ordenación y agrupación personalizadas para obtener una vista centrada del proyecto, las tareas y los recursos.|
 |**Personalización e integración**||
 |Campos personalizados | Agregue campos personalizados en el nivel de proyecto, tarea y recurso para realizar un seguimiento de los datos importantes para la organización y los proyectos. |
-|Formularios | Crear e implementar formularios personalizados para capturar datos importantes del proyecto. |
+|Forms | Crear e implementar formularios personalizados para capturar datos importantes del proyecto. |
 |Fórmulas | Calcular y capturar datos importantes mediante fórmulas en tareas y proyectos. |
 |Plantillas | Cree plantillas para proyectos comunes, incluidos los planes de proyecto, los equipos y las asignaciones. |
 |.mpp import/export | Cree nuevos proyectos a partir de archivos .mpp existentes o cree un archivo .mpp de un proyecto existente. |
@@ -274,6 +274,14 @@ La guía básica del proyecto requiere el uso de Power Automate, que se aprovisi
 Project para la web requiere el uso de Microsoft Dataverse para almacenar sus datos. Se aprovisiona una base de datos de Microsoft Dataverse como parte de la suscripción a Project. Los derechos a la funcionalidad de Microsoft Dataverse se limitan al almacenamiento y acceso a datos para admitir Project para la web. La funcionalidad dataverse de Microsoft requerida por Project aparece  como el plan de servicio common **data service para Project** en la sección Aplicaciones del Centro de administración de Microsoft 365.
 
 Para los clientes de Project con cinco (5) o más licencias de Project para la web, los clientes de Project para la web pueden implementar en entornos de producción y espacio aislado de Power Platform.
+
+| Capacidad incluida/acumulada                                      | Proyecto P1 | Proyecto P3 | Proyecto P5 |
+|--------------------------------------------------------------------|------------|------------|------------|
+| Base de datos de Dataverse (anteriormente Common Data Service): incluido/inquilino | 3 GB        | 5 GB        | 5 GB        |
+| Base de datos dataverse: licencia de suscripción de usuario/acumulado (USL)        | 50 MB       | 250 MB      | 250 MB      |
+| Registro de Dataverse: Incluido/inquilino                                     | 2 GB        | 2 GB        | 2 GB        |
+| Archivo Dataverse: Incluido/inquilino                                    | 20 GB       | 20 GB       | 20 GB       |
+| Archivo dataverse: accrued/USL                                        | 400 MB      | 2 GB        | 2 GB        |
 
 ### <a name="data-backup-and-retention"></a>Copia de seguridad y retención de datos
 
