@@ -7,13 +7,13 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: En este artículo se proporciona información general sobre Microsoft 365 Administración Gubernamental y se describen las opciones de compra.
-ms.openlocfilehash: ced4b8a7ba23b93c821b0e74a833bf18323f5a87
-ms.sourcegitcommit: b735b2419e81c635b5f116125dd0bc38d2bb91d4
+description: En este artículo se proporciona información general sobre Microsoft 365 Administración y se describen las opciones de compra.
+ms.openlocfilehash: 89612ef6ddf762060f418edb5d004baa9c49353a
+ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49878673"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "49919763"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Administración Gubernamental: cómo comprar
 
@@ -36,14 +36,14 @@ Microsoft 365 Government ayuda a los líderes y trabajadores del gobierno de Los
 
 ## <a name="what-makes-microsoft-365-government-different-from-microsoft-365-for-enterprise-offerings"></a>¿Qué diferencia a Microsoft 365 Administración Pública de las ofertas de Microsoft 365 para empresas?
 
-Microsoft 365 Administración Pública está diseñado exclusivamente para cumplir los requisitos de cumplimiento de las agencias gubernamentales de los Estados Unidos en cuatro áreas clave:
+Microsoft 365 Government está diseñado exclusivamente para cumplir los requisitos de cumplimiento de las agencias gubernamentales de los Estados Unidos en cuatro áreas clave:
 
 **Comunidad exclusiva.** Los centros de datos gubernamentales solo están disponibles para las agencias o departamentos gubernamentales, o las empresas comerciales que tienen autorización para retener y procesar información controlada en nombre del gobierno de Estados Unidos.
 
-**Personal con pantalla.** El acceso al contenido del cliente de su organización está restringido al personal de Microsoft que sea ciudadano estadounidense y haya pasado las comprobaciones de antecedentes necesarias.
+**Personal con pantalla.** El acceso al contenido de los clientes de su organización está restringido al personal de Microsoft que es ciudadano estadounidense y ha pasado las comprobaciones de antecedentes necesarias.
 Auditorías de terceros. Toda la infraestructura es auditada por un auditor externo certificado que proporciona un informe de evaluación de seguridad o una carta de atestación que usan las agencias federales para emitir una autorización para operar (ATO). 
 
-**Almacenamiento de contenido.** Los datos se almacenan dentro del continente estadounidense con una infraestructura compatible. En la tabla siguiente se resumen los compromisos y los entornos de Microsoft 365 para el gobierno.<br><br>
+**Almacenamiento de contenido.** Los datos se almacenan dentro de los Estados Unidos continentales con una infraestructura compatible. En la tabla siguiente se resumen los compromisos y los entornos de Microsoft 365 para el gobierno.<br><br>
 
 | Ofertas | Compromisos |
 |:----------|:----------------------------------|
@@ -57,18 +57,18 @@ Para obtener más información sobre la acreditación de seguridad y cumplimient
 
 Microsoft 365 Administración Pública está disponible para los clientes gubernamentales elegibles y las organizaciones no gubernamentales patrocinadoras para retener o procesar información controlada. Los criterios de elegibilidad para estas dos categorías de clientes son coherentes en la nube de Microsoft Government.
 
-Las ofertas GCC y GCC High están disponibles para cualquier cliente que sea apto para Microsoft Government Cloud, y el entorno de DoD es para uso exclusivo del Departamento de Defensa de Estados Unidos. La disponibilidad del servicio y el precio difieren, y GCC sigue siendo la oferta principal para todos los clientes que no tienen Información sin clasificar controlada por FedRAMP High o DoD (CUI).
+Las ofertas GCC y GCC High están disponibles para cualquier cliente que sea apto para Microsoft Government Cloud, y el entorno de DoD es para uso exclusivo del Departamento de Defensa de Estados Unidos. La disponibilidad del servicio y los precios difieren, y GCC sigue siendo la oferta principal para todos los clientes que no tienen FedRAMP High o DoD controlado información sin clasificar (CUI).
 
 Un cliente gubernamental elegible se define mediante uno de los siguientes elementos:
 
 - Una agencia federal, definida como oficina, oficina, agencia, departamento u otra entidad del Gobierno de los Estados Unidos
 - Una entidad local o de estado, definida como una de las siguientes:
-    - Cualquier agencia de un gobierno local o de un estado en los Estados Unidos
+    - Cualquier agencia de un gobierno local o de estado en los Estados Unidos
     - Cualquier provincia de Los Estados Unidos, región, región, ciudad, territorio, ciudad, distrito, distrito de propósito especial u otro tipo similar de instrumentalidad gubernamental establecida por las leyes del estado de un cliente y ubicada dentro de la jurisdicción y los límites geográficos del estado del cliente
     - El Distrito de Colombia, el Distrito de Puerto Rico, Guam, Samoa Estadounidense, las Islas Vírgenes de los Estados Unidos y las Islas Marianas del Norte
 - Una entidad multinacional, definida como una entidad multinacional reconocida federalmente apta para la financiación y los servicios del Departamento de Interior de los Estados Unidos en virtud de su estado como una comunidad india, o, en Alaska, una población nativa o una corporación nativa regional de Alaska
 
-Las organizaciones no gubernamentales que tienen los siguientes tipos de datos y pueden proporcionar las pruebas enumeradas califican para el proceso de validación de Microsoft Government Cloud:
+Las organizaciones no gubernamentales que tienen los siguientes tipos de datos y pueden proporcionar las pruebas enumeradas reúnen los requisitos para el proceso de validación de Microsoft Government Cloud:
 
 Una entidad privada comercial con datos sujetos a normativas. Los tipos de datos gubernamentales aceptados incluyen:
 - Tráfico internacional de armas (ITAR)
@@ -132,20 +132,34 @@ Los clientes pueden comprar licencias de Microsoft 365 para el gobierno de Estad
 
 **AOS-G partners GCC y GCC High (menos de 500 puestos)**
 
-- IT ágil
-- Ingeniería de la información aplicada (AIS)
+- Llcre Federal Services, LLC
+- IT ágil, Inc.
+- Applied InformationLogic, Inc.
 - Soluciones integradas C3
+- CACI
 - Carahsoft
-- Dox Electronics, Inc.
-- F1 Solutions, Inc.
-- Cuatro puntos
+- CGI Federal Inc.
+- Dox Electronics Inc.
+- F1 Solutions Inc.
+- Four Points Technology, LLC
+- General Dynamics Information Technology, Inc.
+- Imager Software, Inc. d.b.a ISC
+- Jackvira
+- Resalte
 - KTL Solutions, Inc.
 - LiftOff, LLC
-- Tecnologías del planeta
-- Quiet Professionals
-- Sistemas Desacción 7
+- Northrop
+- Novetta
+- Tecnologías del Planeta, Inc.
+- Quiet Professionals, LLC
+- Red River
+- SAIC
+- Smartronix
+- Servicios de Emergencia 7
+- TechTrend, Inc.
+- Vexcel
 
-**Nota:** Todos los proveedores de soluciones de licencias (LSP) de Microsoft de la lista anterior pueden realizar transacciones de GCC y GCC High a través de Contrato Enterprise (EA) para crear la hoja de precios de cliente (CPS). Las organizaciones que no reúnen los requisitos para EA pueden comprar licencias GCC a través del programa de partners de AOS-G o del programa de partners CSP enumerados.
+**Nota:** Todos los proveedores de soluciones de licencias (LSP) de Microsoft de la lista anterior pueden realizar transacciones de GCC y GCC High a través de Contrato Enterprise (EA) para crear la hoja de precios de cliente (CPS). Las organizaciones que no reúnen los requisitos para EA pueden comprar licencias GCC a través del programa de partners de AOS-G o de partners csp enumerados.
 
 **Si trabajas con un partner de CSP, ponte en contacto con él o [busca un CSP.](https://www.microsoft.com/solution-providers/home)**
 
