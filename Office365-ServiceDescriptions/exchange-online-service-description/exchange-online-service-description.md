@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Está buscando una comparación de características de suscripciones que incluyan Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: 7b43af4d2938eea638670f15d807cef53d963d1e
-ms.sourcegitcommit: bab0eaae59d5c801f88eadbd29fd0d16de387c82
+ms.openlocfilehash: 43ee44473f69fd2d5183be8b481a58329d0bf23d
+ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "49780024"
+ms.lasthandoff: 02/01/2021
+ms.locfileid: "50069265"
 ---
 # <a name="exchange-online-service-description"></a>Descripción de servicio de Exchange Online
 
@@ -34,12 +34,12 @@ ms.locfileid: "49780024"
   
 Microsoft Exchange Online es una solución de mensajería hospedada que brinda las características de Microsoft Exchange Server como un servicio basado en la nube. Proporciona a los usuarios acceso a correo electrónico, calendario, contactos y tareas del equipo, la red y dispositivos móviles. Se integra completamente con Active Directory, lo que permite a los administradores usar directivas de grupo, como también otras herramientas de administración, para administrar características de Exchange Online en el entorno.
   
-Las organizaciones que se suscriben a Exchange Online mantienen el control de los servicios de mensajería que ofrecen a los usuarios, pero no tienen la carga operativa del software de servidor local. Con los planes hospedados de Exchange Online que se describen en este documento, el correo electrónico está hospedado en servidores que admiten varios clientes simultáneamente. Estos servidores están ubicados en centros de datos de Microsoft y son accesibles para los usuarios en una amplia gama de dispositivos desde dentro de una red corporativa o a través de Internet.
+Las organizaciones que se suscriben a Exchange Online mantienen el control de los servicios de mensajería que ofrecen a los usuarios, pero no tienen la carga operativa del software de servidor local. Con los planes hospedados de Exchange Online que se describen en este documento, el correo electrónico está hospedado en servidores que admiten varios clientes simultáneamente. Estos servidores se encuentran en centros de datos de Microsoft y son accesibles para los usuarios en una amplia variedad de dispositivos desde dentro de una red corporativa o a través de Internet.
   
 Para comparar características entre planes, vea [Herramientas eficaces para dar soporte a su empresa.](https://products.office.com/business/compare-more-office-365-for-business-plans) Para comparar los planes de Office 365 Germany, consulte los [planes de suscripción a Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016).
   
 > [!TIP]
-> Puede exportar, guardar e imprimir páginas en las descripciones de servicio de Microsoft. Obtenga información sobre cómo [exportar resultados de búsqueda de contenido.](https://docs.microsoft.com/office365/securitycompliance/export-search-results) 
+> Puede exportar, guardar e imprimir páginas en las descripciones del servicio Microsoft. Obtenga información sobre cómo [exportar resultados de búsqueda de contenido.](https://docs.microsoft.com/office365/securitycompliance/export-search-results) 
   
 ## <a name="whats-new-in-exchange-admin-center"></a>Novedades en el centro de administración de Exchange
 
@@ -66,7 +66,7 @@ Para obtener información sobre los límites de almacenamiento y destinatarios d
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Si su organización actualmente tiene suscripciones a Office 365 Pequeña Empresa, Office 365 Pequeña Empresa Premium u Office 365 Mediana Empresa, visite su Centro de mensajes en el Centro de administración de Microsoft 365 o hable con su proveedor para obtener más información sobre cómo le afecta el nuevo plan de Aplicaciones de Microsoft 365. Para obtener más información sobre la nueva familia de planes de Aplicaciones de Microsoft 365, vea Nuevos planes para pequeñas y [medianas empresas.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
+Si su organización actualmente tiene suscripciones a Office 365 Pequeña Empresa, Office 365 Pequeña Empresa Premium u Office 365 Mediana Empresa, visite su Centro de mensajes en el Centro de administración de Microsoft 365 o hable con su proveedor para obtener más información sobre cómo le afecta el nuevo plan de Aplicaciones de Microsoft 365. Para obtener más información sobre la nueva familia de planes de Aplicaciones de Microsoft 365, vea Nuevos planes para pequeñas y medianas [empresas.](https://blogs.microsoft.com/blog/2014/10/02/new-office-365-plans-small-mid-sized-businesses-available-today)
 
 Para obtener información sobre la disponibilidad de características en Microsoft 365 Empresa Premium, vea la descripción del servicio [Microsoft 365 Empresa Premium.](../microsoft-365-service-descriptions/microsoft-365-business-service-description.md)<br/><br/>
   
@@ -104,7 +104,7 @@ Para obtener información sobre la disponibilidad de características en Microso
 |Customize anti-malware policies|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
 |Cuarentena: gestión de administradores|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>7</sup>|
 |Cuarentena: autoadministración de usuarios finales|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
-|Microsoft Defender para Office 365|No|Sí|No|No|No|No|Sí|No|
+|Microsoft Defender para Office 365|No|No|No|No|No|No|Sí|No|
 |**[Flujo de correo](mail-flow.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Enrutamiento personalizado de correo saliente|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Secure messaging with a trusted partner|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -123,7 +123,7 @@ Para obtener información sobre la disponibilidad de características en Microso
 |Directivas de la libreta de direcciones|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Libreta de direcciones jerárquica|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Listas de direcciones y lista global de direcciones|Sí|Sí|Sí|Sí|Sí<sup>18</sup>|Sí<sup>18</sup>|Sí<sup>18</sup>|Sí<sup>18</sup>|
-|Grupos de Microsoft 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
+|Grupos de Microsoft 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |Grupos de distribución|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Contactos externos (globales)|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Tarjeta de contacto universal|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -149,13 +149,13 @@ Para obtener información sobre la disponibilidad de características en Microso
 |Outlook para Mac<sup>21</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí| No|
 |Outlook para iOS y Android<sup>21</sup>|Sí<sup>25</sup>|Sí<sup>25</sup>|Sí|Sí|Sí|Sí|Sí|Sí|
 |Exchange ActiveSync|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Movilidad básica y seguridad para Microsoft 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
+|Movilidad y seguridad básicas para Microsoft 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
 |POP e IMAP|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí<sup>12</sup>|
 |SMTP|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Compatibilidad con aplicaciones EWS|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |**[Servicios de mensajes de voz](voice-message-services.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Correo de<sup>voz 23</sup>|Sí|Sí|No|No|No|Sí|Sí|No|
-|Integración entre correo de voz y FAX<sup>23</sup> de terceros|Sí|Sí|No|No|No|Sí|Sí|No|
+|Integración entre el correo de voz y fax<sup>23</sup> de terceros|Sí|Sí|No|No|No|Sí|Sí|No|
 |Interoperabilidad de correo de voz de terceros<sup>23</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Integración de Skype Empresarial|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |**[Alta disponibilidad y continuidad empresarial](high-availability-and-business-continuity.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
@@ -166,7 +166,7 @@ Para obtener información sobre la disponibilidad de características en Microso
 |**[Interoperabilidad, conectividad y compatibilidad](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Presencia de Skype Empresarial en OWA y Outlook|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Interoperabilidad de SharePoint|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|Compatibilidad con conectividad EWS<sup>26</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Compatibilidad con conectividad ews<sup>26</sup>|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Compatibilidad con retransmisión SMTP|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |**[Administración y configuración de Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Acceso al portal de Microsoft Office 365|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -183,9 +183,9 @@ Para obtener información sobre la disponibilidad de características en Microso
 <sup>3</sup> Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM compatibles. <br/>
 <sup>4</sup> Las reglas de transporte están basadas en criterios flexibles, que permiten definir condiciones y excepciones, y acciones que se deben realizar en función de los criterios. Los criterios y las acciones disponibles difieren entre Exchange Online y Microsoft Exchange Server 2013. Para obtener una lista de todos los criterios y las acciones disponibles, vea los temas de criterios y acciones correspondientes para cada producto. <br/>
 <sup>5</sup> Para Exchange 2013, DLP requiere una licencia de acceso de cliente (CAL) de Exchange Enterprise. Para obtener más información acerca de las CAL y las licencias de servidor, consulte preguntas más [frecuentes sobre licencias de Exchange.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/>
-<sup>6</sup> Exchange Server 2013 tiene la mayoría de las mismas capacidades integradas contra correo no deseado que Exchange Server 2010. Para obtener información sobre las ventajas del filtrado de correo no deseado hospedado por Exchange en las ofertas locales, consulte Ventajas de las características contra correo no deseado en [Exchange Online Protection sobre Exchange Server 2013.](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help) <br/>
+<sup>6</sup> Exchange Server 2013 tiene la mayoría de las mismas capacidades integradas contra correo no deseado que Exchange Server 2010. Para obtener información sobre las ventajas del filtrado de correo no deseado hospedado por Exchange en las ofertas locales, consulte Ventajas de las características contra correo electrónico no deseado en [Exchange Online Protection en Exchange Server 2013.](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help) <br/>
 <sup>7</sup> Solo accesible a través del acceso directo a la interfaz de administración del Centro de administración de Exchange (EAC). <br/>
-<sup>8 Exchange Server</sup> 2013 usa solo el motor antimalware de Microsoft. Exchange Online usa varios motores antimalware para buscar malware en los mensajes internos, entrantes y salientes. <br/>
+<sup>8</sup> Exchange Server 2013 usa solo el motor antimalware de Microsoft. Exchange Online usa varios motores antimalware para buscar malware en los mensajes internos, entrantes y salientes. <br/>
 <sup>9</sup> Se puede comprar una suscripción de EOA por separado para cada buzón que requiera la característica de buzón inactivo o de archivo.<br/>
 <sup>10</sup> SharePoint debe implementarse en la organización de Exchange local. <br/>
 <sup>11</sup> SharePoint Online debe incluirse en el plan de suscripción. <br/>
@@ -207,7 +207,7 @@ Se admite el cifrado de <sup>15</sup> unidades BitLocker Exchange Server 2013, p
 
 ## <a name="feature-availability-across-exchange-online-standalone-plans"></a>Disponibilidad de características en los planes independientes de Exchange Online
 
-| Característica | Exchange Server 2013 | Exchange Server 2016 | Plan 1 de Exchange Online &nbsp; | Exchange Online Plan &nbsp; 2 | Quiosco de Exchange Online |
+| Característica | Exchange Server 2013 | Exchange Server 2016 | Plan 1 de Exchange Online &nbsp; | Exchange Online (plan &nbsp; 2) | Quiosco de Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|:-----|
 |**[Planificación e implementación](planning-and-deployment.md)**||||||
 |Admite implementación híbrida|Sí|Sí|Sí|Sí|Sí<sup>23</sup>|
@@ -299,7 +299,7 @@ Se admite el cifrado de <sup>15</sup> unidades BitLocker Exchange Server 2013, p
 |**[Interoperabilidad, conectividad y compatibilidad](interoperability-connectivity-and-compatibility.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Plan 1 de Exchange Online &nbsp;**|**Exchange Online (plan &nbsp; 2)**|**Quiosco de Exchange Online**|
 |Presencia de Skype Empresarial en OWA y Outlook|Sí|Sí|Sí|Sí|Sí|
 |Interoperabilidad de SharePoint|Sí|Sí|Sí|Sí|Sí|
-|Compatibilidad con conectividad EWS<sup>26</sup>|Sí|Sí|Sí|Sí|Sí|
+|Compatibilidad con conectividad ews<sup>26</sup>|Sí|Sí|Sí|Sí|Sí|
 |Compatibilidad con retransmisión SMTP|Sí|Sí|Sí|Sí|Sí|
 |**[Administración y configuración de Exchange Online](exchange-online-setup-and-administration.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Plan 1 de Exchange Online &nbsp;**|**Exchange Online (plan &nbsp; 2)**|**Quiosco de Exchange Online**|
 |Acceso al portal de Microsoft Office 365|No|No|Sí|Sí|Sí|
@@ -312,7 +312,7 @@ Se admite el cifrado de <sup>15</sup> unidades BitLocker Exchange Server 2013, p
 |Outlook en la web elementos web|Sí|Sí|Sí|Sí|Sí|
 |Complementos de Outlook y MAPI de Outlook|Sí|Sí|Sí<sup>21</sup>|Sí<sup>21</sup>|No|
 
-<sup>1 Las</sup> reglas de transporte están hechas de criterios flexibles, que permiten definir condiciones y excepciones, y acciones que se deben realizar en función de los criterios. Los criterios y las acciones disponibles difieren entre Exchange Online y Microsoft Exchange Server 2013. Para obtener una lista de todos los criterios y las acciones disponibles, vea los temas de criterios y acciones correspondientes para cada producto. <br/>
+<sup>1 Las</sup> reglas de transporte están basadas en criterios flexibles, que permiten definir condiciones y excepciones, y acciones que se deben realizar en función de los criterios. Los criterios y las acciones disponibles difieren entre Exchange Online y Microsoft Exchange Server 2013. Para obtener una lista de todos los criterios y las acciones disponibles, vea los temas de criterios y acciones correspondientes para cada producto. <br/>
 <sup>2</sup> Para obtener información sobre las ventajas del filtrado de correo no deseado hospedado por Exchange en las ofertas locales, consulte Ventajas de las características contra correo electrónico no deseado en [Exchange Online Protection en Exchange Server 2013.](https://docs.microsoft.com/exchange/benefits-of-anti-spam-features-in-exchange-online-protection-over-exchange-server-2013-exchange-2013-help) <br/>
 <sup>3</sup> SharePoint debe implementarse en la organización de Exchange local. <br/>
 <sup>4</sup> SharePoint Online debe incluirse en el plan de suscripción. <br/>
@@ -323,11 +323,11 @@ Se admite el cifrado de <sup>15</sup> unidades BitLocker Exchange Server 2013, p
 No se admite <sup>9</sup> IMAP. <br/>
 <sup>10</sup> Para Exchange 2013 o posterior, DLP requiere una licencia de acceso de cliente (CAL) de Exchange Enterprise. Para obtener más información acerca de las CAL y las licencias de servidor, consulte preguntas más [frecuentes sobre licencias de Exchange.](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business) <br/>
 <sup>11</sup> No se incluye Azure Information Protection, pero se puede comprar como un complemento independiente y habilitará las características compatibles de Information Rights Management (IRM). Algunas características de Azure Information Protection requieren una suscripción a Aplicaciones de Microsoft 365 para empresas, que no se incluye con Microsoft 365 Empresa Basic, Microsoft 365 Empresa Standard, Office 365 Enterprise E1, Office 365 Educación u Office 365 Enterprise F3. El cifrado de mensajes de Office 365 depende de Azure Information Protection. <br/>
-<sup>12</sup> Ad RMS de Windows Server es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM compatibles. <br/>
-<sup>13 Compatible</sup> con clientes que ejecutan Exchange Server 2013 o posterior que compren Azure Information Protection. El cifrado de mensajes de Office 365 requiere que los clientes locales enrutar el correo electrónico a través de Exchange Online, ya sea mediante Exchange Online Protection para el filtrado de correo electrónico o mediante el establecimiento del flujo de correo híbrido. <br/>
+<sup>12</sup> AD RMS de Windows Server es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM compatibles. <br/>
+<sup>13 Compatible</sup> con clientes que ejecutan Exchange Server 2013 o posterior que compran Azure Information Protection. El cifrado de mensajes de Office 365 requiere que los clientes locales enrutar el correo electrónico a través de Exchange Online, ya sea mediante Exchange Online Protection para el filtrado de correo electrónico o mediante el establecimiento del flujo de correo híbrido. <br/>
 <sup>14</sup> Los clientes que ejecutan Exchange Server 2013 o posterior necesitan descargar e instalar la actualización acumulativa (CU) más reciente, o la CU inmediatamente anterior, para acceder a la huella digital de documento y las sugerencias de directiva en OWA y OWA para dispositivos. <br/>
-<sup>15 Disponible</sup> para los clientes que ejecutan Exchange Server 2013 o posterior. <br/>
-El cifrado de unidad BitLocker <sup>16</sup> es compatible con Exchange Server 2013, pero un administrador debe habilitar la característica. <br/>
+<sup>15</sup> Disponible para los clientes que ejecutan Exchange Server 2013 o posterior. <br/>
+El cifrado de unidad BitLocker <sup>16</sup> es compatible con Exchange Server 2013, pero un administrador necesita habilitar la característica. <br/>
 <sup>17</sup> Exchange Online Plan 1 tiene un [límite de tamaño en el buzón y archivo.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits) Archivado de Exchange Online complemento de Exchange Online agrega un archivo ilimitado basado en la nube y una [retención local.](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/compliance-and-security-features#in-place-hold-and-litigation-hold) <br/>
 <sup>18</sup> Quiosco de Exchange Online solo se puede acceder a los calendarios o compartirse a través de OWA. <br/>
 <sup>Se admiten 19</sup> cuentas conectadas para cuentas POP IMAP, pero deshabilitadas &amp; para Outlook.com (Hotmail). <br/>

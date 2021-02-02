@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 y Office 365 están disponibles en una variedad de planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes, incluidos los planes de Exchange Online, este artículo le mostrará las características que se incluyen en cada uno de ellos.
-ms.openlocfilehash: 5e0cbefa7b1bbc4e89f8b32086fc4e4534d3b5f3
-ms.sourcegitcommit: 50179fef4616ffa270d7e766d70e9c9f1379d824
+ms.openlocfilehash: a9aaa0e5e6ebcf4196ac89926cb88f30daaf67f0
+ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49871153"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50072293"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Microsoft 365 y Office 365
 
@@ -26,7 +26,7 @@ Microsoft 365 y Office 365 están disponibles en una variedad de planes para sat
   
 Microsoft 365 y Office 365 ofrecen el poder de productividad de la nube a empresas de todos los tamaños, lo que ayuda a ahorrar tiempo, dinero y liberar recursos valiosos. Los planes de Microsoft 365 y Office 365 combinan el conocido conjunto de escritorios de Microsoft Office con versiones basadas en la nube de los servicios de colaboración y comunicaciones de próxima generación de Microsoft(incluidos Microsoft Exchange Online, Microsoft SharePoint Online, Office para la Web y Microsoft Skype Empresarial Online) para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de Internet.
   
-Para comparar características entre [](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) planes, consulte Herramientas eficaces para dar soporte a su empresa o, para obtener una lista más detallada de características, consulte la descripción del servicio relevante en descripciones de servicios de [Microsoft 365 y Office 365.](../office-365-service-descriptions-technet-library.md)
+Para comparar características entre [](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) planes, consulte Herramientas eficaces para dar soporte a su empresa o, para obtener una lista más detallada de las características, consulte la descripción del servicio relevante en descripciones de servicio de [Microsoft 365 y Office 365.](../office-365-service-descriptions-technet-library.md)
   
 - Para obtener información sobre los planes de Office 365 Educación, comience por la página [Office 365 Educación](office-365-education.md). 
     
@@ -44,11 +44,11 @@ Para obtener información sobre las licencias por volumen, consulte [términos y
   
 ## <a name="microsoft-365-and-office-365-plans-and-pricing-for-nonprofits"></a>Planes y precios de Microsoft 365 y Office 365 para ong
 
-Para las organizaciones que reúnen los requisitos para los planes de Microsoft 365 y Office 365 para ong, estos planes incluyen exactamente las mismas características que los planes empresariales correspondientes (por ejemplo, Office 365 E5 para ong incluye las mismas características que Office 365 E5). La única diferencia entre los planes equivalentes es el precio. Para obtener más información sobre los planes de Microsoft 365 y Office 365 para ong, vea Comparar las ofertas de [Microsoft 365 y Office 365](https://go.microsoft.com/fwlink/?LinkID=627221)para ong y las soluciones de productividad para [ong.](https://go.microsoft.com/fwlink/?LinkID=786641)
+Para las organizaciones que reúnen los requisitos para los planes de Microsoft 365 y Office 365 para ong, estos planes incluyen exactamente las mismas características que los planes de empresa correspondientes (por ejemplo, Office 365 E5 para ong incluye las mismas características que Office 365 E5). La única diferencia entre los planes equivalentes es el precio. Para obtener más información sobre los planes de Microsoft 365 y Office 365 para ong, vea Comparar las ofertas de [Microsoft 365 y Office 365](https://go.microsoft.com/fwlink/?LinkID=627221)para ong y las soluciones de productividad para [ong.](https://go.microsoft.com/fwlink/?LinkID=786641)
   
 ## <a name="system-requirements"></a>Requisitos del sistema
 
-Para obtener información sobre los requisitos del sistema para Microsoft 365 y Office 365, los servicios mensuales basados en suscripción disponibles para organizaciones empresariales, educativas y gubernamentales, consulte Requisitos del sistema para recursos de [Microsoft 365](https://products.office.com/office-system-requirements/#Office365forBEG)y Office.
+Para obtener información sobre los requisitos del sistema para Microsoft 365 y Office 365, los servicios mensuales basados en suscripción disponibles para organizaciones empresariales, educativas y gubernamentales, consulte Requisitos del sistema para los recursos de [Microsoft 365](https://products.office.com/office-system-requirements/#Office365forBEG)y Office.
   
 ## <a name="service-level-agreement"></a>Contrato de nivel de servicio
 
@@ -60,11 +60,11 @@ Para obtener información sobre el Centro &amp; de cumplimiento de seguridad y v
   
 ## <a name="data-storage-location"></a>Ubicación del almacenamiento de datos
 
-Para obtener información sobre dónde se almacenan los datos, consulte el lugar donde se almacenan [los datos de los clientes.](https://docs.microsoft.com/office365/enterprise/o365-data-locations) 
+Para obtener información sobre dónde se almacenan los datos, consulta el lugar donde se almacenan [los datos de los clientes.](https://docs.microsoft.com/office365/enterprise/o365-data-locations) 
   
 ## <a name="multi-geo-capabilities"></a>Capacidades multige geográficas 
 
-Multi-Geo permite que una única organización abarque varias ubicaciones geográficas del centro de datos de Office 365 y le ofrece la capacidad de almacenar datos para Exchange Online y OneDrive para la Empresa, en reposo, por usuario, en la zona geográfica elegida. 
+Multi-Geo permite que una sola organización abarque varias ubicaciones geográficas del centro de datos de Office 365 y le ofrece la capacidad de almacenar datos para Exchange Online y OneDrive para la Empresa, en reposo, por usuario, en la zona geográfica elegida. 
   
 Geos disponibles: Asia Pacífico, Australia, Canadá, Unión Europea, India, Japón, Corea, Reino Unido, Estados Unidos. 
   
@@ -86,7 +86,7 @@ Para obtener información específica sobre los precios y características de lo
 
 - Office 365 Germany: [Planes de Office 365 Germany](https://go.microsoft.com/fwlink/?linkid=839016)
     
-Varios de los planes de Microsoft 365 para empresas tienen complementos que puede comprar para su suscripción. Un complemento proporciona funciones adicionales a la suscripción. Para obtener más información, consulta Comprar o administrar [complementos.](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
+Varios de los planes de Microsoft 365 para empresas tienen complementos que puedes comprar para tu suscripción. Un complemento proporciona funciones adicionales a la suscripción. Para obtener más información, consulta Comprar o administrar [complementos.](https://docs.microsoft.com/microsoft-365/commerce/buy-or-edit-an-add-on)
 <br><br>
   
 | Característica | Microsoft 365 Empresa Básico | Aplicaciones de Microsoft 365 para negocios | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
@@ -104,12 +104,13 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |Microsoft Planner  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft PowerApps  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> | 
 |Microsoft Project para la web <sup>21</sup> <br/> |Sí <br/> |No <br/>|Sí <br/> |Sí <br/> |Sí <br/> |Sí <br/> | Sí <br/> |
+|Microsoft SharePoint Syntex  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft StaffHub  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Stream  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>16</sup> <br/> |
 |Microsoft Sway  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |Sí<sup>8</sup> <br/> |
 |Microsoft Teams<sup>10</sup> <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> |
 |Microsoft Delve  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|Grupos de Microsoft 365  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Grupos de Microsoft 365  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Office 365 Video  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>11</sup> <br/> |
 |Bloc de notas de clase de OneNote  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>13</sup> <br/> |No  <br/> |
 |Microsoft Kaizala<sup>17</sup> <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> |
@@ -216,10 +217,10 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 <br/><sup>7 Disponible</sup> en la página de seguridad [puntuación de](https://securescore.office.com) seguridad de Microsoft. Requiere permisos de administrador. Para obtener más información, vea [Puntuación de seguridad de Microsoft.](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-secure-score) 
 <br/><sup>8</sup> Microsoft Sway no está disponible actualmente para los clientes de determinadas zonas geográficas. Es posible que algunos planes de Office 365 heredados que ya no están en el mercado desde agosto de 2015 tampoco tengan acceso a Microsoft Sway. 
 <br/><sup>9</sup> Experiencia reducida. Si la organización depende de Internet Explorer 8 o Internet Explorer 9 para obtener acceso a servicios y aplicaciones web anteriores, considere la posibilidad de actualizar a Internet Explorer 11 y evaluar el modo de empresa de Internet Explorer 11. Esta actualización ayuda a mejorar la compatibilidad con versiones anteriores para aplicaciones web heredadas. 
-<br/><sup>10</sup> Microsoft Teams está disponible en Microsoft 365 Empresa Básico, Microsoft 365 Empresa Estándar, Office 365 Enterprise (E1, E3, E5, F3) y los planes de Office 365 Educación. 
+<br/><sup>10</sup> Microsoft Teams está disponible en Microsoft 365 Empresa Basic, Microsoft 365 Empresa Estándar, Office 365 Enterprise (E1, E3, E5, F3) y los planes de Office 365 Educación. 
 <br/><sup>11</sup> En Office 365 Enterprise F3, Office 365 Video solo se puede ver (sin publicación ni uso compartido). 
 <br/><sup>12</sup> En Office 365 Enterprise F3, Flow solo se limita al consumo y las ejecuciones están limitadas a 750 por usuario y mes. 
-<br/><sup>13 Solo</sup> disponible en los planes de Office 365 Educación, incluido Office 365 E5 Educación. No está disponible en Office 365 Enterprise E5. 
+<br/><sup>13</sup> Solo disponible en los planes de Office 365 Educación, incluido Office 365 E5 Educación. No está disponible en Office 365 Enterprise E5. 
 <br/><sup>14</sup> Para obtener más información, vea Cifrado [de servicio con clave de cliente.](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697) 
 <br/><sup>15</sup> eDiscovery avanzado es compatible con Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]).
 <br/><sup>16</sup> Consumo solo para Microsoft Stream: sin publicación ni uso compartido.
@@ -227,5 +228,5 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 <br/><sup>18</sup> Para obtener más información, vea los planes y [entornos de MyAnalytics](https://docs.microsoft.com/workplace-analytics/myanalytics/overview/plans-environments).
 <br/><sup>19</sup> Incluye las características de Azure Active Directory descritas en la columna Aplicaciones de **Office 365** en la página de precios [de Azure Active Directory.](https://azure.microsoft.com/pricing/details/active-directory/) Debe agregar Azure Active Directory Plan 1 o Plan 2, Enterprise Mobile Security o Microsoft 365 E3 o E5 para obtener las características premium de Azure AD.<br/>
 <sup>20</sup> El correo electrónico de informe se proporciona automáticamente a todos los usuarios de Exchange Online. Para obtener más información, vea [Configurar el correo electrónico de informe.](https://docs.microsoft.com/Briefing/be-admin)<br>
-<sup>Se proporciona a los</sup> usuarios acceso de solo vista a Project para la web. Estos derechos están restringidos para su uso únicamente con Project para la aplicación web y solo para los inquilinos que tienen una licencia de Plan de proyecto 1, Plan 3 o Plan 5 de Project. Estos derechos no conceden acceso a aplicaciones de Power Platform u otros conjuntos de datos, cliente de escritorio de Project Online o Project Online. Para obtener información detallada sobre las características, vea la [descripción del servicio Microsoft Project.](../project-online-service-description/project-online-service-description.md)<br/>
-<sup>La auditoría 22</sup> de Microsoft 365 proporciona a las organizaciones visibilidad de muchos tipos de actividades auditadas en diferentes servicios de Microsoft 365. Use la búsqueda [del &amp; registro de](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) auditoría del Centro de cumplimiento de seguridad para ver la actividad de usuario y administrador de su organización. También puede usar la API de actividad de administración de [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado. Cuando un usuario o administrador realiza una actividad auditada, se genera un registro de auditoría y se almacena en el registro de auditoría de la organización del cliente. El tiempo que se conserva un registro de auditoría (y que se puede buscar en el registro de auditoría) depende de la suscripción de Office 365 o Microsoft 365 Enterprise del cliente y del tipo de licencia asignada a usuarios específicos.
+<sup>A 21</sup> usuarios se les proporciona acceso de solo vista a Project para la web. Estos derechos están restringidos para su uso únicamente con Project para la aplicación web y solo para los inquilinos que tienen una licencia de Plan de proyecto 1, Plan 3 o Plan 5 de Project. Estos derechos no conceden acceso a aplicaciones de Power Platform u otros conjuntos de datos, cliente de escritorio de Project Online o Project Online. Para obtener información detallada sobre las características, vea la [descripción del servicio Microsoft Project.](../project-online-service-description/project-online-service-description.md)<br/>
+<sup>La auditoría 22</sup> de Microsoft 365 proporciona a las organizaciones visibilidad de muchos tipos de actividades auditadas en diferentes servicios de Microsoft 365. Use la búsqueda [del registro &amp; de](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center) auditoría del Centro de cumplimiento de seguridad para ver la actividad de usuario y administrador de su organización. También puede usar la API de actividad de administración de [Office 365](https://docs.microsoft.com/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado. Cuando un usuario o administrador realiza una actividad auditada, se genera un registro de auditoría y se almacena en el registro de auditoría de la organización del cliente. El tiempo que se conserva un registro de auditoría (y que se puede buscar en el registro de auditoría) depende de la suscripción de Office 365 o Microsoft 365 Enterprise del cliente y del tipo de licencia asignada a usuarios específicos.
