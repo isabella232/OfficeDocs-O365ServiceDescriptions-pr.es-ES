@@ -1,7 +1,7 @@
 
 # [Descripciones del servicio de Microsoft 365 y Office 365](office-365-service-descriptions-technet-library.md)
 ## [Descripción del servicio de la plataforma de Microsoft 365 y Office 365](office-365-platform-service-description/office-365-platform-service-description.md)
-### [Opciones de planes de Office 365](office-365-platform-service-description/office-365-plan-options.md)
+### [Opciones de planes de Microsoft 365 y Office 365](office-365-platform-service-description/office-365-plan-options.md)
 ### [Requisitos del sistema para Office 365](office-365-platform-service-description/office-365-system-requirements.md)
 ### [Centro de seguridad y cumplimiento](office-365-platform-service-description/office-365-securitycompliance-center.md)
 ### [Características del conjunto de aplicaciones de Microsoft 365](office-365-platform-service-description/office-365-suite-features.md)
@@ -69,6 +69,8 @@
 ## [Descripción del servicio OneDrive](onedrive-for-business-service-description.md)
 ## [Descripción del servicio SharePoint](sharepoint-online-service-description/sharepoint-online-service-description.md)
 ### [Límites de SharePoint](sharepoint-online-service-description/sharepoint-online-limits.md)
+## [Descripción del servicio SharePoint Syntex](sharepoint-syntex-service-description/sharepoint-syntex-service-description.md)
+### [Características de SharePoint Syntex](sharepoint-syntex-service-description/sharepoint-syntex-features.md)
 ## [Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md)
 ### [Características de Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-features.md)
 ### [Límites de Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-limits.md)
