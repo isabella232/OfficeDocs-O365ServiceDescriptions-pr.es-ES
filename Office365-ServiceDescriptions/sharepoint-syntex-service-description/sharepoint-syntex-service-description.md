@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: SharePoint Syntex en Microsoft 365 usa inteligencia artificial avanzada (IA) y formación de máquinas para ampliar la experiencia humana, automatizar el procesamiento de contenido y transformar el contenido en conocimiento.
-ms.openlocfilehash: da40dc93729e97740d7e3e3cc367ca99b9e63658
-ms.sourcegitcommit: 68b900488bafad6be4b7216f5a8c5899f159707f
+ms.openlocfilehash: 938e00a49080885c8a15722adf368397b91dc5fb
+ms.sourcegitcommit: fa262c8ada1b545e124b91b184911028e1c50f65
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50072458"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "50084733"
 ---
 # <a name="sharepoint-syntex-service-description"></a>Descripción del servicio Syntex de SharePoint 
 
@@ -24,7 +24,7 @@ Para obtener información general detallada y detalles adicionales del producto,
 
 ## <a name="available-plans"></a>Planes disponibles
 
-Syntex está disponible a través de varios planes de suscripciones para satisfacer mejor las necesidades de la organización. Cada plan proporciona el mismo conjunto de funcionalidades
+Syntex está disponible a través de varios planes de suscripción para satisfacer mejor las necesidades de su organización. Cada plan proporciona el mismo conjunto de funcionalidades
 
 Los usuarios deben tener una licencia válida de Office 365, Microsoft 365 o SharePoint Online para poder usar Syntex con una licencia de Syntex.
 

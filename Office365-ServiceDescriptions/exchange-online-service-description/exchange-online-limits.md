@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 1e861d10bf336a7378b54a55b6c3e622e90c3a18
-ms.sourcegitcommit: 0752cc6c082737a19c7dca24c8f3b555ea871f4f
-ms.translationtype: HT
+ms.openlocfilehash: 325396d0046e857d1c7812f9d8640a95018c248b
+ms.sourcegitcommit: bd0cf8920c64e171967d7dd61b7f988bd093c073
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49518891"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50080296"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -30,7 +30,7 @@ Encuentre los límites de Exchange Online para las distintas áreas de servicio,
 >- [Correo electrónico en Microsoft 365 para empresas: ayuda para administradores](https://go.microsoft.com/fwlink/?linkid=529722)
 >- [Solucionar problemas de Outlook y Microsoft 365 con el Asistente para soporte y recuperación de Microsoft](https://diagnostics.office.com/)
 >- [Informes de no entrega de correo electrónico en Exchange Online](https://go.microsoft.com/fwlink/?linkid=526653)
->- [Ayuda de Exchange Online](https://go.microsoft.com/fwlink/?linkid=825607)<
+>- [Ayuda de Exchange Online](https://go.microsoft.com/fwlink/?linkid=825607)
 
 Los límites de Microsoft Exchange Online pertenecen a una de las categorías siguientes:
 
@@ -355,11 +355,12 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
 |Límite de frecuencia de destinatario <sup>1</sup>|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|
 |Límite de destinatario <sup>2</sup>|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|
 |Límite de direcciones proxy de destinatarios|400|400|400|400|400|400|
-|Límite de frecuencia de mensajes|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
+|Límite de velocidad de mensajes<sup>3</sup>|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
 
 > [!NOTE]
-> <sup>1</sup>: Una vez que se alcanza el límite de tasa de destinatarios, no se pueden enviar mensajes desde el buzón de correo hasta que la cantidad de destinatarios a los que se enviaron mensajes en las últimas 24 horas baje por debajo del límite. Por ejemplo, un usuario envía un mensaje de correo electrónico a 5000 destinatarios a las 09:00 a.m., luego envía otro mensaje a 2500 destinatarios a las 10:00 a.m. y luego envía otro mensaje a 2500 destinatarios a las 11:00 a.m., alcanzando el límite de 10,000 mensajes. El usuario no podrá volver a enviar mensajes hasta las 09:00 a.m. del día siguiente.
-> <sup>2</sup> Puede personalizar los límites de destinatarios entre 1 y 1000 para los buzones de correo existentes y para los nuevos que se crearán en el futuro. Edite el límite de destinatarios en los buzones de correo existentes de forma individual o en masa mediante el centro de administración de Exchange y personalice la configuración predeterminada para los nuevos buzones de correo a través de Remote PowerShell. Para obtener más información, consulte [Límites de destinatarios personalizables en Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228)
+> <sup>1</sup>: Una vez que se alcanza el límite de tasa de destinatarios, no se pueden enviar mensajes desde el buzón de correo hasta que la cantidad de destinatarios a los que se enviaron mensajes en las últimas 24 horas baje por debajo del límite. Por ejemplo, un usuario envía un mensaje de correo electrónico a 5000 destinatarios a las 09:00 a.m., luego envía otro mensaje a 2500 destinatarios a las 10:00 a.m. y luego envía otro mensaje a 2500 destinatarios a las 11:00 a.m., alcanzando el límite de 10,000 mensajes. El usuario no podrá volver a enviar mensajes hasta las 09:00 a.m. del día siguiente.  
+> <sup>2</sup> Puede personalizar los límites de destinatarios entre 1 y 1000 para los buzones de correo existentes y para los nuevos que se crearán en el futuro. Edite el límite de destinatarios en los buzones de correo existentes de forma individual o en masa mediante el centro de administración de Exchange y personalice la configuración predeterminada para los nuevos buzones de correo a través de Remote PowerShell. Para obtener más información, consulte [Límites de destinatarios personalizables en Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228)  
+> <sup>3 Cuando</sup> los volúmenes de mensajes salientes superan el límite de velocidad de mensajes, cualquier exceso en el envío de mensajes se limitará y se llevará sucesivamente a los siguientes minutos. Por lo general, esto no bloqueará la cuenta del remitente, pero Exchange Online no es adecuado para dar cabida a escenarios de correo masivo. Para este caso de uso, en su lugar se recomiendan las opciones 2 [y](https://docs.microsoft.com/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365) 3.
 
 #### <a name="sending-limits-across-standalone-options"></a>Límites de envío en las opciones independientes
 
@@ -431,7 +432,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |Límite de envío de mensajes a un grupo de distribución grande|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
 |Tamaño máximo de mensaje para grupos de distribución con entre 5 000 y 99 999 miembros.|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Tamaño máximo de mensaje para grupos de distribución con 100 000 miembros.|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Número máximo de propietarios de un grupo de distribución|10|10|10|10|10|10|
+|Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |10 |10 |
 |Número máximo de grupos que un usuario puede crear|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -443,7 +444,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |:-----|:-----|:-----|:-----|:-----|
 |Número máximo de miembros de un grupo de distribución|100 000 miembros<sup>1</sup>|100 000 miembros|100 000 miembros|100 000 miembros|
 |Límite de envío de mensajes a un grupo de distribución grande|5000 o más miembros<sup>1</sup>|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
-|Número máximo de propietarios de un grupo de distribución|10|10|10|10|
+|Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |
 |Número máximo de grupos que un usuario puede crear|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]
