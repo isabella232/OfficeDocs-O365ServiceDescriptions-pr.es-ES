@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Obtenga información sobre las diferencias entre los planes de Microsoft 365 y Office 365 Educación.
-ms.openlocfilehash: 8cb6e167f84a1f15720a06280b97524d07b7e926
-ms.sourcegitcommit: a31d389e913409197bfb4ce0adb9a0b34ac69c7f
+ms.openlocfilehash: 44b985e54d1cdfa995ee715ab56535675cf5fd31
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "50069275"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50146007"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Educación
 
@@ -32,7 +32,7 @@ Cada plan de Microsoft 365 Educación incluye varios servicios individuales, com
 |Office para la web|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Aplicaciones de Microsoft 365 para empresas|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Exchange Online|Sí<sup>1</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|
-|SharePoint Online|Sí<sup>3</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
+|SharePoint en linea|Sí<sup>3</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
 |OneDrive para la Empresa|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Microsoft Teams|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Skype Empresarial Online|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -72,7 +72,7 @@ Cada plan de Microsoft 365 Educación incluye varios servicios individuales, com
 |Búsqueda de contenido|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Exhibición de documentos electrónicos principal (incluida la retención y exportación)|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |eDiscovery avanzado|No|No|Sí|No|Sí|No|No|No|No|
-|Prevención de pérdida de datos (DLP) para correo electrónico y archivos|Sí|Sí|Sí|Sí|Sí|No|No|No|No|
+|Prevención de pérdida de datos (DLP) para correo electrónico y archivos|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |DLP de extremo|No|No|No|No|Sí|No|No|No|No|
 |DLP de comunicaciones (chat de Teams)|No|No|Sí|No|Sí|No|No|No|No|
 |Cumplimiento de la comunicación|No|No|Sí|No|Sí|No|No|No|No|

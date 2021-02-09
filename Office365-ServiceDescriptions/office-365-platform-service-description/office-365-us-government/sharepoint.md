@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Obtenga información sobre la disponibilidad de características de SharePoint para los clientes de la nube del gobierno de Estados Unidos.
-ms.openlocfilehash: b0f36ea92b856a3fa9c1bf4ddd4cb4265655d1ae
-ms.sourcegitcommit: 9961f5111b2b8b871183afcd03fcfb7fc05da4fc
+ms.openlocfilehash: 505be0509dbef718e64983377c8dc75a23adfd26
+ms.sourcegitcommit: bf25a64ef2b5c1a1c1e5b94babbebf8d2eb7a1a1
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49919753"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "50145987"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>Entornos gubernamentales de SharePoint para EE. UU.
 
@@ -68,10 +68,11 @@ Para obtener información sobre las características de Azure Information Protec
 
 Estas son las diferencias entre los sitios y las características de contenido para los clientes comerciales y los de los clientes de la nube de administración pública:
 
-- Los elementos web que dependen de conexiones a servicios de Internet, como Amazon, Mapas de Bing, Twitter y elementos web de YouTube, no funcionarán como se esperaba
+- Los elementos web que dependen de conexiones a servicios de Internet, como Amazon Amazon Amazon, Mapas de Bing, Twitter y Elementos web de YouTube, no funcionarán como se esperaba
 - La biblioteca de activos de la organización no está disponible
 - Agregar listas y páginas a Teams no está disponible para los clientes de GCC High y DoD
 - La funcionalidad de Graph en SharePoint Online para GCC High está deshabilitada actualmente. Es posible que cualquier servicio que se base en Microsoft Graph no esté disponible actualmente
+- Las características que dependen de las conexiones a los servicios de Internet, como la pestaña de imágenes de bolsa, no funcionarán como se esperaba
 
 ## <a name="search-features"></a>Características de búsqueda
 
@@ -89,6 +90,6 @@ El movimiento a la nube ofrece experiencias transformacionivas con controles de 
 
 ## <a name="deploy-sharepoint-for-collaboration"></a>Implementar SharePoint para la colaboración
 
-Después de configurar la organización en la nube de Microsoft US Government, siga la ruta de implementación recomendada que se describe en el Centro de recursos de [adopción de SharePoint.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) Asegúrese de colaborar con los campeones de adopción y administración de cambios.
+Después de configurar su organización en la nube de Microsoft US Government, siga la ruta de implementación recomendada que se describe en el Centro de recursos de [adopción de SharePoint.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) Asegúrese de colaborar con los campeones de adopción y administración de cambios.
 También puede trabajar con [FastTrack](https://www.microsoft.com/fasttrack) o su partner elegido para implantar el servicio a los usuarios.
 Visite el [Centro de confianza](https://www.microsoft.com/trust-center) de Microsoft para obtener más información sobre cómo Microsoft aborda la seguridad, la privacidad y el cumplimiento, principios básicos para saber cómo podemos ayudar a las organizaciones a servir a sus clientes.
