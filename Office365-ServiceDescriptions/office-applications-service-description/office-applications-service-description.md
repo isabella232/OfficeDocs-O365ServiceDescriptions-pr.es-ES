@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 es un servicio de suscripción que proporciona la versión más reciente de las aplicaciones de escritorio de Office con las que ya está familiarizado, como Word, Excel y PowerPoint.
-ms.openlocfilehash: 26b3b91800dd4c06c584abc443d54fdb8af89ca1
-ms.sourcegitcommit: 188932c7600cb860db47a1046b5f7d0f6f078502
+ms.openlocfilehash: 6d59f49f1b7a275e54ee872cd0590933ef8f609e
+ms.sourcegitcommit: b45e3ec1999b42b93f8b4d03df0b311d710aa6f0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "49905163"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "50241016"
 ---
 # <a name="office-applications-service-description"></a>Descripción del servicio de aplicaciones de Office
 
@@ -32,7 +32,7 @@ Para comparar características entre planes, vea [Herramientas eficaces para dar
   
 ## <a name="feature-availability-across-plans"></a>Disponibilidad de características para cada plan
 
-Use la siguiente tabla para comparar la disponibilidad de características entre planes y ediciones con licencia por volumen de Microsoft Office 2013 y Office 2016.
+Use la tabla siguiente para comparar la disponibilidad de características entre planes y ediciones con licencia por volumen de Microsoft Office 2013 y Office 2016.
   
 Varios de los planes de Microsoft 365 para empresas tienen complementos que puedes comprar para tu suscripción. Un complemento proporciona funciones adicionales a la suscripción. Para obtener más información, [vea Comprar o editar un complemento.](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6)<br><br>
 
@@ -54,6 +54,7 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |[Office Mobile para Android](office-applications.md#office-mobile-for-android) <br/> |No  <br/> |No <br/> |No  <br/>|Sí  <br/> |Sí  <br/> |Sí<sup>13</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>13</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>13</sup>  <br/> |
 |[Office Mobile para Windows Phone](office-applications.md#office-mobile-for-windows-phone) <br/> |No  <br/> |No  <br/> |No <br/> |Sí <br/>|Sí  <br/> |Sí  <br/> |Sí<sup>13</sup>  <br/> |Sí  <br/> |Sí<sup>13</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>13</sup>  <br/> |
 |Outlook para Android  <br/> |No  <br/> |No  <br/> |No  <br/>|Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
+|Microsoft Teams  <br/> |No  <br/> |No  <br/> |Sí <br/>|Sí  <br/> |Sí  <br/> |Sí <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> |
 |**Valor de empresa** <br/> |**Office Professional Plus 2013** <br/> |**Office Profesional Plus 2016** <br/> |**Office Profesional Plus 2019** <br/> |**Aplicaciones de Microsoft 365 para empresas** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Microsoft 365 Empresa Premium** <br/> |**Office 365 E1** <br/> |**Office 365 E3** <br/> |**Office 365 E5** <br/> |**Office 365 F3** <br/> |
 |Cinco instalaciones por usuario en PC o Mac  <br/> |No  <br/> |No  <br/>| No  <br/> |Sí<sup>7</sup> <br/> |Sí<sup>7</sup> <br/> |No  <br/> |Sí  <br/> |Sí<sup>7</sup> <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> | 
 |Aprovisionamiento de cuentas de usuario automatizado  <br/> |N/D  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -68,7 +69,7 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |Consulta de hojas de cálculo de Excel  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Archivado y cumplimiento de Exchange Online y SharePoint Online  <br/> |Sí<sup>1</sup> <br/> |Sí  <br/> |Sí  <br/>|Sí<sup>1</sup> <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Soporte para directivas de grupos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|Compatibilidad con directivas de nube de Office  <br/> |No  <br/> |No  <br/> |No  <br/>|Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
+|Compatibilidad con directivas de nube de Office  <br/> |No  <br/> |No  <br/> |No  <br/>|Sí  <br/> |Sí<sup>15</sup> <br/> |Sí<sup>16</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>15</sup> <br/> |Sí<sup>16</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>16</sup> <br/> |
 |Information Rights Management con Azure Information Protection  <br/> |No  <br/> |No  <br/> |No  <br/>|No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí <br/> |No<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |No<sup>2</sup> <br/> |
 |Information Rights Management mediante Windows Server AD RMS  <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |Sí <br/>| Sí<sup>3</sup> <br/>|Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |
 |Complemento de Office, ActiveX y soporte de BHO  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>+++<sup> <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
@@ -99,11 +100,13 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 <sup>7</sup> Office para Mac 2011 se puede instalar, pero no activar. <br/>
 <sup>8</sup> Aplicaciones de Microsoft 365 para empresas se admiten en la infraestructura de escritorio virtual (VDI) dedicada al usuario. Aplicaciones de Microsoft 365 para empresas solo admite Servicios de Escritorio remoto (RDS) cuando se adquiere a través de un programa de licencias por volumen.<br/>
 <sup>9</sup> La activación por volumen para Office 365 E3 y Aplicaciones de Microsoft 365 para empresas se limita a las instalaciones en Windows Server 2008 R2 y versiones posteriores con el rol RDS habilitado o las instalaciones de Windows To Go. En cualquier caso, los usuarios que tengan acceso a estas instalaciones deben ser usuarios con licencia de Office 365 E3 o aplicaciones de Microsoft 365 para empresas.<br/> 
-<sup>Las 10</sup> funcionalidades de Skype Empresarial en Office 365 F3 incluyen el Plan 1 de Skype Empresarial (no se puede compartir escritorio, no compartir aplicaciones, no se puede iniciar audio, vídeo o conferencia web con varios usuarios, no se pueden programar reuniones).<br/> 
-<sup>11</sup> Access está disponible actualmente si está en el canal actual o en la versión de destino del Canal diferido. Si usa el Canal diferido, Access estará disponible en junio de 2017. Para obtener más información, vea Access incluido como parte de las suscripciones de [Microsoft 365 y Office 365.](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)<br/> 
+<sup>Las 10</sup> funcionalidades de Skype Empresarial en Office 365 F3 incluyen el Plan 1 de Skype Empresarial (no se puede compartir el escritorio, no se puede compartir aplicaciones, no se puede iniciar audio, vídeo o conferencia web con varios usuarios, no se pueden programar reuniones).<br/> 
+<sup>11</sup> Access está disponible actualmente si está en el canal actual o en la versión de destino para el Canal diferido. Si usa el Canal diferido, Access estará disponible en junio de 2017. Para obtener más información, vea Access incluido como parte de las suscripciones de [Microsoft 365 y Office 365.](https://support.office.com/article/Access-included-as-part-of-Office-365-Business-and-Business-Premium-f55c8362-5816-4f8b-897d-0a05e7ba0fef)<br/> 
 <sup>12</sup> Infopath 2013 sigue siendo compatible y se incluye en la instalación de Office Professional Plus 2016, pero no hay una nueva versión para Office 2016.<br/> 
 <sup>13 Limitado</sup> a dispositivos con pantallas integradas que miden 10,1 pulgadas o menos en diagonal.<br/> 
-<sup>14</sup> Power Query es un complemento gratuito que se puede descargar aquí: [Microsoft Power Query para Excel](https://www.microsoft.com/download/details.aspx?id=39379). Una vez habilitada, la funcionalidad de Power Query está disponible en la pestaña Power Query de la cinta de opciones.
+<sup>14</sup> Power Query es un complemento gratuito que se puede descargar aquí: [Microsoft Power Query para Excel](https://www.microsoft.com/download/details.aspx?id=39379). Una vez habilitada, la funcionalidad de Power Query está disponible en la pestaña Power Query de la cinta de opciones.<br/> 
+<sup>15 Limitado</sup> a directivas para aplicaciones web y directivas de privacidad para aplicaciones cliente.<br/> 
+<sup>16 Limitado</sup> a directivas para aplicaciones web.
 
 ## <a name="office-application-availability-in-office-for-mac-plans"></a>Disponibilidad de aplicaciones de Office en planes de Office para Mac
 
@@ -134,7 +137,7 @@ Las siguientes aplicaciones de Office están disponibles en las nubes gubernamen
 |Tipos de datos | No | No | No |
 |Relleno flash  | No | No | No |
 |Ideas (Insight Services) | No | No | No |
-|Integración mejorada con Power BI (objetos visuales personalizados, crear gráficos de PBI directamente desde Excel) | No | No | No |
+|Integración mejorada con Power BI (elementos visuales personalizados, crear gráficos de PBI directamente desde Excel) | No | No | No |
 |Entrada de lápiz digital inteligente | No | No | No |
 |Grupos de Office 365 | No | No | No |
 |Datos de gráficos dinámicos conectados a tablas dinámicas | No | No | No |
@@ -166,7 +169,7 @@ Las siguientes aplicaciones de Office están disponibles en las nubes gubernamen
 |Modelos 3D y animaciones incrustadas en 3D | No | No | No |
 |Gráficos: mapas | No | No | No |
 |Entrada de lápiz digital inteligente | No | No | No |
-|Subtítulos en & en PowerPoint | No | No | No |
+|Subtítulos en directo & subtítulos en PowerPoint | No | No | No |
 |Moderador, seleccionador | No | No | No |
 |Shared with Me| No | No | No |
 |Integración de Skype Empresarial con el uso compartido| No | No | No |
@@ -178,7 +181,7 @@ Las siguientes aplicaciones de Office están disponibles en las nubes gubernamen
 |**La Pizarra de Microsoft** en las nubes gubernamentales actualmente solo está disponible en los clientes concentradores y no en el escritorio. | Sí<sup>2</sup> | Sí<sup>2</sup> | Sí<sup>2</sup> |
 |Insertar notas rápidas, texto e imágenes |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
 |Entrada de lápiz a forma e entrada de lápiz a tabla |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
-|Ink ink |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
+|Ink ink ink ink |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
 |Convertir imagen a entrada de lápiz |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
 |Comprobador de accesibilidad |Sí<sup>2</sup> |Sí<sup>2</sup> |Sí<sup>2</sup> |
 |Plantillas dinámicas (KANBAN, SWOT, etc.) | No | No | No |
@@ -205,5 +208,5 @@ Las siguientes aplicaciones de Office están disponibles en las nubes gubernamen
 |Dictado| No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
 
 > [!NOTE]
-> <sup>1</sup> Disponible en diciembre de 2019. <br/>
+> <sup>1 Disponible</sup> en diciembre de 2019. <br/>
 > <sup>2 Disponible</sup> en Surface Hub local (no ha iniciado sesión).
