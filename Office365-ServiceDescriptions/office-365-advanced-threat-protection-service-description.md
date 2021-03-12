@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender para Office 365 es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger su organización contra malware y virus desconocidos al proporcionar una protección sólida de día cero e incluye características para proteger su organización de vínculos dañinos en tiempo real.
-ms.openlocfilehash: 6116ffdce71686575258c19c7d70159bcefa2134
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: cc8d16f4a0a1058799ee3f5b0873ed6e9bf7f182
+ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460249"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "50726745"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descripción del servicio de Microsoft Defender para Office 365
 
@@ -60,7 +60,7 @@ Puede agregar Defender para Office 365 a los siguientes planes de suscripción d
 
 Para comprar Microsoft Defender para Office 365, vea [Microsoft Defender para Office 365](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
 
-Para comparar características entre planes, vea [Herramientas eficaces para](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) admitir su empresa y Transformar su empresa con Microsoft [365](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-plans).
+Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios de Microsoft Defender para Office 365, consulte la tabla de comparación [de suscripciones completa.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
 ## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Novedades de Microsoft Defender para Office 365
 
@@ -133,7 +133,7 @@ Los vínculos seguros están disponibles para las direcciones URL en las siguien
 
 La [característica Documentos seguros](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-docs) usa Microsoft Defender para [endpoint](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para examinar documentos y archivos que se abren en la [vista protegida](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653).
 
-¿Qué necesita saber antes de comenzar?
+¿Qué necesita saber antes de empezar?
 
 - Documentos seguros ahora está disponible para los usuarios con Office Versión 2004 (12730.x) o superior. Esta característica está desactivada de forma predeterminada y deberá estar habilitada por el administrador de seguridad.
 
