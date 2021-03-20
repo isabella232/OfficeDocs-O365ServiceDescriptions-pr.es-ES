@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Obtenga información sobre las diferencias entre los planes de Microsoft 365 y Office 365 Education.
-ms.openlocfilehash: 9205ade4bceacbbad7877076175f37f95cf5dd49
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 42a0aa59d6c3ac3f413f5debfdeb74148a7b7221
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460229"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902049"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Educación
 
@@ -32,7 +32,7 @@ Cada plan de Microsoft 365 Education incluye una serie de servicios individuales
 |Office para la web|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Aplicaciones de Microsoft 365 para empresas|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Exchange Online|Sí<sup>1</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|
-|SharePoint Online|Sí<sup>3</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
+|SharePoint en linea|Sí<sup>3</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
 |OneDrive para la Empresa|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Microsoft Teams|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Skype Empresarial Online|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -93,8 +93,8 @@ Cada plan de Microsoft 365 Education incluye una serie de servicios individuales
 |Microsoft Defender Antivirus|No|No|No|Sí|Sí|No|No|No|No|
 |Microsoft Defender Device Guard|No|No|No|Sí|Sí|No|No|No|No|
 |Microsoft Defender para identity<sup>11</sup>|No|No|No|No|Sí|No|No|No|Sí|
-|Office 365 Cloud App Security|No|No|No|No|Sí|Sí|Sí|Sí|Sí|
-|Microsoft 365 Cloud App Security|No|No|No|No|No|No|No|No|Sí|
+|Office 365 Cloud App Security|No|No|No|Sí|Sí|Sí|Sí|Sí|Sí|
+|Microsoft 365 Cloud App Security|No|No|No|No|Sí|No|No|No|Sí|
 |Microsoft Defender para el punto<sup>de conexión 12</sup>|No|No|No|No|Sí|No|No|No|No|
 |**Ventajas del servidor y CAL**|**Office 365 Ámbito educativo A1**|**Office 365 Educación A3**|**Office 365 Education A5**|**Microsoft 365 Educación A3**|**Microsoft 365 Educación A5**|**Ventajas de uso de alumnos de Office 365 A3**|**Ventajas de uso de alumnos de Office 365 A5**|**Beneficio de uso de alumnos de Microsoft 365 Education A3**|**Beneficio de uso de alumnos de Microsoft 365 Education A5**|
 |Exchange<sup>7</sup>|No|No|No|Sí<sup>8</sup>|Sí|No|No|No|No|

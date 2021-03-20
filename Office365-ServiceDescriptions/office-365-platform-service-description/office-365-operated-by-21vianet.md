@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 operado por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: 46b4ab887cee6d01733814a88e874b968b7c35ae
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: b03d6844943ed72aa56e4fe1d740dda9c11a66a2
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572746"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50902065"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -160,7 +160,7 @@ En la tabla siguiente se enumeran todas las características de plataforma para 
 |Explorador utilizado|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Sistema operativo utilizado|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Crear sus propios informes con los servicios web de informes de Microsoft 365|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Actualizaciones del servicio](service-updates.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F3 operado por 21Vianet**|
+|**[Actualizaciones de servicio](service-updates.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F3 operado por 21Vianet**|
 |Actualizaciones habituales para todos los clientes|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Notificaciones enviadas al Centro de mensajes cuando se requiere acción, se resuelve un problema, se implementan características o se cambia el servicio.|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |[Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) para algunas actualizaciones de servicio|No|No|No|No|No|No|No|
@@ -275,7 +275,7 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 |Telemetría de Office|Sí|Sí|Sí|No|No|No|No|No|Sí|No|
 |Soporte sin conexión para aplicaciones cliente|Sí|Sí|Sí|Sí|Sí|Sí|No|No|Sí|No|
 |Instalación de cliente en paralelo optimizada|No|Sí|Sí|Sí|Sí|Sí|No|No|Sí|No|
-|Power Map para Excel|No<sup>3</sup>|No|No|No|No|No|No|No|Sí|No|
+|Power Map para Excel|No|No|No|No|No|No|No|No|No|No|
 |Power Pivot para Excel|No|No|No|No|No|No|No|No|Sí|No|
 |Power Query para Excel|No|No|No|No|No|No|No|No|Sí|No|
 |Power View para Excel|No|No|No|No|No|No|No|No|Sí|No|
@@ -535,7 +535,7 @@ Archivado de Exchange Online está disponible a través de los siguientes planes
 > [!NOTE]
 > La versión de Office 365 operado por 21Vianet de Office 365 es específica de China.
 
-| Plan | Description |
+| Plan | Descripción |
 |:-----|:-----|
 |**Archivado de Exchange Online para Exchange Server para Office 365 operado por 21Vianet**|Archivado basado en la nube para usuarios con buzones de correo primarios en Exchange Server 2013 o Exchange 2010 (SP2 o posterior).  <br/> Si desea agregar un archivo basado en la nube a un buzón principal que está en un servidor de Exchange local, necesita configurar una implementación híbrida. Para obtener más información acerca de implementaciones híbridas, consulte [Implementaciones híbridas de Exchange Server](https://docs.microsoft.com/exchange/exchange-hybrid).|
 |**Archivado de Exchange Online para Exchange Online para Office 365 operado por 21Vianet**| Los planes siguientes incluyen funcionalidad de archivado y no requieren Archivado de Exchange Online como complemento:  <br/>  Office 365 A1 operado por 21Vianet  <br/>  Office 365 Enterprise E3 operado por 21Vianet  <br/>  Plan 2 de Exchange Online para Office 365 operado por 21Vianet  <br/>  Para obtener detalles acerca de la capacidades de archivo de los buzones de correo de Exchange Online, consulte [Buzones de archivo de Exchange Online](https://docs.microsoft.com/office365/securitycompliance/eop/exchange-online-protection-overview).|

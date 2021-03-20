@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vea qué características de SharePoint están disponibles en qué planes.
-ms.openlocfilehash: 32a6b46925cc0a224d69199644dd67b44df8569d
-ms.sourcegitcommit: 34fd77f26c3fde723680c82af1004dffc143c823
+ms.openlocfilehash: 287c00e207c0821486ec325668ee9efccc8e6e32
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726705"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901942"
 ---
 # <a name="sharepoint-service-description"></a>Descripción del servicio SharePoint
 
@@ -30,7 +30,7 @@ SharePoint en Microsoft 365 ayuda a las organizaciones a compartir y administrar
 
 Para obtener una introducción rápida, vea [¿Qué es SharePoint?](https://support.office.com/article/97b915e6-651b-43b2-827d-fb25777f446f)
   
-Para ver qué planes incluyen SharePoint, [herramientas eficaces para admitir su empresa.](https://products.office.com/business/compare-more-office-365-for-business-plans) Para obtener información sobre los requisitos del sistema de [Microsoft 365, vea Microsoft 365 y Office Resources](https://products.office.com/office-system-requirements/?rtc=1#coreui-contentrichblock-cs9mei4). 
+Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios para SharePoint, vea la tabla de comparación [de suscripciones completa](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans). Para obtener información sobre los requisitos del sistema de [Microsoft 365, vea Microsoft 365 y Office Resources](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources/).
 
 Para obtener información sobre las diferencias de características de SharePoint para clientes en la nube del gobierno de Estados Unidos, vea [SharePoint for US government environments](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/sharepoint).
   
