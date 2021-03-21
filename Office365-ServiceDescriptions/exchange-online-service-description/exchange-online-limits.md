@@ -7,18 +7,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-limits
 ms.service: o365-administration
-localization_priority: High
+localization_priority: Priority
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 325396d0046e857d1c7812f9d8640a95018c248b
-ms.sourcegitcommit: bd0cf8920c64e171967d7dd61b7f988bd093c073
-ms.translationtype: MT
+ms.openlocfilehash: 8b4b888b3b8830092095c710d82579daf5f6ee32
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "50080296"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901915"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -196,7 +196,7 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 |Advertencia de número de mensajes por carpeta de buzón de correo|900,000|900,000|900,000|900,000|900,000|900,000|
 |Número máximo de mensajes por carpeta de la carpeta Elementos recuperables|3 millones|3 millones|3 millones|3 millones|3 millones|3 millones|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (no en espera)|30 GB|30 GB|30 GB|30 GB|30 GB|30 GB|
-|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (en espera)|100 GB|100 GB|100 GB|100 GB|100 GB|100 GB|
+|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (en espera)|100 GB|100 GB|100 GB|100 GB|100 GB|100 GB|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (no en espera)|30 GB|30 GB|30 GB|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|30 GB|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (en espera)|100 GB<sup>1</sup>|100 GB<sup>1</sup>|100 GB<sup>1</sup>|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|100 GB<sup>1</sup>|
 |Advertencia de número de mensajes por carpeta en la carpeta Elementos recuperables|2,75 millones|2,75 millones|2,75 millones|2,75 millones|2,75 millones|2,75 millones|
@@ -220,7 +220,7 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 |Advertencia de número de mensajes por carpeta de buzón de correo|Sin límite|900,000|900,000|900,000|
 |Número máximo de mensajes por carpeta de la carpeta Elementos recuperables|Sin límite|3 millones|3 millones|3 millones|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (no en espera)|30 GB|30 GB|30 GB|30 GB|
-|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (en espera)|100 GB|100 GB|100 GB|100 GB|
+|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (en espera)|100 GB|100 GB|100 GB|100 GB|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (no en espera)|30 GB|30 GB|30 GB|30 GB|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (en espera)|100 GB<sup>2</sup>|100 GB<sup>2</sup>|Unlimited<sup>3</sup>|Unlimited<sup>3</sup>|
 |Advertencia de número de mensajes por carpeta en la carpeta Elementos recuperables|Sin límite|2,75 millones|2,75 millones|2,75 millones|
@@ -355,12 +355,12 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
 |Límite de frecuencia de destinatario <sup>1</sup>|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|
 |Límite de destinatario <sup>2</sup>|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|
 |Límite de direcciones proxy de destinatarios|400|400|400|400|400|400|
-|Límite de velocidad de mensajes<sup>3</sup>|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
+|Límite de frecuencia de mensajes<sup>3</sup>|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
 
 > [!NOTE]
 > <sup>1</sup>: Una vez que se alcanza el límite de tasa de destinatarios, no se pueden enviar mensajes desde el buzón de correo hasta que la cantidad de destinatarios a los que se enviaron mensajes en las últimas 24 horas baje por debajo del límite. Por ejemplo, un usuario envía un mensaje de correo electrónico a 5000 destinatarios a las 09:00 a.m., luego envía otro mensaje a 2500 destinatarios a las 10:00 a.m. y luego envía otro mensaje a 2500 destinatarios a las 11:00 a.m., alcanzando el límite de 10,000 mensajes. El usuario no podrá volver a enviar mensajes hasta las 09:00 a.m. del día siguiente.  
 > <sup>2</sup> Puede personalizar los límites de destinatarios entre 1 y 1000 para los buzones de correo existentes y para los nuevos que se crearán en el futuro. Edite el límite de destinatarios en los buzones de correo existentes de forma individual o en masa mediante el centro de administración de Exchange y personalice la configuración predeterminada para los nuevos buzones de correo a través de Remote PowerShell. Para obtener más información, consulte [Límites de destinatarios personalizables en Office 365](https://techcommunity.microsoft.com/t5/exchange-team-blog/customizable-recipient-limits-in-office-365/ba-p/1183228)  
-> <sup>3 Cuando</sup> los volúmenes de mensajes salientes superan el límite de velocidad de mensajes, cualquier exceso en el envío de mensajes se limitará y se llevará sucesivamente a los siguientes minutos. Por lo general, esto no bloqueará la cuenta del remitente, pero Exchange Online no es adecuado para dar cabida a escenarios de correo masivo. Para este caso de uso, en su lugar se recomiendan las opciones 2 [y](https://docs.microsoft.com/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365) 3.
+> <sup>3</sup> Cuando los volúmenes de mensajes salientes superen el límite de tasa de mensajes, el exceso de envío de mensajes se limitará y se traspasó sucesivamente a los minutos siguientes. Normalmente, esto no bloqueará la cuenta del remitente, pero Exchange Online no se adapta a los escenarios de envío de correo masivo. Para este caso de uso, se recomiendan las opciones 2 y 3 [aquí](https://docs.microsoft.com/exchange/mail-flow-best-practices/how-to-set-up-a-multifunction-device-or-application-to-send-email-using-microsoft-365-or-office-365) alternativa.
 
 #### <a name="sending-limits-across-standalone-options"></a>Límites de envío en las opciones independientes
 
@@ -432,7 +432,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |Límite de envío de mensajes a un grupo de distribución grande|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
 |Tamaño máximo de mensaje para grupos de distribución con entre 5 000 y 99 999 miembros.|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Tamaño máximo de mensaje para grupos de distribución con 100 000 miembros.|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |10 |10 |
+|Número máximo de propietarios de un grupo de distribución|10|10|10|10|10|10|
 |Número máximo de grupos que un usuario puede crear|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -444,7 +444,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |:-----|:-----|:-----|:-----|:-----|
 |Número máximo de miembros de un grupo de distribución|100 000 miembros<sup>1</sup>|100 000 miembros|100 000 miembros|100 000 miembros|
 |Límite de envío de mensajes a un grupo de distribución grande|5000 o más miembros<sup>1</sup>|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
-|Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |
+|Número máximo de propietarios de un grupo de distribución|10|10|10|10|
 |Número máximo de grupos que un usuario puede crear|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Consulte las características de OneDrive disponibles en cada plan.
-ms.openlocfilehash: 523d3effdcaede87ebe3d69bdb43681d8ce4bad4
-ms.sourcegitcommit: c04cc8422d648df216d6c4f8b869736c97fc861f
+ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
+ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45154408"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50901955"
 ---
 # <a name="onedrive-service-description"></a>Descripción del servicio OneDrive
 
@@ -26,7 +26,7 @@ OneDrive para cuentas profesionales o educativas es el espacio de almacenamiento
   
 OneDrive se incluye en los planes de Microsoft 365 y Office 365, en los planes de SharePoint y también puede adquirirse como un plan independiente. 
     
-Para comparar planes, consulte [Potentes herramientas que dan soporte a su empresa](https://go.microsoft.com/fwlink/?linkid=799177) y [Comparar planes de OneDrive para la empresa](https://products.office.com/onedrive-for-business/compare-onedrive-for-business-plans). 
+Para obtener información detallada sobre los planes de suscripciones que permiten usuarios para OneDrive, consulte la [tabla completa de comparación de suscripciones](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) y [Comparar planes de OneDrive para la Empresa](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?rtc=1&activetab=tab:primaryr2).
   
 > [!NOTE]
 > Los planes individuales de OneDrive incluyen Office para la web. 
@@ -133,7 +133,7 @@ A menos que se indique lo contrario, las características siguientes están disp
 A menos que se indique lo contrario, las características siguientes están disponibles en todos los planes que incluyen OneDrive y en todos los planes independientes de OneDrive:
 
 - [Solicitudes de acceso](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
-- [Vínculos de "cualquiera"](/Office365/Enterprise/best-practices-anonymous-sharing) (que se pueden establecer para requerir expiración) 
+- [Vínculos de "cualquiera"](/Office365/Enterprise/best-practices-anonymous-sharing) (que se pueden establecer para requerir expiración) 
 - [@menciones en los comentarios](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Necesita un plan que incluya Office 365 para la web o las aplicaciones de escritorio de Office 365.
 - [Solicitudes de archivo](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - Administrar el vínculo para compartir predeterminado ([en el nivel de la organización](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) y [por sitio](/sharepoint/change-default-sharing-link))
