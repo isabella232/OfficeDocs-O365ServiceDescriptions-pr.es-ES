@@ -12,50 +12,48 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
-description: Cuando agrega un dominio, un asistente paso a paso le ayuda a agregar usuarios y convertir las direcciones de correo electrónico y otros servicios al nombre de la empresa. Al completar el asistente, el correo electrónico de la empresa empieza a llegar a Microsoft en lugar de ir a su proveedor de correo electrónico actual. Para obtener más información, vea Agregar usuarios y dominios a Microsoft. Si Office 365 operado por 21Vianet, vea Comprobar el dominio.
-ms.openlocfilehash: 109dd15af75c8e3e04406a63c8868e010c12b9c5
-ms.sourcegitcommit: 6a9c3c47e7526de046787ad0f02b9c008e541c34
+description: Al agregar un dominio, un asistente paso a paso le ayuda a agregar usuarios y convertir sus direcciones de correo electrónico y otros servicios al nombre de su empresa. Cuando complete el asistente, el correo electrónico empresarial empezará a llegar a Microsoft en lugar de ir a su proveedor de correo electrónico actual. Para obtener más información, consulta Agregar usuarios y dominios a Microsoft. Si Office 365 operado por 21Vianet, vea Comprobar el dominio.
+ms.openlocfilehash: 57df3e7fb22e8a576099432b8cdc7c84a8462bad
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "46531223"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172995"
 ---
 # <a name="domains"></a>Dominios
 
-Cuando agrega un dominio, un asistente paso a paso le ayuda a agregar usuarios y convertir las direcciones de correo electrónico y otros servicios al nombre de la empresa. Al completar el asistente, el correo electrónico de la empresa empieza a llegar a Microsoft en lugar de ir a su proveedor de correo electrónico actual. Para obtener más información, vea [Agregar usuarios y dominios a Microsoft](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611). Si Office 365 operado por 21Vianet, vea [Comprobar el dominio](https://docs.microsoft.com/office365/admin/setup/add-domain).
+Al agregar un dominio, un asistente paso a paso le ayuda a agregar usuarios y convertir sus direcciones de correo electrónico y otros servicios al nombre de su empresa. Cuando complete el asistente, el correo electrónico empresarial empezará a llegar a Microsoft en lugar de ir a su proveedor de correo electrónico actual. Para obtener más información, vea [Agregar los usuarios y dominios a Microsoft](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611). Si Office 365 operado por 21Vianet, vea [Comprobar el dominio](/office365/admin/setup/add-domain).
   
 ## <a name="custom-domains"></a>Dominios personalizados
 
-Puede Agregar hasta 900 dominios a su suscripción (incluidos los subdominios). No puede Agregar un dominio a Microsoft 365 que ya está usando en otro servicio en la nube de Microsoft. Esto significa que no puede Agregar el mismo dominio a varias suscripciones. Para obtener más información, consulte [preguntas más frecuentes sobre dominios](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
+Puede agregar hasta 900 dominios a la suscripción (incluidos los subdominios). No puede agregar un dominio a Microsoft 365 que ya está usando en otro servicio en la nube de Microsoft. Esto significa que no puede agregar el mismo dominio a varias suscripciones. Para obtener más información, vea [Preguntas más frecuentes sobre dominios](https://support.office.com/article/Domains-FAQ-1272bad0-4bd4-4796-8005-67d6fb3afc5a).
   
 ### <a name="second-and-third-level-domains"></a>Dominios de segundo y tercer nivel
 
-Con Office 365 Enterprise y Microsoft 365 apps for Business, puede agregar cualquier nivel de dominio, incluidos los dominios de tercer nivel, como marketing.contoso.com. Vea [agregar subdominios personalizados o varios dominios a Microsoft](https://docs.microsoft.com/office365/admin/setup/domains-faq). Si usa Office 365 operado por 21Vianet, consulte [Agregar subdominios personalizados o varios dominios a Office 365 operado por 21Vianet](https://docs.microsoft.com/office365/admin/setup/domains-faq).
+Con Office 365 Enterprise y Aplicaciones de Microsoft 365 para empresas, puede agregar cualquier dominio de nivel, incluidos los dominios de tercer nivel, como marketing.contoso.com. Vea [Agregar subdominios personalizados o varios dominios a Microsoft](/office365/admin/setup/domains-faq). Si usa Office 365 operado por 21Vianet, consulte [Agregar subdominios personalizados o varios dominios a Office 365 operado por 21Vianet](/office365/admin/setup/domains-faq).
   
 ## <a name="domain-verification-and-managing-dns-records"></a>Comprobación de dominios y administración de registros DNS
 
-Con Microsoft 365, puede administrar todos los registros DNS en su proveedor de host DNS o optar por que Microsoft configure y administre los registros DNS de su dominio por usted. Si continúa administrando los registros, cambie los registros específicos para que apunten a los servicios de Microsoft según sea necesario. Para obtener una lista de registradores de dominios para los que proporcionaremos instrucciones paso a paso para agregar registros, incluidos los valores específicos que se deben usar para cada registro, vea [Create DNS Records](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) o, si usa Office 365 operado por 21Vianet, vea Create DNS Records on any Provider for Office 365 operado por 21Vianet. 
+Con Microsoft 365, puede administrar todos los registros DNS en su proveedor de hospedaje DNS o optar por que Microsoft configure y administre los registros DNS de su dominio. Si continúa administrando los registros, cambia registros específicos para que apunten a los servicios de Microsoft según sea necesario. Para obtener una lista de registradores de dominios para los que proporcionamos instrucciones paso a paso para agregar los registros, incluidos los valores específicos que se van a usar para cada registro, vea [Create DNS records](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) o, si usa Office 365 operado por 21Vianet, vea Create DNS records at any provider for Office 365 operated by 21Vianet. 
   
-Si Microsoft administra los registros DNS de su dominio por usted, primero debe cambiar los registros del servidor de nombres de su dominio para que apunten a Microsoft y, a continuación, Microsoft configura los servicios y, a continuación, los registros DNS de su dominio se administran en Microsoft.
+Si Microsoft administra los registros DNS de su dominio por usted, primero debe cambiar los registros de servidor de nombres de su dominio para que apunten a Microsoft y, a continuación, Microsoft configura los servicios y, a continuación, los registros DNS de su dominio se administran en Microsoft.
   
-Si su dominio está registrado en GoDaddy, Microsoft puede crear los registros necesarios en GoDaddy. 
+Si su dominio está registrado en GoDaddy, Microsoft puede crear los registros necesarios para usted en GoDaddy. 
   
-Independientemente de dónde se hospeden los registros DNS, puede configurar los registros DNS para que usen el dominio para la dirección URL de un sitio web público hospedado en Microsoft o con un proveedor de hospedaje diferente. 
+Independientemente de dónde estén hospedados los registros DNS, puede configurar los registros DNS para que usen su dominio para la dirección URL de un sitio web público hospedado en Microsoft o con un proveedor de hospedaje diferente. 
   
-Microsoft comprueba proactivamente los registros DNS para encontrar y ayudar a solucionar problemas de DNS. Si sus registros DNS no coinciden con lo que esperamos que sean, recibirá una notificación en el centro de administración de 365 de Microsoft, junto con información que le indicará cómo corregir los posibles problemas que se han identificado.
+Microsoft comprueba proactivamente los registros DNS para buscar y ayudar a solucionar problemas de DNS. Si los registros DNS no coinciden con lo que esperamos que sean, recibirá una notificación en el Centro de administración de Microsoft 365, junto con información que le indica cómo solucionar los posibles problemas que se han identificado.
   
-Para obtener más información, vea [cómo Microsoft administra los registros DNS](https://docs.microsoft.com/office365/admin/setup/domains-faq) o, para Office 365 operado por 21Vianet, vea [crear registros dns para Office 365 cuando administre sus registros DNS](https://docs.microsoft.com/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records).
+Para obtener más información, vea How [Microsoft manages DNS records](/office365/admin/setup/domains-faq) o, for Office 365 operated by 21Vianet, see Create DNS records for Office [365 when you manage your DNS records](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records).
   
 ## <a name="sharing-a-domain"></a>Compartir un dominio
 
-Puede realizar una prueba piloto de algunas direcciones de correo electrónico para un dominio de Microsoft y algunas en su proveedor de correo electrónico anterior. Esto solo se recomienda para su uso durante una prueba piloto, ya que requiere pasos de configuración adicionales y tiene algunas limitaciones para los servicios Microsoft. Para obtener más información, vea:
+Puede pilotar algunas direcciones de correo electrónico para un dominio en Microsoft y otras en su proveedor de correo electrónico anterior. Esto solo se recomienda para su uso durante un piloto, ya que requiere pasos de configuración adicionales y tiene algunas limitaciones para los servicios de Microsoft. Para más información, vea:
   
 - [Piloto de Microsoft 365 para una pequeña empresa](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
-- [Piloto de Microsoft 365 para una gran empresa (mediante FastTrack)](https://fasttrack.office.com/onboard)
+- [Piloto de Microsoft 365 para una gran empresa (con FastTrack)](https://fasttrack.office.com/onboard)
     
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características en Microsoft 365 para los planes empresariales, las opciones independientes y las soluciones locales, vea la descripción del servicio de la [plataforma 365 y Office 365 de Microsoft](office-365-platform-service-description.md).
-  
-
+Para ver la disponibilidad de características en planes de Microsoft 365 para empresas, opciones independientes y soluciones locales, vea [Microsoft 365 and Office 365 platform service description](office-365-platform-service-description.md).

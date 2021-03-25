@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office es un excelente servicio que le ayudará a dar rienda suelta a sus mejores ideas, a realizar todo lo que se proponga y a estar conectado mientras está fuera. Solo debe iniciar sesión para tener una experiencia personalizada y las aplicaciones más actualizadas de Office, con características nuevas y mejoradas que se añaden periódicamente.
-ms.openlocfilehash: ec2373a988d66102ba2b2b50d957e659be12e5aa
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
-ms.translationtype: HT
+ms.openlocfilehash: 860241d88cb986ff427b9b75b57bb09d7a4f8a6e
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48294176"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172765"
 ---
 # <a name="office-applications"></a>Aplicaciones de Office
 
@@ -54,7 +54,7 @@ Microsoft Access es una solución de gestión de bases de datos para sistemas op
   
 ## <a name="skype-for-business"></a>Skype Empresarial
 
-Skype Empresarial es una aplicación de comunicaciones unificadas y un cliente de mensajería instantánea. Vea [Novedades de Skype Empresarial Server 2019](https://docs.microsoft.com/skypeforbusiness/whats-new).
+Skype Empresarial es una aplicación de comunicaciones unificadas y un cliente de mensajería instantánea. Vea [Novedades de Skype Empresarial Server 2019](/skypeforbusiness/whats-new).
   
 ## <a name="microsoft-infopath"></a>Microsoft InfoPath
 
@@ -85,4 +85,3 @@ Las aplicaciones de Office para Windows 10 Mobile están optimizadas para las pa
 ## <a name="feature-availability"></a>Disponibilidad de características
 
 Para ver la disponibilidad de características de los planes, las opciones independientes y las soluciones locales, consulte [Descripción del servicio de aplicaciones de Office](office-applications-service-description.md).
-  

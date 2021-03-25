@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Obtenga información sobre la disponibilidad de características de SharePoint para los clientes en la nube del gobierno de Estados Unidos.
-ms.openlocfilehash: fc782a01c99165fbf19156250e09220656d46ba3
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 7dab05ddfbc8666e79707691eaf03e69f8d98f01
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902030"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172935"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>Entornos gubernamentales de SharePoint para ESTADOS UNIDOS
 
-En este artículo se proporciona información general sobre las diferencias de características entre la nube del gobierno de Estados Unidos y la nube comercial, tal como se muestra en la descripción del servicio [de SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description). SharePoint está disponible para los entornos de GCC, GCC High y DoD. 
+En este artículo se proporciona información general sobre las diferencias de características entre la nube del gobierno de Estados Unidos y la nube comercial, tal como se muestra en la descripción del servicio [de SharePoint](../../sharepoint-online-service-description/sharepoint-online-service-description.md). SharePoint está disponible para los entornos de GCC, GCC High y DoD. 
 
-Para obtener más información acerca de la nube gubernamental, incluida la elegibilidad y la compra, vea [Microsoft 365 Government - how to buy](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Para comparar los planes de Office 365 Government, vea [Office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
+Para obtener más información acerca de la nube gubernamental, incluida la elegibilidad y la compra, vea [Microsoft 365 Government - how to buy](./microsoft-365-government-how-to-buy.md). Para comparar los planes de Office 365 Government, vea [Office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
 
 Para obtener información sobre los puntos de conexión necesarios al administrar la conectividad de red, vea los puntos de conexión de Office [365 U.S. Government GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) o los puntos de conexión de [Office 365 U.S. Government DoD](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
@@ -52,13 +52,13 @@ Estas son las diferencias entre las características de administración de TI pa
 - Mover.io aún no se admite
 - Multi-geo no está disponible para todos los clientes de la nube gubernamental
 
-Para obtener información sobre la migración de FastTrack, vea la descripción del servicio [de Office 365 US Government](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/office-365-us-government#data-migrations-performed-by-fasttrack).
+Para obtener información sobre la migración de FastTrack, vea la descripción del servicio [de Office 365 US Government](./office-365-us-government.md#data-migrations-performed-by-fasttrack).
 
 ## <a name="security-and-compliance-features"></a>Características de seguridad y cumplimiento
 
 No hay diferencias conocidas entre las características de seguridad y cumplimiento de los clientes comerciales y las de los clientes de la nube gubernamental.
 
-Para obtener información sobre las características de seguridad y cumplimiento, vea [el Centro de seguridad & cumplimiento](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-securitycompliance-center).
+Para obtener información sobre las características de seguridad y cumplimiento, vea [el Centro de seguridad & cumplimiento](../office-365-securitycompliance-center.md).
 
 Para obtener información sobre las características de Azure Active Directory para el gobierno, consulte [Azure Government Security + Identity documentation](/azure/azure-government/documentation-government-services-securityandidentity#azure-active-directory). 
 
@@ -83,7 +83,7 @@ Estas son las diferencias entre las características de búsqueda de los cliente
 
 ## <a name="sharing-and-sync"></a>Uso compartido y sincronización
 
-Para obtener información sobre las diferencias de características entre la nube comercial y los entornos de nube gubernamentales, vea [Uso compartido de archivos.](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing)
+Para obtener información sobre las diferencias de características entre la nube comercial y los entornos de nube gubernamentales, vea [Uso compartido de archivos.](./gcc-high-and-dod.md#file-sharing)
 
 ## <a name="plan-for-governance"></a>Plan for governance
 

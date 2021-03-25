@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Obtenga información sobre las opciones y características del plan disponibles en Microsoft Bookings.
-ms.openlocfilehash: 70ae22991cc017acc65f47805d3361365906b982
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 6a1fea2506a59e87ad74dd520ec59bc4310ab595
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460239"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173035"
 ---
 # <a name="microsoft-bookings-service-description"></a>Descripción del servicio Microsoft Bookings
 
@@ -46,8 +46,8 @@ En la tabla siguiente se enumeran las principales características de Microsoft 
 
 Para obtener información técnica sobre Microsoft Bookings, consulte los siguientes recursos:
 
-- [Documentación de Microsoft Bookings sobre Microsoft Docs](https://docs.microsoft.com/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
-- [API de Microsoft Bookings en Microsoft Graph](https://docs.microsoft.com/graph/api/resources/booking-api-overview?view=graph-rest-beta)
+- [Documentación de Microsoft Bookings sobre Microsoft Docs](/microsoft-365/bookings/bookings-overview?view=o365-worldwide)
+- [API de Microsoft Bookings en Microsoft Graph](/graph/api/resources/booking-api-overview?view=graph-rest-beta)
 - [Página de productos de Bookings](https://www.microsoft.com/microsoft-365/business/scheduling-and-booking-app)
 - [Blog de Bookings en Microsoft Tech Community](https://techcommunity.microsoft.com/t5/microsoft-bookings-blog/bg-p/Office365BusinessAppsBlog)
 
@@ -57,7 +57,7 @@ Para obtener términos y condiciones de licencia para productos y servicios comp
 
 ### <a name="messaging"></a>Mensajería 
 
-Para realizar un seguimiento de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, visite el Centro de mensajes. Para obtener más información, vea [Centro de mensajes](https://docs.microsoft.com/microsoft-365/admin/manage/message-center).
+Para realizar un seguimiento de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, visite el Centro de mensajes. Para obtener más información, vea [Centro de mensajes](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accesibilidad
 

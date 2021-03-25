@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si es administrador, encontrará instrucciones detalladas para configurar las características de Skype Empresarial Online en Configurar Skype Empresarial Online.
-ms.openlocfilehash: 0ed4c057ba8421a14a4848993159587506abeeac
-ms.sourcegitcommit: 96a8a38f35778b455814b6174b8e68e2feda8746
+ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50572706"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172675"
 ---
 # <a name="skype-for-business-online-features"></a>Características de Skype Empresarial Online
 
@@ -29,7 +29,7 @@ Si es administrador, encontrará instrucciones detalladas para configurar las ca
     
 - Para averiguar qué opciones de Skype Empresarial están en su dispositivo móvil, consulte [Instalar Skype Empresarial en un dispositivo móvil](https://go.microsoft.com/fwlink/?linkid=847564).
     
-- Para una comparación detallada de los clientes web y de escritorio de Skype Empresarial, consulte [Tablas de comparación de cliente de Skype Empresarial Online](https://go.microsoft.com/fwlink/?linkid=829754). Para una comparación detallada de los clientes móviles de Skype Empresarial, consulte las [Tablas de comparación de clientes móviles](https://go.microsoft.com/fwlink/?linkid=846932).
+- Para una comparación detallada de los clientes web y de escritorio de Skype Empresarial, consulte [Tablas de comparación de cliente de Skype Empresarial Online](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison). Para una comparación detallada de los clientes móviles de Skype Empresarial, consulte las [Tablas de comparación de clientes móviles](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison).
     
 Para descargar el cliente de tu dispositivo móvil, PC o Mac, ve a [Descargar Skype Empresarial en todos los dispositivos](https://go.microsoft.com/fwlink/?linkid=846929).
   
@@ -57,7 +57,7 @@ Consulte [Establecer opciones de dispositivo de audio en Skype Empresarial](http
 
 La conectividad externa (federación) de Skype Empresarial permite a los usuarios de Skype Empresarial conectarse con usuarios de otras organizaciones que usan Skype Empresarial, así como con los que hospedan su propio Skype Empresarial Server local. Los contactos federados podrán ver quiénes están, comunicarse por mensajería instantánea y hacer llamadas de audio y vídeo Skype a Skype. Todas las comunicaciones federadas están cifradas entre los sistemas de MI a través del acceso a servidores proxy. Microsoft no controla el cifrado después de que los mensajes hayan pasado a la red de asociados federados (en caso de que el asociado esté federado con un servidor de Skype Empresarial Server local o una red de terceros).
   
-La conectividad externa de Skype Empresarial requiere el consentimiento y la configuración correcta de ambas partes de la relación de federación. Una vez configurada la federación por los administradores de ambos lados, los usuarios de cada organización pueden ver la presencia y comunicarse con los usuarios de la otra organización. La federación solo se admite entre otros entornos de Skype Empresarial, con servidores perimetrales o proxy de acceso configurados adecuadamente. Para obtener más información sobre la configuración del servidor perimetral, vea [Components required for external user access in Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-components-required-for-external-user-access).
+La conectividad externa de Skype Empresarial requiere el consentimiento y la configuración correcta de ambas partes de la relación de federación. Una vez configurada la federación por los administradores de ambos lados, los usuarios de cada organización pueden ver la presencia y comunicarse con los usuarios de la otra organización. La federación solo se admite entre otros entornos de Skype Empresarial, con servidores perimetrales o proxy de acceso configurados adecuadamente. Para obtener más información sobre la configuración del servidor perimetral, vea [Components required for external user access in Lync Server 2013](/lyncserver/lync-server-2013-components-required-for-external-user-access).
   
 ## <a name="skype-for-business-online-meetings"></a>Reuniones de Skype Empresarial Online
 
@@ -112,15 +112,15 @@ Para ver los últimos temas de ayuda de administración de Skype Empresarial Onl
 
 Audioconferencia es una conferencia en la que al menos un participante marca en la parte de audio mediante un teléfono. La capacidad de usar un teléfono para obtener acceso a una reunión es útil para aquellas personas que estén de viaje o que no puedan asistir a una reunión con un PC o dispositivo móvil. Un teléfono también puede ser una mejor opción en otros casos, como cuando la conectividad a Internet es limitada o cuando una reunión es de audio únicamente.
   
-Con Audioconferencia, los usuarios de su organización pueden hospedar o crear reuniones con números de acceso telefónico. Los autores de la llamada pueden usar después los números de teléfono para llamar a una reunión con sus teléfonos (los usuarios que marcan un número para tener acceso a una reunión solo recibirán mensajes de audio, y no recibirán los mensajes instantáneos, los escritorios compartidos o los archivos que se compartan en la reunión). Solo debe configurar las conferencias de acceso telefónico local para los usuarios que van a programar o dirigir las reuniones. A menos que el organizador haya bloqueado la reunión, cualquier persona que tenga el número de acceso telefónico y el identificador de conferencia puede unirse a la reunión. Para obtener más información, consulte [Introducción a la Audioconferencia](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409) y [Números de acceso telefónico local disponibles para la Audioconferencia](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
+Con Audioconferencia, los usuarios de su organización pueden hospedar o crear reuniones con números de acceso telefónico. Los autores de la llamada pueden usar después los números de teléfono para llamar a una reunión con sus teléfonos (los usuarios que marcan un número para tener acceso a una reunión solo recibirán mensajes de audio, y no recibirán los mensajes instantáneos, los escritorios compartidos o los archivos que se compartan en la reunión). Solo debe configurar las conferencias de acceso telefónico local para los usuarios que van a programar o dirigir las reuniones. A menos que el organizador haya bloqueado la reunión, cualquier persona que tenga el número de acceso telefónico y el identificador de conferencia puede unirse a la reunión. Para obtener más información, consulte [Introducción a la Audioconferencia](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json) y [Números de acceso telefónico local disponibles para la Audioconferencia](https://go.microsoft.com/fwlink/?LinkID=730557&amp;clcid=0x1409).
   
 Puede habilitar las conferencias de acceso telefónico local mediante Microsoft como proveedor de conferencias de acceso telefónico local o mediante un proveedor de conferencias de acceso telefónico local de terceros (también denominado proveedor de audioconferencia o ACP).
   
-Adioconferencia no está disponible en todos los países o regiones. Para obtener una lista de los países o las regiones donde se pueden adquirir Audioconferencia, consulte [¿Dónde se puede obtener Audioconferencia?](https://go.microsoft.com/fwlink/?LinkID=730553&amp;clcid=0x409).
+Adioconferencia no está disponible en todos los países o regiones. Para obtener una lista de los países o las regiones donde se pueden adquirir Audioconferencia, consulte [¿Dónde se puede obtener Audioconferencia?](/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans?bc=%2fskypeforbusiness%2fbreadcrumb%2ftoc.json&toc=%2fskypeforbusiness%2ftoc.json).
   
 ## <a name="calling-plans"></a>Planes de llamadas
 
-Skype Empresarial incluye funciones de llamadas que se encuentran en la red telefónica conmutada (RTC). Los planes de llamadas son [](https://docs.microsoft.com/office365/servicedescriptions/skype-for-business-online-service-description/skype-for-business-online-features#phone-system-in-office-365) un complemento del sistema telefónico que le permite buscar, adquirir y asignar números de teléfono a los usuarios de su organización para que puedan realizar llamadas y recibir llamadas de personas dentro y fuera de la organización, directamente desde Office 365. Los usuarios a los que se les asignan números de teléfono pueden realizar llamadas de voz en todos los dispositivos de Skype Empresarial, incluidos los teléfonos VoIP, los equipos y los dispositivos móviles. También pueden controlar sus llamadas a través de las funciones de silencio/desactivación, retención/reanudación, transferencias de llamadas y reenvío de llamadas y, si es necesario, realizar llamadas de emergencia. 
+Skype Empresarial incluye funciones de llamadas que se encuentran en la red telefónica conmutada (RTC). Los planes de llamadas son [](#phone-system-in-office-365) un complemento del sistema telefónico que le permite buscar, adquirir y asignar números de teléfono a los usuarios de su organización para que puedan realizar llamadas y recibir llamadas de personas dentro y fuera de la organización, directamente desde Office 365. Los usuarios a los que se les asignan números de teléfono pueden realizar llamadas de voz en todos los dispositivos de Skype Empresarial, incluidos los teléfonos VoIP, los equipos y los dispositivos móviles. También pueden controlar sus llamadas a través de las funciones de silencio/desactivación, retención/reanudación, transferencias de llamadas y reenvío de llamadas y, si es necesario, realizar llamadas de emergencia. 
   
 Para obtener información sobre los planes de llamadas disponibles, vaya a [Planes de llamadas para Office 365](https://products.office.com/skype-for-business/pstn-calling-plans). Para obtener más información y configurar un plan de llamadas, consulte ¿Qué plan de [llamadas es adecuado para usted?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

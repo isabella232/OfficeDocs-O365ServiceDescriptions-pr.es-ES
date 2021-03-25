@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 9638d6d4-fe9c-4075-88ca-743b4d92775c
 description: A continuación se describen las características de administración y seguridad disponibles en Yammer.
-ms.openlocfilehash: c4f7bc321de1abff3a260cd30922d305548cfc97
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 8043e18bcacb8056c4a109a1d909ddf190908e9c
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132104"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173875"
 ---
 # <a name="administration-and-security-features-in-yammer"></a>Características de administración y seguridad de Yammer
 
 A continuación se describen las características de administración y seguridad disponibles en Yammer.
   
-Para obtener explicaciones y procedimientos detallados, consulte la [ayuda del administrador de Yammer](https://go.microsoft.com/fwlink/?LinkId=869688).
+Para obtener explicaciones y procedimientos detallados, consulta [Ayuda de administración de Yammer](/yammer/).
 
 ## <a name="admin-private-content-mode"></a>Modo de contenido privado de administración
 
-Un administrador superior de una red de Yammer puede ver los mensajes privados y grupos en toda la red.  Los administradores superiores pueden ver contenido privado solo cuando se conceden a sí mismos acceso temporal a contenido privado para investigar problemas.  Para obtener más información, vea [Supervisar contenido privado en Yammer (administradores superiores)](https://go.microsoft.com/fwlink/?LinkId=627479).
+Un administrador superior de una red de Yammer puede ver los mensajes privados y grupos en toda la red.  Los administradores superiores pueden ver contenido privado solo cuando se conceden a sí mismos acceso temporal a contenido privado para investigar problemas.  Para obtener más información, vea [Supervisar contenido privado en Yammer (administradores superiores)](/yammer/manage-security-and-compliance/monitor-private-content).
 
 ## <a name="analytics"></a>Análisis
 
@@ -34,15 +34,15 @@ Hágase con perspectivas obtenidas a partir del análisis de la red y sepa en to
 
 ## <a name="custom-network-branding"></a>Personalización de marca de red personalizada
 
-Incorpore la apariencia de su organización a su red de Yammer. Los administradores de red pueden cargar el logotipo y la imagen de una organización para crear un diseño de cabecera personalizado.
+Lleva el aspecto de tu organización a la red de Yammer. Los administradores de red pueden cargar el logotipo y la imagen de una organización para crear un diseño de mástil personalizado.
 
 ## <a name="data-export"></a>Exportación de datos
 
-Administre y exporte datos de red fácilmente de acuerdo con las directivas de su organización. También puede programar exportaciones de datos diarias o semanales para cumplir con los requisitos normativos y legales.
+Administre y exporte fácilmente los datos de red de acuerdo con las directivas de su organización. También puede programar exportaciones de datos diarias o semanales para cumplir con los requisitos normativos y legales.
   
 ## <a name="directory-synchronization"></a>Sincronización de directorios
 
-Estandarice los datos de perfiles de usuarios en varios sistemas. Las adiciones al usuario, las eliminaciones y la información del perfil se pueden sincronizar automáticamente desde un directorio de la organización existente.
+Estandarice los datos de perfiles de usuarios en varios sistemas. Las adiciones de usuario, las eliminaciones y la información de perfil se pueden sincronizar automáticamente desde un directorio de la organización existente.
 
 ## <a name="keyword-monitoring"></a>Supervisión de palabras clave
 
@@ -54,14 +54,14 @@ Restrinja su red Yammer a un intervalo específico de direcciones IP para que Ya
 
 ## <a name="network-migration"></a>Migración de red
 
-Consolide varias redes de Yammer en una. Para obtener más información, vea [Migración de red: Consolidar varias redes de Yammer](https://go.microsoft.com/fwlink/?LinkID=617488).
+Consolide varias redes de Yammer en una. Para obtener más información, vea [Migración de red: Consolidar varias redes de Yammer](/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
   
 > [!NOTE]
 > No se admite la migración de redes de Yammer entre planes. 
 
 ## <a name="organization-resources"></a>Recursos de la organización
 
-Agregue archivos y vínculos importantes para proporcionar a los empleados acceso rápido a los recursos de la organización, como las directivas de recursos humanos, la información sobre beneficios o los calendarios de vacaciones.
+Agregue archivos y vínculos importantes para dar a los empleados acceso rápido a recursos de la organización como directivas de recursos humanos, información de beneficios o calendarios festivos.
   
 ## <a name="password-policies"></a>Directivas de contraseñas
 
@@ -73,18 +73,16 @@ Vea los dispositivos a los que los usuarios están conectados y cierre las sesio
 
 ## <a name="single-identity"></a>Identidad única
 
-Cuando elige Yammer como la experiencia social predeterminada para su organización, los empleados se asignan a sus cuentas existentes de Yammer. Esto significa que no tendrán que volver a iniciar sesión cuando naveguen a Yammer en Office 365. Cuando los empleados tienen acceso a Yammer &mdash; , ya sea desde Office 365, a través de una aplicación móvil de Yammer, o bien desplazándose a Yammer.com &mdash; se conectan automáticamente en función de las credenciales de la organización existente.
+Cuando elige Yammer como la experiencia social predeterminada para su organización, los empleados se asignan a sus cuentas de Yammer existentes. Esto significa que no tendrán que volver a iniciar sesión cuando naveguen a Yammer en Office 365. Cuando los empleados tienen acceso a Yammer ya sea desde Office 365, a través de una aplicación móvil de Yammer o al navegar a Yammer.com inician sesión automáticamente en función de las credenciales de la &mdash; &mdash; organización existentes.
 
 ## <a name="usage-policy"></a>Directiva de uso
 
-Establezca una directiva de uso personalizada para la red de su organización y exija que los usuarios la acepten.
+Establezca una directiva de uso personalizada para la red de su organización y exija a los usuarios que la acepten.
 
 ## <a name="user-management"></a>Administración de usuarios
 
-Administre fácilmente el acceso a la red de su organización. Yammer le permite sincronizar con los directorios que ya usa, agregar o quitar usuarios de forma individual o en masa, invitar a invitados a la red y designar a otros administradores.
+Administre fácilmente el acceso a la red de su organización. Yammer te permite sincronizar con directorios que ya usas, agregar o quitar usuarios, de forma individual o masiva, invitar invitados a la red y designar a otros administradores.
 
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Yammer Service Description](yammer-service-description.md).
-  
-
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Yammer](yammer-service-description.md).

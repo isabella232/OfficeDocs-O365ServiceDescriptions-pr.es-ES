@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Lea este artículo para obtener información sobre Microsoft Exchange Online archivado.
-ms.openlocfilehash: bf2d54bab85725b2d2e334bf17c2b6611a410c59
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 0b0a3baed41ba416f80933181a8aedbd22847b95
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901905"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173376"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de Archivado de Exchange Online
 
@@ -33,26 +33,26 @@ Para comprar Archivado de Exchange Online, vea [Archivado de Exchange Online par
 Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios Archivado de Exchange Online, consulte la tabla de comparación [de suscripciones completa](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans).
   
 > [!TIP]
-> Puede exportar, guardar e imprimir páginas en las descripciones del servicio. Obtenga información sobre cómo [exportar resultados de búsqueda de contenido](https://docs.microsoft.com/office365/securitycompliance/export-search-results). 
+> Puede exportar, guardar e imprimir páginas en las descripciones del servicio. Obtenga información sobre cómo [exportar resultados de búsqueda de contenido](/office365/securitycompliance/export-search-results). 
   
 ## <a name="exchange-online-archiving-plans"></a>Planes de Archivado de Exchange Online
 
 Archivado de Exchange Online está disponible a través de los siguientes planes.<br><br>
   
-| Plan | Descripción |
+| Planear | Descripción |
 |:-----|:-----|
-|**Archivado de Exchange Online para Exchange Server** <br/> |Archivo basado en la nube para usuarios con buzones principales en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o posterior).  <br/> Si desea agregar un archivo basado en la nube a un buzón principal que está en un servidor de Exchange local, necesita configurar una implementación híbrida. Para obtener más información acerca de las implementaciones [híbridas, Exchange Server implementaciones híbridas.](https://docs.microsoft.com/exchange/exchange-hybrid)  <br/> |
+|**Archivado de Exchange Online para Exchange Server** <br/> |Archivo basado en la nube para usuarios con buzones principales en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o posterior).  <br/> Si desea agregar un archivo basado en la nube a un buzón principal que está en un servidor de Exchange local, necesita configurar una implementación híbrida. Para obtener más información acerca de las implementaciones [híbridas, Exchange Server implementaciones híbridas.](/exchange/exchange-hybrid)  <br/> |
 |**Archivado de Exchange Online para Exchange Server (a través de Enterprise CAL Suite)** <br/> |Archivo basado en la nube para usuarios con buzones principales en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o posterior). Para obtener más información, [vea Licencias de acceso de cliente y Licencias de administración.](https://www.microsoft.com/licensing/product-licensing/client-access-license)  <br/> |
-|**Archivado de Exchange Online para Exchange Online** <br/> | Archivo basado en la nube y retención local como complemento para los siguientes planes<sup>1, 2</sup>:<br/>  Plan 1 de Exchange Online  <br/>  Quiosco de Exchange Online  <br/>  Microsoft 365 Empresa Básico  <br/>  Microsoft 365 Empresa Estándar  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F3  <br/> Microsoft 365 Enterprise F3<br/> <b>Nota:</b> Los siguientes planes ya incluyen archivado y no requieren Archivado de Exchange Online como complemento:<br/>Office 365 Ámbito educativo A1 <br/>Office 365 Educación A3 <br/>  Office 365 Education A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Plan 2 de Exchange Online <br/> Microsoft 365 Empresa Premium <br/>Microsoft 365 Enterprise E3 <br/> Microsoft 365 Enterprise E5 <br/>Para obtener información detallada sobre las capacidades de archivado de los buzones de Exchange Online, vea [Archive features in Archivado de Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/archive-features).           |
+|**Archivado de Exchange Online para Exchange Online** <br/> | Archivo basado en la nube y retención local como complemento para los siguientes planes<sup>1, 2</sup>:<br/>  Plan 1 de Exchange Online  <br/>  Quiosco de Exchange Online  <br/>  Microsoft 365 Empresa Básico  <br/>  Microsoft 365 Empresa Estándar  <br/>  Office 365 Enterprise E1  <br/>  Office 365 Enterprise F3  <br/> Microsoft 365 Enterprise F3<br/> <b>Nota:</b> Los siguientes planes ya incluyen archivado y no requieren Archivado de Exchange Online como complemento:<br/>Office 365 Ámbito educativo A1 <br/>Office 365 Educación A3 <br/>  Office 365 Education A5 <br/>  Office 365 Enterprise E3 <br/>  Office 365 Enterprise E5 <br/>  Plan 2 de Exchange Online <br/> Microsoft 365 Empresa Premium <br/>Microsoft 365 Enterprise E3 <br/> Microsoft 365 Enterprise E5 <br/>Para obtener información detallada sobre las capacidades de archivado de los buzones de Exchange Online, vea [Archive features in Archivado de Exchange Online](./archive-features.md).           |
    
 >[!NOTE]
 ><sup>1</sup> No se necesita una implementación híbrida para las organizaciones basadas exclusivamente en la nube en las que no hay buzones de correo ubicados en un servidor Exchange local. Sin embargo, si existen buzones locales, la implementación híbrida es necesaria.
 <br/>
-<sup>2</sup> El plan 1 de Exchange Online y el plan de aplicaciones de Microsoft 365 tienen un límite de tamaño en el buzón y el archivo. Para obtener más información, vea [Límites de Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits). El complemento Archivado de Exchange Online para Exchange Online agrega [Retención local y retención por juicio](compliance-and-security-features.md#in-place-hold-and-litigation-hold) y funcionalidad de archivado basada en la nube sin limitaciones.
+<sup>2</sup> El plan 1 de Exchange Online y el plan de aplicaciones de Microsoft 365 tienen un límite de tamaño en el buzón y el archivo. Para obtener más información, vea [Límites de Exchange Online](../exchange-online-service-description/exchange-online-limits.md). El complemento Archivado de Exchange Online para Exchange Online agrega [Retención local y retención por juicio](compliance-and-security-features.md#in-place-hold-and-litigation-hold) y funcionalidad de archivado basada en la nube sin limitaciones.
   
 ¿Está buscando información sobre todos los planes de Microsoft 365? Microsoft 365 está disponible en una variedad de planes para satisfacer mejor las necesidades de su organización. Para obtener información sobre diferentes planes, incluidas las opciones de plan independientes y la información sobre cómo pasar de un plan a otro, vea Opciones de plan de [Office 365](../office-365-platform-service-description/office-365-plan-options.md).
   
-## <a name="requirements"></a>Requirements
+## <a name="requirements"></a>Requisitos
 
 Para usar Archivado de Exchange Online para Exchange Server, los buzones de usuario deben residir en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange Server 2010 (SP2 o posterior).
   
@@ -66,7 +66,7 @@ Cada usuario que acceda al servicio de Archivado de Exchange Online debe tener u
   
 ## <a name="unlimited-archive-storage-quota"></a>Cuota de almacenamiento de archivo ilimitada
 
- La característica de archivado ilimitado (denominada *archivado de expansión automática)* proporciona espacio de almacenamiento adicional en los buzones de archivo. Cada suscriptor de Archivado de Exchange Online recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando se activa el archivado de expansión automática, se agrega espacio de almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. En las implementaciones híbridas de Exchange, el archivado de expansión automática solo se admite para buzones de archivo basados en la nube cuando el buzón del usuario local reside en Exchange Server 2019, Exchange Server 2016 o Exchange Server 2013 (SP1 o posterior). Para obtener más información, consulte [Información general del archivado ilimitado](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving).
+ La característica de archivado ilimitado (denominada *archivado de expansión automática)* proporciona espacio de almacenamiento adicional en los buzones de archivo. Cada suscriptor de Archivado de Exchange Online recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando se activa el archivado de expansión automática, se agrega espacio de almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. En las implementaciones híbridas de Exchange, el archivado de expansión automática solo se admite para buzones de archivo basados en la nube cuando el buzón del usuario local reside en Exchange Server 2019, Exchange Server 2016 o Exchange Server 2013 (SP1 o posterior). Para obtener más información, consulte [Información general del archivado ilimitado](/office365/securitycompliance/unlimited-archiving).
   
 > [!IMPORTANT]
 > Los administradores no pueden ajustar la cuota de almacenamiento.<br/>
@@ -107,4 +107,4 @@ Cada usuario que acceda al servicio de Archivado de Exchange Online debe tener u
 <sup>3</sup> Para obtener una lista de las versiones compatibles de Microsoft Outlook, vea [Características de cliente en Archivado de Exchange Online](client-features.md). <br/>
 <sup>4</sup> Azure Information Protection no se incluye, pero puede adquirirse como complemento independiente y habilitará las características admitidas de Information Rights Management (IRM). Algunas características de Azure Information Protection requieren una suscripción a Aplicaciones de Microsoft 365 para empresas, que no se incluye con Microsoft 365 Empresa Basic, Microsoft 365 Empresa Standard, Office 365 Enterprise E1, Office 365 Educación u Office 365 Enterprise F3. <br/>
 <sup>5</sup> Windows Server AD RMS es un servidor local que debe comprarse y administrarse por separado para habilitar las características de IRM admitidas. <br/>
-<sup>6</sup> Si coloca un buzón en Conservación local o retención por juicio, la conservación o retención se aplica al buzón principal y al buzón de archivo. 
+<sup>6</sup> Si coloca un buzón en Conservación local o retención por juicio, la conservación o retención se aplica al buzón principal y al buzón de archivo.

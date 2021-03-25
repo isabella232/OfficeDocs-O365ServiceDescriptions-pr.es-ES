@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 proporciona los siguientes recursos de ayuda y aprendizaje.
-ms.openlocfilehash: 7c34c20d9f2231f278442137f1b615be4201d4c8
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 0de5b5d18f2744799db7db0595db78a27f39992b
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132324"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173485"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -24,7 +24,7 @@ Microsoft Office 365 proporciona los siguientes recursos de ayuda y aprendizaje.
   
 ## <a name="online-help"></a>Ayuda en línea
 
-Los artículos y vídeos de ayuda están disponibles en cualquier vínculo de ayuda en línea del servicio, incluido el icono de ayuda de la barra de navegación superior del portal de Office 365 y del centro de administración de Microsoft 365. También puede buscar en toda la ayuda de Office 365 en [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
+Los artículos y vídeos de ayuda están disponibles en cualquier vínculo de ayuda en línea del servicio, incluido el icono de ayuda en la barra de navegación superior del portal de Office 365 y el Centro de administración de Microsoft 365. También puede buscar en toda la ayuda de Office 365 en [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
 ## <a name="training"></a>Aprendizaje
 
@@ -45,7 +45,7 @@ La formación está disponible en vídeos, seminarios web y clases que permiten 
 ## <a name="community"></a>Comunidad
 
 > [!NOTE]
-> Los recursos de la comunidad se aplican a las versiones internacionales de Office 365. Si usa Office 365 operado por 21Vianet, puede usar WeChat. Consulte [Obtener soporte técnico, de facturación y de suscripción para Office 365 operado por 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) y vaya a la parte inferior de la página de un código QR. 
+> Los recursos de la comunidad se aplican a las versiones internacionales de Office 365. Si usa Office 365 operado por 21Vianet, puede usar WeChat. Consulte [Obtener soporte técnico, de facturación y de suscripción para Office 365 operado por 21Vianet](/microsoft-365/admin/contact-support-for-business-products) y vaya a la parte inferior de la página de un código QR. 
   
 La Comunidad de Office 365 es un destino único para obtener información de soporte técnico de autoayuda. Dispone de la información más reciente para ayudar a los clientes a encontrar respuestas a una variedad de dudas técnicas, de facturación y de servicios a través de wikis, blogs y foros de soporte técnico. Los foros de ayuda los administra y modera un agente de soporte de Microsoft.
   
@@ -89,23 +89,23 @@ En la página de inicio de la Comunidad de Office 365, los clientes pueden obten
     
 Para obtener más información, visite la [Comunidad de Office 365](https://techcommunity.microsoft.com/).
   
-## <a name="manage-office-365-guidance"></a>Guía para la administración de Office 365
+## <a name="manage-office-365-guidance"></a>Administrar instrucciones de Office 365
 
-Los profesionales de TI de organizaciones grandes pueden visitar la página de inicio de la documentación de administración de Office 365. Esta página proporciona vínculos a instrucciones de implementación complejas destinadas a organizaciones de gran tamaño.
+Los profesionales de TI de grandes organizaciones pueden visitar la página principal administrar la documentación de Office 365. Esta página proporciona vínculos a instrucciones de implementación complejas destinadas a organizaciones grandes.
   
-Para obtener más información, visite [administrar Office 365](https://docs.microsoft.com/Office365/).
+Para obtener más información, visite [Administrar Office 365](/Office365/).
   
 ## <a name="other-self-help-resources"></a>Otros recursos de autoayuda
 
-Además de la comunidad de Office 365 y la ayuda en línea, Office 365 incluye los siguientes recursos de autoayuda:
+Además de la ayuda en línea y la comunidad de Office 365, Office 365 incluye los siguientes recursos de auto help:
   
 - **Herramienta de solución de problemas de Office 365** Después de responder a una serie de preguntas breves sobre su problema, la herramienta para la solución de problemas de Office 365 sugiere herramientas e información útiles basadas en sus respuestas. Para usar la herramienta, vaya a la página [Herramienta de solución de problemas de Office 365](https://go.microsoft.com/fwlink/?LinkId=272113) de la Comunidad de Office 365. 
     
-- **Vídeos de soporte técnico** Se han desarrollado vídeos con instrucciones para la solución de problemas únicamente en inglés. Estos vídeos están basados en las preguntas más frecuentes realizadas por los clientes. Existen más de 35 vídeos individuales y la lista se amplía semanalmente. Los temas abarcan desde información general sobre el Centro de administración de BlackBerry® hasta la activación y migración de la sincronización de directorios. Para ver estos vídeos, vaya al sitio de la Comunidad de Office 365 y seleccione el que más le interese. Recomendamos a los clientes que envíen una petición de vídeo a través del portal de la comunidad. Los clientes también pueden navegar por los canales de [YouTube sobre Office 365](https://go.microsoft.com/fwlink/?LinkId=272059) y [Presentación](https://go.microsoft.com/fwlink/?LinkId=272060). 
+- **Vídeos de soporte técnico** Se han desarrollado vídeos con instrucciones para la solución de problemas únicamente en inglés. Estos vídeos están basados en las preguntas más frecuentes realizadas por los clientes. Existen más de 35 vídeos individuales y la lista se amplía semanalmente. Los temas abarcan desde información general sobre el Centro de administración de BlackBerry® hasta la activación y migración de la sincronización de directorios. Para ver estos vídeos, vaya al sitio de la Comunidad de Office 365 y seleccione el que más le interese. Recomendamos a los clientes que envíen una petición de vídeo a través del portal de la comunidad. Los clientes también pueden navegar por los canales de [YouTube sobre Office 365](https://go.microsoft.com/fwlink/?LinkId=272059) y [Presentación](../office-365-service-descriptions-technet-library.md). 
     
 - **Redes sociales** El seguimiento de Office 365 en [Facebook](https://go.microsoft.com/fwlink/?LinkId=272061), [Twitter](https://go.microsoft.com/fwlink/?LinkId=272062) y [LinkedIn](https://www.linkedin.com/groups/Microsoft-Office-365-3724282?itemaction=mclk&amp;anetid=3724282&amp;impid=&amp;pgkey=anet_search_results&amp;actpref=anetsrch_name&amp;trk=anetsrch_name&amp;goback=%2Egdr_1307137875158_1) permite a los clientes y socios obtener más información sobre Office 365. Esta forma rápida y sencilla de obtener información sobre Office 365 permite a los clientes conocer lo que dicen otros usuarios y agregar sus propios comentarios y tweets. Los profesionales de soporte técnico de Microsoft supervisan la actividad sobre Microsoft en Facebook y Twitter para ofrecer ayuda con todas las consultas de soporte. Para encontrar las fuentes más actuales de Facebook con los tweets más recientes, vaya a la parte inferior de la página principal de la Comunidad de Office 365 para leer las discusiones diarias entre clientes y socios. 
     
-    Si usa Office 365 operado por 21Vianet, puede usar WeChat. Consulte [Obtener soporte técnico, de facturación y de suscripción para Office 365 operado por 21Vianet](https://go.microsoft.com/fwlink/?LinkID=733350&amp;clcid=0x409) y vaya a la parte inferior de la página de un código QR. 
+    Si usa Office 365 operado por 21Vianet, puede usar WeChat. Consulte [Obtener soporte técnico, de facturación y de suscripción para Office 365 operado por 21Vianet](/microsoft-365/admin/contact-support-for-business-products) y vaya a la parte inferior de la página de un código QR. 
     
 ## <a name="languages"></a>Idiomas
 
@@ -148,4 +148,4 @@ Los recursos de capacitación y ayuda están disponibles en los siguientes idiom
    
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Microsoft 365 and Office 365 Platform Service Description](office-365-platform-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Microsoft 365 and Office 365 platform service description](office-365-platform-service-description.md).

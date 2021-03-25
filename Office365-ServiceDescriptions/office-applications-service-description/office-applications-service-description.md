@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 es un servicio de suscripción que le proporciona la versión más reciente de las aplicaciones de escritorio de Office con las que ya está familiarizado, como Word, Excel y PowerPoint.
-ms.openlocfilehash: 87834f6e48300839d6fdaaf74c50bd79dc74a4fe
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902041"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173905"
 ---
 # <a name="office-applications-service-description"></a>Descripción del servicio de aplicaciones de Office
 
@@ -36,7 +36,7 @@ Use la siguiente tabla para comparar la disponibilidad de características entre
   
 Varios de los planes de Microsoft 365 para empresas tienen complementos que puede comprar para su suscripción. Un complemento proporciona funciones adicionales a la suscripción. Para obtener más información, [vea Comprar o editar un complemento](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).<br><br>
 
-| Aplicación/característica | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Profesional Plus 2019 | Microsoft 365 Apps para empresas | Aplicaciones de Microsoft 365 para negocios | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| Aplicación/característica | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Profesional Plus 2019 | Aplicaciones de Microsoft 365 para empresas | Aplicaciones de Microsoft 365 para negocios | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Aplicaciones de Office** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
@@ -95,7 +95,7 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 <sup>2</sup> Azure Information Protection no está incluido, pero se puede comprar como un complemento independiente y habilitará las características compatibles de Information Rights Management (IRM). Algunas características de Azure Information Protection requieren una suscripción a Aplicaciones de Microsoft 365 para empresas, que no se incluye con Microsoft 365 Empresa Basic, Microsoft 365 Empresa Standard, Office 365 E1, Office 365 Educación u Office 365 F3.<br/>
 <sup>3</sup> Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM compatibles.<br/>
 <sup>4</sup> Si tiene Office 2013 Professional Plus o una versión independiente de Excel 2013, puede usar Power Map Preview para Excel 2013, que es un complemento no compatible. La versión anterior de Power Map Preview ha expirado y no funcionará con ninguna versión de Excel. Si instaló la versión anterior, desinstale desde el Panel de control y, a continuación, descargue e instale la versión actual de Power Map Preview. Esta versión tiene la misma funcionalidad que la versión de Power Map que se publicó con Microsoft 365 SP1.<br/> 
-<sup>5</sup> Skype Empresarial Basic está disponible para todos los clientes. El cliente de escritorio de Skype Empresarial es una aplicación instalada localmente que proporciona características de presencia, mensajería instantánea y conferencia para planes que incluyen Skype Empresarial Online. Las aplicaciones de Microsoft 365 para empresas y Office 365 E3 incluyen la aplicación de Skype completa, que incluye características adicionales, como soporte avanzado de telefonía, archivado y características de cumplimiento. A Skype for Business Online license must be assigned for each user. Para obtener una comparación de características y capacidades, vea Tablas de comparación de cliente [de escritorio para Lync Server 2013](https://docs.microsoft.com/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
+<sup>5</sup> Skype Empresarial Basic está disponible para todos los clientes. El cliente de escritorio de Skype Empresarial es una aplicación instalada localmente que proporciona características de presencia, mensajería instantánea y conferencia para planes que incluyen Skype Empresarial Online. Las aplicaciones de Microsoft 365 para empresas y Office 365 E3 incluyen la aplicación de Skype completa, que incluye características adicionales, como soporte avanzado de telefonía, archivado y características de cumplimiento. A Skype for Business Online license must be assigned for each user. Para obtener una comparación de características y capacidades, vea Tablas de comparación de cliente [de escritorio para Lync Server 2013](/lyncserver/lync-server-2013-desktop-client-comparison-tables).<br/> 
 <sup>6</sup> Algunas escuelas son elegibles para Education Plus, que incluye Aplicaciones de Microsoft 365 para empresas y permite a los alumnos, profesores y personal instalar la versión más reciente de Office en hasta cinco equipos PC o Mac y en otros dispositivos móviles, incluidas las tabletas Windows y el iPad. Las escuelas pueden optar a Office 365 Educación Plus cuando conceden una licencia de Office en toda la institución para los profesores y el personal a través de la inscripción en soluciones educativas, soluciones educativas Open Value Subscription o un contrato para escuelas. Tenga en cuenta que Access y Publisher solo están disponibles en PC. OneNote para Mac está disponible como descarga independiente en Mac App Store. <br/>
 <sup>7</sup> Office para Mac 2011 se puede instalar, pero no activarse. <br/>
 <sup>8</sup> Aplicaciones de Microsoft 365 para empresas se admiten en la infraestructura de escritorio virtual (VDI) dedicada al usuario. Las aplicaciones de Microsoft 365 para empresas solo admiten servicios de Escritorio remoto (RDS) cuando se compran a través de un programa de licencias por volumen.<br/>

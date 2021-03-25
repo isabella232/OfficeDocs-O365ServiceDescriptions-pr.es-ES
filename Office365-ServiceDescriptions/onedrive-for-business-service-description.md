@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Consulte las características de OneDrive disponibles en cada plan.
-ms.openlocfilehash: ae1f651eb6f842291169ddd0c07b06fddb646ac7
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: ab36eac2f24e8e7c213dfd8be1739d22c81727fb
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901955"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172735"
 ---
 # <a name="onedrive-service-description"></a>Descripción del servicio OneDrive
 
@@ -85,7 +85,7 @@ Para revisar los requisitos para la aplicación de sincronización de OneDrive y
 > [!NOTE]
 > Debe asignar como mínimo una licencia para un usuario antes de aumentar el espacio de almacenamiento predeterminado de OneDrive. 
   
-Cuando se necesita almacenamiento en la nube para usuarios individuales, más allá de los 5 TB iniciales, los administradores pueden [abrir un caso de soporte técnico de Microsoft](https://go.microsoft.com/fwlink/?linkid=869559) para solicitarlo. El almacenamiento adicional en la nube se concederá en los siguientes casos: 
+Cuando se necesita almacenamiento en la nube para usuarios individuales, más allá de los 5 TB iniciales, los administradores pueden [abrir un caso de soporte técnico de Microsoft](/microsoft-365/admin/contact-support-for-business-products) para solicitarlo. El almacenamiento adicional en la nube se concederá en los siguientes casos: 
   
 - Cuando un usuario haya llenado los 5 TB de almacenamiento de OneDrive como mínimo al 90 % de su capacidad, Microsoft aumentará el espacio de almacenamiento predeterminado en OneDrive hasta 25 TB por usuario (si quieren, los administradores pueden establecer un límite inferior por usuario). 
     
@@ -101,7 +101,7 @@ El almacenamiento de datos que no sea de los archivos de trabajo personales del 
   
 ## <a name="onedrive-limits"></a>Límites de OneDrive
 
-Para obtener información sobre los límites de archivo y la sincronización, vea [Límites de SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits) y [Nombres de archivo y tipos de archivo no válidos](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+Para obtener información sobre los límites de archivo y la sincronización, vea [Límites de SharePoint](./sharepoint-online-service-description/sharepoint-online-limits.md) y [Nombres de archivo y tipos de archivo no válidos](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
   
 Para los planes de almacenamiento ilimitado en la nube para usuarios individuales, tenga en cuenta que pueden aplicarse límites en las características que no son de almacenamiento. 
 
@@ -185,5 +185,4 @@ A menos que se indique lo contrario, las características siguientes están disp
 
 ## <a name="it-admin-security-and-compliance-features"></a>Funciones de seguridad, cumplimiento y administración de TI
 
-Para obtener información sobre estas características, vea la [Descripción del servicio de SharePoint](/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-service-description#security-and-compliance-features).
-
+Para obtener información sobre estas características, vea la [Descripción del servicio de SharePoint](./sharepoint-online-service-description/sharepoint-online-service-description.md#security-and-compliance-features).

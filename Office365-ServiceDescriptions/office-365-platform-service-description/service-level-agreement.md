@@ -12,27 +12,26 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: b5d01cf2-3f9d-46f5-9e39-b34650cfc7fd
-ms.openlocfilehash: 0d6e083ff50435a151e32a0e7f052d0258725d80
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 50f48c895a0f4f856f531f4f08bbcf4c981908b8
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131784"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172845"
 ---
 # <a name="service-level-agreement"></a>Contrato de nivel de servicio
 
 ## <a name="microsoft-online-services-level-agreement"></a>Contrato de nivel de Microsoft Online Services
 
-Proporcionamos apoyo financiero en nuestro compromiso de lograr y mantener los niveles de servicio. Si no logramos ni mantenemos los niveles de servicio de cada servicio tal como se describe en el Contrato de nivel de servicio, podrá obtener el crédito correspondiente a una parte de sus cuotas de servicio mensuales. Para obtener más información sobre los contratos de nivel de servicio de los servicios, descargue el [Contrato de nivel de servicio para Microsoft Online Services](https://go.microsoft.com/fwlink/?linkid=272026). Para obtener información general sobre los tiempos de actividad del sistema, así como información sobre seguridad, privacidad y cumplimiento, vea [Operaciones transparentes desde Office 365](https://go.microsoft.com/fwlink/?linkid=845427).
+Proporcionamos apoyo financiero en nuestro compromiso de lograr y mantener los niveles de servicio. Si no logramos ni mantenemos los niveles de servicio de cada servicio tal como se describe en el Contrato de nivel de servicio, podrá obtener el crédito correspondiente a una parte de sus cuotas de servicio mensuales. Para obtener más información sobre los contratos de nivel de servicio de los servicios, descargue el [Contrato de nivel de servicio para Microsoft Online Services](https://go.microsoft.com/fwlink/?linkid=272026). Para obtener información general sobre los tiempos de actividad del sistema, así como información sobre seguridad, privacidad y cumplimiento, vea [Operaciones transparentes desde Office 365](./service-health-and-continuity.md).
   
 ## <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
 Vea el [21Vianet Service Level Agreement (Contrato de nivel de servicio de 21Vianet)](https://go.microsoft.com/fwlink/?linkid=846729) y el [Online Services Standard Agreement (Contrato estándar de servicios en línea)](https://go.microsoft.com/fwlink/?linkid=846730) para Office 365 operado por 21Vianet. 
   
 > [!NOTE]
-> Office 365 operado por 21Vianet es un servicio ofrecido y operado solo en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet. Para obtener más información, vea [Acerca de Office 365 operado por 21Vianet](https://go.microsoft.com/fwlink/?linkid=846725). 
+> Office 365 operado por 21Vianet es un servicio ofrecido y operado solo en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet. Para obtener más información, vea [Acerca de Office 365 operado por 21Vianet](/microsoft-365/admin/services-in-china/services-in-china?viewFallbackFrom=o365-worldwide). 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, consulte la descripción del servicio de la [plataforma de Microsoft 365 y Office 365](office-365-platform-service-description.md).
-  
+Para ver la disponibilidad de características entre planes, vea [Microsoft 365 and Office 365 platform service description](office-365-platform-service-description.md).

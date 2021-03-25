@@ -1,5 +1,5 @@
 ---
-title: Entornos gubernamentales de OneDrive para el US
+title: Entornos gubernamentales de OneDrive para Estados Unidos
 ms.author: office365servicedesc
 author: pamelaar
 ms.reviewer: ankirti
@@ -8,56 +8,54 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
-description: Obtenga información sobre la disponibilidad de características de OneDrive para los clientes de la nube de US Government.
-ms.openlocfilehash: 0094edfed04bd6c8195d6ede2cf611c9b5420541
-ms.sourcegitcommit: 7486b1573c592ec7b6356d2cdb070c866239cad5
+description: Obtenga información sobre la disponibilidad de la característica de OneDrive para los clientes en la nube del gobierno de Estados Unidos.
+ms.openlocfilehash: 66e3e45ccd15d0486370c2f4049648fdbb0e01c5
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49624543"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172945"
 ---
-# <a name="onedrive-for-us-government-environments"></a>Entornos gubernamentales de OneDrive para el US
+# <a name="onedrive-for-us-government-environments"></a>Entornos gubernamentales de OneDrive para Estados Unidos
 
-En este artículo se proporciona información general sobre las diferencias de características entre la nube de los Estados Unidos y la nube comercial, tal como se muestra en la [Descripción del servicio de OneDrive](/office365/servicedescriptions/onedrive-for-business-service-description). OneDrive está disponible para los entornos de la nube de la comunidad de administración pública (GCC), GCC High y DoD. 
+En este artículo se proporciona información general sobre las diferencias de características entre la nube del gobierno de Estados Unidos y la nube comercial, tal como se muestra en la descripción [del servicio de OneDrive](../../onedrive-for-business-service-description.md). OneDrive está disponible para los entornos de GCC, GCC High y DoD. 
 
-Para obtener más información sobre la nube de administración pública, incluida la idoneidad y la compra, consulte [Microsoft 365 Government: How to Buy](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/microsoft-365-government-how-to-buy). Para comparar los planes de Office 365 administración pública, vea [office 365 planes gubernamentales](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
+Para obtener más información acerca de la nube gubernamental, incluida la elegibilidad y la compra, vea [Microsoft 365 Government - how to buy](./microsoft-365-government-how-to-buy.md). Para comparar los planes de Office 365 Government, vea [Office 365 Government plans](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1#EligibilityRequirements).
 
-Para obtener información sobre los puntos de conexión necesarios al administrar la conectividad de red, vea los puntos de conexión de [office 365 U.s. Government GCC GCC High endpoints](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) o [Office 365 u.s. Government DoD](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
+Para obtener información sobre los puntos de conexión necesarios al administrar la conectividad de red, vea los puntos de conexión de Office [365 U.S. Government GCC High](/office365/enterprise/office-365-u-s-government-gcc-high-endpoints#sharepoint-online-and-onedrive-for-business) o los puntos de conexión de [Office 365 U.S. Government DoD](/office365/enterprise/office-365-u-s-government-dod-endpoints#sharepoint-online-and-onedrive-for-business).
 
-Además de disfrutar de las características y capacidades de Office 365, las organizaciones se benefician de las siguientes características que son exclusivas de los entornos de la nube del gobierno de Estados Unidos:
+Además de disfrutar de las características y capacidades de Office 365, las organizaciones se benefician de las siguientes características que son exclusivas de los entornos en la nube del gobierno de Estados Unidos:
 
--   El contenido del cliente de la organización se separa lógicamente del contenido del cliente en los servicios comerciales de Office 365 de Microsoft.
+-   El contenido de cliente de su organización se separa lógicamente del contenido de los clientes en los servicios comerciales de Office 365 de Microsoft.
 -   El contenido del cliente de la organización se almacena dentro de los Estados Unidos.
 -   El acceso al contenido del cliente de la organización está restringido a personal específico de Microsoft.
--   Los entornos de nube de administración cumplen con las certificaciones y acreditaciones necesarias para los clientes del sector público de los Estados Unidos.
+-   Los entornos de nube gubernamentales cumplen con las certificaciones y acreditaciones necesarias para los clientes del sector público de Estados Unidos.
 
-Nuestro objetivo es entregar todas las características y funcionalidades comerciales de OneDrive a los entornos de nube de administración pública. Algunas características no están disponibles debido a los requisitos de los clientes de la nube gubernamental. Otras características están llegando a los entornos gubernamentales, pero aún no están disponibles. Consulte las siguientes secciones para obtener información sobre la disponibilidad de características en los entornos de nube de administración pública.
+Nuestro objetivo es ofrecer todas las funciones y características comerciales de OneDrive a los entornos de nube gubernamentales. Algunas características no están disponibles debido a los requisitos de los clientes de la nube gubernamental. Otras características están llegando a los entornos gubernamentales, pero aún no están disponibles. Consulte las secciones siguientes para obtener información sobre la disponibilidad de características en los entornos de nube gubernamentales.
 
 ## <a name="sharing-features"></a>Características de uso compartido
 
-Para obtener las diferencias de características entre la nube comercial y los entornos de nube de administración, consulte [uso compartido de archivos](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod#file-sharing).
+Para obtener información sobre las diferencias de características entre la nube comercial y los entornos de nube gubernamentales, vea [Uso compartido de archivos.](./gcc-high-and-dod.md#file-sharing)
 
 ## <a name="web-features"></a>Características web
 
-Estas son las diferencias entre las características web para los clientes comerciales y las de los clientes de la nube de administración pública:
+Estas son las diferencias entre las características web para clientes comerciales y las de los clientes de la nube gubernamental:
 
-- Las tarjetas de archivo no están disponibles en los entornos de GCC High y DoD
-- El acceso a la biblioteca de SharePoint ("bibliotecas compartidas" en el panel de navegación) no está disponible en los entornos de GCC High y DoD
+- Las tarjetas de archivo no están disponibles en los entornos GCC High y DoD
+- El acceso a bibliotecas de SharePoint ("Bibliotecas compartidas" en el panel de navegación) no está disponible en los entornos GCC High y DoD
 
 ## <a name="mobile-features"></a>Características móviles
 
-Estas son las diferencias entre las características móviles para los clientes comerciales y las de los clientes de la nube de administración pública:
+Estas son las diferencias entre las características móviles de los clientes comerciales y las de los clientes de la nube gubernamental:
 
 - La aplicación de Windows 10 para XBox One, HoloLens, Surface Hub y tabletas no está disponible para los entornos gubernamentales (GCC, GCC High y DoD).
 
 ## <a name="sync-features"></a>Características de sincronización
 
-Estas son las diferencias entre las características de sincronización para los clientes comerciales y las de los clientes de la nube de administración pública:
+Estas son las diferencias entre las características de sincronización para clientes comerciales y las de los clientes de la nube gubernamental:
 
-- Si usa la sincronización B2B, es posible que no pueda sincronizar archivos de una organización en un entorno diferente.
+- Si usa B2B Sync, es posible que no pueda sincronizar archivos de una organización en un entorno diferente.
 
 ## <a name="security-compliance-and-administration-features"></a>Características de seguridad, cumplimiento y administración
 
-Para obtener las diferencias de características entre la nube comercial y los entornos de nube de administración, consulte [SharePoint para entornos gubernamentales de Estados Unidos](sharepoint.md)
-
-
+Para obtener información sobre las diferencias de características entre la nube comercial y los entornos de nube del gobierno, vea [SharePoint for US government environments](sharepoint.md)

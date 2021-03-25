@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: cdfe686d-a059-4f4d-bb8d-9c2c0ebfa423
-ms.openlocfilehash: 5308770ff7fc6ab6c44f27293ff89ebbffa6e72f
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: 21df7d4747ae0b92f21a9da56c0d4bc9ff96ccaf
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132754"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51173325"
 ---
 # <a name="interoperability-connectivity-and-compatibility"></a>Interoperabilidad, conectividad y compatibilidad
 
@@ -27,15 +27,15 @@ En el caso de clientes que hayan implementado Microsoft Lync Server 2010, Lync S
   
 Lync Server 2010 y Lync Server 2013 local pueden interoperar con Exchange Online de dos formas adicionales:
   
-- Interoperabilidad de presencia y mensajería instantánea en Outlook en la web
+- Interoperabilidad de mensajería instantánea e presencia en Outlook en la web
     
 - Interoperabilidad de correo de voz
     
-Para obtener más información sobre la configuración de Skype Empresarial Server 2015 con Exchange Online, vea [Configuración de la integración local de Skype Empresarial Server 2015 con Exchange Online](https://go.microsoft.com/fwlink/p/?LinkId=271804). Para obtener más información sobre las opciones de configuración híbridas, vea [Configuraciones híbridas admitidas en Skype Empresarial Server 2015](https://go.microsoft.com/fwlink/?LinkID=513084).
+Para obtener más información sobre la configuración de Skype Empresarial Server 2015 con Exchange Online, vea [Configuración de la integración local de Skype Empresarial Server 2015 con Exchange Online](/skypeforbusiness/deploy/integrate-with-exchange-server/outlook-web-app). Para obtener más información sobre las opciones de configuración híbridas, vea [Configuraciones híbridas admitidas en Skype Empresarial Server 2015](/skypeforbusiness/skype-for-business-hybrid-solutions/integration-with-exchange-and-sharepoint).
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Para los clientes que hayan implementado Microsoft SharePoint Server o SharePoint Online como parte de un plan de suscripción, SharePoint puede conectarse a Exchange Online para obtener servicios integrados.
+Para los clientes que han implementado Microsoft SharePoint Server o SharePoint Online como parte de un plan de suscripción, SharePoint puede conectarse a Exchange Online para servicios integrados.
   
 Para obtener más información sobre cómo conectar SharePoint a Exchange Online, vea [Usar SharePoint Online en un dominio personalizado con otros servicios](https://go.microsoft.com/fwlink/?LinkId=271805).
   
@@ -57,6 +57,4 @@ Exchange Online se puede usar como servicio de entrega SMTP para transmitir los 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Exchange Online Service Description](exchange-online-service-description.md).
-  
-
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Exchange Online](exchange-online-service-description.md).

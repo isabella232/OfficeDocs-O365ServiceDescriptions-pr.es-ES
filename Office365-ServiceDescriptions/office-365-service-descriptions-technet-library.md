@@ -13,27 +13,27 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 899bf3b7-f9f0-4f3c-a5e4-88f93f4373b4
 description: Microsoft 365 y Office 365 son servicios basados en la nube diseñados para ayudar a satisfacer las necesidades de su organización para una seguridad sólida, confiabilidad y productividad del usuario.
-ms.openlocfilehash: 174d30152a56e799e053d117808e566a08346ffb
-ms.sourcegitcommit: 02dd535b01c4ca7b19b43188ddd1a1f02c01afb5
+ms.openlocfilehash: 79b4eaf46edf1e43d8e350e7da2ac044dc5f0526
+ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50460299"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51172775"
 ---
 # <a name="microsoft-365-and-office-365-service-descriptions"></a>Descripciones del servicio de Microsoft 365 y Office 365 
 
 Microsoft 365 y Office 365 son servicios basados en la nube diseñados para ayudar a satisfacer las necesidades de su organización para una seguridad sólida, confiabilidad y productividad del usuario. 
   
-Los artículos de esta biblioteca proporcionan descripciones detalladas de los servicios y características que están disponibles con Microsoft 365 y Office 365. Para obtener información acerca de las aplicaciones empresariales de Microsoft Dynamics 365, vea [la documentación de Microsoft Dynamics 365](https://docs.microsoft.com/dynamics365/).
+Los artículos de esta biblioteca proporcionan descripciones detalladas de los servicios y características que están disponibles con Microsoft 365 y Office 365. Para obtener información acerca de las aplicaciones empresariales de Microsoft Dynamics 365, vea [la documentación de Microsoft Dynamics 365](/dynamics365/).
 
 Para comparar características entre planes, vea [Herramientas eficaces para](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) admitir su empresa o la descripción del servicio relevante en la lista siguiente. 
   
-Para obtener información y artículos de soporte técnico, vea Office [Help & Training,](https://support.office.com/) [Office documentation for admins and IT professionals](https://docs.microsoft.com/office/), and [Microsoft 365 help center for admins and IT pros](https://docs.microsoft.com/microsoft-365/).
+Para obtener información y artículos de soporte técnico, vea Office [Help & Training,](https://support.office.com/) [Office documentation for admins and IT professionals](/office/), and [Microsoft 365 help center for admins and IT pros](/microsoft-365/).
   
 > [!NOTE]
 > Si está buscando la hoja de cálculo de comparación de descripción del servicio, se ha retirado. Las tablas de disponibilidad de características de producto en cada página de descripción del servicio se han actualizado para ayudarle a elegir mejor la versión de Office 365 que se adapte a sus necesidades. 
   
-Microsoft ofrece la ventaja del Centro FastTrack para Office 365 para los servicios elegibles en los planes elegibles. La ventaja le permite trabajar de forma remota con especialistas de Microsoft para que su entorno de Office 365 esté listo para su uso. Para obtener más información, vea [Ventajas del Centro de FastTrack para Office 365](https://docs.microsoft.com/fasttrack/O365-fasttrack-benefit-for-office-365).
+Microsoft ofrece la ventaja del Centro FastTrack para Office 365 para los servicios elegibles en los planes elegibles. La ventaja le permite trabajar de forma remota con especialistas de Microsoft para que su entorno de Office 365 esté listo para su uso. Para obtener más información, vea [Ventajas del Centro de FastTrack para Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Para empezar, consulte las siguientes descripciones de servicios:
   
@@ -81,9 +81,8 @@ Para empezar, consulte las siguientes descripciones de servicios:
 
 
 > [!NOTE]
-> <sup>1</sup> Incluye disponibilidad de [características del conjunto de aplicaciones](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-suite-features), como, por ejemplo, Office Delve, Microsoft MyAnalytics, Microsoft Sway y Microsoft Teams.
+> <sup>1</sup> Incluye disponibilidad de [características del conjunto de aplicaciones](./office-365-platform-service-description/office-365-suite-features.md), como, por ejemplo, Office Delve, Microsoft MyAnalytics, Microsoft Sway y Microsoft Teams.
   
 ## <a name="disclaimer"></a>Aviso de declinación de responsabilidades
 
 &copy; 2018 Microsoft Corporation. Reservados todos los derechos. Microsoft, Office 365 y otros nombres de productos y servicios son o podrían ser marcas comerciales o marcas comerciales registradas en los Estados Unidos o en otros países. La información provista aquí tiene fines informativos únicamente y representa la vista actual de Microsoft Corporation a partir de fecha de la última publicación o revisión de este documento. No está pensado para ser un contrato de servicio y no compromete a Microsoft ni al cliente a ninguna de las características, capacidades o responsabilidades mencionadas en este documento. MICROSOFT NO OTORGA NINGUNA GARANTÍA, YA SEA EXPLÍCITA, IMPLÍCITA O ESTATUTARIA, CON RESPECTO A LA INFORMACIÓN CONTENIDA EN ESTE DOCUMENTO.
- 
