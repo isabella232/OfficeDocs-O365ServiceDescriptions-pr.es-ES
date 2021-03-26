@@ -11,12 +11,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI es un conjunto de herramientas de análisis empresarial basado en la nube que permite a cualquier persona conectarse, visualizar y analizar datos con mayor velocidad, eficacia y comprensión. Se conecta a los usuarios a una amplia gama de datos activos a través de paneles de fácil de usar, proporciona informes interactivos y visualizaciones atractivas que aportan los datos para la vida de entrega.
-ms.openlocfilehash: 6cc1968764a2aa21c471ce139fcf7870f356f2b5
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: 5b676088256645db856a6bff70e11c6c2a256a82
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901985"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215879"
 ---
 # <a name="power-bi-service-description"></a>Descripción del servicio Power BI
 
@@ -28,7 +28,7 @@ Power BI está disponible actualmente como parte de la versión de Office 365 En
 
 En la tabla siguiente se muestran los planes que incluyen Power BI para que pueda elegir la solución que mejor se adapte a las necesidades de su organización. Para obtener información detallada sobre el plan, vea [Herramientas eficaces para admitir su empresa.](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans)
 
-Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios para Power BI, consulte la tabla de comparación [de suscripciones completa.](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)
+Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios para Power BI, consulte la tabla de comparación [de suscripciones completa.](https://go.microsoft.com/fwlink/?linkid=2139145)
  
 ## <a name="power-bi-plans"></a>Planes de Power BI
 

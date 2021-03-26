@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Obtenga información sobre la disponibilidad de características de SharePoint para los clientes en la nube del gobierno de Estados Unidos.
-ms.openlocfilehash: 7dab05ddfbc8666e79707691eaf03e69f8d98f01
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 69900e2da0040882992677f7db764033ff01308d
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172935"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215793"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>Entornos gubernamentales de SharePoint para ESTADOS UNIDOS
 
@@ -79,7 +79,7 @@ Estas son las diferencias entre los sitios y las características de contenido d
 
 Estas son las diferencias entre las características de búsqueda de los clientes comerciales y las de los clientes de la nube gubernamental:
 
-- La integración de Microsoft Search no está disponible.
+- Microsoft Search no está disponible en GCC.
 
 ## <a name="sharing-and-sync"></a>Uso compartido y sincronización
 

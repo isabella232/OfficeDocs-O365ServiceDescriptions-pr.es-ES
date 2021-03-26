@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 es un servicio de suscripción que le proporciona la versión más reciente de las aplicaciones de escritorio de Office con las que ya está familiarizado, como Word, Excel y PowerPoint.
-ms.openlocfilehash: 405308fe734be548bcbb8fb98204467c5e50fcf7
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173905"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215763"
 ---
 # <a name="office-applications-service-description"></a>Descripción del servicio de aplicaciones de Office
 
@@ -28,7 +28,7 @@ Aunque Office es un servicio basado en la nube, las aplicaciones de Office no se
   
 Las aplicaciones de Office están disponibles en versiones de 32 y 64 bits.
   
-Para obtener información detallada del plan sobre las suscripciones que habilitan a los usuarios para la descripción del servicio de aplicaciones de Office, consulte la tabla de comparación [de suscripciones completa](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans).
+Para obtener información detallada del plan sobre las suscripciones que habilitan a los usuarios para la descripción del servicio de aplicaciones de Office, consulte la tabla de comparación [de suscripciones completa](https://go.microsoft.com/fwlink/?linkid=2139145).
   
 ## <a name="feature-availability-across-plans"></a>Disponibilidad de características para cada plan
 
@@ -36,7 +36,7 @@ Use la siguiente tabla para comparar la disponibilidad de características entre
   
 Varios de los planes de Microsoft 365 para empresas tienen complementos que puede comprar para su suscripción. Un complemento proporciona funciones adicionales a la suscripción. Para obtener más información, [vea Comprar o editar un complemento](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).<br><br>
 
-| Aplicación/característica | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Profesional Plus 2019 | Aplicaciones de Microsoft 365 para empresas | Aplicaciones de Microsoft 365 para negocios | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| Aplicación/característica | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Profesional Plus 2019 | Aplicaciones de Microsoft 365 para empresas | Aplicaciones de Microsoft 365 para negocios | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Aplicaciones de Office** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |

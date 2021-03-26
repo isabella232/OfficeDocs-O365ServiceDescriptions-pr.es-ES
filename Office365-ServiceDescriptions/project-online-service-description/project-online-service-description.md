@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y el trabajo diario. Entregado a través de Office 365, Project Online proporciona potentes capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de cartera de proyectos, desde casi cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 448ca9c170e1969f0bdf430064e5df1d8e5b45c3
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: e5b893190a0cdd0335962b3a7bd9109f9fd393cc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172685"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215813"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -57,7 +57,7 @@ Los miembros del equipo con suscripciones a Project Online Essentials o Project 
 - Enviar partes de horas
 - Compartir documentos y colaborar con usuarios de Microsoft Teams o Skype Empresarial
 
-Project Online Essentials no incluye Project para la web. Project Plan 1 incluye Project para la web.
+Project Online Essentials no incluye Project para la web. Project Plan 1 incluye Project for the web y Project Online Essentials.
 
 ### <a name="project-online-desktop-client"></a>Cliente de escritorio de Project Online
 
@@ -128,7 +128,7 @@ Las características enumeradas en esta sección interactúan solo con los datos
 
 ### <a name="project-online-features"></a>Características de Project Online
 
-Las características enumeradas en esta sección interactúan solo con los datos del almacén de datos de SharePoint de Project Online.<br><br>
+Las características enumeradas en esta sección interactúan solo con los datos del almacén de datos de SharePoint de Project Online. Los miembros del equipo con suscripciones a Project Online Essentials o Project Plan 1 pueden realizar algunas funciones de Project Online. Para obtener más información, vea [Microsoft Project service description - Service Descriptions | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/project-online-service-description/project-online-service-description#project-online).<br><br>
 
 |Característica | Descripción | Plan de proyecto 3 | Plan de proyecto 5 |
 |--------|-------------|-----------------------------|------------------------|

@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Lea este artículo para obtener información sobre Microsoft Exchange Online archivado.
-ms.openlocfilehash: 0b0a3baed41ba416f80933181a8aedbd22847b95
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 374076fa79ca021d75ebd2375511579be5ae49dc
+ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173376"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "51215773"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de Archivado de Exchange Online
 
@@ -30,7 +30,7 @@ Para comprar Archivado de Exchange Online, vea [Archivado de Exchange Online par
   
 ## <a name="available-plans"></a>Planes disponibles
 
-Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios Archivado de Exchange Online, consulte la tabla de comparación [de suscripciones completa](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans).
+Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios Archivado de Exchange Online, consulte la tabla de comparación [de suscripciones completa](https://go.microsoft.com/fwlink/?linkid=2139145).
   
 > [!TIP]
 > Puede exportar, guardar e imprimir páginas en las descripciones del servicio. Obtenga información sobre cómo [exportar resultados de búsqueda de contenido](/office365/securitycompliance/export-search-results). 
