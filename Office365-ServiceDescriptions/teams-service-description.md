@@ -7,12 +7,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Obtenga información sobre la disponibilidad del servicio y las características de Microsoft Teams en los planes de Microsoft 365 y Office 365.
-ms.openlocfilehash: 59eaee9a36eaff8dd79d5ff9690bf04e966f3dfe
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: d745ba704d190415b480207880dde18400852c05
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215733"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484863"
 ---
 # <a name="microsoft-teams-service-description"></a>Descripción del servicio Microsoft Teams
 
@@ -50,15 +50,14 @@ Para obtener la lista más actualizada y completa de las características de Tea
 |Escritorio de audio y vídeo de PowerPoint para compartir pantalla <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Voz  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>3</sup>  <br/> |Sí<sup>3</sup>  <br/> |Sí  <br/> |
 |Audioconferencia  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>3</sup>  <br/> |Sí<sup>3</sup>  <br/> |Sí  <br/> |
-|Aplicaciones, Bots, & Connectors  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>5</sup>  <br/> |Sí<sup>5</sup>  <br/> |Sí<sup>4,5</sup>  <br/> |Sí  <br/> |
-|Eventos en directo  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No<sup>6</sup>  <br/> |No<sup>6</sup>  <br/> |Sí  <br/> |
+|Aplicaciones, Bots, & Connectors  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>4</sup>  <br/> |Sí<sup>4</sup>  <br/> |Sí<sup>4</sup>  <br/> |Sí  <br/> |
+|Eventos en directo  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No<sup>5</sup>  <br/> |No<sup>5</sup>  <br/> |Sí  <br/> |
 
 <sup>1</sup> Microsoft Teams en GCC-High y DOD admiten 2500 miembros en un equipo individual.<br/>
 <sup>2</sup> Microsoft Planner no está disponible actualmente para acceder en canales privados.<br/>
 <sup>3</sup> El enrutamiento directo debe configurarse para que la voz y la audioconferencia de Microsoft Teams funcionen en GCCH y DoD.<br/>
-<sup>4</sup> Microsoft OneNote no está disponible en las nubes de DOD.<br/>
-<sup>5</sup> Las aplicaciones de terceros y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
-<sup>6</sup> Live Events no está disponible en GCC-High o DOD en este momento.<br/>
+<sup>4</sup> Las aplicaciones de terceros y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
+<sup>5</sup> Live Events no está disponible en GCC-High o DOD en este momento.<br/>
 
 ### <a name="cloud-voice-features"></a>Características de voz en la nube
 

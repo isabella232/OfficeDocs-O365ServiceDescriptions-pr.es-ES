@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para Microsoft 365 y los planes independientes.
-ms.openlocfilehash: 60a9fc63c60952ef8a71706d79ddac055fecc887
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 4b544803132d212dc3db01c6b0fbf18193f9fb3d
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172615"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484783"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -29,7 +29,7 @@ Obtenga información sobre los límites de servicio en SharePoint para Microsoft
 |Sitios (colecciones de sitios) por organización  <br/> |2 millones<sup>6</sup> <br/> |2 millones<sup>6</sup> <br/> |2 millones<br/> |
 |Número de usuarios  <br/> |Hasta 300  <br/> |1- 500 000<sup>7</sup> <br/> |1- 500 000<sup>7</sup> <br/> |
    
-<sup>1</sup> [Obtenga información sobre cómo encontrar el almacenamiento total y disponible para su organización.](/sharepoint/manage-site-collection-storage-limits) Puede comprar una cantidad ilimitada de almacenamiento adicional de SharePoint. Vea [Cambiar el espacio de almacenamiento para la suscripción](/office365/admin/subscriptions-and-billing/add-storage-space). 
+<sup>1</sup> [Obtenga información sobre cómo encontrar el almacenamiento total y disponible para su organización.](/sharepoint/manage-site-collection-storage-limits) Puede comprar una cantidad ilimitada de almacenamiento adicional de SharePoint. Consulte [Agregar espacio de almacenamiento para la suscripción.](/office365/admin/subscriptions-and-billing/add-storage-space) 
 <br/><sup>2</sup> Se recomienda supervisar la Papelera de reciclaje y vaciarla periódicamente. El espacio de almacenamiento que usa forma parte del límite de almacenamiento total de la organización. 
 <br/> <sup>3</sup> Si tiene una suscripción a Microsoft 365 y un complemento de almacenamiento de archivos adicional de Office 365, se agregan los importes de almacenamiento. 
 <br/> <sup>4</sup> Este es el límite *de* almacenamiento de un solo sitio (anteriormente denominado "colección de sitios"), no la cantidad de almacenamiento *proporcionada* para cada sitio. Este límite se aplica a todos los tipos de sitios, incluidos los sitios de grupo conectados a grupos de Office 365 y OneDrive. Los administradores de SharePoint [pueden establecer manualmente límites de almacenamiento inferiores.](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits) 
@@ -100,6 +100,6 @@ Un usuario puede pertenecer a 5.000 grupos por sitio (colección de sitios) y ca
 > [!NOTE]
 > No hay ningún límite distinto en el número de invitados que puede invitar a sitios de SharePoint. Para obtener más información sobre el uso compartido externo, vea [External sharing overview](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Vea también
 
 [Límites de búsqueda para SharePoint](/sharepoint/search-limits)

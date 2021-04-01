@@ -9,12 +9,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Empresa Premium es una solución integrada que reúne la mejor productividad de su clase con capacidades avanzadas de seguridad y administración de dispositivos para ayudar a proteger su empresa. Esta descripción del servicio describe las opciones y características del plan.
-ms.openlocfilehash: 1103836d01e162d3e4ccf497363294953606b0eb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: bbd797a777ca6126ad74be3386ca0897fc882e6f
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173545"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484823"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descripción del servicio de Microsoft 365 Empresa Premium
 
@@ -43,7 +43,7 @@ Microsoft 365 Empresa Premium incluye básicamente todas las características di
 |Microsoft Stream  <br/> |Sí<sup>6</sup>  <br/> |Sí<sup>6</sup>  <br/> |
 |[Administración de Microsoft 365](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Microsoft 365 Empresa Premium** <br/> |
 |Herramienta de sincronización de Azure AD Connect<br/> |Sí  <br/> |Sí  <br/> |
-|Shared computer activation <br/> |No <br/> |Sí  <br/> |
+|[Activación en equipos compartidos](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |No <br/> |Sí  <br/> |
 |[Regulación de mensajes y cumplimiento](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Microsoft 365 Empresa Premium** <br/> |
 |Archivado a largo plazo de buzones basados en Exchange Online  <br/> |No  <br/> |Sí<sup>3</sup> <br/> |
 |Plan 1 de Azure Information Protection |No <br/>|Sí<sup>2</sup> </br>|
