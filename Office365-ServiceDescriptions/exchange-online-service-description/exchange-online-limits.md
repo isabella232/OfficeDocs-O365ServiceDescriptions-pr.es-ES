@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 06017db419d1f62c907e5bd5004d8d2eef2f54c1
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 47f56be9b431b6f2b5e0340291ea6e3d156674d8
+ms.sourcegitcommit: dc98fc886827d7ecc3af8ecd2ec567335bced117
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173715"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "51484843"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -196,7 +196,7 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 |Advertencia de número de mensajes por carpeta de buzón de correo|900,000|900,000|900,000|900,000|900,000|900,000|
 |Número máximo de mensajes por carpeta de la carpeta Elementos recuperables|3 millones|3 millones|3 millones|3 millones|3 millones|3 millones|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (no en espera)|30 GB|30 GB|30 GB|30 GB|30 GB|30 GB|
-|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (en espera)|100 GB|100 GB|100 GB|100 GB|100 GB|100 GB|
+|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (en espera)|100 GB|100 GB|100 GB|100 GB|100 GB|100 GB|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (no en espera)|30 GB|30 GB|30 GB|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|30 GB|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (en espera)|100 GB<sup>1</sup>|100 GB<sup>1</sup>|100 GB<sup>1</sup>|Unlimited<sup>2</sup>|Unlimited<sup>2</sup>|100 GB<sup>1</sup>|
 |Advertencia de número de mensajes por carpeta en la carpeta Elementos recuperables|2,75 millones|2,75 millones|2,75 millones|2,75 millones|2,75 millones|2,75 millones|
@@ -220,7 +220,7 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 |Advertencia de número de mensajes por carpeta de buzón de correo|Sin límite|900,000|900,000|900,000|
 |Número máximo de mensajes por carpeta de la carpeta Elementos recuperables|Sin límite|3 millones|3 millones|3 millones|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (no en espera)|30 GB|30 GB|30 GB|30 GB|
-|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (en espera)|100 GB|100 GB|100 GB|100 GB|
+|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (en espera)|100 GB|100 GB|100 GB|100 GB|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (no en espera)|30 GB|30 GB|30 GB|30 GB|
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (en espera)|100 GB<sup>2</sup>|100 GB<sup>2</sup>|Unlimited<sup>3</sup>|Unlimited<sup>3</sup>|
 |Advertencia de número de mensajes por carpeta en la carpeta Elementos recuperables|Sin límite|2,75 millones|2,75 millones|2,75 millones|
@@ -321,7 +321,7 @@ Los límites de envío y recepción se aplican para combatir el correo no desead
 
 ### <a name="receiving-limits"></a>Límites de recepción
 
-Los límites de recepción se aplican al número de mensajes que un usuario, grupo o carpeta pública pueden recibir por hora. Esto se aplica tanto a los mensajes recibidos de Internet como de los servidores locales. Al superar el límite de recepción, los mensajes de correo electrónico enviados al buzón recibirá un informe de no entrega que indica que el buzón ha superado el umbral de entrega máximo. Pasada una hora, se actualizará el límite y el buzón podrá volver a recibir mensajes.
+Los límites de recepción se aplican al número de mensajes que un usuario, grupo o carpeta pública pueden recibir por hora *desde cualquier origen*. Esto incluye los mensajes de remitentes internos, los mensajes de Internet y los mensajes de servidores locales. Cuando se ha superado el límite de recepción de un buzón, los mensajes enviados al buzón se devolverán al remitente en un informe de no entrega (también conocido como NDR o mensaje de devolución) que indica que el buzón ha superado el umbral de entrega máximo. Pasada una hora, se actualizará el límite y el buzón podrá volver a recibir mensajes.
 
 | Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar Office | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
@@ -369,7 +369,7 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
 |Límite de frecuencia de destinatario|Sin límite<sup>1</sup>|10 000 destinatarios por día <sup>2</sup>|10 000 destinatarios por día <sup>2</sup>|10 000 destinatarios por día <sup>2</sup>|
 |Límite de destinatarios|1000 destinatarios<sup>1</sup>|1000 destinatarios|1000 destinatarios|1000 destinatarios|
 |Límite de direcciones proxy de destinatarios|400|400|400|400|
-|Límite de frecuencia de mensajes|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
+|Límite de frecuencia de mensajes|Sin límite|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
 
 > [!NOTE]
 > <sup>1</sup> Es el límite predeterminado para organizaciones de Exchange Server 2013. Los administradores pueden cambiar este valor para su organización.<br/>
