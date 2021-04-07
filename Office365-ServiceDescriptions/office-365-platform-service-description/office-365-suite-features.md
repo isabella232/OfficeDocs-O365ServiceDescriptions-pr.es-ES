@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Las características enumeradas en este tema son una colección de herramientas basadas en web que le ayudan a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
-ms.openlocfilehash: fa139fe6a774979a37d6327198ebd6ceec11afdb
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: c74505833ab40d29612c710360d3073ea9313cb1
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173985"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599052"
 ---
 # <a name="microsoft-365-suite-features"></a>Características del conjunto de aplicaciones de Microsoft 365
 
@@ -25,12 +25,6 @@ Las características enumeradas en este tema son una colección de herramientas 
 ## <a name="delve"></a>Delve
 
 Delve permite a los usuarios buscar y descubrir contenido en Microsoft 365 basándose en información personalizada. Delve es la primera experiencia con tecnología de Office Graph. Para obtener más información acerca de Delve, vaya [a ¿Qué es Delve?](https://go.microsoft.com/fwlink/?LinkId=511463).
-
-## <a name="microsoft-bookings"></a>Microsoft Bookings
-
-Microsoft Bookings es una aplicación móvil y en línea para empresas que desean proporcionar servicios a los clientes con una cita. Algunos ejemplos de estas empresas son salones de pelo, oficinas odontológicas, spas, bufetes de abogados, proveedores de servicios financieros, consultores, profesionales de la salud, instituciones educativas y tiendas de automóviles. Microsoft Bookings está disponible para clientes de Estados Unidos y Canadá que tienen una suscripción de Microsoft 365 para empresas.
-  
-Para obtener más información acerca de Microsoft Bookings, vaya [a Publicar su calendario empresarial en línea con Microsoft Bookings](https://support.office.com/article/47403d64-a067-4754-9ae9-00157244c27d).
 
 ## <a name="microsoft-briefing-email"></a>Correo electrónico de Microsoft Briefing
 
@@ -58,7 +52,7 @@ Use la API de Microsoft Graph para compilar de forma rápida aplicaciones que se
 
 Listas de Microsoft es una aplicación de Microsoft 365 que te ayuda a realizar un seguimiento de la información y organizar el trabajo. Las listas son sencillas, inteligentes y flexibles, por lo que puedes estar al tanto de lo que más le importa a tu equipo. Realice un seguimiento de problemas, activos, rutinas, contactos, inventario y mucho más con vistas personalizables y reglas inteligentes para mantener a todos notificados y sincronizados. Con plantillas preparadas, puedes iniciar rápidamente listas en línea, en nuestra nueva aplicación móvil o en Microsoft Teams. Como forma parte de Microsoft 365, puede confiar en la seguridad y el cumplimiento listos para la empresa.
 
-Para más información, vea:
+Para obtener más información, vea:
 
 * [Centro **de recursos de listas públicas de Microsoft**](https://aka.ms/MSLists)
 * [Centro **de adopción de listas públicas de Microsoft**](https://aka.ms/ListsAdoption)
@@ -69,7 +63,7 @@ Microsoft Planner es una herramienta que proporciona a los usuarios una forma vi
   
 ## <a name="microsoft-power-apps"></a>Microsoft Power Apps
 
-Microsoft Power Apps es un servicio empresarial que te ayuda a crear, integrar y compartir rápidamente aplicaciones que funcionan en cualquier dispositivo. Power Apps le permite usar conexiones integradas o aquellas creadas por su empresa para conectar la aplicación a servicios locales y en la nube, incluidos Microsoft 365 y Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, bases de datos de Oracle, etc. Puede compartir fácilmente sus Power Apps con compañeros de trabajo simplemente escribiendo una dirección de correo electrónico. Para obtener más información, vaya al sitio web de Microsoft [Power Apps](https://powerapps.microsoft.com/).
+Microsoft Power Apps es un servicio empresarial que te ayuda a crear, integrar y compartir rápidamente aplicaciones que funcionan en cualquier dispositivo. Power Apps le permite usar conexiones integradas o aquellas creadas por su empresa para conectar la aplicación a servicios locales y en la nube, incluidos Microsoft 365 y Office 365, Dynamics CRM, OneDrive, SharePoint, SQL Server, bases de datos de Oracle, etc. Puede compartir fácilmente power apps con compañeros de trabajo escribiendo una dirección de correo electrónico. Para obtener más información, vaya al sitio web de Microsoft [Power Apps](https://powerapps.microsoft.com/).
   
 ## <a name="microsoft-stream"></a>Microsoft Stream
 
@@ -77,13 +71,13 @@ Microsoft Stream es un servicio empresarial de vídeo que las personas de la org
   
 ## <a name="microsoft-sway"></a>Microsoft Sway
 
-Microsoft Sway es una aplicación digital profesional para contar historias diseñada para la empresa, que usted y sus compañeros pueden usar para expresar ideas mediante un lienzo interactivo basado en web. El motor de diseño integrado de Microsoft Sway le ayuda a producir informes, presentaciones y presentaciones profesionales y visualmente atractivos, entre otros, sin necesidad de un formato amplio o formación adicional. También puede modificar los resultados para lograr la apariencia única que busca. Microsoft Sway confiere una apariencia impecable a su creación en cualquier explorador y en cualquier pantalla, y le permite enviar un vínculo para compartirla con compañeros y clientes. Microsoft Sway le permite buscar y reunir todo tipo de contenido sin salir de la aplicación, por lo que puede arrastrar y colocar imágenes, texto, vídeos y gráficos en el lienzo. Para más información, vea [Sway](https://sway.com). Microsoft Sway no está disponible todavía en [Office 365 Germany](office-365-germany.md).
+Microsoft Sway es una aplicación digital profesional para contar historias diseñada para la empresa, que usted y sus compañeros pueden usar para expresar ideas mediante un lienzo interactivo basado en web. El motor de diseño integrado de Microsoft Sway le ayuda a producir informes, presentaciones y presentaciones profesionales y visualmente atractivos, entre otros, sin necesidad de un formato amplio o formación adicional. También puede modificar los resultados para lograr la apariencia única que busca. Microsoft Sway hace que la creación tenga un aspecto excelente en cualquier explorador de cualquier pantalla y se puede compartir con compañeros y clientes mediante el envío de un vínculo. Microsoft Sway le permite buscar y reunir todo tipo de contenido sin salir de la aplicación, por lo que puede arrastrar y colocar imágenes, texto, vídeos y gráficos en el lienzo. Para más información, vea [Sway](https://sway.com). Microsoft Sway no está disponible todavía en [Office 365 Germany](office-365-germany.md).
   
 ## <a name="microsoft-365-apps-for-enterprise"></a>Aplicaciones de Microsoft 365 para empresas
 
 Aplicaciones de Microsoft 365 para empresas es el conjunto de aplicaciones de escritorio siempre actualizado que ya conoce (incluidos Word, PowerPoint, Excel, Outlook y Teams) disponibles como suscripción. Aplicaciones de Microsoft 365 para empresas incluye funcionalidades inteligentes exclusivas como [**Ideas en Excel,**](https://go.microsoft.com/fwlink/p/?linkid=2109915)Investigador en [**Word,**](https://go.microsoft.com/fwlink/p/?linkid=2109916)colaboración en tiempo [**real,**](https://go.microsoft.com/fwlink/p/?linkid=2109917)Teams como el centro para el trabajo en equipo y características de seguridad avanzadas. Como una licencia basada en usuarios, puede implementar Office en hasta cinco equipos PC o Mac, cinco tabletas y cinco dispositivos móviles. Con 1 TB de almacenamiento en la nube de OneDrive, puede acceder y colaborar en los archivos desde cualquier lugar.
 
-Para más información, vea:
+Para obtener más información, vea:
 
 * [Página Información general](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise)
 * [Página de producto (para comprar)](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise-product)

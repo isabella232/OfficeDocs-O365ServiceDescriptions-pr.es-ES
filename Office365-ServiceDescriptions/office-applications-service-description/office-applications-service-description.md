@@ -13,12 +13,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 es un servicio de suscripción que le proporciona la versión más reciente de las aplicaciones de escritorio de Office con las que ya está familiarizado, como Word, Excel y PowerPoint.
-ms.openlocfilehash: 8f2898ac3668f9ec1868d3c99d5ef04567d7c6f5
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 55674c3844f074d5462c91c2b2b422b2abb05e30
+ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215763"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "51599062"
 ---
 # <a name="office-applications-service-description"></a>Descripción del servicio de aplicaciones de Office
 
@@ -36,7 +36,7 @@ Use la siguiente tabla para comparar la disponibilidad de características entre
   
 Varios de los planes de Microsoft 365 para empresas tienen complementos que puede comprar para su suscripción. Un complemento proporciona funciones adicionales a la suscripción. Para obtener más información, [vea Comprar o editar un complemento](https://support.office.com/article/4e7b57d6-b93b-457d-aecd-0ea58bff07a6).<br><br>
 
-| Aplicación/característica | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Profesional Plus 2019 | Aplicaciones de Microsoft 365 para empresas | Aplicaciones de Microsoft 365 para negocios | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
+| Aplicación/característica | Office Professional Plus 2013 | Office Professional Plus 2016 | Office Profesional Plus 2019 | Aplicaciones de Microsoft 365 para empresas | Aplicaciones de Microsoft 365 para negocios | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1 | Office 365 E3 | Office 365 E5 | Office 365 F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |**Aplicaciones de Office** <br/> |||||||||||
 |[Microsoft Word](office-applications.md#microsoft-word) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
@@ -81,7 +81,7 @@ Varios de los planes de Microsoft 365 para empresas tienen complementos que pued
 |Power Query para Excel  <br/> |No<sup>14</sup>  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Power View para Excel  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Configuración de movilidad  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
-|Activación en equipos compartidos  <br/> |No  <br/> |No  <br/> |No  <br/>|Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
+|[Activación en equipos compartidos](/DeployOffice/overview-shared-computer-activation)  <br/> |No  <br/> |No  <br/> |No  <br/>|Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Soporte para bloquear el almacenamiento de archivos basados en la nube  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |No  <br/> |Sí <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |
 |Pulse para buscar y volver a usar contenido.  <br/> |No  <br/> |No  <br/> |No  <br/>|No  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Actualizaciones de versión  <br/> |No  <br/> |No  <br/>|No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
