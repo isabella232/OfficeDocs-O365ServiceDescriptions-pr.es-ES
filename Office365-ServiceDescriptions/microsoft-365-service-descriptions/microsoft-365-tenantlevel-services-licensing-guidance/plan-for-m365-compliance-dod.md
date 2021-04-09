@@ -2,18 +2,19 @@
 title: Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - DoD
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está para profesionales de TI que impulsan implementaciones de Office 365 en entidades del Gobierno Federal de Estados Unidos u otras entidades que controlan datos que están sujetos a normativas y requisitos gubernamentales, donde el uso de Microsoft 365 Government – DoD es adecuado para cumplir estos requisitos.
-ms.openlocfilehash: 0730ecf23d4c2fd167edf9f0e8b0dc5dcf67b646
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 74907afc24dd468111e3f530dc316346784b2996
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173535"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652624"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - DoD
 
@@ -132,7 +133,7 @@ Para satisfacer los requisitos de nuestros clientes en la nube gubernamentales, 
 |                                         | Cumplimiento de la comunicación (incluidas las directivas de supervisión): traducir contenido de estado durante la investigación | En el trabajo pendiente de ingeniería |
 |                                         | Cumplimiento de la comunicación (incluidas las directivas de supervisión): detección de ataques y detección de suicidios | En el trabajo pendiente de ingeniería |
 |                                         | Barreras de información | En el trabajo pendiente de ingeniería |
-|                                         | Administración del acceso con privilegios                    | En el trabajo pendiente de ingeniería |
+|                                         | Privileged Access Management                    | En el trabajo pendiente de ingeniería |
 | **Detectar & responder**                  | Exhibición de documentos electrónicos principal: conservación local                            | Disponible              |
 |                                         | EDiscovery principal: administración de casos                                 | Disponible              |
 |                                         | EDiscovery principal: Búsqueda                                          | Disponible              |

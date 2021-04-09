@@ -2,6 +2,7 @@
 title: Office 365 Germany
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
@@ -9,14 +10,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Germany es una opción diferenciada de los servicios de Office 365 que ya están disponibles en toda Europa. Ayuda a satisfacer las necesidades de los clientes más regulados de Alemania, la Unión Europea (UE) y la Asociación Europea de Libre Comercio (AELC) al ofrecer nuestros servicios de productividad líderes en el sector para el trabajo digital, desde centros de datos alemanes, con residencia de datos en Alemania y medidas estrictas de acceso y control de datos a través de un modelo de administrador de datos único regido por la legislación alemana.
-ms.openlocfilehash: 00e2861130283c6917d307e6793beb9dfa09c058
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 9ef9b295840bcbf7f2a216dd07c16b44c955d74b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173865"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653502"
 ---
-# <a name="office-365-germany"></a>Office 365 Alemania
+# <a name="office-365-germany"></a>Office 365 Germany
 
 Office 365 Germany es una opción diferenciada de los servicios de Office 365 que ya están disponibles en toda Europa. Ayuda a satisfacer las necesidades de los clientes más regulados de Alemania, la Unión Europea (UE) y la Asociación Europea de Libre Comercio (AELC) al ofrecer nuestros servicios de productividad líderes en el sector para el trabajo digital, desde centros de datos alemanes, con residencia de datos en Alemania y medidas estrictas de acceso y control de datos a través de un modelo de administrador de datos único regido por la legislación alemana.
 
@@ -533,7 +534,7 @@ En la tabla siguiente se enumeran las características de Defender para Office 3
 
 En la siguiente tabla se enumeran las características de Project Online que están disponibles en los planes de Office 365 Germany. Para obtener más información sobre Project Online, vea [Introducción a Project Online](https://go.microsoft.com/fwlink/?linkid=2144053).<br><br>
 
-| Planear | Descripción | Usuarios de destino |
+| Plan | Descripción | Usuarios de destino |
 |:-----|:-----|:-----|
 |Project Online Essentials| Interfaz basada en web para miembros de un equipo  <br/>  Actualizar tareas, problemas y riesgos  <br/>  Enviar partes de horas  <br/>  Compartir documentos y colaborar con presencia de Skype Empresarial|Integrantes del equipo|
 |Project Online Professional| Todas las funciones de Project Online Essentials, además de:  <br/>  Interfaz de usuario enriquecida a través del cliente de escritorio  <br/>  Acceso en cualquier momento y lugar a través de la interfaz web  <br/>  Programación y valoración de proyectos  <br/>  Administración de recursos  <br/>  Publicación de proyectos en la nube  <br/>  Incluye la versión más actualizada de la aplicación de escritorio de Project, enviada instantáneamente por streaming a su PC con Windows.  <br/>  Cada licencia de suscripción permite hasta cinco instalaciones simultáneas de la aplicación de escritorio de Project.|Jefes de proyecto|

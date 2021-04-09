@@ -2,6 +2,7 @@
 title: Características de soporte técnico de Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,21 +12,21 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: A continuación se describen las características de soporte técnico disponibles en Yammer.
-ms.openlocfilehash: cefb03ae4a3edcb70f2c2182adec8625ef4fdf76
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132004"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653522"
 ---
 # <a name="support-features-in-yammer"></a>Características de soporte técnico de Yammer
 
 A continuación se describen las características de soporte técnico disponibles en Yammer.
   
 > [!IMPORTANT]
-> Yammer no admite la recuperación de contenido eliminado &mdash; , como redes externas, usuarios, mensajes, grupos y archivos, &mdash; incluido el contenido eliminado accidentalmente por los administradores de la red.
+> Yammer no admite la recuperación de contenido eliminado, como redes externas, usuarios, mensajes, grupos y archivos, incluido el contenido eliminado accidentalmente por los &mdash; &mdash; administradores de red.
 >
-> Microsoft no proporciona informes personalizados o ad hoc aparte de las características de análisis disponibles en Yammer. En ocasiones, Microsoft puede proporcionar un informe personalizado en el curso de una solicitud de soporte técnico, pero, en la mayoría de los casos, no puede dar cabida a las solicitudes directas de los datos.
+> Microsoft no proporciona informes personalizados o ad hoc aparte de las características de análisis disponibles en Yammer. En ocasiones, Microsoft puede proporcionar un informe personalizado durante una solicitud de soporte técnico, pero, en su mayoría, no pueden admitir solicitudes directas para los datos.
 
 ## <a name="administrator-support"></a>Administrator support
 
@@ -33,11 +34,11 @@ Los administradores de Yammer Enterprise son los responsables del mantenimiento 
 
 ## <a name="customer-support"></a>Soporte al cliente
 
-Existe un servicio de soporte técnico disponible para responder a las preguntas de los clientes y resolver los problemas rápidamente. Los clientes de Yammer pueden recibir soporte técnico publicando en el foro de soporte público, que se supervisa 24 horas al día, siete días a la semana por los agentes de soporte técnico. Si usted es cliente de Yammer y necesita ayuda, vaya al [sitio de soporte público de Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
+Existe un servicio de soporte técnico disponible para responder a las preguntas de los clientes y resolver los problemas rápidamente. Los clientes de Yammer pueden recibir soporte técnico publicando en el foro de soporte técnico público, que los agentes de soporte técnico supervisan las 24 horas del día, los siete días de la semana. Si usted es cliente de Yammer y necesita ayuda, vaya al [sitio de soporte público de Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
    
 ## <a name="fasttrack-center"></a>Centro FastTrack
 
-El servicio Microsoft FastTrack puede ayudar a su organización a moverse a la nube de Microsoft al proporcionarle ayuda en cada paso del proceso. FastTrack le permite planear de forma estratégica implementaciones, hacer un rápido aumento de los nuevos servicios y nuevos usuarios incorporados. Para obtener más información, visite el [Centro de FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obtener información acerca de la creación de su red de Yammer, incluidas las actividades y los documentos de inicio previo, lanzamiento y soporte técnico, vaya a la página [enVision: identificar escenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) y, a continuación, seleccione **unir la organización**.
+El servicio Microsoft FastTrack puede ayudar a su organización a moverse a Microsoft Cloud proporcionando ayuda en cada paso del camino. FastTrack te permite planear de forma estratégica los lanzamientos, aumentar rápidamente los nuevos servicios e incorporar nuevos usuarios. Para obtener más información, visite el [Centro de FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obtener información sobre cómo crear la red de Yammer, incluidos los documentos y actividades de inicio previo, inicio y soporte técnico, vaya a la página [Envision: Identify scenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) y, a continuación, seleccione Acercar la **organización.**
 
 ## <a name="support-features-across-yammer-plans"></a>Características de soporte técnico de los distintos planes de Yammer
 
@@ -55,13 +56,13 @@ Ejemplos
   
 |**Nivel de gravedad**|**Descripción**|**Ejemplos**|
 |:-----|:-----|:-----|
-|Gravedad A (crítica)  <br/> |El servicio no se puede usar para la mayoría de los usuarios finales.  <br/> |La plataforma de Yammer no está disponible.  <br/> |
+|Gravedad A (crítica)  <br/> |El servicio es inutilizable para la mayoría de los usuarios finales.  <br/> |La plataforma Yammer está abajo.  <br/> |
 |Gravedad B (alta)  <br/> |Aunque el servicio puede usarse, su rendimiento no es bueno.  <br/> |La publicación de fuentes no funciona como debería.  <br/> |
 |Gravedad C (media)  <br/> |El servicio no funciona como debería, pero existe una solución alternativa.  <br/> |Las vistas previas de los archivos no se muestran como deberían.  <br/> |
 
 ## <a name="technical-support-initial-response-times"></a>Tiempos de respuesta inicial del soporte técnico
 
-Los tiempos iniciales de respuesta dependen de los niveles de gravedad descritos anteriormente y del tipo de suscripción de Yammer. En la siguiente tabla se muestran los tiempos de respuesta de destino.
+Los tiempos iniciales de respuesta dependen de los niveles de gravedad descritos anteriormente y del tipo de suscripción de Yammer. Los tiempos de respuesta de destino se muestran en la tabla siguiente.
   
 |**Nivel de gravedad**|**Yammer Basic**|**Yammer Enterprise**|
 |:-----|:-----|:-----|

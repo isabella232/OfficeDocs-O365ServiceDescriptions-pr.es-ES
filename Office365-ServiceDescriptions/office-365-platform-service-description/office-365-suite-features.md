@@ -2,6 +2,7 @@
 title: Características del conjunto de aplicaciones de Microsoft 365
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Las características enumeradas en este tema son una colección de herramientas basadas en web que le ayudan a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
-ms.openlocfilehash: c74505833ab40d29612c710360d3073ea9313cb1
-ms.sourcegitcommit: 4c1b10d1e3dcee372641df673fca1be31005def2
+ms.openlocfilehash: f304c2ae023296bad80080034cda88589c23d803
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "51599052"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653182"
 ---
 # <a name="microsoft-365-suite-features"></a>Características del conjunto de aplicaciones de Microsoft 365
 
@@ -52,7 +53,7 @@ Use la API de Microsoft Graph para compilar de forma rápida aplicaciones que se
 
 Listas de Microsoft es una aplicación de Microsoft 365 que te ayuda a realizar un seguimiento de la información y organizar el trabajo. Las listas son sencillas, inteligentes y flexibles, por lo que puedes estar al tanto de lo que más le importa a tu equipo. Realice un seguimiento de problemas, activos, rutinas, contactos, inventario y mucho más con vistas personalizables y reglas inteligentes para mantener a todos notificados y sincronizados. Con plantillas preparadas, puedes iniciar rápidamente listas en línea, en nuestra nueva aplicación móvil o en Microsoft Teams. Como forma parte de Microsoft 365, puede confiar en la seguridad y el cumplimiento listos para la empresa.
 
-Para obtener más información, vea:
+Para más información vea:
 
 * [Centro **de recursos de listas públicas de Microsoft**](https://aka.ms/MSLists)
 * [Centro **de adopción de listas públicas de Microsoft**](https://aka.ms/ListsAdoption)
@@ -77,7 +78,7 @@ Microsoft Sway es una aplicación digital profesional para contar historias dise
 
 Aplicaciones de Microsoft 365 para empresas es el conjunto de aplicaciones de escritorio siempre actualizado que ya conoce (incluidos Word, PowerPoint, Excel, Outlook y Teams) disponibles como suscripción. Aplicaciones de Microsoft 365 para empresas incluye funcionalidades inteligentes exclusivas como [**Ideas en Excel,**](https://go.microsoft.com/fwlink/p/?linkid=2109915)Investigador en [**Word,**](https://go.microsoft.com/fwlink/p/?linkid=2109916)colaboración en tiempo [**real,**](https://go.microsoft.com/fwlink/p/?linkid=2109917)Teams como el centro para el trabajo en equipo y características de seguridad avanzadas. Como una licencia basada en usuarios, puede implementar Office en hasta cinco equipos PC o Mac, cinco tabletas y cinco dispositivos móviles. Con 1 TB de almacenamiento en la nube de OneDrive, puede acceder y colaborar en los archivos desde cualquier lugar.
 
-Para obtener más información, vea:
+Para más información vea:
 
 * [Página Información general](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise)
 * [Página de producto (para comprar)](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise-product)

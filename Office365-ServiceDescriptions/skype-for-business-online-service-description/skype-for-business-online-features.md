@@ -2,6 +2,7 @@
 title: Características de Skype Empresarial Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si es administrador, encontrará instrucciones detalladas para configurar las características de Skype Empresarial Online en Configurar Skype Empresarial Online.
-ms.openlocfilehash: 079a4c24ee2abcb9af96cac0cd3336d3110eaa52
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172675"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651025"
 ---
 # <a name="skype-for-business-online-features"></a>Características de Skype Empresarial Online
 
@@ -120,7 +121,7 @@ Adioconferencia no está disponible en todos los países o regiones. Para obtene
   
 ## <a name="calling-plans"></a>Planes de llamadas
 
-Skype Empresarial incluye funciones de llamadas que se encuentran en la red telefónica conmutada (RTC). Los planes de llamadas son [](#phone-system-in-office-365) un complemento del sistema telefónico que le permite buscar, adquirir y asignar números de teléfono a los usuarios de su organización para que puedan realizar llamadas y recibir llamadas de personas dentro y fuera de la organización, directamente desde Office 365. Los usuarios a los que se les asignan números de teléfono pueden realizar llamadas de voz en todos los dispositivos de Skype Empresarial, incluidos los teléfonos VoIP, los equipos y los dispositivos móviles. También pueden controlar sus llamadas a través de las funciones de silencio/desactivación, retención/reanudación, transferencias de llamadas y reenvío de llamadas y, si es necesario, realizar llamadas de emergencia. 
+Skype Empresarial incluye funciones de llamadas que se encuentran en la red telefónica conmutada (RTC). Los planes de llamadas son [](#phone-system) un complemento del sistema telefónico que le permite buscar, adquirir y asignar números de teléfono a los usuarios de su organización para que puedan realizar llamadas y recibir llamadas de personas dentro y fuera de la organización, directamente desde Office 365. Los usuarios a los que se les asignan números de teléfono pueden realizar llamadas de voz en todos los dispositivos de Skype Empresarial, incluidos los teléfonos VoIP, los equipos y los dispositivos móviles. También pueden controlar sus llamadas a través de las funciones de silencio/desactivación, retención/reanudación, transferencias de llamadas y reenvío de llamadas y, si es necesario, realizar llamadas de emergencia. 
   
 Para obtener información sobre los planes de llamadas disponibles, vaya a [Planes de llamadas para Office 365](https://products.office.com/skype-for-business/pstn-calling-plans). Para obtener más información y configurar un plan de llamadas, consulte ¿Qué plan de [llamadas es adecuado para usted?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   

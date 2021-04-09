@@ -2,6 +2,7 @@
 title: Visio para la web
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio para la web amplía la experiencia de Microsoft Visio al explorador, donde puede crear y editar diagramas guardados en la nube. Los clientes de Microsoft 365 pueden ver, imprimir y compartir diagramas e insertar comentarios sobre la marcha.
-ms.openlocfilehash: 70e738a853a5550cf58a481c8cf1fca318539722
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 936b08c6b00532d85b6e0426ae11e29d45a78cda
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51172495"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653642"
 ---
 # <a name="visio-for-the-web"></a>Visio para la web
 

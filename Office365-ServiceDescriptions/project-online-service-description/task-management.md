@@ -2,6 +2,7 @@
 title: Administración de tareas
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,25 +11,25 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018ebc12-efef-4cf1-aee7-b3b024749297
-description: Las siguientes características de administración de tareas están disponibles en Project online.
-ms.openlocfilehash: 803721cda7498c7acf876471ebc679bab5b5a577
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Las siguientes características de administración de tareas están disponibles en Project Online.
+ms.openlocfilehash: 7fbe93f48d02eb35ab3606d6252d106dedaa8cd6
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131074"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651065"
 ---
 # <a name="task-management"></a>Administración de tareas
 
-Las siguientes características de administración de tareas están disponibles en Project online.
+Las siguientes características de administración de tareas están disponibles en Project Online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea la [Descripción del servicio de Project online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [descripción del servicio de Project Online](project-online-service-description.md).
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
 Cuando se desactiva una tarea, permanece en el plan del proyecto, pero no afecta lo siguiente: la disponibilidad de los recursos, la programación del proyecto o la forma en que se programan otras tareas. Obtenga más información sobre [cómo desactivar una tarea](https://go.microsoft.com/fwlink/p/?LinkId=271335).
   
-## <a name="auto-complete"></a>Completar automáticamente
+## <a name="auto-complete"></a>Autocompletar
 
 Obtenga sugerencias para nombres de tareas o recursos mientras escribe. 
   
@@ -48,7 +49,7 @@ Una ruta crítica es una serie de tareas que debe completarse según la programa
 
 Vea los factores que afectan la programación de una tarea, como la fecha de inicio cambiada o los mensajes de error.
   
-## <a name="task-path-analysis"></a>Análisis de ruta de acceso de tareas
+## <a name="task-path-analysis"></a>Análisis de ruta de tarea
 
 Vea la manera en que una tarea se conecta con otras tareas al resaltar la ruta de acceso a la tarea en todo el proyecto. Obtenga más información sobre [resaltar cómo se vinculan las tareas entre sí](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
@@ -66,5 +67,5 @@ Use el modo de programación manual para programar las tareas manualmente. Vea [
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Project online Service Description](project-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea Descripción del servicio [de Project Online](project-online-service-description.md).
   

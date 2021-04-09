@@ -2,6 +2,7 @@
 title: Características de plataforma de Yammer
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -11,39 +12,39 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a7d8a60e-a80d-429b-b4eb-d188cbf15371
 description: A continuación se describen las características de plataforma de Yammer disponibles en Yammer.
-ms.openlocfilehash: 63d96e638a60fc4533478e28e901cc38c3082cf3
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+ms.openlocfilehash: ba5b499972f6b4c6e13d0ce08ca60214ed2241de
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45132964"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653592"
 ---
 # <a name="yammer-platform-features"></a>Características de plataforma de Yammer
 
 A continuación se describen las características de plataforma de Yammer disponibles en Yammer.
  
-## <a name="activity-stream-api"></a>API de flujo de actividades
+## <a name="activity-stream-api"></a>API de secuencia de actividades
 
 Integre las aplicaciones empresariales existentes agregando datos al gráfico social. Fomente la detección de las actividades en las aplicaciones empresariales existentes.
   
 ## <a name="browser-extension"></a>Extensión del explorador
 
-Agrega una ficha Yammer al menú del explorador y le permite compartir rápidamente cualquier página web que esté viendo seleccionando el icono de Yammer, eligiendo el grupo en el que desea publicar el mensaje y compartiendo sus propios comentarios con un vínculo a la página. La extensión también le notifica si hay una conversación de Yammer existente sobre la página. 
+Agrega una pestaña Yammer al menú del explorador y te permite compartir rápidamente cualquier página web que estés viendo seleccionando el icono de Yammer, eligiendo el grupo en el que quieres publicar el mensaje y compartiendo tus propios comentarios con un vínculo a la página. La extensión también le notifica si existe una conversación de Yammer sobre la página. 
 
 ## <a name="embeddable-feeds"></a>Fuentes incrustables
 
 Un simple fragmento de código le permitirá integrar cualquier fuente de Yammer en su aplicación empresarial.
   
-## <a name="like-and-follow-buttons"></a>Botones me gusta y seguir
+## <a name="like-and-follow-buttons"></a>Botones Me gusta y Seguir
 
 Agregue los botones Me gusta y Seguir a sus aplicaciones empresariales para que los empleados puedan interactuar con objetos externos a Yammer.
   
-## <a name="yammer-connect-login"></a>Inicio de sesión de Yammer Connect
+## <a name="yammer-connect-login"></a>Inicio de sesión de Yammer connect
 
-Agregue el botón de inicio de sesión a sus aplicaciones empresariales para que los usuarios puedan registrarse e iniciar sesión fácilmente con sus cuentas de Yammer.
+Agregue el botón Inicio de sesión a las aplicaciones empresariales para que los usuarios puedan registrarse e iniciar sesión fácilmente con sus cuentas de Yammer.
 
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Yammer Service Description](yammer-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Yammer](yammer-service-description.md).
   
 

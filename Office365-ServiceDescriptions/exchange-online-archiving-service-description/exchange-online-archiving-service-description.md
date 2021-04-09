@@ -2,6 +2,7 @@
 title: Descripción del servicio de Archivado de Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 21ebd4bb-7d88-489f-a8aa-376e2536900c
 description: Lea este artículo para obtener información sobre Microsoft Exchange Online archivado.
-ms.openlocfilehash: 374076fa79ca021d75ebd2375511579be5ae49dc
-ms.sourcegitcommit: ec02d469f5815efa65bdb4f17bd4a6f89af13d3a
+ms.openlocfilehash: 1dcd594017f4699bbccdd29c109269bc9dea7875
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51215773"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653082"
 ---
 # <a name="exchange-online-archiving-service-description"></a>Descripción del servicio de Archivado de Exchange Online
 
@@ -39,7 +40,7 @@ Para obtener información detallada del plan sobre las suscripciones que permite
 
 Archivado de Exchange Online está disponible a través de los siguientes planes.<br><br>
   
-| Planear | Descripción |
+| Plan | Descripción |
 |:-----|:-----|
 |**Archivado de Exchange Online para Exchange Server** <br/> |Archivo basado en la nube para usuarios con buzones principales en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o posterior).  <br/> Si desea agregar un archivo basado en la nube a un buzón principal que está en un servidor de Exchange local, necesita configurar una implementación híbrida. Para obtener más información acerca de las implementaciones [híbridas, Exchange Server implementaciones híbridas.](/exchange/exchange-hybrid)  <br/> |
 |**Archivado de Exchange Online para Exchange Server (a través de Enterprise CAL Suite)** <br/> |Archivo basado en la nube para usuarios con buzones principales en Exchange Server 2019, Exchange Server 2016, Exchange Server 2013 o Exchange 2010 (SP2 o posterior). Para obtener más información, [vea Licencias de acceso de cliente y Licencias de administración.](https://www.microsoft.com/licensing/product-licensing/client-access-license)  <br/> |

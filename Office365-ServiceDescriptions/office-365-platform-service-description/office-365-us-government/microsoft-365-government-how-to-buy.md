@@ -2,18 +2,19 @@
 title: Cómo comprar Microsoft 365 Administración pública
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general sobre Microsoft 365 Government y se describen las opciones de compra.
-ms.openlocfilehash: e3b859ce2b89af936fcd466e2285bb316942e187
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: b76e77cf4471c8e3ca36af38cec0368e380a6962
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173005"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653452"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government: cómo comprar
 
@@ -89,7 +90,7 @@ Para obtener más información sobre los servicios disponibles en Microsoft 365 
 
 - [Descripción del servicio de Office 365 Government](office-365-us-government.md)
 - [Descripción del servicio Enterprise Mobility + Security for US Government](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender para el punto de conexión para clientes del gobierno de ESTADOS UNIDOS](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Microsoft Defender para punto de conexión para clientes del Gobierno de los EE. UU.](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams for Government: implementaciones de GCC](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams for Government: implementaciones de GCC High](/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams for Government: implementaciones de DoD](/MicrosoftTeams/plan-for-government-dod)
@@ -174,7 +175,7 @@ Vea los siguientes recursos para obtener más información sobre Microsoft 365 G
 
 - [Descripción del servicio de Office 365 Government](office-365-us-government.md)
 - [Descripción del servicio Enterprise Mobility + Security for US Government](/enterprise-mobility-security/solutions/ems-govt-service-description)
-- [Microsoft Defender para el punto de conexión para clientes del gobierno de ESTADOS UNIDOS](/windows/security/threat-protection/microsoft-defender-atp/gov)
+- [Microsoft Defender para punto de conexión para clientes del Gobierno de los EE. UU.](/windows/security/threat-protection/microsoft-defender-atp/gov)
 - [Teams for Government: implementaciones de GCC](/MicrosoftTeams/plan-for-government-gcc)
 - [Teams for Government: implementaciones de GCC High](/MicrosoftTeams/plan-for-government-gcc-high)
 - [Teams for Government: implementaciones de DoD](/MicrosoftTeams/plan-for-government-dod)

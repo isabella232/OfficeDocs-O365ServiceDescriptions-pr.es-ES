@@ -2,6 +2,7 @@
 title: Microsoft 365 Educación
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -9,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Obtenga información sobre las diferencias entre los planes de Microsoft 365 y Office 365 Education.
-ms.openlocfilehash: 42a0aa59d6c3ac3f413f5debfdeb74148a7b7221
-ms.sourcegitcommit: ab82834030929e1583074b3f5b0b27182746fff4
+ms.openlocfilehash: d9cd436fd006aa72f25c10a485881671b6e1dbb5
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50902049"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652593"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Educación
 
@@ -32,7 +33,7 @@ Cada plan de Microsoft 365 Education incluye una serie de servicios individuales
 |Office para la web|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Aplicaciones de Microsoft 365 para empresas|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Exchange Online|Sí<sup>1</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>2</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|Sí<sup>1</sup>|
-|SharePoint en linea|Sí<sup>3</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
+|SharePoint Online|Sí<sup>3</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|Sí<sup>3</sup>|
 |OneDrive para la Empresa|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Microsoft Teams|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Skype Empresarial Online|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|

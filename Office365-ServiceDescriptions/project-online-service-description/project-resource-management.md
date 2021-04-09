@@ -2,6 +2,7 @@
 title: Administración de recursos del proyecto
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -10,19 +11,19 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 51e0cbf6-ac52-4d84-9074-245d70a6695e
-description: Las siguientes características de administración de recursos están disponibles en Project online.
-ms.openlocfilehash: 47f415ca77410d5a8420c6a4fabc9274743a516d
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Las siguientes características de administración de recursos están disponibles en Project Online.
+ms.openlocfilehash: e78321691bae498db92dda3c76343f17a3e0ea1f
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131114"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651210"
 ---
 # <a name="project-resource-management"></a>Administración de recursos del proyecto
 
-Las siguientes características de administración de recursos están disponibles en Project online.
+Las siguientes características de administración de recursos están disponibles en Project Online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea la [Descripción del servicio de Project online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [descripción del servicio de Project Online](project-online-service-description.md).
   
 ## <a name="cost-resources"></a>Recursos de costos
 
@@ -54,6 +55,6 @@ Agregue recursos al proyecto, tales como recursos de trabajo (personas), recurso
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, las opciones independientes y las soluciones locales, consulte [Project online Service Description](project-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea Descripción del servicio [de Project Online](project-online-service-description.md).
   
 

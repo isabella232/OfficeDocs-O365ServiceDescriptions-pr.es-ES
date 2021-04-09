@@ -2,6 +2,7 @@
 title: Flujo de correo
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Para la mayoría de las organizaciones, hospedamos sus buzones y nos encargamos del flujo de correo. Es la configuración más sencilla y significa que Microsoft administra todos los buzones y el filtrado. En cambio, algunas organizaciones necesitan una configuración del flujo de correo más compleja para asegurarse de que cumplen con necesidades normativas o empresariales específicas. Puede obtener información sobre esas opciones aquí.
-ms.openlocfilehash: cc00cd942f3b5b6ad5e919b981879ca44c48cec9
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 0fe7cf2f0e8619bce911457ba634bee41ee4e113
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173655"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51653332"
 ---
 # <a name="mail-flow"></a>Flujo de correo
 

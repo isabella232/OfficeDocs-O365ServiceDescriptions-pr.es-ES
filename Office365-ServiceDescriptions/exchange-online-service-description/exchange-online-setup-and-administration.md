@@ -2,6 +2,7 @@
 title: Administración y configuración de Exchange Online
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: reference
 f1_keywords:
@@ -13,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 80c07748-ac57-4b90-97dd-a2d1115009a6
 description: En este artículo se describen los controles de administración y la compatibilidad que están disponibles para personalizar la configuración de Exchange Online y mantener el entorno de Exchange Online de una organización en funcionamiento y actual. Incluye información sobre las herramientas de administración de autoservicio y las capacidades disponibles para las organizaciones, las responsabilidades de administración de Microsoft y los compromisos de rendimiento, además de las actualizaciones de productos y servicios.
-ms.openlocfilehash: 169752df12564131e4b5fb0f95b94f62273cd5ff
-ms.sourcegitcommit: a2b77dae1341753f5f98c3d3b39d70454c3ab05f
+ms.openlocfilehash: 56d7dbc7e5e6300172d120bbf1464fd2bbf0daf0
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51173675"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51652734"
 ---
 # <a name="exchange-online-setup-and-administration"></a>Administración y configuración de Exchange Online
 

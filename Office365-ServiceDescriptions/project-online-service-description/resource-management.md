@@ -2,23 +2,24 @@
 title: Administración de recursos
 ms.author: office365servicedesc
 author: pamelaar
+manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a16d95d3-61af-4481-9bd2-f20cd02275a9
-description: Las siguientes características de administración de recursos están disponibles en Project online.
-ms.openlocfilehash: fdf0e282c6511e34b426f656b2d4512b90cc8ae9
-ms.sourcegitcommit: d2cd67e52dd646b68bfbfd8a387e70a6da140a62
+description: Las siguientes características de administración de recursos están disponibles en Project Online.
+ms.openlocfilehash: 62b64e672dc9acb1e86415d47cad9c8ead053330
+ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45131144"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "51651092"
 ---
 # <a name="resource-management"></a>Administración de recursos
 
-Las siguientes características de administración de recursos están disponibles en Project online.
+Las siguientes características de administración de recursos están disponibles en Project Online.
   
 ## <a name="approverejectmodify-incoming-resource-engagement-requests"></a>Aprobar, rechazar o modificar solicitudes entrantes de negociación de recursos
 
