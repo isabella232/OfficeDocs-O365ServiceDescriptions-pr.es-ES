@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para Microsoft 365 y los planes independientes.
-ms.openlocfilehash: 08d0f2f69e1f1b096b2dcd2f66cf083fa239a52e
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653412"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767480"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -77,7 +77,7 @@ Un usuario puede pertenecer a 5.000 grupos por sitio (colección de sitios) y ca
 
 ### <a name="managed-metadata"></a>Metadatos administrados
 
-200 000 términos en almacén de términos, 1.000 conjuntos de términos globales, 1.000 grupos.
+1 millón de términos totales, con un total de 2 millones de etiquetas de términos y 1 millón de propiedades de términos (estos límites son para términos globales & términos de nivel de sitio combinados). 1.000 conjuntos de términos globales y 1.000 grupos globales.
 
 ### <a name="overall-site-metadata"></a>Metadatos generales del sitio
 

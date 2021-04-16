@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Obtenga información sobre la disponibilidad del servicio y las características de Microsoft Teams en los planes de Microsoft 365 y Office 365.
-ms.openlocfilehash: 5a57288f068d877ab7dd646be3444cba35957a01
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653572"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767460"
 ---
 # <a name="microsoft-teams-service-description"></a>Descripción del servicio Microsoft Teams
 
@@ -22,6 +22,8 @@ Microsoft Teams es el centro del trabajo en equipo en Microsoft 365. El servicio
 Skype Empresarial Online se retira el 31 de julio [](https://techcommunity.microsoft.com/t5/Microsoft-Teams-Blog/Skype-for-Business-Online-to-Be-Retired-in-2021/ba-p/777833) de 2021, que se anunció el 30 de julio de 2019. Microsoft Teams es un servicio totalmente nuevo, creado para la nube desde cero al aprovechar Azure y otras innovaciones de servicio de Microsoft. Microsoft Teams se basa en grupos de Microsoft 365, Microsoft Graph y con la misma seguridad, cumplimiento y facilidad de administración a nivel empresarial que el resto de Office 365. Teams aprovecha las identidades almacenadas en Azure Active Directory (Azure AD). Estos servicios se entregan desde centros de datos de Microsoft y son accesibles para los usuarios en una amplia variedad de dispositivos desde dentro de una red corporativa o a través de Internet. Para obtener más información, vea los pósteres de soluciones de telefonía y arquitectura de TI de [Microsoft Teams.](/microsoftteams/teams-architecture-solutions-posters)
 
 Esta descripción del servicio detalla las diferencias clave entre los servicios proporcionados en las distintas instalaciones en la nube. Las funcionalidades principales de Microsoft Teams no difieren entre las suscripciones. La disponibilidad de las capacidades de cumplimiento depende del nivel de suscripción. Para obtener más información sobre la seguridad y el cumplimiento de Teams, vea [Seguridad y cumplimiento en Microsoft Teams](/microsoftteams/security-compliance-overview).
+
+Si los usuarios se han migrado completamente en línea, deben tener tanto licencias de equipos como de Skype Empresarial Online para la funcionalidad completa de Teams, incluso si Skype Empresarial Online no se usará.
 
 ## <a name="available-plans"></a>Planes disponibles
 

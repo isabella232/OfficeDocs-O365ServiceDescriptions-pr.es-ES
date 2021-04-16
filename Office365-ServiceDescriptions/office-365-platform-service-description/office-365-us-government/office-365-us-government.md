@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de Estados Unidos, Microsoft ha creado planes de Office 365 US Government (u Office 365 Government). En este artículo se proporciona información general sobre las características específicas de los entornos de Office 365 Government US.
-ms.openlocfilehash: c16d4d48788ae4e1fa579f3aa030a1f45bfc2f4a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 9ba94e64ab8c4be1c3fc7987cb01230b833819f4
+ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653162"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51767490"
 ---
 # <a name="office-365-government"></a>Office 365 Administración Pública
 
@@ -255,7 +255,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |**Confianza**|**Office 365 Administración Pública G1**|**Office 365 Administración Pública G3**|**Office 365 Administración Pública G5**|**Office 365 Government F3**|
 |**[Privacidad, seguridad y transparencia](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |Gobierno de datos avanzado|No<sup>12</sup>|No<sup>12</sup>|Sí|No<sup>12</sup>|
-|Cloud App Security|No<sup>12, 15, 19</sup>|No<sup>12, 15, 19</sup>|Sí<sup>15, 19</sup>|No<sup>12, 15, 19</sup>|
+|Cloud App Security|No<sup>12, 19</sup>|No<sup>12, 19</sup>|Sí<sup>19</sup>|No<sup>12, 19</sup>|
 |Microsoft Defender para Office 365|No<sup>12, 18</sup>|No<sup>12, 18</sup>|Sí<sup>18</sup>|No<sup>12, 18</sup>|
 |Caja de seguridad del cliente|No<sup>12</sup>|No<sup>12</sup>|Sí|No<sup>12</sup>|
 |eDiscovery avanzado|No<sup>12</sup>|No<sup>12</sup>|Sí|No<sup>12</sup>|
