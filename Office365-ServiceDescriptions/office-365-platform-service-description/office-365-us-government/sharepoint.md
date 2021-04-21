@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Obtenga información sobre la disponibilidad de características de SharePoint para los clientes en la nube del gobierno de Estados Unidos.
-ms.openlocfilehash: 8688c80ee2214ad77f4c27fa79dd38dca3c6cbb9
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653152"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900780"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>Entornos gubernamentales de SharePoint para ESTADOS UNIDOS
 
@@ -75,6 +75,7 @@ Estas son las diferencias entre los sitios y las características de contenido d
 - La funcionalidad de Graph en SharePoint Online para GCC High está deshabilitada actualmente. Es posible que cualquier servicio que se base en Microsoft Graph no esté disponible actualmente
 - Las características que dependen de las conexiones a servicios de Internet, como la pestaña imágenes de stock, no funcionarán como se esperaba
 - Las notificaciones de actividad de archivo y sitio no están disponibles
+- El elemento web de noticias solo extraerá noticias del sitio actual. Las noticias de sitios seleccionados o paquetes acumulativos de noticias centrales de sitios asociados no están disponibles para los clientes de GCC High y DoD
 
 ## <a name="search-features"></a>Características de búsqueda
 

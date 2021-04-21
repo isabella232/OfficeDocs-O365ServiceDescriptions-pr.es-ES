@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones de licencia para el cumplimiento de Microsoft 365 para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: 755fc9701a270f7c1f5651643f01c5b1937bf5dc
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: ed78acd8cf94b03b36fbc42b13526ac78a759d0d
+ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652664"
+ms.lasthandoff: 04/20/2021
+ms.locfileid: "51900770"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Instrucciones de licencias de Microsoft 365 para el cumplimiento de &amp; la seguridad
 
@@ -26,7 +26,7 @@ Para los fines de este artículo, un servicio de nivel de inquilino es un servic
 > [!NOTE]
 > Algunos servicios de inquilinos no son actualmente capaces de limitar las ventajas para usuarios específicos. Se deben realizar esfuerzos para limitar las ventajas del servicio a los usuarios con licencia. Esto ayudará a evitar posibles interrupciones del servicio en la organización una vez que las capacidades de destino estén disponibles.
 
-Para ver las opciones para otorgar licencias a los usuarios para que se beneficien de las características de cumplimiento de Microsoft 365 a partir del 1 de abril de 2020, descargue la comparación detallada de licencias de cumplimiento de Microsoft 365. [(PDF)](https://www.microsoft.com/download/details.aspx?id=102403)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=102427)
+Para ver las opciones para otorgar licencias a los usuarios para que se beneficien de las características de cumplimiento de Microsoft 365, descargue la Comparación detallada de licencias de cumplimiento de Microsoft 365. [(PDF)](https://www.microsoft.com/download/details.aspx?id=103010)  |  [(Excel)](https://www.microsoft.com/download/details.aspx?id=103006)
 
 ## <a name="azure-active-directory-identity-protection"></a>Azure Active Directory Identity Protection
 
@@ -92,7 +92,7 @@ De forma predeterminada, las características de Microsoft Defender para Identit
 
 Los servicios de Microsoft Defender for Identity actualmente no son capaces de limitar las capacidades para usuarios específicos. Debe licenciar todos los usuarios que desea beneficiar.
 
-## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
 
 Microsoft Defender para Office 365 (anteriormente Protección contra amenazas avanzada de Office 365) ayuda a proteger a las organizaciones contra ataques sofisticados como phishing y malware de día cero. Microsoft Defender para Office 365 también proporciona información útil al correlacionar las señales de una amplia gama de datos para ayudar a identificar, priorizar y proporcionar recomendaciones sobre cómo abordar posibles amenazas.
 
@@ -218,7 +218,7 @@ De forma predeterminada, las características de Microsoft Defender para endpoin
 
 Los administradores de Microsoft Defender para puntos de conexión pueden usar el control de acceso basado en roles (RBAC) para crear roles y grupos dentro del equipo de operaciones de seguridad para conceder acceso adecuado al Centro de seguridad de Microsoft Defender. Para obtener más información, vea [Manage portal access using role-based access control](/windows/security/threat-protection/microsoft-defender-atp/rbac).
 
-## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Análisis de clasificación de datos de Microsoft 365: Explorador de actividades de contenido de información &amp; general  
+## <a name="microsoft-365-data-classification-analytics-overview-content-amp-activity-explorer"></a>Análisis de clasificación de datos de Microsoft 365: Explorador de actividades de contenido de información &amp; general
 
 Las capacidades analíticas de clasificación de datos están disponibles en la experiencia del Centro de cumplimiento de Microsoft 365. Información general muestra las ubicaciones de contenido digital y los tipos y etiquetas de información confidencial más comunes presentes. El Explorador de contenido proporciona visibilidad sobre la cantidad y los tipos de datos confidenciales y permite a los usuarios filtrar por etiqueta o tipo de confidencialidad para obtener una vista detallada de las ubicaciones donde se almacenan los datos confidenciales. El Explorador de actividades muestra actividades relacionadas con etiquetas y datos confidenciales, como degradaciones de etiquetas o uso compartido externo que podrían exponer el contenido a riesgos.
 
