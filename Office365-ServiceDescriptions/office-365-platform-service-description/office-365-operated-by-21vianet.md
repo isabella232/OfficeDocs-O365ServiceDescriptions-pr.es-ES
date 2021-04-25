@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 operado por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: d08e68877caa6281a050c39a67755f626919cb67
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: be29bc918e8db388e51d44e39dab88018706bbda
+ms.sourcegitcommit: 1bdc4b442c34cfd291872760d5b7a01b207cd716
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653212"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52001796"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -67,7 +67,7 @@ El Centro de cumplimiento de Microsoft 365 proporciona un acceso fácil a las he
 
 - Prevención de pérdida de datos (DLP)
 - Retención
-- Auditoría
+- Auditoría con datos de Azure Active Directory y Exchange
 - Microsoft Information Protection (MIP) y etiquetas de confidencialidad para clientes de Office y Outlook con el cliente de etiquetas unificadaSIP
 
 > [!NOTE]
@@ -386,7 +386,7 @@ En la siguiente tabla se enumeran los servicios de Exchange Online que están di
 |Respuestas de fuera de la oficina|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Uso compartido de calendarios|Sí<sup>12</sup>|Sí<sup>12</sup>|Sí<sup>12</sup>|Sí<sup>12</sup>|Sí<sup>12</sup>|Sí<sup>12</sup>|Sí<sup>12</sup>|
 |**[Herramientas de resolución de problemas y características de informes](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)**|**Office 365 Empresa Essentials operado por 21Vianet**|**Office 365 Empresa operado por 21Vianet**|**Office 365 Empresa Premium operado por 21Vianet**|**Office 365 A1 operado por 21Vianet**|**Office 365 Enterprise E1 operado por 21Vianet**|**Office 365 Enterprise E3 operado por 21Vianet**|**Office 365 Enterprise F3 operado por 21Vianet**|
-|Informes del Centro de administración de Microsoft 365|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Informes del Centro de administración de Microsoft 365|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Libro de informes de Excel|No|Sí|No|No|Sí|Sí|Sí|
 |Informes de servicios web|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Message trace|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -507,7 +507,7 @@ En la siguiente tabla se enumeran las características de Exchange Online Protec
 |[Incluir en una lista segura la dirección IP de un socio](../exchange-online-protection-service-description/mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sí|Sí|
 |[Enrutamiento de correo condicional](../exchange-online-protection-service-description/mail-flow-eop.md#conditional-mail-routing)|Sí|Sí|
 |[Enrutamiento de correo híbrido](../exchange-online-protection-service-description/mail-flow-eop.md#hybrid-mail-routing)|No|Sí|
-|[Informes del Centro de administración de Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |No<sup>8</sup>|Sí<sup>8, 9</sup>|
+|[Informes del Centro de administración de Microsoft 365](../exchange-online-protection-service-description/reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |No<sup>8</sup>|Sí<sup>8, 9</sup>|
 |[Creación de informes mediante servicios web](../exchange-online-protection-service-description/reporting-and-message-trace.md#reporting-using-web-services)|No|Sí|
 |[Seguimiento de mensajes](../exchange-online-protection-service-description/reporting-and-message-trace.md#message-trace)|Sí<sup>12</sup>|Sí<sup>12</sup>|
 |[Acceso al Centro de administración de Microsoft 365](../exchange-online-protection-service-description/administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)<br/> |Sí|Sí|
