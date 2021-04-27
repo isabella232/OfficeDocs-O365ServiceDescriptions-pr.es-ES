@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Las características enumeradas en este tema son una colección de herramientas basadas en web que le ayudan a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
-ms.openlocfilehash: f304c2ae023296bad80080034cda88589c23d803
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
+ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653182"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "52023575"
 ---
 # <a name="microsoft-365-suite-features"></a>Características del conjunto de aplicaciones de Microsoft 365
 
@@ -99,7 +99,7 @@ Office 365 Video es un destino seguro y de toda la empresa donde puede cargar, c
 
 Bloc de notas de clase forma parte de OneNote y está disponible para Office 365 Educación y Office 365 E5 Educación. Cada bloc de notas incluye una biblioteca de contenido para que los profesores compartan contenido del curso, un espacio de colaboración donde los profesores y los alumnos pueden trabajar juntos, y un bloc de notas privado para cada alumno. Después de crear un bloc de notas de clase, los profesores y los alumnos pueden usar la aplicación de OneNote para tener acceso al bloc desde cualquier dispositivo.
 
-## <a name="to-do"></a>Tareas pendientes
+## <a name="to-do"></a>To Do
 
 Microsoft To Do es una aplicación de administración de tareas que permite a los clientes planear su día y administrar sus tareas , en todo el trabajo y la vida, desde cualquier dispositivo.
 
@@ -111,6 +111,18 @@ Con Microsoft To Do, los clientes pueden:
 * Compartir listas y asignar tareas con compañeros, amigos y familia
 
 Para obtener más información, vea: [To Do](https://to-do.microsoft.com/)
+
+## <a name="windows-update-for-business-deployment"></a>Implementación de Windows Update para empresas  
+
+El servicio de implementación de Windows Update para empresas proporciona control sobre la aprobación, programación y protección del contenido entregado por Windows Update. Está diseñado para funcionar con las directivas existentes de Windows Update para empresas para proporcionar un control enriquecido sobre las actualizaciones individuales. Las funcionalidades proporcionadas por el servicio de implementación incluyen:
+
+* Programar implementaciones de actualización de características para que comiencen en una fecha específica
+* Implementaciones de fase durante un período de días o semanas mediante expresiones enriquecciones
+* Omitir directivas preconfiguradas de Windows Update para empresas para implementar inmediatamente una actualización de seguridad en toda la organización
+* Garantizar la cobertura de hardware y software en su organización a través de implementaciones adaptadas a su población de dispositivos única
+* Identificar y pausar automáticamente las implementaciones en dispositivos, que probablemente se verán afectadas por una [retención de protección](/windows/deployment/update/safeguard-holds)
+
+Estas funcionalidades están disponibles a través de las API de Microsoft Graph y la integración con Microsoft Endpoint Manager. Para obtener más información, consulta Introducción al servicio de implementación de [Windows Update para empresas.](https://aka.ms/wufb/deployment-service)
 
 ## <a name="whiteboard"></a>Whiteboard
 
