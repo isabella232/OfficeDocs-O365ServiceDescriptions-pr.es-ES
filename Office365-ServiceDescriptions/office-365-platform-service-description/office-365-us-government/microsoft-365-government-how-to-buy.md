@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general sobre Microsoft 365 Government y se describen las opciones de compra.
-ms.openlocfilehash: b3b7e93a0595c0b62886fe558d696cbab44483c9
-ms.sourcegitcommit: 712be039cdfe8501891526f9c834105960f498ce
+ms.openlocfilehash: 0562b819e85296b56ab6276c28ad4af679c4ae50
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "51874980"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074471"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Government: cómo comprar
 
@@ -104,7 +104,7 @@ Para obtener más información sobre los servicios disponibles en Microsoft 365 
 
 En la tabla siguiente se muestran las opciones que pueden satisfacer las necesidades de cada segmento.<br><br> 
 
-| Item | GCC | GCC High | DoD |
+| Elemento | GCC | GCC High | DoD |
 |:-----|:-----|:-----|:-----|
 |**SKU** |Gov for government, GOVCON for commercial |GCC-High |DOD | 
 |**Canal** |EA (LSP), AOS-G, MPSA, Web Direct, CSP |EA (LSP), AOS-G |EA |
@@ -113,7 +113,7 @@ En la tabla siguiente se muestran las opciones que pueden satisfacer las necesid
 
 Siga estos pasos para comprar licencias de Microsoft 365 Government:
 
-1. Complete y envíe el formulario para [GCC](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) o [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) para validar la elegibilidad de su organización.
+1. Complete y envíe el formulario para [GCC](https://www.microsoft.com/microsoft-365/government/eligibility-validation) o [GCC-High](https://azure.microsoft.com/global-infrastructure/government/request/?ReqType=General) para validar la elegibilidad de su organización.
 2. Trabaje con el equipo de la cuenta Microsoft o con un partner cualificado para realizar un pedido. Los clientes solo pueden comprar licencias de Microsoft 365 para us government a través de socios selectos.
 
 **LSP GCC y GCC High (+500 puestos)**
@@ -166,7 +166,7 @@ Siga estos pasos para comprar licencias de Microsoft 365 Government:
 ## <a name="what-trials-are-available"></a>¿Qué pruebas están disponibles?
 
 - [EMS.](https://www.microsoft.com/cloud-platform/enterprise-mobility-security) Los clientes pueden seleccionar el botón Probar ahora en la parte superior derecha de la página EMS para pasar por un proceso de registro cerrado en el portal de comercio de Office, que los enruta al portal de Azure Active Directory (AAD).
-- [Office 365.](https://aka.ms/gcctrial) Solo hay disponible una prueba gratuita de un mes para GCC.  
+- [Office 365](https://aka.ms/gcctrial) Solo hay disponible una prueba gratuita de un mes para GCC.  
 - Microsoft no ofrece pruebas de Office 365 GCC a clientes comerciales y no hay pruebas de GCC High o DoD.
 
 ## <a name="where-can-i-learn-more"></a>¿Dónde se obtiene más información?

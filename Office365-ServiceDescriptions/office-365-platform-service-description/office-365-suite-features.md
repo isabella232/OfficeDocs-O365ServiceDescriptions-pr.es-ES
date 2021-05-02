@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Las características enumeradas en este tema son una colección de herramientas basadas en web que le ayudan a colaborar y comunicarse de forma segura en muchos dispositivos y varios servicios de Office 365. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
-ms.openlocfilehash: 21506d9eb46ced4a5d55300374a872cff28fd0e0
-ms.sourcegitcommit: 683fe4d94cf244651c5716c3fb760b3190843a94
+ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "52023575"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074481"
 ---
 # <a name="microsoft-365-suite-features"></a>Características del conjunto de aplicaciones de Microsoft 365
 
@@ -74,7 +74,7 @@ Microsoft Stream es un servicio empresarial de vídeo que las personas de la org
 
 Microsoft Sway es una aplicación digital profesional para contar historias diseñada para la empresa, que usted y sus compañeros pueden usar para expresar ideas mediante un lienzo interactivo basado en web. El motor de diseño integrado de Microsoft Sway le ayuda a producir informes, presentaciones y presentaciones profesionales y visualmente atractivos, entre otros, sin necesidad de un formato amplio o formación adicional. También puede modificar los resultados para lograr la apariencia única que busca. Microsoft Sway hace que la creación tenga un aspecto excelente en cualquier explorador de cualquier pantalla y se puede compartir con compañeros y clientes mediante el envío de un vínculo. Microsoft Sway le permite buscar y reunir todo tipo de contenido sin salir de la aplicación, por lo que puede arrastrar y colocar imágenes, texto, vídeos y gráficos en el lienzo. Para más información, vea [Sway](https://sway.com). Microsoft Sway no está disponible todavía en [Office 365 Germany](office-365-germany.md).
   
-## <a name="microsoft-365-apps-for-enterprise"></a>Aplicaciones de Microsoft 365 para empresas
+## <a name="microsoft-365-apps-for-enterprise"></a>Microsoft 365 Apps para empresas
 
 Aplicaciones de Microsoft 365 para empresas es el conjunto de aplicaciones de escritorio siempre actualizado que ya conoce (incluidos Word, PowerPoint, Excel, Outlook y Teams) disponibles como suscripción. Aplicaciones de Microsoft 365 para empresas incluye funcionalidades inteligentes exclusivas como [**Ideas en Excel,**](https://go.microsoft.com/fwlink/p/?linkid=2109915)Investigador en [**Word,**](https://go.microsoft.com/fwlink/p/?linkid=2109916)colaboración en tiempo [**real,**](https://go.microsoft.com/fwlink/p/?linkid=2109917)Teams como el centro para el trabajo en equipo y características de seguridad avanzadas. Como una licencia basada en usuarios, puede implementar Office en hasta cinco equipos PC o Mac, cinco tabletas y cinco dispositivos móviles. Con 1 TB de almacenamiento en la nube de OneDrive, puede acceder y colaborar en los archivos desde cualquier lugar.
 
@@ -112,7 +112,7 @@ Con Microsoft To Do, los clientes pueden:
 
 Para obtener más información, vea: [To Do](https://to-do.microsoft.com/)
 
-## <a name="windows-update-for-business-deployment"></a>Implementación de Windows Update para empresas  
+## <a name="windows-update-for-business-deployment-service"></a>Servicio de implementación de Windows Update para empresas 
 
 El servicio de implementación de Windows Update para empresas proporciona control sobre la aprobación, programación y protección del contenido entregado por Windows Update. Está diseñado para funcionar con las directivas existentes de Windows Update para empresas para proporcionar un control enriquecido sobre las actualizaciones individuales. Las funcionalidades proporcionadas por el servicio de implementación incluyen:
 

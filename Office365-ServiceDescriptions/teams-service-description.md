@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Obtenga información sobre la disponibilidad del servicio y las características de Microsoft Teams en los planes de Microsoft 365 y Office 365.
-ms.openlocfilehash: 8828199a8af848dcd2bf6945b111e0fd082c7a95
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 721c4bd99fd8f81e471ea79e6725c2d6c53d1791
+ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767460"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "52074491"
 ---
 # <a name="microsoft-teams-service-description"></a>Descripción del servicio Microsoft Teams
 
@@ -59,7 +59,7 @@ Para obtener la lista más actualizada y completa de las características de Tea
 <sup>1</sup> Microsoft Teams en GCC-High y DOD admiten 2500 miembros en un equipo individual.<br/>
 <sup>2</sup> Microsoft Planner no está disponible actualmente para acceder en canales privados.<br/>
 <sup>3</sup> El enrutamiento directo debe configurarse para que la voz y la audioconferencia de Microsoft Teams funcionen en GCCH y DoD.<br/>
-<sup>4</sup> Las aplicaciones de terceros y la publicación de aplicaciones no están disponibles en estas nubes en este momento.<br/>
+<sup>4</sup> Las aplicaciones de terceros y la publicación de aplicaciones no están disponibles en estas nubes en este momento. Los conectores no se admiten en GCCH y DOD.<br/>
 <sup>5</sup> Live Events no está disponible en GCC-High o DOD en este momento.<br/>
 
 ### <a name="cloud-voice-features"></a>Características de voz en la nube
@@ -68,7 +68,7 @@ Para las audioconferencias, la organización debe comprar y asignar una licencia
 
 ### <a name="live-events"></a>Eventos en directo
 
-Esta oferta en Office 365 reemplaza a la difusión de reunión de Skype retirada. Las funcionalidades de eventos en directo están disponibles para los planes de licencias, tal como se detalla en el servicio Stream. Para obtener más información, consulte la introducción a [las licencias de Microsoft Stream](/stream/license-overview). Se puede acceder al servicio de eventos en directo a través de Stream, Yammer o Microsoft Teams. Para obtener más información sobre las capacidades de eventos en directo, vea [Live events across Microsoft 365 in Yammer, Microsoft Teams y Microsoft Stream](/stream/live-event-m365).
+Esta oferta en Office 365 reemplaza a la difusión de reunión de Skype retirada. Las funcionalidades de eventos en directo están disponibles para los planes de licencias, tal como se detalla en el servicio Stream. Para obtener más información, consulte la introducción a [las licencias de Microsoft Stream](/stream/license-overview). Se puede acceder al servicio de eventos en directo a través de Stream, Yammer o Microsoft Teams. Para obtener más información sobre las capacidades de eventos en directo, vea [Live events across Microsoft 365 in Yammer, Microsoft Teams y Microsoft Stream](/stream/live-event-m365). Para obtener más información sobre la planeación de eventos en directo, incluidos los requisitos de licencia, vea [Plan for live events in Microsoft Teams](/microsoftteams/teams-live-events/plan-for-teams-live-events).
 
 ## <a name="learn-more"></a>Más información
 
