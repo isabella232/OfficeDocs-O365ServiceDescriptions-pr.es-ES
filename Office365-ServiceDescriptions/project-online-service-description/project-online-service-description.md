@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y el trabajo diario. Entregado a través de Office 365, Project Online proporciona potentes capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de cartera de proyectos, desde casi cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: cd38d462c714191576328f50e38b6fe7812cdbba
-ms.sourcegitcommit: a64ecf7fa2c27e8e8d2670ef6f10812dd2b0c2b1
+ms.openlocfilehash: 7758e35acee798463fba6168624c9b0d7e730f99
+ms.sourcegitcommit: 073ce0a092023eb4727274f22ceb8ca2b806df58
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "52247978"
+ms.lasthandoff: 05/07/2021
+ms.locfileid: "52266370"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -122,6 +122,10 @@ Las características enumeradas en esta sección interactúan solo con los datos
 |Personalizar vistas y formularios <sup>4</sup> | Personalice solo las vistas y los formularios en la aplicación Project lista para usar. | Vista solo | Sí | Sí | Sí |
 |Usar columnas personalizadas | Ver, agregar, actualizar o eliminar datos en una columna agregada a una tabla. | Vista solo | Vista solo | Sí | Sí |
 |Usar tablas personalizadas <sup>5</sup> | Cree y defina tablas personalizadas para contener datos adicionales que necesite para sus proyectos, carteras, etc. | No | Vista solo | Sí | Sí |
+|**Power Automate flujos de trabajo y flujos de proceso de negocio** <sup>7</sup> ||||||
+| | Defina y use flujos Power Automate nube que usan Project datos, incluidas las tablas y columnas personalizadas. | No | Sí | Sí | Sí |
+| | Defina Power Automate de procesos empresariales que usan Project datos, incluidas las tablas y columnas personalizadas. | No | No | Sí | Sí |
+| | Use Power Automate procesos empresariales que usen Project datos. | No | Sí | Sí | Sí |
 |**Administración de usuarios y seguridad**||||||
 |Office Grupos modernos | Cree un equipo de proyecto con el que colaborar y configure fácilmente una colección de recursos para que los miembros del equipo puedan compartir. | Sí | Sí | Sí | Sí |
 |**Aplicaciones de terceros**||||||
@@ -199,7 +203,14 @@ Las características enumeradas en esta sección interactúan solo con los datos
 <sup>4</sup> La creación y el uso de Power Apps independientes más allá de la aplicación de Project lista para usar que tienen acceso Project para los datos de cliente web o Project Online requiere una suscripción Power Apps independiente.</br>
 <sup>5</sup> Limitado a 5 tablas personalizadas.</br>
 <sup>6</sup> Project Online licencias para usuarios externos sigue la misma directiva que la de los usuarios internos. Cualquier interacción en un sitio Project Online requiere una Project Plan 3 o Project Plan 5 suscripción.</br>
-<sup>7</sup> Automatizar e integrar procesos empresariales con Power Automate con Project para los datos web requiere una suscripción Power Automate y una Project Plan 3 o Project Plan 5 suscripción.</br>
+<sup>7</sup> Power Automate uso dentro de Project se limita al contexto de la Project aplicación. Esto significa que, tanto para desencadenadores como para acciones, los derechos de flujo incluidos con Project pueden:
+
+- Conectar a cualquier origen de datos dentro de los derechos de uso de la Project aplicación:
+  - Orígenes de datos disponibles a través de conectores estándar
+  - Project datos a través del conector de Microsoft Dataverse
+- Se desencadena directamente desde la aplicación Project (mediante desencadenador o acción integrados)
+
+Si el flujo está aislado y no tiene nada que ver con la aplicación Project, deberá comprarse una licencia de plataforma.</br>
 <sup>8</sup> Los usuarios con una Project Plan 3 o Project Plan 5 pueden enviar solicitudes de participación de recursos. No pueden revisar, cumplir ni aprobar solicitudes de participación de recursos.</br>
 <sup>9</sup> Los usuarios con una suscripción Project Plan 5 pueden revisar, cumplir y aprobar solicitudes de participación de recursos.</br>
 <sup>10</sup> Active Directory requiere una suscripción independiente. </br>
