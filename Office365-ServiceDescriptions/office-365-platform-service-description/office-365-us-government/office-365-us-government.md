@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de Estados Unidos, Microsoft ha creado planes de Office 365 Administración Pública para Estados Unidos (o Office 365 Administración Pública). En este artículo se proporciona información general sobre las características específicas de Office 365 Administración Pública entornos de Estados Unidos.
-ms.openlocfilehash: a1c5ed6e166ec3a893c716e5de18e9bc81a3865f
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545946"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625647"
 ---
 # <a name="office-365-government"></a>Office 365 Administración Pública
 
@@ -240,7 +240,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Explorador utilizado|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
 |Sistema operativo utilizado|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
 |Crear sus propios informes con Microsoft 365 web de informes|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
-|**[Actualizaciones de servicio](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Administración Pública G1**|**Office 365 Administración Pública G3**|**Office 365 Administración Pública G5**|**Office 365 Administración Pública F3**|
+|**[Actualizaciones del servicio](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Administración Pública G1**|**Office 365 Administración Pública G3**|**Office 365 Administración Pública G5**|**Office 365 Administración Pública F3**|
 |Actualizaciones habituales para todos los clientes|Sí|Sí|Sí|Sí|
 |Las notificaciones se envían a Centro de mensajes cuando la acción es necesaria|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
 |Roadmap.office.com para algún servicio actualizaciones|No<sup>10, 13</sup>|No<sup>10, 13</sup>|No<sup>10, 13</sup>|No<sup>10, 13</sup>|
@@ -413,7 +413,9 @@ Las siguientes Office aplicaciones están disponibles en las nubes gubernamental
 |Modelos 3D y animaciones incrustadas en 3D|No|No|No|
 |Gráficos: mapas|No|No|No|
 |Tinta digital inteligente|No|No|No|
-|Títulos y subtítulos en directo en PowerPoint|No|No|No|
+|Títulos y subtítulos en directo en PowerPoint|Sí|Sí|No|
+|Presentaciones en directo|No|No|No|
+|Lector inmersivo|No|No|No|
 |Moderador Coach|No|No|No|
 |Shared with Me|No|No|No|
 |Skype Empresarial integración con el uso compartido|No|No|No|
