@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Consulte las características de OneDrive disponibles en cada plan.
-ms.openlocfilehash: f6433dce28ab4f33bd072a40a1c83ad0decc9795
-ms.sourcegitcommit: 453d8175e2f05146bcf5d1f124a4c8eb1c2bf7c2
+ms.openlocfilehash: 5668b79696d94c18d90cba41d3f3a68b8cbe392c
+ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/07/2021
-ms.locfileid: "52264798"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "52625627"
 ---
 # <a name="onedrive-service-description"></a>Descripción del servicio OneDrive
 
@@ -38,19 +38,18 @@ Para revisar los requisitos para la aplicación de sincronización de OneDrive y
   
 ## <a name="storage-space-per-user"></a>Espacio de almacenamiento por usuario
 
-**2 GB**
+**2 GB**
 
 - Office 365 Enterprise F3
-- Microsoft 365 F1
+- Microsoft 365 F1
 - Microsoft 365 F3
 
 **1 TB**
 
 - Microsoft 365 Empresa Básico
-- Aplicaciones de Microsoft 365 para negocios
+- Aplicaciones de Microsoft 365 para negocios
 - Microsoft 365 Empresa Estándar
-- Aplicaciones de Microsoft 365 para empresas
-- Office 365 A1
+- Aplicaciones de Microsoft 365 para empresas
 - Office 365 Enterprise E1
 - Office 365 Administración Pública G1
 - Microsoft 365 Empresa Básico para organizaciones sin ánimo de lucro
@@ -66,6 +65,7 @@ Para revisar los requisitos para la aplicación de sincronización de OneDrive y
 
 - Office 365 Enterprise E3
 - Office 365 Enterprise E5
+- Office 365 A1
 - Office 365 A3
 - Office 365 A5
 - Office 365 Administración Pública de EE. UU. G3
@@ -86,7 +86,7 @@ Para revisar los requisitos para la aplicación de sincronización de OneDrive y
 > [!NOTE]
 > Debe asignar como mínimo una licencia para un usuario antes de aumentar el espacio de almacenamiento predeterminado de OneDrive. 
   
-Cuando se necesita almacenamiento en la nube para usuarios individuales, más allá de los 5 TB iniciales, los administradores pueden [abrir un caso de soporte técnico de Microsoft](/microsoft-365/admin/contact-support-for-business-products) para solicitarlo. El almacenamiento adicional en la nube se concederá en los siguientes casos: 
+Si necesita más almacenamiento en la nube de los 5 TB iniciales para usuarios individuales, los administradores pueden [abrir un caso con el soporte técnico de Microsoft](/microsoft-365/admin/contact-support-for-business-products) para solicitarlo. El almacenamiento en la nube adicional se concederá en los siguientes casos: 
   
 - Cuando un usuario haya llenado los 5 TB de almacenamiento de OneDrive como mínimo al 90 % de su capacidad, Microsoft aumentará el espacio de almacenamiento predeterminado en OneDrive hasta 25 TB por usuario (si quieren, los administradores pueden establecer un límite inferior por usuario). 
     
@@ -135,13 +135,13 @@ A menos que se indique lo contrario, las características siguientes están disp
 
 - [Solicitudes de acceso](https://support.office.com/article/94B26E0B-2822-49D4-929A-8455698654B3) (SharePoint)
 - [Vínculos de "cualquiera"](/Office365/Enterprise/best-practices-anonymous-sharing) (que se pueden establecer para requerir expiración) 
-- [@menciones en los comentarios](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Necesita un plan que incluya Office 365 para la web o las aplicaciones de escritorio de Office 365.
+- [@Menciones en comentarios](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd#ID0EAADAAA=Windows). Necesita un plan que incluya Office 365 para la Web o las aplicaciones de escritorio de Office 365.
 - [Solicitudes de archivo](https://support.office.com/article/f54aa7f8-2589-4421-b351-d415fc3b83af)
 - Administrar el vínculo para compartir predeterminado ([en el nivel de la organización](/sharepoint/turn-external-sharing-on-or-off#file-and-folder-links) y [por sitio](/sharepoint/change-default-sharing-link))
 - Administrar el uso compartido externo ([en el nivel de organización](/sharepoint/turn-external-sharing-on-or-off) y [por sitio](/sharepoint/change-external-sharing-site) o [OneDrive](/onedrive/user-external-sharing-settings))
 - [Administrar permisos para elementos compartidos](https://support.office.com/article/0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 - [Integración con Microsoft Teams](/MicrosoftTeams/sharepoint-onedrive-interact) para archivos enviados en chats. Requiere una suscripción que incluya Office 365 y requiere que el usuario tenga una licencia para Teams.
-- [Archivos adjuntos modernos](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC) Necesita un plan que incluya Outlook en la Web o la aplicación de escritorio de Outlook.
+- [Datos adjuntos modernos](https://support.office.com/article/BDFAFEF5-792A-42B1-9A7B-84512D7DE7FC). Necesita un plan que incluya Outlook en la Web o la aplicación de escritorio de Outlook.
 - [Restricción del uso compartido por dominio](/sharepoint/restricted-domains-sharing) en el nivel de la organización o del sitio
 - [Compartir informes](/sharepoint/sharing-reports)
 - [Códigos de verificación](/sharepoint/external-sharing-overview#what-happens-when-users-share)
