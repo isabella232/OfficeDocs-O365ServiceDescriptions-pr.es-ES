@@ -11,31 +11,31 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: e04ddc56-d15a-44b7-91cd-1895d6b9ec68
-description: Office para la web (anteriormente Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador web. Office para la web facilita el trabajo y el uso compartido de archivos de Office desde cualquier lugar con una conexión a Internet, desde prácticamente cualquier dispositivo. Los clientes de Microsoft 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos sobre la marcha.
-ms.openlocfilehash: 224a5621b88761134e6ec85952fdcfd8129f122f
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Office para la web (anteriormente Office Web Apps) abre Word, Excel, OneNote y PowerPoint documentos en el explorador web. Office para la web facilita el trabajo y la Office archivos desde cualquier lugar con una conexión a Internet, desde casi cualquier dispositivo. Microsoft 365 clientes con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos sobre la marcha.
+ms.openlocfilehash: c4eaf4b2c482504ffa3e53f0177c1215b8c36da6
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652374"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699116"
 ---
 # <a name="office-for-the-web-service-description"></a>Descripción de Office para el servicio Web
 
-Office para la web (anteriormente Office Web Apps) abre documentos de Word, Excel, OneNote y PowerPoint en el explorador web. Office para la web facilita el trabajo y el uso compartido de archivos de Office desde cualquier lugar con una conexión a Internet, desde prácticamente cualquier dispositivo. Los clientes de Microsoft 365 con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos sobre la marcha. 
+Office para la web (anteriormente Office Web Apps) abre Word, Excel, OneNote y PowerPoint documentos en el explorador web. Office para la web facilita el trabajo y la Office archivos desde cualquier lugar con una conexión a Internet, desde casi cualquier dispositivo. Microsoft 365 clientes con Word, Excel, OneNote o PowerPoint pueden ver, crear y editar archivos sobre la marcha. 
   
 ## <a name="available-plans"></a>Planes disponibles
 
-Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios de Office para la Web, vea la tabla de comparación [de suscripciones completa.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios Office para la Web, consulte la tabla de comparación [de suscripciones completa](https://go.microsoft.com/fwlink/?linkid=2139145).
   
 ## <a name="feature-availability-across-office-for-the-web-plans"></a>Disponibilidad de características en Office para los planes web
 
-¿Necesita ayuda para averiguar qué solución de Office se adapta mejor a su organización? En las tablas siguientes se comparan las capacidades de Office para la característica web con las aplicaciones de escritorio Microsoft Office características completas. Use las tablas para descubrir qué características están disponibles en Office para la web y, a continuación, seleccione el nombre de la característica para leer una breve descripción sobre cómo funciona esa característica. Es posible que descubra que algunas personas de su organización necesitan la funcionalidad avanzada de gráficos de la aplicación de escritorio de Excel, mientras que otras solo necesitan ver y editar ligeramente documentos de Word y presentaciones de PowerPoint con Office para la web. 
+¿Necesita ayuda para averiguar qué solución Office se adapta mejor a su organización? En las tablas siguientes se comparan Office las funciones de características web con las aplicaciones de escritorio enrique Microsoft Office características. Use las tablas para descubrir qué características están disponibles en Office para la web y, a continuación, seleccione el nombre de la característica para leer una breve descripción sobre cómo funciona esa característica. Es posible que descubras que algunas personas de tu organización necesitan la funcionalidad avanzada de gráficos de la aplicación de escritorio de Excel, mientras que otras solo necesitan ver y editar ligeramente documentos de Word y presentaciones PowerPoint con Office para la web. 
   
 > [!NOTE]
->  Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de Microsoft Office características. <br/>  Aplicaciones de Microsoft Microsoft 365 para empresas es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office. <br/>  Microsoft Office Los clientes locales de Online Server obtienen una licencia de edición de Office para la web si han adquirido una licencia de conjunto de aplicaciones de escritorio de Office (como una licencia de Office Professional Plus, Office Standard o Aplicaciones de Microsoft 365 para empresas). 
+>  Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. Las tablas no son una lista completa de Microsoft Office características. <br/>  Microsoft Aplicaciones Microsoft 365 para empresas es una oferta de suscripción mensual del último Office de escritorio. <br/>  Microsoft Office Los clientes locales de Online Server obtienen un Office para la licencia de edición web si han adquirido una licencia de conjunto de escritorio de Office (como una licencia Office Profesional Plus, Office Standard o Aplicaciones Microsoft 365 para empresas). 
   
 > [!NOTE]
-> Al abrir un documento de Office, ya sea como datos adjuntos de correo electrónico de Outlook o desde una biblioteca de documentos de SharePoint, el documento se iniciará en Office para la web y será de solo lectura. Para editar un documento en Office para la web (modo de edición), necesita una licencia de conjunto de aplicaciones, como Office 365 Enterprise E1. Para editar un documento en la aplicación de escritorio, necesita una licencia de conjunto de escritorio de Office, como una suscripción a Microsoft 365 Apps para empresas o una versión instalada de Office Professional Plus 2010. 
+> Al abrir un documento Office, ya sea como datos adjuntos de correo electrónico de Outlook o desde una biblioteca de documentos de SharePoint, el documento se iniciará en Office para la web y será de solo lectura. Para editar un documento en Office web (modo de edición), necesita una licencia de conjunto de aplicaciones, como Office 365 Enterprise E1. Para editar un documento en la aplicación de escritorio, necesitas una licencia de conjunto de escritorio de Office, como una suscripción Aplicaciones Microsoft 365 para empresas o una versión instalada de Office Profesional Plus 2010. 
   
 ### <a name="word"></a>Word
 
@@ -110,11 +110,11 @@ Para obtener información detallada del plan sobre las suscripciones que permite
    
 > [!NOTE]
 > <sup>1</sup> Se representan en el visor, pero no se pueden crear ni editar en Office para la web. <br/>
-> <sup>2</sup> Algunos complementos de Office, pero no todos, están disponibles. <br/>
+> <sup>2</sup> Algunos, pero no todos, Office complementos están disponibles. <br/>
   
 ### <a name="excel"></a>Excel
 
-| Características de aplicaciones | Excel para la web | Aplicación de escritorio de Excel |
+| Características de aplicaciones | Excel para la web | Excel de escritorio |
 |:-----|:-----|:-----|
 |[Comprobador de accesibilidad](excel-online.md#add-hyperlinks) <br/> |Sí  <br/> |Sí  <br/> |
 |[Agregar color de fondo a pestañas de hoja](excel-online.md#add-background-color-to-sheet-tabs) <br/> |Sí  <br/> |Sí  <br/> |
@@ -160,14 +160,14 @@ Para obtener información detallada del plan sobre las suscripciones que permite
 |[Complementos de Office](excel-online.md#office-add-ins) <br/> |Sí<sup>5</sup>  <br/> |Sí  <br/> |
 |[Visualización y creación sin conexión](excel-online.md#offline-viewing-and-authoring) <br/> |No  <br/> |Sí  <br/> |
 |[Gráficos dinámicos](excel-online.md#charts-and-tables-including-pivotchart-reports-and-pivottable-reports) <br/> |Sí<sup>1</sup>  <br/> |Sí  <br/> |
-|[PivotTables](excel-online.md#pivottables) <br/> |Sí  <br/> |Sí  <br/> |
+|[Tablas dinámicas](excel-online.md#pivottables) <br/> |Sí  <br/> |Sí  <br/> |
 |[Publicar en la red social y presentar en línea](excel-online.md#post-to-social-network-and-present-online) <br/> |No  <br/> |Sí  <br/> |
 |[Visualización de Power Pivot](excel-online.md#power-pivot-viewing) <br/> |Sí  <br/> |Sí  <br/> |
 |[Visualización de Power View](excel-online.md#power-view-viewing) <br/> |Sí  <br/> |Sí  <br/> |
 |[Impresión](excel-online.md#print) <br/> |Sí  <br/> |Sí  <br/> |
 |[Coautoría en tiempo real](excel-online.md#real-time-co-authoring) <br/> |Sí  <br/> |Sí  <br/> |
 |[Creación y edición de gráficos recomendados con controles de formato](excel-online.md#recommended-chart-creation-and-editing-with-formatting-controls) <br/> |No  <br/> |Sí  <br/> |
-|[Actualizar las conexiones de datos existentes](excel-online.md#refresh-existing-data-connections) <br/> |Sí  <br/> |Sí  <br/> |
+|Refresh existing data connections <br/> |No  <br/> |Sí  <br/> |
 |[Quitar valores duplicados](excel-online.md#remove-duplicate-values) <br/> |Sí  <br/> |Sí  <br/> |
 |[Cambiar de nombre y agregar hojas](excel-online.md#rename-and-add-sheets) <br/> |Sí  <br/> |Sí  <br/> |
 |[Cambiar el nombre de archivo con el libro abierto](excel-online.md#rename-file-while-workbook-is-open) <br/> |Sí  <br/> |No  <br/> |
@@ -191,14 +191,14 @@ Para obtener información detallada del plan sobre las suscripciones que permite
 
 > [!NOTE] 
 > <sup>1 No</sup> se pueden crear gráficos dinámicos, solo vista.
- <br/><sup>2</sup> Según la configuración del entorno, se admiten algunos tipos de conexiones de datos para libros que se muestran en Excel para la web. Para obtener más información, consulte Actualización de datos en un libro en la ventana de un explorador. 
+ <br/><sup>2</sup> Según cómo se configure el entorno, se admiten algunos tipos de conexiones de datos para libros que se muestran Excel para la web. Para obtener más información, consulte Actualización de datos en un libro en la ventana de un explorador. 
  <br/><sup>3</sup> No puede crear ni ejecutar macros con VBA en Excel para la web, pero puede abrir y editar hojas de cálculo habilitadas para VBA sin quitar (o dañar) el VBA contenido en el archivo.
- <br/><sup>4</sup> En Excel para la web, el último valor de referencia conocido se muestra en la ventana del explorador; sin embargo, debe actualizarse con la aplicación de escritorio de Excel. 
+ <br/><sup>4</sup> En Excel para la web, el último valor de referencia conocido se muestra en la ventana del explorador; sin embargo, debe actualizarse con la Excel de escritorio. 
  <br/><sup>5</sup> Algunos complementos de Office están disponibles, pero no todos. 
   
 ### <a name="onenote"></a>OneNote
 
-| Características de aplicaciones | OneNote para la web | Aplicación de escritorio de OneNote |
+| Características de aplicaciones | OneNote para la web | OneNote de escritorio |
 |:-----|:-----|:-----|
 |[Colaboración avanzada: el contenido nuevo se muestra como no leído, presencia](onenote-online.md#advanced-collaboration-new-content-shows-as-unread-presence) <br/> |No  <br/> |Sí  <br/> |
 |[Aplicar etiquetas](onenote-online.md#apply-tags) <br/> |Sí  <br/> |Sí  <br/> |
@@ -239,14 +239,14 @@ Para obtener información detallada del plan sobre las suscripciones que permite
 |[Ver versiones de página anteriores](onenote-online.md#view-previous-page-versions) <br/> |Sí  <br/> |Sí  <br/> |
 
 > [!NOTE]
-> <sup>1</sup> En OneNote para la web, puede mover secciones dentro de un bloc de notas y copiar y pegar páginas de una sección a otra. 
- <br/> <sup>2</sup> Algunos complementos de Office, pero no todos, están disponibles. 
+> <sup>1</sup> En OneNote web, puede mover secciones dentro de un bloc de notas y copiar y pegar páginas de una sección a otra. 
+ <br/> <sup>2</sup> Algunos, pero no todos, Office complementos están disponibles. 
  <br/><sup>3</sup> Puede buscar en página o sección, pero no en blocs de notas completos o en blocs de notas (como puede hacer en la versión de escritorio).
  <br/><sup>4</sup> En la versión de escritorio, no hay una opción de "descarga", pero puede guardar como en otra ubicación. 
   
 ### <a name="powerpoint"></a>PowerPoint
 
-| Características de aplicaciones | PowerPoint para la web | Aplicación de escritorio de PowerPoint |
+| Características de aplicaciones | PowerPoint para la web | PowerPoint de escritorio |
 |:-----|:-----|:-----|
 |[Alineación, viñetas, números](powerpoint-online.md#alignment-bullets-numbers) <br/> |Sí  <br/> |Sí  <br/> |
 |[Aplicar animaciones y transiciones básicas](powerpoint-online.md#apply-basic-transitions-and-animations) <br/> |Sí<sup>1</sup> <br/> |Sí  <br/> |
@@ -293,10 +293,10 @@ Para obtener información detallada del plan sobre las suscripciones que permite
 |[Visualización WYSIWYG](powerpoint-online.md#wysiwyg-viewing) <br/> |Sí  <br/> |Sí  <br/> |
 
 > [!NOTE]
-><sup>1</sup> PowerPoint para la web admite una galería de ocho transiciones y 37 animaciones. Para una selección más grande o para crear animaciones personalizadas, use la aplicación de escritorio de PowerPoint. 
+><sup>1</sup> PowerPoint web admite una galería de ocho transiciones y 37 animaciones. Para una selección más grande o para crear animaciones personalizadas, usa la aplicación PowerPoint escritorio. 
  <br/>
 <sup>2</sup> El dispositivo en el que estás trabajando debe admitir la entrada de lápiz. <br/> 
-<sup>3</sup> Algunos complementos de Office, pero no todos, están disponibles. <br/>
+<sup>3</sup> Algunos, pero no todos, Office complementos están disponibles. <br/>
 <sup>4</sup> No puede crear gráficos dinámicos o tablas dinámicas, pero puede verlos en el visor. 
   
 ## <a name="supported-file-types-for-office-for-the-web"></a>Tipos de archivo compatibles para Office para la web

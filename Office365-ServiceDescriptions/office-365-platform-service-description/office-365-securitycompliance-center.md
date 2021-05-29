@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El Centro de cumplimiento de seguridad está diseñado para ayudarle a administrar las características de cumplimiento &amp; en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-ms.openlocfilehash: 15f6ff5889644c0818f42666227fa36df88d065d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 9f4c644905f606d00e6a40d23ded56744e397c50
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653482"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699106"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -24,11 +24,11 @@ El [Centro de cumplimiento de &amp; seguridad](https://protection.office.com/) e
 > [!NOTE]
 > Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
 
-Para ver las opciones para otorgar licencias a los usuarios para que se beneficien de las características de cumplimiento de Microsoft 365 a partir del 1 de abril de 2020, descargue la comparación detallada de licencias de cumplimiento de Microsoft 365. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-  
+Para ver las opciones para otorgar licencias a los usuarios para que se beneficien de Microsoft 365 de cumplimiento normativo, descargue la [Microsoft 365 de comparación](https://go.microsoft.com/fwlink/?linkid=2139145).
+
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Disponibilidad &amp; del Centro de seguridad y cumplimiento para planes empresariales y empresariales
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1, Office 365 US Government G1 | Office 365 E3, Office 365 US Government G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 US Government F3|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1, Office 365 Us Government G1 | Office 365 E3, Office 365 Us Government G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 Us Government F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Acceso al Centro de &amp; cumplimiento de seguridad](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
 |[Office 365 Cloud App Security](/cloud-app-security/what-is-cloud-app-security) | No | No |No | No | No | Sí | Sí  |   |
@@ -36,7 +36,7 @@ Para ver las opciones para otorgar licencias a los usuarios para que se benefici
 |[Administración avanzada de amenazas, como el explorador de amenazas para campañas de suplantación de](/microsoft-365/security/office-365-security/office-365-ti)identidad<sup>(phishing) 6</sup> | No | No |No | No | No | Sí | Sí | No |
 |[Caja de seguridad del cliente](/microsoft-365/compliance/customer-lockbox-requests) | No | No | No | No | No | Sí | Sí  | No  |
 |[Administración de dispositivos móviles](/microsoft-365/admin/basic-mobility-security/set-up) | Sí | Sí | Sí | Sí | Sí | Sí | Sí | Sí |
-|[Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para](/microsoft-365/compliance/data-loss-prevention-policies)la Empresa<sup>7,9</sup> | No | Sí | Sí | No | Sí | Sí | No | No |
+|[Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la Empresa](/microsoft-365/compliance/data-loss-prevention-policies)<sup>7,9</sup> | No | Sí | Sí | No | Sí | Sí | No | No |
 |[Prevención de pérdida de datos de comunicación para Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams) | No | No | No | No | No | Sí | No |  |
 |[Etiquetas de confidencialidad manuales](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | No | No | No | Sí | Sí | Sí | Sí | No |
 |Etiquetas de confidencialidad automáticas | No | No |No | No | No | Sí | Sí | No |
@@ -47,20 +47,20 @@ Para ver las opciones para otorgar licencias a los usuarios para que se benefici
 |[Casos de exhibición de documentos electrónicos](/microsoft-365/compliance/get-started-core-ediscovery)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   | Sí  |
 |[Retenciones de exhibición de documentos electrónicos (incluidas las retenciones de exhibición de documentos electrónicos basadas en consultas)](/microsoft-365/compliance/get-started-core-ediscovery)  |No   |No   |No  |No   |Sí   |Sí   |Sí   |No   |
 |[Exportación de exhibición de documentos electrónicos](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |No   |No   |No   |No  |Sí   |Sí   |Sí  |No   |
-|[Exhibición de documentos electrónicos avanzada](/microsoft-365/compliance/overview-ediscovery-20)<sup>5</sup>  |No   |No   |No   |No  |No   |Sí   |Sí  |No  |
+|[Advanced eDiscovery](/microsoft-365/compliance/overview-ediscovery-20)<sup>5</sup>  |No   |No   |No   |No  |No   |Sí   |Sí  |No  |
 |[Archivado](/microsoft-365/compliance/enable-archive-mailboxes)  |Sí<sup>3</sup>  |Sí<sup>3</sup>  |Sí<sup>3</sup>  |Sí<sup>3</sup>  |Sí<sup>4</sup>   |Sí<sup>4</sup>   |Sí  |No  |
 |[Directivas de alerta](/microsoft-365/compliance/alert-policies)  |Sí  |Sí  |Sí  |Sí  |Sí  |Sí  |Sí  |Sí  |
 |[Auditoría básica](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Sí |Sí |Sí |Sí |Sí |Sí |Sí |Sí |
 |[Auditoría avanzada](/microsoft-365/compliance/advanced-audit) |No |No |No |No |No |Sí |Sí |No |
 |[Cumplimiento de comunicaciones (directivas de supervisión)](/microsoft-365/compliance/supervision-policies) |No |No |No |No |No |Sí |Sí |No |
-|[Cifrado de mensajes de Office 365 (OME) Básico](/microsoft-365/compliance/ome)  |No |No |No |No |Sí |Sí |Sí |No |
+|[Cifrado de mensajes de Office 365 (OME) Basic](/microsoft-365/compliance/ome)  |No |No |No |No |Sí |Sí |Sí |No |
 |[Cifrado avanzado de mensajes de Office 365](/microsoft-365/compliance/ome-advanced-message-encryption)  |No |No |No |No |No |Sí |Sí |No |
 |[Privileged Access Management](/microsoft-365/compliance/privileged-access-management-overview)  |No |No |No |No |No |Sí |No |No |
 |[Clave de cliente](/microsoft-365/compliance/customer-key-overview)  |No |No |No |No |No |Sí |No |No |
 
-<sup>1</sup> Los registros de auditoría de todos los planes que incluyen auditoría básica (excepto E5) se conservan durante 90 días. Dado que E5 incluye auditoría avanzada, los registros de auditoría se conservan hasta un año. Además, puede usar la API de actividad de administración de [Office 365](/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado.
+<sup>1</sup> Los registros de auditoría de todos los planes que incluyen auditoría básica (excepto E5) se conservan durante 90 días. Dado que E5 incluye auditoría avanzada, los registros de auditoría se conservan hasta un año. Además, puede usar la API de actividad Office 365 [administración](/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado.
 
-<sup>2</sup> Requiere un complemento de prevención de pérdida de datos de Office 365.
+<sup>2</sup> Requiere Office 365 de prevención de pérdida de datos.
 
 <sup>3 Las</sup> etiquetas de confidencialidad también se incluyen en Azure Information Protection P1 y P2.
 
@@ -83,7 +83,7 @@ Para ver las opciones para otorgar licencias a los usuarios para que se benefici
 |[Casos de exhibición de documentos electrónicos](/office365/securitycompliance/ediscovery-cases)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí<sup>10</sup>  |Sí<sup>10</sup>  |No   |No   |
 |[Exportación de exhibición de documentos electrónicos](/office365/securitycompliance/ediscovery-cases#step-6-export-the-results-of-a-content-search-associated-with-a-case)  |No   |Sí   |No   |No   |Sí   |No  |Sí<sup>10</sup> |No<sup>4</sup>  |No<sup>4</sup>  |
 |[Retenciones de exhibición de documentos electrónicos (incluidas las retenciones de exhibición de documentos electrónicos basadas en consultas)](https://support.office.com/article/eDiscovery-cases-in-the-Office-365-Security-Compliance-Center-8dd335ab-29d0-41c3-8dd8-9f7c7481e60c#step3_1)  |No   |Sí   |No   |No   |Sí   |No  |Sí<sup>10</sup> |No<sup>4</sup>  |No<sup>4</sup>  |
-|[Exhibición de documentos electrónicos avanzada](/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |No   |No   |No   |No   |No   |No   |No   |No   |No   |
+|[Advanced eDiscovery](/office365/securitycompliance/compliance20/overview-ediscovery-20)<sup>5</sup>  |No   |No   |No   |No   |No   |No   |No   |No   |No   |
 |[Archivado](/office365/securitycompliance/enable-archive-mailboxes)<sup>6</sup>  |No   |Sí   |No   |Sí   |Sí   |Sí<sup>10</sup> |Sí<sup>10</sup>  |No   |No   |
 |[Auditoría básica](/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup>|Sí|Sí|Sí|Sí|Sí|Sí<sup>10</sup>|Sí<sup>10</sup>|No|No|
 |Auditoría avanzada|No|No|No|No|No|No|No|No|No|
@@ -92,32 +92,32 @@ Para ver las opciones para otorgar licencias a los usuarios para que se benefici
 |[Cifrado avanzado de mensajes de Office 365](/microsoft-365/compliance/ome-advanced-message-encryption)  |No   |No   |No   |No   |Sí   |No   |No|No|No|
 |[Privileged Access Management](/microsoft-365/compliance/privileged-access-management-overview)  |No   |No   |No   |No   |Sí   |No   |No|No|No|
 
-<sup>1</sup> El gobierno de la información permite a los usuarios crear, publicar y aplicar manualmente etiquetas a los documentos; importar datos mediante el trasvase de unidades o a través de la red. Estas características están disponibles en E3 y E5, con una disponibilidad limitada en E1. Para obtener una lista completa de las características disponibles en E1, E3 y E5, consulte la comparación detallada de licencias de cumplimiento de Microsoft 365. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
+<sup>1</sup> El gobierno de la información permite a los usuarios crear, publicar y aplicar manualmente etiquetas a los documentos; importar datos mediante el trasvase de unidades o a través de la red. Estas características están disponibles en E3 y E5, con una disponibilidad limitada en E1. Para obtener una lista completa de las características disponibles en E1, E3 y E5, consulte la comparación detallada Microsoft 365 licencias de cumplimiento. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 <sup>2</sup> Requiere la compra de Archivado de Exchange Online complemento.
 
 <sup>3</sup> El gobierno avanzado de la información le permite conservar información importante y eliminar información no importante mediante la clasificación de información basada en una directiva de retención o eliminación o ambas. Incluye acciones inteligentes y automatizadas, como recomendar directivas, aplicar automáticamente etiquetas a los datos, aplicar etiquetas basadas en tipos o consultas de datos confidenciales, revisar la disposición y usar filtros de importación inteligentes. También incluye la característica Supervisión para revisar las comunicaciones de los empleados con fines de seguridad y cumplimiento.
 
-<sup>4 Las</sup> conversaciones de Skype se almacenan como parte del buzón.
+<sup>4</sup> Skype conversaciones se almacenan como parte del buzón.
 
-<sup>5</sup> La exhibición de documentos electrónicos avanzada requiere Office 365 E5 o una licencia de complemento.
+<sup>5</sup> Advanced eDiscovery requiere Office 365 E5 o una licencia de complemento.
 
-<sup>6 El</sup> archivado de Skype está dentro del buzón del usuario.
+<sup>6</sup> Skype archivado está dentro del buzón del usuario.
 
-<sup>7</sup> Incluye archivos almacenados en repositorios de Microsoft Teams.
+<sup>7</sup> Incluye archivos almacenados en Microsoft Teams repositorios.
 
-<sup>8</sup> Los registros de auditoría de todos los planes que incluyen auditoría básica se conservan durante 90 días. Además, puede usar la API de actividad de administración de [Office 365](/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado.
+<sup>8</sup> Los registros de auditoría de todos los planes que incluyen auditoría básica se conservan durante 90 días. Además, puede usar la API de actividad Office 365 [administración](/office/office-365-management-api/office-365-management-activity-api-reference) para recuperar eventos del registro de auditoría unificado.
 
-<sup>9</sup> Requiere un complemento de prevención de pérdida de datos de Office 365.
+<sup>9</sup> Requiere Office 365 de prevención de pérdida de datos.
 
 <sup>10</sup> Limitado a los archivos almacenados en OneDrive para la Empresa.
 
-<sup>11</sup> Se requiere una licencia de Archivado de Exchange Online o plan 2 de Exchange Online para poner un buzón de usuario en espera mediante una directiva de retención.
+<sup>11</sup> Se Exchange Online una licencia Archivado de Exchange Online o plan 2 para poner un buzón de usuario en espera mediante una directiva de retención.
   
-## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Disponibilidad &amp; del Centro de seguridad y cumplimiento en Office 365 operado por 21Vianet
+## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Disponibilidad &amp; del Centro de seguridad en Office 365 operado por 21Vianet
 
-El Centro de cumplimiento está disponible en el plan E3 para Office 365 operado por 21Vianet.
+El Centro de cumplimiento está disponible en el plan E3 Office 365 operado por 21Vianet.
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 
-El Centro de seguridad & cumplimiento está disponible para Office 365 Germany. Para obtener información sobre Office 365 Germany, vea [Office 365 Germany](office-365-germany.md).
+El Centro de seguridad & cumplimiento está disponible para Office 365 Alemania. Para obtener información sobre Office 365 Alemania, [vea Office 365 Germany](office-365-germany.md).
