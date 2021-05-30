@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de Estados Unidos, Microsoft ha creado planes de Office 365 Administración Pública para Estados Unidos (o Office 365 Administración Pública). En este artículo se proporciona información general sobre las características específicas de Office 365 Administración Pública entornos de Estados Unidos.
-ms.openlocfilehash: 415c3c76c7362c12b2da7ec33c88db1a930be405
-ms.sourcegitcommit: 8914dbb908525e09db473d582d323c8a228d0f16
+ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
+ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/24/2021
-ms.locfileid: "52625647"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52699086"
 ---
 # <a name="office-365-government"></a>Office 365 Administración Pública
 
@@ -105,7 +105,7 @@ Los servicios de adopción de usuarios se componen de tareas que proporcionan in
 
 Puede encontrar información específica sobre el proceso del Centro de FastTrack [aquí.](/FastTrack/us-gov-appendix-overview) Para obtener un desglose de las funciones y responsabilidades de compromiso, revise Responsabilidades de [FastTrack,](/FastTrack/us-gov-appendix-fasttrack-responsibilities) así como [Sus responsabilidades.](/FastTrack/us-gov-appendix-your-responsibilities)
 
-> <sup>1</sup> Debe comprar al menos 50 licencias de la lista de los [planes](/fasttrack/eligibility) elegibles para recibir servicios de FastTrack.
+> <sup>1</sup> Debe comprar al menos 150 licencias de la lista de los [planes](/fasttrack/eligibility) elegibles para recibir servicios de FastTrack.
 <br/><sup>2</sup> Los servicios de migración de datos están disponibles para Office 365 inquilinos con 500 o más licencias.
 
 ## <a name="data-migrations-performed-by-fasttrack"></a>Migraciones de datos realizadas por FastTrack
