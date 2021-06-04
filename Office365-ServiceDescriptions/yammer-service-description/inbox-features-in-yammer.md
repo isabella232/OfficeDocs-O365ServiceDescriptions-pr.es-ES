@@ -19,20 +19,20 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 04/09/2021
 ms.locfileid: "51653532"
 ---
-# <a name="inbox-features-in-yammer"></a><span data-ttu-id="016e6-103">Características de bandeja de entrada de Yammer</span><span class="sxs-lookup"><span data-stu-id="016e6-103">Inbox features in Yammer</span></span>
+# <a name="inbox-features-in-yammer"></a><span data-ttu-id="116c2-103">Características de bandeja de entrada de Yammer</span><span class="sxs-lookup"><span data-stu-id="116c2-103">Inbox features in Yammer</span></span>
 
-<span data-ttu-id="016e6-104">A continuación se describen las características de bandeja de entrada disponibles en Yammer.</span><span class="sxs-lookup"><span data-stu-id="016e6-104">The following inbox features are available in Yammer.</span></span>
+<span data-ttu-id="116c2-104">A continuación se describen las características de bandeja de entrada disponibles en Yammer.</span><span class="sxs-lookup"><span data-stu-id="116c2-104">The following inbox features are available in Yammer.</span></span>
   
-## <a name="inbox"></a><span data-ttu-id="016e6-105">Bandeja de entrada</span><span class="sxs-lookup"><span data-stu-id="016e6-105">Inbox</span></span>
+## <a name="inbox"></a><span data-ttu-id="116c2-105">Bandeja de entrada</span><span class="sxs-lookup"><span data-stu-id="116c2-105">Inbox</span></span>
 
-<span data-ttu-id="016e6-106">La Bandeja de entrada agrega automáticamente el @mentions, los anuncios de grupo, las conversaciones y los mensajes privados para que pueda priorizar fácilmente las respuestas.</span><span class="sxs-lookup"><span data-stu-id="016e6-106">Inbox automatically aggregates your @mentions, group announcements, conversations, and private messages so you can easily prioritize responses.</span></span>
+<span data-ttu-id="116c2-106">La Bandeja de entrada agrega automáticamente el @mentions, los anuncios de grupo, las conversaciones y los mensajes privados para que pueda priorizar fácilmente las respuestas.</span><span class="sxs-lookup"><span data-stu-id="116c2-106">Inbox automatically aggregates your @mentions, group announcements, conversations, and private messages so you can easily prioritize responses.</span></span>
   
-## <a name="inbox-search"></a><span data-ttu-id="016e6-107">Búsqueda en la Bandeja de entrada</span><span class="sxs-lookup"><span data-stu-id="016e6-107">Inbox search</span></span>
+## <a name="inbox-search"></a><span data-ttu-id="116c2-107">Búsqueda en la Bandeja de entrada</span><span class="sxs-lookup"><span data-stu-id="116c2-107">Inbox search</span></span>
 
-<span data-ttu-id="016e6-108">Busque en toda la bandeja de entrada para encontrar rápidamente conversaciones, mensajes privados y anuncios.</span><span class="sxs-lookup"><span data-stu-id="016e6-108">Search across your entire inbox to quickly find conversations, private messages, and announcements.</span></span>
+<span data-ttu-id="116c2-108">Busque en toda la bandeja de entrada para encontrar rápidamente conversaciones, mensajes privados y anuncios.</span><span class="sxs-lookup"><span data-stu-id="116c2-108">Search across your entire inbox to quickly find conversations, private messages, and announcements.</span></span>
   
-## <a name="feature-availability"></a><span data-ttu-id="016e6-109">Disponibilidad de características</span><span class="sxs-lookup"><span data-stu-id="016e6-109">Feature availability</span></span>
+## <a name="feature-availability"></a><span data-ttu-id="116c2-109">Disponibilidad de características</span><span class="sxs-lookup"><span data-stu-id="116c2-109">Feature availability</span></span>
 
-<span data-ttu-id="016e6-110">Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Yammer](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="016e6-110">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
+<span data-ttu-id="116c2-110">Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [vea Yammer descripción del servicio](yammer-service-description.md).</span><span class="sxs-lookup"><span data-stu-id="116c2-110">To view feature availability across plans, standalone options, and on-premises solutions, see [Yammer service description](yammer-service-description.md).</span></span>
   
 
