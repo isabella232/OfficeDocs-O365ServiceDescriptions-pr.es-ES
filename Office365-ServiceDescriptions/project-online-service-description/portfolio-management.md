@@ -21,7 +21,7 @@ ms.locfileid: "51652284"
 
 Las siguientes características de administración de cartera están disponibles en Project Online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea la [descripción del servicio de Project Online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [descripción Project Online servicio .](project-online-service-description.md)
   
 ## <a name="analyze-projects-and-optimize-portfolio"></a>Analizar proyectos y optimizar la cartera
 
@@ -33,7 +33,7 @@ Cree proyectos de varias maneras. Para más información, vea [Crear un proyecto
   
 ## <a name="enterprise-resource-management"></a>Administración de recursos de empresa
 
-Los recursos son las personas, los materiales o los costos necesarios para realizar el proyecto. Las soluciones de Ppm de Microsoft permiten a los administradores de recursos administrar el grupo de recursos, planear la capacidad de los recursos y aprobar, rechazar y modificar las solicitudes de participación de recursos entrantes. Para obtener más información, vea [Agregar un recurso a Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271320).
+Los recursos son las personas, los materiales o los costos necesarios para realizar el proyecto. Las soluciones PPM microsoft permiten a los administradores de recursos administrar el grupo de recursos, planear la capacidad de los recursos y aprobar, rechazar y modificar las solicitudes de participación de recursos entrantes. Para obtener más información, vea [Agregar un recurso a Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271320).
   
 ## <a name="financial-management"></a>Administración financiera
 

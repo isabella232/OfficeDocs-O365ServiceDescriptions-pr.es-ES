@@ -24,7 +24,7 @@ ms.locfileid: "51653522"
 A continuación se describen las características de soporte técnico disponibles en Yammer.
   
 > [!IMPORTANT]
-> Yammer no admite la recuperación de contenido eliminado, como redes externas, usuarios, mensajes, grupos y archivos, incluido el contenido eliminado accidentalmente por los &mdash; &mdash; administradores de red.
+> Yammer no admite la recuperación de contenido eliminado, como redes externas, usuarios, mensajes, grupos y archivos, incluido el contenido eliminado accidentalmente por los administradores &mdash; &mdash; de red.
 >
 > Microsoft no proporciona informes personalizados o ad hoc aparte de las características de análisis disponibles en Yammer. En ocasiones, Microsoft puede proporcionar un informe personalizado durante una solicitud de soporte técnico, pero, en su mayoría, no pueden admitir solicitudes directas para los datos.
 
@@ -34,11 +34,11 @@ Los administradores de Yammer Enterprise son los responsables del mantenimiento 
 
 ## <a name="customer-support"></a>Soporte al cliente
 
-Existe un servicio de soporte técnico disponible para responder a las preguntas de los clientes y resolver los problemas rápidamente. Los clientes de Yammer pueden recibir soporte técnico publicando en el foro de soporte técnico público, que los agentes de soporte técnico supervisan las 24 horas del día, los siete días de la semana. Si usted es cliente de Yammer y necesita ayuda, vaya al [sitio de soporte público de Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
+Existe un servicio de soporte técnico disponible para responder a las preguntas de los clientes y resolver los problemas rápidamente. Yammer clientes pueden recibir soporte técnico publicando en el foro de soporte técnico público, que los agentes de soporte técnico supervisan las 24 horas del día, los siete días de la semana. Si usted es cliente de Yammer y necesita ayuda, vaya al [sitio de soporte público de Yammer](https://go.microsoft.com/fwlink/p/?LinkId=330921).
    
 ## <a name="fasttrack-center"></a>Centro FastTrack
 
-El servicio Microsoft FastTrack puede ayudar a su organización a moverse a Microsoft Cloud proporcionando ayuda en cada paso del camino. FastTrack te permite planear de forma estratégica los lanzamientos, aumentar rápidamente los nuevos servicios e incorporar nuevos usuarios. Para obtener más información, visite el [Centro de FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obtener información sobre cómo crear la red de Yammer, incluidos los documentos y actividades de inicio previo, inicio y soporte técnico, vaya a la página [Envision: Identify scenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) y, a continuación, seleccione Acercar la **organización.**
+El servicio Microsoft FastTrack puede ayudar a su organización a moverse a Microsoft Cloud proporcionando ayuda en cada paso del camino. FastTrack te permite planear de forma estratégica los lanzamientos, aumentar rápidamente los nuevos servicios e incorporar nuevos usuarios. Para obtener más información, visite el [Centro de FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obtener información sobre cómo crear la red de Yammer, incluidos los documentos y actividades de inicio previo, inicio y soporte técnico, vaya a la página [Envision: Identify scenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) y, a continuación, seleccione Bring **your organization together**.
 
 ## <a name="support-features-across-yammer-plans"></a>Características de soporte técnico de los distintos planes de Yammer
 
@@ -56,7 +56,7 @@ Ejemplos
   
 |**Nivel de gravedad**|**Descripción**|**Ejemplos**|
 |:-----|:-----|:-----|
-|Gravedad A (crítica)  <br/> |El servicio es inutilizable para la mayoría de los usuarios finales.  <br/> |La plataforma Yammer está abajo.  <br/> |
+|Gravedad A (crítica)  <br/> |El servicio es inutilizable para la mayoría de los usuarios finales.  <br/> |La Yammer está abajo.  <br/> |
 |Gravedad B (alta)  <br/> |Aunque el servicio puede usarse, su rendimiento no es bueno.  <br/> |La publicación de fuentes no funciona como debería.  <br/> |
 |Gravedad C (media)  <br/> |El servicio no funciona como debería, pero existe una solución alternativa.  <br/> |Las vistas previas de los archivos no se muestran como deberían.  <br/> |
 

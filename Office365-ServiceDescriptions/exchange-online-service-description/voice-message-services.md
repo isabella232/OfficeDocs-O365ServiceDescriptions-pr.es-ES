@@ -46,7 +46,7 @@ Los servicios de mensajería de voz hospedados permiten a una empresa conectar s
     
 - Reglas de contestación de llamadas (vea Permitir que los usuarios de correo de voz [reenván llamadas para](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-voice-mail-users-to-forward-calls) obtener más información).
     
-- Correo de voz protegido en Exchange Online (vea [Proteger el correo de voz en Exchange Online](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail) para obtener más información).
+- Correo de voz protegido en Exchange Online (consulte [Protect voice mail in Exchange Online](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/protect-voice-mail) para obtener más información).
     
 - Vista previa del correo de voz (vea Permitir a los usuarios ver una transcripción [de correo](/exchange/voice-mail-unified-messaging/set-up-client-voice-mail-features/allow-users-to-see-a-voice-mail-transcript) de voz para obtener una lista de idiomas compatibles).
     
@@ -65,7 +65,7 @@ Para obtener más información acerca de las características de correo de voz, 
 >
 > El cliente debe proporcionar los dispositivos de hardware SBC locales y garantizar que estén configurados correctamente para conectarse a los servicios de correo de voz en línea. Esto incluye configurar el nivel apropiado de seguridad mediante certificados, interfaces IP públicas y privadas, y la habilitación de los puertos TCP correctos a través de sus firewalls locales. 
 >
-> El correo de voz hospedado solo está disponible para los suscriptores de Exchange Online Plan 2 y Office 365 Enterprise E3. 
+> El correo de voz hospedado solo está disponible para Exchange Online plan 2 y Office 365 Enterprise suscriptores de E3. 
   
 ## <a name="third-party-voice-mail-interoperability"></a>Interoperabilidad del correo de voz de terceros
 
@@ -76,8 +76,8 @@ Interoperabilidad del correo de voz de terceros
   
 ## <a name="skype-for-business-integration"></a>Integración con Skype Empresarial
 
-Las organizaciones pueden comprar Skype Empresarial Online como servicio independiente o como parte de Microsoft Office 365. También se admite Skype Empresarial 2015 local. Para obtener más información sobre Skype Empresarial Online, vea Descripción del servicio [de Skype Empresarial Online](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
+Las organizaciones pueden comprar Skype Empresarial Online como servicio independiente o como parte de Microsoft Office 365. Skype Empresarial 2015 local también es compatible. Para obtener más información sobre Skype Empresarial Online, [consulte Skype Empresarial Descripción del servicio en línea](../skype-for-business-online-service-description/skype-for-business-online-service-description.md).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [consulte Exchange Online descripción del servicio](exchange-online-service-description.md).

@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio de Microsoft 365 Empresa Voice
+title: Descripción del servicio de Microsoft 365 Business Voice
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -17,7 +17,7 @@ ms.contentlocale: es-ES
 ms.lasthandoff: 05/07/2021
 ms.locfileid: "52266360"
 ---
-# <a name="microsoft-365-business-voice-service-description"></a>Descripción del servicio de Microsoft 365 Empresa Voice
+# <a name="microsoft-365-business-voice-service-description"></a>Descripción del servicio de Microsoft 365 Business Voice
 
 Microsoft 365 Business Voice es una solución de telefonía basada en la nube en Microsoft Teams que ofrece funcionalidades del sistema telefónico como estacionamiento de llamadas, reenvío de llamadas, operadores automáticos, colas de llamadas, audioconferencias y planes de llamadas. Business Voice se puede agregar a Office 365 y Microsoft 365 que incluyen Microsoft Teams (hasta 300 licencias). Para obtener más información acerca del servicio de Business Voice, vea [Microsoft 365 Business Voice](/MicrosoftTeams/business-voice/whats-business-voice).
 
@@ -31,7 +31,7 @@ Microsoft 365 Business Voice está disponible con las siguientes suscripciones c
 - Microsoft 365 Empresa Básico
 - Microsoft 365 Empresa Estándar
 - Microsoft 365 Empresa Premium
-- Microsoft 365 F1
+- Microsoft 365 F1
 - Microsoft 365 F3
 - Office 365 F3
 - Microsoft y Office 365 Enterprise E1 o E3

@@ -27,7 +27,7 @@ En este artículo se describen los controles de administración y la compatibili
   
 ## <a name="self-service-administration-tools"></a>Herramientas de administración de autoservicio
 
-Aunque Microsoft controla directamente todos los centros de datos de Exchange Online y es responsable del rendimiento general del sistema, solo puede controlar una parte de los elementos que se combinan para proporcionar la experiencia total de los usuarios. Las organizaciones son responsables de las conexiones de red a los centros de datos, la red de área extensa (WAN) del cliente y las redes de área local (LAN) del cliente. Además, están a cargo de los dispositivos de usuario y de su configuración.También son responsables del mantenimiento de las licencias necesarias por usuario para todas las características deseadas, entre ellas, la capacidad de administrar esas características siempre que el usuario necesite acceso a la característica.
+Aunque Microsoft controla directamente todos Exchange Online centros de datos y es responsable del rendimiento general del sistema, solo puede controlar una parte de los elementos que se combinan para proporcionar la experiencia total de los usuarios. Las organizaciones son responsables de las conexiones de red a los centros de datos, la red de área extensa (WAN) del cliente y las redes de área local (LAN) del cliente. Además, están a cargo de los dispositivos de usuario y de su configuración.También son responsables del mantenimiento de las licencias necesarias por usuario para todas las características deseadas, entre ellas, la capacidad de administrar esas características siempre que el usuario necesite acceso a la característica.
   
 Por lo tanto, Exchange Online ofrece a los administradores de clientes las siguientes herramientas, descritas a continuación, a fin de administrar una variedad de tareas relacionadas con la mensajería:
   
@@ -45,7 +45,7 @@ El portal de Microsoft Office 365 en [https://portal.office.com](https://portal.
   
 ### <a name="microsoft-365-admin-center"></a>Centro de administración de Microsoft 365
 
-El Centro de administración de Microsoft 365 es el portal web desde el que el administrador de servicios de cada empresa puede administrar las cuentas de usuario y la configuración de cada uno de los servicios de Microsoft a los que se suscriban. Desde el Centro de administración de Microsoft 365, los administradores pueden seguir vínculos al Centro de administración de Exchange (EAC), donde pueden administrar la configuración específica de Exchange Online. Para obtener más información acerca de cómo poner en funcionamiento el Centro de administración de Microsoft 365, vea el siguiente vídeo: [Introducción a Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
+El Microsoft 365 de administración de Microsoft 365 es el portal web desde el que el administrador de servicios de cada empresa puede administrar las cuentas de usuario y la configuración de cada una de las servicios Microsoft a las que se suscriban. Desde el Centro de administración de Microsoft 365, los administradores pueden seguir vínculos al Centro de administración de Exchange (EAC), donde pueden administrar la configuración específica de Exchange Online. Para obtener más información acerca de cómo poner en marcha el centro de administración de Microsoft 365, vea el siguiente vídeo: [Introducción a Office 365 Enterprise](https://go.microsoft.com/fwlink/p/?LinkId=271806).
   
 ### <a name="exchange-admin-center"></a>Centro de administración de Exchange
 
@@ -102,4 +102,4 @@ Cuando Microsoft lanza una versión principal de Exchange, los clientes tienen h
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [consulte Exchange Online descripción del servicio](exchange-online-service-description.md).

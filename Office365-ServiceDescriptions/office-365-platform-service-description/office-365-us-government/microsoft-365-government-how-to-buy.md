@@ -104,7 +104,7 @@ Para obtener más información sobre los servicios disponibles en Microsoft 365 
 
 En la tabla siguiente se muestran las opciones que pueden satisfacer las necesidades de cada segmento.<br><br> 
 
-| Item | GCC | GCC High | DoD |
+| Elemento | GCC | GCC High | DoD |
 |:-----|:-----|:-----|:-----|
 |**SKU** |Gov for government, GOVCON for commercial |GCC-High |DOD | 
 |**Canal** |EA (LSP), AOS-G, MPSA, Web Direct, CSP |EA (LSP), AOS-G |EA |

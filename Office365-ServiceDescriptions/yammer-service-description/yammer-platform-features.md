@@ -29,7 +29,7 @@ Integre las aplicaciones empresariales existentes agregando datos al gráfico so
   
 ## <a name="browser-extension"></a>Extensión del explorador
 
-Agrega una pestaña Yammer al menú del explorador y te permite compartir rápidamente cualquier página web que estés viendo seleccionando el icono de Yammer, eligiendo el grupo en el que quieres publicar el mensaje y compartiendo tus propios comentarios con un vínculo a la página. La extensión también le notifica si existe una conversación de Yammer sobre la página. 
+Agrega una pestaña Yammer al menú del explorador y le permite compartir rápidamente cualquier página web que esté viendo seleccionando el icono Yammer, eligiendo el grupo en el que desea publicar el mensaje y compartiendo sus propios comentarios con un vínculo a la página. La extensión también le notifica si existe una conversación Yammer acerca de la página. 
 
 ## <a name="embeddable-feeds"></a>Fuentes incrustables
 
@@ -39,12 +39,12 @@ Un simple fragmento de código le permitirá integrar cualquier fuente de Yammer
 
 Agregue los botones Me gusta y Seguir a sus aplicaciones empresariales para que los empleados puedan interactuar con objetos externos a Yammer.
   
-## <a name="yammer-connect-login"></a>Inicio de sesión de Yammer connect
+## <a name="yammer-connect-login"></a>Yammer conectar inicio de sesión
 
-Agregue el botón Inicio de sesión a las aplicaciones empresariales para que los usuarios puedan registrarse e iniciar sesión fácilmente con sus cuentas de Yammer.
+Agregue el botón Inicio de sesión a las aplicaciones empresariales para que los usuarios puedan registrarse e iniciar sesión fácilmente con sus Yammer cuentas.
 
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Yammer](yammer-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [vea Yammer descripción del servicio](yammer-service-description.md).
   
 

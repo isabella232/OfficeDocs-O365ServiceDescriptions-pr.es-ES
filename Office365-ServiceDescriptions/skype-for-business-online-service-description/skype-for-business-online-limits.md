@@ -34,13 +34,13 @@ Los límites de Skype Empresarial Online se aplican a las siguientes categorías
 - [Límites de minutos](skype-for-business-online-limits.md#minute-limits)
     
 > [!NOTE]
-> Los límites aplicados a una organización de Microsoft 365 pueden variar en función del tiempo que la organización se haya inscrito en el servicio. Cuando se cambia un límite en los centros de datos de Microsoft, la aplicación de los cambios en todos los clientes existentes puede tardar cierto tiempo. 
+> Los límites aplicados a Microsoft 365 organización pueden variar en función del tiempo que la organización se haya inscrito en el servicio. Cuando se cambia un límite en los centros de datos de Microsoft, la aplicación de los cambios en todos los clientes existentes puede tardar cierto tiempo. 
   
 ## <a name="peer-to-peer-limits"></a>Límites de punto a punto
 
-- **Límite de transferencia de** archivos: el tamaño máximo de un archivo que se puede transferir en una conversación de mensajería instantánea de Skype Empresarial Online. Para obtener información sobre los tipos de archivo que están bloqueados para transferencia, vea el artículo del soporte técnico de Microsoft sobre cómo [enviar y recibir archivos o datos adjuntos en Skype Empresarial Online](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
+- **Límite de transferencia de** archivos: el tamaño máximo de un archivo que se puede transferir en una Skype Empresarial de mensajería instantánea en línea. Para obtener información sobre los tipos de archivo que están bloqueados para transferencia, vea el artículo del soporte técnico de Microsoft sobre cómo [enviar y recibir archivos o datos adjuntos en Skype Empresarial Online](/SkypeForBusiness/troubleshoot/online-attachments/cant-send-receive-files-attachments).
     
-- **Límite de conversaciones con pestañas** abiertas: el número máximo de pestañas de conversación que un usuario de Skype Empresarial puede tener abiertas al mismo tiempo. 
+- **Límite de conversaciones con pestañas** abiertas: el número máximo de pestañas de conversación que un usuario Skype Empresarial puede tener abiertas al mismo tiempo. 
     
 ### <a name="peer-to-peer-limits"></a>Límites de punto a punto 
 
@@ -51,30 +51,30 @@ Los límites de Skype Empresarial Online se aplican a las siguientes categorías
 |Límite de conversaciones en pestañas abiertas  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |50  <br/> |No aplicable  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Un cliente puede iniciar un chat con hasta 99 usuarios agregándolos manualmente o enviando un mensaje instantáneo desde el menú contextual de un grupo o lista de distribución. Para obtener más información acerca de la mensajería instantánea en Skype Empresarial Online, vea Enviar una mensajería instantánea [en Skype Empresarial](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> Un cliente puede iniciar un chat con hasta 99 usuarios agregándolos manualmente o enviando un mensaje instantáneo desde el menú contextual de un grupo o lista de distribución. Para obtener más información acerca de la mensajería instantánea en Skype Empresarial Online, vea [Enviar una mensajería](https://go.microsoft.com/fwlink/?linkid=533412)instantánea en Skype Empresarial . 
   
 ### <a name="peer-to-peer-limits-across-standalone-options"></a>Límites de punto a punto a través de opciones independientes
 
-| Característica | Skype Empresarial Server 2015 | Plan independiente 1 de Skype Empresarial Online &nbsp; | Plan independiente 2 de Skype Empresarial Online &nbsp; |
+| Característica | Skype Empresarial Server 2015 | Skype Empresarial Plan &nbsp; 1 independiente en línea | Skype Empresarial Plan independiente &nbsp; en línea 2 |
 |:-----|:-----|:-----|:-----|
 |Límite de transferencia de archivos  <br/> |Sin límite  <br/> |Sin límite  <br/> |Sin límite  <br/> |
 |Límite de conversación<sup>1</sup> <br/> |99  <br/> |99  <br/> |99  <br/> |
 |Límite de conversaciones en pestañas abiertas  <br/> |50  <br/> |50  <br/> |50  <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Un cliente puede iniciar un chat con hasta 99 usuarios agregándolos manualmente o enviando un mensaje instantáneo desde el menú contextual de un grupo o lista de distribución. Para obtener más información acerca de la mensajería instantánea en Skype Empresarial Online, vea Enviar una mensajería instantánea [en Skype Empresarial](https://go.microsoft.com/fwlink/?linkid=533412). 
+> <sup>1</sup> Un cliente puede iniciar un chat con hasta 99 usuarios agregándolos manualmente o enviando un mensaje instantáneo desde el menú contextual de un grupo o lista de distribución. Para obtener más información acerca de la mensajería instantánea en Skype Empresarial Online, vea [Enviar una mensajería](https://go.microsoft.com/fwlink/?linkid=533412)instantánea en Skype Empresarial . 
   
 ## <a name="meeting-limits"></a>Límites de reuniones
 
-- **Límite de carga de** archivos: el tamaño máximo de los archivos que se pueden cargar en una reunión de Skype Empresarial, incluidos los documentos y las presentaciones de PowerPoint. 
+- **Límite de carga de** archivos: el tamaño máximo de los archivos que se pueden cargar en una reunión Skype Empresarial, incluidos los documentos y PowerPoint presentación. 
     
-- **Participantes en una reunión de Skype** Empresarial: el número máximo de participantes (incluido el moderador) que pueden unirse a una única reunión de Skype Empresarial. 
+- **Participantes en una Skype Empresarial** reunión: el número máximo de participantes (incluido el moderador) que pueden unirse a una única Skype Empresarial reunión. 
     
-- **Presentadores en una reunión de Skype Empresarial:** el número máximo de presentadores en una única reunión de Skype Empresarial. 
+- **Presentadores en una Skype Empresarial reunión:** el número máximo de presentadores en una única Skype Empresarial reunión. 
     
-- **Participantes de la reunión de la** aplicación web de Skype Empresarial: el número máximo de participantes de la reunión de la aplicación web de Skype Empresarial que pueden unirse a una reunión. 
+- **Skype Empresarial participantes de** la reunión de la aplicación web: el número máximo de Skype Empresarial participantes de la reunión de aplicaciones web que pueden unirse a una reunión. 
     
-- **Participantes anónimos** de la aplicación web de Skype Empresarial: el número máximo de participantes de reuniones de la aplicación web de Skype Empresarial que pueden unirse de forma anónima a una reunión. 
+- **Skype Empresarial participantes anónimos** de la aplicación web: el número máximo de Skype Empresarial participantes de reuniones de aplicaciones web que pueden unirse de forma anónima a una reunión. 
     
 - **Invitados que se unen por teléfono:** el número máximo de invitados que pueden llamar a una reunión. 
     
@@ -95,7 +95,7 @@ Los límites de Skype Empresarial Online se aplican a las siguientes categorías
   
 ### <a name="meeting-limits-across-standalone-options"></a>Límites de reuniones en las opciones independientes
 
-| Característica | Skype Empresarial Server 2015 | Plan independiente 1 de Skype Empresarial Online &nbsp; | Plan independiente 2 de Skype Empresarial Online &nbsp; |
+| Característica | Skype Empresarial Server 2015 | Skype Empresarial Plan &nbsp; 1 independiente en línea | Skype Empresarial Plan independiente &nbsp; en línea 2 |
 |:-----|:-----|:-----|:-----|
 |Límite de carga de archivos  <br/> |500 MB  <br/> |No disponible  <br/> |500 MB  <br/> |
 |Participantes en una reunión de Skype Empresarial  <br/> |250  <br/> |No aplicable  <br/> |250  <br/> |
@@ -107,7 +107,7 @@ Los límites de Skype Empresarial Online se aplican a las siguientes categorías
    
 ## <a name="meeting-retention-limits"></a>Límites de retención de reunión
 
-- **Período de retención** de contenido de reunión: la cantidad de tiempo después de que la última persona abandone una reunión para que cualquier contenido de reunión cargado se conserve en Skype Empresarial antes de que se elimine de forma permanente. 
+- **Período de retención** de contenido de la reunión: la cantidad de tiempo transcurrido después de que la última persona abandone una reunión de que cualquier contenido de reunión cargado se conserva en Skype Empresarial antes de que se elimine de forma permanente. 
     
 - **Período de expiración** de la reunión: la cantidad de tiempo después de que haya finalizado una reunión para que los usuarios puedan acceder a la reunión. 
     

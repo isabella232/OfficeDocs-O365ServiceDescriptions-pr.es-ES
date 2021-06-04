@@ -27,7 +27,7 @@ Los buzones de Exchange Online residen en la nube y su archivado requiere entorn
   
 Exchange Online ofrece capacidades de archivado integradas para buzones basados en la nube, incluido un archivo local que brinda a los usuarios un espacio muy conveniente para almacenar mensajes de correo electrónico antiguos. Un archivo In-Place es un tipo especial de buzón que aparece junto con las carpetas de buzones principales de un usuario en Outlook y Outlook en la web. Los usuarios pueden tener acceso al archivo y buscar en él de la misma manera en que con sus buzones principales. La funcionalidad disponible depende del cliente en uso:
   
-- **Outlook 2016, Outlook 2013, Outlook 2010 y Outlook en la web** Los usuarios tienen acceso a todas las características del archivo, así como a las características de cumplimiento relacionadas, como el control sobre las directivas de retención y archivo. 
+- **Outlook 2016, Outlook 2013, Outlook 2010** y Outlook en la web Los usuarios tienen acceso a todas las características del archivo, así como a las características de cumplimiento relacionadas, como el control sobre las directivas de retención y archivo. 
     
 - **Outlook 2007** Los usuarios tienen soporte básico para el archivo local, pero no todas las características de archivo y cumplimiento están disponibles. Por ejemplo, los usuarios no pueden aplicar directivas de retención o archivo a elementos del buzón, en cambio, deben confiar en las directivas provistas por el administrador. 
     
@@ -41,12 +41,12 @@ Para obtener más información, vea:
     
 ### <a name="archive-sizes"></a>Tamaños de archivo
 
-Solo los datos de mensajería de un usuario pueden almacenarse en cada archivo personal. La asignación de almacenamiento depende del plan de suscripción. Para obtener más información acerca de los tamaños de los buzones de archivo, vea la sección "Límites de almacenamiento de buzones" en [Límites de Exchange Online](exchange-online-limits.md).
+Solo los datos de mensajería de un usuario pueden almacenarse en cada archivo personal. La asignación de almacenamiento depende del plan de suscripción. Para obtener más información acerca de los tamaños de los buzones de archivo, vea la sección "Límites de almacenamiento de buzones" [en Exchange Online archivos.](exchange-online-limits.md)
   
 > [!IMPORTANT]
 > - Con el registro en diario, el uso de reglas de transporte o reglas de transferencia automática para copiar mensajes en un buzón de Exchange Online con fines de archivado no está permitido. Microsoft se reserva el derecho de denegar el archivado ilimitado en casos en los que no se esté utilizando un archivo de buzón en un escenario personal o en otros casos de uso inadecuado.
 > - El archivo local tiene requisitos de licencia específicos para usuarios de Outlook. Los usuarios de Outlook 2007 deberán tener actualización acumulada de Office 2007 para febrero de 2011 para poder acceder al archivo personal. 
-> - Exchange Online no admite el cmdlet  _New-MailboxImportRequest_ Windows PowerShell de Exchange Server 2010 Service Pack 1 o posterior para la importación controlada por el administrador de archivos .pst en un archivo personal. Si un usuario tiene el buzón principal y el archivo en Exchange Online, un administrador puede usar PST Capture, una herramienta gratuita, para importar datos de archivos .pst al buzón principal o archivo del usuario.
+> - Exchange Online no admite el cmdlet _New-MailboxImportRequest_ Windows PowerShell de Exchange Server 2010 Service Pack 1 o posterior para la importación controlada por el administrador de archivos .pst en un archivo personal. Si un usuario tiene el buzón principal y el archivo en Exchange Online, un administrador puede usar PST Capture, una herramienta gratuita, para importar datos de archivos .pst al buzón principal o archivo del usuario.
 
 ## <a name="cloud-based-archiving-of-on-premises-mailboxes"></a>Archivado basado en nube de buzones locales
 
@@ -57,7 +57,7 @@ El uso de Exchange Online para el archivo basado en la nube de buzones de Exchan
   
 ## <a name="retention-tags-and-retention-policies"></a>Etiquetas de retención y directivas de retención
 
-Exchange Online ofrece directivas de retención para ayudar a las organizaciones a reducir las responsabilidades asociadas con el correo electrónico y otras comunicaciones. Con estas políticas, los administradores pueden aplicar configuración de retención a carpetas específicas de los buzones de los usuarios. Los administradores también pueden proporcionar a los usuarios un menú de directivas de retención y permitir que apliquen las directivas a elementos, conversaciones o carpetas específicos con Outlook 2010 o versiones posteriores o Outlook en la web.
+Exchange Online ofrece directivas de retención para ayudar a las organizaciones a reducir las responsabilidades asociadas con el correo electrónico y otras comunicaciones. Con estas políticas, los administradores pueden aplicar configuración de retención a carpetas específicas de los buzones de los usuarios. Los administradores también pueden proporcionar a los usuarios un menú de directivas de retención y permitir que apliquen las directivas a elementos, conversaciones o carpetas específicos mediante Outlook 2010 o posterior o Outlook en la web.
   
 En Exchange Online, los administradores administran las directivas de retención mediante el Centro de administración de Exchange (EAC) o Windows PowerShell remoto.
   
@@ -74,15 +74,15 @@ Para obtener más información, consulte [Etiquetas de retención y directivas d
   
 ## <a name="encryption-of-data-at-rest"></a>Cifrado de datos en reposo
 
-El cifrado de los datos de los clientes en reposo se proporciona mediante varias tecnologías del lado del servicio, como BitLocker, DKM, cifrado de servicio de almacenamiento de Azure y cifrado de servicio en Exchange Online, Skype Empresarial, OneDrive para la Empresa y SharePoint Online. El cifrado de servicio de Office 365 incluye una opción para usar claves de cifrado administradas por el cliente almacenadas en Azure Key Vault. Esta opción de clave administrada por el cliente, denominada [Clave](/microsoft-365/compliance/customer-key-overview)de cliente, está disponible para Exchange Online, SharePoint Online y OneDrive para la Empresa. 
+El cifrado de datos de clientes en reposo se proporciona mediante varias tecnologías del lado del servicio, como BitLocker, DKM, cifrado de servicio de Azure Storage y cifrado de servicio en Exchange Online, Skype Empresarial, OneDrive para la Empresa y SharePoint Online. Office 365 El cifrado de servicio incluye una opción para usar claves de cifrado administradas por el cliente que se almacenan en Azure Key Vault. Esta opción de clave administrada por el cliente, denominada [Clave](/microsoft-365/compliance/customer-key-overview)de cliente, está disponible para Exchange Online, SharePoint Online y OneDrive para la Empresa. 
   
 ### <a name="bitlocker"></a>BitLocker
 
-Los servidores de Microsoft usan BitLocker para cifrar las unidades de disco que contienen datos de clientes en reposo en el nivel de volumen. El cifrado de BitLocker es una característica de protección de datos integrada en Windows. BitLocker es una de las tecnologías usadas para protegerse contra amenazas en caso de que haya lapsos en otros procesos o controles (por ejemplo, control de acceso o reciclaje de hardware) que podrían llevar a alguien a obtener acceso físico a discos que contienen datos de clientes. En este caso, BitLocker elimina la posibilidad de robo o exposición de datos debido a equipos y discos perdidos, robados o desmantelados de forma inapropiada. 
+Los servidores microsoft usan BitLocker para cifrar las unidades de disco que contienen datos del cliente en reposo en el nivel de volumen. BitLocker cifrado es una característica de protección de datos integrada en Windows. BitLocker es una de las tecnologías usadas para protegerse contra amenazas en caso de que haya lapsos en otros procesos o controles (por ejemplo, control de acceso o reciclaje de hardware) que podrían llevar a alguien a obtener acceso físico a discos que contienen datos de clientes. En este caso, BitLocker elimina la posibilidad de robo o exposición de datos debido a la pérdida, robo o retirada inadecuada de discos y equipos. 
   
 ### <a name="distributed-key-manager"></a>Administrador de claves distribuidas
 
-Además de BitLocker, usamos una tecnología denominada Administrador de claves distribuidas (DKM). DKM es una funcionalidad del lado cliente que usa un conjunto de claves secretas para cifrar y descifrar información. Solo los miembros de un grupo de seguridad específico en Servicios de dominio de Active Directory pueden acceder a esas claves para descifrar los datos cifrados por DKM. En Exchange Online, solo determinadas cuentas de servicio bajo las cuales se ejecutan procesos de Exchange forman parte del grupo de seguridad. Como parte del procedimiento operativo estándar en el centro de datos, ningún humano tiene credenciales que forman parte de este grupo de seguridad y, por lo tanto, nadie tiene acceso a las claves que pueden descifrar la información confidencial.
+Además de BitLocker, usamos una tecnología denominada Distributed Key Manager (DKM). DKM es una funcionalidad del lado cliente que usa un conjunto de claves secretas para cifrar y descifrar información. Solo los miembros de un grupo de seguridad específico en Servicios de dominio de Active Directory pueden acceder a esas claves para descifrar los datos cifrados por DKM. En Exchange Online, solo determinadas cuentas de servicio bajo las cuales se ejecutan procesos de Exchange forman parte del grupo de seguridad. Como parte del procedimiento operativo estándar en el centro de datos, ningún humano tiene credenciales que forman parte de este grupo de seguridad y, por lo tanto, nadie tiene acceso a las claves que pueden descifrar la información confidencial.
   
 ## <a name="customer-key"></a>Clave de cliente
 
@@ -90,9 +90,9 @@ Con clave de cliente, controla las claves de cifrado de su organización y, a co
   
 ## <a name="office-365-message-encryption"></a>Cifrado de mensajes de Office 365
 
-El cifrado de mensajes de Office 365 permite a los usuarios de correo electrónico enviar mensajes de correo electrónico cifrados a cualquier persona. Anunciamos nuevas funcionalidades en El cifrado de mensajes de Office que aprovechan las características de protección de Azure Information Encryption. Estas nuevas funcionalidades proporcionaron experiencias mejoradas del usuario final que facilitan compartir y colaborar en mensajes protegidos con cualquier persona dentro o fuera de la organización. Las nuevas funcionalidades de cifrado de mensajes de Office tienen algunos requisitos de configuración. Consulte Configurar nuevas funcionalidades de cifrado de mensajes de Office 365 integradas en Azure Information Protection. Los clientes del cifrado de mensajes heredado de Office 365 no obtienen las nuevas funcionalidades sin seguir las instrucciones de configuración proporcionadas anteriormente. Lea las preguntas más [frecuentes](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) para obtener más información sobre lo que se incluye en las nuevas funcionalidades de cifrado de mensajes de Office 365 heredadas. 
+Cifrado de mensajes de Office 365 permite a los usuarios de correo electrónico enviar mensajes de correo electrónico cifrados a cualquier persona. Anunciamos nuevas funcionalidades en Office cifrado de mensajes que aprovechan las características de protección de Azure Information Encryption. Estas nuevas funcionalidades proporcionaron experiencias mejoradas del usuario final que facilitan compartir y colaborar en mensajes protegidos con cualquier persona dentro o fuera de la organización. Las nuevas Office de cifrado de mensajes tienen algunos requisitos de configuración. Consulte Configurar nuevas funcionalidades Cifrado de mensajes de Office 365 integradas en Azure Information Protection. Los clientes de Cifrado de mensajes de Office 365 no obtienen las nuevas funcionalidades sin seguir las instrucciones de configuración proporcionadas anteriormente. Lea las [preguntas más frecuentes](https://support.office.com/article/Office-365-Message-Encryption-FAQ-0432dce9-d9b6-4e73-8a13-4a932eb0081e) para obtener más información sobre lo que se incluye en las nuevas funcionalidades de Cifrado de mensajes de Office 365 heredadas. 
 
-El cifrado avanzado de mensajes de Office 365 proporciona protección adicional al permitir la expiración y revocación de mensajes.  También puede crear varias plantillas para correos electrónicos cifrados procedentes de su organización.  El cifrado de mensajes avanzado se incluye en Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (precios de personal sin ánimo de lucro), Office 365 Enterprise E5 (precios de personal sin ánimo de lucro) u Office 365 Educación A5. Si su organización tiene una suscripción que no incluye el cifrado avanzado de mensajes de Office 365, puede comprar el cumplimiento de Microsoft 365 E5 o la SKU de cumplimiento avanzado de Office 365 como complemento.
+Cifrado de mensajes avanzado de Office 365 proporciona protección adicional al permitir la expiración y revocación de mensajes.  También puede crear varias plantillas para correos electrónicos cifrados procedentes de su organización.  El cifrado de mensajes avanzado se incluye en Microsoft 365 E5, Office 365 E5, Microsoft 365 E5 (precios de personal sin ánimo de lucro), Office 365 Enterprise E5 (precios de personal sin ánimo de lucro) o Office 365 Educación A5. Si su organización tiene una suscripción que no incluye Cifrado de mensajes avanzado de Office 365, puede comprar Cumplimiento de Microsoft 365 E5 o la SKU Cumplimiento avanzado de Office 365 como complemento.
 
 ## <a name="securemultipurpose-internet-mail-extensions-smime"></a>Extensiones seguras multipropósito al correo de Internet (S/MIME)
 
@@ -170,13 +170,13 @@ Hoy en día, muchas organizaciones son obligadas por ley, requisitos legales o d
 - Aplicar avisos de declinación de responsabilidades a los mensajes conforme pasan por la organización
     
 > [!IMPORTANT]
-> Los tipos de archivos adjuntos que requieren la instalación de iFilters de terceros en el servidor de correo electrónico (como Adobe .pdf) no se pueden inspeccionar mediante reglas de flujo de correo hasta después de instalar un iFilter adecuado. Para obtener más información acerca de los tipos de archivo compatibles con las reglas de flujo de correo, vea Usar reglas de flujo de correo para inspeccionar datos adjuntos de mensajes [en Office 365](/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments).
+> Los tipos de archivos adjuntos que requieren la instalación de iFilters de terceros en el servidor de correo electrónico (como Adobe .pdf) no se pueden inspeccionar mediante reglas de flujo de correo hasta después de instalar un iFilter adecuado. Para obtener más información acerca de los tipos de archivo compatibles con las reglas de flujo de correo, vea [Use mail flow rules to inspect message attachments in Office 365](/exchange/security-and-compliance/mail-flow-rules/inspect-message-attachments).
   
-Para obtener más información acerca de las reglas de flujo de correo, vea [Reglas de flujo de correo en Exchange 2016](/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?preserve-view=true&view=exchserver-2019).
+Para obtener más información acerca de las reglas de flujo de correo, vea Reglas de flujo de [correo en Exchange 2016](/Exchange/policy-and-compliance/mail-flow-rules/mail-flow-rules?preserve-view=true&view=exchserver-2019).
   
 ## <a name="data-loss-prevention"></a>Prevención de pérdida de datos
 
-La característica de prevención de pérdida de datos (DLP) le ayudará a identificar, supervisar y proteger la información confidencial de su organización mediante un análisis profundo del contenido. DLP es una característica premium que resulta cada vez más importante para los sistemas de mensajes de las empresas, ya que los correos electrónicos importantes del negocio incluyen datos que deben ser protegidos. La característica DLP de Exchange Online le permite proteger datos confidenciales sin afectar a la productividad de los trabajadores.
+La característica de prevención de pérdida de datos (DLP) le ayudará a identificar, supervisar y proteger la información confidencial de su organización mediante un análisis profundo del contenido. DLP es una característica premium que resulta cada vez más importante para los sistemas de mensajes de las empresas, ya que los correos electrónicos importantes del negocio incluyen datos que deben ser protegidos. La característica DLP de Exchange Online permite proteger datos confidenciales sin afectar a la productividad de los trabajadores.
   
 Puede configurar directivas de DLP en la interfaz de administración del Centro de administración de Exchange (EAC), lo que le permite: 
   
@@ -188,11 +188,11 @@ Puede configurar directivas de DLP en la interfaz de administración del Centro 
     
 - Incorporar sus propias plantillas de directivas de DLP y sus propios tipos de información confidencial.
     
-- Detecte información confidencial en datos adjuntos de mensajes, texto del cuerpo o líneas de asunto y ajuste el nivel de confianza en el que actúa Exchange Online.
+- Detectar información confidencial en datos adjuntos de mensajes, texto del cuerpo o líneas de asunto y ajustar el nivel de confianza en el que Exchange Online actúa.
     
 - Detectar datos confidenciales mediante las huellas digitales de documentos. Las huellas digitales de documentos ayudan a crear fácilmente tipos de información confidencial personalizada en función de formularios basados en texto que se pueden usar para definir las reglas de transporte y las directivas DLP.
     
-- Agregue sugerencias de directiva, que pueden ayudar a reducir la pérdida de datos mostrando un aviso a los usuarios de Outlook 2016, Outlook 2013, Outlook en la web y OWA para dispositivos, y también puede mejorar la eficacia de las directivas al permitir informes falsos positivos. 
+- Agregar directiva Sugerencias, que puede ayudar a reducir la pérdida de datos mostrando un aviso a los usuarios de Outlook 2016, Outlook 2013, Outlook en la web y OWA para dispositivos, y también puede mejorar la eficacia de las directivas al permitir informes falsos positivos. 
     
 - Revisar los datos de incidentes en informes de DLP o agregar sus propios informes específicos mediante una acción de generación de informes de incidentes.
     
@@ -206,7 +206,7 @@ Puede administrar reglas de diario con el Centro de administración de Exchange 
   
 Para garantizar una solución de registro en diario correcta y confiable, debe completar las siguientes tareas:
   
-- Asegúrese de que el destino de registro en diario no sea un buzón de Exchange Online.
+- Asegúrese de que el destino de registro en diario no sea un buzón Exchange Online registro.
     
 - Cree en el directorio del cliente un objeto de contacto para la dirección de correo electrónico de destino SMTP, para utilizar en el registro en diario.
     
@@ -220,4 +220,4 @@ Para más información sobre el registro en diario, consulte [Registro en diario
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [consulte Exchange Online descripción del servicio](exchange-online-service-description.md).

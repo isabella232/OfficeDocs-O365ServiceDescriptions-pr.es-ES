@@ -7,7 +7,7 @@ ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
-description: Universal Print, un servicio de impresión en la nube de Microsoft 365, elimina la necesidad de servidores de impresión locales.
+description: Universal Print, un Microsoft 365 de impresión en la nube, elimina la necesidad de servidores de impresión locales.
 ms.openlocfilehash: 4c716c706dd2383ed64fa867399ca88ee459d912
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -17,7 +17,7 @@ ms.locfileid: "51653612"
 ---
 # <a name="universal-print-service-description"></a>Descripción del servicio de Impresión universal
 
-[Universal Print](https://www.microsoft.com/microsoft-365/windows/universal-print), un servicio de impresión en la nube de Microsoft 365, elimina la necesidad de servidores de impresión locales. Este servicio permite a los puntos de conexión de Windows 10 unidos al lugar de trabajo seleccionar e imprimir en impresoras registradas de Azure AD sin necesidad de instalar otro software cliente.
+[Universal Print,](https://www.microsoft.com/microsoft-365/windows/universal-print)un Microsoft 365 de impresión en la nube, elimina la necesidad de servidores de impresión locales. Este servicio permite que los puntos de conexión de Windows 10 unidos al lugar de trabajo seleccionen e impriman en impresoras registradas de Azure AD sin necesidad de instalar otro software cliente.
 
 Los usuarios se benefician de la impresión sin controladores, la detección de impresoras optimizada basada en la ubicación y una experiencia de impresión intuitiva sin curva de aprendizaje que aprovecha el flujo de impresión existente en su dispositivo.
 
@@ -39,11 +39,11 @@ La impresión universal se incluye en las siguientes suscripciones, para satisfa
 
 Para obtener una lista completa de todas las características de impresión universal, consulte la [documentación de impresión universal](/universal-print/).
 
-| Característica                                  | Planes de pequeña empresa | Planes de empresa | Planes educativos |
+| Característica                                  | Planes de pequeña empresa | Enterprise planes | Planes educativos |
 |------------------------------------------|----------------------|------------------|-----------------|
 | [Funcionalidad de impresión principal](/universal-print/)             | Sí                  | Sí              | Sí             |
 | [Conversión de documentos](/universal-print/fundamentals/universal-print-document-conversion)                  | Sí                  | Sí              | Sí             |
-| [Software del conector de impresión universal](/universal-print/fundamentals/universal-print-connector-overview)   | Sí                  | Sí              | Sí             |
+| [conector de Impresión universal software](/universal-print/fundamentals/universal-print-connector-overview)   | Sí                  | Sí              | Sí             |
 | [Scripting de PowerShell de impresión universal](/universal-print/fundamentals/universal-print-powershell) | Sí                  | Sí              | Sí             |
 
 ## <a name="learn-more"></a>Más información
@@ -52,7 +52,7 @@ Para obtener información adicional acerca de la impresión universal, consulte 
 
 - [Integraciones universales de partners de impresión](/universal-print/fundamentals/universal-print-partner-integrations)
 - [Referencia de la API de impresión universal](/graph/universal-print-concept-overview)
-- [Comunidad tecnológica de impresión universal](https://techcommunity.microsoft.com/t5/universal-print/ct-p/UniversalPrint)
+- [Tecnología de impresión universal Community](https://techcommunity.microsoft.com/t5/universal-print/ct-p/UniversalPrint)
 
 ### <a name="licensing-terms"></a>Términos de licencia
 
@@ -64,4 +64,4 @@ Para realizar un seguimiento de los próximos cambios, incluidas las caracterís
 
 ### <a name="accessibility"></a>Accesibilidad
 
-Microsoft sigue comprometido con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, vea [El Centro de confianza de Microsoft](https://www.microsoft.com/trust-center) y el Centro de [accesibilidad de Office](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+Microsoft sigue comprometido con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, vea [el Centro](https://www.microsoft.com/trust-center) de confianza de Microsoft y el Centro Office [accesibilidad](https://support.microsoft.com/topic/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

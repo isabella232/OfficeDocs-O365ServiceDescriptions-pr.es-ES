@@ -18,9 +18,9 @@ ms.locfileid: "51652604"
 ---
 # <a name="myanalytics-service-description"></a>Descripción del servicio MyAnalytics
 
-MyAnalytics resume cómo pasa su tiempo en el trabajo y, a continuación, sugiere formas de trabajar de forma más inteligente. MyAnalytics proporciona estos conocimientos a través de [elementos](#elements) a los que puede tener acceso en Microsoft Outlook o a través del explorador web.
+MyAnalytics resume cómo pasa su tiempo en el trabajo y, a continuación, sugiere formas de trabajar de forma más inteligente. MyAnalytics proporciona estos [](#elements) conocimientos a través de elementos a los que puede tener acceso en Microsoft Outlook o a través del explorador web.
 
-Algunos de los elementos de MyAnalytics se proporcionan automáticamente a los usuarios de varios planes de Office 365. Para obtener información sobre qué elementos se incluyen en los planes de Office 365 y Microsoft 365, vea [MyAnalytics plans and environments](/workplace-analytics/myanalytics/overview/plans-environments).  
+Algunos de los elementos de MyAnalytics se proporcionan automáticamente a los usuarios de varios Office 365 planes. Para obtener información sobre qué elementos se incluyen en Office 365 y Microsoft 365, vea [MyAnalytics plans and environments](/workplace-analytics/myanalytics/overview/plans-environments).  
 
 MyAnalytics procesa la información de una manera que protege la privacidad de los empleados. Para obtener más información, vea [Privacidad de datos](#data-privacy).
 
@@ -33,7 +33,7 @@ Para obtener información detallada del plan sobre las suscripciones que permite
 MyAnalytics consta de los siguientes elementos:
 
 * [Panel:](/workplace-analytics/myanalytics/use/dashboard-2)le ayuda a reflejar los patrones de trabajo, como el tiempo para el trabajo centrado, las prácticas de reuniones y correo electrónico y las redes.
-* [Complemento de Outlook:](/workplace-analytics/myanalytics/use/add-in)le proporciona información útil en Outlook que le ayudará a mantenerse al tanto de sus tareas y a realizar más tareas.
+* [Outlook complemento:](/workplace-analytics/myanalytics/use/add-in)le proporciona información útil en Outlook que le ayudarán a mantenerse al tanto de sus tareas y a realizar más tareas.
 * [Resúmenes de correo](/workplace-analytics/myanalytics/use/email-digest-2)electrónico: le ofrece aspectos más destacados sobre los patrones de trabajo en un correo electrónico semanal.
 * Sugerencias en línea: estas [sugerencias breves,](/workplace-analytics/myanalytics/use/mya-notifications)basadas en datos e inteligencia artificial aparecen en Outlook mientras lee o redacta un correo electrónico o una invitación a una reunión.
 

@@ -29,7 +29,7 @@ Las organizaciones deben elegir las opciones de migración en función de sus si
 
 - **Implementación solo en la nube:** la organización tiene todos los buzones de usuario hospedados en Exchange Online. 
     
-- **Implementación híbrida de Exchange:** la organización tiene algunos buzones de usuario hospedados en una organización local de Exchange y algunos buzones de usuario hospedados en Exchange Online. 
+- **Exchange implementación híbrida:** la organización tiene algunos buzones de usuario hospedados en una organización Exchange local y algunos buzones de usuario hospedados en Exchange Online. 
     
 ### <a name="cloud-only"></a>Solo de nube
 
@@ -48,13 +48,13 @@ Para obtener más información sobre las implementaciones híbridas, vea [Implem
 
 Las organizaciones deben elegir las opciones de migración en función de sus sistemas de correo electrónico de origen, del estado final deseado (hospedado total o parcialmente), del número de usuarios que se vayan a migrar y de lo rápido que se deba alcanzar el estado final. Entre las opciones de migración posibles se incluyen:
   
-- **Migración de IMAP:** migre los datos de buzones de correo de sistemas de correo electrónico basados en IMAP a Exchange Online. 
+- **Migración de IMAP:** migre los datos de buzones de correo de sistemas de correo basados en IMAP a Exchange Online. 
     
-- Migración de **Exchange** de escala: migre los buzones de Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 y sistemas hospedados de Exchange a Exchange Online en una única migración de escala. 
+- Migración de **Exchange** de Exchange Server: migrar buzones de Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 y sistemas Exchange hospedados a Exchange Online en una única migración de escala. 
     
-- **Migración de Exchange** por fases: realice una migración por fases para migrar buzones de correo de Exchange Server 2003 o Exchange Server 2007 con herramientas de migración basadas en web y cambios mínimos en la infraestructura local. 
+- **Migración Exchange** por fases: realice una migración por fases para migrar buzones de correo de Exchange Server 2003 o Exchange Server 2007 con herramientas de migración basadas en web y cambios mínimos en la infraestructura local. 
     
-- **Migración de movimiento remoto:** migrar buzones de Exchange locales a Exchange Online en una implementación híbrida de Exchange. Debe tener una implementación híbrida de Exchange para poder usar una migración de movimiento remoto. 
+- **Migración de movimiento remoto:** migre los buzones Exchange locales a Exchange Online en una Exchange implementación híbrida. Debe tener una implementación híbrida de Exchange para poder usar una migración de movimiento remoto. 
     
 Para obtener más información sobre cómo migrar correo electrónico y buzones a Exchange Online, consulte [Migración de buzones a Exchange Online ](https://support.office.com/article/-a3e3bddb-582e-4133-8670-e61b9f58627e).
   
@@ -109,7 +109,7 @@ Para obtener más información sobre las migraciones preconfiguradas de Exchange
 
 Microsoft ofrece varias herramientas para la migración de un entorno de correo electrónico existente a Exchange Online. La elección de la herramienta adecuada dependerá del entorno actual de la organización y de los objetivos de la implementación:
   
-- **Panel de migración:** los administradores pueden usar el panel de migración en el Centro de administración de Exchange para administrar la migración de buzones de correo a Exchange Online en una migración de Exchange por fases o por fases. También pueden usar el panel para migrar los contenidos de los buzones de correo de usuarios desde un servidor IMAP local a buzones de correo existentes de Exchange Online. El panel proporciona a los administradores las siguientes capacidades: 
+- **Panel de** migración: los administradores pueden usar el panel de migración en el Centro de administración de Exchange para administrar la migración de buzones de correo a Exchange Online en una migración avanzada o Exchange migración. También pueden usar el panel para migrar los contenidos de los buzones de correo de usuarios desde un servidor IMAP local a buzones de correo existentes de Exchange Online. El panel proporciona a los administradores las siguientes capacidades: 
     
   - **Crear e iniciar varios lotes de migración:** los administradores pueden crear y poner en cola hasta 100 lotes de migración. Solo se ejecuta un lote de migración a la vez, aunque los administradores pueden poner en cola varios lotes, para que cuando se finalice la ejecución de uno, se inicie la del próximo que está en la cola. 
     
@@ -119,13 +119,13 @@ Microsoft ofrece varias herramientas para la migración de un entorno de correo 
     
   - **Abrir informes de migración:** los administradores pueden abrir estadísticas de migración o el informe de errores de migración de un lote de migración directamente desde el panel. 
     
-  - **Editar un** lote de migración: si un lote de migración para una migración de Exchange por fases o una migración IMAP está en la cola de migración pero no se está ejecutando actualmente, los administradores pueden editar el lote de migración. 
+  - **Editar un** lote de migración: si un lote de migración para una migración Exchange por fases o una migración IMAP está en la cola de migración pero no se está ejecutando actualmente, los administradores pueden editar el lote de migración. 
     
-- **Herramienta de sincronización de Azure Active Directory:** la herramienta de sincronización de Azure Active Directory desempeña un papel importante en la migración a escenarios de correo electrónico híbrido que usan Exchange Online y un entorno Exchange Server. La herramienta realiza una sincronización unidireccional desde Active Directory local a Exchange Online. Una vez completada la migración, los administradores solo tienen que usar Exchange Online para administrar los usuarios y grupos de Active Directory. La herramienta también proporciona a los usuarios una lista global de direcciones (GAL) unificada en la que el entorno en línea se sincroniza de manera constante con el entorno local. 
+- **Azure Active Directory de sincronización:** la herramienta de sincronización de Azure Active Directory desempeña un papel importante en la migración a escenarios de correo electrónico híbrido que usan tanto Exchange Online como una herramienta Exchange Server. La herramienta realiza una sincronización unidireccional desde Active Directory local a Exchange Online. Una vez completada la migración, los administradores solo tienen que usar Exchange Online para administrar los usuarios y grupos de Active Directory. La herramienta también proporciona a los usuarios una lista global de direcciones (GAL) unificada en la que el entorno en línea se sincroniza de manera constante con el entorno local. 
     
     Para obtener más información sobre Herramienta de sincronización de Microsoft Azure Active Directory, vea el [Plan de desarrollo de sincronización de directorios](/azure/active-directory/hybrid/whatis-hybrid-identity).
     
-- **Asistente para la** configuración híbrida: el Asistente para la configuración híbrida simplifica el proceso de implementación híbrida simplificando la configuración local y de Exchange Online de características y servicios. Incluido en el Service Pack 2 de Exchange Server 2010, el asistente de configuración híbrida se ejecuta solo en las organizaciones locales y tiene los siguientes componentes: 
+- **Asistente para la** configuración híbrida: el Asistente para la configuración híbrida simplifica el proceso de implementación híbrida simplificando la configuración local y Exchange Online de características y servicios. Incluido en el Service Pack 2 de Exchange Server 2010, el asistente de configuración híbrida se ejecuta solo en las organizaciones locales y tiene los siguientes componentes: 
     
   - Un asistente del Centro de administración de Exchange (EAC) que guía a los administradores por todo el proceso de un extremo a otro para configurar una implementación híbrida.
     
@@ -133,8 +133,8 @@ Microsoft ofrece varias herramientas para la migración de un entorno de correo 
     
     Para obtener más información sobre el Asistente para la configuración híbrida, vea [Asistente para la configuración híbrida](/exchange/hybrid-configuration-wizard).
     
-- **Windows PowerShell** remoto: como parte de la actualización de servicio de diciembre de 2011 de Exchange Online, se puede usar Windows PowerShell remoto para ayudar a solucionar errores de migración. Por ejemplo, los administradores pueden mostrar información de diagnóstico de los lotes de migración, así como estadísticas e información de migración para los usuarios en función de sus direcciones SMTP principales. 
+- **Remote Windows PowerShell:** como parte de la actualización de Exchange Online de diciembre de 2011, se pueden usar Windows PowerShell remoto para ayudar a solucionar errores de migración. Por ejemplo, los administradores pueden mostrar información de diagnóstico de los lotes de migración, así como estadísticas e información de migración para los usuarios en función de sus direcciones SMTP principales. 
     
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea, [Descripción del servicio de Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [vea, Exchange Online descripción del servicio](exchange-online-service-description.md).

@@ -11,7 +11,7 @@ ms.prod: office-online-server
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 369e2f21-6d9b-414f-98a8-14590c576817
-description: Las siguientes características de interoperabilidad de SharePoint y Skype Empresarial están disponibles en Project Online.
+description: Las siguientes SharePoint y Skype Empresarial de interoperabilidad están disponibles en Project Online.
 ms.openlocfilehash: 6c3538a2829d1367713763391ffb4fd960792412
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,9 +21,9 @@ ms.locfileid: "51651193"
 ---
 # <a name="project-publishing"></a>Publicación de proyecto
 
-Las siguientes características de interoperabilidad de SharePoint y Skype Empresarial están disponibles en Project Online.
+Las siguientes SharePoint y Skype Empresarial de interoperabilidad están disponibles en Project Online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea la [descripción del servicio de Project Online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [descripción Project Online servicio .](project-online-service-description.md)
   
 ## <a name="create-a-project-site"></a>Crear un sitio de proyecto
 
@@ -37,20 +37,20 @@ Es posible agregar proyectos principales a un sitio de SharePoint para resumir o
 
 Use capacidades de mensajería para comunicarse con los miembros del equipo de su proyecto. Obtenga más información sobre el [chat de mensajería instantánea en Project](https://go.microsoft.com/fwlink/p/?LinkId=271351).
   
-## <a name="publish-projects-on-project-server-or-project-online"></a>Publicar proyectos en Project Server o Project Online
+## <a name="publish-projects-on-project-server-or-project-online"></a>Publicar proyectos en Project servidor o Project Online
 
 Publique un proyecto mediante Project Web App. Obtenga más información sobre cómo [guardar y publicar un proyecto en Project Web App](https://go.microsoft.com/fwlink/p/?LinkId=271354).
   
-## <a name="save-a-project-mpp-file-on-sharepoint"></a>Guardar un archivo MPP de Project en SharePoint
+## <a name="save-a-project-mpp-file-on-sharepoint"></a>Guardar un Project MPP en SharePoint
 
-Guarde un proyecto en una biblioteca de documentos de SharePoint para compartirlo con los miembros del equipo que no tienen Project Server. Obtenga más información sobre cómo [sincronizar con una lista de tareas de SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271353).
+Guarde un proyecto en una biblioteca SharePoint documentos para compartir con miembros del equipo que no tienen Project Server. Obtenga más información sobre cómo [sincronizar con una lista de tareas de SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
-## <a name="task-list-sync-to-sharepoint"></a>Sincronización de lista de tareas con SharePoint
+## <a name="task-list-sync-to-sharepoint"></a>Sincronización de lista de tareas SharePoint
 
 Después de emparejar por primera vez su proyecto con una lista de tareas de SharePoint, puede sincronizarlo con la lista de tareas cuando actualiza el proyecto. Las relaciones anteriores entre tareas, hitos y asignación de campos (incluidas las notas) se conservan durante la sincronización. Los miembros de su equipo no han de tener Project Professional 2013 instalado para acceder a sus tareas. Obtenga más información sobre cómo [sincronizar con una lista de tareas de SharePoint](https://go.microsoft.com/fwlink/p/?LinkId=271353).
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea Descripción del servicio [de Project Online](project-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [consulte Project Online descripción del servicio](project-online-service-description.md).
   
 

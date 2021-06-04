@@ -23,7 +23,7 @@ ms.locfileid: "51651065"
 
 Las siguientes características de administración de tareas están disponibles en Project Online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea la [descripción del servicio de Project Online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [descripción Project Online servicio .](project-online-service-description.md)
   
 ## <a name="active-and-inactive-tasks"></a>Active and inactive tasks
 
@@ -53,7 +53,7 @@ Vea los factores que afectan la programación de una tarea, como la fecha de ini
 
 Vea la manera en que una tarea se conecta con otras tareas al resaltar la ruta de acceso a la tarea en todo el proyecto. Obtenga más información sobre [resaltar cómo se vinculan las tareas entre sí](https://go.microsoft.com/fwlink/p/?LinkId=271345).
   
-## <a name="top-down-summary-tasks"></a>Tareas de resumen descendentes
+## <a name="top-down-summary-tasks"></a>Top-down summary tasks
 
 Cree una asignación de recursos en una tarea de resumen. Obtenga más información sobre la [planeación descendente](https://go.microsoft.com/fwlink/p/?LinkId=271333).
   
@@ -67,5 +67,5 @@ Use el modo de programación manual para programar las tareas manualmente. Vea [
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea Descripción del servicio [de Project Online](project-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [consulte Project Online descripción del servicio](project-online-service-description.md).
   

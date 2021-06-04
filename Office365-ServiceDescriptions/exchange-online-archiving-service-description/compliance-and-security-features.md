@@ -27,7 +27,7 @@ En este artículo se describen las características de cumplimiento de Microsoft
   
 ### <a name="retention-policies"></a>Directivas de retención
 
-Archivado de Exchange Online ofrece directivas de retención para ayudar a las organizaciones a reducir las responsabilidades asociadas con el correo electrónico y otras comunicaciones. Con estas directivas, los administradores pueden aplicar la configuración de retención a carpetas específicas de los buzones de los usuarios. Los administradores también pueden proporcionar a los usuarios un menú de directivas de retención y permitir que apliquen las directivas a elementos, conversaciones o carpetas específicos con Outlook 2010 o versiones posteriores o Outlook en la web. En Archivado de Exchange Online, los administradores administran políticas de retención desde la infraestructura local.
+Archivado de Exchange Online ofrece directivas de retención para ayudar a las organizaciones a reducir las responsabilidades asociadas con el correo electrónico y otras comunicaciones. Con estas directivas, los administradores pueden aplicar la configuración de retención a carpetas específicas de los buzones de los usuarios. Los administradores también pueden proporcionar a los usuarios un menú de directivas de retención y permitir que apliquen las directivas a elementos, conversaciones o carpetas específicos mediante Outlook 2010 o posterior o Outlook en la web. En Archivado de Exchange Online, los administradores administran políticas de retención desde la infraestructura local.
   
 Archivado de Exchange Online ofrece dos tipos de directivas: de archivado y de eliminación. Ambos tipos se pueden aplicar en el mismo elemento o carpeta. Por ejemplo, un usuario puede etiquetar un mensaje de correo electrónico para que se transfiera automáticamente a su archivo personal al transcurrir un cierto número de días y se elimine el momento especificado.
   
@@ -95,7 +95,7 @@ Se utiliza TLS para cifrar la conexión entre servidores de correo electrónico 
 
 Las conexiones cliente a Archivado de Exchange Online utilizan los siguientes métodos de cifrado para mejorar la seguridad:
   
-- SSL se usa para proteger el tráfico de Outlook, Outlook en la web y Exchange Web Services, mediante el puerto TCP 443.
+- SSL se usa para proteger Outlook, Outlook en la web y para Exchange de servicios web mediante el puerto TCP 443.
     
 - Las conexiones cliente a los servidores locales no cambian con la presentación de Archivado de Exchange Online.
     
@@ -111,7 +111,7 @@ Archivado de Exchange Online no proporciona servicios de Information Rights Mana
   
 #### <a name="support-for-irm-in-outlook-on-the-web"></a>Compatibilidad con IRM en Outlook en la web
 
-Los usuarios pueden leer y crear mensajes protegidos con IRM de forma nativa en Outlook en la web, tal como pueden hacerlo en Outlook. Se puede acceder a los mensajes protegidos con IRM en Outlook en la web a través de Internet Explorer, Firefox, Safari y Chrome (sin necesidad de complemento). Los mensajes incluyen la búsqueda de texto completo, la vista de conversaciones y el panel de vista previa. La interoperabilidad entre el servidor de Servicios de administración de Active Directory y el entorno Exchange local se debe configurar para habilitar esta posibilidad.
+Los usuarios pueden leer y crear mensajes protegidos con IRM de forma nativa en Outlook en la web, tal como pueden en Outlook. Los mensajes protegidos con IRM Outlook en la web se pueden obtener acceso a través de Internet Explorer, Firefox, Safari y Chrome (sin necesidad de complemento). Los mensajes incluyen la búsqueda de texto completo, la vista de conversaciones y el panel de vista previa. La interoperabilidad entre el servidor de Servicios de administración de Active Directory y el entorno Exchange local se debe configurar para habilitar esta posibilidad.
   
 #### <a name="irm-search"></a>Búsqueda de IRM
 
@@ -121,7 +121,7 @@ Los mensajes protegidos con IRM están indizados y permiten realizar búsquedas,
 
 Archivado de Exchange Online proporciona dos tipos de capacidades de auditoría integradas:
   
-- **Registro de auditoría de** administrador: el registro de auditoría de administrador permite a los clientes realizar un seguimiento de los cambios realizados por sus administradores en el entorno de Archivado de Exchange Online, incluidos los cambios en los roles RBAC o las directivas y la configuración de Exchange. 
+- **Registro de auditoría** de administrador: el registro de auditoría de administrador permite a los clientes realizar un seguimiento de los cambios realizados por sus administradores en el entorno de Archivado de Exchange Online, incluidos los cambios en los roles RBAC o Exchange directivas y configuraciones. 
     
 - **Registro de auditoría de buzones:** el registro de auditoría de buzones permite a los clientes realizar un seguimiento del acceso a los buzones por parte de usuarios distintos del propietario del buzón. 
     

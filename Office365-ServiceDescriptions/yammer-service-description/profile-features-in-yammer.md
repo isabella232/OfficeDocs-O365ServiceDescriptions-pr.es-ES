@@ -41,14 +41,14 @@ Agregue administradores e informes para crear un gráfico de la organización ju
   
 ## <a name="praise"></a>Elogios
 
-Reconozca y reciba el reconocimiento por el trabajo bien hecho. Los logros y los distintivos aparecen en los perfiles de la **pestaña** Elogio.
+Reconozca y reciba el reconocimiento por el trabajo bien hecho. Los logros y los distintivos aparecen en los perfiles de **la Elogio** pestaña.
  
 ## <a name="user-profiles"></a>Perfiles de usuario
 
-Carga una imagen, rellena los detalles de contacto y enumera tu experiencia. En los perfiles se incorporará toda su información, incluida la información sobre conversaciones y archivos.
+Upload una imagen, rellene los detalles de contacto y enumé de su experiencia. En los perfiles se incorporará toda su información, incluida la información sobre conversaciones y archivos.
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Yammer](yammer-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [vea Yammer descripción del servicio](yammer-service-description.md).
   
 

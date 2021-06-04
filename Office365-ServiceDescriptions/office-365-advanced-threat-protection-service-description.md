@@ -102,7 +102,7 @@ A continuación, se incluye cada característica. Cuando se menciona Exchange On
 
 ## <a name="defender-for-office-365-capabilities"></a>Defender para Office 365 capacidades
 
-### <a name="safe-attachments"></a>Archivos adjuntos seguros
+### <a name="safe-attachments"></a>Datos adjuntos seguros
 
 [Caja fuerte datos adjuntos](/microsoft-365/security/office-365-security/atp-safe-attachments) protege contra malware y virus desconocidos y proporciona protección de día cero para proteger el sistema de mensajería. Todos los mensajes y datos adjuntos que no tienen una firma conocida de virus o malware se enruta a un entorno especial donde Defender para Office 365 usa una variedad de técnicas de aprendizaje automático y análisis para detectar intenciones malintencionadas. Si no se detecta ninguna actividad sospechosa, se libera el mensaje para su entrega al buzón de correo.
 

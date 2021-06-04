@@ -27,12 +27,12 @@ En las secciones siguientes se describen las características de archivo de Micr
   
 ## <a name="archive-mailbox"></a>Buzón de archivo
 
-Archivado de Exchange Online ofrece a los usuarios capacidades avanzadas de archivado con la característica de buzón de archivo. Un buzón de archivo es un buzón especializado que aparece junto con las carpetas de buzones principales de los usuarios en Outlook o Outlook en la web. Los usuarios pueden acceder al archivo de la misma manera que tienen acceso a sus buzones principales. Además, pueden buscar en sus archivos y buzones principales.
+Archivado de Exchange Online ofrece a los usuarios capacidades avanzadas de archivado con la característica de buzón de archivo. Un buzón de archivo es un buzón especializado que aparece junto con las carpetas de buzones principales de los usuarios Outlook o Outlook en la web. Los usuarios pueden acceder al archivo de la misma manera que tienen acceso a sus buzones principales. Además, pueden buscar en sus archivos y buzones principales.
   
 Los administradores pueden habilitar la característica de archivo para usuarios específicos desde el Centro de administración de Exchange (EAC) o desde Windows PowerShell remoto. Para obtener más información, vea [Habilitar o deshabilitar un buzón de archivo en Exchange Online](/office365/securitycompliance/enable-archive-mailboxes).
   
 > [!IMPORTANT]
->  No se permite copiar mensajes en Archivado de Exchange Online para su archivo con el registro en diario, o mediante reglas de transporte o reenvío automático. <br/>
+>  No se permite copiar mensajes en Archivado de Exchange Online para su archivo con el registro en diario, o mediante reglas de transporte o reenvío automático.<br/>
 >  El buzón de archivo de un usuario está diseñado exclusivamente para dicho usuario. Microsoft se reserva el derecho a denegar el archivado ilimitado en los casos en que el buzón de archivo de un usuario se utilice para almacenar datos de archivo para otros usuarios o en otros casos de uso inadecuado.
   
 ### <a name="move-messages-to-exchange-online-archiving"></a>Mover mensajes a Exchange Online Archiving
@@ -58,12 +58,12 @@ Para importar datos al archivo, los usuarios pueden:
 
 Los usuarios pueden restaurar elementos que han eliminado con anterioridad desde cualquier carpeta de correo de su archivo. Cuando se elimina un elemento, permanece en la carpeta Elementos eliminados del archivo. El elemento permanece ahí hasta que el usuario lo elimina de forma manual o hasta que las directivas de retención lo quitan de forma automática.
   
-Cuando el elemento se quita de la carpeta Elementos eliminados del archivo, se conserva en la carpeta Elementos recuperables del archivo durante 14 días, antes de eliminarse de forma permanente. Los usuarios pueden recuperar estos elementos mediante **la característica Recuperar elementos** eliminados en Microsoft Outlook o Outlook en la web. 
+Cuando el elemento se quita de la carpeta Elementos eliminados del archivo, se conserva en la carpeta Elementos recuperables del archivo durante 14 días, antes de eliminarse de forma permanente. Los usuarios pueden recuperar estos elementos mediante la característica **Recuperar** elementos eliminados en Microsoft Outlook o Outlook en la web. 
   
 Si un usuario purga de manera manual un elemento de la carpeta Elementos recuperables, los administradores pueden recuperarlo a lo largo de los 14 días siguientes con la característica Recuperación de un único elemento. Esta característica permite a los administradores realizar una búsqueda en varios buzones para buscar los elementos que se han purgado y, después, transferirlos desde el buzón de correo de detección hasta los buzones de los usuarios con el cmdlet  `Search-Mailbox` de Windows PowerShell. Para obtener más información, vea [Habilitar o deshabilitar la recuperación de elementos individuales de un buzón de correo](/office365/securitycompliance/use-network-upload-to-import-pst-files).
   
 > [!NOTE]
->  El período predeterminado de recuperación de un único elemento es de 14 días, pero se puede personalizar en situaciones determinadas. <br/>
+>  El período predeterminado de recuperación de un único elemento es de 14 días, pero se puede personalizar en situaciones determinadas.<br/>
 >  Si un administrador ha colocado el buzón de un usuario en una retención In-Place o retención por juicio, los elementos purgados se conservan indefinidamente y la ventana de 14 días no se aplica. 
   
 ## <a name="deleted-mailbox-recovery"></a>Recuperación de buzones eliminados
@@ -75,7 +75,7 @@ Cuando los administradores eliminan usuarios de una implementación local de Exc
   
 ## <a name="mailbox-service-redundancy"></a>Redundancia de servicios de buzón
 
-Los buzones de archivo de Archivado de Exchange Online se replican en varias copias de bases de datos, en centros de datos de Microsoft dispersos geográficamente, para proporcionar la funcionalidad de restauración de datos en caso de error en la infraestructura de mensajería. Para los errores a gran escala, se inicia la administración de continuidad empresarial. 
+Los buzones de archivo de Archivado de Exchange Online se replican en varias copias de bases de datos, en centros de datos de Microsoft geográficamente dispersos, para proporcionar la funcionalidad de restauración de datos en caso de error en la infraestructura de mensajería. Para los errores a gran escala, se inicia la administración de continuidad empresarial. 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

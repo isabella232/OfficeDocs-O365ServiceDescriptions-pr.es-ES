@@ -35,4 +35,4 @@ Vea el [21Vianet Service Level Agreement (Contrato de nivel de servicio de 21Via
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, vea [Microsoft 365 and Office 365 platform service description](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en todos los planes, vea [Microsoft 365 y Office 365 descripción del servicio de la plataforma](office-365-platform-service-description.md).

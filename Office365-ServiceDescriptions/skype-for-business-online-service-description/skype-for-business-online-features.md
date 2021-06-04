@@ -9,7 +9,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
-description: Si es administrador, encontrará instrucciones detalladas para configurar las características de Skype Empresarial Online en Configurar Skype Empresarial Online.
+description: Si eres administrador, puedes encontrar instrucciones detalladas para configurar las características Skype Empresarial Online en Configurar Skype Empresarial Online.
 ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -32,7 +32,7 @@ Si es administrador, encontrará instrucciones detalladas para configurar las ca
     
 - Para una comparación detallada de los clientes web y de escritorio de Skype Empresarial, consulte [Tablas de comparación de cliente de Skype Empresarial Online](/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison). Para una comparación detallada de los clientes móviles de Skype Empresarial, consulte las [Tablas de comparación de clientes móviles](/skypeforbusiness/plan-your-deployment/clients-and-devices/mobile-feature-comparison).
     
-Para descargar el cliente de tu dispositivo móvil, PC o Mac, ve a [Descargar Skype Empresarial en todos los dispositivos](https://go.microsoft.com/fwlink/?linkid=846929).
+Para descargar el cliente de tu dispositivo móvil, PC o Mac, ve a [Descargar Skype Empresarial todos los dispositivos](https://go.microsoft.com/fwlink/?linkid=846929).
   
 Skype Empresarial proporciona soporte técnico para los dispositivos de salas de conferencias que se muestran aquí. Para obtener información adicional, trabaje con el equipo de su cuenta o llame al [soporte técnico de Microsoft](https://support.office.com/article/32a17ca7-6fa0-4870-8a8d-e25ba4ccfd4b). Puede seleccionar la configuración regional de la lista desplegable para obtener un número local.
   
@@ -40,35 +40,35 @@ Skype Empresarial proporciona soporte técnico para los dispositivos de salas de
 
 Con Skype Empresarial los usuarios pueden:
   
-- Muestra su estado de &mdash; presencia, por ejemplo, Disponible, Lejos, No molestar o Sin conexión para que otros sepan &mdash; su disponibilidad. La información de presencia de Skype Empresarial se presenta en todo el conjunto.
+- Muestra su estado de &mdash; presencia, por ejemplo, Disponible, Lejos, No molestar o Sin conexión para que otros sepan &mdash; su disponibilidad. Skype Empresarial la información de presencia se presenta en todo el conjunto.
     
 - Enviar y recibir mensajes de texto en tiempo real a través de una red de Protocolo de Internet (IP), como Internet, o la red corporativa de una organización. La mensajería instantánea está disponible para una comunicación de Skype a Skype o entre varias entidades. El texto de MI se cifra para mayor seguridad.
     
 - Configurar el modo en que se muestran sus propias tarjetas de contacto de Skype Empresarial a otros usuarios.
     
-Puede leer más acerca de la mensajería instantánea, la presencia y los contactos en [Enviar una mensajería instantánea en Skype Empresarial.](https://support.office.com/article/b3aefb9b-dec8-4be8-a1ee-1eab12144d05)
+Puede leer más acerca de la mensajería instantánea, la presencia y los contactos en [Enviar una mensajería](https://support.office.com/article/b3aefb9b-dec8-4be8-a1ee-1eab12144d05)instantánea en Skype Empresarial .
   
 ## <a name="skype-to-skype-audio-video-and-media"></a>Audio, vídeo y multimedia entre usuarios de Skype
 
 Los usuarios de Skype Empresarial Online pueden hacer llamadas de audio y vídeo por equipo para llamar a otros usuarios de Skype Empresarial a través de un PC y una cámara web. Un usuario de Skype Empresarial Online puede iniciar llamadas de audio y de vídeo Skype a Skype con otro usuario de la misma organización de Skype Empresarial Online (dentro y fuera del firewall corporativo) o con otro usuario de Skype Empresarial en un dominio Skype Empresarial federado, siempre y cuando ambos dominios Skype Empresarial estén correctamente configurados, sean compatibles y permitan el uso de federaciones.
   
-Consulte [Establecer opciones de dispositivo de audio en Skype Empresarial](https://support.office.com/article/2533d929-9814-4349-8ae4-fca29246e2ff) para averiguar cómo establecer opciones de dispositivo de audio en Skype Empresarial. 
+Consulta [Establecer opciones de dispositivo de](https://support.office.com/article/2533d929-9814-4349-8ae4-fca29246e2ff) audio en Skype Empresarial para averiguar cómo establecer las opciones de dispositivo de audio en Skype Empresarial. 
   
 ## <a name="federation-and-public-im-connectivity"></a>Federación y conectividad pública de MI
 
-La conectividad externa (federación) de Skype Empresarial permite a los usuarios de Skype Empresarial conectarse con usuarios de otras organizaciones que usan Skype Empresarial, así como con los que hospedan su propio Skype Empresarial Server local. Los contactos federados podrán ver quiénes están, comunicarse por mensajería instantánea y hacer llamadas de audio y vídeo Skype a Skype. Todas las comunicaciones federadas están cifradas entre los sistemas de MI a través del acceso a servidores proxy. Microsoft no controla el cifrado después de que los mensajes hayan pasado a la red de asociados federados (en caso de que el asociado esté federado con un servidor de Skype Empresarial Server local o una red de terceros).
+Skype Empresarial conectividad externa (federación) permite a Skype Empresarial usuarios conectarse con usuarios de otras organizaciones que usan Skype Empresarial, así como los que hospedan sus propias Skype Empresarial Server local. Los contactos federados podrán ver quiénes están, comunicarse por mensajería instantánea y hacer llamadas de audio y vídeo Skype a Skype. Todas las comunicaciones federadas están cifradas entre los sistemas de MI a través del acceso a servidores proxy. Microsoft no controla el cifrado después de que los mensajes hayan pasado a la red de asociados federados (en caso de que el asociado esté federado con un servidor de Skype Empresarial Server local o una red de terceros).
   
-La conectividad externa de Skype Empresarial requiere el consentimiento y la configuración correcta de ambas partes de la relación de federación. Una vez configurada la federación por los administradores de ambos lados, los usuarios de cada organización pueden ver la presencia y comunicarse con los usuarios de la otra organización. La federación solo se admite entre otros entornos de Skype Empresarial, con servidores perimetrales o proxy de acceso configurados adecuadamente. Para obtener más información sobre la configuración del servidor perimetral, vea [Components required for external user access in Lync Server 2013](/lyncserver/lync-server-2013-components-required-for-external-user-access).
+La conectividad externa de Skype Empresarial requiere el consentimiento y la configuración correcta de ambas partes de la relación de federación. Una vez configurada la federación por los administradores de ambos lados, los usuarios de cada organización pueden ver la presencia y comunicarse con los usuarios de la otra organización. La federación solo se admite entre otros Skype Empresarial entornos, con servidores perimetrales o proxy de acceso configurados adecuadamente. Para obtener más información sobre la configuración del servidor perimetral, vea [Components required for external user access in Lync Server 2013](/lyncserver/lync-server-2013-components-required-for-external-user-access).
   
 ## <a name="skype-for-business-online-meetings"></a>Reuniones de Skype Empresarial Online
 
-Los usuarios pueden iniciar o unirse a una reunión ad-hoc de Skype Empresarial fácilmente en el cliente de Skype Empresarial o en Office. Skype Empresarial permite a los usuarios convertir conversaciones simples de mensajería instantánea o de correo electrónico en reuniones de audio y vídeo entre varios usuarios (tres o más) basadas en PC, con documentos, aplicaciones y escritorios compartidos.
+Los usuarios pueden iniciar o unirse a una reunión Skype Empresarial ad hoc fácilmente en el Skype Empresarial o en Office. Skype Empresarial permite a los usuarios convertir conversaciones simples de mensajería instantánea o de correo electrónico en reuniones de audio y vídeo entre varios usuarios (tres o más) basadas en PC, con documentos, aplicaciones y escritorios compartidos.
   
 El audio entre varias entidades de Skype Empresarial ofrece a los usuarios un códec de audio adaptable para alcanzar un rendimiento óptimo bajo diferentes condiciones de ancho de banda, controles de lista y llamada visual, indicador de calidad de red y características eficaces de administración de usuarios (por ejemplo, arrastrar y soltar el nombre de un participante para agregarlo a una reunión).
   
 Además del audio, Skype Empresarial permite a los usuarios conectarse a través de sesiones de vídeo de alta calidad. Se admiten las sesiones de persona a persona o de varias partes (tres o más usuarios). El vídeo del participante activo está disponible únicamente para las sesiones de varios participantes. Con Skype Empresarial, los usuarios pueden programar fácilmente una reunión en línea con vídeo o convertir sin problemas una sesión de mensajería instantánea a una videollamada.
   
-Para obtener más información sobre las reuniones en línea de Skype Empresarial, vea [Start using Skype for Business for IM and online meetings](https://support.office.com/article/cc05afa6-1894-4a82-9dd9-6222061f50fd).
+Para obtener más información sobre Skype Empresarial reuniones en línea, vea [Start using Skype Empresarial for IM and online meetings](https://support.office.com/article/cc05afa6-1894-4a82-9dd9-6222061f50fd).
   
 > [!IMPORTANT]
 > Las capacidades de audio y vídeo entre varias entidades de Skype Empresarial pueden no estar disponibles en ciertos países debido a restricciones normativas. Para obtener más información, vea [Acerca de las restricciones de licencias](https://go.microsoft.com/fwlink/?LinkId=278963). 
@@ -87,9 +87,9 @@ Skype Empresarial Online incluye imágenes de alta definición, actualizaciones 
   
 En algunos planes de suscripción, Skype Empresarial puede integrarse con la Mensajería unificada de Exchange Online para:
   
-- Combine la mensajería de voz y la mensajería de correo electrónico en una única infraestructura de mensajería disponible desde el cliente de Skype Empresarial. La mensajería unificada de Exchange y Skype Empresarial funciona de forma conjunta para proporcionar servicios de contestador automático, Outlook Voice Access y operador automático.
+- Combine la mensajería de voz y la mensajería de correo electrónico en una única infraestructura de mensajería que esté disponible desde el Skype Empresarial cliente. La mensajería unificada de Exchange y Skype Empresarial funciona de forma conjunta para proporcionar servicios de contestador automático, Outlook Voice Access y operador automático.
     
-- Habilite Outlook en la web para proporcionar mensajería instantánea, presencia, actualizaciones de estado basadas en la información del calendario de Exchange y programación de reuniones de Skype Empresarial.
+- Habilite Outlook en la web para proporcionar mensajería instantánea, presencia, actualizaciones de estado basadas Exchange información de calendario y Skype Empresarial programación de reuniones.
     
 Skype Empresarial interopera con Microsoft SharePoint Server local para la presencia y comunicación con clic en sitios de SharePoint. Esta interoperabilidad requiere la ejecución del cliente de Skype Empresarial en el escritorio del usuario. 
   
@@ -107,7 +107,7 @@ Por lo tanto, Skype Empresarial Online ofrece a los administradores de clientes 
     
 - Windows PowerShell
     
-Para ver los últimos temas de ayuda de administración de Skype Empresarial Online y artículos sobre cómo hacerlo, [vea Skype Empresarial Online - Ayuda para administradores.](https://support.office.com/article/4307bdbf-6097-458d-9a6a-048112695c59)
+Para ver los últimos Skype Empresarial ayuda de administración en línea y artículos sobre cómo hacerlo, vea [Skype Empresarial Online - Ayuda de administrador](https://support.office.com/article/4307bdbf-6097-458d-9a6a-048112695c59).
   
 ## <a name="audio-conferencing-in-office-365"></a>Audioconferencia en Office 365
 
@@ -121,19 +121,19 @@ Adioconferencia no está disponible en todos los países o regiones. Para obtene
   
 ## <a name="calling-plans"></a>Planes de llamadas
 
-Skype Empresarial incluye funciones de llamadas que se encuentran en la red telefónica conmutada (RTC). Los planes de llamadas son [](#phone-system) un complemento del sistema telefónico que le permite buscar, adquirir y asignar números de teléfono a los usuarios de su organización para que puedan realizar llamadas y recibir llamadas de personas dentro y fuera de la organización, directamente desde Office 365. Los usuarios a los que se les asignan números de teléfono pueden realizar llamadas de voz en todos los dispositivos de Skype Empresarial, incluidos los teléfonos VoIP, los equipos y los dispositivos móviles. También pueden controlar sus llamadas a través de las funciones de silencio/desactivación, retención/reanudación, transferencias de llamadas y reenvío de llamadas y, si es necesario, realizar llamadas de emergencia. 
+Skype Empresarial incluye las funcionalidades de llamadas que se encuentran en la red telefónica conmutada (RTC). Los planes de llamadas son un complemento del Sistema telefónico que permite buscar, adquirir y asignar números de teléfono [a](#phone-system) los usuarios de la organización para que puedan realizar llamadas y recibir llamadas de personas dentro y fuera de la organización, directamente desde Office 365. Los usuarios a los que se les asignan números de teléfono pueden realizar llamadas de voz en todos los dispositivos Skype Empresarial, incluidos los teléfonos VoIP, los equipos y los dispositivos móviles. También pueden controlar sus llamadas a través de las funciones de silencio/desactivación, retención/reanudación, transferencias de llamadas y reenvío de llamadas y, si es necesario, realizar llamadas de emergencia. 
   
 Para obtener información sobre los planes de llamadas disponibles, vaya a [Planes de llamadas para Office 365](https://products.office.com/skype-for-business/pstn-calling-plans). Para obtener más información y configurar un plan de llamadas, consulte ¿Qué plan de [llamadas es adecuado para usted?](https://support.office.com/article/3dc773b9-95e0-4448-b2f1-887c54022429)
   
 ## <a name="phone-system"></a>Sistema telefónico
 
-El sistema telefónico le permite usar Skype Empresarial y las líneas de teléfono existentes de su organización o el sistema telefónico para llamadas entrantes y salientes. Con el sistema telefónico en Office 365, los usuarios pueden usar Skype Empresarial para completar tareas básicas, como colocar, recibir, transferir y silenciar o desmutar llamadas, desde casi cualquier lugar que tenga acceso a Internet.
+El Sistema telefónico permite usar Skype Empresarial y las líneas de teléfono existentes de la organización o el Sistema telefónico para llamadas entrantes y salientes. Con el Sistema telefónico en Office 365, los usuarios pueden usar Skype Empresarial para completar tareas básicas como realizar, recibir, transferir y silenciar o desmutar llamadas desde casi cualquier lugar que tenga acceso a Internet.
   
-El sistema telefónico permite reemplazar el sistema PBX existente con un conjunto de características que se entregan directamente desde Microsoft y se integran estrechamente en la experiencia de productividad en la nube de Microsoft. Puede elegir una experiencia completamente en la nube o una implementación híbrida que aproveche el sistema telefónico manteniendo cierta funcionalidad en sus instalaciones.
+El Sistema telefónico permite reemplazar el sistema PBX existente con un conjunto de características que se entregan directamente desde Microsoft y se integran estrechamente en la experiencia de productividad en la nube de Microsoft. Puede elegir una experiencia completamente en la nube o una implementación híbrida que aproveche el Sistema telefónico manteniendo cierta funcionalidad en sus instalaciones.
   
 ## <a name="skype-meeting-broadcast"></a>Difusión de reunión de Skype
 
-Difusión de reunión de Skype permite a los usuarios producir y difundir una reunión en Internet hasta 10 000 asistentes, que pueden asistir desde un explorador en prácticamente cualquier dispositivo. Con Difusión de reunión de Skype, puede hospedar reuniones virtuales de gran tamaño como reuniones internas estilo "municipalidad" y seminarios web públicos. Puede grabar reuniones y personalizarlas para medir la satisfacción y la participación de la audiencia. 
+Skype Difusión de reunión permite a los usuarios producir y difundir una reunión en Internet hasta 10 000 asistentes, que pueden asistir desde un explorador en prácticamente cualquier dispositivo. Con Difusión de reunión de Skype, puede hospedar reuniones virtuales de gran tamaño como reuniones internas estilo "municipalidad" y seminarios web públicos. Puede grabar reuniones y personalizarlas para medir la satisfacción y la participación de la audiencia. 
   
 > [!NOTE]
 > Actualmente, la Difusión de reunión de Skype no está disponible para organizaciones sin ánimo de lucro o educativas. 

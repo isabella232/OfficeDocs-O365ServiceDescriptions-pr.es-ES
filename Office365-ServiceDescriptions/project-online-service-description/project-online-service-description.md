@@ -27,13 +27,13 @@ ms.locfileid: "52545927"
 
 Microsoft Project ofrece las siguientes aplicaciones para ayudar a satisfacer las necesidades de la organización para la administración de proyectos y trabajo:
 
-- Project para la web
+- Project para la Web
 - Project Online 
 - Project Online cliente de escritorio
 
 Este artículo le ayudará a comprender qué aplicaciones se proporcionan en cada Project suscripción y qué capacidades ofrece cada aplicación.
 
-### <a name="project-for-the-web"></a>Project para la web
+### <a name="project-for-the-web"></a>Project para la Web
 
 Project web es la oferta más reciente de Microsoft para el trabajo basado en la nube y la administración de proyectos. Project web proporciona funciones de administración de trabajo sencillas y eficaces para satisfacer la mayoría de las necesidades y roles. Project administradores y miembros del equipo pueden usar Project web para planear y administrar el trabajo de cualquier tamaño.
 
@@ -80,7 +80,7 @@ Microsoft Project está disponible a través de tres suscripciones diferentes pa
 
 |Producto | Plan 1 | Plan 3 | Plan 5 |
 |--------|-----------------------------|------------------------|------------------------|
-|Project para la web |**x**  | **x x** | **x x** |
+|Project para la Web |**x**  | **x x** | **x x** |
 |Project Online |**x** |**x x**| **x x x** |
 |Project Online cliente de escritorio | |**x**|**x**|
 

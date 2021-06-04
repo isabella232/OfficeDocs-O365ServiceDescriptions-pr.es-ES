@@ -25,7 +25,7 @@ Microsoft admite las siguientes características de red.
   
 ## <a name="ports-protocols-and-ip-addresses"></a>Puertos, protocolos y direcciones IP
 
-Microsoft usa direcciones IPv4 e IPv6. El uso de direcciones IPv6 es opcional y no se requiere para la conectividad con Office 365. No todas las características de Microsoft 365 están totalmente habilitadas con IPv6. Para obtener más información acerca de la compatibilidad con Ipv6, vea [Soporte técnico de IPv6 en servicios de Microsoft](/office365/enterprise/ipv6-support).
+Microsoft usa direcciones IPv4 e IPv6. El uso de direcciones IPv6 es opcional y no se requiere para la conectividad con Office 365. No todas las Microsoft 365 están totalmente habilitadas con IPv6. Para obtener más información acerca de la compatibilidad con Ipv6, consulte [Compatibilidad con IPv6 en servicios Microsoft](/office365/enterprise/ipv6-support).
   
 Microsoft mantiene una lista de direcciones IP permitidas en la ayuda de Microsoft. Para obtener más información, vea [DIRECCIONES URL e intervalos de direcciones IP.](/office365/enterprise/urls-and-ip-address-ranges) Para Office 365 operado por 21Vianet, consulte [URL y direcciones IP para Office 365 operado por 21Vianet](/office365/enterprise/managing-office-365-endpoints). Para Office 365 Germany, consulte [Puntos de conexión de Office 365 Germany](https://support.office.com/article/Office-365-Germany-endpoints-8a113a50-0071-4155-bb8e-eba5a8dbd4c8).
   
@@ -64,4 +64,4 @@ Para obtener más información, vea [Centro de confianza de Office 365](https://
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, vea [Microsoft 365 and Office 365 platform service description](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en todos los planes, vea [Microsoft 365 y Office 365 descripción del servicio de la plataforma](office-365-platform-service-description.md).

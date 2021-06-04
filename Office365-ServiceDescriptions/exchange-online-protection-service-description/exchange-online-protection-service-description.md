@@ -29,13 +29,13 @@ En la siguiente lista se describen las formas principales de usar EOP para la pr
 
 - **En un escenario independiente:** EOP proporciona protección de correo electrónico basada en la nube para su entorno de correo electrónico local (Exchange Server otras soluciones de correo electrónico SMTP locales).
 
-- **Como parte de Microsoft Exchange Online:** De forma predeterminada, EOP protege los buzones hospedados en la nube de Exchange Online. Para obtener más información acerca de Exchange Online, vea la [descripción del servicio de Exchange Online](../exchange-online-service-description/exchange-online-service-description.md).
+- **Como parte de Microsoft Exchange Online:** de forma predeterminada, EOP protege Exchange Online buzones hospedados en la nube. Para obtener más información sobre Exchange Online, consulte [la Exchange Online descripción del servicio](../exchange-online-service-description/exchange-online-service-description.md).
 
 - **En una implementación híbrida:** EOP se puede configurar para proteger el entorno de mensajería y controlar el enrutamiento de correo cuando se tiene una combinación de buzones locales y en la nube.
 
 ## <a name="available-plans"></a>Planes disponibles
 
-Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios para Exchange Online Protection, consulte la tabla de comparación [de suscripciones completa.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios Exchange Online Protection, consulte la tabla de comparación [de suscripciones completa](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 Para comprar Protección de Exchange Online, vea [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
 
@@ -44,7 +44,7 @@ Para comprar Protección de Exchange Online, vea [Exchange Online Protection](ht
 
 ## <a name="whats-new-in-exchange-online-protection-eop"></a>Novedades de la Exchange Online Protection (EOP)
 
-La [guía básica de Microsoft 365](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) es un buen recurso para obtener información sobre las próximas nuevas características.
+La [Microsoft 365 guía básica es](https://office.microsoft.com/products/office-365-roadmap-FX104343353.aspx) un buen recurso para encontrar información sobre las próximas nuevas características.
 
 ## <a name="exchange-online-protection-eop-plans"></a>Planes de Online Protection (EOP)
 
@@ -53,8 +53,8 @@ EOP está disponible a través de los siguientes planes de suscripción:<br><br>
 | Plan | Descripción |
 |:-----|:-----|
 |[EOP independiente](https://products.office.com/exchange/exchange-email-security-spam-protection)|Un servicio independiente basado en la nube que protege su organización de correo electrónico local.|
-|[Características de EOP en Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|La protección integrada para los buzones hospedados en la nube de Exchange Online.|
-|[Exchange Enterprise CAL con servicios](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|Licencias de complementos que compre para su organización local de Exchange que incluyen EOP y otras características basadas en la nube (vea la siguiente sección para obtener más información).|
+|[Características de EOP en Exchange Online](https://products.office.com/exchange/compare-microsoft-exchange-online-plans)|La protección integrada para sus Exchange Online buzones hospedados en la nube.|
+|[Exchange Enterprise CAL con servicios](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business)|Licencias de complementos que compre para su organización Exchange local que incluyen EOP y otras características basadas en la nube (vea la siguiente sección para obtener más información).|
 
 ### <a name="exchange-enterprise-cal-with-services-features"></a>Características de Exchange Enterprise CAL con servicios
 
@@ -64,9 +64,9 @@ Microsoft Exchange Enterprise CAL with Services proporciona las características
 
 - [Creación de informes mediante servicios web](reporting-and-message-trace.md#reporting-using-web-services)
 
-Para obtener más información acerca de las licencias de Exchange Enterprise CAL con servicios, vea Preguntas frecuentes sobre licencias [de Exchange](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
+Para obtener más información sobre Exchange Enterprise licencias de CAL con servicios, [vea Exchange de licencias](https://products.office.com/exchange/microsoft-exchange-licensing-faq-email-for-business).
 
-Si tiene licencias de Exchange Enterprise CAL con Servicios y desea aprovisionar EOP, siga las instrucciones de [Configurar el servicio EOP](/microsoft-365/security/office-365-security/set-up-your-eop-service). Los pasos de configuración son los mismos que para configurar EOP independiente.
+Si ha Exchange Enterprise CAL con licencias de servicios y desea aprovisionar EOP, siga las instrucciones de Configurar el servicio [de EOP](/microsoft-365/security/office-365-security/set-up-your-eop-service). Los pasos de configuración son los mismos que para configurar EOP independiente.
 
 > [!NOTE]
 > Las nuevas características de Exchange Enterprise CAL con servicios se implementan al mismo tiempo que Exchange Online, en lugar de EOP independiente. Le avisamos que las programaciones de implementación para EOP independiente y Exchange Online/Exchange Enterprise CAL con servicios pueden ser ligeramente diferentes.
@@ -77,7 +77,7 @@ EOP se puede usar con cualquier agente de transferencia de correo SMTP, como Mic
 
 ## <a name="limits"></a>Límites
 
-Para obtener información sobre los límites de EOP, [vea Límites de Exchange Online Protection](exchange-online-protection-limits.md).
+Para ver los límites de EOP, [consulte Exchange Online Protection limits](exchange-online-protection-limits.md).
 
 ## <a name="feature-availability-across-exchange-online-protection-eop-plans"></a>Disponibilidad de características en los planes de Exchange Online Protection (EOP) 
 
@@ -102,27 +102,27 @@ A continuación, se incluye cada característica. Si desea ver información más
 |[Cuarentena](anti-spam-and-anti-malware-protection-eop.md#quarantine): autoadministración de usuarios finales|Sí|Sí|Sí|
 |[Envío](anti-spam-and-anti-malware-protection-eop.md#report-messages-to-microsoft-for-analysis)|No|Sí|No|
 |[Complemento De mensaje de informe para Outlook](/microsoft-365/security/office-365-security/enable-the-report-message-add-in)|Sí|Sí|Sí|
-|[Informes de correo no deseado en Outlook en la web](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Sí|Sí|Sí|
+|[Informes de correo no deseado Outlook en la web](/microsoft-365/security/office-365-security/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop)|Sí|Sí|Sí|
 |[Enrutamiento de correo electrónico entre Microsoft y sus propios servidores de correo electrónico](mail-flow-eop.md#routing-email-between-microsoft-and-your-own-email-servers)|Sí|Sí|Sí|
 |[Mensajería segura con un socio de confianza](mail-flow-eop.md#secure-messaging-with-a-trusted-partner)|Sí|Sí|Sí|
 |[Incluir en una lista segura la dirección IP de un socio](mail-flow-eop.md#safe-listing-a-partners-ip-address)|Sí|Sí|Sí|
 |[Enrutamiento de correo condicional](mail-flow-eop.md#conditional-mail-routing)|Sí|Sí|Sí|
 |[Enrutamiento de correo híbrido](mail-flow-eop.md#hybrid-mail-routing)|Sí|Sí|Sí|
-|[Informes del Centro de administración de Microsoft 365](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Sí<sup>9</sup>|Sí<sup>10</sup>|Sí <sup>9, 10</sup>|
+|[Informes del Centro de administración de Microsoft 365](reporting-and-message-trace.md#microsoft-365-admin-center-reports)<br/> |Sí<sup>9</sup>|Sí<sup>10</sup>|Sí <sup>9, 10</sup>|
 |[Creación de informes mediante servicios web](reporting-and-message-trace.md#reporting-using-web-services)|No|Sí|Sí|
 |[Seguimiento de mensajes](reporting-and-message-trace.md#message-trace)|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí|
-|[Acceso al Centro de administración de Microsoft 365](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)|Sí|Sí|Sí|
-|[Acceso al Centro de administración de Exchange](administration-and-management-eop.md#access-to-the-exchange-admin-center (CEF))|Sí|Sí|Sí|
+|[Acceso al Centro Microsoft 365 administración](administration-and-management-eop.md#access-to-the-microsoft-365-admin-center)|Sí|Sí|Sí|
+|[Acceso al Centro Exchange administración](administration-and-management-eop.md#access-to-the-exchange-admin-center (CEF))|Sí|Sí|Sí|
 |[Remote Windows PowerShell access](administration-and-management-eop.md#remote-windows-powershell-access)|Sí|Sí|Sí|
 
-<sup>1</sup> Los usuarios de correo se definen como "buzones" y, junto con los contactos de correo externos, pueden agregarse, quitarse y administrarse directamente en el Centro de administración de Exchange (EAC). <br/>
+<sup>1</sup> Los usuarios de correo se definen como "buzones" y, junto con los contactos de correo externos, se pueden agregar, quitar y administrar directamente en el Centro de administración de Exchange (EAC). <br/>
 <sup>2</sup> Sin personalización rbac. Únicamente roles de administrador. <br/>
-Se pueden ver <sup>3</sup> dominios administrados y los tipos de dominio se pueden editar en el EAC. El resto de la administración de dominios debe realizarse en el Centro de administración de Microsoft 365.<br/>
-<sup>4</sup> Las reglas de flujo de correo (también conocidas como reglas de transporte) en EOP se describen en Reglas de flujo de correo (reglas de [transporte) en Exchange Online Protection](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0). Las condiciones de regla de flujo de correo disponibles, las excepciones y las acciones difieren ligeramente entre EOP y Exchange Online. Estas diferencias se observan en las condiciones y excepciones [](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)de reglas de flujo de correo [(predicados) en las](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) acciones de regla de flujo de correo y Exchange Online.<br/>
-<sup>5</sup> Informes de auditoría de EOP son un subconjunto de informes de auditoría de Exchange Online que excluyen información sobre buzones. <br/>
-<sup>6 sugerencias</sup> de directivas DLP no están disponibles para clientes de Exchange Enterprise CAL con servicios.  <br/>
-<sup>7</sup> La acción predeterminada de filtro de contenido es mover mensajes de correo no deseado a la carpeta de correo no deseado de los destinatarios. Para que esto funcione con buzones de Exchange locales, también debe configurar dos reglas de transporte en la organización local de Exchange para detectar encabezados de correo no deseado agregados por EOP. Para obtener más información, vea [Configure standalone EOP to deliver spam to the Junk Email folder in hybrid environments](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder). <br/>
-<sup>9</sup> informes de EOP son un subconjunto de informes de Exchange Online que excluyen información sobre buzones.<br/>
+Se pueden ver <sup>3</sup> dominios administrados y los tipos de dominio se pueden editar en el EAC. El resto de la administración de dominios debe realizarse en el centro Microsoft 365 administración.<br/>
+<sup>4</sup> Las reglas de flujo de correo (también conocidas como reglas de transporte) en EOP se describen en Reglas de flujo de correo (reglas de [transporte) en Exchange Online Protection](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0). Las condiciones de regla de flujo de correo disponibles, las excepciones y las acciones difieren ligeramente entre EOP y Exchange Online. Estas diferencias se observan en las condiciones y excepciones de reglas de flujo de correo [(predicados)](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) en las acciones de regla de flujo de correo Exchange Online y Las acciones de regla de flujo de [correo en Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions).<br/>
+<sup>5</sup> Informes de auditoría de EOP son un subconjunto de Exchange Online de auditoría que excluyen información sobre buzones. <br/>
+<sup>6 sugerencias</sup> de directivas DLP no están disponibles para Exchange Enterprise CAL con clientes de servicios.  <br/>
+<sup>7</sup> La acción predeterminada de filtro de contenido es mover mensajes de correo no deseado a la carpeta de correo no deseado de los destinatarios. Para que esto funcione con buzones de correo Exchange locales, también debe configurar dos reglas de transporte en la organización Exchange local para detectar los encabezados de correo no deseado agregados por EOP. Para obtener más información, vea [Configure standalone EOP to deliver spam to the Junk Email folder in hybrid environments](/microsoft-365/security/office-365-security/ensure-that-spam-is-routed-to-each-user-s-junk-email-folder). <br/>
+<sup>9</sup> informes de EOP son un subconjunto de Exchange Online que excluyen información sobre buzones.<br/>
 <sup>10</sup> Incluye informes DLP. <br/>
 <sup>12</sup> Compatible con clientes locales que compran Azure Information Protection y usan Exchange Online Protection para enrutar el correo electrónico a través de Exchange Online. <br/>
 <sup>13</sup> Examina los mensajes entrantes y salientes, pero no examina los mensajes internos enviados desde un remitente de la organización a un destinatario de la organización. <br/>

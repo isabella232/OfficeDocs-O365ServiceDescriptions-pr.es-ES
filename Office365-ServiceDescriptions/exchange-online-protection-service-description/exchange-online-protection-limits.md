@@ -24,7 +24,7 @@ ms.locfileid: "51653062"
 Actualmente existen los siguientes límites para Exchange Online Protection. Estos límites no se pueden configurar a menos que se especifique lo contrario. 
   
 > [!TIP]
-> Para obtener más información acerca de los límites de Exchange Online, vea [Límites de Exchange Online](../exchange-online-service-description/exchange-online-limits.md). Los límites de la regla de transporte se aplican también a los clientes de EOP independiente. Los límites de tasa de destinatarios y tasa de mensajes de Exchange Online no se aplican a los clientes de EOP independiente. 
+> Para obtener más información acerca de los límites Exchange Online, [vea Exchange Online limits](../exchange-online-service-description/exchange-online-limits.md). Los límites de la regla de transporte se aplican también a los clientes de EOP independiente. Los límites de tasa de destinatarios y tasa de mensajes de Exchange Online no se aplican a los clientes de EOP independiente. 
   
 - **Límite de** dominio: puede agregar hasta 900 dominios por inquilino. Los subdominios pueden incluirse en este límite de 900, o bien, si es necesario, como parte de una opción global de subdominios coincidentes. Para obtener más información, vea [Administrar dominios aceptados en EOP](/microsoft-365/security/office-365-security/exchange-online-protection-overview).
 
@@ -44,7 +44,7 @@ Actualmente existen los siguientes límites para Exchange Online Protection. Est
     
 - **Notificaciones de cuarentena de correo no** deseado del usuario final: de forma predeterminada, si está habilitada, las notificaciones de cuarentena de correo no deseado del usuario final se envían cada 3 días. Se pueden configurar para que se envíen cada 1 a 15 días. 
     
-- **Límites** de seguimiento de mensajes y informes: para obtener información sobre los límites de seguimiento de mensajes y informes, vea la sección "Disponibilidad y latencia de datos de seguimiento de mensajes y informes" en Informes y seguimiento de mensajes en [Exchange Online Protection](/microsoft-365/security/office-365-security/reporting-and-message-trace-in-exchange-online-protection).
+- **Límites** de seguimiento de mensajes y informes: para obtener informes y límites de seguimiento de mensajes, vea la sección "Disponibilidad y latencia de datos de seguimiento de mensajes y informes" en Informes y seguimiento de [mensajes en Exchange Online Protection](/microsoft-365/security/office-365-security/reporting-and-message-trace-in-exchange-online-protection).
     
 ### <a name="limits-across-eop-options"></a>Límites entre las opciones de EOP
 

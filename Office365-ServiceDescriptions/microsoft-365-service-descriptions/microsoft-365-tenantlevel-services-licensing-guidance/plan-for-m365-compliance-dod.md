@@ -48,7 +48,7 @@ La [Office 365 de servicio del](../../office-365-platform-service-description/of
 > [!NOTE]
 > Microsoft 365 Gobierno: el DoD solo está disponible en Los Estados Unidos. Los clientes que no son del Gobierno de Estados Unidos pueden elegir entre una serie [de Office 365 Administración Pública planes](https://products.office.com/government/compare-office-365-government-plans).
 
-## <a name="step-2-apply-for-microsoft-365-government---dod"></a>Paso 2. Aplicar para Microsoft 365 Government - DoD
+## <a name="step-2-apply-for-microsoft-365-government---dod"></a>Paso 2. Aplicar para Microsoft 365 Government - DoD
 
 Después de haber decidido que este servicio es adecuado para su organización, inicie el proceso de [solicitud de este servicio](https://products.office.com/government/eligibility-validation).
 

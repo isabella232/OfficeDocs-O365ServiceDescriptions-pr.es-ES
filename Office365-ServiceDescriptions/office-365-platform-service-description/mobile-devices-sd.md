@@ -31,4 +31,4 @@ Muchos teléfonos móviles, tabletas y otros dispositivos móviles se pueden usa
     
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características en los planes de Microsoft 365 y Office 365, vea [Microsoft 365 and Office 365 platform service description](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en Microsoft 365 y Office 365, vea Microsoft 365 [y Office 365 de servicio de la plataforma](office-365-platform-service-description.md).

@@ -21,7 +21,7 @@ ms.locfileid: "51652274"
 
 Las siguientes características de administración de proyectos están disponibles en Project Online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea la [descripción del servicio de Project Online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [descripción Project Online servicio .](project-online-service-description.md)
   
 ## <a name="issues-and-risk-management"></a>Administración de problemas y riesgos
 
@@ -43,6 +43,6 @@ La programación representa las tareas y las entregas que se tienen que completa
 
 Use un enfoque centralizado y común para la administración del tiempo y las tareas. Registre el tiempo de trabajo y de descanso para las nóminas, la facturación y otros fines empresariales. Comunique eficazmente el estado de los proyectos, el trabajo diario y las peticiones ad-hoc para medir los picos y los valles de uso o el progreso de las tareas. Esto le ayuda a anticipar el efecto sobre el esfuerzo planeado, el costo y el período de tiempo. Para obtener más información, vea [Realizar un seguimiento del progreso de tareas y el tiempo](https://go.microsoft.com/fwlink/p/?LinkId=271321).
 
-## <a name="project-home"></a>Inicio del proyecto
+## <a name="project-home"></a>Project Inicio
 
-Project Home es el punto de partida que le ofrece un acceso rápido y fácil a proyectos recientemente trabajados e importantes, proyectos importantes y de primer nivel. Puede marcar estos proyectos como favoritos con controles fáciles de usar para que se muestren de forma destacada en La página principal del proyecto. Para obtener más información, vea [Introducción a Project Home](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a).
+Project Home es el punto de partida que le ofrece un acceso rápido y fácil a proyectos recientemente trabajados e importantes, proyectos de primer nivel. Puedes marcar estos proyectos como favoritos con controles fáciles de usar para que se muestren de forma destacada en Project inicio. Para obtener más información, vea [Introducción a Project Inicio](https://support.office.com/article/a3b38418-35e7-4df4-8e4a-ba6a4fa0562a).

@@ -23,11 +23,11 @@ ms.locfileid: "51653142"
 
 Para la mayoría de las organizaciones que usan Microsoft, hospedamos sus buzones y nos encargamos del flujo de correo. Es la configuración más sencilla y significa que Microsoft administra todos los buzones y el filtrado. En cambio, algunas organizaciones tienen una empresa que necesita mantener todos sus buzones de manera local. Exchange Online Protection (EOP) le permite hacerlo y proporciona procesamiento de correo antivirus y contra correo no deseado en la nube. Para obtener más información y para comprar EOP, vaya a [Exchange Online Protection](https://products.office.com/exchange/exchange-email-security-spam-protection).
   
-¿Busca información sobre la administración de dominios o el bloqueo perimetral basado en directorios (DBEB)? Consulte [Recipient, domain, and company management](recipient-domain-and-company-management.md). Para obtener más información sobre todas las características de EOP, vea la descripción del servicio [de Exchange Online Protection](exchange-online-protection-service-description.md).
+¿Busca información sobre la administración de dominios o el bloqueo perimetral basado en directorios (DBEB)? Consulte [Recipient, domain, and company management](recipient-domain-and-company-management.md). Para obtener más información sobre todas las características de EOP, consulte [la Exchange Online Protection descripción del servicio](exchange-online-protection-service-description.md).
   
 ## <a name="routing-email-between-microsoft-and-your-own-email-servers"></a>Enrutamiento de correo electrónico entre Microsoft y sus propios servidores de correo electrónico
 
-Puede configurar un conector para habilitar el flujo de correo entre Microsoft (incluidos Exchange Online o EOP) y un servidor de correo electrónico basado en SMTP como Exchange. Para obtener más información sobre esto, vea [Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)?. Y [Configurar conectores para enrutar el correo entre Microsoft y sus propios servidores de correo electrónico.](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)
+Puede configurar un conector para habilitar el flujo de correo entre Microsoft (incluidos Exchange Online o EOP) y un servidor de correo electrónico basado en SMTP, como Exchange. Para obtener más información sobre esto, vea [Do I need a connector](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/do-i-need-to-create-a-connector)?. Y [Configurar conectores para enrutar el correo entre Microsoft y sus propios servidores de correo electrónico.](/exchange/mail-flow-best-practices/use-connectors-to-configure-mail-flow/set-up-connectors-to-route-mail)
   
 ## <a name="secure-messaging-with-a-trusted-partner"></a>Secure messaging with a trusted partner
 
@@ -53,4 +53,4 @@ El [Asistente para implementación de Microsoft Exchange Server](/exchange/excha
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea Descripción del servicio [de Exchange Online Protection](exchange-online-protection-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [vea Exchange Online Protection descripción del servicio](exchange-online-protection-service-description.md).

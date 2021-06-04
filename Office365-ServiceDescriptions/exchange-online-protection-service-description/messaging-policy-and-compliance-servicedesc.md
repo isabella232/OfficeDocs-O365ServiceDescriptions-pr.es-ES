@@ -23,11 +23,11 @@ ms.locfileid: "51653352"
 
 Microsoft Exchange Online Protection (EOP) proporciona características de cumplimiento y directiva de mensajería que pueden ayudarle a administrar los datos de correo electrónico.
 
-¿Busca información sobre todas las características de EOP? Vea la [descripción del servicio de Exchange Online Protection](exchange-online-protection-service-description.md).
+¿Busca información sobre todas las características de EOP? Vea la [Exchange Online Protection descripción del servicio .](exchange-online-protection-service-description.md)
 
 ## <a name="mail-flow-rules"></a>Reglas de flujo de correo
 
-Las reglas de flujo de correo (también conocidas como reglas de transporte) le proporcionan la flexibilidad para aplicar sus propias directivas específicas de la empresa al correo electrónico. Las reglas de flujo de correo están basadas en criterios flexibles, que permiten definir condiciones, excepciones y acciones que se deben realizar en función de los criterios. Para obtener más información, vea [Reglas de flujo de correo (reglas de transporte) en Exchange Online Protection](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0).
+Las reglas de flujo de correo (también conocidas como reglas de transporte) le proporcionan la flexibilidad para aplicar sus propias directivas específicas de la empresa al correo electrónico. Las reglas de flujo de correo están basadas en criterios flexibles, que permiten definir condiciones, excepciones y acciones que se deben realizar en función de los criterios. Para obtener más información, vea Reglas de flujo de correo (reglas de [transporte) en Exchange Online Protection](/microsoft-365/security/office-365-security/mail-flow-rules-transport-rules-0).
 
 ## <a name="audit-logging"></a>Registro de auditoría
 
@@ -51,18 +51,18 @@ Puede configurar directivas de DLP en el EAC, lo que le permite:
 
 - Detectar datos confidenciales mediante las huellas digitales de documentos. La huella digital de documentos le ayuda a crear fácilmente tipos de información confidencial personalizados basados en formularios basados en texto que puede usar para definir reglas de flujo de correo y directivas DLP.
 
-- Agregue sugerencias de directiva, lo que puede ayudar a reducir la pérdida de datos mostrando un aviso a los usuarios de Outlook 2013, Outlook en la web y OWA para dispositivos, y también puede mejorar la eficacia de las directivas al permitir informes falsos positivos.
+- Agregar directiva Sugerencias, que puede ayudar a reducir la pérdida de datos mostrando un aviso a los usuarios de Outlook 2013, Outlook en la web y OWA para dispositivos, y también puede mejorar la eficacia de las directivas al permitir informes falsos positivos.
 
 - Revisar los datos de incidentes en informes de DLP o agregar sus propios informes específicos mediante una acción de generación de informes de incidentes.
 
 > [!NOTE]
 > Las directivas de DLP se aplican solo al correo que entra o sale de la organización. El correo transmitido dentro de la organización (interno) no tiene directivas de DLP aplicadas a menos que se ejecute Exchange Server 2013 con DLP local. Esto también se aplica a las sugerencias de directivas de DLP, que informan a los usuarios sobre posibles infracciones de las directivas antes de que los datos confidenciales se envíen por error a destinatarios no autorizados.
 
-Para obtener más información sobre DLP, vea [Prevención de pérdida de datos en Exchange Online](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention).
+Para obtener más información sobre DLP, vea [Prevención de pérdida de](/exchange/security-and-compliance/data-loss-prevention/data-loss-prevention)datos en Exchange Online .
 
 ## <a name="office-365-message-encryption"></a>Cifrado de mensajes de Office 365
 
-El cifrado de mensajes de Office 365, que forma parte de Azure Information Protection, es un servicio en línea que permite a los usuarios de correo electrónico enviar mensajes de correo electrónico cifrados a cualquier persona. Los clientes locales pueden obtener acceso al cifrado de mensajes de Office 365 comprando Azure Information Protection y usando Exchange Online Protection para configurar el flujo de correo a través de Exchange Online. Para obtener más información sobre el cifrado de mensajes de Office 365 en Exchange Online, vea Cifrado de mensajes de [Office 365](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) en la descripción del servicio Exchange Online.
+Cifrado de mensajes de Office 365, una parte de Azure Information Protection, es un servicio en línea que permite a los usuarios de correo electrónico enviar mensajes de correo electrónico cifrados a cualquier persona. Los clientes locales pueden acceder a Cifrado de mensajes de Office 365 mediante la compra de Azure Information Protection y el uso de Exchange Online Protection para configurar el flujo de correo a través de Exchange Online. Para obtener más información sobre Cifrado de mensajes de Office 365 en Exchange Online, vea [Cifrado de mensajes de Office 365](../exchange-online-service-description/message-policy-and-compliance.md#office-365-message-encryption) en la descripción Exchange Online servicio.
 
 ## <a name="messaging-policy-and-compliance-features-across-eop-options"></a>Características de cumplimiento y de directivas de mensajería en las opciones de EOP.
 
@@ -74,7 +74,7 @@ El cifrado de mensajes de Office 365, que forma parte de Azure Information Prote
 |Cifrado de mensajes de Office 365|Sí<sup>4</sup>|Sí|Sí<sup>4</sup>|
 
 > [!NOTE]
-> <sup>1 Las</sup> condiciones de regla de flujo de correo disponibles, las excepciones y las acciones difieren ligeramente entre EOP y Exchange Online. Estas diferencias se observan en las condiciones y excepciones [](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions)de reglas de flujo de correo [(predicados) en las](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) acciones de regla de flujo de correo y Exchange Online. <br/>
-> <sup>2</sup> Los informes de auditoría de EOP son un subconjunto de informes de auditoría de Exchange Online que excluyen información sobre los buzones. <br/>
-> <sup>3</sup> Las sugerencias de directiva DLP no están disponibles para los clientes de Exchange Enterprise CAL con servicios. <br/>
-> <sup>4</sup> Compatible con clientes locales que compran el complemento de Azure Information Protection y usan Exchange Online Protection para enrutar el correo electrónico a través de Exchange Online. Para la experiencia de escritorio, además del complemento de Azure Information Protection, es necesario adquirir Aplicaciones de Microsoft 365 para empresas. <br/>
+> <sup>1</sup> Las condiciones de regla de flujo de correo disponibles, las excepciones y las acciones difieren ligeramente entre EOP y Exchange Online. Estas diferencias se observan en las condiciones y excepciones de reglas de flujo de correo [(predicados)](/Exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions) en las acciones de regla de flujo de correo Exchange Online y Las acciones de regla de flujo de [correo en Exchange Online](/Exchange/security-and-compliance/mail-flow-rules/mail-flow-rule-actions). <br/>
+> <sup>2</sup> Los informes de auditoría de EOP son un subconjunto de informes de auditoría de Exchange Online que excluyen información sobre los buzones.<br/>
+> <sup>3</sup> Las sugerencias de directiva DLP no están disponibles para los clientes de Exchange Enterprise CAL con servicios.<br/>
+> <sup>4</sup> Compatible con clientes locales que compran el complemento de Azure Information Protection y usan Exchange Online Protection para enrutar el correo electrónico a través de Exchange Online. Para la experiencia de escritorio, además del complemento de Azure Information Protection, Aplicaciones Microsoft 365 para empresas debe adquirirse. <br/>

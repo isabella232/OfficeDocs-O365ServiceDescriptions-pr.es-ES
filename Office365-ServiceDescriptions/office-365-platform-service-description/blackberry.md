@@ -53,5 +53,5 @@ Para el acceso a Microsoft SharePoint Online, los usuarios de BlackBerry pueden 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características en los planes de Office 365, vea [Microsoft 365 and Office 365 platform service description](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en Office 365 planes, vea [Microsoft 365 y Office 365 descripción del](office-365-platform-service-description.md)servicio de plataforma .
   

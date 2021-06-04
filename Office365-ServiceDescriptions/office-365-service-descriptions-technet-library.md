@@ -29,16 +29,16 @@ Los artículos de esta biblioteca proporcionan descripciones detalladas de los s
 
 Para comparar características entre planes, vea [Herramientas eficaces para](https://go.microsoft.com/fwlink/?LinkID=799177&amp;clcid=0x409) admitir su empresa o la descripción del servicio relevante en la lista siguiente. 
   
-Para obtener información y artículos de soporte técnico, vea Office [Help & Training,](https://support.office.com/) [Office documentation for admins and IT professionals](/office/), and [Microsoft 365 help center for admins and IT pros](/microsoft-365/).
+Para obtener información y artículos de soporte técnico, vea Office [Help & Training](https://support.office.com/), Office documentation for [admins and IT professionals](/office/), and [Microsoft 365 help center for admins and IT pros](/microsoft-365/).
   
 > [!NOTE]
-> Si está buscando la hoja de cálculo de comparación de descripción del servicio, se ha retirado. Las tablas de disponibilidad de características de producto en cada página de descripción del servicio se han actualizado para ayudarle a elegir mejor la versión de Office 365 que se adapte a sus necesidades. 
+> Si está buscando la hoja de cálculo de comparación de descripción del servicio, se ha retirado. Las tablas de disponibilidad de características del producto en cada página de descripción del servicio se han actualizado para ayudarle a elegir mejor la versión de Office 365 que se adapte a sus necesidades. 
   
-Microsoft ofrece la ventaja del Centro FastTrack para Office 365 para los servicios elegibles en los planes elegibles. La ventaja le permite trabajar de forma remota con especialistas de Microsoft para que su entorno de Office 365 esté listo para su uso. Para obtener más información, vea [Ventajas del Centro de FastTrack para Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
+Microsoft ofrece la ventaja del Centro FastTrack para Office 365 los servicios elegibles en los planes elegibles. La ventaja le permite trabajar de forma remota con especialistas de Microsoft para preparar su entorno Office 365 para su uso. Para obtener más información, vea [Ventajas del Centro de FastTrack para Office 365](/fasttrack/O365-fasttrack-benefit-for-office-365).
   
 Para empezar, consulte las siguientes descripciones de servicios:
   
-- Descripción del servicio de plataforma [de Microsoft 365 y Office 365](office-365-platform-service-description/office-365-platform-service-description.md)<sup>1</sup>
+- [Microsoft 365 y Office 365 de la plataforma 1](office-365-platform-service-description/office-365-platform-service-description.md)<sup></sup>
 
 - [Descripción del servicio de aplicaciones de Office](office-applications-service-description/office-applications-service-description.md)
 

@@ -31,11 +31,11 @@ Puede agregar hasta 900 dominios a la suscripción (incluidos los subdominios). 
   
 ### <a name="second-and-third-level-domains"></a>Dominios de segundo y tercer nivel
 
-Con Office 365 Enterprise y Aplicaciones de Microsoft 365 para empresas, puede agregar cualquier dominio de nivel, incluidos los dominios de tercer nivel, como marketing.contoso.com. Vea [Agregar subdominios personalizados o varios dominios a Microsoft](/office365/admin/setup/domains-faq). Si usa Office 365 operado por 21Vianet, consulte [Agregar subdominios personalizados o varios dominios a Office 365 operado por 21Vianet](/office365/admin/setup/domains-faq).
+Con Office 365 Enterprise y Aplicaciones Microsoft 365 para negocios, puede agregar cualquier dominio de nivel, incluidos los dominios de tercer nivel, como marketing.contoso.com. Vea [Agregar subdominios personalizados o varios dominios a Microsoft](/office365/admin/setup/domains-faq). Si usa Office 365 operado por 21Vianet, consulte [Agregar subdominios personalizados o varios dominios a Office 365 operado por 21Vianet](/office365/admin/setup/domains-faq).
   
 ## <a name="domain-verification-and-managing-dns-records"></a>Comprobación de dominios y administración de registros DNS
 
-Con Microsoft 365, puede administrar todos los registros DNS en su proveedor de hospedaje DNS o optar por que Microsoft configure y administre los registros DNS de su dominio. Si continúa administrando los registros, cambia registros específicos para que apunten a los servicios de Microsoft según sea necesario. Para obtener una lista de registradores de dominios para los que proporcionamos instrucciones paso a paso para agregar los registros, incluidos los valores específicos que se van a usar para cada registro, vea [Create DNS records](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) o, si usa Office 365 operado por 21Vianet, vea Create DNS records at any provider for Office 365 operated by 21Vianet. 
+Con Microsoft 365, puede administrar todos los registros DNS en su proveedor de hospedaje DNS o optar por que Microsoft configure y administre los registros DNS de su dominio por usted. Si continúa administrando los registros, cambia los registros específicos para que apunten a servicios Microsoft según sea necesario. Para obtener una lista de registradores de dominios para los que proporcionamos instrucciones paso a paso para agregar los registros, incluidos los valores específicos que se van a usar para cada registro, vea Create [DNS records](/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) o, si usa Office 365 operado por 21Vianet, vea Create DNS records at any provider for Office 365 operated by 21Vianet. 
   
 Si Microsoft administra los registros DNS de su dominio por usted, primero debe cambiar los registros de servidor de nombres de su dominio para que apunten a Microsoft y, a continuación, Microsoft configura los servicios y, a continuación, los registros DNS de su dominio se administran en Microsoft.
   
@@ -45,16 +45,16 @@ Independientemente de dónde estén hospedados los registros DNS, puede configur
   
 Microsoft comprueba proactivamente los registros DNS para buscar y ayudar a solucionar problemas de DNS. Si los registros DNS no coinciden con lo que esperamos que sean, recibirá una notificación en el Centro de administración de Microsoft 365, junto con información que le indica cómo solucionar los posibles problemas que se han identificado.
   
-Para obtener más información, vea How [Microsoft manages DNS records](/office365/admin/setup/domains-faq) o, for Office 365 operated by 21Vianet, see Create DNS records for Office [365 when you manage your DNS records](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records).
+Para obtener más información, vea How [Microsoft manages DNS records](/office365/admin/setup/domains-faq) or, for Office 365 operated by 21Vianet, see Create DNS records for Office 365 when you manage your DNS [records](/office365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records).
   
 ## <a name="sharing-a-domain"></a>Compartir un dominio
 
-Puede pilotar algunas direcciones de correo electrónico para un dominio en Microsoft y otras en su proveedor de correo electrónico anterior. Esto solo se recomienda para su uso durante un piloto, ya que requiere pasos de configuración adicionales y tiene algunas limitaciones para los servicios de Microsoft. Para más información vea:
+Puede pilotar algunas direcciones de correo electrónico para un dominio en Microsoft y otras en su proveedor de correo electrónico anterior. Esto solo se recomienda para su uso durante un piloto, ya que requiere pasos de configuración adicionales y tiene algunas limitaciones para servicios Microsoft. Para más información, consulte:
   
-- [Piloto de Microsoft 365 para una pequeña empresa](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
+- [Piloto Microsoft 365 para una pequeña empresa](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     
-- [Piloto de Microsoft 365 para una gran empresa (con FastTrack)](https://fasttrack.office.com/onboard)
+- [Piloto Microsoft 365 para una gran empresa (con FastTrack)](https://fasttrack.office.com/onboard)
     
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características en planes de Microsoft 365 para empresas, opciones independientes y soluciones locales, vea [Microsoft 365 and Office 365 platform service description](office-365-platform-service-description.md).
+Para ver la disponibilidad de características en Microsoft 365 planes empresariales, opciones independientes y soluciones locales, vea Microsoft 365 y [Office 365 de servicio de la plataforma](office-365-platform-service-description.md).

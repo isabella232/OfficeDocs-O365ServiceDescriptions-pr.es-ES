@@ -13,7 +13,7 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
-description: Word para la web (anteriormente Word Web App) amplía la experiencia de Microsoft Word al explorador web, donde puede trabajar con documentos directamente en el sitio web donde se almacena el documento.
+description: Word para la web (anteriormente Word Web App) amplía su experiencia Microsoft Word al explorador web, donde puede trabajar con documentos directamente en el sitio web donde se almacena el documento.
 ms.openlocfilehash: 31be8622ae5c3b072eea0a660bc75afc962315e5
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -23,7 +23,7 @@ ms.locfileid: "51652334"
 ---
 # <a name="word-for-the-web"></a>Word para la web
 
-Word para la web (anteriormente Word Web App) amplía la experiencia de Microsoft Word al explorador web, donde puede trabajar con documentos directamente en el sitio web donde se almacena el documento. 
+Word para la web (anteriormente Word Web App) amplía su experiencia Microsoft Word al explorador web, donde puede trabajar con documentos directamente en el sitio web donde se almacena el documento. 
   
 ## <a name="alignment-guides-and-live-layout"></a>Alignment guides and live layout
 
@@ -35,7 +35,7 @@ Los estilos de párrafo y carácter que se guardan en un documento están dispon
   
 ## <a name="office-add-ins"></a>Complementos de Office
 
-Puede descargar un complemento para Word en la Tienda Office. Los complementos de Office solo funcionan en la aplicación de escritorio de Word y no están disponibles en Word para la web. Obtenga información sobre cómo [descargar un complemento para Word](https://go.microsoft.com/fwlink/?LinkId=391443).
+Puede descargar un complemento para Word en la Tienda Office. Office complementos solo funcionan en la aplicación de escritorio de Word y no están disponibles en Word para la web. Obtenga información sobre cómo [descargar un complemento para Word](https://go.microsoft.com/fwlink/?LinkId=391443).
   
 ## <a name="autosave"></a>Autoguardar
 
@@ -63,7 +63,7 @@ No disponible en Word para la web. Puede ver citas existentes en Word para la we
   
 ## <a name="clipboard"></a>Portapapeles
 
-Debido a las limitaciones de la tecnología de explorador web, copiar y pegar texto en Office para la web difiere de copiar y pegar texto en las aplicaciones de escritorio de Office. Obtenga más información [sobre cómo copiar y pegar en Office para la web](https://go.microsoft.com/fwlink/p/?LinkId=282321).
+Debido a las limitaciones de la tecnología de explorador web, copiar y pegar texto en Office para la web difiere de copiar y pegar texto en las aplicaciones Office escritorio. Obtenga más información [sobre cómo copiar y pegar en Office para la web](https://go.microsoft.com/fwlink/p/?LinkId=282321).
   
 ## <a name="collaboration-advanced"></a>Colaboración avanzada
 
@@ -131,7 +131,7 @@ Un índice enumera los términos y temas que se tratan en un documento, junto co
   
 ## <a name="insert-online-pictures"></a>Insert online pictures
 
-Con Word para la web, puedes insertar una imagen de un archivo guardado en el disco duro local o desde Imágenes de Bing. Obtenga más información sobre las [diferencias entre el uso de un documento en el explorador y en Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
+Con Word para la web, puede insertar una imagen de un archivo guardado en el disco duro local o desde Bing imágenes. Obtenga más información sobre las [diferencias entre el uso de un documento en el explorador y en Word](https://go.microsoft.com/fwlink/p/?LinkId=271859).
   
 ## <a name="irm-and-password-protection"></a>IRM y protección con contraseña
 
@@ -151,7 +151,7 @@ No disponible en Word para la web. Las características avanzadas de integració
   
 ## <a name="offline-viewing-and-authoring"></a>Offline viewing and authoring
 
-No disponible en Word para la web. Office para la web requiere una conexión a Internet y un explorador de Internet. Necesita la aplicación de escritorio de Word instalada en el equipo para ver y editar un documento mientras está desconectado de Internet o de Office Web Apps Server local de su organización. Si tiene instalada la aplicación de escritorio de Word, puede usar todas las funciones de Word para ver y editar el documento. Cuando lo guarde, el documento en línea se actualizará con los cambios. También puede descargar y guardar como una copia sin conexión del documento, pero no se sincronizará con la versión en línea. Obtenga más información sobre [Office Online Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
+No disponible en Word para la web. Office para la web requiere una conexión a Internet y un explorador de Internet. Necesita la aplicación de escritorio de Word instalada en el equipo para ver y editar un documento mientras está desconectado de Internet o de la aplicación local de su organización Office Web Apps Server. Si tiene instalada la aplicación de escritorio de Word, puede usar todas las funciones de Word para ver y editar el documento. Cuando lo guarde, el documento en línea se actualizará con los cambios. También puede descargar y guardar como una copia sin conexión del documento, pero no se sincronizará con la versión en línea. Obtenga más información sobre [Office Online Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
   
 ## <a name="page-breaks"></a>Page breaks
 
@@ -205,7 +205,7 @@ No disponible en Word para la web. Las características avanzadas de las herrami
   
 ## <a name="real-time-co-authoring"></a>Real-time co-authoring
 
-Más de una persona puede trabajar simultáneamente en un documento. En Word para la web y Word 2016, la presencia en tiempo real le ayuda a ver dónde trabajan sus coautores en el documento para que no cree conflictos mientras edita y puede ver los cambios que se están haciendo. Word 2013 admite la edición simultánea, pero no hay ninguna indicación de presencia y los cambios no pueden ser vistos por varios autores hasta que se guarde el documento. Para obtener más información sobre la co-autoría en tiempo real, vea Novedades de Word para la [web](https://go.microsoft.com/fwlink/?LinkId=389520) y Colaborar en documentos de Word con [co-autoría](https://go.microsoft.com/fwlink/?linkid=798760)en tiempo real.
+Más de una persona puede trabajar simultáneamente en un documento. En Word para web y Word 2016, la presencia en tiempo real le ayuda a ver dónde trabajan los coautores en el documento para que no cree conflictos mientras edita y puede ver los cambios que se están haciendo. Word 2013 admite la edición simultánea, pero no hay ninguna indicación de presencia y los cambios no pueden ser vistos por varios autores hasta que se guarde el documento. Para obtener más información sobre la co-autoría en tiempo real, vea Novedades de Word para la [web](https://go.microsoft.com/fwlink/?LinkId=389520) y Colaborar en documentos de Word con [co-autoría](https://go.microsoft.com/fwlink/?linkid=798760)en tiempo real.
   
 ## <a name="reference-tools"></a>Reference tools
 
@@ -293,7 +293,7 @@ La característica de zoom está disponible en el modo de visualización. Con Wo
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Office para la descripción del servicio web](office-online-service-description.md). 
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, consulte Office para obtener la [descripción del servicio web](office-online-service-description.md). 
 
 ## <a name="operating-parameter-limitations-and-specifications"></a>Limitaciones y especificaciones de parámetros operativos
 

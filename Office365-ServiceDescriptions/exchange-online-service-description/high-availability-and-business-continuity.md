@@ -31,7 +31,7 @@ Para obtener más información sobre cómo protege Microsoft sus datos, vea [Cen
   
 ## <a name="deleted-mailbox-recovery"></a>Recuperación de buzones eliminados
 
-Los administradores pueden eliminar buzones de Exchange Online mediante el Centro de administración de Microsoft 365 para eliminar la cuenta de usuario correspondiente o quitar la licencia de Exchange Online, o bien mediante el cmdlet **Remove-Mailbox** en el Windows PowerShell. Cuando se elimina un buzón, Exchange Online retiene el buzón y su contenido durante 30 días de forma predeterminada. Después de 30 días, el buzón no se puede recuperar. Un buzón recuperado contiene todos los datos almacenados en él en el momento en que se eliminó. Los administradores pueden recuperar un buzón eliminado dentro del período de retención mediante el Centro de administración de Microsoft 365. Para recuperar un buzón eliminado, los administradores deben restaurar la cuenta de usuario correspondiente o reasignar una licencia de Exchange Online a la cuenta de usuario. Para obtener más información, vea [Eliminar o restaurar buzones de usuario en Exchange Online](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+Los administradores pueden eliminar Exchange Online buzones de correo mediante el Centro de administración de Microsoft 365 para eliminar la cuenta de usuario correspondiente o quitar la licencia de Exchange Online, o mediante el cmdlet **Remove-Mailbox** en Windows PowerShell. Cuando se elimina un buzón, Exchange Online conserva el buzón y su contenido durante 30 días de forma predeterminada. Después de 30 días, el buzón no se puede recuperar. Un buzón recuperado contiene todos los datos almacenados en él en el momento en que se eliminó. Los administradores pueden recuperar un buzón eliminado dentro del período de retención mediante el Microsoft 365 de administración. Para recuperar un buzón eliminado, los administradores deben restaurar la cuenta de usuario correspondiente o reasignar una Exchange Online a la cuenta de usuario. Para obtener más información, vea [Eliminar o restaurar buzones de usuario en Exchange Online](/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
   
 ## <a name="deleted-item-recovery"></a>Recuperación de elementos eliminados
 
@@ -45,4 +45,4 @@ Para conservar los mensajes más de 30 días en la carpeta Elementos recuperable
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [consulte Exchange Online descripción del servicio](exchange-online-service-description.md).

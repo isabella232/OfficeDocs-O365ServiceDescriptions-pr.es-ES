@@ -28,7 +28,7 @@ En el caso de clientes que hayan implementado Microsoft Lync Server 2010, Lync S
   
 Lync Server 2010 y Lync Server 2013 local pueden interoperar con Exchange Online de dos formas adicionales:
   
-- Interoperabilidad de mensajería instantánea e presencia en Outlook en la web
+- Interoperabilidad de mensajería instantánea e presencia Outlook en la web
     
 - Interoperabilidad de correo de voz
     
@@ -36,7 +36,7 @@ Para obtener más información sobre la configuración de Skype Empresarial Serv
   
 ### <a name="microsoft-sharepoint"></a>Microsoft SharePoint
 
-Para los clientes que han implementado Microsoft SharePoint Server o SharePoint Online como parte de un plan de suscripción, SharePoint puede conectarse a Exchange Online para servicios integrados.
+Para los clientes que han implementado Microsoft SharePoint Server o SharePoint Online como parte de un plan de suscripción, SharePoint conectarse a Exchange Online para servicios integrados.
   
 Para obtener más información sobre cómo conectar SharePoint a Exchange Online, vea [Usar SharePoint Online en un dominio personalizado con otros servicios](https://go.microsoft.com/fwlink/?LinkId=271805).
   
@@ -58,4 +58,4 @@ Exchange Online se puede usar como servicio de entrega SMTP para transmitir los 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Exchange Online](exchange-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [consulte Exchange Online descripción del servicio](exchange-online-service-description.md).

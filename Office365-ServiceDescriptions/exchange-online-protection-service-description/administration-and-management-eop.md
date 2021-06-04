@@ -11,7 +11,7 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
-description: En este artículo se describen las interfaces de administración que están disponibles para Microsoft Exchange Online protection (EOP).
+description: En este artículo se describen las interfaces de administración que están disponibles para Microsoft Exchange Online de protección contra Microsoft Exchange Online (EOP).
 ms.openlocfilehash: f4b1aa1e9345740528763ff45a3fc99858fbd71a
 ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
 ms.translationtype: MT
@@ -21,17 +21,17 @@ ms.locfileid: "51653072"
 ---
 # <a name="administration-and-management-in-exchange-online-protection"></a>Administración y administración en Exchange Online Protection
 
-En este artículo se describen las interfaces de administración que están disponibles para Microsoft Exchange Online protection (EOP).
+En este artículo se describen las interfaces de administración que están disponibles para Microsoft Exchange Online de protección contra Microsoft Exchange Online (EOP).
   
-¿Busca información sobre todas las características de EOP? Vea la [descripción del servicio de Exchange Online Protection](exchange-online-protection-service-description.md).
+¿Busca información sobre todas las características de EOP? Vea la [Exchange Online Protection descripción del servicio .](exchange-online-protection-service-description.md)
   
-## <a name="access-to-the-microsoft-365-admin-center"></a>Acceso al Centro de administración de Microsoft 365
+## <a name="access-to-the-microsoft-365-admin-center"></a>Acceso al Centro Microsoft 365 administración
 
-El Centro de administración de Microsoft 365 es el portal web desde el que el administrador de servicios de cada empresa puede administrar las cuentas de usuario y la configuración de cada uno de los servicios de Microsoft a los que se suscriban. Desde el Centro de administración de Microsoft 365, los administradores pueden seguir vínculos al EAC, donde pueden administrar la configuración específica de EOP.
+El Microsoft 365 de administración de Microsoft 365 es el portal web desde el que el administrador de servicios de cada empresa puede administrar las cuentas de usuario y la configuración de cada una de las servicios Microsoft a las que se suscriban. Desde el centro Microsoft 365 administración, los administradores pueden seguir vínculos al EAC, donde pueden administrar la configuración específica de EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Acceso al Centro de administración de Exchange
 
-El Centro de administración de Exchange (EAC) es una consola de administración unificada fácil de usar que está optimizada para todo tipo de implementaciones. El nuevo y mejorado EAC sustituye al Centro de administración de Forefront Online Protection para Exchange. EAC proporciona una integración más estrecha con Microsoft 365 y una experiencia de interfaz de usuario coherente y sin problemas en todos los productos de Exchange (Microsoft Exchange Online y Microsoft Exchange Server 2013). Para obtener más información sobre EAC, vea [Centro de administración de Exchange en Exchange Online Protection](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
+El Centro de administración de Exchange (EAC) es una consola de administración unificada fácil de usar que está optimizada para todo tipo de implementaciones. El nuevo y mejorado EAC sustituye al Centro de administración de Forefront Online Protection para Exchange. EAC proporciona una integración más estrecha con Microsoft 365 y una experiencia de interfaz de usuario coherente y sin problemas en Exchange productos (Microsoft Exchange Online y Microsoft Exchange Server 2013). Para obtener más información sobre EAC, vea [Centro de administración de Exchange en Exchange Online Protection](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
   
 ## <a name="remote-windows-powershell-access"></a>Acceso a Windows PowerShell remoto
 
@@ -39,4 +39,4 @@ El Centro de administración de Exchange (EAC) es una consola de administración
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea Descripción del servicio [de Exchange Online Protection](exchange-online-protection-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [vea Exchange Online Protection descripción del servicio](exchange-online-protection-service-description.md).

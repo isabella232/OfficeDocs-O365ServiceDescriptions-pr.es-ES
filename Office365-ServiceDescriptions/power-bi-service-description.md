@@ -29,11 +29,11 @@ Power BI está disponible actualmente como parte de la versión de Office 365 En
 
 En la tabla siguiente se muestran los planes que incluyen Power BI para que pueda elegir la solución que mejor se adapte a las necesidades de su organización. Para obtener información detallada sobre el plan, vea [Herramientas eficaces para admitir su empresa.](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans)
 
-Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios para Power BI, consulte la tabla de comparación [de suscripciones completa.](https://go.microsoft.com/fwlink/?linkid=2139145)
+Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios Power BI, consulte la tabla de comparación [de suscripciones completa](https://go.microsoft.com/fwlink/?linkid=2139145).
  
 ## <a name="power-bi-plans"></a>Planes de Power BI
 
-Puede registrarse en el [plan de Power BI que](https://go.microsoft.com/fwlink/?LinkID=786854) mejor se adapte a sus necesidades. 
+Puedes suscribirte al plan de [Power BI que](https://go.microsoft.com/fwlink/?LinkID=786854) mejor se adapte a tus necesidades. 
   
 > [!NOTE]
 > Power BI y Power BI para Office 365 son diferentes productos. Power BI para Office 365 es un servicio de la versión 1 y está desusado. 

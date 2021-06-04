@@ -21,7 +21,7 @@ ms.locfileid: "51652294"
 
 Las siguientes características de funcionalidad de servicios principales están disponibles en Project Online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea la [descripción del servicio de Project Online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [descripción Project Online servicio .](project-online-service-description.md)
   
 ## <a name="active-directory-integration"></a>Integración con Active Directory
 
@@ -53,11 +53,11 @@ Cumplimos nuestra promesa de tiempo de actividad del 99,9 por ciento con una gar
   
 ## <a name="service-updates"></a>Actualizaciones de servicio
 
-Actualizamos regularmente los servicios de Microsoft con nuevas características y capacidades. Vea [Actualizaciones de servicio](../office-365-platform-service-description/service-updates.md).
+Actualizamos periódicamente servicios Microsoft nuevas características y capacidades. Vea [Actualizaciones de servicio](../office-365-platform-service-description/service-updates.md).
   
 ## <a name="team-member-collaboration"></a>Colaboración de integrantes del equipo
 
-La colaboración en equipo facilita e impulsa el éxito global y la eficacia de los proyectos. Para ver cómo Project Server 2013 permite a las organizaciones colaborar en proyectos, [vea Vídeo: Colaborar con el equipo](https://go.microsoft.com/fwlink/?LinkId=402628).
+La colaboración en equipo facilita e impulsa el éxito global y la eficacia de los proyectos. Para ver cómo Project Server 2013 permite a las organizaciones colaborar en proyectos, [vea Video: Collaborate with your team](https://go.microsoft.com/fwlink/?LinkId=402628).
   
 ## <a name="time-and-task-management-for-team-members"></a>Administración de tiempo y tareas (para miembros del equipo)
 

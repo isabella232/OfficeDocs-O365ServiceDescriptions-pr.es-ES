@@ -23,7 +23,7 @@ ms.locfileid: "51651210"
 
 Las siguientes características de administración de recursos están disponibles en Project Online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea la [descripción del servicio de Project Online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [descripción Project Online servicio .](project-online-service-description.md)
   
 ## <a name="cost-resources"></a>Recursos de costos
 
@@ -37,11 +37,11 @@ Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no l
 
 Cuando las personas del proyecto trabajen en demasiadas asignaciones a la vez, puede ajustar las asignaciones automáticamente. Esto se denomina redistribución de recursos. Vea [Redistribuir las asignaciones de recursos](https://go.microsoft.com/fwlink/p/?LinkId=271348).
   
-## <a name="resource-sheet-and-usage-views"></a>Vistas de hoja y uso de recursos
+## <a name="resource-sheet-and-usage-views"></a>Resource sheet and usage views
 
 Presente información de los recursos de manera gráfica mediante el uso de recursos, hojas, gráficos y vistas de formulario. Vea [Elegir el informe adecuado](https://go.microsoft.com/fwlink/?LinkId=402920).
   
-## <a name="resource-substitution"></a>Sustitución de recursos
+## <a name="resource-substitution"></a>Resource substitution
 
 Permite sustituir recursos genéricos como carpinteros con personas reales. Vea [Crear y compartir un grupo de recursos](https://go.microsoft.com/fwlink/?LinkId=402921).
   
@@ -55,6 +55,6 @@ Agregue recursos al proyecto, tales como recursos de trabajo (personas), recurso
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea Descripción del servicio [de Project Online](project-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [consulte Project Online descripción del servicio](project-online-service-description.md).
   
 

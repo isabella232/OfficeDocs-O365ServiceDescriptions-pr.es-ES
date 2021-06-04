@@ -23,9 +23,9 @@ ms.locfileid: "51651055"
 
 Las siguientes características de planeación del proyecto están disponibles en Project Online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea la [descripción del servicio de Project Online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [descripción Project Online servicio .](project-online-service-description.md)
   
-## <a name="baseline-rollup"></a>Resumen de línea de base
+## <a name="baseline-rollup"></a>Baseline rollup
 
 Los datos de la línea base se pueden resumir en una fila de resumen. Obtenga más información sobre cómo [definir y guardar una línea base](https://go.microsoft.com/fwlink/p/?LinkId=271346).
   
@@ -45,7 +45,7 @@ Marque los principales objetivos de su proyecto con un hito. Obtenga más inform
 
 Filtre los planes de proyecto por cualquier valor del plan. Obtenga más información sobre cómo [crear un filtro personalizado](https://go.microsoft.com/fwlink/p/?LinkId=271341).
   
-## <a name="formulas-and-graphical-indicators"></a>Fórmulas e indicadores gráficos
+## <a name="formulas-and-graphical-indicators"></a>Formulas and graphical indicators
 
 Agregue una imagen a una columna para indicar el progreso de una programación. Obtenga más información sobre cómo [agregar indicadores](https://go.microsoft.com/fwlink/p/?LinkId=271340).
   
@@ -63,5 +63,5 @@ Use una vista que muestra las personas y sus asignaciones.
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea Descripción del servicio [de Project Online](project-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [consulte Project Online descripción del servicio](project-online-service-description.md).
   

@@ -37,5 +37,5 @@ Agregue y priorice grupos relacionados con los que ya se ha unido para que los c
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Yammer](yammer-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [vea Yammer descripción del servicio](yammer-service-description.md).
   

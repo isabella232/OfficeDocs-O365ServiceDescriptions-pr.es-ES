@@ -23,7 +23,7 @@ ms.locfileid: "51653562"
 
 A continuación se describen las características de administración y seguridad disponibles en Yammer.
   
-Para obtener explicaciones y procedimientos detallados, consulta [Ayuda de administración de Yammer](/yammer/).
+Para obtener explicaciones y procedimientos detallados, [consulte Yammer ayuda de administración.](/yammer/)
 
 ## <a name="admin-private-content-mode"></a>Modo de contenido privado de administración
 
@@ -35,7 +35,7 @@ Hágase con perspectivas obtenidas a partir del análisis de la red y sepa en to
 
 ## <a name="custom-network-branding"></a>Personalización de marca de red personalizada
 
-Lleva el aspecto de tu organización a la red de Yammer. Los administradores de red pueden cargar el logotipo y la imagen de una organización para crear un diseño de mástil personalizado.
+Lleve el aspecto de su organización a su Yammer red. Los administradores de red pueden cargar el logotipo y la imagen de una organización para crear un diseño de mástil personalizado.
 
 ## <a name="data-export"></a>Exportación de datos
 
@@ -58,7 +58,7 @@ Restrinja su red Yammer a un intervalo específico de direcciones IP para que Ya
 Consolide varias redes de Yammer en una. Para obtener más información, vea [Migración de red: Consolidar varias redes de Yammer](/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
   
 > [!NOTE]
-> No se admite la migración de redes de Yammer entre planes. 
+> No se Yammer la migración de redes entre planes. 
 
 ## <a name="organization-resources"></a>Recursos de la organización
 
@@ -74,7 +74,7 @@ Vea los dispositivos a los que los usuarios están conectados y cierre las sesio
 
 ## <a name="single-identity"></a>Identidad única
 
-Cuando elige Yammer como la experiencia social predeterminada para su organización, los empleados se asignan a sus cuentas de Yammer existentes. Esto significa que no tendrán que volver a iniciar sesión cuando naveguen a Yammer en Office 365. Cuando los empleados tienen acceso a Yammer ya sea desde Office 365, a través de una aplicación móvil de Yammer o al navegar a Yammer.com inician sesión automáticamente en función de las credenciales de la &mdash; &mdash; organización existentes.
+Cuando elige Yammer como la experiencia social predeterminada para su organización, los empleados se asignan a sus cuentas Yammer existentes. Esto significa que no tendrán que volver a iniciar sesión cuando naveguen a Yammer en Office 365. Cuando los empleados tienen acceso Yammer desde Office 365, a través de una aplicación móvil de Yammer o al navegar a Yammer.com, inician sesión automáticamente en función de las credenciales de la organización &mdash; &mdash; existentes.
 
 ## <a name="usage-policy"></a>Directiva de uso
 
@@ -82,8 +82,8 @@ Establezca una directiva de uso personalizada para la red de su organización y 
 
 ## <a name="user-management"></a>Administración de usuarios
 
-Administre fácilmente el acceso a la red de su organización. Yammer te permite sincronizar con directorios que ya usas, agregar o quitar usuarios, de forma individual o masiva, invitar invitados a la red y designar a otros administradores.
+Administre fácilmente el acceso a la red de su organización. Yammer permite sincronizar con directorios que ya usa, agregar o quitar usuarios, de forma individual o masiva, invitar invitados a la red y nombrar a otros administradores.
 
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea [Descripción del servicio de Yammer](yammer-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [vea Yammer descripción del servicio](yammer-service-description.md).

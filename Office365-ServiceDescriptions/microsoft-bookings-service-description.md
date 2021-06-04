@@ -27,21 +27,21 @@ Para obtener información detallada del plan sobre las suscripciones que permite
 
 En la tabla siguiente se enumeran las principales características de Microsoft Bookings disponibles en todos los planes. Se aplican ciertas advertencias. Vea las notas al pie para obtener más información. Esta tabla puede cambiar sin previo aviso.
 
-| Característica principal | Pequeña Empresa | Planes de empresa | GCC | GCC-High | DOD | Educación |
+| Característica principal | Pequeña Empresa | Enterprise planes | GCC | GCC-High | DOD | Educación |
 | --- | --- | --- | --- | --- | --- | --- |
 | Página de programación basada en web (página de reserva) | Sí | Sí | Sí | No | No | Sí |
 | Control de acceso de página de reserva (solo inquilino) | Sí | Sí | Sí | No | No | Sí |
-| Reuniones en línea a través de Skype y Teams<sup>1</sup> <br/> | Sí | Sí | Sí | No | No | Sí |
+| Reuniones en línea a Skype y Teams<sup>1</sup> <br/> | Sí | Sí | Sí | No | No | Sí |
 | Reservas de grupo (1 personal: N clientes) | Sí | Sí | Sí | No | No | Sí |
 | Correos electrónicos de notificación de citas | Sí | Sí | Sí | No | No | Sí |
-| SMS de notificación de cita | Sí<sup>2</sup> <br/> | Sí<sup>2</sup> <br/> | Sí<sup>2</sup> <br/> | No | No | Sí |
+| Notificación de cita SMS | Sí<sup>2</sup> <br/> | Sí<sup>2</sup> <br/> | Sí<sup>2</sup> <br/> | No | No | Sí |
 | Administración de personal y servicio | Sí | Sí | Sí | No | No | Sí |
 | Campos personalizados en la colección de datos de usuario | Sí | Sí | Sí | No | No | Sí |
 | API de Bookings en Microsoft Graph | Sí | Sí | No | No | No | Sí |
-| Aplicación de Bookings en Teams | Sí | Sí | No | No | No | Sí |
+| Aplicación Bookings en Teams | Sí | Sí | No | No | No | Sí |
 
-<sup>1</sup> Las reuniones en línea requieren que el miembro del personal que se reserve tenga una licencia de Microsoft Teams o Skype Empresarial que permita la creación de reuniones.
-<br/><sup>2 notificaciones</sup> SMS están actualmente en versión beta y solo están disponibles en Norteamérica.
+<sup>1</sup> Las reuniones en línea requieren que el miembro del personal que se haya reservado tenga una licencia Microsoft Teams o Skype Empresarial que permita la creación de reuniones.
+<br/><sup>2</sup> SMS notificaciones están actualmente en versión beta y solo están disponibles en Norteamérica.
 
 ## <a name="learn-more"></a>Más información
 
@@ -62,4 +62,4 @@ Para realizar un seguimiento de los próximos cambios, incluidas las caracterís
 
 ### <a name="accessibility"></a>Accesibilidad
 
-Microsoft sigue comprometido con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, vea [El Centro de confianza de Microsoft](https://www.microsoft.com/trust-center) y el Centro de [accesibilidad de Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+Microsoft sigue comprometido con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, vea [el Centro](https://www.microsoft.com/trust-center) de confianza de Microsoft y el Centro Office [accesibilidad](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

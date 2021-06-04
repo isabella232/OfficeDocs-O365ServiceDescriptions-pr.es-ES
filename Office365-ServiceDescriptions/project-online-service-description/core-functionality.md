@@ -23,7 +23,7 @@ ms.locfileid: "51652304"
 
 Las siguientes características de funcionalidad principales están disponibles en Project Online.
   
-¿Está buscando información sobre todas las características de Project Online? Vea la [descripción del servicio de Project Online](project-online-service-description.md).
+¿Está buscando información sobre todas las características de Project Online? Vea la [descripción Project Online servicio .](project-online-service-description.md)
   
 ## <a name="add-columns"></a>Agregar columnas
 
@@ -35,7 +35,7 @@ Seleccione **Archivo** para usar características en Backstage, donde puede admi
   
 ## <a name="click-to-run"></a>Hacer clic y ejecutar
 
-Instale Rápidamente Project Online a través de Internet, redes internas, sistemas de archivos locales o desde medios sin conexión para asegurarse de estar actualizado con la versión más reciente de la aplicación de escritorio de Project. Para obtener más información, vea [Hacer clic y ejecutar](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
+Instale rápidamente Project Online a través de Internet, redes internas, sistemas de archivos locales o desde medios sin conexión para asegurarse de estar actualizado con la versión más reciente de Project aplicación de escritorio. Para obtener más información, vea [Hacer clic y ejecutar](/previous-versions/office/office-2013-resource-kit/dd188670(v=office.15)).
   
 ## <a name="contextual-right-click-menus"></a>Menús contextuales con el botón derecho
 
@@ -65,17 +65,17 @@ Puede deshacer varios cambios a la vez mediante el menú Deshacer.
 
 Vea tareas, dependencias y la ruta crítica del proyecto en la vista Diagrama de red. Vea [Crear un diagrama de red](https://go.microsoft.com/fwlink/p/?LinkId=271338).
   
-## <a name="office-store"></a>Tienda Office
+## <a name="office-store"></a>Office store
 
-¿Necesita una aplicación que lo ayude con Project? Busque nuevas aplicaciones para Project en la Tienda Office. Vea [Complementos para Project](https://go.microsoft.com/fwlink/?LinkId=273883).
+¿Necesita una aplicación que lo ayude con Project? Busque nuevas aplicaciones para Project en el Office de almacenamiento. Vea [Complementos para Project](https://go.microsoft.com/fwlink/?LinkId=273883).
   
 ## <a name="online-help"></a>Ayuda en línea
 
-La Ayuda del proyecto está disponible en Office.com guías de introducción directamente en Project (seleccione **Archivo** \> **nuevo**). [Vea estos vídeos para cambiar a Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
+Project La ayuda está disponible en Office.com o en Guías de introducción directamente en Project (seleccione **Archivo** \> **nuevo**). [Vea estos vídeos para cambiar a Project 2013](https://go.microsoft.com/fwlink/p/?LinkId=271325).
   
 ## <a name="pdf-and-xps-output"></a>PDF and XPS output
 
-Guarde un archivo de Project como un archivo PDF o XPS. Vea [Guardar un archivo de proyecto como PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
+Guarde un Project como un archivo PDF o XPS. Vea [Guardar un archivo de proyecto como PDF](https://go.microsoft.com/fwlink/p/?LinkId=271350).
   
 ## <a name="placeholder-text-in-project-fields"></a>Placeholder text in Project fields
 
@@ -93,7 +93,7 @@ En lugar de comenzar con un proyecto en blanco, Project 2013 presenta un centro 
 
 Ajuste los nombres de las tareas o los recursos para que aparezcan en una segunda línea. Vea [Ajustar texto cambiando el alto de fila](https://go.microsoft.com/fwlink/p/?LinkId=271344).
   
-## <a name="timeline-view"></a>Vista Escala de tiempo
+## <a name="timeline-view"></a>Timeline view
 
 Permite crear y personalizar la vista de escala de tiempo para visualizar detalles de la programación y comunicarse con las partes interesadas. Vea [Vídeo: Crear una escala de tiempo](https://go.microsoft.com/fwlink/?LinkId=402912).
   
@@ -103,4 +103,4 @@ Use los controles de zoom de la barra de estado para cambiar rápidamente la per
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, vea Descripción del servicio [de Project Online](project-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [consulte Project Online descripción del servicio](project-online-service-description.md).
