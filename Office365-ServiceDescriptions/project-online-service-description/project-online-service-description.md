@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y el trabajo diario. Entregado a través de Office 365, Project Online proporciona potentes capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de cartera de proyectos, desde casi cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 3b8748a07bee29e12552d096e56eae84cfdc4c04
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 6fce6aca852f0c8bac6572b130a6f7da1b89ef79
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545927"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798486"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -127,7 +127,7 @@ Las características enumeradas en esta sección interactúan solo con los datos
 |**Administración de usuarios y seguridad**||||||
 |Office Grupos modernos | Cree un equipo de proyecto con el que colaborar y configure fácilmente una colección de recursos para que los miembros del equipo puedan compartir. | Sí | Sí | Sí | Sí |
 |**Aplicaciones de terceros**||||||
-|Conectar para *Project web* con aplicaciones de terceros <sup>4</sup> | Use una aplicación personalizada o de terceros para ver, crear, actualizar o eliminar datos Project datos en cualquier tabla Project nativa. | No | Sí | Sí | Sí |
+|Conectar para *Project web* con aplicaciones de terceros <sup>4</sup> | Use una aplicación personalizada o de terceros para ver, crear, actualizar o eliminar datos Project datos en cualquier tabla Project nativa. | Ver solo<sup>11</sup> | Sí | Sí | Sí |
 
 ### <a name="project-online-features"></a>Características de Project Online
 
@@ -212,6 +212,7 @@ Si el flujo está aislado y no tiene nada que ver con la aplicación Project, de
 <sup>8</sup> Los usuarios con una Project Plan 3 o Project Plan 5 pueden enviar solicitudes de participación de recursos. No pueden revisar, cumplir ni aprobar solicitudes de participación de recursos.</br>
 <sup>9</sup> Los usuarios con una suscripción Project Plan 5 pueden revisar, cumplir y aprobar solicitudes de participación de recursos.</br>
 <sup>10</sup> Active Directory requiere una suscripción independiente. </br>
+<sup>11</sup> Solo se conceden derechos de vista desde una Power App. </br>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online cliente de escritorio
 

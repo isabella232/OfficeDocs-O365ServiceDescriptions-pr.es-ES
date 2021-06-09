@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El Centro de cumplimiento de seguridad está diseñado para ayudarle a administrar las características de cumplimiento &amp; en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-ms.openlocfilehash: 9f4c644905f606d00e6a40d23ded56744e397c50
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 8fc8c0a6d127dd1565a954a5368b56fc37bcc47d
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699106"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798466"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -116,7 +116,7 @@ Para ver las opciones para otorgar licencias a los usuarios para que se benefici
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Disponibilidad &amp; del Centro de seguridad en Office 365 operado por 21Vianet
 
-El Centro de cumplimiento está disponible en el plan E3 Office 365 operado por 21Vianet.
+El Centro de cumplimiento está disponible en el plan E3 [Office 365 operado por 21Vianet](/office365/servicedescriptions/office-365-platform-service-description/office-365-operated-by-21vianet).
   
 ## <a name="security-amp-compliance-center-availability-in-office-365-germany"></a>Security &amp; Compliance Center availability in Office 365 Germany
 

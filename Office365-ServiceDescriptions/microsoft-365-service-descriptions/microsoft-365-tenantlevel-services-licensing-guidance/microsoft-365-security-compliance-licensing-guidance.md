@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones sobre licencias Microsoft 365 cumplimiento normativo para ayudar a evitar posibles interrupciones en el servicio debido al acceso sin licencia.
-ms.openlocfilehash: d1bbf0d60d78d12d0d48ce909dba72ef2478a0c0
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
+ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699066"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798476"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 de licencias para el cumplimiento de &amp; la seguridad
 
@@ -92,7 +92,7 @@ De forma predeterminada, las características de Microsoft Defender para Identit
 
 Los servicios de Microsoft Defender for Identity actualmente no son capaces de limitar las capacidades para usuarios específicos. Debe licenciar todos los usuarios que desea beneficiar.
 
-## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
 
 Microsoft Defender para Office 365 (anteriormente Office 365 protección contra amenazas avanzada) ayuda a proteger a las organizaciones contra ataques sofisticados como phishing y malware de día cero. Microsoft Defender para Office 365 también proporciona información útil al correlacionar las señales de una amplia gama de datos para ayudar a identificar, priorizar y proporcionar recomendaciones sobre cómo abordar amenazas potenciales.
 
@@ -303,8 +303,6 @@ Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Informa
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 E5/A5/G5 Information Protection y Governance proporcionan los derechos para que un usuario se beneficie de aplicar automáticamente etiquetas de retención basadas en clasificadores que se pueden entrenar.
 
-Para obtener derechos específicos por licencia, consulte la comparación Microsoft 365 de licencias de cumplimiento. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
-
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se aprovisiona o implementa el servicio?
 
 De forma predeterminada, las características de Gobierno de información están habilitadas en el nivel de inquilino para todos los usuarios del espacio empresarial. Para obtener información sobre cómo configurar Information Governance para aplicar la etiqueta automática y las directivas para los usuarios con licencia, consulte [Microsoft Information Governance in Microsoft 365](/microsoft-365/compliance/manage-information-governance).
@@ -322,8 +320,6 @@ Administración de registros ayuda a las organizaciones a cumplir sus obligacion
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Information Protection and Governance E5/A5/G5 y Office 365 E5/A5/G5 proporcionan los derechos para que un usuario se beneficie de la administración de registros, incluida la declaración de elementos como registros o registros reglamentarios, la aplicación automática de etiquetas de retención o registro y la ejecución de procesos de revisión de disposición (excluyendo aplicar automáticamente una etiqueta de retención basada en clasificadores capacitados).
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance y Microsoft 365 Information Protection and Governance proporcionan los derechos para que un usuario se beneficie de aplicar automáticamente etiquetas de retención o registro basadas en clasificadores capacitados.
-
-Para obtener derechos específicos por licencia, consulte la comparación Microsoft 365 de licencias de cumplimiento. [(PDF)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.pdf)  |  [(Excel)](/office365/servicedescriptions/downloads/microsoft-365-compliance-licensing-comparison.xlsx)
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -533,7 +529,7 @@ De forma predeterminada, Teams chat y los mensajes de canal son una ubicación *
 
 Los administradores pueden personalizar ubicaciones (cargas de trabajo), usuarios incluidos y usuarios excluidos en el Centro de cumplimiento de seguridad, en Ubicaciones de prevención &amp; **de pérdida de**  >  **datos.**
 
-## <a name="information-barriers"></a>Barreras de información
+## <a name="information-barriers"></a>Barreras de la información
 
 Las barreras de información son directivas que un administrador puede configurar para evitar que individuos o grupos se comuniquen entre sí. Esto es útil si, por ejemplo, un departamento administra información que no debe compartirse con otros departamentos o si es necesario impedir que un grupo se comunique con contactos externos. Las directivas de barrera de información también impiden las búsquedas y la detección. Esto significa que si intenta comunicarse con alguien con quien no debe comunicarse, no encontrará ese usuario en el selector de personas.
 
