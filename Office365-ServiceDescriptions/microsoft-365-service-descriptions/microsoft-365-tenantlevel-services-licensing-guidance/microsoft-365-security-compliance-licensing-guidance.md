@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones sobre licencias Microsoft 365 cumplimiento normativo para ayudar a evitar posibles interrupciones en el servicio debido al acceso sin licencia.
-ms.openlocfilehash: 76b85a49f9a1dd5c48db471d7be3a21559d93d77
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: 2f1f048de8dd0de2416c87f2fbf985d8ee47b9b2
+ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798476"
+ms.lasthandoff: 06/11/2021
+ms.locfileid: "52906756"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 de licencias para el cumplimiento de &amp; la seguridad
 
@@ -297,7 +297,17 @@ Microsoft 365 E5/A5/G5/E3/A3/Business Premium, Office 365 E5/A5/G5/E3/A3, plan 2
 
 Microsoft 365 E5/A5/G5/E3/A3, Office 365 E5/A5/G5/E3/A3 y SharePoint Plan 2 proporcionan los derechos para que un usuario se beneficie de una directiva de retención básica de SharePoint o OneDrive y/o para aplicar manualmente una etiqueta de retención sin registro a archivos de SharePoint o OneDrive.
 
-Microsoft 365 E5/A5/G5/E3/A3 y Office 365 E5/A5/G5/E3/A3 proporcionan los derechos para que un usuario se beneficie de una directiva de retención de Teams.
+Las organizaciones pueden usar directivas de retención para mantener o eliminar Teams de acuerdo con sus directivas. Esto incluye la administración de mensajes en Teams chats y conversaciones.
+
+Las siguientes licencias proporcionan los derechos para que un usuario se beneficie de una Teams de retención:
+
+- Microsoft 365 E5/G5/A5/E3/G3/A3
+- Office 365 E5/G5/A5/E3/G3/A3/F3/E1/G1
+
+Tenga en cuenta que para los usuarios con las siguientes licencias, el período mínimo de retención o eliminación admitido es de 30 días:
+
+- Microsoft 365 F1/F3, Business Basic, Business Standard y Business Premium
+- Office 365 E1/G1 y F3
 
 Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance, Microsoft 365 Information Protection and Governance E5/A5/G5, and Office 365 E5/A5 provide the rights for a user to benefit from automatically applying retention labels or policies, applying default retention labels or policies, starting the retention period of a retention label based on a custom event, triggering a manual disposition review at the end of the label's retention period, importing third-party data through native data connectors, declaring a file a record, discovering labeled content, and monitoring labeling activity.
 
@@ -529,7 +539,7 @@ De forma predeterminada, Teams chat y los mensajes de canal son una ubicación *
 
 Los administradores pueden personalizar ubicaciones (cargas de trabajo), usuarios incluidos y usuarios excluidos en el Centro de cumplimiento de seguridad, en Ubicaciones de prevención &amp; **de pérdida de**  >  **datos.**
 
-## <a name="information-barriers"></a>Barreras de la información
+## <a name="information-barriers"></a>Barreras de información
 
 Las barreras de información son directivas que un administrador puede configurar para evitar que individuos o grupos se comuniquen entre sí. Esto es útil si, por ejemplo, un departamento administra información que no debe compartirse con otros departamentos o si es necesario impedir que un grupo se comunique con contactos externos. Las directivas de barrera de información también impiden las búsquedas y la detección. Esto significa que si intenta comunicarse con alguien con quien no debe comunicarse, no encontrará ese usuario en el selector de personas.
 
