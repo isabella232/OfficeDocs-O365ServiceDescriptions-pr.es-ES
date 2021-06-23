@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Obtenga información sobre Microsoft Teams disponibilidad de características y servicios en Microsoft 365 y Office 365 planes.
-ms.openlocfilehash: 12aaf9320b3cb1fe62b784b8900f6cafcccb4025
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: b2028fb4e2d2e74a56230a570a709a6731a0628c
+ms.sourcegitcommit: 5a8a0e238c7918cf9ad1413c539ac1b5d70f1513
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906776"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077524"
 ---
 # <a name="microsoft-teams-service-description"></a>Descripción del servicio Microsoft Teams
 
@@ -29,16 +29,17 @@ En la tabla siguiente se enumeran las Microsoft Teams principales disponibles en
 
 | Característica | Empresa pequeña | Enterprise planes | GCC | GCC- High | DOD | Educación |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Chat  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Teams  <br/> |Sí <br/> |Sí <br/> |Sí <br/> |Sí<sup>1</sup>  <br/> |Sí<sup>1</sup>  <br/> |Sí  <br/> |
-|Canales: estándar  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Canales: privado  <br/> |Sí  <br/> |Sí<sup>2</sup>  <br/> |Sí <br/> |No  <br/> |No <br/> |Sí  <br/> |
-|Reuniones  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Pantalla compartida PowerPoint escritorio de audio y vídeo <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Voz  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>3</sup>  <br/> |Sí<sup>3</sup>  <br/> |Sí  <br/> |
-|Audioconferencia  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>3</sup>  <br/> |Sí<sup>3</sup>  <br/> |Sí  <br/> |
-|Aplicaciones, Bots, & Connectors  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>5</sup>  <br/> |Sí<sup>5</sup>  <br/> |Sí<sup>4,5</sup>  <br/> |Sí  <br/> |
-|Eventos en directo  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No<sup>6</sup>  <br/> |No<sup>6</sup>  <br/> |Sí  <br/> |
+|Chat |Sí |Sí |Sí |Sí |Sí |Sí |
+|Teams |Sí|Sí|Sí|Sí<sup>1</sup> |Sí<sup>1</sup> |Sí |
+|Canales: estándar |Sí |Sí |Sí |Sí |Sí |Sí |
+|Canales: privado |Sí |Sí<sup>2</sup> |Sí|No |No|Sí |
+|Reuniones |Sí |Sí |Sí |Sí |Sí |Sí |
+|Seminarios web |Sí |Sí |No |No |No |Sí |
+|Pantalla compartida PowerPoint escritorio de audio y vídeo|Sí |Sí |Sí |Sí |Sí |Sí |
+|Voz |Sí |Sí |Sí |Sí<sup>3</sup> |Sí<sup>3</sup> |Sí |
+|Audioconferencia |Sí |Sí |Sí |Sí<sup>3</sup> |Sí<sup>3</sup> |Sí |
+|Aplicaciones, Bots, & Connectors |Sí |Sí |Sí<sup>5</sup> |Sí<sup>5</sup> |Sí<sup>4,5</sup> |Sí |
+|Eventos en directo |No |Sí |Sí |No<sup>6</sup> |No<sup>6</sup> |Sí |
 
 <sup>1 Microsoft Teams</sup> en GCC-High y DOD admiten 2500 miembros en un equipo individual.<br/>
 <sup>2</sup> Microsoft Planner no está disponible actualmente para acceder en canales privados.<br/>
