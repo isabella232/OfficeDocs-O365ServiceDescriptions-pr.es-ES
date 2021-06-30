@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender para Office 365 es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger su organización contra malware y virus desconocidos al proporcionar una protección sólida de día cero e incluye características para proteger su organización de vínculos dañinos en tiempo real.
-ms.openlocfilehash: a4a83e8be24d0afd07f453a5e0fafd3c19aaa6ba
-ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
+ms.openlocfilehash: 5781f34419eb697cb97634c55fa486fd141d76dd
+ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53140822"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "53204847"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descripción del servicio de Microsoft Defender para Office 365
 
-Microsoft Defender para Office 365 es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger su organización contra malware y virus desconocidos al proporcionar una protección sólida de día cero e incluye características para proteger su organización de vínculos dañinos en tiempo real. Defender para Office 365 cuenta con funciones completas de informes y seguimiento de direcciones URL que proporcionan a los administradores información sobre el tipo de ataques que ocurren en su organización.
+Microsoft Defender para Office 365 es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger su organización contra amenazas avanzadas para el correo electrónico y las herramientas de colaboración, como phishing, compromiso de correo electrónico empresarial y ataques de malware. Defender for Office 365 también proporciona capacidades de investigación, búsqueda y corrección para ayudar a los equipos de seguridad a identificar, priorizar, investigar y responder de manera eficaz a las amenazas.
 
 Las siguientes son las formas principales de usar Defender para Office 365 protección de mensajes:
 
@@ -31,185 +31,56 @@ Las siguientes son las formas principales de usar Defender para Office 365 prote
 
 - En una implementación híbrida, Defender para Office 365 se puede configurar para proteger el entorno de mensajería y controlar el enrutamiento de correo cuando se tiene una combinación de buzones locales y en la nube con Exchange Online Protection para el filtrado de correo entrante.
 
-## <a name="microsoft-defender-for-office-365-availability"></a>Disponibilidad de Microsoft Defender Office 365 disponibilidad
-
-Microsoft Defender para Office 365 Plan 2 se incluye en Office 365 E5, Office 365 A5, Seguridad de Microsoft 365 E5 y Microsoft 365 E5 como se especifica aquí: [https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp](/microsoft-365/security/office-365-security/office-365-atp) . Defender for Office 365 Plan 1 se incluye en Microsoft 365 Empresa Premium.
-
-Puede agregar Defender for Office 365 a los siguientes planes Exchange y Microsoft 365 suscripción:
-
-- Plan 1 de Exchange Online
-
-- Plan 2 de Exchange Online
-
-- Quiosco de Exchange Online
-
-- Exchange Online Protection
-
-- Microsoft 365 Empresa Básico
-
-- Microsoft 365 Empresa Estándar
-
-- Office 365 Enterprise E1
-
-- Office 365 Enterprise E3
-
-- Office 365 Enterprise F3
-
-- Office 365 A1
-
-- Office 365 A3
-
-Para comprar Microsoft Defender para Office 365, consulte [Microsoft Defender for Office 365](https://products.office.com/exchange/advance-threat-protection#pmg-allup-content).
+## <a name="available-plans"></a>Planes disponibles
 
 Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios de Microsoft Defender Office 365, consulte la tabla de comparación [de suscripciones completa.](https://go.microsoft.com/fwlink/?linkid=2139145)
 
-## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Novedades de Microsoft Defender para Office 365
+## <a name="feature-availability"></a>Disponibilidad de características
 
-Seguimos agregando nuevas características a Defender para Office 365. Para obtener más información sobre las nuevas características que vienen a Defender Office 365 (o Microsoft 365 en general), vea los siguientes recursos:
+En la tabla siguiente se enumeran las principales características de Microsoft Defender Office 365 disponibles en todos los planes. Se aplican ciertas advertencias. Vea las notas al pie para obtener más información. Esta tabla puede cambiar sin previo aviso. Para obtener la lista más actualizada y completa de Las características de Microsoft Defender para Office 365 planes, vea [Microsoft Defender for Office 365 Features service description](microsoft-defender-for-office-365-features.md).
 
-- [Plan de desarrollo de Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=O365)
-
-- [Novedades de Microsoft Defender para Office 365: Office 365 | Microsoft Docs](/microsoft-365/security/office-365-security/whats-new-in-defender-for-office-365)
-
-## <a name="requirements-for-microsoft-defender-for-office-365"></a>Requisitos para Microsoft Defender para Office 365
-
-Defender para Office 365 puede usarse con cualquier agente de transferencia de correo SMTP, como Microsoft Exchange Server. Para obtener información sobre los sistemas operativos, exploradores web e idiomas compatibles con Defender para Office 365, vea las secciones "Exploradores compatibles" y "Idiomas admitidos" en el Centro de administración de Exchange en [Exchange Online Protection](/microsoft-365/security/office-365-security/exchange-admin-center-in-exchange-online-protection-eop).
-
-## <a name="which-users-or-mailboxes-need-to-be-licensed"></a>¿Qué usuarios o buzones deben tener licencia?
-
-Para los inquilinos del Plan 1 de Microsoft Defender para Office 365, las licencias deben adquirirse para usuarios o buzones de correo en uno o más de los siguientes escenarios:
-
-- Cualquier usuario que tiene acceso a un buzón que se beneficia de Defender para Office 365 protección.
-- Buzones compartidos que se benefician de Defender para Office 365 protección.
-- Si Caja fuerte protección de datos adjuntos para SharePoint, OneDrive para la Empresa o Teams está activada, todos los usuarios que tienen acceso a SharePoint, OneDrive para la Empresa o Teams.
-- Cualquier usuario que use Aplicaciones Microsoft 365 o Teams cuando Caja fuerte las protecciones de vínculos están habilitadas.
-
-Para los inquilinos del Plan 2 de Microsoft Defender para Office 365, las licencias deben adquirirse para usuarios o buzones que se descumenten en uno o más de los siguientes escenarios:
-
-- Todos Exchange Online usuarios del inquilino. Esto se debe a que las características y capacidades del plan 2 protegen a todos los usuarios del espacio empresarial.
-- Todos los buzones compartidos del inquilino.
-- Si Caja fuerte protección de datos adjuntos para SharePoint, OneDrive para la Empresa o Teams está activada, todos los usuarios que tienen acceso a SharePoint, OneDrive para la Empresa o Teams.
-- Cualquier usuario que use Aplicaciones Microsoft 365 o Teams cuando Caja fuerte las protecciones de vínculos están habilitadas.
+| Característica | Defender para Office 365 Plan 1 | Defender para Office 365 Plan 2 | Microsoft 365 E5 / Seguridad A5 |
+|---------|--------------------------------|--------------------------------|--------------------------------|
+| *Configuración, protección y detección* | | | |
+| Directivas de seguridad preestablecidas y analizador de configuración | Sí | Sí | Sí |
+| [Archivos adjuntos seguros](microsoft-defender-for-office-365-features.md#safe-attachments) | Sí | Sí | Sí |
+| Caja fuerte Datos adjuntos en Teams | Sí | Sí | Sí |
+| [Vínculos seguros](microsoft-defender-for-office-365-features.md#safe-links) | Sí | Sí | Sí |
+| [Documentos seguros](microsoft-defender-for-office-365-features.md#safe-documents) | No | No | Sí |
+| Vínculos seguros en Teams | Sí | Sí | Sí |
+| Informe de mensajes Add-In | Sí | Sí | Sí |
+| [Protección para SharePoint, OneDrive y Microsoft Teams](microsoft-defender-for-office-365-features.md#protection-for-sharepoint-onedrive-and-microsoft-teams) | Sí | Sí | Sí |
+| [Directivas contra phishing](microsoft-defender-for-office-365-features.md#anti-phishing-policies) | Sí | Sí | Sí |
+| [Informes en tiempo real](microsoft-defender-for-office-365-features.md#real-time-reports) | Sí | Sí | Sí |
+| Protección avanzada para correo interno | Sí | Sí | Sí |
+| *Automatización, investigación, corrección y educación* | | | |
+| [Rastreadores de amenazas](microsoft-defender-for-office-365-features.md#threat-trackers) | No | Sí | Sí |
+| Vistas de campañas | No | Sí | Sí |
+| Investigación de amenazas (investigación avanzada de amenazas) | [Detecciones en tiempo real](microsoft-defender-for-office-365-features.md#real-time-detections) | [Explorador](microsoft-defender-for-office-365-features.md#threat-explorer) | [Explorador](microsoft-defender-for-office-365-features.md#threat-explorer) |
+| [Respuesta automática de & investigación](microsoft-defender-for-office-365-features.md#automated-investigation--response) | No | Sí | Sí |
+| [Aprendizaje de simulación de ataque](microsoft-defender-for-office-365-features.md#attack-simulation-training) | No | Sí | Sí |
+| *Integración con [Microsoft 365 Defender](/microsoft-365/security/defender/microsoft-365-defender)* | No | Sí | Sí |
 
 > [!NOTE]
-> Office 365 E5, Seguridad de Microsoft 365 E5 y Microsoft 365 E5 incluyen Microsoft Defender para licencias de P2 Office y Microsoft 365 Empresa Premium Microsoft Defender para Office 365 licencias de P1.
+> Microsoft Defender para Office 365 es un componente de Microsoft 365 Defender. Para obtener más información sobre la seguridad entre dominios automatizada con Microsoft 365 Defender, vea [Microsoft 365 Defender requisitos](/microsoft-365/security/mtp/prerequisites).
 
-## <a name="feature-availability-across-defender-for-office-365-plans"></a>Disponibilidad de características en Defender para Office 365 planes
+## <a name="learn-more"></a>Más información
 
-A continuación, se incluye cada característica. Cuando se menciona Exchange Online, por lo general se refiere a la familia de servicios de Office 365 Enterprise.<br><br>
+Para obtener más información acerca de Microsoft Defender para Office 365, consulte los siguientes recursos:
 
-| Característica | Defender para Office 365 Plan 1 | Defender para Office 365 Plan 2 | Microsoft 365 E5 / Seguridad A5|
-|:-----|:-----|:-----|:-----|
-|*Configuración, protección y detección*|
-|[Archivos adjuntos seguros](#safe-attachments)|Sí|Sí|Sí|
-|Caja fuerte Datos adjuntos en Teams|Sí|Sí|Sí|
-|[Vínculos seguros](#safe-links)|Sí|Sí|Sí|
-|[Documentos seguros](#safe-documents)|No|No|Sí|
-|Vínculos seguros en Teams|Sí|Sí|Sí|
-|[ATP para SharePoint, OneDrive y Microsoft Teams](#atp-for-sharepoint-onedrive-and-microsoft-teams)|Sí|Sí|Sí|
-|[Directivas contra phishing](#anti-phishing-policies)|Sí|Sí|Sí|
-|[Informes en tiempo real](#real-time-reports)|Sí|Sí|Sí|
-|*Automatización, investigación, corrección y educación*|
-|[Rastreadores de amenazas](#threat-trackers)|No|Sí|Sí|
-|Investigación de amenazas (investigación avanzada de amenazas)|[Detecciones en tiempo real](#real-time-detections)|[Explorador](#explorer)|[Explorador](#explorer)|
-|[Respuesta automatizada a incidentes](#automated-incident-response)|No|Sí|Sí|
-|[Aprendizaje de simulación de ataque](#attack-simulation-training)|No|Sí|Sí|
-|*Integración con [Microsoft 365 Defender](/microsoft-365/security/mtp/microsoft-threat-protection)*|No|Sí|Sí|
+- [Microsoft Defender para Office 365 en Microsoft Docs](/microsoft-365/security/office-365-security/defender-for-office-365)
+- [Sitio web de Microsoft Defender Office 365 web](https://www.microsoft.com/security/business/threat-protection/office-365-defender)
+- [Blog de Microsoft Defender para Office 365 web](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bg-p/MicrosoftDefenderforOffice365Blog)
+- [Foro de Microsoft Defender Office 365 web](https://techcommunity.microsoft.com/t5/microsoft-defender-for-office/bd-p/MicrosoftDefenderforOffice365)
 
-> [!NOTE]
-> Si su inquilino solo tiene microsoft Office Defender para una licencia de prueba del Plan P2 o una licencia de prueba de Office 365 E5, sin ninguna otra licencia elegible para Microsoft 365 Defender, no podrá acceder Microsoft 365 Defender. Para obtener más información acerca de la licencia MTP, [vea Microsoft 365 Defender requisitos](/microsoft-365/security/mtp/prerequisites).
+### <a name="licensing-terms"></a>Términos de licencia
 
-## <a name="defender-for-office-365-capabilities"></a>Defender para Office 365 capacidades
+Para obtener términos y condiciones de licencia para productos y servicios comprados a través de los programas de licencias por volumen comerciales de Microsoft, consulte el [sitio términos del producto](https://www.microsoft.com/licensing/terms/).
 
-### <a name="safe-attachments"></a>Archivos adjuntos seguros
+### <a name="messaging"></a>Mensajería 
 
-[Caja fuerte datos adjuntos](/microsoft-365/security/office-365-security/atp-safe-attachments) protege contra malware y virus desconocidos y proporciona protección de día cero para proteger el sistema de mensajería. Todos los mensajes y datos adjuntos que no tienen una firma conocida de virus o malware se enruta a un entorno especial donde Defender para Office 365 usa una variedad de técnicas de aprendizaje automático y análisis para detectar intenciones malintencionadas. Si no se detecta ninguna actividad sospechosa, se libera el mensaje para su entrega al buzón de correo.
+Para mantenerse informado de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, visite el Centro de mensajes. Para obtener más información, vea [Centro de mensajes](/microsoft-365/admin/manage/message-center).
 
-> [!NOTE]
-> Caja fuerte El examen de datos adjuntos se lleva a cabo en la misma región donde residen Office 365 datos. Para más información sobre la geografía de centros de datos, consulte [¿Dónde se encuentran los datos?](https://products.office.com/where-is-your-data-located?geo=All)
+### <a name="accessibility"></a>Accesibilidad
 
-### <a name="safe-links"></a>Vínculos seguros
-
-La [característica Caja fuerte links protege](/microsoft-365/security/office-365-security/atp-safe-links) proactivamente a los usuarios de direcciones URL malintencionadas en un mensaje o en un Office documento. La protección se mantiene cada vez que seleccionan el vínculo, ya que los vínculos maliciosos se bloquean de forma dinámica mientras se puede acceder a los vínculos buenos.
-
-Los vínculos seguros están disponibles para las direcciones URL en las siguientes aplicaciones:
-
-- Aplicaciones Microsoft 365 para empresas en Windows o Mac
-
-- Office para la web (Microsoft Word en la Web, Microsoft Excel en la Web, Microsoft PowerPoint en la Web, y Microsoft OneNote en la Web)
-
-- Word, Excel y PowerPoint en Windows
-
-- Canales de Microsoft Teams y chats
-
-> [!NOTE]
-> Los usuarios deben tener licencia para Defender para Office 365 , deben incluirse en las directivas de vínculos de Caja fuerte y deben haber iniciado sesión en sus dispositivos para que la protección esté <sup>\*</sup> en su lugar.
->
-> <sup>\*</sup>Para defender en toda la organización Office 365 licencias (por ejemplo, ATP_ENTERPRISE_FACULTY), no es necesario asignar Defender para Office 365 licencias a usuarios individuales.
->
-> Para obtener más información acerca de Caja fuerte de vínculos, [vea Caja fuerte Links in Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/atp-safe-links).
-
-### <a name="safe-documents"></a>Documentos seguros
-
-La [característica Caja fuerte documents usa](/microsoft-365/security/office-365-security/safe-docs) Microsoft Defender para [Endpoint](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para examinar documentos y archivos que se abren en la [vista protegida](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653).
-
-¿Qué necesita saber antes de comenzar?
-
-- Caja fuerte Los documentos ya están disponibles para los usuarios con Office versión 2004 (12730.x) o superior. Esta característica está desactivada de forma predeterminada y deberá estar habilitada por el administrador de seguridad.
-
-- Esta característica solo está disponible para los usuarios con la licencia Microsoft 365 E5 o Seguridad de Microsoft 365 E5 (no se incluye en Defender para Office 365 planes).
-
-- Word, Excel y PowerPoint en Windows
-
-- Canales de Microsoft Teams y chats
-
-> [!NOTE]
-> Los usuarios deben tener licencia para Microsoft 365 E5 o Seguridad de Microsoft 365 E5 , deben incluirse en las directivas de documentos de Caja fuerte y deben haber iniciado sesión en sus dispositivos para que la protección esté <sup>\*</sup> en su lugar.
->
-> Para obtener más información sobre Caja fuerte documentos, [vea Caja fuerte Documents in Microsoft 365 E5](/microsoft-365/security/office-365-security/safe-docs).
-
-### <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP para SharePoint, OneDrive y Microsoft Teams
-
-[ATP para SharePoint, OneDrive y Microsoft Teams](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams) ayuda a detectar y bloquear archivos que se identifican como malintencionados en sitios de grupo y bibliotecas de documentos. Además, la protección Caja fuerte vínculos está disponible en Microsoft Teams canales y chats.
-
-### <a name="anti-phishing-policies"></a>Directivas de protección contra phishing
-
-[Anti-phishing](/microsoft-365/security/office-365-security/atp-anti-phishing) comprueba los mensajes entrantes en busca de indicadores de que un mensaje puede ser un intento de suplantación de identidad. Cuando Defender cubre a los usuarios para directivas de Office 365 (datos adjuntos de Caja fuerte, vínculos de Caja fuerte o anti phishing), los mensajes entrantes se evalúan mediante varios modelos de aprendizaje automático que analizan los mensajes y se toman las medidas adecuadas, en función de las directivas configuradas.
-
-### <a name="real-time-reports"></a>Informes en tiempo real
-
-Las funcionalidades de supervisión disponibles en el Centro de seguridad & Cumplimiento ( ) incluyen informes y conocimientos en tiempo real que permiten a los administradores de seguridad y cumplimiento centrarse en problemas de alta prioridad, como ataques de seguridad o mayor actividad [https://protection.office.com](https://protection.office.com) sospechosa. [](/microsoft-365/security/office-365-security/view-reports-for-atp) Además de destacar las áreas problemáticas, los informes inteligentes y los conocimientos incluyen recomendaciones y vínculos para ver y explorar datos y también realizar acciones rápidas.
-
-### <a name="explorer"></a>Explorador
-
-Explorer (también conocido como el explorador de amenazas) es un informe en tiempo real que permite a los usuarios autorizados identificar y analizar las amenazas recientes. De forma predeterminada, este informe muestra los datos de los últimos siete días; sin embargo, las vistas se pueden modificar para mostrar los datos de los últimos 30 días.
-
-El Explorador contiene vistas, como Malware (para correo electrónico y contenido), Envíos, Suplantación de identidad y Todo el correo electrónico. Para ver cómo se compara Explorer con las detecciones en tiempo real, [descargue este PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
-
-Para obtener más información acerca del Explorador (en Microsoft Defender para Office 365 Plan 2) y las detecciones en tiempo real (en Microsoft Defender para el Plan 1 de Office 365), consulte Explorador de amenazas y detecciones en tiempo [real.](/microsoft-365/security/office-365-security/threat-explorer)
-
-### <a name="real-time-detections"></a>Detecciones en tiempo real
-
-Las detecciones en tiempo real son un informe en tiempo real que permite a los usuarios autorizados identificar y analizar las amenazas recientes. De forma predeterminada, al igual que el Explorador, este informe muestra datos de los últimos siete días.
-
-Las detecciones en tiempo real contienen vistas, como malware (para correo electrónico y contenido), envíos y phishing. Para ver cómo se comparan las detecciones en tiempo real con el Explorador, [descargue este PDF](https://github.com/MicrosoftDocs/microsoft-365-docs/raw/public/microsoft-365/downloads/office-365-atp-plan-comparison-march-2020.pdf).
-
-Para obtener más información acerca del Explorador (en Microsoft Defender para Office 365 Plan 2) y las detecciones en tiempo real (en Microsoft Defender para el Plan 1 de Office 365), vea Explorador de amenazas (y detecciones en tiempo [real).](/microsoft-365/security/office-365-security/threat-explorer)
-
-### <a name="threat-trackers"></a>Rastreadores de amenazas
-
-[Los rastreadores de amenazas](/microsoft-365/security/office-365-security/threat-trackers) son widgets informativos y vistas que proporcionan a los usuarios autorizados inteligencia sobre problemas de ciberseguridad que pueden afectar a su organización.
-
-### <a name="automated-incident-response"></a>Respuesta automatizada a incidentes
-
-[Las capacidades](/microsoft-365/security/office-365-security/office-365-air) automatizadas de respuesta a incidentes (AIR) disponibles en Defender para Office 365 Plan 2 le permiten ejecutar procesos de investigación automatizados en respuesta a amenazas conocidas que existen actualmente. Al automatizar determinadas tareas de investigación, el equipo de operaciones de seguridad puede funcionar de forma más eficaz y eficaz. Las acciones de corrección, como eliminar mensajes de correo electrónico malintencionados, se toman tras la aprobación del equipo de operaciones de seguridad. Para obtener más información, vea [How AIR works in Office 365](/microsoft-365/security/office-365-security/automated-investigation-response-office).
-
-### <a name="attack-simulation-training"></a>Aprendizaje de simulación de ataque
-
-[El aprendizaje de simulación](/microsoft-365/security/office-365-security/attack-simulation-training-get-started) de ataques es una herramienta inteligente de administración de riesgos sociales que automatiza la creación y administración de simulaciones de phishing. Las simulaciones ayudan a los clientes a detectar, priorizar y corregir los riesgos de suplantación de identidad mediante el uso de señuelos de phishing en el mundo real y formación hiperespeda para cambiar el comportamiento de los empleados.
-
-- El entrenamiento de simulación de ataques ya está disponible en WW y GCC (estará en GCC a partir del 21 de junio).
-- Para obtener más información sobre cómo empezar, consulta Introducción al [aprendizaje de simulación de ataques.](/microsoft-365/security/office-365-security/attack-simulation-training-get-started)
-- Hay disponibles varias técnicas de ataque que aplican cargas de suplantación de identidad sin armas en el mundo real que replican el comportamiento de los atacantes del mundo real para hacer que las simulaciones de suplantación de identidad sean relevantes.
-- Este servicio está disponible para las organizaciones que tienen Microsoft 365 E5, Office 365 E5 o Microsoft Defender para Office 365 [licencias del Plan 2.](/microsoft-365/security/office-365-security/defender-for-office-365#microsoft-defender-for-office-365-plan-1-and-plan-2) Como prueba, se ofrece un subconjunto de capacidades a los clientes de E3.
-- Para obtener más información y probar una simulación, vea [Simulate a phishing attack](/microsoft-365/security/office-365-security/attack-simulation-training).
+Microsoft sigue comprometido con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, vea [el Centro](https://www.microsoft.com/trust-center) de confianza de Microsoft y el Centro Office [accesibilidad](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
