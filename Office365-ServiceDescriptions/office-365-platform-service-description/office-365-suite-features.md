@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Las características que se enumeran en este tema son una colección de herramientas basadas en web que le ayudan a colaborar y comunicarse de forma segura en muchos dispositivos y varios Office 365 web. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
-ms.openlocfilehash: 99c744f92cc7c100f6889c927fc340512d9b40d8
-ms.sourcegitcommit: c455501e86037b0f86e0afc9d6d6d04afdfd3442
+ms.openlocfilehash: e1218f35d26b44a88bfbe35dd80cf3003f28a529
+ms.sourcegitcommit: 5eaf3ca8db0aac7f5882f1e242018a94a359fe27
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "52074481"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53275609"
 ---
 # <a name="microsoft-365-suite-features"></a>Características del conjunto de aplicaciones de Microsoft 365
 
@@ -53,7 +53,7 @@ Use la API de Microsoft Graph para compilar de forma rápida aplicaciones que se
 
 Listas de Microsoft es una Microsoft 365 que te ayuda a realizar un seguimiento de la información y organizar el trabajo. Las listas son sencillas, inteligentes y flexibles, por lo que puedes estar al tanto de lo que más le importa a tu equipo. Realice un seguimiento de problemas, activos, rutinas, contactos, inventario y mucho más con vistas personalizables y reglas inteligentes para mantener a todos notificados y sincronizados. Con plantillas preparadas, puedes iniciar rápidamente listas en línea, en nuestra nueva aplicación móvil o dentro de Microsoft Teams. Como forma parte de la Microsoft 365, puede confiar en la seguridad y el cumplimiento listos para la empresa.
 
-Para más información, consulte:
+Para más información vea:
 
 * [Centro **de recursos de listas públicas de Microsoft**](https://aka.ms/MSLists)
 * [Centro **de adopción de listas públicas de Microsoft**](https://aka.ms/ListsAdoption)
@@ -78,7 +78,7 @@ Microsoft Sway es una aplicación digital profesional para contar historias dise
 
 Aplicaciones Microsoft 365 para empresas es el conjunto de aplicaciones de escritorio siempre actualizado que ya conoces (incluidos Word, PowerPoint, Excel, Outlook y Teams) disponibles como suscripción. Aplicaciones Microsoft 365 para empresas incluye funcionalidades inteligentes exclusivas como [**Ideas en Excel,**](https://go.microsoft.com/fwlink/p/?linkid=2109915)Investigador en [**Word,**](https://go.microsoft.com/fwlink/p/?linkid=2109916)colaboración en tiempo [**real,**](https://go.microsoft.com/fwlink/p/?linkid=2109917)Teams como centro de trabajo en equipo y características de seguridad avanzadas. Como una licencia basada en el usuario, puede implementar Office en hasta cinco equipos pc o Mac, cinco tabletas y cinco dispositivos móviles. Con 1 TB de OneDrive almacenamiento en la nube, puede acceder y colaborar en los archivos desde cualquier lugar.
 
-Para más información, consulte:
+Para más información vea:
 
 * [Página Información general](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise)
 * [Página de producto (para comprar)](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise-product)
@@ -90,10 +90,6 @@ Los grupos de Microsoft 365 conectan a los usuarios con los compañeros, la info
 ## <a name="microsoft-kaizala"></a>Microsoft Kaizala
 
 Microsoft Kaizala es una aplicación de administración de trabajo móvil sencilla y segura, que ofrece capacidades únicas a Microsoft 365, con su capacidad para conectar e interactuar con personas tanto dentro como fuera del directorio de una organización, incluidos los trabajadores con contrato, proveedores, socios, proveedores, clientes y ciudadanos, mediante tipos de grupo grandes [y flexibles.](https://techcommunity.microsoft.com/t5/Microsoft-Kaizala-Blog/Model-your-communication-needs-using-Kaizala/ba-p/299710) Kaizala el modelo de directorio abierto permite la identidad basada en números de teléfono para facilitar la incorporación y una experiencia de usuario sencilla para la mensajería y la administración del trabajo. La aplicación móvil Kaizala permite a los usuarios enviar mensajes instantáneos y datos adjuntos como imágenes, documentos, vídeos, archivos de audio y mucho más, así como usar tarjetas de acción para encuestas, sondeos, asignaciones de trabajos, anuncios, cursos y mucho más. [Kaizala](https://products.office.com/en/business/microsoft-kaizala) funciona en iPhone y Android. Para obtener más información, vaya al sitio [Kaizala web](https://products.office.com/en/business/microsoft-kaizala).
-
-## <a name="office-365-video"></a>Office 365 Video
-
-Office 365 El vídeo es un destino seguro y de toda la empresa en el que puedes cargar, compartir y descubrir vídeos en todos los dispositivos, con tecnología Microsoft Azure Media Services. Office 365 Video puede ayudar a mantener a los usuarios atentos e informados, a difundir ideas y hacer que las organizaciones actúen de forma conjunta. Para obtener más información, vea [Introducción a Office 365 Video](https://go.microsoft.com/fwlink/?linkid=2144056).
 
 ## <a name="onenote-class-notebook"></a>Bloc de notas de clase de OneNote
 

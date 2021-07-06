@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y el trabajo diario. Entregado a través de Office 365, Project Online proporciona potentes capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de cartera de proyectos, desde casi cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 1b8e8cf52636e9499281cf7944a84b420a2297a6
-ms.sourcegitcommit: 9d524917a76a7a8677c727142771eaeedd47a626
+ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
+ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "53140832"
+ms.lasthandoff: 07/03/2021
+ms.locfileid: "53290860"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -108,6 +108,10 @@ Las características enumeradas en esta sección interactúan solo con los datos
 |Microsoft Teams integración | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí | Sí | Sí |
 |**Administración de recursos y programas** ||||||
 |Project configuración del equipo | Administre un equipo de proyecto agregando y quitando miembros y estableciendo el calendario de trabajo. | No | Sí | Sí | Sí |
+|Crear solicitudes de recursos<sup>12</sup> |  | Vista solo | Vista solo | Sí | Sí |
+|Aceptar una propuesta de reserva<sup>12</sup> |  | Vista solo | Vista solo | Sí | Sí |
+|Crear y actualizar reservas para satisfacer las solicitudes de recursos<sup>12</sup> |  | Vista solo | Vista solo | Vista solo | Sí |
+|Administrar habilidades/aptitudes en sus recursos |  | Vista solo | Vista solo | Sí | Sí |
 |Guías básicas | Cree mapas de ruta visuales e interactivos en proyectos Microsoft Project Online, Microsoft Project para la web y Azure Boards proyectos. <sup>2</sup> Con Project Plan 1 obtiene acceso de solo lectura a las hojas de ruta. Con Project Plan 3 o Project Plan 5, también puede crear hojas de ruta. | Solo ver | Solo ver | Sí | Sí |
 |**Informes**<sup>3</sup> ||||||
 |Leer informes de *Project para los datos web* | Vea informes personalizados o personalizados o personalizados y paneles para comprender los datos de proyectos, programas, cartera y recursos. | Sí | Sí | Sí | Sí |
@@ -157,7 +161,7 @@ Las características enumeradas en esta sección interactúan solo con los datos
 |Aprobaciones del parte de horas | Los miembros del equipo pueden enviar partes de horas para su aprobación. Los administradores y supervisores de recursos pueden revisar, aprobar y rechazar partes de horas enviadas. | Sí | Sí |
 |Configuración de tiempo no laborable | Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no laborables a la programación de su proyecto. | No | Sí |
 |**Colaboración** ||||
-|Datos adjuntos | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administrar estos datos adjuntos en una biblioteca central en el nivel de equipo o proyecto. | Sí | Sí |
+|Attachments | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administrar estos datos adjuntos en una biblioteca central en el nivel de equipo o proyecto. | Sí | Sí |
 |Miembros del equipo externo |Colabore con personas de fuera de su organización al concederles acceso para ver e interactuar con sus proyectos, tareas y documentos. <sup>6</sup> | Sí | Sí |
 |Sitios del proyecto | Crear y personalizar un centro de colaboración y documentos para un proyecto. | Sí | Sí |
 |Microsoft Teams integración | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí |
@@ -195,12 +199,12 @@ Las características enumeradas en esta sección interactúan solo con los datos
 
 #### <a name="notes"></a>Notas
 
-<sup>1</sup> Requiere una suscripción Office o Microsoft 365 comercial.</br>
-<sup>2</sup> Azure Boards adquiridos por separado.</br>
-<sup>3</sup> La presentación de informes Project para la web y Project Online uso Power BI requiere una Power BI licencia.</br>
-<sup>4</sup> La creación y el uso de Power Apps independientes más allá de la aplicación de Project lista para usar que tienen acceso Project para los datos de cliente web o Project Online requiere una suscripción Power Apps independiente.</br>
-<sup>5</sup> Limitado a 5 tablas personalizadas.</br>
-<sup>6</sup> Project Online licencias para usuarios externos sigue la misma directiva que la de los usuarios internos. Cualquier interacción en un sitio Project Online requiere una Project Plan 3 o Project Plan 5 suscripción.</br>
+<sup>1</sup> Requiere una suscripción Office o Microsoft 365 comercial.<br/>
+<sup>2</sup> Azure Boards adquiridos por separado.<br/>
+<sup>3</sup> La presentación de informes Project para la web y Project Online uso Power BI requiere una Power BI licencia.<br/>
+<sup>4</sup> La creación y el uso de Power Apps independientes más allá de la aplicación de Project lista para usar que tienen acceso Project para los datos de cliente web o Project Online requiere una suscripción Power Apps independiente.<br/>
+<sup>5</sup> Limitado a 5 tablas personalizadas.<br/>
+<sup>6</sup> Project Online licencias para usuarios externos sigue la misma directiva que la de los usuarios internos. Cualquier interacción en un sitio Project Online requiere una Project Plan 3 o Project Plan 5 suscripción.<br/>
 <sup>7</sup> Power Automate uso dentro de Project se limita al contexto de la Project aplicación. Esto significa que, tanto para desencadenadores como para acciones, los derechos de flujo incluidos con Project pueden:
 
 - Conectar a cualquier origen de datos dentro de los derechos de uso de la Project aplicación:
@@ -208,11 +212,12 @@ Las características enumeradas en esta sección interactúan solo con los datos
   - Project datos a través del conector de Microsoft Dataverse
 - Se desencadena directamente desde la aplicación Project (mediante desencadenador o acción integrados)
 
-Si el flujo está aislado y no tiene nada que ver con la aplicación Project, deberá comprarse una licencia de plataforma.</br>
-<sup>8</sup> Los usuarios con una Project Plan 3 o Project Plan 5 pueden enviar solicitudes de participación de recursos. No pueden revisar, cumplir ni aprobar solicitudes de participación de recursos.</br>
-<sup>9</sup> Los usuarios con una suscripción Project Plan 5 pueden revisar, cumplir y aprobar solicitudes de participación de recursos.</br>
-<sup>10</sup> Active Directory requiere una suscripción independiente. </br>
-<sup>11</sup> Solo se conceden derechos de vista desde una Power App. </br>
+Si el flujo está aislado y no tiene nada que ver con la aplicación Project, deberá comprarse una licencia de plataforma.<br/>
+<sup>8</sup> Los usuarios con una Project Plan 3 o Project Plan 5 pueden enviar solicitudes de participación de recursos. No pueden revisar, cumplir ni aprobar solicitudes de participación de recursos.<br/>
+<sup>9</sup> Los usuarios con una suscripción Project Plan 5 pueden revisar, cumplir y aprobar solicitudes de participación de recursos.<br/>
+<sup>10</sup> Active Directory requiere una suscripción independiente. <br/>
+<sup>11</sup> Solo se conceden derechos de vista desde una Power App. <br/>
+<sup>12</sup> Los clientes con una licencia de plan 3/5 de Microsoft Project solo pueden usar la programación universal de recursos para programar Project y tablas de tareas en el contexto de un proyecto. <br/>
 
 ### <a name="project-online-desktop-client-features"></a>Project Online cliente de escritorio
 
@@ -253,7 +258,7 @@ Si el flujo está aislado y no tiene nada que ver con la aplicación Project, de
 |Ordenación y agrupación | Use la ordenación y agrupación personalizadas para obtener una vista centrada del proyecto, las tareas y los recursos.|
 |**Personalización e integración**||
 |Campos personalizados | Agregue campos personalizados en el nivel de proyecto, tarea y recurso para realizar un seguimiento de los datos importantes para su organización y proyectos. |
-|Forms | Cree e implemente formularios personalizados para capturar datos importantes del proyecto. |
+|Formularios | Cree e implemente formularios personalizados para capturar datos importantes del proyecto. |
 |Fórmulas | Calcular y capturar datos importantes mediante fórmulas entre tareas y proyectos. |
 |Plantillas | Cree plantillas para proyectos comunes, incluidos los planes de proyecto, los equipos y las asignaciones. |
 |Importación y exportación de .mpp | Cree nuevos proyectos a partir de archivos .mpp existentes o cree un archivo .mpp de un proyecto existente. |
