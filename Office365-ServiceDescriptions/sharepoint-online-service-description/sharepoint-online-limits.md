@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre SharePoint límites de Microsoft 365 y planes independientes.
-ms.openlocfilehash: e48ce75a9656ca173ef74ddb32df619509629e27
-ms.sourcegitcommit: c3cdb8074129fd7dff942a10a4fe8604fca563b6
+ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
+ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51767480"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "53338343"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -50,7 +50,11 @@ Para listas grandes, el diseño debe tener el menor número de permisos únicos 
 
 ### <a name="file-size-and-file-path-length"></a>Tamaño de archivo y longitud de ruta de acceso de archivo
 
-250 GB. Para obtener más información sobre las restricciones y los límites al usar la nueva aplicación de sincronización OneDrive (OneDrive.exe), consulta Nombres de archivo y tipos de archivo no [válidos](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+- **250 GB: límite de carga de archivos.** Se aplica a cada archivo individual cargado en Microsoft Teams pestaña Archivos, bibliotecas SharePoint documentos, OneDrive carpetas y Yammer conversaciones.
+
+- **250 MB: archivo adjunto a un elemento de lista.** Se aplica a listas de Microsoft y SharePoint listas, ambas basadas en la misma plataforma de listas.
+
+Para obtener más información sobre las restricciones y los límites al usar la nueva aplicación Sincronización de OneDrive (OneDrive.exe), consulta Nombres de archivo y tipos de archivo no [válidos](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
 
 ### <a name="moving-and-copying-across-sites"></a>Mover y copiar entre sitios
 
@@ -101,6 +105,6 @@ Un usuario puede pertenecer a 5.000 grupos por sitio (colección de sitios) y ca
 > [!NOTE]
 > No hay ningún límite distinto en el número de invitados que puede invitar a SharePoint sitios. Para obtener más información sobre el uso compartido externo, vea [External sharing overview](/sharepoint/external-sharing-overview).
 
-## <a name="see-also"></a>Consulte también
+## <a name="see-also"></a>Recursos adicionales
 
 [Límites de búsqueda para SharePoint](/sharepoint/search-limits)
