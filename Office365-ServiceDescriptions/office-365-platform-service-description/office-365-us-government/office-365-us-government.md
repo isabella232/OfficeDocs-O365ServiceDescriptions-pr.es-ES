@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de Estados Unidos, Microsoft ha creado planes de Office 365 Administración Pública para Estados Unidos (o Office 365 Administración Pública). En este artículo se proporciona información general sobre las características específicas de Office 365 Administración Pública entornos de Estados Unidos.
-ms.openlocfilehash: 1a69b6a2366a8855970775b6ca3af7b8f507a6d8
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+ms.openlocfilehash: d958835f906fa256ff5bfce3435f8c6d36458407
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699086"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537236"
 ---
 # <a name="office-365-government"></a>Office 365 Administración Pública
 
@@ -79,7 +79,7 @@ Office 365 Administración Pública servicios se proporcionan desde centros de d
 > [!NOTE]
 > Con el uso normal, Skype Empresarial no almacena contenido de cliente, pero si se produce dicho almacenamiento, estará en centros de datos ubicados en los Estados Unidos.
 
-Si los usuarios se encuentran dentro de LOS ESTADOS UNIDOS mientras usan Office para la web (anteriormente conocidas como Office Web Apps) o si adopta el uso de Servicios de federación de Active Directory (AD FS) 2.0 y configura directivas para ayudar a garantizar que los usuarios se conecten a los servicios a través del inicio de sesión único, cualquier contenido de cliente que se almacene temporalmente en caché en Office para la web se ubicará en LOS ESTADOS UNIDOS.
+Si los usuarios se encuentran dentro de LOS ESTADOS UNIDOS mientras usan Office para la Web (anteriormente conocidos como aplicaciones web de Office) o si adopta el uso de Servicios de federación de Active Directory (AD FS) 2.0 y configura directivas para ayudar a garantizar que los usuarios se conecten a los servicios a través del inicio de sesión único, cualquier contenido de cliente que se almacene temporalmente en caché en Office para la Web se ubicará en LOS ESTADOS UNIDOS.
 
 La página Uso del sitio para SharePoint sitios está disponible para planes gubernamentales, aunque por cumplimiento, hay algunas características de esta página que solo están disponibles para clientes comerciales. Para obtener más información, vea Página de uso del sitio [para SharePoint sitios en Microsoft 365](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e).
 
@@ -169,7 +169,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Característica|Office 365 Administración Pública G1|Office 365 Administración Pública G3|Office 365 Administración Pública G5|Office 365 Administración Pública F3|
 |---|---|---|---|---|
 |**Administración de Office 365**|||||
-|Use el Centro Microsoft 365 administración para administrar Office 365|Sí<sup>16</sup>|Sí<sup>16</sup>|Sí|Sí<sup>16</sup>|
+|Use el Centro de administración de Microsoft 365 para administrar Office 365|Sí<sup>16</sup>|Sí<sup>16</sup>|Sí|Sí<sup>16</sup>|
 |Administrar la configuración principal del servicio desde Office 365|Sí|Sí|Sí|Sí|
 |Uso de Windows PowerShell para administrar Office 365|Sí|Sí|Sí|Sí|
 |Proteger el contenido con Azure Information Protection|No<sup>1</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|No<sup>1</sup>|
@@ -213,7 +213,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Verificación de propiedad de dominio necesaria para dominios personalizados|Sí|Sí|Sí|Sí|
 |**[Continuidad y estado del servicio](../../office-365-platform-service-description/service-health-and-continuity.md)**|**Office 365 Administración Pública G1**|**Office 365 Administración Pública G3**|**Office 365 Administración Pública G5**|**Office 365 Administración Pública F3**|
 |Información de estado disponible en la página **Mantenimiento del servicio** o **Estado del servicio**|Sí<sup>9, 15</sup>|Sí<sup>9, 15</sup>|Sí<sup>9, 15</sup>|Sí<sup>9, 15</sup>|
-|Estado de las alertas individuales disponibles en el panel Microsoft 365 centro de administración|Sí<sup>9, 15</sup>|Sí<sup>9, 15</sup>|Sí<sup>9, 15</sup>|Sí<sup>9, 15</sup>|
+|Estado de las alertas individuales disponibles en el Centro de administración de Microsoft 365 panel|Sí<sup>9, 15</sup>|Sí<sup>9, 15</sup>|Sí<sup>9, 15</sup>|Sí<sup>9, 15</sup>|
 |Fuente RSS de **Mantenimiento del servicio**|Sí|Sí|Sí|Sí|
 |**[Informes](../../office-365-platform-service-description/reports.md)**|**Office 365 Administración Pública G1**|**Office 365 Administración Pública G3**|**Office 365 Administración Pública G5**|**Office 365 Administración Pública F3**|
 |Buzones activos e inactivos|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
@@ -256,7 +256,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |**[Privacidad, seguridad y transparencia](../../office-365-platform-service-description/privacy-security-and-transparency.md)**|||||
 |Gobierno de datos avanzado|No<sup>12</sup>|No<sup>12</sup>|Sí|No<sup>12</sup>|
 |Cloud App Security|No<sup>12, 19</sup>|No<sup>12, 19</sup>|Sí<sup>19</sup>|No<sup>12, 19</sup>|
-|Microsoft Defender para Office 365|No<sup>12, 18</sup>|No<sup>12, 18</sup>|Sí<sup>18</sup>|No<sup>12, 18</sup>|
+|Microsoft Defender para Office 365|No<sup>12, 18</sup>|No<sup>12, 18</sup>|Sí<sup>18</sup>|No<sup>12, 18</sup>|
 |Caja de seguridad del cliente|No<sup>12</sup>|No<sup>12</sup>|Sí|No<sup>12</sup>|
 |eDiscovery avanzado|No<sup>12</sup>|No<sup>12</sup>|Sí|No<sup>12</sup>|
 |Puntuación<sup>segura 14</sup>|Sí<sup>9, 15</sup>|Sí<sup>9</sup>|Sí<sup>9, 15</sup>|Sí<sup>9, 15</sup>|
@@ -288,7 +288,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 <br/><sup>5</sup> Para obtener información sobre cómo establecer directivas de administración de contraseñas de autoservicio para los usuarios, vea [Administrar contraseñas en Azure AD](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password).
 <br/><sup>6</sup> Solo puede tener un sitio web público con Office 365, a menos que haya actualizado desde una versión anterior de Office 365. En ese caso, tiene dos sitios web públicos, pero solo se puede hospedar uno de ellos con un nombre de dominio personalizado. Para obtener más información acerca de cómo trabajar con los dos sitios web para suscripciones empresariales, vea Trabajar con sus [dos Office 365 sitios web públicos.](https://go.microsoft.com/fwlink/p/?LinkID=271589) Si tiene una suscripción diferente, obtenga más información sobre los sitios web públicos en [Learn about partner website hosting and public websites in Office 365](https://go.microsoft.com/fwlink/p/?LinkID=325009).
 <br/><sup>7</sup> La reducción de puestos que se compraron con un descuento por término puede estar sujeta a una tarifa de terminación anticipada. Esto no se aplica a las suscripciones pagadas con carácter mensual.
-<br/><sup>8</sup> Los siguientes planes no admiten cambios en los puestos de licencia del centro de administración de Microsoft 365: Office 365 Administración Pública G1, Office 365 Administración Pública G3, Office 365 Administración Pública F3.
+<br/><sup>8</sup> Los siguientes planes no admiten cambios en los puestos de licencia Centro de administración de Microsoft 365: Office 365 Administración Pública G1, Office 365 Administración Pública G3, Office 365 Administración Pública F3.
 <br/><sup>9</sup> Todavía no está disponible en GCC High, pero próximamente.
 <br/><sup>10</sup> Para Office 365 Administración Pública G1, G3 y F3, se aplican la versión dirigida y la guía básica Office 365 para empresas; sin embargo, puede haber algunas diferencias o retrasos para actualizaciones de servicio específicas debido a los [requisitos de cumplimiento](https://www.microsoft.com/trust-center).
 <br/><sup>11</sup> Todavía no está disponible en Office 365 Administración Pública ofertas, pero próximamente.
@@ -371,87 +371,87 @@ En la siguiente tabla se muestran las características de aplicaciones de Office
 
 Las siguientes Office aplicaciones están disponibles en las nubes gubernamentales; sin embargo, es posible que algunas funcionalidades basadas en la nube no estén disponibles actualmente, como se indica en la tabla.<br><br>
 
-|Aplicación/característica|GCC|GCC High|DOD|
-|---|---|---|---|
-|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel) está totalmente disponible en las nubes gubernamentales, excepto las siguientes características, que **no están** disponibles en este momento:||||
-|Animaciones incrustadas 3D y modelos 3D|No|No|No|
-|Tipos de datos|No|No|No|
-|Relleno flash|No|No|No|
-|Ideas (Insight Services)|No|No|No|
-|Integración mejorada con Power BI (elementos visuales personalizados, crear gráficos de PBI directamente desde Excel)|No|No|No|
-|Tinta digital inteligente|No|No|No|
-|Grupos de Office 365|No|No|No|
-|Datos de gráficos dinámicos conectados a tablas dinámicas|No|No|No|
-|PowerPivot|No|No|No|
-|Publicación en Power BI|No|No|No|
-|Colaboración en tiempo real (presencia, coautoría regular, chat en el documento)|No|No|No|
-|Shared with Me|No|No|No|
-|Búsqueda inteligente|No|No|No|
-|Gráficos: mapa de árbol de estallido solar, cascada, histograma, mapas, escala de tiempo, embudo|No|No|No|
-|Historial de versiones|No|No|No|
-|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) está totalmente disponible en las nubes gubernamentales, excepto las siguientes características, que **no están** disponibles en este momento:|**GCC**|**GCC High**|**DOD**|
-|Notificación por correo electrónico|No<sup>1</sup>|No<sup>1</sup>|No|
-|Insertar una imagen|No<sup>1</sup>|No<sup>1</sup>|No|
-|Insertar un vídeo|No<sup>1</sup>|No<sup>1</sup>|No|
-|Matemáticas|No<sup>1</sup>|No<sup>1</sup>|No|
-|Office integración|No<sup>1</sup>|No<sup>1</sup>|No|
-|Formularios de grupo más recientes|No<sup>4</sup>|Sí|Sí|
-|Uso compartido<sup>externo 3</sup>|Sí|No|No|
-|Formularios Pro|No|No|No|
-|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) está totalmente disponible en las nubes gubernamentales, excepto las siguientes características, que **no están** disponibles en este momento:|**GCC**|**GCC High**|**DOD**|
-|Investigador|No|No|No|
-|Tinta digital inteligente|No|No|No|
-|Enviar correo electrónico a OneNote (me@onenote.com)|No|No|No|
-|Web Clipper|No|No|No|
-|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) está totalmente disponible en las nubes gubernamentales, excepto en las siguientes características, que no están disponibles en todas las nubes gubernamentales, como se indica en la tabla siguiente.|**GCC**|**GCC High**|**DOD**|
-|Office sonidos (algunos)|No|No|No|
-|Datos dinámicos Exchange (DDE) deshabilitados de forma predeterminada|No|No|No|
-|Dictado|Sí|Sí|No<sup>1</sup>|
-|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) está totalmente disponible en las nubes gubernamentales excepto en las siguientes características, que no están disponibles en todas las nubes gubernamentales, como se indica en la tabla siguiente.|**GCC**|**GCC High**|**DOD**|
-|Búsqueda inteligente|No|No|No|
-|Office sonidos (algunos)|No|No|No|
-|Modelos 3D y animaciones incrustadas en 3D|No|No|No|
-|Gráficos: mapas|No|No|No|
-|Tinta digital inteligente|No|No|No|
-|Títulos y subtítulos en directo en PowerPoint|Sí|Sí|No|
-|Presentaciones en directo|No|No|No|
-|Lector inmersivo|No|No|No|
-|Moderador Coach|No|No|No|
-|Shared with Me|No|No|No|
-|Skype Empresarial integración con el uso compartido|No|No|No|
-|Historial de versiones|No|No|No|
-|Grupos de Office 365|No|No|No|
-|Colaboración en tiempo real (presencia, coautoría regular, chat en el documento)|No|No|No|
-|Dictado|Sí|Sí|No<sup>1</sup>|
-|Reutilizar diapositivas|No|No|No|
-|**Microsoft Whiteboard** en las nubes gubernamentales actualmente solo está disponible en clientes de concentradores y no en el escritorio.|**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
-|Insertar notas pegajosas, texto e imágenes|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|
-|Tinta para dar forma y tinta a la tabla|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|
-|Embellecimiento de tinta|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|
-|Convertir imagen a lápiz|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|
-|Comprobador de accesibilidad|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|
-|Plantillas dinámicas (KANBAN, SWOT, entre otras)|No|No|No|
-|Colaboración en tiempo real|No|No|No|
-|Presencia en tiempo real|No|No|No|
-|Reacciones en el contenido|No|No|No|
-|Galería de pizarras de pizarras, incluidas las compartidas con usted|No|No|No|
-|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) está totalmente disponible en las nubes gubernamentales excepto en las siguientes características, que no están disponibles en todas las nubes gubernamentales, como se indica en la tabla siguiente.|**GCC**|**GCC High**|**DOD**|
-|Búsqueda inteligente|No|No|No|
-|Investigador|No|No|No|
-|Office sonidos|No|No|No|
-|Modelos 3D|No|No|No|
-|Animaciones incrustadas en 3D|No|No|No|
-|Pulsar|No|No|No|
-|Asistente para currículum vítae|No|No|No|
-|Gráficos de mapa|No|No|No|
-|Tinta digital inteligente|No|No|No|
-|Shared with Me|No|No|No|
-|Traducción|Sí<sup>5</sup>|Sí<sup>5</sup>|Sí<sup>5</sup>|
-|Skype Empresarial integración con el uso compartido|No|No|No|
-|Historial de versiones|No|No|No|
-|Grupos de Office 365|No|No|No|
-|Chat contextual con coautores: chatear con coautores dentro del documento|No|No|No|
-|Dictado|Sí|Sí|No<sup>1</sup>|
+|Aplicación/característica|Característica de accesibilidad|GCC|GCC High|DOD|
+|---|---|---|---|---|
+|[**Microsoft Excel**](../../office-applications-service-description/office-applications.md#microsoft-excel) está totalmente disponible en las nubes gubernamentales, excepto las siguientes características, que **no están** disponibles en este momento:|||||
+|Animaciones incrustadas 3D y modelos 3D|Sí|No|No|No|
+|Tipos de datos||No|No|No|
+|Relleno flash||No|No|No|
+|Ideas (Insight Services)|Sí|No|No|No|
+|Integración mejorada con Power BI (elementos visuales personalizados, crear gráficos de PBI directamente desde Excel)||No|No|No|
+|Tinta digital inteligente|Sí|No|No|No|
+|Grupos de Office 365||No|No|No|
+|Datos de gráficos dinámicos conectados a tablas dinámicas||No|No|No|
+|PowerPivot||No|No|No|
+|Publicación en Power BI||No|No|No|
+|Colaboración en tiempo real (presencia, coautoría regular, chat en el documento)|Algunos|No|No|No|
+|Shared with Me||No|No|No|
+|Búsqueda inteligente|Sí|No|No|No|
+|Gráficos: mapa de árbol de estallido solar, cascada, histograma, mapas, escala de tiempo, embudo||No|No|No|
+|Historial de versiones|Sí|No|No|No|
+|[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) está totalmente disponible en las nubes gubernamentales, excepto las siguientes características, que **no están** disponibles en este momento:||**GCC**|**GCC High**|**DOD**|
+|Notificación por correo electrónico||No<sup>1</sup>|No<sup>1</sup>|No|
+|Insertar una imagen||No<sup>1</sup>|No<sup>1</sup>|No|
+|Insertar un vídeo||No<sup>1</sup>|No<sup>1</sup>|No|
+|Matemáticas||No<sup>1</sup>|No<sup>1</sup>|No|
+|Office integración||No<sup>1</sup>|No<sup>1</sup>|No|
+|Formularios de grupo más recientes||No<sup>4</sup>|Sí|Sí|
+|Uso compartido<sup>externo 3</sup>||Sí|No|No|
+|Formularios Pro||No|No|No|
+|[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) está totalmente disponible en las nubes gubernamentales, excepto las siguientes características, que **no están** disponibles en este momento:||**GCC**|**GCC High**|**DOD**|
+|Investigador|Sí|No|No|No|
+|Tinta digital inteligente|Sí|No|No|No|
+|Enviar correo electrónico a OneNote (me@onenote.com)|Sí|No|No|No|
+|Web Clipper||No|No|No|
+|[**Microsoft Outlook**](../../office-applications-service-description/office-applications.md#microsoft-outlook) está totalmente disponible en las nubes gubernamentales, excepto en las siguientes características, que no están disponibles en todas las nubes gubernamentales, como se indica en la tabla siguiente.||**GCC**|**GCC High**|**DOD**|
+|Office sonidos (algunos)|Sí|No|No|No|
+|Datos dinámicos Exchange (DDE) deshabilitados de forma predeterminada||No|No|No|
+|Dictado|Sí|Sí|Sí|No<sup>1</sup>|
+|[**Microsoft PowerPoint**](../../office-applications-service-description/office-applications.md#microsoft-powerpoint) está totalmente disponible en las nubes gubernamentales excepto en las siguientes características, que no están disponibles en todas las nubes gubernamentales, como se indica en la tabla siguiente.||**GCC**|**GCC High**|**DOD**|
+|Búsqueda inteligente|Sí|No|No|No|
+|Office sonidos (algunos)||No|No|No|
+|Modelos 3D y animaciones incrustadas en 3D||No|No|No|
+|Gráficos: mapas||No|No|No|
+|Tinta digital inteligente|Sí|No|No|No|
+|Títulos y subtítulos en directo en PowerPoint|Sí|Sí|Sí|No|
+|Presentaciones en directo||No|No|No|
+|Lector inmersivo|Sí|No|No|No|
+|Moderador Coach|Sí|No|No|No|
+|Shared with Me||No|No|No|
+|Skype Empresarial integración con el uso compartido||No|No|No|
+|Historial de versiones|Sí|No|No|No|
+|Grupos de Office 365||No|No|No|
+|Colaboración en tiempo real (presencia, coautoría regular, chat en el documento)|Algunos|No|No|No|
+|Dictado|Sí|Sí|Sí|No<sup>1</sup>|
+|Reutilizar diapositivas||No|No|No|
+|**Microsoft Whiteboard** en las nubes gubernamentales actualmente solo está disponible en clientes de concentradores y no en el escritorio.||**GCC**<sup>2</sup>|**GCC High**<sup>2</sup>|**DOD**<sup>2</sup>|
+|Insertar notas pegajosas, texto e imágenes||Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|
+|Tinta para dar forma y tinta a la tabla|Sí|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|
+|Embellecimiento de tinta|Sí|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|
+|Convertir imagen a lápiz|Sí|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|
+|Comprobador de accesibilidad|Sí|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|Sí<sup>2</sup> <br/>|
+|Plantillas dinámicas (KANBAN, SWOT, entre otras)|Sí|No|No|No|
+|Colaboración en tiempo real|Sí|No|No|No|
+|Presencia en tiempo real|Sí|No|No|No|
+|Reacciones en el contenido|Sí|No|No|No|
+|Galería de pizarras de pizarras, incluidas las compartidas con usted||No|No|No|
+|[**Microsoft Word**](../../office-applications-service-description/office-applications.md#microsoft-word) está totalmente disponible en las nubes gubernamentales excepto en las siguientes características, que no están disponibles en todas las nubes gubernamentales, como se indica en la tabla siguiente.||**GCC**|**GCC High**|**DOD**|
+|Búsqueda inteligente|Sí|No|No|No|
+|Investigador|Sí|No|No|No|
+|Office sonidos||No|No|No|
+|Modelos 3D||No|No|No|
+|Animaciones incrustadas en 3D||No|No|No|
+|Pulsar||No|No|No|
+|Asistente para currículum vítae|Sí|No|No|No|
+|Gráficos de mapa||No|No|No|
+|Tinta digital inteligente|Sí|No|No|No|
+|Shared with Me||No|No|No|
+|Traducción||Sí<sup>5</sup>|Sí<sup>5</sup>|Sí<sup>5</sup>|
+|Skype Empresarial integración con el uso compartido||No|No|No|
+|Historial de versiones|Sí|No|No|No|
+|Grupos de Office 365||No|No|No|
+|Chat contextual con coautores: chatear con coautores dentro del documento||No|No|No|
+|Dictado|Sí|Sí|Sí|No<sup>1</sup>|
 
 Para obtener disponibilidad de características Microsoft Teams dentro de GCC/GCC High/DoD, visite la descripción Microsoft Teams [servicio](../../teams-service-description.md).
 > <sup>1 Disponibilidad</sup> próximamente.

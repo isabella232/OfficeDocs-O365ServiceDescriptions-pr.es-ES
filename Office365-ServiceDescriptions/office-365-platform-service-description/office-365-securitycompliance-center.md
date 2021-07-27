@@ -10,25 +10,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El Centro de cumplimiento de seguridad está diseñado para ayudarle a administrar las características de cumplimiento &amp; en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-ms.openlocfilehash: 8fc8c0a6d127dd1565a954a5368b56fc37bcc47d
-ms.sourcegitcommit: 25b208f02689d4ef4b37d36a49135c1b4b5a8204
+ms.openlocfilehash: f0bb01722e2540e3a895c9c220f97c3e8b703fd1
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/07/2021
-ms.locfileid: "52798466"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537216"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
-El [Centro de cumplimiento de &amp; seguridad](https://protection.office.com/) está diseñado para ayudarle a administrar las características de cumplimiento en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-  
-> [!NOTE]
-> Currently, many of the compliance features are still accessible through service-specific management interfaces, such as the Exchange admin center (EAC). However, this will change in the future as more service-independent compliance features are added to the Security &amp; Compliance Center.
+Diseñados con accesibilidad y facilidad de uso en mente, el centro de seguridad de [Microsoft 365,](https://sip.security.microsoft.com/homepage) [Centro de cumplimiento de Microsoft 365](https://sip.compliance.microsoft.com/homepage)y el centro de administración de Exchange incluyen características existentes y experiencias nuevas y mejoradas para la seguridad unificada, el cumplimiento y la administración del flujo de correo [en](https://outlook.office365.com/owa/languageselection.aspx?url=%2fecp%2fdefault.aspx) Microsoft 365 servicios. Estos nuevos centros reemplazarán gradualmente el Centro de seguridad y cumplimiento Office 365 &amp; (protection.office.com). Puede activar el redireccionamiento [](https://sip.security.microsoft.com/homepage) automático ahora en el centro de seguridad o el centro de [cumplimiento,](https://sip.compliance.microsoft.com/homepage)por lo que los administradores de su organización se redirigen al instante desde las características del Centro de cumplimiento de seguridad de Office 365 a la característica correspondiente en los nuevos &amp; centros.
 
 Para ver las opciones para otorgar licencias a los usuarios para que se beneficien de Microsoft 365 de cumplimiento normativo, descargue la [Microsoft 365 de comparación](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 ## <a name="security-amp-compliance-center-availability-for-business-and-enterprise-plans"></a>Disponibilidad &amp; del Centro de seguridad y cumplimiento para planes empresariales y empresariales
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1, Office 365 Us Government G1 | Office 365 E3, Office 365 Us Government G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 Us Government F3|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 E1, Office 365 gobierno de EE. UU. G1 | Office 365 E3, Office 365 gobierno de EE. UU. G3 | Office 365 E5 |Office 365 G5 | Office 365 F3, Office 365 Us Government F3|
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
 |[Acceso al Centro de &amp; cumplimiento de seguridad](/office365/securitycompliance/go-to-the-securitycompliance-center)  |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |Sí   |
 |[Office 365 Cloud App Security](/cloud-app-security/what-is-cloud-app-security) | No | No |No | No | No | Sí | Sí  |   |

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y el trabajo diario. Entregado a través de Office 365, Project Online proporciona potentes capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de cartera de proyectos, desde casi cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 0c2d1d68767a6b4dedd6b75fd77ca36ba38d6baf
-ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
+ms.openlocfilehash: 3717ff4d908d61e27bbb42af6fbc6615b5dbc548
+ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2021
-ms.locfileid: "53290860"
+ms.lasthandoff: 07/23/2021
+ms.locfileid: "53537266"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -298,6 +298,8 @@ Para Project clientes con cinco (5) o más Project para las licencias web, Proje
 | Registro de Dataverse: incluido/inquilino                                     | 2 GB        | 2 GB        | 2 GB        |
 | Archivo Dataverse: incluido/inquilino                                    | 20 GB       | 20 GB       | 20 GB       |
 | Archivo Dataverse: Acumulado/USL                                        | 400 MB      | 2 GB        | 2 GB        |
+
+Hay suscripciones de Microsoft adicionales más allá Project que dan derecho a la capacidad de almacenamiento de Dataverse. Consulte la Guía de licencias de [Dynamics 365](https://go.microsoft.com/fwlink/?LinkId=866544&clcid=0x409) y la Guía de licencias de [Power Apps, Power Automate](https://go.microsoft.com/fwlink/?LinkId=2085130&clcid=0x409) y Power Virtual Agents de licencias para otros derechos de capacidad de almacenamiento de Dataverse.
 
 ### <a name="data-backup-and-retention"></a>Copia de seguridad y retención de datos
 

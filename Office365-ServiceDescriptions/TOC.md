@@ -81,6 +81,7 @@
 ## [Descripción del servicio Workplace Analytics](workplace-analytics-service-description.md)
 ## [Descripción del servicio MyAnalytics](mya-service-description.md)
 ## [Descripción del servicio Power BI](power-bi-service-description.md)
+## [Descripción del servicio Microsoft Planner](project-online-service-description/microsoft-planner-service-description.md)
 ## [Descripción del servicio de Microsoft Project](project-online-service-description/project-online-service-description.md)
 ### [Funciones básicas](project-online-service-description/core-functionality.md)
 ### [Planeación de proyectos](project-online-service-description/project-planning.md)
