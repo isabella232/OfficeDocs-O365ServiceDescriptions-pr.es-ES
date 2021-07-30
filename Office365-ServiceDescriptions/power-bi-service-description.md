@@ -12,12 +12,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 18093d57-57c0-41e3-9b9c-9812634e03b5
 description: Power BI es un conjunto de herramientas de análisis empresarial basado en la nube que permite a cualquier persona conectarse, visualizar y analizar datos con mayor velocidad, eficacia y comprensión. Se conecta a los usuarios a una amplia gama de datos activos a través de paneles de fácil de usar, proporciona informes interactivos y visualizaciones atractivas que aportan los datos para la vida de entrega.
-ms.openlocfilehash: addac672ec7cb12537d41041c85752ee3690e544
-ms.sourcegitcommit: a1202464a07294ac3b931b51b288a79dcb7ecd6b
+ms.openlocfilehash: c3ef96972ed31585a5fe58e04bb20d96c5ad19cb
+ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "52906746"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661618"
 ---
 # <a name="power-bi-service-description"></a>Descripción del servicio Power BI
 
@@ -33,7 +33,7 @@ Para obtener información detallada del plan sobre las suscripciones que permite
 
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-En la tabla siguiente se enumeran las Power BI principales disponibles en todos los planes. Se aplican ciertas advertencias. Vea las notas al pie para obtener más información. Esta tabla puede cambiar sin previo aviso. Para obtener la lista más actualizada y completa de características, consulte [Power BI precios.](https://powerbi.microsoft.com/pricing/)
+En la tabla siguiente se enumeran las Power BI principales disponibles en todos los planes. Se aplican ciertas advertencias. Consulte las notas al pie para obtener más información. Dicha información de contacto puede cambiar sin notificación previa. Para obtener la lista más actualizada y completa de características, consulte [Power BI precios.](https://powerbi.microsoft.com/pricing/)
 
 | Característica | Power BI Pro | Power BI Premium por usuario | Power BI Premium por capacidad |
 |---------|--------------|---------------------------|-------------------------------|
@@ -44,7 +44,7 @@ En la tabla siguiente se enumeran las Power BI principales disponibles en todos 
 | Consumir contenido sin una licencia por usuario | No | No | Sí |
 | Informes locales con Power BI Report Server | No | No | Sí |
 | **Preparación, modelado y visualización de datos** | | | |
-| Límite de tamaño del modelo | 1 GB | 100 GB | 400 GB |
+| Límite de tamaño del modelo | 1 GB | 100 GB | 400 GB |
 | Tasa de actualización | 8/día | 48/día | 48/día |
 | Conectar a más de 100 orígenes de datos | Sí | Sí | Sí |
 | Crear informes y visualizaciones con Power BI Desktop | Sí | Sí | Sí |
@@ -57,7 +57,7 @@ En la tabla siguiente se enumeran las Power BI principales disponibles en todos 
 | **Gobierno y administración** | | | |
 | Cifrado y seguridad de datos | Sí | Sí | Sí |
 | Métricas de creación, consumo y publicación de contenido | Sí | Sí | Sí |
-| Administración del ciclo de vida de aplicaciones | No | No | Sí |
+| Canalizaciones de implementación para la administración del ciclo de vida de aplicaciones | No | No | Sí |
 | Administración de implementación multige geográfica | No | No | Sí |
 | Traer su propia clave (BYOK) | No | No | Sí |
 | Disponibilidad del complemento de escalado automático (versión preliminar) | No | No | Sí |
@@ -77,12 +77,12 @@ Para obtener información técnica Power BI, consulte los siguientes recursos:
 
 ### <a name="licensing-terms"></a>Términos de licencia
 
-Para obtener términos y condiciones de licencia para productos y servicios comprados a través de los programas de licencias por volumen comerciales de Microsoft, consulte el [sitio términos del producto](https://www.microsoft.com/licensing/terms/). 
+Para conocer los términos y condiciones de licencia de los productos y servicios adquiridos a través de programas de licencias por volumen comerciales de Microsoft, consulte el sitio [Términos del producto](https://www.microsoft.com/licensing/terms/). 
 
-### <a name="messaging"></a>Mensajería 
+### <a name="messaging"></a>Mensajería 
 
-Para realizar un seguimiento de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, visite el Centro de mensajes. Para obtener más información, vea [Centro de mensajes](/microsoft-365/admin/manage/message-center).
+Para realizar un seguimiento de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, vaya al Centro de mensajes. Para obtener más información, consulte el [Centro de mensajes](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accesibilidad
 
-Microsoft sigue comprometido con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, vea [el Centro](https://www.microsoft.com/trust-center) de confianza de Microsoft y el Centro Office [accesibilidad](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+Microsoft mantiene su compromiso con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, consulte el [Centro de confianza de Microsoft](https://www.microsoft.com/trust-center) y el [Centro de accesibilidad de Office](https://support.microsoft.com/office/office-accessibility-center-resources-for-people-with-disabilities-ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

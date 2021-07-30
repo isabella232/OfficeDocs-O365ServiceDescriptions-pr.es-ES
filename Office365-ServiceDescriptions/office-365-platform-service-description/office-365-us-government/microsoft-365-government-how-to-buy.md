@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general Microsoft 365 administración y se describen las opciones de compra.
-ms.openlocfilehash: 546416b4b8222af55b5b774fa4bff66fd8429035
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: 3dae61b362f63126b8d93589e88ccba9cb57502f
+ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537246"
+ms.lasthandoff: 07/30/2021
+ms.locfileid: "53661638"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Gobierno: cómo comprar
 
@@ -140,16 +140,16 @@ Siga estos pasos para comprar Microsoft 365 gubernamentales:
 - Soluciones integradas de C3
 - CACI
 - Carahsoft
-- CyberSheath Services International, LLC
 - CGI Federal Inc.
 - Conquest Cyber
+- CyberSheath Services International, LLC
 - Dox Electronics Inc.
 - Enlighten IT Consulting, LLC
 - F1 Solutions Inc.
 - Four Points Technology, LLC
 - General Dynamics Information Technology, Inc.
-- Imager Software, Inc. d.b.a ISC
 - Hypori, Inc.
+- Imager Software, Inc. d.b.a ISC
 - Jackpine
 - Jasper
 - Johnson Technology Systems, Inc.
