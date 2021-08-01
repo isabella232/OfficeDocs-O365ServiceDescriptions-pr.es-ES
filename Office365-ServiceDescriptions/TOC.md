@@ -96,6 +96,7 @@
 ## [Descripción del servicio de Visio para la Web](visio-online-service-description/visio-online-service-description.md)
 ### [Detalle de las características de Visio](visio-online-service-description/visio-features.md)
 ## [Descripción del servicio Yammer](yammer-service-description/yammer-service-description.md)
+### [Límites de Yammer](yammer-service-description/yammer-limits.md)
 ### [Características de grupo de Yammer](yammer-service-description/group-features-in-yammer.md)
 ### [Características de perfiles de Yammer](yammer-service-description/profile-features-in-yammer.md)
 ### [Características de conversación y mensajería de Yammer](yammer-service-description/message-and-conversation-features-in-yammer.md)
