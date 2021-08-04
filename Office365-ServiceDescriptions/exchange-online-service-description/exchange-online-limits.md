@@ -16,7 +16,7 @@ ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
 ms.openlocfilehash: 29e4a61a021f2b6a42d0a147ee9af595bdad6ae3
 ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 07/23/2021
 ms.locfileid: "53537256"
@@ -437,7 +437,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |Límite de envío de mensajes a un grupo de distribución grande|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
 |Tamaño máximo de mensaje para grupos de distribución con entre 5 000 y 99 999 miembros.|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
 |Tamaño máximo de mensaje para grupos de distribución con 100 000 miembros.|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Número máximo de propietarios de un grupo de distribución|10|10|10|10|10|10|
+|Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |10 |10 |
 |Número máximo de grupos que un usuario puede crear|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
 
 > [!NOTE]
@@ -449,7 +449,7 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 |:-----|:-----|:-----|:-----|:-----|
 |Número máximo de miembros de un grupo de distribución|100 000 miembros<sup>1</sup>|100 000 miembros|100 000 miembros|100 000 miembros|
 |Límite de envío de mensajes a un grupo de distribución grande|5000 o más miembros<sup>1</sup>|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
-|Número máximo de propietarios de un grupo de distribución|10|10|10|10|
+|Número máximo de propietarios de un grupo de distribución|10 |10 |10 |10 |
 |Número máximo de grupos que un usuario puede crear|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|250<sup>2</sup>|
 
 > [!NOTE]

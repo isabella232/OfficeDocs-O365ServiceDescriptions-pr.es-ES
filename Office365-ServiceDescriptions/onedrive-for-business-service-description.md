@@ -16,7 +16,7 @@ ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Consulte las características de OneDrive disponibles en cada plan.
 ms.openlocfilehash: ebb2edb87a4f75ac8fafcaae5625f9431aaff1d3
 ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
-ms.translationtype: HT
+ms.translationtype: MT
 ms.contentlocale: es-ES
 ms.lasthandoff: 06/30/2021
 ms.locfileid: "53204837"
