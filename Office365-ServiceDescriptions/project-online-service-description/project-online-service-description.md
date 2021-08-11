@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y el trabajo diario. Entregado a través de Office 365, Project Online proporciona potentes capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de cartera de proyectos, desde casi cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 3717ff4d908d61e27bbb42af6fbc6615b5dbc548
-ms.sourcegitcommit: 95e48bdbe2167ca3f7b4d9830330b4a594f296b2
+ms.openlocfilehash: a6c4e9b5602f32d9751fab3cd40a580d9465fc472f41f317cd1a635a48eb3793
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/23/2021
-ms.locfileid: "53537266"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702809"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -161,7 +161,7 @@ Las características enumeradas en esta sección interactúan solo con los datos
 |Aprobaciones del parte de horas | Los miembros del equipo pueden enviar partes de horas para su aprobación. Los administradores y supervisores de recursos pueden revisar, aprobar y rechazar partes de horas enviadas. | Sí | Sí |
 |Configuración de tiempo no laborable | Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no laborables a la programación de su proyecto. | No | Sí |
 |**Colaboración** ||||
-|Attachments | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administrar estos datos adjuntos en una biblioteca central en el nivel de equipo o proyecto. | Sí | Sí |
+|Datos adjuntos | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administrar estos datos adjuntos en una biblioteca central en el nivel de equipo o proyecto. | Sí | Sí |
 |Miembros del equipo externo |Colabore con personas de fuera de su organización al concederles acceso para ver e interactuar con sus proyectos, tareas y documentos. <sup>6</sup> | Sí | Sí |
 |Sitios del proyecto | Crear y personalizar un centro de colaboración y documentos para un proyecto. | Sí | Sí |
 |Microsoft Teams integración | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí |
@@ -316,14 +316,14 @@ Project para la web tiene algunas limitaciones, que se describen en la tabla sig
 
 | Entidad/campo | Límite |
 |-------------|-------|
-|**Tarea** ||
+|**Task** ||
 |Máx. nivel de jerarquía para la tarea | 10 niveles |
 |Máx. vínculos (sucesor + predecesor) para una tarea | 20 |
 |Máx. duración de la tarea hoja | 1250 días |
 |Máx. duración de la tarea de resumen | 3650 días (10 años) |
 |Máx. recursos que se pueden asignar a una tarea | 20 recursos |
 |Intervalo de fechas admitido para tareas | 1/1/2000 &ndash; 12/31/2149 |
-|**Project** ||
+|**Proyecto** ||
 |Máx. tareas totales del proyecto | 500 |
 |Máx. duración total del proyecto | 3650 días (10 años) |
 |Máx. recursos totales para el proyecto | 150 |

@@ -12,81 +12,106 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 268aadc2-8916-4f9a-9e37-9e509b52d27d
 description: Vea qué características están disponibles en los distintos planes Yammer datos.
-ms.openlocfilehash: 5d958904838db6374a607bd3f68e42e8969d73f01f6f9656060c56621fbc903a
-ms.sourcegitcommit: 10f6531cffef9d395e7215f554eab7a7c0e15397
+ms.openlocfilehash: 477eb2cae7fc12ffc610f54cdd75595314da63bdf955d82144d4faecde91174c
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/10/2021
-ms.locfileid: "57823644"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702919"
 ---
 # <a name="yammer-service-description"></a>Descripción del servicio Yammer
 
-La participación de su gente es más crítica que nunca. Yammer a líderes, comunicadores y empleados para crear comunidades, compartir conocimientos e interactuar con todos. Yammer te ayuda a conectarte e interactuar en toda la organización, para que puedas hablar de ideas, compartir actualizaciones y conectarte con otros usuarios.
+Yammer es una red social empresarial privada, segura y de primera clase. Yammer permite a los empleados ser más productivos y exitosos, ya que les permite colaborar fácilmente, tomar decisiones con mayor rapidez y organizarse en equipos para asumir cualquier desafío empresarial. Es una nueva forma de trabajar que impulsa de forma natural la alineación y agilidad empresarial, reduce los tiempos de ciclo, involucra a los empleados y mejora las relaciones con clientes y partners.
   
-## <a name="available-plans"></a>Planes disponibles
+Para obtener una lista de planes que incluyen Yammer, vea [Microsoft service families and plans](../office-365-platform-service-description/office-365-plan-options.md#service-families-and-plans).
   
-Para obtener la lista completa de planes que incluyen información de plan sobre suscripciones que permiten a los usuarios Yammer, consulte la tabla de comparación [de suscripciones completa](https://go.microsoft.com/fwlink/?linkid=2139145).
+Para obtener información detallada del plan sobre las suscripciones que permiten a los usuarios Yammer, consulte la tabla de comparación [de suscripciones completa](https://go.microsoft.com/fwlink/?linkid=2139145).
   
-## <a name="feature-availability"></a>Disponibilidad de características
-
-En la tabla siguiente se enumeran las características Yammer principales disponibles. Esta tabla puede cambiar sin previo aviso (se aplican ciertas advertencias).
-
-| Característica  | Pequeña Empresa | Empresa | Educación |
-|---------|---------|---------|---------|
-|[Yammer fuentes](https://support.microsoft.com/office/what-s-in-the-yammer-home-and-discovery-feeds-faaadbe1-4e57-4f17-89f1-e546509fba47) | Sí     | Sí     | Sí     |
-|[Comunidades](https://support.microsoft.com/office/manage-communities-33f252f7-6241-40e1-8f42-ce1b635176fb) | Sí     | Sí     | Sí     |
-|[Community Ideas](https://support.microsoft.com/office/view-community-insights-in-yammer-48bc648e-b567-49d7-b2b5-5fea23777c46) | Sí     | Sí     | Sí     |
-|[Discusiones, sondeos, Elogio, anuncios y preguntas](https://support.microsoft.com/office/create-polls-praise-announcements-and-questions-in-yammer-4b30c7e0-f915-4c69-9582-ccbbd09a516b) | Sí     | Sí     | Sí     |
-|[Temas y hashtags](https://support.microsoft.com/office/use-topics-and-hashtags-in-yammer-98c0a0bb-aad0-45d3-88f1-4f6d12bb1772) | Sí     | Sí     | Sí     |
-|[Marcar la mejor respuesta a las preguntas](https://support.microsoft.com/office/use-questions-and-answers-in-a-yammer-community-a4f1b722-d1bf-42be-a592-7288c7c0b895) | Sí     | Sí     | Sí     |
-|[Archivos](https://support.microsoft.com/office/attach-a-file-or-image-to-a-yammer-conversation-8d2d17f7-8f37-4535-961e-518d751be7e8) | Sí     | Sí     | Sí     |
-|[Eventos en directo](https://support.microsoft.com/office/organize-a-live-event-in-yammer-8853cbd0-d3e2-4888-b8c3-6f3df288dec9) | Sí     | Sí     | Sí     |
-|[Bandeja de entrada](https://support.microsoft.com/office/manage-your-yammer-inbox-f1656c47-7043-40f5-970c-3e66ed7a70f1) | Sí     | Sí     | Sí     |
-|[Invitados externos & red](/yammer/work-with-external-users/collaborate-guests-external-yammer-community) | Sí     | Sí     | Sí     |
-|[Yammer plataforma](https://developer.microsoft.com/yammer) | Sí     | Sí     | Sí     |
-|[Características de administración](/yammer/) | Sí     | Sí     | Sí     |
-
-## <a name="messaging"></a>Mensajería 
-
-Para mantenerse informado de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, visite el Centro de mensajes. Para obtener más información, consulte el [Centro de mensajes](/microsoft-365/admin/manage/message-center).
-
-## <a name="yammer-enterprise-service-communications-policy"></a>Yammer de comunicaciones de servicio empresarial
-
-Yammer se adhiere a la directiva Microsoft 365 [administración](https://aka.ms/ManageChange)de cambios, pero usa la versión dirigida para realizar algunas actualizaciones Microsoft 365 actualizaciones. Yammer usuarios están sujetos a pruebas de características A/B o piloto. Esto permite a Microsoft probar características para mejorar la estabilidad, el rendimiento y la experiencia en muchos entornos y dispositivos. Los usuarios que están en la misma red pueden tener distintas experiencias debido a las pruebas. Los clientes no puedan anular las pruebas A/B.
-
-## <a name="licensing-terms"></a>Términos de licencia
-
-Para conocer los términos y condiciones de licencia de los productos y servicios adquiridos a través de programas de licencias por volumen comerciales de Microsoft, consulte el sitio [Términos del producto](https://www.microsoft.com/licensing/terms/).
-
-## <a name="accessibility"></a>Accesibilidad
-
-Microsoft mantiene su compromiso con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, consulte el [Centro de confianza de Microsoft](https://www.microsoft.com/trust-center) y el [Centro de accesibilidad de Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
-
-## <a name="learn-more"></a>Más información
-
-Para obtener más información Yammer, consulte los siguientes recursos:
-
-- [Límites de Yammer](/office365/servicedescriptions/yammer-service-description/yammer-limits)
-- [Yammer Adopción](https://adoption.microsoft.com/yammer/)
-- [Yammer ayuda para & aprendizaje: Soporte técnico de Microsoft](https://support.microsoft.com/yammer)
-- [Yammer de vídeo: Office soporte técnico (microsoft.com)](https://support.microsoft.com/office/yammer-video-training-2c0ce4c6-0a99-466f-bf1b-cbe7ffa9779a)
-- [Yammer Blog (microsoft.com)](https://techcommunity.microsoft.com/t5/yammer-blog/bg-p/YammerBlog)
-
 ## <a name="system-requirements"></a>Requisitos del sistema
 
-Para los requisitos del sistema para Office 365, el servicio mensual basado en suscripción disponible para organizaciones empresariales, educativas y gubernamentales, vea Microsoft 365 y [Office Resources](https://products.office.com/office-system-requirements/#Office365forBEG).
+Para obtener información sobre los requisitos del Office 365, el servicio mensual basado en suscripción disponible para organizaciones empresariales, educativas y gubernamentales, consulte Microsoft 365 y [Office Resources](https://products.office.com/office-system-requirements/#Office365forBEG).
+  
+## <a name="yammer-plans"></a>Planes de Yammer
 
-## <a name="supported-clients-and-integrations"></a>Clientes e integraciones compatibles
+Yammer está disponible con los siguientes planes:<br><br>
+  
+| Plan | Descripción |
+|:-----|:-----|
+|[Yammer Basic](https://go.microsoft.com/fwlink/?LinkId=691112) <br/> |Red social empresarial disponible en cualquier lugar y en cualquier momento.  <br/> |
+|[Yammer Enterprise](https://www.microsoft.com/microsoft-365/yammer/yammer-overview) <br/> |Enterprise redes sociales con seguridad avanzada, administración e integraciones.  <br/> |
+   
+> [!NOTE]
+> Las características y directivas descritas [en Microsoft 365 y Office 365 descripción](../office-365-platform-service-description/office-365-platform-service-description.md) del servicio de plataforma no se aplican al servicio Yammer web. 
+  
+## <a name="yammer-enterprise-service-communications-policy"></a>Yammer de comunicaciones de servicio empresarial
+<a name="YammerCommsPolicy"> </a>
 
-Por lo general, los siguientes elementos están disponibles hoy en día:
+Yammer se adhiere a la directiva Microsoft 365 [administración](https://aka.ms/ManageChange)de cambios, pero no usa la versión dirigida para lanzar actualizaciones. 
+  
+Todos los usuarios de Yammer están sujetos a pruebas A/B de las características. Esto permite a Microsoft probar características para mejorar la estabilidad, el rendimiento y la experiencia en muchos entornos y dispositivos. Los usuarios que están en la misma red pueden tener distintas experiencias debido a las pruebas. Los clientes no puedan anular las pruebas A/B.
+  
+Los cambios (pruebas A/B, nuevas características, degradaciones, límites de cumplimiento, cambios de flujo de trabajo) que requieran la acción de cliente o que puedan afectar a los clientes de forma significativa se notificarán con antelación. Hemos identificado un escenario donde Yammer hace un cambio que afecta a un subconjunto limitado de usuarios. Un ejemplo de esto podría ser cambiar o quitar una función, como la extensión de Chrome de Yammer, que tiene una baja participación pero que un número pequeño de usuarios tienen habilitada. En estos casos, creemos que la comunicación directa con estos usuarios, además de los canales de comunicación habituales para los administradores superiores como se muestra en la directiva anterior, proporcionará una buena experiencia de usuario para el subconjunto de usuarios afectados por un cambio. Para que los cambios que se clasifican como "Cambios que requieren acción (plan de cambio)" o "Cambios que requieren reconocimiento (mantenerse informado)" que solo afectan a un conjunto concreto de usuarios, podemos notificar directamente a los usuarios. La siguiente tabla se ha actualizado para reflejar este cambio. 
+  
+Los canales que se usen para realizar la comunicación dependerán del impacto:<br><br>
+  
+| Tipo de cambio | Canal de comunicación |
+|:-----|:-----|
+|**Cambios que requieren acción (planear el cambio)** <br/>Admin required to make changes to keep the service running, updates that may have an impact on your organization's compliance  <br/> |- Office 365 correo electrónico del Centro de mensajes directamente Yammer administradores comprobados <br/>- Microsoft 365 guía básica<br/>- Yammer de servicio<br/>- Grupo externo<br/>Con los cambios que afectan a un conjunto concreto de usuarios, también podemos notificar directamente a esos usuarios. |
+|**Cambios que requieren reconocimiento (mantenerse informado)**<br/>Cambios que no requieren acción de administrador, cambios de diseño visual  <br/> |- Office 365 centro de mensajes<br/>- Microsoft 365 guía básica<br/>- Yammer de servicio<br/>- Grupo externo<br/>Con los cambios que afectan a un conjunto concreto de usuarios, también podemos notificar directamente a esos usuarios. |
+|**No crítico** <br/>Cambios que no son críticos y que no requieren acción ni reconocimiento, aunque algunos usuarios puedan observarlo.  <br/> |No se notificará globalmente. |
+   
+## <a name="feature-availability-across-yammer-plans"></a>Disponibilidad de características en los planes de Yammer
 
-- [Nuevo Yammer](https://support.microsoft.com/office/welcome-to-new-yammer-8c749c30-2d17-4153-a3cc-37a70f254681)
-- [Clásico Yammer](https://support.microsoft.com/office/welcome-to-classic-yammer-02ac514e-cf1d-4060-9cde-6038ca812ede)
-- [Aplicación Comunidades](https://support.microsoft.com/office/use-the-yammer-communities-app-for-microsoft-teams-930c86f1-e1e2-4e45-a66a-ce8faca71a21) para Microsoft Teams
-- Nueva Yammer [de escritorio](https://support.microsoft.com/office/install-the-new-yammer-desktop-app-66ccb412-ca1d-4e43-872c-9705abf11b1b)
-- [SharePoint Elementos web destacados y conversaciones](https://support.microsoft.com/office/use-a-yammer-web-part-in-sharepoint-online-a53cfa0c-3d09-42c8-a286-1038a81c59da)
-- [Yammer Embed (nuevo y clásico Yammer)](https://developer.yammer.com/docs/new-embed-feed)
-- [Correos electrónicos interactivos en Outlook](https://support.microsoft.com/office/work-with-yammer-from-outlook-fd695485-225b-410f-b24a-17f971b46b25)
-- [Yammer aplicaciones móviles en iPhone, iPad y Android](https://support.microsoft.com/office/set-up-new-yammer-on-your-mobile-phone-e52e65ad-14fa-4db9-b8f7-80fe3f6e25a7)
-
-La aplicación Yammer de escritorio clásica está en desuso el 31 de julio de 2021.
+¿Necesita ayuda para saber qué plan de Yammer se adapta mejor a las necesidades de su organización? Use la tabla siguiente para ver las características que están disponibles en cada plan. Seleccione un nombre de característica para leer un breve resumen de cómo funciona esa característica en Yammer.<br><br>
+  
+| Característica | Yammer Basic | Yammer Enterprise |
+|:-----|:-----|:-----|
+|[Grupos](group-features-in-yammer.md#groups) <br/> | Sí  <br/> |Sí  <br/> |
+|[Grupos relacionados](group-features-in-yammer.md#related-groups) <br/> |Sí  <br/> |Sí  <br/> |
+|[Anuncios](group-features-in-yammer.md#announcements) <br/> |No  <br/> |Sí  <br/> |
+|[Perfiles de usuario](profile-features-in-yammer.md#user-profiles) <br/> |Sí  <br/> |Sí  <br/> |
+|[Experiencia](profile-features-in-yammer.md#expertise) <br/> |Sí  <br/> |Sí  <br/> |
+|[Directorio de miembros](profile-features-in-yammer.md#member-directory) <br/> |Sí  <br/> |Sí  <br/> |
+|[Gráfico de la organización](profile-features-in-yammer.md#org-chart) <br/> |Sí  <br/> |Sí  <br/> |
+|[Elogio](profile-features-in-yammer.md#praise) <br/> |Sí  <br/> |Sí  <br/> |
+|[Tablas de clasificación](profile-features-in-yammer.md#leaderboards) <br/> |Sí  <br/> |Sí  <br/> |
+|[Publicador](message-and-conversation-features-in-yammer.md#publisher) <br/> |Sí  <br/> |Sí  <br/> |
+|[@Mención](message-and-conversation-features-in-yammer.md#section) <br/> |Sí  <br/> |Sí  <br/> |
+|[En línea ahora](message-and-conversation-features-in-yammer.md#online-now) <br/> |Sí  <br/> |Sí  <br/> |
+|[Mensajes privados](message-and-conversation-features-in-yammer.md#private-messages) <br/> |Sí  <br/> |Sí  <br/> |
+|[Compartir conversaciones](message-and-conversation-features-in-yammer.md#share-conversations) <br/> |Sí  <br/> |Sí  <br/> |
+|[Eventos](message-and-conversation-features-in-yammer.md#events) <br/> |Sí  <br/> |Sí  <br/> |
+|[Sondeos](message-and-conversation-features-in-yammer.md#polls) <br/> |Sí  <br/> |Sí  <br/> |
+|[Archivos](document-collaboration-features-in-yammer.md#files) <br/> |Sí  <br/> |Sí  <br/> |
+|[Cambios recientes](document-collaboration-features-in-yammer.md#recent-changes) <br/> |Sí  <br/> |Sí  <br/> |
+|[Contenido oficial](document-collaboration-features-in-yammer.md#official-content) <br/> |No  <br/> |Sí  <br/> |
+|[Bandeja de entrada](inbox-features-in-yammer.md#inbox) <br/> |Sí  <br/> |Sí  <br/> |
+|[Búsqueda en la Bandeja de entrada](inbox-features-in-yammer.md#inbox-search) <br/> |Sí  <br/> |Sí  <br/> |
+|[Suministros](discovery-features-in-yammer.md#feeds) <br/> |Sí  <br/> |Sí  <br/> |
+|[Adhesivo](discovery-features-in-yammer.md#ticker) <br/> |Sí  <br/> |Sí  <br/> |
+|[Temas](discovery-features-in-yammer.md#topics) <br/> |Sí  <br/> |Sí  <br/> |
+|[Búsqueda universal](discovery-features-in-yammer.md#universal-search) <br/> |No  <br/> |Sí  <br/> |
+|[Tipo instantáneo por delante](discovery-features-in-yammer.md#instant-type-ahead) <br/> |Sí  <br/> |Sí  <br/> |
+|[Redes externas](external-network-features-in-yammer.md#external-networks) <br/> |Sí  <br/> |Sí  <br/> |
+|[Cambio rápido de red](external-network-features-in-yammer.md#fast-network-switching) <br/> |Sí  <br/> |Sí  <br/> |
+|[Yammer conectar inicio de sesión](yammer-platform-features.md#yammer-connect-login) <br/> |Sí  <br/> |Sí  <br/> |
+|[Fuentes incrustables](yammer-platform-features.md#embeddable-feeds) <br/> |Sí  <br/> |Sí  <br/> |
+|[Botones Me gusta y Seguir](yammer-platform-features.md#like-and-follow-buttons) <br/> |Sí  <br/> |Sí  <br/> |
+|[Extensión del explorador](yammer-platform-features.md#browser-extension) <br/> |Sí  <br/> |Sí  <br/> |
+|[API de secuencia de actividades](yammer-platform-features.md#activity-stream-api) <br/> |Sí  <br/> |Sí  <br/> |
+|[Personalización de marca de red personalizada](administration-and-security-features-in-yammer.md#custom-network-branding) <br/> |No  <br/> |Sí  <br/> |
+|[Administración de usuarios](administration-and-security-features-in-yammer.md#user-management) <br/> |No  <br/> |Sí  <br/> |
+|[Identidad única](administration-and-security-features-in-yammer.md#single-identity) <br/> |Sí  <br/> |Sí  <br/> |
+|[Sincronización de directorios](administration-and-security-features-in-yammer.md#directory-synchronization) <br/> |No  <br/> |Sí  <br/> |
+|[Exportación de datos](administration-and-security-features-in-yammer.md#data-export) <br/> |No  <br/> |Sí  <br/> |
+|[Supervisión de palabras clave](administration-and-security-features-in-yammer.md#keyword-monitoring) <br/> |No  <br/> |Sí  <br/> |
+|[Análisis](administration-and-security-features-in-yammer.md#analytics) <br/> |No  <br/> |Sí  <br/> |
+|[Recursos de la organización](administration-and-security-features-in-yammer.md#organization-resources) <br/> |Sí  <br/> |Sí  <br/> |
+|[Directivas de contraseña](administration-and-security-features-in-yammer.md#password-policies) <br/> |No  <br/> |Sí  <br/> |
+|[Administración de sesiones](administration-and-security-features-in-yammer.md#session-management) <br/> |No  <br/> |Sí  <br/> |
+|[Firewall lógico](administration-and-security-features-in-yammer.md#logical-firewall) <br/> |No  <br/> |Sí  <br/> |
+|[Directiva de uso](administration-and-security-features-in-yammer.md#usage-policy) <br/> |No  <br/> |Sí  <br/> |
+|[Centro de FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409) <br/> |No  <br/> |Sí  <br/> |
+|[Soporte al cliente](support-features-in-yammer.md#customer-support) <br/> |Sí  <br/> |Sí  <br/> |
+|[Soporte para administradores](support-features-in-yammer.md#administrator-support) <br/> |No  <br/> |Sí  <br/> |
+|[Modo de contenido privado de administración](administration-and-security-features-in-yammer.md#admin-private-content-mode) <br/> |No  <br/> |Sí  <br/> |

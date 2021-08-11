@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: En las tablas siguientes se muestran los cambios realizados recientemente en el contenido de descripciones del servicio.
-ms.openlocfilehash: cafd18087588922fa561cc432625dbcbd3e65d6d
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 343ea3ddeb84451bad4c6e152a920b4cc9689cdf1c357b1c02aeadee8de28f99
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651045"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702899"
 ---
 # <a name="recent-service-descriptions-changes"></a>Cambios recientes de descripciones de servicio
 
@@ -41,7 +41,7 @@ En las tablas siguientes se muestran los cambios realizados recientemente en el 
 |:-----|:-----|:-----|
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
 |Plataforma Office 365  <br/> |[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se han aclarado GCC de uso compartido de alta y doD.  <br/> |
-||[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se agregó la sección FastTrack GCC tema.  <br/> |
+||[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se agregó FastTrack sección a GCC tema.  <br/> |
    
 ## <a name="april-2018"></a>Abril de 2018
 
@@ -49,10 +49,10 @@ En las tablas siguientes se muestran los cambios realizados recientemente en el 
 |:-----|:-----|:-----|
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
 |Plataforma Office 365  <br/> |[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se agregó información multige geográfica a la descripción del servicio de plataforma.  <br/> |
-||[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se agregaron Microsoft 365 Empresa.  <br/> |
+||[Descripción del servicio de la plataforma de Office 365](office-365-platform-service-description/office-365-platform-service-description.md) <br/> |Se ha Microsoft 365 Business.  <br/> |
 ||[Centro &amp; de cumplimiento de seguridad](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se cambió la entrada de límite de archivado a "Sí" para Microsoft 365 Empresa Básico y Microsoft 365 Empresa Estándar.  <br/> |
 ||[Centro &amp; de cumplimiento de seguridad](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se cambió "Administración de seguridad avanzada" a "Office 365 Cloud App Security".  <br/> |
-|Office para la web  <br/> |[Excel para la web](office-online-service-description/excel-online.md) <br/> |Se cambió la primera nota del tema a "Los libros que superen los 30 megabytes (MB) no se pueden ver en Excel para la web desde dentro de Microsoft Office SharePoint Online". Anteriormente, la nota decía 10 MB.  <br/> |
+|Office para la web  <br/> |[Excel para la web](office-online-service-description/excel-online.md) <br/> |Se cambió la primera nota del tema a "Los libros que superen los 30 megabytes (MB) no se pueden ver en Excel para la Web desde dentro de Microsoft Office SharePoint Online". Anteriormente, la nota decía 10 MB.  <br/> |
 |OneDrive para la Empresa  <br/> |[Descripción del servicio de OneDrive para la Empresa](onedrive-for-business-service-description.md) <br/> |Actualización principal a OneDrive para la Empresa descripción del servicio.  <br/> |
    
 ## <a name="march-2018"></a>Marzo de 2018
@@ -62,7 +62,7 @@ En las tablas siguientes se muestran los cambios realizados recientemente en el 
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
 |Exchange Online  <br/> |[Descripción del servicio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Actualizaciones para el cifrado de datos en reposo en el centro de datos y Cifrado de mensajes de Office 365 (OME).  <br/> |
 ||[Regulación de mensajes y cumplimiento normativo](exchange-online-service-description/message-policy-and-compliance.md) <br/> |Actualizaciones para el cifrado de datos en reposo en el centro de datos y Cifrado de mensajes de Office 365 (OME).  <br/> |
-|Office para la web  <br/> |[Excel para la web](office-online-service-description/excel-online.md) <br/> |Actualizar a La compatibilidad con paneles de inmovilización en Excel para la web.  <br/> |
+|Office para la web  <br/> |[Excel para la web](office-online-service-description/excel-online.md) <br/> |Actualizar a La compatibilidad con paneles inmovilizados en Excel para la Web.  <br/> |
 |SharePoint Online  <br/> |[Descripción del servicio SharePoint Online](sharepoint-online-service-description/sharepoint-online-service-description.md) <br/> |Varias actualizaciones y reestructuración.  <br/> |
 ||[Límites de SharePoint Online](sharepoint-online-service-description/sharepoint-online-limits.md) <br/> |Varias actualizaciones.  <br/> |
 |Yammer  <br/> |[Características de administración y seguridad de Yammer](yammer-service-description/administration-and-security-features-in-yammer.md) <br/> |Notas y claves de secuencia de actividad eliminadas.  <br/> |
@@ -126,7 +126,7 @@ En las tablas siguientes se muestran los cambios realizados recientemente en el 
 |:-----|:-----|:-----|
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
 |Plataforma Office 365  <br/> |[Centro &amp; de cumplimiento de seguridad](office-365-platform-service-description/office-365-securitycompliance-center.md) <br/> |Se agregaron detalles de gobierno avanzado.  <br/> |
-||[Office 365 Administración Pública de EE. UU.](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Se agregaron las migraciones de datos realizadas por la tabla FastTrack .  <br/> |
+||[Office 365 Administración Pública de EE. UU.](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Se agregaron migraciones de datos realizadas FastTrack tabla .  <br/> |
 ||[Office 365 Germany](office-365-platform-service-description/office-365-germany.md) <br/> |Tenga en cuenta que el uso compartido federado requiere el uso del espacio de direcciones de disponibilidad para admitir el uso compartido con otros inquilinos.  <br/> |
 |Exchange Online  <br/> |[Límites de Exchange Online](exchange-online-service-description/exchange-online-limits.md) <br/> |Se agregaron límites Cifrado de mensajes de Office 365 versión heredada (OME) y Cifrado de mensajes de Office 365 (OME) con nuevas funcionalidades.  <br/> |
 |Skype Empresarial  <br/> |[Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Tenga en cuenta que la audioconferencia se puede agregar a Microsoft 365 Empresa Estándar, Office 365 Enterprise E1 y Office 365 Enterprise planes de suscripción de E3 como complemento.  <br/> |
@@ -186,4 +186,4 @@ En las tablas siguientes se muestran los cambios realizados recientemente en el 
 ||[Servicios de mensajes de voz](exchange-online-service-description/voice-message-services.md) <br/> |Se actualizó para incluir un anuncio de fin de vida para Exchange Online mensajería unificada a través de SBC.  <br/> |
 | Workplace Analytics  <br/> |[Descripción del servicio Workplace Analytics](workplace-analytics-service-description.md) <br/> |Se agregó una nueva descripción del servicio  <br/> |
 |Múltiple  <br/> |Múltiple  <br/> |Azure RMS cambió el nombre de Azure Information Protection (AIP).  <br/> |
-|Múltiple  <br/> |Múltiple  <br/> |Se Office para la web frente Office detalles de comparación de escritorio de Office 365 Alemania y Office 365 operado por 21 páginas deVianet. Se agregó el puntero al mismo contenido en Office para la página Descripción del servicio web.  <br/> |
+|Múltiple  <br/> |Múltiple  <br/> |Se Office para la Web frente Office de comparación de escritorio de Office 365 Alemania y Office 365 operado por 21 páginas deVianet. Se agregó el puntero al mismo contenido en Office para la Web descripción del servicio.  <br/> |

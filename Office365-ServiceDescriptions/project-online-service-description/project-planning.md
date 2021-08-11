@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 47e400f8-27ad-4187-8d31-e47ac3767300
 description: Las siguientes características de planeación del proyecto están disponibles en Project Online.
-ms.openlocfilehash: e4bc924484bbebf48f5308c2ed406b65f6fc9887
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 4b27ead33200855bab441d2b55f50c41c80d3e078ced240903443925876e74f1
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651055"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702679"
 ---
 # <a name="project-planning"></a>Planeación de proyectos
 
