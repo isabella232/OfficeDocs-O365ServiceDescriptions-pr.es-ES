@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: obtenga información sobre las características y los requisitos de Exchange Online Protection. Se incluye una lista de planes que proporcionan Exchange Online Protection, así como una comparación de características en esos planes.
-ms.openlocfilehash: fbfbe39931e6037b358bb76c124937904a408783
-ms.sourcegitcommit: 427dbb27426a12e8c5dba7d8b4cbaf2bedb3aaba
+ms.openlocfilehash: 2a7f5bd6c2750d4ce5d348e7fc8438a335533a46466fccc16318a133e1639e4e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53222487"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664233"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descripción del servicio Exchange Online Protection
 
@@ -64,7 +64,7 @@ Para ver los límites de EOP, [consulte Exchange Online Protection limits](excha
 
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-En la tabla siguiente se enumeran las características Exchange Online Protection principales disponibles en todos los planes. Se aplican ciertas advertencias. Vea las notas al pie para obtener más información. Esta tabla puede cambiar sin previo aviso. Para obtener la lista más actualizada y completa de características, consulta [Herramientas eficaces para admitir tu empresa.](https://products.office.com/business/compare-more-office-365-for-business-plans)
+En la tabla siguiente se enumeran las características Exchange Online Protection principales disponibles en todos los planes. Se aplican ciertas advertencias. Consulte las notas al pie para obtener más información. Dicha información de contacto puede cambiar sin notificación previa. Para obtener la lista más actualizada y completa de características, consulta [Herramientas eficaces para admitir tu empresa.](https://products.office.com/business/compare-more-office-365-for-business-plans)
 
 | Característica | EOP independiente | EOP en EE CAL con Servicios | Características de EOP en Exchange  Online |
 |:-----|:-----|:-----|:-----|
@@ -78,7 +78,7 @@ En la tabla siguiente se enumeran las características Exchange Online Protectio
 |Purga automática de hora cero (ZAP) para mensajes de malware, correo no deseado y phishing<sup>entregados 10</sup>|No|No|Sí|
 |Directivas de seguridad predefinidas|Sí|Sí|Sí|
 |Analizador de configuración para directivas de protección|Sí|Sí|Sí|
-|Lista de inquilinos permitidos/bloqueados|Sí|Sí|Sí|
+|Lista de bloqueados y permitidos del espacio empresarial|Sí|Sí|Sí|
 |Bloquear listas para remitentes de mensajes|Sí|Sí|Sí|
 |Permitir listas para remitentes de mensajes|Sí|Sí|Sí|
 |Bloqueo perimetral|Sí|Sí|Sí|
@@ -100,7 +100,7 @@ En la tabla siguiente se enumeran las características Exchange Online Protectio
 |Informes de seguridad en el centro Microsoft 365 seguridad|Sí<sup>7</sup>|Sí<sup>7,8</sup>|Sí<sup>8</sup>|
 |Informes de correo electrónico en el EAC|Sí<sup>7</sup>|Sí<sup>7,8</sup>|Sí<sup>8</sup>|
 |Registro de auditoría de administración<sup>5</sup>|Sí|Sí|Sí|
-|**Users**||||
+|**Usuarios**||||
 |Usuarios de correo y contactos de correo<sup>1</sup>|Sí|Sí|Sí|
 |Buzones|No|No|Sí<sup>1a</sup>|
 |Control de acceso basado en roles (RBAC)<sup>2</sup>|Sí|Sí|Sí|
@@ -139,12 +139,12 @@ La [Microsoft 365 guía básica es](https://office.microsoft.com/products/office
 
 ### <a name="licensing-terms"></a>Términos de licencia
 
-Para obtener términos y condiciones de licencia para productos y servicios comprados a través de los programas de licencias por volumen comerciales de Microsoft, consulte el [sitio términos del producto](https://www.microsoft.com/licensing/terms/).
+Para conocer los términos y condiciones de licencia de los productos y servicios adquiridos a través de programas de licencias por volumen comerciales de Microsoft, consulte el sitio [Términos del producto](https://www.microsoft.com/licensing/terms/).
 
-### <a name="messaging"></a>Mensajería 
+### <a name="messaging"></a>Mensajería 
 
-Para realizar un seguimiento de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, visite el Centro de mensajes. Para obtener más información, vea [Centro de mensajes](/microsoft-365/admin/manage/message-center).
+Para realizar un seguimiento de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, vaya al Centro de mensajes. Para obtener más información, consulte el [Centro de mensajes](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accesibilidad
 
-Microsoft sigue comprometido con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, vea [el Centro](https://www.microsoft.com/trust-center) de confianza de Microsoft y el Centro Office [accesibilidad](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+Microsoft mantiene su compromiso con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, consulte el [Centro de confianza de Microsoft](https://www.microsoft.com/trust-center) y el [Centro de accesibilidad de Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

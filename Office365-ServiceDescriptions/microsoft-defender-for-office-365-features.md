@@ -1,5 +1,5 @@
 ---
-title: Descripción del servicio De Microsoft Defender para Office 365 características
+title: Descripción del servicio de características de Microsoft Defender para Office 365
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -12,14 +12,14 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ''
 description: Obtenga información sobre las características disponibles en Microsoft Defender para Office 365.
-ms.openlocfilehash: 620639a2c40d589123ebda33446411533798d2ec
-ms.sourcegitcommit: 7ee8775831fd481ab2ef477245d2ae2af98ac2d7
+ms.openlocfilehash: a4f7fe00162dc15d7f01be831842066ef448546ad36197fb0551d85dbfba73ef
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "53204874"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663053"
 ---
-# <a name="microsoft-defender-for-office-365-features-service-description"></a>Descripción del servicio De Microsoft Defender para Office 365 características
+# <a name="microsoft-defender-for-office-365-features-service-description"></a>Descripción del servicio de características de Microsoft Defender para Office 365
 
 ## <a name="whats-new-in-microsoft-defender-for-office-365"></a>Novedades de Microsoft Defender para Office 365
 
@@ -31,7 +31,7 @@ Seguimos agregando nuevas características a Defender para Office 365. Para obte
 
 ## <a name="defender-for-office-365-capabilities"></a>Defender para Office 365 capacidades
 
-### <a name="safe-attachments"></a>Archivos adjuntos seguros
+### <a name="safe-attachments"></a>Datos adjuntos seguros
 
 [Caja fuerte datos adjuntos](/microsoft-365/security/office-365-security/atp-safe-attachments) protege contra malware y virus desconocidos y proporciona protección de día cero para proteger el sistema de mensajería. Todos los mensajes y datos adjuntos que no tienen una firma conocida de virus o malware se enruta a un entorno especial donde Defender para Office 365 usa una variedad de técnicas de aprendizaje automático y análisis para detectar intenciones malintencionadas. Si no se detecta ninguna actividad sospechosa, se libera el mensaje para su entrega al buzón de correo.
 
@@ -63,7 +63,7 @@ Los vínculos seguros están disponibles para las direcciones URL en las siguien
 
 La [característica Caja fuerte documents usa](/microsoft-365/security/office-365-security/safe-docs) Microsoft Defender para [Endpoint](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para examinar documentos y archivos que se abren en la [vista protegida](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653).
 
-¿Qué necesita saber antes de comenzar?
+¿Qué necesita saber antes de empezar?
 
 - Caja fuerte Los documentos ya están disponibles para los usuarios con Office versión 2004 (12730.x) o superior. Esta característica está desactivada de forma predeterminada y deberá estar habilitada por el administrador de seguridad.
 

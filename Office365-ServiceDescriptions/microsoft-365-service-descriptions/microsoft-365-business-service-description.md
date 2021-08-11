@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Empresa Premium es una solución integrada que reúne la mejor productividad de su clase con capacidades avanzadas de administración de dispositivos y seguridad para ayudar a proteger su empresa. Esta descripción del servicio describe las opciones y características del plan.
-ms.openlocfilehash: 2822f93ce488c180b1cdb0bf6fefefb061138f5b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 658bfe634163bb7b0df423f65973c40a3289aec9cc81134ff97ea51403ae8ee4
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652674"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663353"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descripción del servicio de Microsoft 365 Empresa Premium
 
@@ -84,7 +84,7 @@ Microsoft 365 Empresa Premium incluye básicamente todas las características di
 |Windows Defender configuración  <br/> |No  <br/> |Sí  <br/> |
 |Implementación de perfiles de dispositivo y configuración de seguridad<sup>5</sup> <br/> |No  <br/> |Sí  <br/> |
 |Enterprise Itinerancia de estado para Windows 10 con la unión a Azure AD  <br/> |No  <br/> |Sí  <br/> |
-|Recuperación de BitLocker autoservicio  <br/> |No  <br/> |Sí  <br/> |
+|Recuperación de BitLocker de autoservicio  <br/> |No  <br/> |Sí  <br/> |
 |Windows Virtual Desktop <br/> |No <br/> |Sí <br/> |
 |**Windows 10 Pro administración** <br/>Si tienes dispositivos con licencia para Windows 7 y 8.1 Professional, Microsoft 365 Empresa Premium una actualización a Windows 10 Pro. <sup>9</sup> <br/>|**Microsoft 365 Empresa Premium** <br/> |
 |Implementación simplificada con Windows AutoPilot  <br/> |Sí  <br/> |
@@ -106,7 +106,7 @@ Microsoft 365 Empresa Premium incluye básicamente todas las características di
 <sup>2</sup> Azure Information Protection (AIP) habilita las características admitidas de Information Rights Management (IRM). El plan 1 de AIP se incluye en Microsoft 365 Empresa Premium. <br/>
 <sup>3</sup> Microsoft 365 Empresa Premium incluye Archivado de Exchange Online suscripción. Cada suscriptor de Archivado de Exchange Online recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. Para obtener más información, consulte [Información general del archivado ilimitado](/office365/securitycompliance/unlimited-archiving). <br/>
 <sup>4 Disponible</sup> en [https://securescore.office.com](https://securescore.office.com) . Requiere permisos de administrador. Para obtener más información, vea [Puntuación segura de Microsoft](/office365/securitycompliance/microsoft-secure-score).<br/>
-<sup>5</sup> Administración simplificada Windows 10 dispositivos integrados en el centro Microsoft 365 administración. Capacidades de administración de Intune de iOS, Android, macOS y otra administración de dispositivos multiplataforma integrada en el Centro de administración de dispositivos, también con licencia para su uso con Microsoft 365 Empresa Premium. Las aplicaciones de terceros y la configuración de cosas como perfiles WiFi y certificados VPN también se pueden administrar en el Centro de administración de dispositivos. <br/>
+<sup>5</sup> Administración Windows 10 dispositivos simplificada integrada en el Centro de administración de Microsoft 365. Capacidades de administración de Intune de iOS, Android, macOS y otra administración de dispositivos multiplataforma integrada en el Centro de administración de dispositivos, también con licencia para su uso con Microsoft 365 Empresa Premium. Las aplicaciones de terceros y la configuración de cosas como perfiles WiFi y certificados VPN también se pueden administrar en el Centro de administración de dispositivos. <br/>
 <sup>6</sup> Este plan viene con el Plan 2 de Microsoft Stream, que incluye portal de vídeo, transcripción de voz a texto, búsqueda profunda y detección de rostros.<br/>
 <sup>7</sup> Microsoft 365 viene con Microsoft Defender para Office 365 Plan 1. Para obtener más información, [vea Microsoft 365 Empresa Premium de seguridad y cumplimiento](/microsoft-365/business/security-features).<br/>
 <sup>8</sup> Microsoft 365 Empresa Premium suscriptores tienen licencia para usar funcionalidades completas de Intune para iOS, Android, MacOS y otra administración de dispositivos multiplataforma. Las características que no están disponibles en el Centro de administración en Microsoft 365 Empresa Premium, como la administración de aplicaciones de terceros y la configuración de perfiles WiFi, certificados VPN, etc., se pueden administrar en la consola completa de Intune.</br>

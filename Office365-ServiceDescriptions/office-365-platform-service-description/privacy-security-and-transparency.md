@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: d90ed179-59d7-42b3-b849-5b580c2c93b1
 description: Microsoft valora las asociaciones que tenemos con nuestros clientes y pone mucho énfasis en la protección de la privacidad y seguridad de los datos de los clientes. Para obtener más información, visite el Centro de confianza de Microsoft.
-ms.openlocfilehash: d3a9552d30bc947da36306b1a37fd53fc9d28319
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 06ca7c3afa81aa31b559c115972d9c2c02b2b06757032282672e536f78d0dd1a
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652534"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701839"
 ---
 # <a name="privacy-security-and-transparency"></a>Privacy, security, and transparency
 
@@ -52,7 +52,7 @@ Como administrador de Microsoft, puedes usar la Caja de seguridad del cliente pa
   
 La Caja de seguridad del cliente se incluye en el plan de Office 365 Enterprise 5 o se puede comprar una suscripción independiente con cualquier otro plan de Office 365 Enterprise. Para obtener más información, consulte [Solicitudes de caja de seguridad del cliente de Office 365](/microsoft-365/compliance/customer-lockbox-requests).
   
-## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
+## <a name="microsoft-defender-for-office-365"></a>Microsoft Defender para Office 365
 
 Defender for Office 365 ayuda a proteger su organización contra malware y virus. Defender for Office 365 incluye [Caja fuerte links,](/office365/securitycompliance/atp-safe-links) [Caja fuerte attachments](/office365/securitycompliance/atp-safe-attachments), [anti-phishing](/office365/securitycompliance/atp-anti-phishing)y características de inteligencia de [suplantación de](/office365/securitycompliance/learn-about-spoof-intelligence) identidad. Caja fuerte Los vínculos protegen proactivamente a los usuarios de hipervínculos malintencionados en un mensaje, lo que proporciona protección cada vez que se selecciona el vínculo. Caja fuerte Los datos adjuntos protegen contra malware y virus desconocidos, enrutando todos los mensajes y datos adjuntos que no tienen una firma de virus o malware conocida a un entorno especial donde Defender para Office 365 puede detectar intenciones malintencionadas. Para obtener más información acerca de Defender para Office 365, vea [Microsoft Defender for Office 365 service description](../office-365-advanced-threat-protection-service-description.md).
   

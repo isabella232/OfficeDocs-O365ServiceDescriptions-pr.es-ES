@@ -10,12 +10,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Obtenga información sobre la SharePoint de características para los clientes en la nube del gobierno de Estados Unidos.
-ms.openlocfilehash: cec996804ab0d402d2bcccd89b8bbfb5e7f70905
-ms.sourcegitcommit: c34f7acea5e172eb2b29ae42f71e69932def6ac0
+ms.openlocfilehash: ed8c3581411a99631b328e6aceca50bcb7c6e446227266824a0f66916fa62216
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "51900780"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701829"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint entornos gubernamentales de Estados Unidos
 
@@ -53,7 +53,7 @@ Estas son las diferencias entre las características de administración de TI pa
 - Mover.io aún no se admite
 - Multi-geo no está disponible para todos los clientes de la nube gubernamental
 
-Para obtener información acerca de la migración de FastTrack, [consulta Office 365 descripción](./office-365-us-government.md#data-migrations-performed-by-fasttrack)del servicio us government .
+Para obtener información sobre FastTrack migración, [consulta la Office 365 de servicio de US Government](./office-365-us-government.md#data-migrations-performed-by-fasttrack).
 
 ## <a name="security-and-compliance-features"></a>Características de seguridad y cumplimiento
 
@@ -81,7 +81,7 @@ Estas son las diferencias entre los sitios y las características de contenido d
 
 Estas son las diferencias entre las características de búsqueda de los clientes comerciales y las de los clientes de la nube gubernamental:
 
-- Microsoft Search no está disponible en GCC.
+- Búsqueda de Microsoft no está disponible en GCC.
 
 ## <a name="sharing-and-sync"></a>Uso compartido y sincronización
 
@@ -94,5 +94,5 @@ El paso a la nube ofrece experiencias transformadoras con controles de administr
 ## <a name="deploy-sharepoint-for-collaboration"></a>Implementar SharePoint para colaboración
 
 Después de configurar la organización en la nube del gobierno de Microsoft US, siga la ruta de implementación recomendada que se describe en el centro de recursos [SharePoint adopción.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) Asegúrese de interactuar con sus campeones de adopción y administración de cambios.
-También puede trabajar con [FastTrack](https://www.microsoft.com/fasttrack) o su partner elegido para realizar el servicio a los usuarios.
+También puede trabajar con [FastTrack](https://www.microsoft.com/fasttrack) o el partner elegido para realizar el servicio a los usuarios.
 Visite el [Centro de confianza](https://www.microsoft.com/trust-center) de Microsoft para obtener más información sobre cómo Microsoft aborda la seguridad, la privacidad y el cumplimiento, principios básicos de cómo habilitamos a las organizaciones para que sirvan a sus clientes.

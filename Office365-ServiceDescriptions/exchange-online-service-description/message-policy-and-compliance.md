@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: Obtenga información sobre la directiva de mensajes y el cumplimiento en Exchange Online.
-ms.openlocfilehash: 22de08fb350785b63db97da7271182eb62980cae
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 135a928aef14695e5dd4d459c3ac60f24ea81a0b91585a3017f6e50591b03226
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652714"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663773"
 ---
 # <a name="message-policy-and-compliance"></a>Regulación de mensajes y cumplimiento
 
@@ -25,9 +25,9 @@ ms.locfileid: "51652714"
 
 Los buzones de Exchange Online residen en la nube y su archivado requiere entornos de hospedaje únicos. En algunos casos, Exchange Online también puede ser utilizado para archivar buzones locales en la nube. En esta sección, se describen las opciones de archivado con Exchange Online.
   
-Exchange Online ofrece capacidades de archivado integradas para buzones basados en la nube, incluido un archivo local que brinda a los usuarios un espacio muy conveniente para almacenar mensajes de correo electrónico antiguos. Un archivo In-Place es un tipo especial de buzón que aparece junto con las carpetas de buzones principales de un usuario en Outlook y Outlook en la web. Los usuarios pueden tener acceso al archivo y buscar en él de la misma manera en que con sus buzones principales. La funcionalidad disponible depende del cliente en uso:
+Exchange Online ofrece capacidades de archivado integradas para buzones basados en la nube, incluido un archivo local que brinda a los usuarios un espacio muy conveniente para almacenar mensajes de correo electrónico antiguos. Un In-Place archive es un tipo especial de buzón que aparece junto con las carpetas de buzones principales de un usuario en Outlook y Outlook en la Web. Los usuarios pueden tener acceso al archivo y buscar en él de la misma manera en que con sus buzones principales. La funcionalidad disponible depende del cliente en uso:
   
-- **Outlook 2016, Outlook 2013, Outlook 2010** y Outlook en la web Los usuarios tienen acceso a todas las características del archivo, así como a las características de cumplimiento relacionadas, como el control sobre las directivas de retención y archivo. 
+- **Outlook 2016, Outlook 2013, Outlook 2010 y Outlook en la Web** Los usuarios tienen acceso a todas las características del archivo, así como a las características de cumplimiento relacionadas, como el control sobre las directivas de retención y archivo. 
     
 - **Outlook 2007** Los usuarios tienen soporte básico para el archivo local, pero no todas las características de archivo y cumplimiento están disponibles. Por ejemplo, los usuarios no pueden aplicar directivas de retención o archivo a elementos del buzón, en cambio, deben confiar en las directivas provistas por el administrador. 
     
@@ -57,13 +57,13 @@ El uso de Exchange Online para el archivo basado en la nube de buzones de Exchan
   
 ## <a name="retention-tags-and-retention-policies"></a>Etiquetas de retención y directivas de retención
 
-Exchange Online ofrece directivas de retención para ayudar a las organizaciones a reducir las responsabilidades asociadas con el correo electrónico y otras comunicaciones. Con estas políticas, los administradores pueden aplicar configuración de retención a carpetas específicas de los buzones de los usuarios. Los administradores también pueden proporcionar a los usuarios un menú de directivas de retención y permitir que apliquen las directivas a elementos, conversaciones o carpetas específicos mediante Outlook 2010 o posterior o Outlook en la web.
+Exchange Online ofrece directivas de retención para ayudar a las organizaciones a reducir las responsabilidades asociadas con el correo electrónico y otras comunicaciones. Con estas políticas, los administradores pueden aplicar configuración de retención a carpetas específicas de los buzones de los usuarios. Los administradores también pueden proporcionar a los usuarios un menú de directivas de retención y permitir que apliquen las directivas a elementos, conversaciones o carpetas específicos mediante Outlook 2010 o posterior o Outlook en la Web.
   
 En Exchange Online, los administradores administran las directivas de retención mediante el Centro de administración de Exchange (EAC) o Windows PowerShell remoto.
   
 Exchange Online ofrece dos tipos de directivas: directivas de archivado y directivas de eliminación. Ambos tipos pueden combinarse en el mismo elemento o carpeta. Por ejemplo, un usuario puede marcar un mensaje de correo electrónico para que sea movido automáticamente al archivo local transcurrida una cantidad específica de días y eliminado después de otra cantidad de días.
   
-Con Outlook 2010 o posterior y Outlook en la web, los usuarios pueden aplicar directivas de retención a carpetas, conversaciones o mensajes individuales. También pueden ver las directivas de retención aplicadas y las fechas de eliminación esperadas en los mensajes. Los usuarios de otros clientes de correo electrónico solamente pueden eliminar o archivar mensajes según las directivas de retención del servidor configuradas por el administrador.
+Con Outlook 2010 o posterior y Outlook en la Web, los usuarios pueden aplicar directivas de retención a carpetas, conversaciones o mensajes individuales. También pueden ver las directivas de retención aplicadas y las fechas de eliminación esperadas en los mensajes. Los usuarios de otros clientes de correo electrónico solamente pueden eliminar o archivar mensajes según las directivas de retención del servidor configuradas por el administrador.
   
 Las capacidades de directivas de retención ofrecidas en Exchange Online son las mismas que las ofrecidas en Exchange Server 2010 Service Pack 2 RU4. Los administradores pueden usar Windows PowerShell remoto para migrar directivas de retención de entornos Exchange Server 2010 o posteriores locales a Exchange Online.
   
@@ -78,11 +78,11 @@ El cifrado de datos de clientes en reposo se proporciona mediante varias tecnolo
   
 ### <a name="bitlocker"></a>BitLocker
 
-Los servidores microsoft usan BitLocker para cifrar las unidades de disco que contienen datos del cliente en reposo en el nivel de volumen. BitLocker cifrado es una característica de protección de datos integrada en Windows. BitLocker es una de las tecnologías usadas para protegerse contra amenazas en caso de que haya lapsos en otros procesos o controles (por ejemplo, control de acceso o reciclaje de hardware) que podrían llevar a alguien a obtener acceso físico a discos que contienen datos de clientes. En este caso, BitLocker elimina la posibilidad de robo o exposición de datos debido a la pérdida, robo o retirada inadecuada de discos y equipos. 
+Los servidores de Microsoft usan BitLocker para cifrar las unidades de disco que contienen datos de clientes en reposo en el nivel de volumen. El cifrado de BitLocker es una característica de protección de datos integrada en Windows. BitLocker es una de las tecnologías usadas para protegerse contra amenazas en caso de que haya lapsos en otros procesos o controles (por ejemplo, control de acceso o reciclaje de hardware) que podrían llevar a alguien a obtener acceso físico a discos que contienen datos de clientes. En este caso, BitLocker elimina la posibilidad de robo o exposición de datos debido a equipos y discos perdidos, robados o desmantelados de forma inapropiada. 
   
 ### <a name="distributed-key-manager"></a>Administrador de claves distribuidas
 
-Además de BitLocker, usamos una tecnología denominada Distributed Key Manager (DKM). DKM es una funcionalidad del lado cliente que usa un conjunto de claves secretas para cifrar y descifrar información. Solo los miembros de un grupo de seguridad específico en Servicios de dominio de Active Directory pueden acceder a esas claves para descifrar los datos cifrados por DKM. En Exchange Online, solo determinadas cuentas de servicio bajo las cuales se ejecutan procesos de Exchange forman parte del grupo de seguridad. Como parte del procedimiento operativo estándar en el centro de datos, ningún humano tiene credenciales que forman parte de este grupo de seguridad y, por lo tanto, nadie tiene acceso a las claves que pueden descifrar la información confidencial.
+Además de BitLocker, usamos una tecnología denominada Administrador de claves distribuidas (DKM). DKM es una funcionalidad del lado cliente que usa un conjunto de claves secretas para cifrar y descifrar información. Solo los miembros de un grupo de seguridad específico en Servicios de dominio de Active Directory pueden acceder a esas claves para descifrar los datos cifrados por DKM. En Exchange Online, solo determinadas cuentas de servicio bajo las cuales se ejecutan procesos de Exchange forman parte del grupo de seguridad. Como parte del procedimiento operativo estándar en el centro de datos, ningún humano tiene credenciales que forman parte de este grupo de seguridad y, por lo tanto, nadie tiene acceso a las claves que pueden descifrar la información confidencial.
   
 ## <a name="customer-key"></a>Clave de cliente
 
@@ -192,7 +192,7 @@ Puede configurar directivas de DLP en la interfaz de administración del Centro 
     
 - Detectar datos confidenciales mediante las huellas digitales de documentos. Las huellas digitales de documentos ayudan a crear fácilmente tipos de información confidencial personalizada en función de formularios basados en texto que se pueden usar para definir las reglas de transporte y las directivas DLP.
     
-- Agregar directiva Sugerencias, que puede ayudar a reducir la pérdida de datos mostrando un aviso a los usuarios de Outlook 2016, Outlook 2013, Outlook en la web y OWA para dispositivos, y también puede mejorar la eficacia de las directivas al permitir informes falsos positivos. 
+- Agregar directiva Sugerencias, que puede ayudar a reducir la pérdida de datos mostrando un aviso a los usuarios de Outlook 2016, Outlook 2013, Outlook en la Web y OWA para dispositivos, y también puede mejorar la eficacia de las directivas al permitir informes falsos positivos. 
     
 - Revisar los datos de incidentes en informes de DLP o agregar sus propios informes específicos mediante una acción de generación de informes de incidentes.
     

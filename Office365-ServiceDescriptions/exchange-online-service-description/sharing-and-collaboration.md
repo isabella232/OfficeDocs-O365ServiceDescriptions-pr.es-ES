@@ -11,18 +11,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 862dab54-701f-4014-a594-0b71e03772d2
-ms.openlocfilehash: 1afee4f2868a8bf0f0a1662e2d70bd8de3f2043a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 25df0c4b4ff71ce8b3543cf7810bb0a4dd3c45fbe1037e1fd8bad4e586dd6292
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653302"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663643"
 ---
 # <a name="sharing-and-collaboration"></a>Uso compartido y colaboración
 
 ## <a name="federated-sharing"></a>Uso compartido federado
 
-La federación hace referencia a la infraestructura de confianza subyacente que admite el uso compartido federado, un método para que los usuarios de Microsoft Exchange Online compartan datos de calendario de disponibilidad e información de contacto con destinatarios de otras organizaciones federadas externas o con usuarios con acceso a Internet. Estas incluyen organizaciones que también están hospedadas por Exchange Online u organizaciones Exchange Server 2013 o Microsoft Exchange Server 2010 externas. Con las relaciones de la organización y las directivas de uso compartido, los administradores de Exchange Online pueden permitir a los usuarios enviar invitaciones de uso compartido de calendario de Microsoft Outlook en la web o Microsoft Outlook 2010 o posterior.
+La federación hace referencia a la infraestructura de confianza subyacente que admite el uso compartido federado, un método para que los usuarios de Microsoft Exchange Online compartan datos de calendario de disponibilidad e información de contacto con destinatarios de otras organizaciones federadas externas o con usuarios con acceso a Internet. Estas incluyen organizaciones que también están hospedadas por Exchange Online u organizaciones Exchange Server 2013 o Microsoft Exchange Server 2010 externas. Con las relaciones de la organización y las directivas de uso compartido, Exchange Online administradores pueden permitir a los usuarios enviar invitaciones de uso compartido de calendario desde Microsoft Outlook en la Web o Microsoft Outlook 2010 o posterior.
   
 > [!IMPORTANT]
 >  Las organizaciones externas con Exchange 2010 y Exchange 2013 deben configurar una confianza de federación con Microsoft Federation Gateway como parte de la configuración del uso compartido federado. Exchange Online las organizaciones no tienen que configurar una confianza de federación: la confianza de federación con el Microsoft Federation Gateway se crea automáticamente cuando se crea Microsoft 365 organización. 

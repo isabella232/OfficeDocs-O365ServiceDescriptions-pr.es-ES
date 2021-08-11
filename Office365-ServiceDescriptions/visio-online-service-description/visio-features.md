@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio para la web amplía la experiencia de Microsoft Visio al explorador, donde puede crear y editar diagramas guardados en la nube. Microsoft 365 clientes pueden ver, imprimir y compartir diagramas e insertar comentarios sobre la marcha.
-ms.openlocfilehash: 329909219647b4edc61495fd7deb70945d184af7
-ms.sourcegitcommit: b6c8ebe962cbabb93faab459e79b3f2d94191a9f
+ms.openlocfilehash: c4980675f64f02abae6d0f8e5ef2250a3d2327ab8b016a65cac30137d25558bd
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "53096351"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702239"
 ---
 # <a name="visio-features"></a>Visio Características
 
@@ -77,7 +77,7 @@ Office complementos están disponibles en Visio para escritorio pero aún no est
 
 No está disponible en Visio para la web. Office para la Web requiere una conexión a Internet y un explorador de Internet. Necesita la aplicación de escritorio Visio instalada en el equipo para ver y editar un diagrama mientras está desconectado de Internet o del servidor local de Office web Apps Server de su organización. Si tiene instalada la Visio de escritorio, puede usar la funcionalidad completa de Visio para ver y editar el diagrama sin conexión. Al guardar, el diagrama en línea se actualiza con los cambios. También puede descargar y guardar una copia sin conexión del diagrama, pero no estará sincronizada con la versión en línea. Para obtener más información Office Web Apps Server, consulte [Office Web Apps Server](/webappsserver/how-office-web-apps-work-on-premises-with-sharepoint-2013).
 
-## <a name="print-to-pdf"></a>Print to PDF
+## <a name="print-to-pdf"></a>Imprimir en PDF
 
 Puede imprimir en PDF o impresoras con Visio para la web.
 

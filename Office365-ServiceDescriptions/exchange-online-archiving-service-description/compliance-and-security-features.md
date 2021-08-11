@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 description: Lea este artículo para obtener información sobre las características de cumplimiento disponibles en Microsoft Exchange Online archivado.
-ms.openlocfilehash: 0d424823116dd670c81628eaf85d1d553fdb5b8e
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: a85ac5ec69905ca30b00871fa72110df87720588d2599e8afdf9da00f1044dc9
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653092"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664602"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Características de cumplimiento y seguridad en Archivado de Exchange Online
 
@@ -27,11 +27,11 @@ En este artículo se describen las características de cumplimiento de Microsoft
   
 ### <a name="retention-policies"></a>Directivas de retención
 
-Archivado de Exchange Online ofrece directivas de retención para ayudar a las organizaciones a reducir las responsabilidades asociadas con el correo electrónico y otras comunicaciones. Con estas directivas, los administradores pueden aplicar la configuración de retención a carpetas específicas de los buzones de los usuarios. Los administradores también pueden proporcionar a los usuarios un menú de directivas de retención y permitir que apliquen las directivas a elementos, conversaciones o carpetas específicos mediante Outlook 2010 o posterior o Outlook en la web. En Archivado de Exchange Online, los administradores administran políticas de retención desde la infraestructura local.
+Archivado de Exchange Online ofrece directivas de retención para ayudar a las organizaciones a reducir las responsabilidades asociadas con el correo electrónico y otras comunicaciones. Con estas directivas, los administradores pueden aplicar la configuración de retención a carpetas específicas de los buzones de los usuarios. Los administradores también pueden proporcionar a los usuarios un menú de directivas de retención y permitir que apliquen las directivas a elementos, conversaciones o carpetas específicos mediante Outlook 2010 o posterior o Outlook en la Web. En Archivado de Exchange Online, los administradores administran políticas de retención desde la infraestructura local.
   
 Archivado de Exchange Online ofrece dos tipos de directivas: de archivado y de eliminación. Ambos tipos se pueden aplicar en el mismo elemento o carpeta. Por ejemplo, un usuario puede etiquetar un mensaje de correo electrónico para que se transfiera automáticamente a su archivo personal al transcurrir un cierto número de días y se elimine el momento especificado.
   
-Con Outlook 2010 y versiones posteriores y Outlook en la web, los usuarios pueden aplicar directivas de retención a carpetas, conversaciones o mensajes individuales y también pueden ver las directivas de retención aplicadas y las fechas de eliminación esperadas en los mensajes. Los usuarios de otros clientes de correo electrónico pueden eliminar o archivar los mensajes conforme a las directivas de retención que les suministren los administradores, aunque no disfrutarán del mismo grado de visibilidad y control.
+Con Outlook 2010 y versiones posteriores y Outlook en la Web, los usuarios pueden aplicar directivas de retención a carpetas, conversaciones o mensajes individuales y también pueden ver las directivas de retención aplicadas y las fechas de eliminación esperadas en los mensajes. Los usuarios de otros clientes de correo electrónico pueden eliminar o archivar los mensajes conforme a las directivas de retención que les suministren los administradores, aunque no disfrutarán del mismo grado de visibilidad y control.
   
 Las capacidades de directivas de retención que se ofrecen en Archivado de Exchange Online son las mismas que se ofrecen en Exchange Server 2010 Service Pack 2 (SP2) y versiones posteriores. Los administradores pueden administrar las directivas de retención desde Exchange Server 2010 local y entornos posteriores. Las carpetas administradas, un enfoque anterior para la administración de registros de mensajería introducido en Exchange 2007, no están disponibles y no son compatibles con el Archivado de Exchange Online. Para obtener más información, vea [Etiquetas de retención y directivas de retención](/Exchange/policy-and-compliance/mrm/retention-tags-and-retention-policies).
   
@@ -95,7 +95,7 @@ Se utiliza TLS para cifrar la conexión entre servidores de correo electrónico 
 
 Las conexiones cliente a Archivado de Exchange Online utilizan los siguientes métodos de cifrado para mejorar la seguridad:
   
-- SSL se usa para proteger Outlook, Outlook en la web y para Exchange de servicios web mediante el puerto TCP 443.
+- SSL se usa para proteger Outlook, Outlook en la Web y Exchange de servicios web mediante el puerto TCP 443.
     
 - Las conexiones cliente a los servidores locales no cambian con la presentación de Archivado de Exchange Online.
     
@@ -109,13 +109,13 @@ De manera similar, Archivado de Exchange Online almacenará mensajes cifrados us
 
 Archivado de Exchange Online no proporciona servicios de Information Rights Management (IRM) hospedados, pero los administradores pueden usar Active Directory Rights Management Services (AD RMS) locales. Si se implementa un servidor AD RMS, Outlook puede comunicarse directamente con ese servidor, lo que permite a los usuarios redactar y leer mensajes protegidos por IRM. Si se configura la interoperabilidad entre el servidor AD RMS y el entorno Exchange local, los usuarios podrán redactar y leer mensajes protegidos por IRM.
   
-#### <a name="support-for-irm-in-outlook-on-the-web"></a>Compatibilidad con IRM en Outlook en la web
+#### <a name="support-for-irm-in-outlook-on-the-web"></a>Compatibilidad con IRM en Outlook en la Web
 
-Los usuarios pueden leer y crear mensajes protegidos con IRM de forma nativa en Outlook en la web, tal como pueden en Outlook. Los mensajes protegidos con IRM Outlook en la web se pueden obtener acceso a través de Internet Explorer, Firefox, Safari y Chrome (sin necesidad de complemento). Los mensajes incluyen la búsqueda de texto completo, la vista de conversaciones y el panel de vista previa. La interoperabilidad entre el servidor de Servicios de administración de Active Directory y el entorno Exchange local se debe configurar para habilitar esta posibilidad.
+Los usuarios pueden leer y crear mensajes protegidos con IRM de forma nativa en Outlook en la Web, del mismo modo que en Outlook. Los mensajes protegidos con IRM en Outlook en la Web pueden tener acceso a través de Internet Explorer, Firefox, Safari y Chrome (sin necesidad de complemento). Los mensajes incluyen la búsqueda de texto completo, la vista de conversaciones y el panel de vista previa. La interoperabilidad entre el servidor de Servicios de administración de Active Directory y el entorno Exchange local se debe configurar para habilitar esta posibilidad.
   
 #### <a name="irm-search"></a>Búsqueda de IRM
 
-Los mensajes protegidos con IRM están indizados y permiten realizar búsquedas, incluidos los encabezados, el asunto y los datos adjuntos. Los usuarios pueden buscar elementos protegidos por IRM en Outlook y Outlook en la web, y los administradores pueden buscar elementos protegidos con IRM mediante In-Place exhibición de documentos electrónicos o el cmdlet **Search-Mailbox.**
+Los mensajes protegidos con IRM están indizados y permiten realizar búsquedas, incluidos los encabezados, el asunto y los datos adjuntos. Los usuarios pueden buscar elementos protegidos por IRM en Outlook y Outlook en la Web, y los administradores pueden buscar elementos protegidos por IRM mediante In-Place exhibición de documentos electrónicos o el cmdlet **Search-Mailbox.**
   
 ### <a name="auditing"></a>Auditoría
 

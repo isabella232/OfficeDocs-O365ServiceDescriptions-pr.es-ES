@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general Microsoft 365 administración y se describen las opciones de compra.
-ms.openlocfilehash: 3dae61b362f63126b8d93589e88ccba9cb57502f
-ms.sourcegitcommit: c061620e1ccabec8ee97d49f25d575cde54fbc9b
+ms.openlocfilehash: 29138c4cd9f572c1281ccb338ee034812365909ffd861c66609de03ea3a2b8f4
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/30/2021
-ms.locfileid: "53661638"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701909"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Gobierno: cómo comprar
 
@@ -104,7 +104,7 @@ Para obtener más información sobre los servicios disponibles en Microsoft 365 
 
 En la tabla siguiente se muestran las opciones que pueden satisfacer las necesidades de cada segmento.<br><br> 
 
-| Elemento | GCC | GCC High | DoD |
+| Item | GCC | GCC High | DoD |
 |:-----|:-----|:-----|:-----|
 |**SKU** |Gov for government, GOVCON for commercial |GCC-High |DOD | 
 |**Canal** |EA (LSP), AOS-G, MPSA, Web Direct, CSP |EA (LSP), AOS-G |EA |

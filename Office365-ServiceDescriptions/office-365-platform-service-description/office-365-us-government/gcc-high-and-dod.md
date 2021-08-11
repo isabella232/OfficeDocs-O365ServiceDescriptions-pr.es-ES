@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Obtenga información sobre los compromisos y diferencias únicos de los entornos Office 365 GCC High y DoD en comparación con el entorno Office 365 comercial.
-ms.openlocfilehash: 5446d5d1e6e10649a75f001c92f0d970e2fae842
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b7e3934f20d5d7c489391fac99f5c323b7f553040d4d52ff4df1826e5cb3d830
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653462"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664413"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High y DoD
 
@@ -83,7 +83,7 @@ Los usuarios tienen varias opciones para compartir archivos y carpetas en ShareP
 - [Sistema telefónico a través del enrutamiento directo](/microsoftteams/here-s-what-you-get-with-phone-system)
 - [Audioconferencia con enrutamiento directo para GCC High y DoD](/microsoftteams/audio-conferencing-with-direct-routing-for-gcch-and-dod)
 
-### <a name="identity"></a>Identity
+### <a name="identity"></a>Identidad
 
 Multi-Factor Authentication con un modelo de identidad federado permite el uso de tarjetas PIV y CAC.
   

@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para Microsoft 365 y planes independientes.
-ms.openlocfilehash: 44571cedf74b2a094231173b87731916d9e26975
-ms.sourcegitcommit: 10699cc17ddfed6af78ce1466f478b2bd67ba26a
+ms.openlocfilehash: 5dd9a0d414c5b5ddaac1d92254b73660fab0ac4725dbe656868df8889faa674d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "53338343"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702609"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -34,7 +34,7 @@ Obtenga información sobre los límites de servicio en SharePoint para Microsoft
 <br/><sup>2</sup> Se recomienda supervisar la Papelera de reciclaje y vaciarla periódicamente. El espacio de almacenamiento que se utiliza es parte del límite de almacenamiento total de la organización. 
 <br/> <sup>3</sup> Si tiene una suscripción a Microsoft 365 y un complemento de Office 365 Extra File Storage, se agregan las cantidades de almacenamiento. 
 <br/> <sup>4</sup> Este es el *límite* de almacenamiento para un único sitio (anteriormente denominado "colección de sitios"), no la cantidad de almacenamiento *proporcionada* para cada sitio. Este límite se aplica a todos los tipos de sitios, incluidos los sitios de grupo conectados a grupos de Office 365 y OneDrive. Los administradores de SharePoint pueden [establecer manualmente límites de almacenamiento inferiores](/sharepoint/manage-site-collection-storage-limits#manage-individual-site-storage-limits). 
-<br/> <sup>5</sup> Los trabajadores de primera línea no pueden administrar sitios de SharePoint. 
+<br/> <sup>5</sup> Los trabajadores de frontline no pueden administrar SharePoint web. 
 <br/> <sup>6</sup> No se incluyen los OneDrive creados para cada usuario con licencia. 
 <br/> <sup>7</sup> Si tiene más de 500 000 usuarios, póngase en contacto con un representante de Microsoft. 
   

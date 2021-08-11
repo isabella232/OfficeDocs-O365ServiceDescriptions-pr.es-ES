@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Obtenga información sobre las diferencias entre los Microsoft 365 y Office 365 Educación planes.
-ms.openlocfilehash: 89e5eedf56e0f2240c2e5de05f6e60e167b2b453
-ms.sourcegitcommit: 7dad7e52d0796bd59f45c168efce81839fbe6d96
+ms.openlocfilehash: c5bd3717da582fa2483f423b6519c72641143ad0a320c3e5697aed0c5eb1dbc8
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 07/03/2021
-ms.locfileid: "53290850"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663003"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Educación
 
@@ -70,7 +70,7 @@ Cada Microsoft 365 Educación plan incluye una serie de servicios individuales, 
 |Office 365 Administración de derechos|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Plan 1 de Azure Information Protection|No|No|No|Sí|No|No|No|No|No|
 |Azure Information Protection Plan 2|No|No|No|No|Sí|No|No|No|No|
-|Retención por juicio|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
+|Retención por litigio|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Búsqueda de contenido|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Exhibición de documentos electrónicos principal (incluida la retención y exportación)|No|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |eDiscovery avanzado|No|No|Sí|No|Sí|No|No|No|No|

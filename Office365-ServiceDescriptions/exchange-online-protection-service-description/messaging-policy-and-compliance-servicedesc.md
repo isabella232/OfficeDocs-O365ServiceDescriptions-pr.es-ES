@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Lea este artículo para obtener información sobre las características de cumplimiento y directiva de mensajería en Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 81228b13036e831df630cca6f27b4ad285705f29
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653352"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664113"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Directiva de mensajería y cumplimiento en Exchange Online Protection
 
@@ -51,7 +51,7 @@ Puede configurar directivas de DLP en el EAC, lo que le permite:
 
 - Detectar datos confidenciales mediante las huellas digitales de documentos. La huella digital de documentos le ayuda a crear fácilmente tipos de información confidencial personalizados basados en formularios basados en texto que puede usar para definir reglas de flujo de correo y directivas DLP.
 
-- Agregar directiva Sugerencias, que puede ayudar a reducir la pérdida de datos mostrando un aviso a los usuarios de Outlook 2013, Outlook en la web y OWA para dispositivos, y también puede mejorar la eficacia de las directivas al permitir informes falsos positivos.
+- Agregar directiva Sugerencias, que puede ayudar a reducir la pérdida de datos mostrando un aviso a los usuarios de Outlook 2013, Outlook en la Web y OWA para dispositivos, y también puede mejorar la eficacia de las directivas al permitir informes falsos positivos.
 
 - Revisar los datos de incidentes en informes de DLP o agregar sus propios informes específicos mediante una acción de generación de informes de incidentes.
 

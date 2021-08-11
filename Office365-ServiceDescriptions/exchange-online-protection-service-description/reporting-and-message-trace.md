@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9263f99-5921-44fd-bb4c-0d487b59a656
 description: Lea este artículo para obtener información sobre informes y seguimiento de mensajes en Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: 383c222563e76d4a5613c9faac5b68417fa64b8a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 8b593faea343d742c2f57ce430457e1803ba75b5a135d46f338eaed0e76d2ca6
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653132"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664093"
 ---
 # <a name="reporting-and-message-trace-in-exchange-online-protection"></a>Informes y seguimiento de mensajes en Exchange Online Protection
 
-Microsoft Exchange Online Protection (EOP) ofrece muchos informes distintos que le permitirán averiguar el estado general y el mantenimiento de la organización. Algunos informes están disponibles en el centro Microsoft 365 administración, mientras que otros están disponibles en el Centro Exchange administración (EAC).
+Microsoft Exchange Online Protection (EOP) ofrece muchos informes distintos que le permitirán averiguar el estado general y el mantenimiento de la organización. Algunos informes están disponibles en el Centro de administración de Microsoft 365, mientras que otros están disponibles en el Centro Exchange administración (EAC).
 
 ¿Busca información sobre todas las características de EOP? Vea la [Exchange Online Protection descripción del servicio .](exchange-online-protection-service-description.md)
 
-## <a name="microsoft-365-admin-center-reports"></a>Informes del Centro de administración de Microsoft 365
+## <a name="microsoft-365-admin-center-reports"></a>Informes del Centro de administración de Microsoft 365
 
-La página Informes del Centro de administración de Microsoft 365 proporciona información sobre el tráfico de mensajes, las detecciones de correo no deseado y malware y los mensajes afectados por las reglas de flujo de correo (también conocidas como reglas de transporte) o las directivas de prevención de pérdida de datos (DLP). Los informes mejorados para protección, reglas y DLP ofrecen una experiencia interactiva de informes para los administradores de EOP. Estos informes proporcionan datos de resumen y la capacidad de rastrear desagrupando datos en detalles sobre mensajes individuales.
+La página Informes de la Centro de administración de Microsoft 365 proporciona información sobre el tráfico de mensajes, las detecciones de correo no deseado y malware y los mensajes afectados por las reglas de flujo de correo (también conocidas como reglas de transporte) o las directivas de prevención de pérdida de datos (DLP). Los informes mejorados para protección, reglas y DLP ofrecen una experiencia interactiva de informes para los administradores de EOP. Estos informes proporcionan datos de resumen y la capacidad de rastrear desagrupando datos en detalles sobre mensajes individuales.
 
 Para obtener información más detallada acerca de estos informes, vea Usar informes de protección de correo para ver datos sobre malware, correo no deseado [y detecciones de reglas.](/exchange/monitoring/use-mail-protection-reports)
 

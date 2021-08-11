@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: b9448f39-5e8a-48a4-80bc-b12b6fb72544
 description: En este artículo se describen las interfaces de administración que están disponibles para Microsoft Exchange Online de protección contra Microsoft Exchange Online (EOP).
-ms.openlocfilehash: f4b1aa1e9345740528763ff45a3fc99858fbd71a
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 19c0c535e642d6f5d83d9ae69b04ee364c6f7716facbedd18677f3c3702c1554
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653072"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664573"
 ---
 # <a name="administration-and-management-in-exchange-online-protection"></a>Administración y administración en Exchange Online Protection
 
@@ -25,9 +25,9 @@ En este artículo se describen las interfaces de administración que están disp
   
 ¿Busca información sobre todas las características de EOP? Vea la [Exchange Online Protection descripción del servicio .](exchange-online-protection-service-description.md)
   
-## <a name="access-to-the-microsoft-365-admin-center"></a>Acceso al Centro Microsoft 365 administración
+## <a name="access-to-the-microsoft-365-admin-center"></a>Acceso a la Centro de administración de Microsoft 365
 
-El Microsoft 365 de administración de Microsoft 365 es el portal web desde el que el administrador de servicios de cada empresa puede administrar las cuentas de usuario y la configuración de cada una de las servicios Microsoft a las que se suscriban. Desde el centro Microsoft 365 administración, los administradores pueden seguir vínculos al EAC, donde pueden administrar la configuración específica de EOP.
+El Centro de administración de Microsoft 365 es el portal web desde el que el administrador de servicios de cada empresa puede administrar las cuentas de usuario y la configuración de cada una de las servicios Microsoft a la que se suscriben. Desde dentro del Centro de administración de Microsoft 365, los administradores pueden seguir vínculos al EAC, donde pueden administrar la configuración específica de EOP.
   
 ## <a name="access-to-the-exchange-admin-center"></a>Acceso al Centro de administración de Exchange
 

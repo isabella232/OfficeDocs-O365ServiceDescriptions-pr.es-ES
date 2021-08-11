@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: normal
 ms.custom: Adm_ServiceDesc
 description: Características, distribuciones, privacidad y requisitos previos de MyAnalytics
-ms.openlocfilehash: a63528b3cf3da8328380bbfd309675e49f099fab
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: eaf1d962afd24b92eecb952f4d5e58204d981c691ffce7170d71527936591245
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652604"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663093"
 ---
 # <a name="myanalytics-service-description"></a>Descripción del servicio MyAnalytics
 
@@ -42,7 +42,7 @@ MyAnalytics consta de los siguientes elementos:
 Al cumplir las siguientes directrices, MyAnalytics protege la privacidad de los empleados y admite el cumplimiento de las normativas locales:
 
 * MyAnalytics no está diseñado para permitir la evaluación, el seguimiento, la toma de decisiones, la generación de perfiles o el monitoreo automatizado de los empleados.
-* MyAnalytics no proporciona a los empleados acceso a nueva información de identificación personal de otros compañeros de trabajo.
+* MyAnalytics no concede a los empleados acceso a nueva información de identificación personal sobre otros compañeros de trabajo.
 * Los datos de MyAnalytics se procesan y almacenan en el buzón de Exchange Online del empleado.
 * MyAnalytics admite el cumplimiento del Reglamento general de protección de datos (RGPD).
 * MyAnalytics puede configurarse para que las personas deban optar de forma intencionada por participar.

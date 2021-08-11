@@ -13,25 +13,25 @@ ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
-description: Excel web (anteriormente Excel Web App) amplía la experiencia de Microsoft Excel al explorador web, donde puede trabajar con libros directamente en el sitio web donde se almacena el libro. Todos los clientes pueden ver y editar ligeramente Office archivos con Office para la web.
-ms.openlocfilehash: 208ae8703441a2544eeac4549f52597ced1e4259
-ms.sourcegitcommit: b1b852bcef2c7ae0bdce8ca4ae5d3eafe9b454b3
+description: Excel para la Web (anteriormente Excel Web App) amplía la experiencia de Microsoft Excel al explorador web, donde puede trabajar con libros directamente en el sitio web donde se almacena el libro. Todos los clientes pueden ver y editar ligeramente Office archivos mediante Office para la Web.
+ms.openlocfilehash: fcb8211f8f37a6ce5b96ba2788ac72ebbd74c82b7dd857e58611547342670779
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/28/2021
-ms.locfileid: "52699076"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702019"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 
-Excel web (anteriormente Excel Web App) amplía la experiencia de Microsoft Excel al explorador web, donde puede trabajar con libros directamente en el sitio web donde se almacena el libro. Todos los clientes pueden ver y editar ligeramente Office archivos con Office para la web.
+Excel para la Web (anteriormente Excel Web App) amplía la experiencia de Microsoft Excel al explorador web, donde puede trabajar con libros directamente en el sitio web donde se almacena el libro. Todos los clientes pueden ver y editar ligeramente Office archivos mediante Office para la Web.
   
 > [!NOTE]
-> Los libros que superen los 50 megabytes (MB) no se pueden ver en Excel para la web desde dentro de Microsoft Office SharePoint Online. Para ver archivos de mayor tamaño, debe tener la aplicación de escritorio de Excel instalada en el equipo. 
+> Los libros que superen los 50 megabytes (MB) no se pueden ver en Excel para la Web desde dentro de Microsoft Office SharePoint Online. Para ver archivos de mayor tamaño, debe tener la aplicación de escritorio de Excel instalada en el equipo. 
 
 > [!NOTE]
-> Para ayudarle a comparar ofertas, las características avanzadas que se enumeran en este artículo incluyen funcionalidades de aplicaciones de escritorio de Excel que solo están disponibles en el conjunto de aplicaciones de Office (como Office Profesional Plus, Office Standard o Aplicaciones Microsoft 365 para empresas). Para obtener una lista de todas las Office para las características web, como Word para la web y PowerPoint para la web, vea [Feature availability across Office for the web plans](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
+> Para ayudarle a comparar ofertas, las características avanzadas que se enumeran en este artículo incluyen funcionalidades de aplicaciones de escritorio de Excel que solo están disponibles en el conjunto de aplicaciones de Office (como Office Profesional Plus, Office Standard o Aplicaciones Microsoft 365 para empresas). Para obtener una lista de todas Office para la Web características, como Word para la Web y PowerPoint para la Web, vea [Feature availability across Office para la Web plans](office-online-service-description.md#feature-availability-across-office-for-the-web-plans).
 
-Para ver qué tipo de archivo es compatible con Excel para la web, vea [Supported file types for Office for the web](office-online-service-description.md#supported-file-types-for-office-for-the-web). Para obtener más información sobre las diferencias entre Excel para la web y la aplicación de escritorio de Excel, vea [Diferencias](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6)entre el uso de un libro en el explorador y en Excel .
+Para ver qué tipo de archivo es compatible con Excel para la Web, vea [Supported file types for Office para la Web](office-online-service-description.md#supported-file-types-for-office-for-the-web). Para obtener más información sobre las diferencias entre Excel para la Web y la aplicación de escritorio Excel, vea Diferencias entre usar un libro en el explorador y [en Excel](https://support.office.com/article/f0dc28ed-b85d-4e1d-be6d-5878005db3b6).
   
 ## <a name="add-background-color-to-sheet-tabs"></a>Agregar color de fondo a pestañas de hoja 
 
@@ -55,19 +55,19 @@ Utilice los botones de alineación ubicados en la ficha Inicio para cambiar la a
   
 ## <a name="apply-conditional-formatting"></a>Aplicar formato condicional
 
-Use un formato condicional para explorar visualmente y analizar datos, detectar problemas críticos e identificar patrones y tendencias. Obtenga más información sobre cómo [usar el formato condicional en Excel para la web](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?).
+Use un formato condicional para explorar visualmente y analizar datos, detectar problemas críticos e identificar patrones y tendencias. Obtenga más información sobre cómo [usar el formato condicional en Excel para la Web](https://support.microsoft.com/office/use-conditional-formatting-to-highlight-information-fed60dfa-1d3f-4e13-9ecb-f1951ff89d7f?).
   
 ## <a name="apply-data-validation-to-cells"></a>Apply data validation to cells
 
-Esta característica está disponible en Excel para la web. Otras características avanzadas solo están disponibles en la Excel de escritorio.
+Esta característica está disponible en Excel para la Web. Otras características avanzadas solo están disponibles en la Excel de escritorio.
   
 ## <a name="apply-smartrecommended-formatting"></a>Apply smart/recommended formatting
 
-No está disponible en Excel para la web. En la Excel de escritorio, los gráficos recomendados te permiten elegir entre una variedad de gráficos que son los más recomendados para presentar los datos. Obtenga más información [sobre cómo usar recomendaciones de gráfico en Excel](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0).
+No disponible en Excel para la Web. En la Excel de escritorio, los gráficos recomendados te permiten elegir entre una variedad de gráficos que son los más recomendados para presentar los datos. Obtenga más información [sobre cómo usar recomendaciones de gráfico en Excel](https://support.office.com/article/cd131b77-79c7-4537-a438-8db20cea84c0).
   
 ## <a name="autocomplete"></a>Autocompletar
 
-Excel para la web puede completar lo que escribe en una celda y, si hay más de un valor posible, mostrarlos todos en una lista de la que puede elegir.
+Excel para la Web puede completar lo que escribe en una celda y, si hay más de un valor posible, mostrarlos todos en una lista de la que puede elegir.
   
 ## <a name="autosum"></a>AutoSum
 
@@ -94,7 +94,7 @@ Para comprobar la ortografía de cualquier texto de la hoja de cálculo, **selec
 
 ## <a name="comment-creation"></a>Comment creation
 
-Puede insertar, editar y eliminar comentarios en Excel para la web. También puede resolver un subproceso de comentario, que lo cierra a las ediciones y a los nuevos comentarios, pero lo deja en su lugar. Esto le permite volver a abrir el subproceso a los comentarios si es necesario. [Use @mentions en sus comentarios para](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online) enviar correo electrónico a la persona a la que menciona. Obtenga más información sobre cómo [agregar un comentario en Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
+Puede insertar, editar y eliminar comentarios en Excel para la Web. También puede resolver un subproceso de comentario, que lo cierra a las ediciones y a los nuevos comentarios, pero lo deja en su lugar. Esto le permite volver a abrir el subproceso a los comentarios si es necesario. [Use @mentions en sus comentarios para](https://support.office.com/article/644bf689-31a0-4977-a4fb-afe01820c1fd?ad=US#ID0EAADAAA=Online) enviar correo electrónico a la persona a la que menciona. Obtenga más información sobre cómo [agregar un comentario en Excel](https://go.microsoft.com/fwlink/p/?LinkId=271670).
 
 ## <a name="convert-a-table-to-a-range"></a>Convertir una tabla en un intervalo
 
@@ -102,11 +102,11 @@ Después de crear una Excel tabla, es posible que solo desee el estilo de tabla 
   
 ## <a name="copy-and-paste"></a>Copy and paste
 
-Puede cortar, copiar y pegar texto, hipervínculos, números, fórmulas, formas, gráficos e imágenes. Si tiene datos en columnas que necesita girar para reorganizar las filas, use la característica **Transponer** en el **menú** Pegar. Obtenga más información [sobre cómo copiar y pegar en Excel para la web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline). Con Edge o Chrome como explorador, puedes copiar hipervínculos de otras aplicaciones y pegarlos en Excel para la web. Los hipervínculos pegados funcionarán normalmente.
+Puede cortar, copiar y pegar texto, hipervínculos, números, fórmulas, formas, gráficos e imágenes. Si tiene datos en columnas que necesita girar para reorganizar las filas, use la característica **Transponer** en el **menú** Pegar. Obtenga más información [sobre cómo copiar y pegar en Excel para la Web](https://support.office.com/article/682704da-8360-464c-9a26-ff44abf4c4fe#bmk-excelonline). Con Edge o Chrome como explorador, puedes copiar hipervínculos de otras aplicaciones y pegarlos en Excel para la Web. Los hipervínculos pegados funcionarán normalmente.
   
 ## <a name="create-external-data-connections"></a>Create external data connections
 
-Puede usar Excel web para ver las conexiones de datos, pero no puede crear conexiones de datos externos mediante Excel para la web. Necesitarás la aplicación Excel escritorio para trabajar con datos externos.
+Puede usar Excel para la Web para ver las conexiones de datos, pero no puede crear conexiones de datos externos mediante Excel para la Web. Necesitarás la aplicación Excel escritorio para trabajar con datos externos.
   
 ## <a name="create-tables"></a>Crear tablas
 
@@ -114,7 +114,7 @@ Cree una tabla para organizar y analizar los datos relacionados. Las tablas perm
   
 ## <a name="creation-of-advanced-analysis-views-power-view-power-pivot-slicers"></a>Crear vistas de análisis avanzadas (Power View, Power Pivot, Segmentaciones de datos)
 
-Las vistas de análisis avanzadas, como Power Pivot y Power View, solo están disponibles en la aplicación de escritorio de Excel. Estas características no se admiten en Excel para la web. Obtenga más información sobre [PowerPivot](https://go.microsoft.com/fwlink/p/?LinkId=271671).
+Las vistas de análisis avanzadas, como Power Pivot y Power View, solo están disponibles en la aplicación de escritorio de Excel. Estas características no se admiten en Excel para la Web. Obtenga más información sobre [PowerPivot](https://go.microsoft.com/fwlink/p/?LinkId=271671).
   
 ## <a name="data-validation"></a>Validación de datos
 
@@ -122,7 +122,7 @@ Puede usar la validación de datos para restringir el tipo de datos o los valore
   
 ## <a name="drag-and-drop-cells"></a>Drag and drop cells
 
-Puede mover el valor de la celda Excel para la web arrastrando y colocando celdas de un lugar a otro.
+Puede mover el valor de celda en Excel para la Web arrastrando y colocando celdas de un lugar a otro.
 
 ## <a name="draw-cell-borders"></a>Dibujar bordes de celda
 
@@ -134,7 +134,7 @@ Dropbox es un servicio de hospedaje de archivos que ofrece almacenamiento en la 
   
 ## <a name="duplicate-copy-worksheets"></a>Hojas de cálculo duplicadas (copia)
 
-Puede duplicar (o copiar) hojas de cálculo dentro de un libro o en otro libro Excel para la web. Obtenga más información [sobre cómo copiar hojas de cálculo en Excel para la web](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web).
+Puede duplicar (o copiar) hojas de cálculo dentro de un libro o en otro libro en Excel para la Web. Obtenga más información [sobre cómo copiar hojas de cálculo en Excel para la Web](https://support.office.com/article/47207967-bbb2-4e95-9b5c-3c174aa69328#ID0EAACAAA=Web).
 
 ## <a name="embed-workbook-on-web-or-blog-page-onedrive"></a>Insertar libro en la web o página de blog (OneDrive)
 
@@ -142,7 +142,7 @@ Si almacena un libro de Excel en OneDrive.com, puede insertarlo directamente en 
   
 ## <a name="external-references-links"></a>Referencias externas (vínculos)
 
-Una referencia externa (también denominada vínculo) es una referencia a una celda o un rango en una hoja de cálculo en otro libro de Excel o una referencia a un nombre definido en otro libro. Puede usar Excel web para ver referencias externas, pero no puede crearlas mediante Excel para la web. Necesitarás la aplicación de escritorio Excel para crear o actualizar referencias externas. 
+Una referencia externa (también denominada vínculo) es una referencia a una celda o un rango en una hoja de cálculo en otro libro de Excel o una referencia a un nombre definido en otro libro. Puede usar Excel para la Web para ver referencias externas, pero no puede crearlas mediante Excel para la Web. Necesitarás la aplicación de escritorio Excel para crear o actualizar referencias externas. 
   
 ## <a name="fill-handle"></a>Controlador de relleno
 
@@ -158,15 +158,15 @@ Personalice los datos para darles la apariencia exacta que desea. Elija de una v
   
 ## <a name="formula-bar"></a>Formula bar
 
-Consulte las fórmulas detrás de los resultados de una celda en la barra de fórmulas. Puede agregar, cambiar y eliminar partes de su fórmula en el explorador de la misma forma en que lo haría en la aplicación de escritorio de Excel. Excel para la web resalta los argumentos de la fórmula con colores que proporcionan una asignación visual entre la fórmula y los datos de la hoja de cálculo.
+Consulte las fórmulas detrás de los resultados de una celda en la barra de fórmulas. Puede agregar, cambiar y eliminar partes de su fórmula en el explorador de la misma forma en que lo haría en la aplicación de escritorio de Excel. Excel para la Web resalta los argumentos de la fórmula con colores que proporcionan una asignación visual entre la fórmula y los datos de la hoja de cálculo.
   
 ## <a name="formula-tools-advanced"></a>Herramientas de fórmulas, avanzadas
 
-Microsoft Excel aplicación de escritorio proporciona las herramientas de fórmula más avanzadas, como el estilo de referencia 3D. Excel web admite un número creciente de fórmulas Excel avanzadas, como las fórmulas de [matriz dinámicas.](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531) Obtenga más información sobre [fórmulas](https://support.microsoft.com/office/ecfdc708-9162-49e8-b993-c311f47ca173).
+Microsoft Excel aplicación de escritorio proporciona las herramientas de fórmula más avanzadas, como el estilo de referencia 3D. Excel para la Web admite un número creciente de fórmulas Excel avanzadas, como las fórmulas de [matriz dinámica.](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531) Obtenga más información sobre [fórmulas](https://support.microsoft.com/office/ecfdc708-9162-49e8-b993-c311f47ca173).
   
 ## <a name="freeze-panes"></a>Freeze panes
 
-La característica inmovilizar paneles está disponible en la Excel para la cinta de opciones web. Obtenga más información [sobre cómo funcionan los paneles](https://go.microsoft.com/fwlink/p/?LinkId=282331) de inmovilización en Excel y vea [sugerencias para Excel para la web](https://go.microsoft.com/fwlink/?linkid=869873).
+La característica inmovilizar paneles está disponible en la cinta Excel para la Web opciones. Obtenga más información [sobre cómo funcionan los paneles](https://go.microsoft.com/fwlink/p/?LinkId=282331) de inmovilización en Excel y vea [sugerencias para Excel para la Web](https://go.microsoft.com/fwlink/?linkid=869873).
   
 ## <a name="full-fidelity-reading-view"></a>Vista de lectura de total fidelidad
 
@@ -174,19 +174,19 @@ Cualquier elemento que pueda ver en un libro en Vista de edición, también pued
   
 ## <a name="functions"></a>Funciones
 
-Puede usar la mayoría de las más de 400 funciones de hoja de cálculo de Excel en fórmulas de Excel para la web, incluidas las funciones usadas en fórmulas de matriz [dinámicas,](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)como la [función FILTER](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759).
+Puede usar la mayoría de las más de 400 funciones de hoja de cálculo Excel en fórmulas de Excel para la Web, incluidas las funciones usadas en fórmulas de matriz [dinámicas,](https://support.microsoft.com/office/dynamic-array-formulas-and-spilled-array-behavior-205c6b06-03ba-4151-89a1-87a7eb36e531)como la [función FILTER](https://support.office.com/article/filter-function-f4f7cb66-82eb-4767-8f7c-4877ad80c759).
   
 ## <a name="goto"></a>GoTo
 
-Navegue rápidamente por la hoja de cálculo con la característica Ir a. Escriba una referencia de celda y salte hasta esa ubicación en la hoja de cálculo. Obtenga más información [sobre los métodos abreviados de teclado Excel para la web](https://go.microsoft.com/fwlink/p/?LinkID=272943).
+Navegue rápidamente por la hoja de cálculo con la característica Ir a. Escriba una referencia de celda y salte hasta esa ubicación en la hoja de cálculo. Obtenga más información [sobre los métodos abreviados de teclado en Excel para la Web](https://go.microsoft.com/fwlink/p/?LinkID=272943).
  
 ## <a name="group-data"></a>Datos de grupo
 
-Puede agrupar o esquematear filas y columnas en el Excel para la hoja de cálculo web. Los métodos abreviados de teclado hacen que sea fácil expandir o contraer rápidamente los grupos que cree. Obtenga más información [sobre la agrupación de datos en Excel para la web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
+Puede agrupar o esquemaar filas y columnas en la hoja Excel para la Web de cálculo. Los métodos abreviados de teclado hacen que sea fácil expandir o contraer rápidamente los grupos que cree. Obtenga más información [sobre la agrupación de datos en Excel para la Web](https://support.office.com/article/08ce98c4-0063-4d42-8ac7-8278c49e9aff#ID0EAADAAA=Web).
  
 ## <a name="hideunhide-rows-columns-and-sheets"></a>Hide/unhide rows, columns, and sheets
 
-Puede ocultar y mostrar filas, columnas y hojas en un libro Excel para la web.
+Puede ocultar y mostrar filas, columnas y hojas en un libro en Excel para la Web.
 
 ## <a name="ideas"></a>Ideas
 
@@ -202,11 +202,11 @@ Seleccione una o más filas  antes de  seleccionar **Insertar** o Eliminar en la
 
 ## <a name="insert-pictures"></a>Insertar imágenes
 
-Agrega algo de interés visual insertando imágenes en la hoja de cálculo. Obtenga más información [sobre cómo insertar imágenes en Excel para la web](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3).
+Agrega algo de interés visual insertando imágenes en la hoja de cálculo. Obtenga más información [sobre cómo insertar imágenes en Excel para la Web](https://support.office.com/article/73660701-018b-4961-bc28-6976cf9ebfb3).
 
 ## <a name="insert-shapes"></a>Insertar formas
 
-Agrega y da formato a formas como cuadros, círculos, líneas, conectores o flechas a tu Excel para la hoja de cálculo web. Obtenga más información sobre [cómo agregar formas](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
+Agrega y da formato a formas como cuadros, círculos, líneas, conectores o flechas a la hoja Excel para la Web hoja de cálculo. Obtenga más información sobre [cómo agregar formas](https://support.office.com/article/0e492bb4-3f91-43b5-803f-dd0998e0eb89#OfficeVersion=Web).
 
 ## <a name="keyboard-shortcuts"></a>Accesos rápidos de teclado
 
@@ -218,7 +218,7 @@ Use Merge &amp; Center on the Home tab to combine and center the contents of the
 
 ## <a name="named-ranges"></a>Intervalos con nombre
 
-No puede crear intervalos con nombre en Excel para la web, pero puede usar los intervalos con nombre que creó en un escritorio Excel en la hoja de cálculo en Excel para la web. Al seleccionar un intervalo con nombre, el nombre aparece justo antes de la barra de fórmulas.
+No puede crear intervalos con nombre en Excel para la Web, pero puede usar los intervalos con nombre que creó en Excel escritorio en la hoja de cálculo en Excel para la Web. Al seleccionar un intervalo con nombre, el nombre aparece justo antes de la barra de fórmulas.
 
 ## <a name="number-formatting"></a>Formato de los números
 
@@ -226,31 +226,31 @@ Cambie el formato de los números. Seleccione un formato como Moneda o Fecha cor
   
 ## <a name="office-add-ins"></a>Complementos de Office
 
- Algunos, pero no todos Office complementos están disponibles en Excel para la web. Puede obtener un complemento para Excel en la Tienda Office. Obtenga más información sobre [cómo obtener un complemento de Excel](https://go.microsoft.com/fwlink/p/?LinkId=271667).
+ Algunos, pero no todos Office complementos están disponibles en Excel para la Web. Puede obtener un complemento para Excel en la Tienda Office. Obtenga más información sobre [cómo obtener un complemento de Excel](https://go.microsoft.com/fwlink/p/?LinkId=271667).
 
 ## <a name="offline-viewing-and-authoring"></a>Offline viewing and authoring
 
-Excel para la web se inicia desde un explorador de Internet y se basa en una conexión a Internet. Para acceder a hojas de cálculo sin conexión, la aplicación de escritorio de Microsoft Excel debe estar instalada en el equipo para poder ver y editar hojas de cálculo de Excel.
+Excel para la Web se inicia desde un explorador de Internet y se basa en una conexión a Internet. Para acceder a hojas de cálculo sin conexión, la aplicación de escritorio de Microsoft Excel debe estar instalada en el equipo para poder ver y editar hojas de cálculo de Excel.
 
 ## <a name="pivottables"></a>Tablas dinámicas
 
-Puede insertar tablas dinámicas en su Excel para la hoja de cálculo web y calcular, resumir y analizar datos. Obtenga más información sobre cómo insertar una [tabla dinámica en Excel para la web](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web).
+Puede insertar tablas dinámicas en la hoja de Excel para la Web y calcular, resumir y analizar datos. Obtenga más información sobre cómo insertar una [tabla dinámica en Excel para la Web](https://support.office.com/article/A9A84538-BFE9-40A9-A8E9-F99134456576#OfficeVersion=Web).
 
 ## <a name="post-to-social-network-and-present-online"></a>Publicación en red social y presentación en línea
 
-Comparta partes seleccionadas de sus hojas de cálculo en la web insertándolas en sus páginas de red social, o conversaciones y reuniones de Skype Empresarial. Excel web no admite estas características.
+Comparta partes seleccionadas de sus hojas de cálculo en la web insertándolas en sus páginas de red social, o conversaciones y reuniones de Skype Empresarial. Excel para la Web no admite estas características.
   
 ## <a name="power-pivot-viewing"></a>Visualización de Power Pivot
 
-Excel web te permite ver tablas y gráficos de Power Pivot, pero necesitas la aplicación de escritorio Excel para crear modelos de datos de Power Pivot.
+Excel para la Web permite ver tablas y gráficos de Power Pivot, pero necesitas la aplicación de escritorio Excel para crear modelos de datos de Power Pivot.
   
 ## <a name="power-view-viewing"></a>Power View viewing
 
-Puede ver e interactuar con las Power View de un libro, pero no puede crear Power View con Excel para la web. La creación de Power View solo está disponible con la aplicación de escritorio. Power View le permite crear, compartir y explorar los datos en las vistas interactivas y de presentación. Visualice información en tablas, gráficos y mapas interactivos vinculados entre sí en una sola hoja de cálculo. Obtenga más información sobre [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
+Puede ver e interactuar con las Power View de un libro, pero no puede crear Power View mediante Excel para la Web. La creación de Power View solo está disponible con la aplicación de escritorio. Power View le permite crear, compartir y explorar los datos en las vistas interactivas y de presentación. Visualice información en tablas, gráficos y mapas interactivos vinculados entre sí en una sola hoja de cálculo. Obtenga más información sobre [Power View](https://go.microsoft.com/fwlink/p/?LinkId=271674).
   
 ## <a name="print"></a>Imprimir
 
-Use el comando Imprimir en Excel web para enviar toda la hoja de cálculo o la selección actual a la impresora. Obtenga más información [sobre cómo imprimir en Excel para la web](https://go.microsoft.com/fwlink/p/?LinkId=271676).
+Use el comando Imprimir en Excel para la Web para enviar toda la hoja de cálculo o la selección actual a la impresora. Obtenga más información [sobre cómo imprimir en Excel para la Web](https://go.microsoft.com/fwlink/p/?LinkId=271676).
   
 ## <a name="real-time-co-authoring"></a>Real-time co-authoring
 
@@ -258,7 +258,7 @@ Dos o más personas pueden trabajar en la misma hoja de cálculo de manera simul
   
 ## <a name="recommended-chart-creation-and-editing-with-formatting-controls"></a>Creación y edición de gráficos recomendados con controles de formato
 
-Solo la aplicación de escritorio de Microsoft Excel admite gráficos avanzados. Excel web no admite estas características. Obtenga más información sobre los [tipos de gráficos disponibles](https://go.microsoft.com/fwlink/p/?LinkId=271666).
+Solo la aplicación de escritorio de Microsoft Excel admite gráficos avanzados. Excel para la Web no admite estas características. Obtenga más información sobre los [tipos de gráficos disponibles](https://go.microsoft.com/fwlink/p/?LinkId=271666).
 
 ## <a name="remove-duplicate-values"></a>Quitar valores duplicados
 
@@ -270,15 +270,15 @@ Seleccione el icono Nueva hoja para agregar una hoja. Haga clic con el botón se
   
 ## <a name="rename-file-while-workbook-is-open"></a>Cambiar el nombre de archivo con el libro abierto
 
-En Excel web, puede cambiar el nombre de un archivo de libro sin cerrarlo seleccionando el nombre de archivo en el encabezado y escribiendo un nuevo nombre. Para cambiar el nombre de un archivo Excel aplicación de escritorio, cierre el archivo, vaya a su ubicación en el dispositivo y cambie el nombre del archivo.
+En Excel para la Web, puede cambiar el nombre de un archivo de libro sin cerrarlo seleccionando el nombre de archivo en el encabezado y escribiendo un nuevo nombre. Para cambiar el nombre de un archivo Excel aplicación de escritorio, cierre el archivo, vaya a su ubicación en el dispositivo y cambie el nombre del archivo.
   
 ## <a name="replace"></a>Reemplazar
 
-No está disponible en Excel para la web. Si la aplicación de escritorio de Excel está instalada en el equipo, puede usar Excel para buscar y reemplazar contenido en un documento. Obtenga más información [sobre cómo usar buscar y reemplazar en Excel](https://go.microsoft.com/fwlink/p/?LinkId=282333).
+No disponible en Excel para la Web. Si la aplicación de escritorio de Excel está instalada en el equipo, puede usar Excel para buscar y reemplazar contenido en un documento. Obtenga más información [sobre cómo usar buscar y reemplazar en Excel](https://go.microsoft.com/fwlink/p/?LinkId=282333).
   
 ## <a name="rights-management-irm-and-password-security"></a>Administración de derechos: Seguridad de contraseñas e IRM
 
- La aplicación de escritorio de Excel permite proteger los libros con contraseñas, permisos y otras restricciones. En Excel web, puede cargar e interactuar con libros que contienen protección de hojas, lo que impide que los usuarios seleccionen o escriban en celdas protegidas. Obtenga más información sobre la [protección de libros de Excel](https://go.microsoft.com/fwlink/p/?LinkId=271672).
+ La aplicación de escritorio de Excel permite proteger los libros con contraseñas, permisos y otras restricciones. En Excel para la Web, puede cargar e interactuar con libros que contienen protección de hojas, lo que impide que los usuarios seleccionen o escriban en celdas protegidas. Obtenga más información sobre la [protección de libros de Excel](https://go.microsoft.com/fwlink/p/?LinkId=271672).
   
 ## <a name="save-or-download-a-copy"></a>Save or Download a copy
 
@@ -290,7 +290,7 @@ Mantenga el control del acceso y la confidencialidad de los documentos aplicando
   
 ## <a name="share"></a>Compartir
 
-Proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información [sobre cómo Office para que la web funcione conjuntamente en Office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
+Proceso de un solo clic para enviar un vínculo que otros usuarios pueden usar para ver o editar el documento. Obtenga más información [sobre cómo usar Office para la Web para trabajar juntos en Office 365](https://go.microsoft.com/fwlink/p/?linkid=272770).
   
 ## <a name="sheet-protection"></a>Protección de hoja
 
@@ -302,31 +302,31 @@ Cuando comparte un archivo de Excel con otros usuarios, puede proteger una hoja 
   
 ## <a name="slicers"></a>Segmentación de datos
 
-Vea las segmentaciones de datos en la hoja de cálculo y filtre los datos seleccionando los botones de segmentación de datos. No puede crear ni editar segmentaciones de datos Excel para la web, pero puede eliminar las segmentaciones de datos existentes.
+Vea las segmentaciones de datos en la hoja de cálculo y filtre los datos seleccionando los botones de segmentación de datos. No puede crear ni editar segmentaciones de datos Excel para la Web, pero puede eliminar las segmentaciones de datos existentes.
   
 ## <a name="sort-and-filter-data"></a>Sort and filter data
 
-En Excel web, puede ver y reordenar todas las hojas de cálculo, ordenar y filtrar datos (de arriba a abajo o de izquierda a derecha, varios niveles) y profundizar en los detalles de las tablas dinámicas. Ordena los datos con formato condicional que usa conjuntos de iconos o escalas de colores mediante sus iconos o valores de color. Obtenga más información [sobre la ordenación y el filtrado de datos](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
+En Excel para la Web, puede ver y reordenar todas las hojas de cálculo, ordenar y filtrar datos (de arriba a abajo o de izquierda a derecha, varios niveles) y profundizar en los detalles de las tablas dinámicas. Ordena los datos con formato condicional que usa conjuntos de iconos o escalas de colores mediante sus iconos o valores de color. Obtenga más información [sobre la ordenación y el filtrado de datos](https://support.office.com/article/62d0b95d-2a90-4610-a6ae-2e545c4a4654?ad=US#ID0EAADAAA=Web).
   
 ## <a name="spreadsheet-audit-and-compliance"></a>Cumplimiento normativo y auditoría de hojas de cálculo
 
-En la aplicación de escritorio de Microsoft Excel, puede usar las características de consulta y comparación para comparar versiones de un libro, analizar un libro en busca de problemas o incoherencias, o ver vínculos entre el libro y las hojas de cálculo. Excel web no admite estas características. Obtenga más información sobre las [tareas que puede realizar con la Consulta de hojas de cálculo](https://go.microsoft.com/fwlink/p/?LinkId=271677).
+En la aplicación de escritorio de Microsoft Excel, puede usar las características de consulta y comparación para comparar versiones de un libro, analizar un libro en busca de problemas o incoherencias, o ver vínculos entre el libro y las hojas de cálculo. Excel para la Web no admite estas características. Obtenga más información sobre las [tareas que puede realizar con la Consulta de hojas de cálculo](https://go.microsoft.com/fwlink/p/?LinkId=271677).
   
 ## <a name="status-bar-aggregates"></a>Status bar aggregates
 
-Al seleccionar un grupo de celdas en Excel para la web, puede ver sum, AVERAGE y COUNT en la barra de estado. Para personalizar la barra de estado, también puede elegir los agregados que desea ver.
+Al seleccionar un grupo de celdas en Excel para la Web, puede ver sum, AVERAGE y COUNT en la barra de estado. Para personalizar la barra de estado, también puede elegir los agregados que desea ver.
   
 ## <a name="surveys"></a>Encuestas
 
-Use Encuesta para enviar una Excel para el formulario web a los usuarios que puedan rellenar. Las respuestas se compilarán automáticamente en una hoja de cálculo en línea. Obtenga más información sobre [encuestas en Excel](https://go.microsoft.com/fwlink/p/?LinkId=391470).
+Use Encuesta para enviar un Excel para la Web a los usuarios que puedan rellenar. Las respuestas se compilarán automáticamente en una hoja de cálculo en línea. Obtenga más información sobre [encuestas en Excel](https://go.microsoft.com/fwlink/p/?LinkId=391470).
   
 ## <a name="tell-me"></a>Información
 
-Cuando necesite lograr algo en Excel para la web, pero no sabe cómo hacerlo, puede usar la característica de búsqueda Cuéteme para encontrar rápidamente lo que está buscando. Esta característica comprende lo que intenta realizar y le sugiere cómo hacerlo rápidamente.
+Cuando necesites lograr algo en Excel para la Web pero no sabes cómo hacerlo, puedes usar la característica de búsqueda Cuéteme para encontrar rápidamente lo que estás buscando. Esta característica comprende lo que intenta realizar y le sugiere cómo hacerlo rápidamente.
 
 ## <a name="text-formatting"></a>Formato de texto
 
-Puede aplicar varias opciones de formato de texto, como tachado, aumento o disminución de sangría en Excel para la web.
+Puede aplicar varias opciones de formato de texto, como tachado, aumento o disminución de sangría en Excel para la Web.
 
 ## <a name="total-data"></a>Datos totales
 
@@ -334,19 +334,19 @@ Puede total de datos rápidamente en una tabla habilitando la opción Alternar f
 
 ## <a name="undo-and-redo"></a>Undo and redo
 
-Excel para la web guarda el trabajo automáticamente. Si comete un error, use Deshacer o presione Ctrl+Z y Rehacer o presione Ctrl+Y. Obtenga más información [sobre los métodos abreviados de teclado Excel para la web](https://go.microsoft.com/fwlink/p/?LinkId=272943).
+Excel para la Web guardar el trabajo automáticamente. Si comete un error, use Deshacer o presione Ctrl+Z y Rehacer o presione Ctrl+Y. Obtenga más información [sobre los métodos abreviados de teclado en Excel para la Web](https://go.microsoft.com/fwlink/p/?LinkId=272943).
   
 ## <a name="vba-and-macro-scripting"></a>Scripting de macros y VBA
 
-La aplicación de escritorio de Microsoft Excel es una herramienta extremadamente sólida para manipular, analizar y presentar datos. En cambio, en algunos casos, a pesar del conjunto enriquecido de características, es posible que a su organización le resulte más sencillo usar el lenguaje de programación Visual Basic para Aplicaciones (VBA) para crear una macro que realice tareas repetitivas y comunes, o para realizar alguna tarea que la interfaz de usuario (IU) aparentemente no consiga abordar. No puede crear macros con VBA en Excel para la web, pero puede abrir y editar hojas de cálculo habilitadas para VBA sin quitar (o dañar) el VBA contenido en el archivo. Obtenga más información sobre la [introducción a macros](https://go.microsoft.com/fwlink/p/?LinkId=271678).
+La aplicación de escritorio de Microsoft Excel es una herramienta extremadamente sólida para manipular, analizar y presentar datos. En cambio, en algunos casos, a pesar del conjunto enriquecido de características, es posible que a su organización le resulte más sencillo usar el lenguaje de programación Visual Basic para Aplicaciones (VBA) para crear una macro que realice tareas repetitivas y comunes, o para realizar alguna tarea que la interfaz de usuario (IU) aparentemente no consiga abordar. No puede crear macros con VBA en Excel para la Web, pero puede abrir y editar hojas de cálculo habilitadas para VBA sin quitar (o dañar) el VBA contenido en el archivo. Obtenga más información sobre la [introducción a macros](https://go.microsoft.com/fwlink/p/?LinkId=271678).
   
 ## <a name="view-3d-charts"></a>Visualizar gráficos 3D
 
-Visualice gráficos 3D en la hoja de cálculo. No puede crear ni editar gráficos 3D en Excel para la web.
+Visualice gráficos 3D en la hoja de cálculo. No puede crear ni editar gráficos 3D en Excel para la Web.
   
 ## <a name="what-if-analysis-tools"></a>What if analysis tools
 
-No está disponible en Excel para la web. Puede ver los resultados del análisis "What if" Excel para la web, como se esperaba. Si quiere usar herramientas de análisis como Búsqueda de objetivo, Tablas de datos, Solver y Series, necesitará la aplicación de escritorio de Excel. Obtenga más información sobre las [diferencias entre el uso de un libro en el explorador y en la aplicación de escritorio de Excel](https://go.microsoft.com/fwlink/p/?LinkId=273900).
+No disponible en Excel para la Web. Puede ver los resultados del análisis "What if" en Excel para la Web, como se esperaba. Si quiere usar herramientas de análisis como Búsqueda de objetivo, Tablas de datos, Solver y Series, necesitará la aplicación de escritorio de Excel. Obtenga más información sobre las [diferencias entre el uso de un libro en el explorador y en la aplicación de escritorio de Excel](https://go.microsoft.com/fwlink/p/?LinkId=273900).
 
 ## <a name="workbook-statistics"></a>Estadísticas del libro
 
@@ -354,4 +354,4 @@ La Estadísticas del libro cuenta e identifica elementos de un libro, lo que le 
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, consulte Office para obtener la [descripción del servicio web](office-online-service-description.md).
+Para ver la disponibilidad de características entre planes, opciones independientes y soluciones locales, [consulte Office para la Web descripción del servicio](office-online-service-description.md).

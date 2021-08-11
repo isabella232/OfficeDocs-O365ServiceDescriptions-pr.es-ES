@@ -11,13 +11,13 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
-description: Exchange Online funciona con versiones de escritorio y móviles de Outlook, así como Outlook en la web.
-ms.openlocfilehash: 3aa0c2bbdf9b55b6a3544919143fd9d5e5cfed24
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Exchange Online funciona con versiones de escritorio y móviles de Outlook, así como con Outlook en la Web.
+ms.openlocfilehash: 3e612d9f157cb4109dfc2bef9bfa462445674dd9d19954ca9fe6ac32004ad515
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653122"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664053"
 ---
 # <a name="clients-and-mobile-devices"></a>Clientes y dispositivos móviles
 
@@ -54,9 +54,9 @@ Outlook en la web es una versión basada en web del programa de correo electrón
   
 Outlook en la web tiene dos versiones de cliente y ambas se pueden usar con Exchange Online:
   
-- **Outlook web:** la versión estándar de Outlook en la web proporciona a los usuarios de Exchange Online una experiencia de mensajería más similar a la de Outlook usuarios. Es compatible con la mayoría de los exploradores web más recientes y está optimizada para su uso en tabletas y smartphones, así como en equipos de escritorio y portátiles. Los usuarios pueden leer y enviar mensajes, organizar contactos y programar citas y reuniones. El tiempo de espera predeterminado basado en actividad se establece en seis horas, pero lo puede [configurar un administrador en Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 minutos a 8 horas. Este tiempo de espera depende de las interacciones del usuario dentro de la aplicación web, como seleccionar un botón o seleccionar un mensaje. También hay un tiempo de espera distinto orientado a la seguridad, que no es configurable y que se producirá independientemente de la actividad del usuario. Si un usuario tiene una sesión abierta durante 8 horas, Outlook Web App cerrará la sesión del usuario de forma automática y le solicitará que se vuelva a autenticar. 
+- **Outlook en la Web:** la versión estándar de Outlook en la Web proporciona a los Exchange Online una experiencia de mensajería similar a la de Outlook usuarios. Es compatible con la mayoría de los exploradores web más recientes y está optimizada para su uso en tabletas y smartphones, así como en equipos de escritorio y portátiles. Los usuarios pueden leer y enviar mensajes, organizar contactos y programar citas y reuniones. El tiempo de espera predeterminado basado en actividad se establece en seis horas, pero lo puede [configurar un administrador en Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 minutos a 8 horas. Este tiempo de espera depende de las interacciones del usuario dentro de la aplicación web, como seleccionar un botón o seleccionar un mensaje. También hay un tiempo de espera distinto orientado a la seguridad, que no es configurable y que se producirá independientemente de la actividad del usuario. Si un usuario tiene una sesión abierta durante 8 horas, Outlook Web App cerrará la sesión del usuario de forma automática y le solicitará que se vuelva a autenticar. 
 
-- **La versión ligera** de Outlook en la web: la versión ligera de Outlook en la web proporciona a los usuarios Exchange Online acceso al buzón con casi cualquier explorador web. Los usuarios pueden leer y enviar mensajes, organizar contactos y programar citas y reuniones. El tiempo de espera predeterminado basado en actividad se establece en seis horas, pero lo puede [configurar un administrador en Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 minutos a 8 horas. Este tiempo de espera depende de las interacciones del usuario dentro de la aplicación web, como seleccionar un botón o seleccionar un mensaje. También hay un tiempo de espera distinto orientado a la seguridad, que no es configurable y que se producirá independientemente de la actividad del usuario. Si un usuario tiene una sesión abierta durante 8 horas, la versión ligera de Outlook Web App cerrará la sesión del usuario de forma automática y le solicitará que se vuelva a autenticar. 
+- **La versión ligera de Outlook en la Web:** la versión ligera de Outlook en la Web proporciona a los Exchange Online acceso al buzón de correo con casi cualquier explorador web. Los usuarios pueden leer y enviar mensajes, organizar contactos y programar citas y reuniones. El tiempo de espera predeterminado basado en actividad se establece en seis horas, pero lo puede [configurar un administrador en Windows PowerShell](/powershell/module/exchange/set-organizationconfig) de 5 minutos a 8 horas. Este tiempo de espera depende de las interacciones del usuario dentro de la aplicación web, como seleccionar un botón o seleccionar un mensaje. También hay un tiempo de espera distinto orientado a la seguridad, que no es configurable y que se producirá independientemente de la actividad del usuario. Si un usuario tiene una sesión abierta durante 8 horas, la versión ligera de Outlook Web App cerrará la sesión del usuario de forma automática y le solicitará que se vuelva a autenticar. 
 
 Outlook en la web también está disponible en versiones móviles. Para obtener más información, consulte [esta página](https://go.microsoft.com/fwlink/?LinkID=785184&amp;clcid=0x409).
   

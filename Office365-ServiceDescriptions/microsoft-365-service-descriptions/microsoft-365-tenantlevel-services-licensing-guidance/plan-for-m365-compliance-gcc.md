@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está para profesionales de TI que impulsan implementaciones de Office 365 en entidades gubernamentales federales, estatales, locales, tribales o territoriales de Estados Unidos u otras entidades que administran datos que están sujetos a normativas y requisitos gubernamentales, donde el uso de Microsoft 365 Government - GCC es adecuado para cumplir estos requisitos.
-ms.openlocfilehash: d3be49d3171e07cfc11e6d6924a8b5ec2395d920
-ms.sourcegitcommit: f7874215059c1e5a9d383da0539f87b6f85a57e6
+ms.openlocfilehash: 44dd4a10560fb5bd0d1c0f36f3290b621798d03d390573d789b99d62047bad1e
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52001906"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663273"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc"></a>Planeación del Microsoft 365 cumplimiento normativo GCC
 
@@ -115,8 +115,8 @@ Para satisfacer los requisitos de nuestros clientes en la nube gubernamentales, 
 | Administración de registros                     | Prueba de eliminación                            | Disponible |
 | Administración de registros                     | Control de versiones de registros                            | Disponible |
 | Administración de registros                     | Registros normativos                         | Disponible |
-| Administración de registros                     | Usar SharePoint syntex para aplicar etiquetas de registro | En el trabajo pendiente de ingeniería |
-| **Administración de riesgos internos**             | Caja de seguridad del cliente                                | Disponible            |
+| Administración de registros                     | Usar SharePoint Syntex clasificación de registros para aplicar etiquetas de registro | En el trabajo pendiente de ingeniería |
+| **Administración de riesgos de Insider**             | Caja de seguridad del cliente                                | Disponible            |
 | Cumplimiento de la comunicación                | Capacidad para omitir la firma de correo electrónico o la declinación de responsabilidades                         | En desarrollo |
 | Cumplimiento de la comunicación                | Capacidad para establecer un período de retención para una directiva de cumplimiento de comunicaciones                         | En desarrollo |
 | Cumplimiento de la comunicación                | Obtener acceso a alertas; plantillas de aviso; panel de directivas de comunicación                         | Disponible |

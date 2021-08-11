@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5f97a-607f-4949-a4f7-0b9e3b246851
 description: Lea este artículo para obtener información sobre las características de cliente disponibles en Microsoft Exchange Online archivado.
-ms.openlocfilehash: 54f066562b08eeeed90b8c9b465c4740bcc3f0df
-ms.sourcegitcommit: e342174df76128430dfc8c971716da5c4b2942ac
+ms.openlocfilehash: df71da18d5eb2304496bc72ac2556bb3cc325e50e49cccb14ba6b5191cc95b1d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48293646"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54664673"
 ---
 # <a name="client-features-in-exchange-online-archiving"></a>Características de cliente en Archivado de Exchange Online
 
@@ -32,7 +32,7 @@ Microsoft Outlook es un programa de correo muy completo que admite calendarios, 
 - **Outlook anywhere:** Outlook Anywhere permite a Outlook usuarios conectarse a Exchange Server y Archivado de Exchange Online a través de Internet sin necesidad de una conexión VPN. La comunicación entre Outlook y Archivado de Exchange Online se produce mediante un túnel seguro para SSL, con el componente de red de Windows RPC sobre HTTP.    
 - **Detección** automática: el Exchange de detección automática configura automáticamente Outlook para que funcione con Archivado de Exchange Online. La detección automática permite a Outlook usuarios recibir la configuración de perfil necesaria directamente desde Exchange la primera vez (y a intervalos fijos a partir de entonces) que inician sesión con su dirección de correo electrónico y contraseña. 
 
-Outlook 2010 y versiones posteriores y Outlook en la web proporcionan a los usuarios todas las características del archivo, así como características relacionadas como directivas de retención y archivo.
+Outlook 2010 y posteriores y Outlook en la Web proporcionan a los usuarios todas las características del archivo, así como características relacionadas como directivas de retención y archivo.
   
 Aunque Outlook 2007 es compatible con la funcionalidad básica de archivo, no proporciona todas las características de archivo y cumplimiento existentes. Por ejemplo, no permite a los usuarios aplicar directivas de archivo o retención a los elementos de sus buzones. En su lugar, deben usar las directivas que proporciona el administrador. Para acceder al archivo, los usuarios de Outlook 2007 precisan la actualización acumulativa de Office 2007 de febrero de 2011.
   
@@ -62,9 +62,9 @@ La tabla siguiente contiene los clientes compatibles con Archivado de Exchange O
 
 ## <a name="outlook-on-the-web"></a>Outlook en la web
 
-Outlook en la web es una versión basada en web del programa de correo electrónico Outlook que se usa con Exchange Online. Siempre que los usuarios estén conectados a Internet en casa, en la oficina o en el camino, pueden acceder a su correo electrónico a través de &mdash; &mdash; Outlook en la web.
+Outlook en la web es una versión basada en web del programa de correo electrónico Outlook que se usa con Exchange Online. Siempre que los usuarios estén conectados a Internet en casa, en la oficina o en el camino, pueden acceder a su correo electrónico a través &mdash; &mdash; de Outlook en la Web.
   
-Los usuarios pueden acceder a su archivo iniciando sesión Outlook en la web local (con la misma dirección URL). El archivo aparece junto con su buzón principal en Outlook en la web. No hay ninguna forma explícita de obtener acceso al archivo directamente desde Outlook en la web.
+Los usuarios pueden acceder a su archivo iniciando sesión Outlook en la Web local (con la misma dirección URL). El archivo aparece junto con su buzón principal en Outlook en la Web. No hay ninguna forma explícita de obtener acceso al archivo directamente desde Outlook en la Web.
   
 ## <a name="feature-availability"></a>Disponibilidad de características
 

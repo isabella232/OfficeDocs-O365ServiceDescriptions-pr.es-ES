@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Para cumplir los requisitos únicos y en evolución de los gobiernos federal, estatal, local y tribal de los Estados Unidos, así como los contratistas que retienen o procesan datos en nombre del Gobierno de los Estados Unidos, Microsoft ofrece Office 365 servicios de administración pública Community (GCC). Disponible a través de varios canales, incluidas las licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Las pruebas solo están disponibles para las entidades gubernamentales estadounidenses en este momento.
-ms.openlocfilehash: ec2ae92fb334acb56b94c35e5e0651396e959260
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 83c96657bf45e68578f8bf85da257104bcb1412178bcf7f145e335dd80d47165
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653172"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701898"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 

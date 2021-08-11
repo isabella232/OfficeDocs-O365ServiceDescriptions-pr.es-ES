@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5f24830c-b2cc-49c2-b989-030e1b870f60
 description: A continuación se describen las características de soporte técnico disponibles en Yammer.
-ms.openlocfilehash: fe95a1f768e4ac12dd9c4dcd72c684784e21b45b
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 22def2d6dd1eccbff98503703fbd6e44878ad1092769efd80795c0705196ac05
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653522"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702179"
 ---
 # <a name="support-features-in-yammer"></a>Características de soporte técnico de Yammer
 
@@ -38,7 +38,7 @@ Existe un servicio de soporte técnico disponible para responder a las preguntas
    
 ## <a name="fasttrack-center"></a>Centro FastTrack
 
-El servicio Microsoft FastTrack puede ayudar a su organización a moverse a Microsoft Cloud proporcionando ayuda en cada paso del camino. FastTrack te permite planear de forma estratégica los lanzamientos, aumentar rápidamente los nuevos servicios e incorporar nuevos usuarios. Para obtener más información, visite el [Centro de FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obtener información sobre cómo crear la red de Yammer, incluidos los documentos y actividades de inicio previo, inicio y soporte técnico, vaya a la página [Envision: Identify scenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) y, a continuación, seleccione Bring **your organization together**.
+El servicio FastTrack Microsoft puede ayudar a su organización a moverse a Microsoft Cloud proporcionando ayuda en cada paso del camino. FastTrack te permite planear de forma estratégica los lanzamientos, aumentar rápidamente los nuevos servicios e incorporar nuevos usuarios. Para obtener más información, visite el [Centro de FastTrack](https://go.microsoft.com/fwlink/?LinkID=518597&amp;clcid=0x409). Para obtener información sobre cómo crear la red de Yammer, incluidos los documentos y actividades de inicio previo, inicio y soporte técnico, vaya a la página [Envision: Identify scenarios](https://fasttrack.microsoft.com/office/envision/identify-scenarios) y, a continuación, seleccione Bring **your organization together**.
 
 ## <a name="support-features-across-yammer-plans"></a>Características de soporte técnico de los distintos planes de Yammer
 

@@ -8,12 +8,12 @@ ms.topic: reference
 ms.service: o365-administration
 localization_priority: Normal
 description: Obtenga información sobre las opciones y características del plan disponibles en Microsoft Bookings.
-ms.openlocfilehash: f0382a575714d73a915b8ada2b832516326b5348
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: b2125c2c2b0eb163cfcefce472c2eb299cb87e090bd507baa0f857b5ababdbaf
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653382"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663253"
 ---
 # <a name="microsoft-bookings-service-description"></a>Descripción del servicio Microsoft Bookings
 
@@ -25,7 +25,7 @@ Para obtener información detallada del plan sobre las suscripciones que permite
 
 ## <a name="feature-availability"></a>Disponibilidad de características
 
-En la tabla siguiente se enumeran las principales características de Microsoft Bookings disponibles en todos los planes. Se aplican ciertas advertencias. Vea las notas al pie para obtener más información. Esta tabla puede cambiar sin previo aviso.
+En la tabla siguiente se enumeran las principales características de Microsoft Bookings disponibles en todos los planes. Se aplican ciertas advertencias. Consulte las notas al pie para obtener más información. Dicha información de contacto puede cambiar sin notificación previa.
 
 | Característica principal | Pequeña Empresa | Enterprise planes | GCC | GCC-High | DOD | Educación |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -34,14 +34,14 @@ En la tabla siguiente se enumeran las principales características de Microsoft 
 | Reuniones en línea a Skype y Teams<sup>1</sup> <br/> | Sí | Sí | Sí | No | No | Sí |
 | Reservas de grupo (1 personal: N clientes) | Sí | Sí | Sí | No | No | Sí |
 | Correos electrónicos de notificación de citas | Sí | Sí | Sí | No | No | Sí |
-| Notificación de cita SMS | Sí<sup>2</sup> <br/> | Sí<sup>2</sup> <br/> | Sí<sup>2</sup> <br/> | No | No | Sí |
+| SMS de notificación de cita | Sí<sup>2</sup> <br/> | Sí<sup>2</sup> <br/> | Sí<sup>2</sup> <br/> | No | No | Sí |
 | Administración de personal y servicio | Sí | Sí | Sí | No | No | Sí |
 | Campos personalizados en la colección de datos de usuario | Sí | Sí | Sí | No | No | Sí |
 | API de Bookings en Microsoft Graph | Sí | Sí | No | No | No | Sí |
 | Aplicación Bookings en Teams | Sí | Sí | No | No | No | Sí |
 
 <sup>1</sup> Las reuniones en línea requieren que el miembro del personal que se haya reservado tenga una licencia Microsoft Teams o Skype Empresarial que permita la creación de reuniones.
-<br/><sup>2</sup> SMS notificaciones están actualmente en versión beta y solo están disponibles en Norteamérica.
+<br/><sup>2 notificaciones</sup> SMS están actualmente en versión beta y solo están disponibles en Norteamérica.
 
 ## <a name="learn-more"></a>Más información
 
@@ -54,12 +54,12 @@ Para obtener información técnica sobre Microsoft Bookings, consulte los siguie
 
 ### <a name="licensing-terms"></a>Términos de licencia
 
-Para obtener términos y condiciones de licencia para productos y servicios comprados a través de los programas de licencias por volumen comerciales de Microsoft, consulte el [sitio términos del producto](https://www.microsoft.com/microsoft-365).
+Para conocer los términos y condiciones de licencia de los productos y servicios adquiridos a través de programas de licencias por volumen comerciales de Microsoft, consulte el sitio [Términos del producto](https://www.microsoft.com/microsoft-365).
 
-### <a name="messaging"></a>Mensajería 
+### <a name="messaging"></a>Mensajería 
 
-Para realizar un seguimiento de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, visite el Centro de mensajes. Para obtener más información, vea [Centro de mensajes](/microsoft-365/admin/manage/message-center).
+Para realizar un seguimiento de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, vaya al Centro de mensajes. Para obtener más información, consulte el [Centro de mensajes](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accesibilidad
 
-Microsoft sigue comprometido con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, vea [el Centro](https://www.microsoft.com/trust-center) de confianza de Microsoft y el Centro Office [accesibilidad](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).
+Microsoft mantiene su compromiso con la seguridad de sus datos y la [accesibilidad](https://www.microsoft.com/trust-center/compliance/accessibility) de nuestros servicios. Para obtener más información, consulte el [Centro de confianza de Microsoft](https://www.microsoft.com/trust-center) y el [Centro de accesibilidad de Office](https://support.office.com/article/ecab0fcf-d143-4fe8-a2ff-6cd596bddc6d).

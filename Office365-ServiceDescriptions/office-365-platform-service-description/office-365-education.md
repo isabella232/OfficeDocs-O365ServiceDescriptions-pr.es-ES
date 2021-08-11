@@ -9,17 +9,17 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 53a59150-40d8-44a5-9472-b3e0790149d2
-description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes Office 365 educación, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de escritorio de Microsoft Office con versiones basadas en la nube de los servicios de colaboración y comunicaciones de próxima generación de Microsoft, incluidos Microsoft Exchange Online, Microsoft Office SharePoint Online, Office para la web y Microsoft Skype Empresarial Online para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de &mdash; &mdash; Internet.
-ms.openlocfilehash: 259f6823fd414230d3653051f94f8982661417c3
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes Office 365 educación, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de escritorios de Microsoft Office con versiones basadas en la nube de los servicios de colaboración y comunicaciones de última generación de Microsoft, incluidos Microsoft Exchange Online, Microsoft Office SharePoint Online, Office para la Web y Microsoft Skype Empresarial Online para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de &mdash; &mdash; Internet.
+ms.openlocfilehash: 7955cf1d3d2aa2d9599d5b43cfa103a68f3b15f4f94545c8c8aff08790074853
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653222"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663023"
 ---
 # <a name="office-365-education"></a>Office 365 Educación
 
-Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes Office 365 educación, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de escritorio de Microsoft Office con versiones basadas en la nube de los servicios de colaboración y comunicaciones de próxima generación de Microsoft, incluidos Microsoft Exchange Online, Microsoft Office SharePoint Online, Office para la web y Microsoft Skype Empresarial Online para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de &mdash; &mdash; Internet.
+Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes Office 365 educación, este artículo le mostrará qué características se incluyen en cada uno de ellos. Office 365 combina el conocido conjunto de escritorios de Microsoft Office con versiones basadas en la nube de los servicios de colaboración y comunicaciones de última generación de Microsoft, incluidos Microsoft Exchange Online, Microsoft Office SharePoint Online, Office para la Web y Microsoft Skype Empresarial Online para ayudar a los usuarios a ser productivos desde prácticamente cualquier lugar a través de &mdash; &mdash; Internet.
   
 En este artículo se enumeran las características Office 365 planes educativos (A1, A3 y A5). Para comparar características entre planes empresariales y empresariales, vea [Comparar planes Office 365](https://www.microsoft.com/microsoft-365/business/compare-more-office-365-for-business-plans) para empresas o, para obtener una lista más detallada de características, vea la descripción del servicio relevante en Microsoft 365 y Office 365 de los [servicios](../office-365-service-descriptions-technet-library.md).
   
@@ -65,7 +65,7 @@ En la tabla siguiente se enumeran todas las características de la plataforma qu
 | Característica | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
 |**[Características de administración de Office 365](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings)** <br/> ||||
-|Administrar Office 365 mediante el Centro Microsoft 365 administración o Windows PowerShell  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Administrar Office 365 mediante el Centro de administración de Microsoft 365 o Windows PowerShell  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Proteger el contenido con Azure Information Protection  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Características del conjunto de aplicaciones de Office 365](office-365-suite-features.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Reservas de Microsoft  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
@@ -112,7 +112,7 @@ En la tabla siguiente se enumeran todas las características de la plataforma qu
 |Compra de dominios automatizada y verificación de dominios para los dominios que se adquieren a través de Go Daddy disponible  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Continuidad y estado del servicio](service-health-and-continuity.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Información de estado disponible en la página **Mantenimiento del servicio** o **Estado del servicio**  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Estado de las alertas individuales disponibles en el panel Microsoft 365 centro de administración  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Estado de las alertas individuales disponibles en el Centro de administración de Microsoft 365 panel  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Fuente RSS de Mantenimiento del servicio  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Informes](reports.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Buzones activos e inactivos  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -154,7 +154,7 @@ En la tabla siguiente se enumeran todas las características de la plataforma qu
 |**Confianza** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |[Privacidad, seguridad y transparencia](privacy-security-and-transparency.md) <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Administración de seguridad avanzada  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft Defender para Office 365  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|Microsoft Defender para Office 365  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Caja de seguridad del cliente  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Advanced eDiscovery<sup>7</sup> <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |Puntuación<sup>segura 5</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -281,17 +281,17 @@ Use la siguiente tabla para comparar la disponibilidad de características en Of
 > <sup>1</sup> Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM compatibles. <br/> 
 <sup>2</sup> Skype Empresarial Basic está disponible para todos los clientes. El cliente de escritorio de Skype Empresarial es una aplicación instalada localmente que proporciona funciones de presencia, de mensajería instantánea y de conferencias para los planes de Office 365 que incluyen Skype Empresarial Online. Aplicaciones Microsoft 365 para empresas e Office 365 Enterprise E3 incluyen la aplicación Skype completa, que incluye características adicionales, como soporte avanzado de telefonía, archivado y características de cumplimiento. A Skype for Business Online license must be assigned for each user. Para obtener más información sobre las características de Lync Basic, vea [Tablas de comparación de cliente de escritorio.](/lyncserver/lync-server-2013-desktop-client-comparison-tables) <br/> 
 <sup>3</sup> Algunas escuelas son elegibles para Education Plus, que incluye Aplicaciones Microsoft 365 para empresas, y permite a los alumnos, profesores y personal instalar la versión más reciente de Office en hasta cinco equipos PC o Mac y en otros dispositivos móviles, incluidas las tabletas Windows y el iPad. Las escuelas pueden optar a Office 365 Educación Plus cuando conceden una licencia de Office en toda la institución para los profesores y el personal a través de la inscripción en soluciones educativas, soluciones educativas Open Value Subscription o un contrato para escuelas. Tenga en cuenta que Access y Publisher solo están disponibles en PC. OneNote para Mac está disponible como descarga independiente en Mac App Store. <br/> 
-Se incluyen <sup>4</sup> Office para las versiones web. Para obtener más información, [vea Office para las características web](office-365-education.md#office-for-the-web-features)
+<sup>4</sup> Office para la Web se incluyen las versiones anteriores. Para obtener más información, [vea Office para la Web características](office-365-education.md#office-for-the-web-features)
   
-## <a name="office-for-the-web-features"></a>Office para las características web
+## <a name="office-for-the-web-features"></a>Office para la Web características
 
-En la tabla siguiente se proporcionan vínculos a comparaciones de Office para las funcionalidades de características web disponibles en los planes Office 365 educación para aplicaciones de escritorio enrique Microsoft Office características. Use las comparaciones para descubrir qué características están disponibles en Office para la web y, a continuación, seleccione el nombre de la característica para leer una breve descripción sobre cómo funciona esa característica. Es posible que descubras que algunas personas de tu organización pueden necesitar la funcionalidad avanzada de gráficos de la aplicación de escritorio de Excel, mientras que otras solo pueden necesitar ver y editar ligeramente documentos de Word y presentaciones PowerPoint con Office para la web.
+En la tabla siguiente se proporcionan vínculos a comparaciones de Office para la Web características disponibles en los planes de Office 365 educación para aplicaciones de escritorio enrique Microsoft Office características. Use las comparaciones para descubrir qué características están disponibles en Office para la Web y, a continuación, seleccione el nombre de la característica para leer una breve descripción sobre cómo funciona esa característica. Es posible que descubras que algunas personas de la organización pueden necesitar la funcionalidad avanzada de gráficos de la aplicación de escritorio de Excel, mientras que otras solo pueden necesitar ver y editar ligeramente documentos de Word y PowerPoint presentaciones con Office para la Web.
   
 > [!NOTE]
 > - Se ha realizado una selección limitada de las características de Office para representar las funcionalidades avanzadas del conjunto de aplicaciones de escritorio de Office. <br/>
 > - Las tablas no son una lista completa de Microsoft Office características. <br/> 
 > - Microsoft Aplicaciones Microsoft 365 para empresas es una oferta de suscripción mensual del último Office de escritorio. <br/>
-> - Microsoft Office Los clientes locales de Online Server obtienen un Office para la licencia de edición web si han adquirido una licencia de conjunto de escritorio de Office (como una licencia Office Profesional Plus, Office Standard o Aplicaciones Microsoft 365 para empresas). 
+> - Microsoft Office Los clientes locales de Online Server obtienen una licencia de edición de Office para la Web si han adquirido una licencia de conjunto de escritorio de Office (como una licencia Office Profesional Plus, Office Standard o Aplicaciones Microsoft 365 para empresas). 
   
 | Aplicación | Office para la web | Vínculo a una comparación de características detallada |
 |:-----|:-----|:-----|
@@ -337,7 +337,7 @@ En la tabla siguiente se enumeran las Exchange Online que están disponibles en 
 |Customize anti-malware policies  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cuarentena: gestión de administradores  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Cuarentena: autoadministración de usuarios finales  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft Defender para Office 365  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
+|Microsoft Defender para Office 365  <br/> |No  <br/> |No  <br/> |Sí  <br/> |
 |**[Flujo de correo](../exchange-online-service-description/mail-flow.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Enrutamiento personalizado del correo saliente  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Secure messaging with a trusted partner  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -366,7 +366,7 @@ En la tabla siguiente se enumeran las Exchange Online que están disponibles en 
 |Respuestas de fuera de la oficina  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Uso compartido de calendarios  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Herramientas de resolución de problemas y características de informes](../exchange-online-service-description/reporting-features-and-troubleshooting-tools.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
-|Informes del Centro de administración de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Informes del Centro de administración de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Excel de informes  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Informes de servicios web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Message trace  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -378,7 +378,7 @@ En la tabla siguiente se enumeran las Exchange Online que están disponibles en 
 |Carpetas públicas  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Clientes y dispositivos móviles](../exchange-online-service-description/clients-and-mobile-devices.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Outlook para Windows <sup>9</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Outlook en la web<sup>9</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Outlook en la Web<sup>9</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Outlook para Mac<sup>9</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Outlook para iOS y Android<sup>9</sup> <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Exchange ActiveSync  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -403,7 +403,7 @@ En la tabla siguiente se enumeran las Exchange Online que están disponibles en 
 |Compatibilidad con retransmisión SMTP  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |**[Administración y configuración de Exchange Online](../exchange-online-service-description/exchange-online-setup-and-administration.md)** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
 |Acceso al portal de Microsoft Office 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft 365 acceso al Centro de administración  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Centro de administración de Microsoft 365 acceso  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Acceso al Centro de administración de Exchange  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Acceso a Windows PowerShell remoto  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Directivas de ActiveSync para dispositivos móviles  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -489,17 +489,17 @@ Los límites de Microsoft Exchange Online pertenecen a una de las categorías si
 El espacio de almacenamiento del buzón disponible para un usuario está determinado por el tipo de buzón y la licencia de suscripción del usuario. Los administradores pueden reducir el tamaño máximo del buzón de correo por usuario o de forma global.
   
 > [!NOTE]
-> Con el registro en diario, el uso de reglas de transporte o reglas de transferencia automática para copiar mensajes en un buzón de Exchange Online con fines de archivado no está permitido. El buzón de archivo de un usuario está diseñado exclusivamente para dicho usuario. Microsoft se reserva el derecho a denegar el archivado ilimitado en los casos en que el buzón de archivo de un usuario se utilice para almacenar datos de archivo para otros usuarios o en otros casos de uso inadecuado.
+> Con el registro en diario, el uso de reglas de transporte o reglas de transferencia automática para copiar mensajes en un buzón de Exchange Online con fines de archivado no está permitido. El buzón de archivo de un usuario está diseñado exclusivamente para dicho usuario. Microsoft se reserva el derecho de denegar el archivado ilimitado si el buzón de archivo de un usuario se usa para almacenar datos de archivo de otros usuarios o en otros casos de uso inadecuado.
   
 | Característica | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Buzones de usuario  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
+|Buzones de usuario  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
 |Buzones de<sup>archivo 6, 7</sup> <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Buzones compartidos  <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |50 GB<sup>2</sup> <br/> |
 |Buzones de recursos  <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |50 GB<sup>3</sup> <br/> |
-|Buzones de sitio<sup>4</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
+|Buzones de sitio<sup>4</sup> <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
 |Buzones de carpetas públicas  <br/> |50 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |100 GB<sup>5</sup> <br/> |
-|Buzones de grupo  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
+|Buzones de grupo  <br/> |50 GB  <br/> |50 GB  <br/> |50 GB  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Cada usuario recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. Para obtener más información, vea Información general sobre el archivado ilimitado en Office 365. Vea el Mapa de ruta de Office 365 para obtener información sobre la disponibilidad. <br/> 
@@ -508,7 +508,7 @@ El espacio de almacenamiento del buzón disponible para un usuario está determi
 <sup>4</sup> Los buzones de sitio se crean y administran en SharePoint Online. Para obtener más información, vea Prepararse para usar buzones de sitio en Office 365.<br/> 
 <sup>5</sup> Está limitado a 1000 buzones de carpetas públicas y el tamaño total máximo de todos los buzones de carpetas públicas es de 50 TB.<br/> 
 <sup>6</sup> In-Place Archive solo se puede usar para archivar el correo de un único usuario o entidad (como un buzón compartido) para el que se ha aplicado una licencia. No se permite usar el Archivo local para almacenar correo de varios usuarios o entidades. Por ejemplo, un administrador de TI no puede crear un buzón compartido ni permitir que los usuarios lo copien (con los campos CC o CCO, o mediante una regla de transporte) con el fin de archivarlo. Tenga en cuenta que un buzón compartido que usan varias personas en realidad no almacena correo electrónico de esos usuarios individuales. Varios usuarios tienen acceso y envían correos electrónicos como el buzón compartido. Por lo tanto, los únicos correos electrónicos que se almacenan en el buzón compartido son aquellos enviados a o desde él, como el buzón compartido.<br/> 
-<sup>7</sup> Si ha creado una directiva de retención en Exchange Online, los mensajes se mueven automáticamente al buzón de archivo de un usuario solo si el buzón principal del usuario es mayor que 10 MB. La directiva de retención no se ejecutará automáticamente para los buzones cuyo tamaño sea inferior a 10 MB. 
+<sup>7</sup> Si ha creado una directiva de retención en Exchange Online, los mensajes se mueven automáticamente al buzón de archivo de un usuario solo si el buzón principal del usuario es mayor que 10 MB. La directiva de retención no se ejecutará automáticamente para los buzones cuyo tamaño sea inferior a 10 MB. 
   
 #### <a name="capacity-alerts"></a>Alertas de capacidad
 
@@ -522,9 +522,9 @@ Exchange Online ofrece tres tipos de notificaciones cuando el buzón de un usuar
     
 | Característica | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Advertencia  <br/> |49 GB  <br/> |98 GB  <br/> |98 GB  <br/> |
-|Prohibir envío  <br/> |49,5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |
-|Prohibir envío y recepción  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
+|Advertencia  <br/> |49 GB  <br/> |98 GB  <br/> |98 GB  <br/> |
+|Prohibir envío  <br/> |49,5 GB  <br/> |99 GB  <br/> |99 GB  <br/> |
+|Prohibir envío y recepción  <br/> |50 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
    
 #### <a name="mailbox-folder-limits"></a>Límites de la carpeta de buzón de correo
 
@@ -554,11 +554,11 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
     
 | Característica | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Número máximo de mensajes por carpeta de buzón de correo  <br/> |1 millón  <br/> |1 millón  <br/> |1 millón  <br/> |
+|Número máximo de mensajes por carpeta de buzón de correo  <br/> |1 millón  <br/> |1 millón  <br/> |1 millón  <br/> |
 |Advertencia de número de mensajes por carpeta de buzón de correo  <br/> |900,000  <br/> |900,000  <br/> |900,000  <br/> |
 |Número máximo de mensajes por carpeta de la carpeta Elementos recuperables  <br/> |3 millones  <br/> |3 millones  <br/> |3 millones  <br/> |
-|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (no en espera)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
-|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (en espera)  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
+|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (no en espera)  <br/> |30 GB  <br/> |30 GB  <br/> |30 GB  <br/> |
+|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (en espera)  <br/> |100 GB  <br/> |100 GB  <br/> |100 GB  <br/> |
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (no en espera)  <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (en espera)  <br/> |Ilimitado<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |Unlimited<sup>1</sup> <br/> |
 |Advertencia de número de mensajes por carpeta en la carpeta Elementos recuperables  <br/> |2,75 millones  <br/> |2,75 millones  <br/> |2,75 millones  <br/> |
@@ -587,7 +587,7 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 - **Límite de tamaño de datos adjuntos de** archivo: el tamaño máximo de archivo de un único dato adjunto. 
     
     > [!NOTE] 
-    > Este es el tamaño de archivo máximo de un solo archivo adjunto. Los programas de cliente individuales, incluido Outlook en la Web, pueden limitar el tamaño de los archivos adjuntos por debajo de este máximo. Exchange ActiveSync no implementa límites de tamaño de archivo adjunto en archivos adjuntos individuales. El tamaño total de todos los archivos adjuntos en un mensaje de Exchange ActiveSync debe ser inferior al límite de tamaño del mensaje. 
+    > Este es el tamaño de archivo máximo de un solo archivo adjunto. Los programas de clientes individuales, incluido Outlook en la Web, pueden limitar el tamaño de los archivos adjuntos por debajo de este valor máximo. Exchange ActiveSync no implementa límites de tamaño de archivo adjunto en archivos adjuntos individuales. El tamaño total de todos los archivos adjuntos en un mensaje de Exchange ActiveSync debe ser inferior al límite de tamaño del mensaje. 
   
 - **Límite de mensajes de varias** partes: el número máximo de partes del cuerpo del mensaje que se permiten en un mensaje de varias partes MIME. Este límite también controla el número máximo de archivos adjuntos permitidos en un mensaje. 
     
@@ -602,12 +602,12 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 |Límite de tamaño para mensajes cifrados (para suscriptores que usan Cifrado de mensajes de Office 365 con nuevas funcionalidades)  <br/> |150 MB<sup>5</sup> <br/> |150 MB<sup>5</sup> <br/> |150 MB<sup>5</sup> <br/> |
 |Límite de tamaño para mensajes cifrados (para suscriptores que usan Cifrado de mensajes de Office 365 versión heredada)  <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |25 MB<sup>5</sup> <br/> |
 |Límite de longitud del asunto  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |255 caracteres  <br/> |
-|Límite de datos adjuntos  <br/> |250 datos adjuntos  <br/> |250 datos adjuntos  <br/> |250 datos adjuntos  <br/> |
+|Límite de datos adjuntos  <br/> |250 datos adjuntos  <br/> |250 datos adjuntos  <br/> |250 datos adjuntos  <br/> |
 |Límite del tamaño de un archivo de datos adjunto - Outlook  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
 |Límite del tamaño de un archivo de datos adjunto - OWA  <br/> |35 MB  <br/> |35 MB  <br/> |35 MB  <br/> |
 |Límite del tamaño de un archivo de datos adjunto - Outlook para Mac  <br/> |150 MB  <br/> |150 MB  <br/> |150 MB  <br/> |
-|Límite de mensaje con varias partes  <br/> |250 partes  <br/> |250 partes  <br/> |250 partes  <br/> |
-|Límite de profundidad de incrustación de mensajes  <br/> |30 mensajes incrustados  <br/> |30 mensajes incrustados  <br/> |30 mensajes incrustados  <br/> |
+|Límite de mensaje con varias partes  <br/> |250 partes  <br/> |250 partes  <br/> |250 partes  <br/> |
+|Límite de profundidad de incrustación de mensajes  <br/> |30 mensajes incrustados  <br/> |30 mensajes incrustados  <br/> |30 mensajes incrustados  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Los administradores de Microsoft pueden especificar un límite personalizado entre 1 y 150 MB. Sin embargo, el tamaño de los mensajes que usted puede enviar o recibir también depende de qué admite el cliente de correo electrónico o la solución. Para obtener más información sobre cómo personalizar el tamaño máximo de mensaje permitido para su organización, consulte [Microsoft admite mensajes de correo electrónico más grandes](https://go.microsoft.com/fwlink/?linkid=2144144)<br/> 
@@ -626,7 +626,7 @@ Los límites de recepción se aplican al número de mensajes que un usuario, gru
   
 | Característica | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Mensajes recibidos  <br/> |3 600 mensajes por hora  <br/> |3600 mensajes por hora  <br/> |3600 mensajes por hora  <br/> |
+|Mensajes recibidos  <br/> |3 600 mensajes por hora  <br/> |3600 mensajes por hora  <br/> |3600 mensajes por hora  <br/> |
    
 #### <a name="sending-limits"></a>Límites de envío
 
@@ -649,10 +649,10 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
     
 | Característica | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Límite de frecuencia de destinatario  <br/> |10 000 destinatarios por día  <br/> |10 000 destinatarios por día  <br/> |10 000 destinatarios por día  <br/> |
+|Límite de frecuencia de destinatario  <br/> |10 000 destinatarios por día  <br/> |10 000 destinatarios por día  <br/> |10 000 destinatarios por día  <br/> |
 |Límite de destinatarios  <br/> |500 destinatarios  <br/> |500 destinatarios  <br/> |500 destinatarios  <br/> |
 |Límite de direcciones proxy de destinatarios  <br/> |400  <br/> |400  <br/> |400  <br/> |
-|Límite de velocidad de transferencia de mensajes (solo envío del cliente SMTP)  <br/> |30 mensajes por minuto  <br/> |30 mensajes por minuto  <br/> |30 mensajes por minuto  <br/> |
+|Límite de velocidad de transferencia de mensajes (solo envío del cliente SMTP)  <br/> |30 mensajes por minuto  <br/> |30 mensajes por minuto  <br/> |30 mensajes por minuto  <br/> |
    
 #### <a name="reporting-and-message-trace-limits"></a>Límites de seguimiento de mensajes y creación de informes
 
@@ -671,8 +671,8 @@ Estos límites controlan el tiempo durante el cual es posible obtener acceso a l
 | Característica | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
 |Período de retención de la carpeta Elementos eliminados  <br/> |Sin límite<sup>1</sup> <br/> |Sin límite<sup>1</sup> <br/> |Sin límite<sup>1</sup> <br/> |
-|Período de retención de los elementos quitados de la carpeta Elementos eliminados  <br/> |14 días<sup>1</sup> <br/> |14 días<sup>1</sup> <br/> |14 días<sup>1</sup> <br/> |
-|Período de retención de la carpeta Correo no deseado  <br/> |30 días  <br/> |30 días  <br/> |30 días  <br/> |
+|Período de retención de los elementos quitados de la carpeta Elementos eliminados  <br/> |14 días<sup>1</sup> <br/> |14 días<sup>1</sup> <br/> |14 días<sup>1</sup> <br/> |
+|Período de retención de la carpeta Correo no deseado  <br/> |30 días  <br/> |30 días  <br/> |30 días  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> Es el límite predeterminado. Los administradores pueden cambiar este valor para su organización. 
@@ -689,10 +689,10 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
     
 | Característica | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Número máximo de miembros de un grupo de distribución<sup>1</sup> <br/> |100 000 miembros  <br/> |100 000 miembros  <br/> |100 000 miembros  <br/> |
-|Límite de envío de mensajes a un grupo de distribución grande  <br/> |5 000 o más miembros  <br/> |5 000 o más miembros  <br/> |5 000 o más miembros  <br/> |
+|Número máximo de miembros de un grupo de distribución<sup>1</sup> <br/> |100 000 miembros  <br/> |100 000 miembros  <br/> |100 000 miembros  <br/> |
+|Límite de envío de mensajes a un grupo de distribución grande  <br/> |5 000 o más miembros  <br/> |5 000 o más miembros  <br/> |5 000 o más miembros  <br/> |
 |Tamaño máximo de mensaje para grandes grupos de distribución  <br/> |2 MB  <br/> |2 MB  <br/> |2 MB  <br/> |
-|Número máximo de propietarios de un grupo de distribución  <br/> |10  <br/> |10  <br/> |10  <br/> |
+|Número máximo de propietarios de un grupo de distribución  <br/> |10   <br/> |10   <br/> |10   <br/> |
 |Número máximo de grupos que un usuario puede crear  <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |300,000<sup>2</sup> <br/> |
    
 > [!NOTE]
@@ -724,11 +724,11 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 |Número máximo de reglas del diario  <br/> |50 reglas  <br/> |50 reglas  <br/> |50 reglas  <br/> |
 |Número máximo de reglas de transporte  <br/> |300 reglas  <br/> |300 reglas  <br/> |300 reglas  <br/> |
 |Tamaño máximo de una regla de transporte individual  <br/> |8 KB  <br/> |8 KB  <br/> |8 KB  <br/> |
-|Límite de caracteres para todas las expresiones regulares usadas en todas las reglas de transporte  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
-|Límites de análisis para el contenido de datos adjuntos  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |
+|Límite de caracteres para todas las expresiones regulares usadas en todas las reglas de transporte  <br/> |20 KB  <br/> |20 KB  <br/> |20 KB  <br/> |
+|Límites de análisis para el contenido de datos adjuntos  <br/> |1 MB  <br/> |1 MB  <br/> |1 MB  <br/> |
 |Número máximo de destinatarios agregados a un mensaje por todas las reglas de trasporte  <br/> |100 destinatarios  <br/> |100 destinatarios  <br/> |100 destinatarios  <br/> |
 |Límite de reenvío  <br/> |10 destinatarios  <br/> |10 destinatarios  <br/> |10 destinatarios  <br/> |
-|Número de veces que se redirige un mensaje  <br/> |1 redireccionamiento  <br/> |1 redireccionamiento  <br/> |1 redireccionamiento  <br/> |
+|Número de veces que se redirige un mensaje  <br/> |1 redireccionamiento  <br/> |1 redireccionamiento  <br/> |1 redireccionamiento  <br/> |
    
 #### <a name="moderation-limits"></a>Límites de moderación
 
@@ -746,10 +746,10 @@ Estos límites controlan la configuración de la moderación empleada para la ap
     
 | Característica | Office 365 A1 | Office 365 A3 | Office 365 A5 |
 |:-----|:-----|:-----|:-----|
-|Tamaño máximo de buzón de correo de arbitraje  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
-|Número máximo de moderadores  <br/> |10 moderadores  <br/> |10 moderadores  <br/> |10 moderadores  <br/> |
-|Caducidad de mensajes en espera de ser moderados  <br/> |2 días  <br/> |2 días  <br/> |2 días  <br/> |
-|Máximo índice de mensajes de notificación de moderación caducada  <br/> |300 notificaciones de caducidad por hora  <br/> |300 notificaciones de caducidad por hora  <br/> |300 notificaciones de caducidad por hora  <br/> |
+|Tamaño máximo de buzón de correo de arbitraje  <br/> |10 GB  <br/> |10 GB  <br/> |10 GB  <br/> |
+|Número máximo de moderadores  <br/> |10 moderadores  <br/> |10 moderadores  <br/> |10 moderadores  <br/> |
+|Caducidad de mensajes en espera de ser moderados  <br/> |2 días  <br/> |2 días  <br/> |2 días  <br/> |
+|Máximo índice de mensajes de notificación de moderación caducada  <br/> |300 notificaciones de caducidad por hora  <br/> |300 notificaciones de caducidad por hora  <br/> |300 notificaciones de caducidad por hora  <br/> |
    
 #### <a name="exchange-activesync-limits"></a>Límites de Exchange ActiveSync
 
@@ -765,13 +765,13 @@ Los siguientes límites se aplican a Microsoft Exchange ActiveSync, un protocolo
 |:-----|:-----|:-----|:-----|
 |Límite de dispositivos de Exchange ActiveSync  <br/> |100  <br/> |100  <br/> |100  <br/> |
 |Límite de eliminación de dispositivos de Exchange ActiveSync  <br/> |20  <br/> |20  <br/> |20  <br/> |
-|Límite de datos adjuntos del archivo de Exchange ActiveSync  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
+|Límite de datos adjuntos del archivo de Exchange ActiveSync  <br/> |25 MB  <br/> |25 MB  <br/> |25 MB  <br/> |
    
 ## <a name="onedrive-for-business-features"></a>Características de OneDrive para la Empresa
 
-OneDrive para la Empresa (anteriormente SkyDrive Pro) es espacio de almacenamiento en línea personal en la nube. Úselo para almacenar los archivos de trabajo en varios dispositivos con facilidad y seguridad. Comparta los archivos con compañeros según sea necesario y edite los documentos Office en tiempo real con Office para la web. Sincroniza archivos con el equipo local mediante la OneDrive para la Empresa de sincronización.
+OneDrive para la Empresa (anteriormente SkyDrive Pro) es espacio de almacenamiento en línea personal en la nube. Úselo para almacenar los archivos de trabajo en varios dispositivos con facilidad y seguridad. Comparta los archivos con compañeros según sea necesario y edite documentos Office en tiempo real con Office para la Web. Sincroniza archivos con el equipo local mediante la OneDrive para la Empresa de sincronización.
   
-OneDrive para la Empresa se incluye en SharePoint Online y también puede adquirirse como un plan independiente. La OneDrive para la Empresa independiente incluye Office para la web. Para obtener más información, vea [What is OneDrive para la Empresa?](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076).
+OneDrive para la Empresa se incluye en SharePoint Online y también puede adquirirse como un plan independiente. La OneDrive para la Empresa independiente incluye Office para la Web. Para obtener más información, vea [What is OneDrive para la Empresa?](https://support.office.com/article/187f90af-056f-47c0-9656-cc0ddca7fdc2?ocmsassetID=HA102822076).
   
 ### <a name="system-requirements"></a>Requisitos del sistema
 
@@ -817,7 +817,7 @@ En la tabla siguiente se muestran los SharePoint de cada plan Office 365 educaci
 |Número de usuarios  <br/> |1- 500.000<sup>6</sup> <br/> |1- 500.000<sup>6</sup> <br/> |1- 500.000<sup>6</sup> <br/> |
    
 > [!NOTE]
-> <sup>1</sup> Puede adquirir una cantidad ilimitada de almacenamiento de SharePoint Online. Consulte [Agregar espacio de almacenamiento para la suscripción.](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C) <br/> <sup>2</sup> Se recomienda supervisar la Papelera de reciclaje y vaciarla periódicamente. El espacio de almacenamiento que se utiliza es parte del límite de almacenamiento de archivos total de la organización.<br/> 
+> <sup>1</sup> Puede adquirir una cantidad ilimitada de almacenamiento de SharePoint Online. Vea [Agregar espacio de almacenamiento a la suscripción](https://support.office.com/article/96EA3533-DE64-4B01-839A-C560875A662C) <br/> <sup>2</sup> Se recomienda supervisar la Papelera de reciclaje y vaciarla periódicamente. El espacio de almacenamiento que se utiliza es parte del límite de almacenamiento de archivos total de la organización.<br/> 
 <sup>3</sup> Cuando tiene una suscripción y un plan independiente SharePoint Online, se agregan los importes de almacenamiento.<br/> 
 <sup>4</sup> Los administradores de SharePoint Online pueden establecer límites de uso de almacenamiento para sitios y colecciones de sitios.<br/> 
 <sup>5</sup> No se incluyen las colecciones de sitios de OneDrive para la Empresa creadas para cada licencia de usuario.<br/> 
@@ -889,7 +889,7 @@ En la tabla siguiente se enumeran Skype Empresarial en línea que están disponi
 |Programar Skype Empresarial reuniones en Outlook  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Programar Skype Empresarial reuniones en Outlook en nombre de otros (Delegación)  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Programar Skype Empresarial reuniones con programador web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Programar reuniones en línea en Outlook en la web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Programar reuniones en línea en Outlook en la Web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Outlook delegación para programar reuniones  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Crear reuniones públicas con identificadores de reunión estáticos desde Outlook  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |**Llamadas de voz** <br/> |**Office 365 A1** <br/> |**Office 365 A3** <br/> |**Office 365 A5** <br/> |
@@ -946,7 +946,7 @@ En la tabla siguiente se enumeran Skype Empresarial en línea que están disponi
 |Interoperabilidad de presencia con Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Interoperabilidad de mensajería unificada con Exchange Server  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Interoperabilidad de mensajería unificada con Exchange Online  <br/> |No  <br/> |No  <br/> |No  <br/> |
-|Outlook en la interoperabilidad web  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Outlook en la Web interoperabilidad  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Interoperabilidad de archivado con Exchange Server  <br/> |No  <br/> |No  <br/> |No  <br/> |
 |Interoperabilidad de archivado con Exchange Online  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Búsqueda de aptitudes con SharePoint Server  <br/> |No  <br/> |No  <br/> |No  <br/> |
@@ -956,7 +956,7 @@ En la tabla siguiente se enumeran Skype Empresarial en línea que están disponi
 |Centro de administración de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Centro de administración de Skype Empresarial  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Windows PowerShell  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Skype Empresarial Informes en línea en Microsoft 365 de administración  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
+|Skype Empresarial Informes en línea en Centro de administración de Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
    
 > [!NOTE]
 > <sup>1</sup> The Skype for Business (Lync) client is supported for use with these subscription options, but it is not included. Lync 2013 Basic is available for all customers. El cliente de escritorio de Lync Basic es una aplicación instalada localmente que proporciona características de presencia, mensajería instantánea y conferencia para planes que incluyen Skype Empresarial Online. Aplicaciones Microsoft 365 para empresas y Office 365 A3 incluyen la aplicación Skype Empresarial (Lync), que incluye características adicionales, como compatibilidad avanzada de telefonía, archivado y características de cumplimiento. A Skype for Business Online license must be assigned for each user. Para obtener más información sobre las características de Lync Basic, vea [Desktop client comarison tables](/lyncserver/lync-server-2013-desktop-client-comparison-tables)<br/> 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está para profesionales de TI que impulsan implementaciones de Office 365 en entidades del Gobierno Federal de Estados Unidos u otras entidades que controlan datos que están sujetos a normativas y requisitos gubernamentales, donde el uso de Microsoft 365 Government – DoD es adecuado para cumplir estos requisitos.
-ms.openlocfilehash: bc6d69c32db6801763e47984c0513da9c16ba0f8
-ms.sourcegitcommit: adcacf68ac75c4db2229ebf55be9c75aecd3070b
+ms.openlocfilehash: 039fef8da2de151828cf9aa3c2cb7e39efb4789012f70666811a8a2ae5d24238
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52546007"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663333"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - DoD
 
@@ -108,8 +108,8 @@ Para satisfacer los requisitos de nuestros clientes en la nube gubernamentales, 
 | | Administración de registros: prueba de eliminación | Disponible |
 | | Administración de registros: control de versiones de registros | Disponible |
 | | Administración de registros: registros reglamentarios | Disponible |
-| | Administración de registros: usar la SharePoint Syntex para aplicar etiquetas de registro | En el trabajo pendiente de ingeniería |
-| **Administración de riesgos internos** | Caja de seguridad del cliente | Disponible |
+| | Administración de registros: usar la SharePoint Syntex de registros para aplicar etiquetas de registro | En el trabajo pendiente de ingeniería |
+| **Administración de riesgos de Insider** | Caja de seguridad del cliente | Disponible |
 | | Administración de riesgos de Insider: panel de casos, Explorador de contenido y plantillas de aviso | Implementando |
 | | Administración de riesgos de Insider: escala para la investigación de Advanced eDiscovery | Implementando |
 | | Administración de riesgos de Insider: robo de datos por parte de los usuarios que salen | Implementando |

@@ -9,12 +9,12 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 description: Acceso directo al equipo de ingeniería de Office 365 es una adición de servicios de soporte técnico de nivel empresarial para un contrato de soporte técnico de Microsoft Premier. La Acceso directo al equipo de ingeniería de Office 365 de servicio contiene información adicional sobre las características ofrecidas y los requisitos de implementación.
-ms.openlocfilehash: 7e4c6cbc16dc44ced66e1b6c79889de038079da0
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: d4568d6f328de9d41e002a39eba2ff00fb6ab8ff2d4a694f4bff43d2f2537943
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51653112"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701599"
 ---
 # <a name="office-365-engineering-direct-service-description"></a>Acceso directo al equipo de ingeniería de Office 365 descripción del servicio
 

@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: Esta guía está para profesionales de TI que impulsan implementaciones de Office 365 en entidades del Gobierno Federal de Estados Unidos u otras entidades que controlan datos que están sujetos a normativas y requisitos gubernamentales, donde el uso de Microsoft 365 Government – GCC High es adecuado para cumplir estos requisitos.
-ms.openlocfilehash: 357cf30350ff2a3b21d7d9326e91c2c01d119b21
-ms.sourcegitcommit: f7874215059c1e5a9d383da0539f87b6f85a57e6
+ms.openlocfilehash: ba60ebf026ed3985ead28abba1c426bd8de53e7ba1acf51501b63c1d4c6d1d27
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52001916"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54663293"
 ---
 # <a name="plan-for-microsoft-365-compliance--gcc-high"></a>Plan for Microsoft 365 compliance – GCC High
 
@@ -109,8 +109,8 @@ Para satisfacer los requisitos de nuestros clientes en la nube gubernamentales, 
 | Administración de registros | Conservación y etiquetado automático de datos adjuntos en la nube | En el trabajo pendiente de ingeniería |
 | Administración de registros | Control de versiones de registros | Disponible |
 | Administración de registros | Registros normativos | Disponible |
-| Administración de registros | Usar SharePoint syntex para aplicar etiquetas de registro | En el trabajo pendiente de ingeniería |
-| **Administración de riesgos internos** | Caja de seguridad del cliente | Disponible |
+| Administración de registros | Usar SharePoint Syntex clasificación de registros para aplicar etiquetas de registro | En el trabajo pendiente de ingeniería |
+| **Administración de riesgos de Insider** | Caja de seguridad del cliente | Disponible |
 | Cumplimiento de la comunicación | Capacidad para omitir la firma de correo electrónico o la declinación de responsabilidades | En desarrollo |
 | Cumplimiento de la comunicación | Capacidad para establecer un período de retención para una directiva de cumplimiento de comunicaciones | En desarrollo |
 | Cumplimiento de la comunicación | Obtener acceso a alertas; plantillas de aviso; panel de directivas de comunicación | Disponible |

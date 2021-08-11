@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 018516c9-1bc6-4ad7-af21-d41935feb806
 description: Si eres administrador, puedes encontrar instrucciones detalladas para configurar las características Skype Empresarial Online en Configurar Skype Empresarial Online.
-ms.openlocfilehash: aa460f5338a74c65cc90212b91bcbd1ae2f8f947
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 4ce4e1e35f4a091677f5ee53b2073d1a702065fc91fcb4c6deed05d35d9aa38d
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51651025"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54702469"
 ---
 # <a name="skype-for-business-online-features"></a>Características de Skype Empresarial Online
 
@@ -89,7 +89,7 @@ En algunos planes de suscripción, Skype Empresarial puede integrarse con la Men
   
 - Combine la mensajería de voz y la mensajería de correo electrónico en una única infraestructura de mensajería que esté disponible desde el Skype Empresarial cliente. La mensajería unificada de Exchange y Skype Empresarial funciona de forma conjunta para proporcionar servicios de contestador automático, Outlook Voice Access y operador automático.
     
-- Habilite Outlook en la web para proporcionar mensajería instantánea, presencia, actualizaciones de estado basadas Exchange información de calendario y Skype Empresarial programación de reuniones.
+- Habilite Outlook en la Web para proporcionar mensajería instantánea, presencia, actualizaciones de estado basadas Exchange información de calendario y Skype Empresarial programación de reuniones.
     
 Skype Empresarial interopera con Microsoft SharePoint Server local para la presencia y comunicación con clic en sitios de SharePoint. Esta interoperabilidad requiere la ejecución del cliente de Skype Empresarial en el escritorio del usuario. 
   

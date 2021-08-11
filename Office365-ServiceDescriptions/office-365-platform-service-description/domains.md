@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Al agregar un dominio, un asistente paso a paso le ayuda a agregar usuarios y convertir sus direcciones de correo electrónico y otros servicios al nombre de su empresa. Cuando complete el asistente, el correo electrónico empresarial empezará a llegar a Microsoft en lugar de ir a su proveedor de correo electrónico actual. Para obtener más información, consulta Agregar usuarios y dominios a Microsoft. Si Office 365 operado por 21Vianet, vea Comprobar el dominio.
-ms.openlocfilehash: 72ea4e88d659d7a6004888c45bb233832978fd34
-ms.sourcegitcommit: 9fac5d9579e3b370b15384b36d0f1805cab20065
+ms.openlocfilehash: 591364950fda2ebc070255a010435a74c4f2e6c41882236a1e35b987ba54c605
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "51652574"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54662993"
 ---
 # <a name="domains"></a>Dominios
 
@@ -49,7 +49,7 @@ Para obtener más información, vea How [Microsoft manages DNS records](/office3
   
 ## <a name="sharing-a-domain"></a>Compartir un dominio
 
-Puede pilotar algunas direcciones de correo electrónico para un dominio en Microsoft y otras en su proveedor de correo electrónico anterior. Esto solo se recomienda para su uso durante un piloto, ya que requiere pasos de configuración adicionales y tiene algunas limitaciones para servicios Microsoft. Para más información, consulte:
+Puede pilotar algunas direcciones de correo electrónico para un dominio en Microsoft y otras en su proveedor de correo electrónico anterior. Esto solo se recomienda para su uso durante un piloto, ya que requiere pasos de configuración adicionales y tiene algunas limitaciones para servicios Microsoft. Para obtener más información, vea:
   
 - [Piloto Microsoft 365 para una pequeña empresa](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

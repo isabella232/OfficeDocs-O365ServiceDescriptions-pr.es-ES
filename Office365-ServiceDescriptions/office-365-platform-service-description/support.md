@@ -13,19 +13,19 @@ ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
-description: Con cada Microsoft Office 365 para empresas, empresas, educación y suscripción gubernamental, el soporte técnico de Microsoft proporciona soporte técnico global, preventa, facturación y suscripción. El soporte técnico está disponible tanto en línea Microsoft 365 centro de administración como por teléfono para suscripciones de pago y de prueba. Para obtener más información, consulta Opciones de soporte técnico de Microsoft.
-ms.openlocfilehash: aee2ff37c2fb531e506a2cb18a5e92a6528785c7
-ms.sourcegitcommit: de6af188c02713acd4fbc74533c3bdbbdad3827a
+description: Con cada Microsoft Office 365 para empresas, empresas, educación y suscripción gubernamental, el soporte técnico de Microsoft proporciona soporte técnico global, preventa, facturación y suscripción. El soporte técnico está disponible tanto en línea Centro de administración de Microsoft 365 como por teléfono para las suscripciones de pago y de prueba. Para obtener más información, consulta Opciones de soporte técnico de Microsoft.
+ms.openlocfilehash: 55c947fde5004c876f2dfcb95ad2e9f47fe71e31da8026d91a2ab541e1aac566
+ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 06/02/2021
-ms.locfileid: "52721204"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54701659"
 ---
 # <a name="support"></a>Soporte técnico
 
-Con cada suscripción Microsoft 365 y Office 365 para empresas, empresas, frontline, educación y gobierno, El soporte técnico de Microsoft proporciona soporte técnico global, preventa, facturación y suscripción. El soporte técnico está disponible tanto en línea Microsoft 365 centro de administración como por teléfono para suscripciones de pago y de prueba. Para obtener más información, vea [Opciones de soporte técnico de Microsoft](/Office365/Admin/contact-support-for-business-products).
+Con cada suscripción Microsoft 365 y Office 365 para empresas, empresas, frontline, educación y gobierno, El soporte técnico de Microsoft proporciona soporte técnico global, preventa, facturación y suscripción. El soporte técnico está disponible tanto en línea Centro de administración de Microsoft 365 como por teléfono para las suscripciones de pago y de prueba. Para obtener más información, vea [Opciones de soporte técnico de Microsoft](/Office365/Admin/contact-support-for-business-products).
 
-Los administradores autorizados pueden usar el centro de administración de Microsoft 365 para enviar solicitudes de servicio en línea, obtener acceso a los números de teléfono de soporte técnico y ver todas las solicitudes de servicio abiertas y cerradas recientemente. Las solicitudes de servicio enviadas en el Centro de administración se pueden volver a abrir hasta 14 días después de que se haya cerrado la solicitud. Para obtener instrucciones, consulte [Contact Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products).
+Los administradores autorizados pueden usar el Centro de administración de Microsoft 365 para enviar solicitudes de servicio en línea, acceder a números de teléfono de soporte técnico y ver todas las solicitudes de servicio abiertas y cerradas recientemente. Las solicitudes de servicio enviadas en el Centro de administración se pueden volver a abrir hasta 14 días después de que se haya cerrado la solicitud. Para obtener instrucciones, consulte [Contact Microsoft 365 for business support](/Office365/Admin/contact-support-for-business-products).
   
 El Microsoft 365 de soporte técnico solo soluciona los problemas relacionados con Microsoft 365 y Office 365. Los problemas que se originan en las redes de clientes están fuera de los límites de soporte técnico y, en estos casos, los clientes deben trabajar con su equipo de redes o contratar al equipo de Redes de [Microsoft](https://support.microsoft.com/gp/contactus81?Audience=Commercial) para obtener ayuda.
   
