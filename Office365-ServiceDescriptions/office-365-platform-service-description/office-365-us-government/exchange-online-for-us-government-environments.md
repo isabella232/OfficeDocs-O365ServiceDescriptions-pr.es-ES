@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general sobre las diferencias de características entre la nube del gobierno de Estados Unidos y la nube comercial, tal como se muestra en la Exchange Online de servicio.
-ms.openlocfilehash: 238ef71762c5a6cb3c6a08a515a5bf611535547c7c2e7f69ba8a53eaa56be2c3
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 1c0b3c415b388f1c84c49e09aae0ed243e436b6f
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664463"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363617"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online entornos gubernamentales de Estados Unidos
 
@@ -51,7 +51,7 @@ En la tabla siguiente se describe si las características Exchange Online están
 |Permisos basados en roles|Sí|Sí|Sí||
 |Grupos de funciones|Sí|Sí|Sí||
 |Directivas de asignación de funciones|Sí|Sí|Sí||
-|**[Regulación de mensajes y cumplimiento](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**Consideraciones clave**|
+|**[Directiva y cumplimiento de mensajes](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**Consideraciones clave**|
 |Archivado de buzones basados en Exchange Online|Sí|Sí|Sí||
 |Archivado basado en nube de buzones locales|Sí|Sí|Sí||
 |Messaging Records Management (MRM) |Sí|Sí|Sí||

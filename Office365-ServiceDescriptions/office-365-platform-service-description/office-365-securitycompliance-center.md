@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5a693243-2f13-4c7e-af1a-779c0752ae35
 description: El Centro de cumplimiento de seguridad está diseñado para ayudarle a administrar las características de cumplimiento &amp; en Office 365 para su organización. Los vínculos a las características de cumplimiento existentes de SharePoint y Exchange reúnen las capacidades de cumplimiento en Office 365.
-ms.openlocfilehash: a04ba0cb7c9160bc929c02475edd68146cc9a1de11648b75ea5d50df9cc8b974
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 53b1c2c0f9f2af8fd287a2466d33b076ae4ba039
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701629"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363616"
 ---
 # <a name="security-amp-compliance-center"></a>Security &amp; Compliance Center
 
@@ -35,7 +35,7 @@ Para ver las opciones para otorgar licencias a los usuarios para que se benefici
 |[Administración de dispositivos móviles](/microsoft-365/admin/basic-mobility-security/set-up) | Sí | Sí | Sí | Sí | Sí | Sí | Sí | Sí |
 |[Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la Empresa](/microsoft-365/compliance/data-loss-prevention-policies)<sup>7,9</sup> | No | Sí | Sí | No | Sí | Sí | No | No |
 |[Prevención de pérdida de datos de comunicación para Microsoft Teams](/microsoft-365/compliance/dlp-microsoft-teams) | No | No | No | No | No | Sí | No |  |
-|[Etiquetas de confidencialidad manuales](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | No | No | No | Sí | Sí | Sí | Sí | No |
+|[Etiquetas de confidencialidad manuales](/microsoft-365/compliance/sensitivity-labels)<sup>10</sup> | No | No | Sí | Sí | Sí | Sí | Sí | No |
 |Etiquetas de confidencialidad automáticas | No | No |No | No | No | Sí | Sí | No |
 |[Barreras de información](/microsoft-365/compliance/information-barriers) | No | No  |No  | No | No | Sí | No  | No  |
 |[Gobierno de la](/microsoft-365/compliance/manage-information-governance)<sup>información 1</sup> | Sí<sup>11</sup> | Sí<sup>11</sup>  |Sí<sup>11</sup>  | Sí | Sí | Sí | Sí | Sí<sup>11</sup>  |
@@ -50,7 +50,7 @@ Para ver las opciones para otorgar licencias a los usuarios para que se benefici
 |[Auditoría básica](/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)<sup>8</sup> |Sí |Sí |Sí |Sí |Sí |Sí |Sí |Sí |
 |[Auditoría avanzada](/microsoft-365/compliance/advanced-audit) |No |No |No |No |No |Sí |Sí |No |
 |[Cumplimiento de comunicaciones (directivas de supervisión)](/microsoft-365/compliance/supervision-policies) |No |No |No |No |No |Sí |Sí |No |
-|[Cifrado de mensajes de Office 365 (OME) Basic](/microsoft-365/compliance/ome)  |No |No |No |No |Sí |Sí |Sí |No |
+|[Cifrado de mensajes de Office 365 (OME) Basic](/microsoft-365/compliance/ome)  |No |No |Sí |No |Sí |Sí |Sí |No |
 |[Cifrado avanzado de mensajes de Office 365](/microsoft-365/compliance/ome-advanced-message-encryption)  |No |No |No |No |No |Sí |Sí |No |
 |[Privileged Access Management](/microsoft-365/compliance/privileged-access-management-overview)  |No |No |No |No |No |Sí |No |No |
 |[Clave de cliente](/microsoft-365/compliance/customer-key-overview)  |No |No |No |No |No |Sí |No |No |

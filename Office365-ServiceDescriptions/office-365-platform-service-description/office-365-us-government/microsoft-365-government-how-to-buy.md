@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general Microsoft 365 administración y se describen las opciones de compra.
-ms.openlocfilehash: 29138c4cd9f572c1281ccb338ee034812365909ffd861c66609de03ea3a2b8f4
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 405bdf813387e78c8480634a463bb86518e04b3a
+ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701909"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "58363587"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Gobierno: cómo comprar
 
@@ -134,41 +134,50 @@ Siga estos pasos para comprar Microsoft 365 gubernamentales:
 **Socios de AOS-G GCC y GCC High (menos de 500 puestos)**
 
 - Servicios federales de Accenture, LLC
-- Agile IT, Inc.
+- Agile IT, Inc
+- American Technology Services, Inc.
 - Applied Information Sciences, Inc.
-- Booz Allen Hamilton, Inc.
+- Arctic Information Technology, Inc.
+- BAH
 - Soluciones integradas de C3
 - CACI
 - Carahsoft
+- Catapult Systems, Inc.
 - CGI Federal Inc.
-- Conquest Cyber
-- CyberSheath Services International, LLC
+- Conquest Cyber (UDT)
+- CyberSheath
+- Daymark Solutions, Inc.
 - Dox Electronics Inc.
-- Enlighten IT Consulting, LLC
+- Ilustración
 - F1 Solutions Inc.
 - Four Points Technology, LLC
-- General Dynamics Information Technology, Inc.
+- GDIT
+- Golden Five LLC
 - Hypori, Inc.
 - Imager Software, Inc. d.b.a ISC
 - Jackpine
 - Jasper
 - Johnson Technology Systems, Inc.
-- Kamind IT, Inc.
+- KAMIND IT, Inc.
 - KTL Solutions, Inc.
 - LiftOff, LLC
-- ManTech Advanced Systems International, Inc.
-- LÓGICA DE NIMBUS, LLC
+- ManTech
+- MicroTechnologies, Inc.
+- Nimbus Logic LLC
 - Northrop
 - Novetta
-- Perspecta Enterprise Solutions LLC
+- Permuta Technologies, Inc.
+- Perspecta
 - Planet Technologies, Inc.
 - Quiet Professionals, LLC
 - R3, LLC
 - Red River
 - SAIC
 - Smartronix
-- Summit 7
+- Sistemas de Summit 7
 - TechTrend, Inc.
+- Valcom Salt Lake City, LC dba VCLM
+- VC3, INC
 - Vexcel
 
 **Nota:** Todos los proveedores de soluciones de licencias de Microsoft (LSP) de la lista anterior pueden realizar transacciones tanto de GCC como de GCC High a Enterprise Agreement (EA) para crear la hoja de precios del cliente (CPS). Las organizaciones que no son elegibles para EA pueden comprar GCC a través del programa de partners de AOS-G o del programa de partners CSP enumerados.
