@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y el trabajo diario. Entregado a través de Office 365, Project Online proporciona potentes capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de cartera de proyectos, desde casi cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: a6c4e9b5602f32d9751fab3cd40a580d9465fc472f41f317cd1a635a48eb3793
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 5b0674e4b26718d4e2d4aef6d0d4db59379d951b
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702809"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371797"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -111,7 +111,7 @@ Las características enumeradas en esta sección interactúan solo con los datos
 |Crear solicitudes de recursos<sup>12</sup> |  | Vista solo | Vista solo | Sí | Sí |
 |Aceptar una propuesta de reserva<sup>12</sup> |  | Vista solo | Vista solo | Sí | Sí |
 |Crear y actualizar reservas para satisfacer las solicitudes de recursos<sup>12</sup> |  | Vista solo | Vista solo | Vista solo | Sí |
-|Administrar habilidades/aptitudes en sus recursos |  | Vista solo | Vista solo | Sí | Sí |
+|Administrar habilidades/aptitudes en sus recursos |  | Vista solo | Vista solo | Vista solo | Sí |
 |Guías básicas | Cree mapas de ruta visuales e interactivos en proyectos Microsoft Project Online, Microsoft Project para la web y Azure Boards proyectos. <sup>2</sup> Con Project Plan 1 obtiene acceso de solo lectura a las hojas de ruta. Con Project Plan 3 o Project Plan 5, también puede crear hojas de ruta. | Solo ver | Solo ver | Sí | Sí |
 |**Informes**<sup>3</sup> ||||||
 |Leer informes de *Project para los datos web* | Vea informes personalizados o personalizados o personalizados y paneles para comprender los datos de proyectos, programas, cartera y recursos. | Sí | Sí | Sí | Sí |
@@ -258,7 +258,7 @@ Si el flujo está aislado y no tiene nada que ver con la aplicación Project, de
 |Ordenación y agrupación | Use la ordenación y agrupación personalizadas para obtener una vista centrada del proyecto, las tareas y los recursos.|
 |**Personalización e integración**||
 |Campos personalizados | Agregue campos personalizados en el nivel de proyecto, tarea y recurso para realizar un seguimiento de los datos importantes para su organización y proyectos. |
-|Formularios | Cree e implemente formularios personalizados para capturar datos importantes del proyecto. |
+|Forms | Cree e implemente formularios personalizados para capturar datos importantes del proyecto. |
 |Fórmulas | Calcular y capturar datos importantes mediante fórmulas entre tareas y proyectos. |
 |Plantillas | Cree plantillas para proyectos comunes, incluidos los planes de proyecto, los equipos y las asignaciones. |
 |Importación y exportación de .mpp | Cree nuevos proyectos a partir de archivos .mpp existentes o cree un archivo .mpp de un proyecto existente. |
@@ -316,14 +316,14 @@ Project para la web tiene algunas limitaciones, que se describen en la tabla sig
 
 | Entidad/campo | Límite |
 |-------------|-------|
-|**Task** ||
+|**Tarea** ||
 |Máx. nivel de jerarquía para la tarea | 10 niveles |
 |Máx. vínculos (sucesor + predecesor) para una tarea | 20 |
 |Máx. duración de la tarea hoja | 1250 días |
 |Máx. duración de la tarea de resumen | 3650 días (10 años) |
 |Máx. recursos que se pueden asignar a una tarea | 20 recursos |
 |Intervalo de fechas admitido para tareas | 1/1/2000 &ndash; 12/31/2149 |
-|**Proyecto** ||
+|**Project** ||
 |Máx. tareas totales del proyecto | 500 |
 |Máx. duración total del proyecto | 3650 días (10 años) |
 |Máx. recursos totales para el proyecto | 150 |

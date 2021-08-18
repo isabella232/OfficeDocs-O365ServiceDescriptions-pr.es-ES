@@ -12,12 +12,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones sobre licencias Microsoft 365 cumplimiento normativo para ayudar a evitar posibles interrupciones en el servicio debido al acceso sin licencia.
-ms.openlocfilehash: e6182db877f5d1202a30d5425deec89ad6cbdb0f563f43990a51b47ec9bba033
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9126cfa8d055fe9a800a6c498e79ebf540b378d2
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663343"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371776"
 ---
 # <a name="microsoft-365-licensing-guidance-for-security-amp-compliance"></a>Microsoft 365 de licencias para el cumplimiento de &amp; la seguridad
 
@@ -407,9 +407,10 @@ A principios de este año [anunciamos la versión preliminar](https://go.microso
 Necesitarás una de las siguientes licencias para obtener compatibilidad con la protección DLP en Teams Chat:
 
 - Microsoft 365 E5/A5/G5
-- Microsoft 365 E5/A5/G5 Compliance
+- Microsoft 365 E5/A5/G5/F5 Compliance
+- Microsoft 365 F5 Security & Compliance
 - Microsoft 365 E5/A5/G5 Information Protection and Governance
-- Office 365 E5/A5/G5 
+- Office 365 E5/A5/G5
 
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se aprovisiona o implementa el servicio?
 
@@ -547,7 +548,7 @@ Con DLP de comunicación para Teams, las organizaciones pueden bloquear chats y 
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5 y Microsoft 365 E5/A5/G5 Information Protection and Governance pueden beneficiarse de DLP de comunicación para Teams.
+Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance, Microsoft 365 F5 Security + Compliance y Microsoft 365 E5/A5/G5 Information Protection and Governance pueden beneficiarse de DLP de comunicación para Teams.
 
 ### <a name="how-do-users-benefit-from-the-service"></a>¿Cómo se benefician los usuarios del servicio?
 
@@ -697,7 +698,7 @@ También puede habilitar un período de retención de 10 años con una SKU de co
 
 ### <a name="which-users-benefit-from-the-service"></a>¿Qué usuarios se benefician del servicio?
 
-Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5 Compliance y Microsoft 365 E5/A5/G5 eDiscovery and Audit pueden beneficiarse de la auditoría avanzada.
+Los usuarios con licencia de Office 365 E5/A5/G5, Microsoft 365 E5/A5/G5, Microsoft 365 E5/A5/G5/F5 Compliance, Microsoft 365 F5 Security + Compliance y Microsoft 365 E5/A5/G5 eDiscovery and Audit pueden beneficiarse de la auditoría avanzada.
 
 Los usuarios con licencia con auditoría avanzada y el complemento retención de registros de auditoría de 10 años pueden beneficiarse de la retención de registros de auditoría de 10 años.
 

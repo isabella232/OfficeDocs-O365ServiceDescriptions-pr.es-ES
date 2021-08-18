@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de Estados Unidos, Microsoft ha creado planes de Office 365 Administración Pública para Estados Unidos (o Office 365 Administración Pública). En este artículo se proporciona información general sobre las características específicas de Office 365 Administración Pública entornos de Estados Unidos.
-ms.openlocfilehash: e9d0b23037cb3b033e55fe143c98830707efb45a29b4fc25d6f6f2a4e727bc4f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: efcef9de537f1d3750a0b282a40d1f015c8bb82c
+ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701899"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "58371787"
 ---
 # <a name="office-365-government"></a>Office 365 Administración Pública
 
@@ -142,16 +142,17 @@ Cada plan de Office 365 incluye varios servicios individuales, como Exchange Onl
 
 |Servicio de Office 365|Office 365 Administración Pública G1|Office 365 Administración Pública G3|Office 365 Administración Pública G5|Office 365 Administración Pública F3|
 |---|---|---|---|---|
-|Office para la web|Sí|Sí|Sí|Sí|
-|Aplicaciones de Microsoft 365 para empresas|No|Sí|Sí|No|
 |Exchange Online|Sí|Sí|Sí|Sí|
 |Protección de Exchange Online|Sí|Sí|Sí|Sí|
-|SharePoint Online|Sí|Sí|Sí|Sí|
+|Aplicaciones de Microsoft 365 para empresas|No|Sí|Sí|No|
+|Office para la web|Sí|Sí|Sí|Sí|
 |OneDrive para la Empresa|Sí|Sí|Sí|Sí|
-|Skype for Business (Instant Messaging &amp; Presence)|Sí<sup>1</sup>|Sí|Sí|Sí<sup>1</sup>|
-|Voz: Sistema telefónico, Audioconferencia|No<sup>2</sup>|No<sup>2</sup>|Sí<sup>5</sup>|No|
 |Power BI Pro|No<sup>2</sup>|No<sup>2</sup>|Sí|No<sup>2</sup>|
 |Project Online|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|No<sup>2</sup>|
+|SharePoint Online|Sí|Sí|Sí|Sí|
+|SharePoint Syntex|Sí|Sí|Sí|Sí|
+|Skype for Business (Instant Messaging &amp; Presence)|Sí<sup>1</sup>|Sí|Sí|Sí<sup>1</sup>|
+|Voz: Sistema telefónico, Audioconferencia|No<sup>2</sup>|No<sup>2</sup>|Sí<sup>5</sup>|No|
 |Visio para la web|No<sup>6</sup>|No<sup>6</sup>|No<sup>6</sup>|No<sup>6</sup>|
 |Yammer Enterprise|No<sup>4</sup>|No<sup>4</sup>|No<sup>4</sup>|No<sup>4</sup>|
 
@@ -240,7 +241,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Explorador utilizado|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
 |Sistema operativo utilizado|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
 |Crear sus propios informes con Microsoft 365 web de informes|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
-|**[Actualizaciones del servicio](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Administración Pública G1**|**Office 365 Administración Pública G3**|**Office 365 Administración Pública G5**|**Office 365 Administración Pública F3**|
+|**[Actualizaciones de servicio](../../office-365-platform-service-description/service-updates.md)**|**Office 365 Administración Pública G1**|**Office 365 Administración Pública G3**|**Office 365 Administración Pública G5**|**Office 365 Administración Pública F3**|
 |Actualizaciones habituales para todos los clientes|Sí|Sí|Sí|Sí|
 |Las notificaciones se envían a Centro de mensajes cuando la acción es necesaria|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|Sí<sup>15</sup>|
 |Roadmap.office.com para algún servicio actualizaciones|No<sup>10, 13</sup>|No<sup>10, 13</sup>|No<sup>10, 13</sup>|No<sup>10, 13</sup>|
