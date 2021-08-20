@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de Estados Unidos, Microsoft ha creado planes de Office 365 Administración Pública para Estados Unidos (o Office 365 Administración Pública). En este artículo se proporciona información general sobre las características específicas de Office 365 Administración Pública entornos de Estados Unidos.
-ms.openlocfilehash: efcef9de537f1d3750a0b282a40d1f015c8bb82c
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: f2bdc4ed9d73cda00b4dbf9ecaf79434bc928c4c
+ms.sourcegitcommit: 40a8e3be736d1177d046da50639a5685aca18707
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371787"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "58402764"
 ---
 # <a name="office-365-government"></a>Office 365 Administración Pública
 
@@ -194,7 +194,7 @@ En la siguiente tabla se enumeran las características de la plataforma y los se
 |Identidad federada (inicio de sesión único)|Sí|Sí|Sí|Sí|
 |Autenticación multifactor|Sí|Sí|Sí|Sí|
 |Teléfono de factores|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí|Sí<sup>9</sup>|
-|Configuración de escritorio de Office 365|Sí|Sí|Sí|Sí|
+|Configuración de escritorio de Office 365|No|Sí|Sí|No|
 |Administrar usuarios con Office 365|Sí|Sí|Sí|Sí|
 |Carga masiva con .csv archivos|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí|Sí<sup>9</sup>|
 |Herramienta de sincronización de directorios|Sí|Sí|Sí|Sí|
