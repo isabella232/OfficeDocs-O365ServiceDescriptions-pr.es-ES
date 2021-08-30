@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general Microsoft 365 administración y se describen las opciones de compra.
-ms.openlocfilehash: 405bdf813387e78c8480634a463bb86518e04b3a
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: 228ad94d00c9e9fea33202e1c746d45bc43560c7
+ms.sourcegitcommit: 99b2b3c7f1437693ff2b361b44c840a09ed35642
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363587"
+ms.lasthandoff: 08/25/2021
+ms.locfileid: "58523770"
 ---
 # <a name="microsoft-365-government---how-to-buy"></a>Microsoft 365 Gobierno: cómo comprar
 
@@ -133,6 +133,7 @@ Siga estos pasos para comprar Microsoft 365 gubernamentales:
 
 **Socios de AOS-G GCC y GCC High (menos de 500 puestos)**
 
+- 12:34 MicroTechnologies, Inc.
 - Servicios federales de Accenture, LLC
 - Agile IT, Inc
 - American Technology Services, Inc.
@@ -162,7 +163,6 @@ Siga estos pasos para comprar Microsoft 365 gubernamentales:
 - KTL Solutions, Inc.
 - LiftOff, LLC
 - ManTech
-- MicroTechnologies, Inc.
 - Nimbus Logic LLC
 - Northrop
 - Novetta

@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 867f5cd6-c667-45f1-8d05-f19713098aca
 description: Project Online es una solución en línea flexible para la administración de carteras de proyectos (PPM) y el trabajo diario. Entregado a través de Office 365, Project Online proporciona potentes capacidades de administración de proyectos para planear, priorizar y administrar proyectos e inversiones de cartera de proyectos, desde casi cualquier lugar en casi cualquier dispositivo. Project Online lo pueden usar gestores, administradores y visores de carteras, administradores de recursos y proyectos, y jefes y miembros de equipo.
-ms.openlocfilehash: 5b0674e4b26718d4e2d4aef6d0d4db59379d951b
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: 6167bf8ebb384bc0e8968004e55d188fb4a194af
+ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371797"
+ms.lasthandoff: 08/24/2021
+ms.locfileid: "58505709"
 ---
 # <a name="microsoft-project-service-description"></a>Descripción del servicio de Microsoft Project
 
@@ -70,7 +70,7 @@ Aunque Project web y Project Online son aplicaciones independientes, puede usarl
 
 En este diagrama se muestra cómo las aplicaciones pueden trabajar juntas en paralelo.
 
-![Diagrama que muestra Project en la web y Project Online juntos](../media/project-online-applications.png)
+![Diagrama que Project en la web y Project Online juntos.](../media/project-online-applications.png)
 
 En el futuro, Microsoft se centrará en Project para las innovaciones web. Sin embargo, puede seguir usando Project Online con confianza, ya que seguirá recibiendo mejoras clave en el rendimiento y la seguridad.
 
@@ -161,7 +161,7 @@ Las características enumeradas en esta sección interactúan solo con los datos
 |Aprobaciones del parte de horas | Los miembros del equipo pueden enviar partes de horas para su aprobación. Los administradores y supervisores de recursos pueden revisar, aprobar y rechazar partes de horas enviadas. | Sí | Sí |
 |Configuración de tiempo no laborable | Agregue vacaciones, feriados, licencias médicas y otros tipos de períodos no laborables a la programación de su proyecto. | No | Sí |
 |**Colaboración** ||||
-|Datos adjuntos | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administrar estos datos adjuntos en una biblioteca central en el nivel de equipo o proyecto. | Sí | Sí |
+|Attachments | Adjunte documentos, imágenes y otros archivos en el nivel de equipo, proyecto o tarea. Administrar estos datos adjuntos en una biblioteca central en el nivel de equipo o proyecto. | Sí | Sí |
 |Miembros del equipo externo |Colabore con personas de fuera de su organización al concederles acceso para ver e interactuar con sus proyectos, tareas y documentos. <sup>6</sup> | Sí | Sí |
 |Sitios del proyecto | Crear y personalizar un centro de colaboración y documentos para un proyecto. | Sí | Sí |
 |Microsoft Teams integración | Colaborar en proyectos en Microsoft Teams. <sup>1</sup> | Sí | Sí |
@@ -258,7 +258,7 @@ Si el flujo está aislado y no tiene nada que ver con la aplicación Project, de
 |Ordenación y agrupación | Use la ordenación y agrupación personalizadas para obtener una vista centrada del proyecto, las tareas y los recursos.|
 |**Personalización e integración**||
 |Campos personalizados | Agregue campos personalizados en el nivel de proyecto, tarea y recurso para realizar un seguimiento de los datos importantes para su organización y proyectos. |
-|Forms | Cree e implemente formularios personalizados para capturar datos importantes del proyecto. |
+|Formularios | Cree e implemente formularios personalizados para capturar datos importantes del proyecto. |
 |Fórmulas | Calcular y capturar datos importantes mediante fórmulas entre tareas y proyectos. |
 |Plantillas | Cree plantillas para proyectos comunes, incluidos los planes de proyecto, los equipos y las asignaciones. |
 |Importación y exportación de .mpp | Cree nuevos proyectos a partir de archivos .mpp existentes o cree un archivo .mpp de un proyecto existente. |
