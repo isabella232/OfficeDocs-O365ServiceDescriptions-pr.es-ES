@@ -9,12 +9,12 @@ ms.service: o365-administration
 localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general sobre las diferencias de características entre la nube del gobierno de Estados Unidos y la nube comercial, tal como se muestra en la Exchange Online de servicio.
-ms.openlocfilehash: 1c0b3c415b388f1c84c49e09aae0ed243e436b6f
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: caae2f98eb21bc640be33044448ce94746b3a449
+ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363617"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58702312"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online entornos gubernamentales de Estados Unidos
 
@@ -183,11 +183,10 @@ Si tiene previsto usar Cifrado de mensajes de Office 365 en un entorno GCC High,
 
 <!-- end list -->
 
-- Al enviar correo electrónico cifrado desde GCC High o DoD a destinatarios fuera de ese entorno (incluidos GCC y Comercial):
-    
-    - Los remitentes GCC high/doD pueden enviar correo electrónico cifrado fuera del límite GCC high/doD.
-    
-    - Todos los destinatarios fuera de GCC High/DoD, incluidos los usuarios de Office 365 comerciales, los usuarios de Outlook.com y otros usuarios de otros proveedores de correo electrónico, reciben un correo contenedor. Este correo contenedor redirige al destinatario al Portal de OME, donde el destinatario puede leer y responder al mensaje.
+- Al enviar correo electrónico cifrado desde GCC High a destinatarios fuera de ese entorno (incluidos DoD, GCC y Commercial):
+
+    - Los remitentes de GCC High pueden enviar correo electrónico cifrado fuera del límite GCC high.
+    - Todos los destinatarios fuera de GCC High, incluidos los usuarios de doD, de Office 365 comerciales, de Outlook.com y otros usuarios de otros proveedores de correo electrónico, reciben un correo contenedor. Este correo contenedor redirige al destinatario al Portal de OME, donde el destinatario puede leer y responder a los mensajes.
 
 Para obtener más información y las actualizaciones más recientes, vea [Comparar versiones de OME](/microsoft-365/compliance/ome-version-comparison).
 

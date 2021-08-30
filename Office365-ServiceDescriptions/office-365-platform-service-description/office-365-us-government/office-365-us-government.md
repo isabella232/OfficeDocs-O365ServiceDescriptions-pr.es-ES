@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de Estados Unidos, Microsoft ha creado planes de Office 365 Administración Pública para Estados Unidos (o Office 365 Administración Pública). En este artículo se proporciona información general sobre las características específicas de Office 365 Administración Pública entornos de Estados Unidos.
-ms.openlocfilehash: f2bdc4ed9d73cda00b4dbf9ecaf79434bc928c4c
-ms.sourcegitcommit: 40a8e3be736d1177d046da50639a5685aca18707
+ms.openlocfilehash: 5c98a1518149b69b625f2936ba690f3a251d4966
+ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58402764"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58702302"
 ---
 # <a name="office-365-government"></a>Office 365 Administración Pública
 
@@ -392,11 +392,11 @@ Las siguientes Office aplicaciones están disponibles en las nubes gubernamental
 |Historial de versiones|Sí|No|No|No|
 |[**Microsoft Forms**](https://support.office.com/article/5cbd407a-eef7-431e-8e3a-eb666eab4b4c) está totalmente disponible en las nubes gubernamentales, excepto las siguientes características, que **no están** disponibles en este momento:||**GCC**|**GCC High**|**DOD**|
 |Notificación por correo electrónico||No<sup>1</sup>|No<sup>1</sup>|No|
-|Insertar una imagen||No<sup>1</sup>|No<sup>1</sup>|No|
+|Insertar una imagen||Sí<sup>4</sup>|Sí<sup>4</sup>|Sí<sup>4</sup>|
 |Insertar un vídeo||No<sup>1</sup>|No<sup>1</sup>|No|
 |Matemáticas||No<sup>1</sup>|No<sup>1</sup>|No|
 |Office integración||No<sup>1</sup>|No<sup>1</sup>|No|
-|Formularios de grupo más recientes||No<sup>4</sup>|Sí|Sí|
+|Formularios de grupo más recientes||Sí|Sí|Sí|
 |Uso compartido<sup>externo 3</sup>||Sí|No|No|
 |Formularios Pro||No|No|No|
 |[**Microsoft OneNote**](../../office-applications-service-description/office-applications.md#microsoft-onenote) está totalmente disponible en las nubes gubernamentales, excepto las siguientes características, que **no están** disponibles en este momento:||**GCC**|**GCC High**|**DOD**|
@@ -458,5 +458,5 @@ Para obtener disponibilidad de características Microsoft Teams dentro de GCC/GC
 > <sup>1 Disponibilidad</sup> próximamente.
 <br/><sup>2</sup> Disponibilidad en la Surface Hub local (no ha iniciado sesión).
 <br/><sup>3</sup> El uso compartido externo está disponible para el GCC externo. Obtenga más información sobre cómo [desactivar o activar Microsoft Forms](https://support.office.com/article/cc52287a-4550-464d-9a1b-457bf9df2240#PickTab=Configure) para su organización. El uso compartido externo está deshabilitado GCC entornos high y DOD; Los usuarios de la organización pueden hacer lo siguiente: completar un formulario y enviar respuestas, duplicar y compartir un formulario como plantilla, [coautor](https://support.office.com/article/d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)o colaborar en un formulario y obtener acceso [a](https://support.office.com/article/82ea9d8a-260a-47a0-afdb-497f3d746e3f)los resultados [del formulario.](https://support.office.com/article/02859424-341d-406f-b32a-9a0fbaf357af)
-<br/><sup>4 La</sup> característica de formularios de grupo recientes está deshabilitada para el GCC grupo. Sin embargo, los usuarios aún pueden tener acceso a los formularios de grupo seleccionando un grupo específico en la pestaña Formularios de grupo.
+<br/><sup>4</sup> La inserción de una imagen con la característica Bing búsqueda de imágenes está deshabilitada para el entorno GCC/GCCH/DOD.
 <br/><sup>5</sup> Word, Excel PowerPoint Windows cliente, no web, MacOS, iOS o Android.
