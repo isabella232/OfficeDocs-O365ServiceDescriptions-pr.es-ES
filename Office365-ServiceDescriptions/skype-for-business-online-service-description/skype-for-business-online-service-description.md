@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - skype-for-business-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: a252878e-7b05-4470-b217-340b309e610f
 description: Consulta qué Skype Empresarial online están disponibles en los diferentes planes Microsoft 365 y Office 365 online.
-ms.openlocfilehash: a340fb2eb2cc1bf82d5d572120f2b7b52d030552779652ae34c90a49b350dd1e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: eb342b941e4c60d95cac9e71795364635d2d0376
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702449"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669593"
 ---
 # <a name="skype-for-business-online-service-description"></a>Descripción del servicio Skype Empresarial Online
 

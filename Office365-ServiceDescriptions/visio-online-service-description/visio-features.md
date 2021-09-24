@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - visio-online-service-descriptoin
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: e30f5628-7be2-4179-9f31-c1fc2e6db572
 description: Visio para la web amplía la experiencia de Microsoft Visio al explorador, donde puede crear y editar diagramas guardados en la nube. Microsoft 365 clientes pueden ver, imprimir y compartir diagramas e insertar comentarios sobre la marcha.
-ms.openlocfilehash: c4980675f64f02abae6d0f8e5ef2250a3d2327ab8b016a65cac30137d25558bd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 35c801c4753676b9a1e0674972ce0c5a6c222b2c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702239"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670648"
 ---
 # <a name="visio-features"></a>Visio Características
 

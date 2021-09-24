@@ -6,14 +6,14 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Obtenga información sobre las principales SharePoint Syntex disponibles en los planes Microsoft 365, Office 365 y SharePoint Online.
-ms.openlocfilehash: 7febd3615d61fd2aa219ea8a5075f0d591fe41df5a179a8ca2f2f0d74007f5e7
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 05e208a2e1e37a2b4be6d63bdf32d46085e53fef
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702529"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669629"
 ---
 # <a name="sharepoint-syntex-features"></a>Características de SharePoint Syntex 
 

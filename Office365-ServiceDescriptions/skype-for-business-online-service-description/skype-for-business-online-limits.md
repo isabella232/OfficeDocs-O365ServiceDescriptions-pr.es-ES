@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - skype-for-business-online-limits
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: bf5b04bf-8506-40e1-a6b6-7503fe24b37b
 description: En este artículo se describen los límites que se aplican en Skype Empresarial Online.
-ms.openlocfilehash: 5004a27a5111d963e9dfdf3308c2ed7865a4b9972a1d4752342d59ea873e456c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4a3e39caae437610e48e8a19fa699a4cdca279c7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702488"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669609"
 ---
 # <a name="skype-for-business-online-limits"></a>Límites de Skype Empresarial Online
 
@@ -116,7 +116,7 @@ Los límites de Skype Empresarial Online se aplican a las siguientes categorías
 > [!NOTE]
 > Cada persona puede tener un máximo de 1000 conferencias en la base de datos en cualquier momento. 
   
-| Tipo de reunión | Descripción |
+| Tipo de reunión | Description |
 |:-----|:-----|
 |Reunión única| La reunión será accesible al menos hasta 14 días después de la hora programada, la última activación de la reunión o la última actualización de la reunión, lo que sea más reciente.
 |Reunión periódica con fecha de finalización| La reunión será accesible al menos hasta 14 días después de la hora de finalización programada de la última aparición de la reunión, la última activación de la reunión o la última actualización de la reunión, lo que sea más reciente.

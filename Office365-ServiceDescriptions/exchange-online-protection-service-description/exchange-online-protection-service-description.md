@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c9127cb4-689c-43b0-b224-a44ebf4374c8
 description: obtenga información sobre las características y los requisitos de Exchange Online Protection. Se incluye una lista de planes que proporcionan Exchange Online Protection, así como una comparación de características en esos planes.
-ms.openlocfilehash: 2a7f5bd6c2750d4ce5d348e7fc8438a335533a46466fccc16318a133e1639e4e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a82468c95f8d674bb2e4b27abc668074f222b419
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664233"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670722"
 ---
 # <a name="exchange-online-protection-service-description"></a>Descripción del servicio Exchange Online Protection
 
@@ -143,7 +143,7 @@ Para conocer los términos y condiciones de licencia de los productos y servicio
 
 ### <a name="messaging"></a>Mensajería 
 
-Para realizar un seguimiento de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, vaya al Centro de mensajes. Para obtener más información, consulte el [Centro de mensajes](/microsoft-365/admin/manage/message-center).
+Para realizar un seguimiento de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, vaya al Centro de mensajes. Para obtener más información, consulte [Centro de mensajes](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accesibilidad
 

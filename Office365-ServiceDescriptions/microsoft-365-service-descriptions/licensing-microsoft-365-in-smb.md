@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Empresa Premium es la mejor oferta de Microsoft para clientes de pequeñas y medianas empresas. Microsoft 365 Empresa Premium es una solución integrada que reúne Microsoft 365 productividad, seguridad avanzada y administración de dispositivos.
-ms.openlocfilehash: 96a826ef61c283ad2aa402f5ef3c93bb96e519da4a8937944d9e5dc0c99e9983
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 66832d3ae1a74f5551bbb689eb7ac07d197b1e2b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663573"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670467"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamiento de Microsoft 365 para pequeñas y medianas empresas
 
@@ -33,7 +33,6 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 |**Almacenamiento de archivos.** | OneDrive para la Empresa  | 1 TB por usuario | 1 TB por usuario |
 |**Redes sociales, vídeo, sitios** | Stream, Yammer, Planner, SharePoint Online, PowerApps, Power Automate | Sí | Sí |
 |**Aplicaciones empresariales** | Programación de aplicaciones &ndash; Bookings<sup>1</sup> | Sí | Sí |
-|   | Aplicaciones empresariales &ndash; MileIQ<sup>1</sup> | Sí | Sí |
 |**Protección contra amenazas** | Microsoft Defender para Office 365 | No | Sí |
 |   | Windows Protección contra vulnerabilidades de seguridad | No | Sí  |
 |**Administración de identidades** | Restablecimiento de contraseñas de autoservicio para cuentas Azure Active Directory híbridas | No | Sí |
@@ -43,7 +42,7 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 |   | Windows AutoPilot, administración Windows Pro administración | No | Sí |
 |   | Derechos de actualización Windows 10 Pro para licencias de Pro Win 7/8.1 | No | Sí |
 |   | Windows Virtual Desktop | No | Sí |
-|**Protección de la información** | Prevención de pérdida de datos de Microsoft | No | Sí |
+|**Protección de información** | Prevención de pérdida de datos de Microsoft | No | Sí |
 |   | Plan 1 de Azure Information Protection, cumplimiento de BitLocker | No | Sí |
 |**Cumplimiento** | Archivado de correo<sup>electrónico ilimitado 2</sup> | No | Sí |
 
@@ -64,7 +63,6 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 |**Almacenamiento de archivos.** | OneDrive para la Empresa | Ilimitado | 1 TB por usuario |
 |**Redes sociales, vídeo, sitios** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power Automate<sup>1</sup> | Sí | Sí |
 |**Aplicaciones empresariales** | Programación de aplicaciones &ndash; Bookings<sup>2</sup> | Sí | Sí |
-|   | Aplicaciones empresariales &ndash; MileIQ<sup>2</sup> | No | Sí |
 |**Protección contra amenazas** | Microsoft Defender para Office 365 | No | Sí |
 |   | Windows Protección contra vulnerabilidades de seguridad | No | Sí |
 |**Administración de identidades** | Restablecimiento de contraseñas de autoservicio para cuentas Azure Active Directory híbridas | No | Sí |
@@ -97,7 +95,6 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 |**Almacenamiento de archivos.** | OneDrive para la Empresa | 1 TB por usuario | 1 TB por usuario | Ilimitado |
 |**Redes sociales, vídeo, sitios** | Stream, Yammer, Planner, SharePoint Online<sup>1</sup>, PowerApps<sup>1</sup>, Power Automate<sup>1</sup> | Sí | Sí | Sí |
 |**Aplicaciones empresariales** | Programación de aplicaciones &ndash; Bookings<sup>2</sup> | Sí | Sí | Sí |
-|   | Aplicaciones empresariales &ndash; MileIQ<sup>2</sup> | Sí | Sí | No |
 |**Protección contra amenazas** | Microsoft Defender para Office 365 | No | Sí | No |
 |   | Windows Protección contra vulnerabilidades de seguridad | No | Sí | No |
 |**Administración de identidades** | Restablecimiento de contraseñas de autoservicio para cuentas Azure Active Directory híbridas | No | Sí | No |
@@ -131,7 +128,6 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 |**Redes sociales, vídeo, sitios** | Yammer, SharePoint Online, Planner | Sí | Sí | Sí | Sí |
 |   | Stream | | Sí | Sí | Sí |
 |**Aplicaciones empresariales** | Programación de aplicaciones &ndash; Bookings<sup>1</sup> | Sí | Sí | Sí | Sí |
-|   | Aplicaciones empresariales &ndash; MileIQ<sup>1</sup> | Sí | Sí | No | No |
 |**Protección contra amenazas** | Microsoft Advanced Threat Analytics, Device Guard, Credential Guard, AppLocker, Enterprise Data Protection | No | No | Sí | Sí |
 |   | Microsoft Defender para Office 365 | No | Sí | No | Sí |
 |   | Microsoft Defender para punto de conexión | No | No | No | Sí |
@@ -160,7 +156,7 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 
 ## <a name="office-client-commercial-plans"></a>Office planes comerciales de cliente
 
-| **Aplicaciones** | **Aplicaciones de Microsoft 365 para negocios** | **Aplicaciones de Microsoft 365 para empresas** |
+| **Applications** | **Aplicaciones de Microsoft 365 para negocios** | **Aplicaciones de Microsoft 365 para empresas** |
 |------------------|-------------------------|------------------------|
 | Word             | Sí                     | Sí                    |
 | Excel            | Sí                     | Sí                    |
@@ -190,10 +186,10 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 | 1 TB OneDrive para la Empresa       | Sí                     | Sí                    |
 | **Licencias**                                   | **Aplicaciones de Microsoft 365 para negocios** | **Aplicaciones de Microsoft 365 para empresas** |
 | Modelo de licencias                                 | Por usuario                | Por usuario               |
-| Tipo de licencia                                    | Suscripción             | Suscripción            |
-| PC/Mac instala<sup>6</sup>                     | 5                        | 5                      |
-| Smartphone iOS/Android instala<sup>6</sup>     | 5                        | 5                      |
-| Tablet instala<sup>6</sup>                     | 5                        | 5                      |
+| Tipo de licencia                                    | Suscripción            | Suscripción           |
+| PC/Mac instala<sup>6</sup>                     | 5                       | 5                      |
+| Smartphone iOS/Android instala<sup>6</sup>     | 5                       | 5                      |
+| Tablet instala<sup>6</sup>                     | 5                       | 5                      |
 | Office Derechos comerciales rt                     | Sí                     | Sí                    |
 | Office Aplicaciones en línea/web                          | Sí                     | Sí                    |
 | Derechos de uso comercial                           | Sí                     | Sí                    |

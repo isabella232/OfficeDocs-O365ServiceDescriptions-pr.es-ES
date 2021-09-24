@@ -10,18 +10,18 @@ f1_keywords:
 keywords:
 - office 365 for business,Office 365
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 3e901a5d-ddaf-4c68-81ae-46f524311eea
 description: Microsoft Office 365 está disponible en varios planes para satisfacer mejor las necesidades de su organización.
-ms.openlocfilehash: d06ab7f8f172c1f72ad195b9e2e5951f19dcaff8c6fa75eb476e748d97212c18
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: bd2b27b046a14dd9d4ba4272d699cc5b5d8d4b73
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701669"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670638"
 ---
 # <a name="microsoft-365-and-office-365-plan-options"></a>Opciones de planes de Microsoft 365 y Office 365
 

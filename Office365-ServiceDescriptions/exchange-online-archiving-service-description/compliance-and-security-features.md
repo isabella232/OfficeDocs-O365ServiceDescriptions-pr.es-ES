@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - compliance-and-security-features-in-exchange-online-archiving
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 7482322a-39fe-4a99-b29c-63cb1bc3cf1f
 description: Lea este artículo para obtener información sobre las características de cumplimiento disponibles en Microsoft Exchange Online archivado.
-ms.openlocfilehash: a85ac5ec69905ca30b00871fa72110df87720588d2599e8afdf9da00f1044dc9
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e3dbf6db56830186324470714d76a05fc38c111f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664602"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670739"
 ---
 # <a name="compliance-and-security-features-in-exchange-online-archiving"></a>Características de cumplimiento y seguridad en Archivado de Exchange Online
 
