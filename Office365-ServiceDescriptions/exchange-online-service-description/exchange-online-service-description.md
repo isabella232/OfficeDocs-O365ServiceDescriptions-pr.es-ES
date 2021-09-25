@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Está buscando una comparación de características de suscripciones que incluyan Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: 596d0663c91a7ed3c2e423301a90fddaee7908b5d1da04e4d04f860c0c31ae14
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: c4daf506b60198d9bf3abeaec010dc5dc3b03888
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663993"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672073"
 ---
 # <a name="exchange-online-service-description"></a>Descripción de servicio de Exchange Online
 
@@ -82,7 +82,7 @@ Para ver la disponibilidad de características Microsoft 365 Empresa Premium, [v
 |Permisos basados en roles|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Grupos de funciones|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Directivas de asignación de funciones|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
-|**[Regulación de mensajes y cumplimiento](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Directiva y cumplimiento de mensajes](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Archivado de buzones basados en Exchange Online| No|No|Sí|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|No|
 |Archivado basado en nube de buzones locales|Sí<sup>1</sup>|Sí<sup>1</sup>|No|No|Sí|Sí|Sí|No|
 |Messaging Records Management (MRM) |Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -218,7 +218,7 @@ Se admite POP <sup>12,</sup> pero IMAP no. <br/>
 |Permisos basados en roles|Sí|Sí|Sí|Sí|No|
 |Grupos de funciones|Sí|Sí|Sí|Sí|No|
 |Directivas de asignación de funciones|Sí|Sí|Sí|Sí|No|
-|**[Regulación de mensajes y cumplimiento](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Quiosco de Exchange Online**|
+|**[Directiva y cumplimiento de mensajes](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Quiosco de Exchange Online**|
 |Archivado de buzones basados en Exchange Online|Sí|No|Sí|Sí|No|
 |Archivado basado en nube de buzones locales|Sí<sup>5</sup>|Sí<sup>5</sup>|No|Sí|No|
 |Messaging Records Management (MRM) |Sí|Sí|Sí|Sí|Sí|

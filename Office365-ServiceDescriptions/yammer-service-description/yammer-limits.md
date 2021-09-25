@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - yammer-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ''
 description: Obtenga información sobre los límites de servicio en Yammer para Microsoft 365.
-ms.openlocfilehash: 6ce13069239cc0b7b39adf2e9850b0cd46a12910f9dca6b61aea2600d7591402
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b69c4b26e577ee31f000d6e027f3d77c6ff823a3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702269"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673104"
 ---
 # <a name="limits-in-yammer"></a>Límites de Yammer
 
@@ -39,7 +39,7 @@ Obtenga información sobre los límites de servicio en Yammer para Microsoft 365
 | Número de datos adjuntos de archivo por publicación | Cada publicación puede tener un máximo de 100 archivos. |
 | Formatos de vídeo compatibles | Los siguientes tipos de vídeo son compatibles con la reproducción en línea: .wmv, .avi, .mpeg, .3gp, .flv, .mov, .mp4, .mpg, .ogm, .mkv, .ogv y .ogg. <br/>Yammer usa Azure Media Services para mostrar vídeos cargados en Yammer. |
 | Reproducción de vídeo en línea | Microsoft Stream, SharePoint Online, YouTube y Vimeo son compatibles con la reproducción en línea. |
-| Acceso de invitado | Microsoft 365 El modo nativo para Yammer es necesario para la compatibilidad completa con invitados. <br/>Los invitados heredados de nivel de red pueden experimentar problemas de acceso a archivos. |
+| Acceso de invitados | Microsoft 365 El modo nativo para Yammer es necesario para la compatibilidad completa con invitados. <br/>Los invitados heredados de nivel de red pueden experimentar problemas de acceso a archivos. |
 | Vistas previas de vínculos (Graph objetos) | Los vínculos a sistemas internos que no se pueden resolver públicamente o que requieren autenticación no mostrarán vistas previas válidas porque no se pueden extraer metadatos. |
 
 ## <a name="yammer-live-event-limits"></a>Yammer de eventos en directo
@@ -48,7 +48,7 @@ Obtenga información sobre los límites de servicio en Yammer para Microsoft 365
 |---------|---------|
 | Número de visores de eventos en directo | Actualmente, el límite es de 10.000 participantes. Para eventos de mayor tamaño, trabaje a través del [Programa de asistencia de eventos en directo](https://resources.techcommunity.microsoft.com/live-events/assistance/). |
 | Permisos de creación de eventos en directo | Se requiere permiso para crear eventos en directo en Stream. <br/>Community administradores de Yammer pueden crear o programar eventos en directo. |
-| Acceso de invitado | Los miembros de la red canónica pueden crear o asistir a eventos en directo en Yammer. |
+| Acceso de invitados | Los miembros de la red canónica pueden crear o asistir a eventos en directo en Yammer. |
 | Subtítulos cerrados | Los títulos cerrados no están disponibles para eventos en directo en Yammer. Una actualización futura agregará compatibilidad con los títulos cerrados. |
 | Duración del evento | 4 horas |
 | Eventos en directo simultáneos que se Microsoft 365 o Office 365 organización | 50 eventos por inquilino |
@@ -69,7 +69,7 @@ Para obtener más límites Microsoft Teams eventos en directo y reuniones, [vea 
 | Comunidades conectadas y Sincronización de Azure AD | La latencia con sincronización puede producirse con una pertenencia a la comunidad de más de 100 K. |
 | Miembros de toda la compañía | Incluye todos los usuarios del espacio empresarial. |
 | Número de comunidades oficiales | Sin límite |
-| Número de comunidades de favoritos | 10  |
+| Número de comunidades de favoritos | 10 |
 | Community de caracteres de nombre | Depende de la convención de nomenclatura de la red. <br/>Máximo de 255 caracteres, incluido cualquier prefijo. |
 | Community de caracteres de descripción | 150 caracteres |
 | Community información | Sin límite de caracteres (hasta 1 GB) |

@@ -7,15 +7,15 @@ ms.reviewer: dstrome
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Business Voice es un servicio de complemento que le permite usar Microsoft Teams llamadas telefónicas. Esto combina sistema telefónico, plan de llamadas nacionales, SMS y audioconferencia.
-ms.openlocfilehash: 90563ef54d57b823b675907868fc067adbe39b091f7955bb8814b55c910406cd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: cf759b14c6e3b1903a52206b8a97745105f5360c
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663583"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671699"
 ---
 # <a name="microsoft-365-business-voice-service-description"></a>Descripción del servicio de Microsoft 365 Business Voice
 
@@ -51,7 +51,7 @@ En la tabla siguiente se enumeran las Microsoft 365 Business Voice principales d
 | Estacionamiento de llamadas | Sí | Sí<sup>*</sup> |
 | Desvío de llamadas | Sí | Sí<sup>*</sup> |
 | Delegación de llamadas (compartir una línea telefónica con un delegado) | Sí | Sí<sup>*</sup> |
-| Música en espera | Sí | Sí<sup>*</sup> |
+| Música en espera. | Sí | Sí<sup>*</sup> |
 | Bloque de llamadas | Sí | Sí<sup>*</sup> |
 | Marcado de extensión de operador automático | Sí | Sí<sup>*</sup> |
 | Transferencia de cola de llamadas/operador automático al correo de voz compartido | Sí | Sí<sup>*</sup> |
@@ -80,7 +80,7 @@ Para conocer los términos y condiciones de licencia de los productos y servicio
 
 ### <a name="messaging"></a>Mensajería 
 
-Para realizar un seguimiento de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, vaya al Centro de mensajes. Para obtener más información, consulte el [Centro de mensajes](/microsoft-365/admin/manage/message-center).
+Para realizar un seguimiento de los próximos cambios, incluidas las características nuevas y modificadas, el mantenimiento planeado u otros anuncios importantes, vaya al Centro de mensajes. Para obtener más información, consulte [Centro de mensajes](/microsoft-365/admin/manage/message-center).
 
 ### <a name="accessibility"></a>Accesibilidad
 

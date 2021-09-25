@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general sobre las diferencias de características entre la nube del gobierno de Estados Unidos y la nube comercial, tal como se muestra en la Exchange Online de servicio.
-ms.openlocfilehash: caae2f98eb21bc640be33044448ce94746b3a449
-ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
+ms.openlocfilehash: 674d2e50b11624f206797cfef97883e9fda87df5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58702312"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671079"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online entornos gubernamentales de Estados Unidos
 
@@ -59,7 +59,7 @@ En la tabla siguiente se describe si las características Exchange Online están
 |Cifrado de datos en reposo (BitLocker)|Sí|Sí|Sí||
 |IRM con Azure Information Protection|Sí|Sí|Sí|Para obtener más información acerca de las limitaciones de AIP en GCC High y DoD, vea <a href="/enterprise-mobility-security/solutions/ems-aip-premium-govt-service-description">Azure Information Protection Premium Government Service Description</a>.<br><br>Azure Information Protection no se incluye en G1/F3, pero se puede comprar como un complemento independiente y habilitará las características compatibles de Information Rights Management (IRM). Algunas características de Azure Information Protection requieren una suscripción a Office 365 ProPlus, que no se incluye con Office 365 Administración Pública G1 o Office 365 Administración Pública F3.|
 |IRM con Windows Server AD RMS|Sí|Sí|Sí|Windows Server AD RMS es un servidor local que debe adquirirse y administrarse por separado para habilitar las características de IRM compatibles.|
-|Cifrado de mensajes de Office 365|Sí|Sí|Sí|Vea Cifrado de mensajes de Office 365 comportamiento [GCC](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) través de un límite alto/doD en este artículo y Características únicas de Cifrado de mensajes de Office 365 en una implementación de <a href="/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">GCC High</a>, que documentan los matices de comportamiento de Cifrado de mensajes de Office 365 al enviar mensajes entre usuarios de GCC High/DoD y usuarios no GCC High/DoD.|
+|Cifrado de mensajes de Office 365|Sí|Sí|Sí|Vea Cifrado de mensajes de Office 365 comportamiento en GCC límite de [alto/doD](#office-365-message-encryptionbehavior-across-gcc-highdod-boundary) en este artículo y Características únicas de Cifrado de mensajes de Office 365 en una implementación de <a href="/microsoft-365/compliance/ome-version-comparison#unique-characteristics-of-office-365-message-encryption-in-a-gcc-high-deployment">GCC High</a>, que documenta los matices de comportamiento de Cifrado de mensajes de Office 365 al enviar mensajes entre GCC high/doD y usuarios no GCC high/doD.|
 |Clave de cliente|Sí|Sí|Sí|Requiere un plan de servicio G5.|
 |S/MIME|Sí|Sí|Sí||
 |Conservación local y retención por juicio|Sí|Sí|Sí|Requiere un plan de servicio G3 o G5.|

@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-mail-flow
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 8e5267e6-d224-485b-a081-c71a1fd0c4c3
 description: Para la mayoría de las organizaciones, hospedamos sus buzones y nos encargamos del flujo de correo. Es la configuración más sencilla y significa que Microsoft administra todos los buzones y el filtrado. En cambio, algunas organizaciones necesitan una configuración del flujo de correo más compleja para asegurarse de que cumplen con necesidades normativas o empresariales específicas. Puede obtener información sobre esas opciones aquí.
-ms.openlocfilehash: fafaab4b4bec705c00df5fd47d80fd30138a8a9b6da1c1707ae4e087de8b617e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b51c3f6661047e3e3ea446dbac6f81866c5db27b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663793"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671893"
 ---
 # <a name="mail-flow"></a>Flujo del correo
 

@@ -7,15 +7,15 @@ ms.reviewer: mkashman
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Obtenga información sobre la SharePoint de características para los clientes en la nube del gobierno de Estados Unidos.
-ms.openlocfilehash: 77b72801b5c1eb0f80fa94aded406000e339d98c
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: 1c584c3bfd62b7573f4c9bcc0c0fb5402b2d9bef
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371777"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673008"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint entornos gubernamentales de Estados Unidos
 
@@ -36,7 +36,7 @@ Nuestro objetivo es ofrecer todas las SharePoint y funcionalidades comerciales a
 
 ## <a name="developer-features"></a>Características de desarrollador
 
-No hay diferencias conocidas entre las características de desarrollador para clientes comerciales y las de los clientes en la nube gubernamentales.
+No hay diferencias conocidas entre las características de desarrollador para clientes comerciales y las características de desarrollador para los clientes de la nube gubernamental.
 
 - Las conexiones a aplicaciones externas, como orígenes de datos para complementos, se limitan a orígenes que se encuentran dentro de los límites de seguridad del sistema admitidos por el entorno gubernamental.
 - Servicios de conectividad empresarial (BCS) es compatible con escenarios de conectividad en los que los orígenes de datos permanecen accesibles dentro del límite de seguridad del servicio en la nube.
@@ -45,10 +45,9 @@ Si usa aplicaciones de terceros en sitios, revise las declaraciones de privacida
 
 ## <a name="it-admin-features"></a>Características de administración de TI
 
-Estas son las diferencias entre las características de administración de TI para clientes comerciales y las de los clientes de la nube gubernamental.
+Estas son las diferencias entre las características de administración de TI para clientes comerciales y las características de administración de TI para los clientes de la nube del gobierno.
 
 - Cambiar una dirección de sitio no está disponible para GCC high
-- El servidor SharePoint híbrido no está disponible para todos los clientes de la nube gubernamental
 - La SharePoint de migración y el Administrador de migración requieren un cambio de configuración. Para obtener información, consulta [SPMT government cloud support](/sharepointmigration/spmt-install-issues#government-cloud-support).
 - Mover.io aún no se admite
 - Multi-geo no está disponible para todos los clientes de la nube gubernamental
@@ -57,7 +56,7 @@ Para obtener información sobre FastTrack migración, [consulta la Office 365 de
 
 ## <a name="security-and-compliance-features"></a>Características de seguridad y cumplimiento
 
-No hay diferencias conocidas entre las características de seguridad y cumplimiento de los clientes comerciales y las de los clientes de la nube gubernamental.
+No hay diferencias conocidas entre las características de seguridad y cumplimiento para clientes comerciales y las características de seguridad y cumplimiento para los clientes de la nube gubernamental.
 
 Para obtener información sobre las características de seguridad y cumplimiento, vea [el Centro de seguridad & cumplimiento](../office-365-securitycompliance-center.md).
 
@@ -69,7 +68,7 @@ Para obtener información sobre SharePoint Syntex características, vea el Share
 
 ## <a name="sites-and-content"></a>Sitios y contenido
 
-Estas son las diferencias entre los sitios y las características de contenido de los clientes comerciales y los de los clientes de la nube gubernamental:
+Estas son las diferencias entre los sitios y las características de contenido para clientes comerciales y los sitios y las características de contenido para los clientes de la nube gubernamental:
 
 - Los elementos web que dependen de las conexiones a servicios de Internet, como los elementos web Amazon Kindle, mapas de Bing, Twitter y YouTube, no funcionarán como se esperaba.
 - La biblioteca de activos de la organización no está disponible
@@ -81,7 +80,7 @@ Estas son las diferencias entre los sitios y las características de contenido d
 
 ## <a name="search-features"></a>Características de búsqueda
 
-Estas son las diferencias entre las características de búsqueda de los clientes comerciales y las de los clientes de la nube gubernamental:
+Estas son las diferencias entre las características de búsqueda para clientes comerciales y las características de búsqueda para los clientes de la nube gubernamental:
 
 - Búsqueda de Microsoft no está disponible en GCC.
 
@@ -98,3 +97,41 @@ El paso a la nube ofrece experiencias transformadoras con controles de administr
 Después de configurar la organización en la nube del gobierno de Microsoft US, siga la ruta de implementación recomendada que se describe en el centro de recursos [SharePoint adopción.](https://resources.techcommunity.microsoft.com/resources/SharePoint-adoption/) Asegúrese de interactuar con sus campeones de adopción y administración de cambios.
 También puede trabajar con [FastTrack](https://www.microsoft.com/fasttrack) o el partner elegido para realizar el servicio a los usuarios.
 Visite el [Centro de confianza](https://www.microsoft.com/trust-center) de Microsoft para obtener más información sobre cómo Microsoft aborda la seguridad, la privacidad y el cumplimiento, principios básicos de cómo habilitamos a las organizaciones para que sirvan a sus clientes.
+
+## <a name="configuring-sharepoint-hybrid-configuration-wizard-support-for-all-government-cloud-customers"></a>Configuración de la SharePoint de configuración híbrida para todos los clientes de la nube gubernamental
+
+El SharePoint de configuración híbrida contiene compatibilidad con SharePoint características híbridas con entornos de SPO especiales.
+
+Debe editar el valor de un parámetro relacionado con el entorno en un archivo **.config** para que las SharePoint híbridas estén disponibles para ese entorno. Consulte [Edición del archivo de configuración](#editing-configuration-file).
+
+> [!NOTE]
+> Para obtener información sobre los entornos de SPO especiales para los que SharePoint características híbridas ofrecen compatibilidad, vea [Supported Environments](#supported-environments).
+
+## <a name="editing-configuration-file"></a>Editar archivo de configuración
+
+1. Instale o actualice el Asistente SharePoint de configuración híbrida.
+2. Vaya a la carpeta en la que está instalado SharePoint de configuración híbrida. Por ejemplo: `%LOCALAPPDATA%\Apps\HybridSP\HybridSP`
+3. Inicie el **archivomicrosoft.online.cse.hybridsp.common.dll.config** en un editor de texto como Bloc de notas.
+El contenido de este archivo se muestra en la siguiente captura de pantalla:
+
+:::image type="content" source="../../media/content.png" alt-text="El contenido del archivo de configuración":::
+
+4. Modifique el valor del `SPOEnvironmentType` parámetro.
+5. Guarde los cambios en el **microsoft.online.cse.hybridsp.common.dll.config** archivo.
+6. Vuelva a iniciar el Asistente SharePoint configuración híbrida.
+   La configuración se aplica y las SharePoint híbridas están disponibles en el entorno de SPO configurado.
+
+## <a name="supported-environments"></a>Entornos compatibles
+
+SharePoint características híbridas admiten los siguientes entornos de SPO:
+
+- Público
+- PPE
+- GCC
+- GccHigh
+- DoD
+- Personalizado
+
+Si un cliente establece el valor en Custom , , y las claves se usan para establecer esos puntos de conexión `SPOEnvironmentType` para ese entorno  `AuthorityEndPoint` `AADGraphEndPoint` `MSGraphEndPoint` SPO personalizado.
+
+Si el valor se establece en cualquier valor que no sea Custom , las claves , y se omiten y el Asistente para configuración híbrida de SharePoint usa valores codificados de forma rígida adecuados para esos tipos de entorno `SPOEnvironmentType`  `AuthorityEndPoint` de `AADGraphEndPoint` `MSGraphEndPoint` SPO.

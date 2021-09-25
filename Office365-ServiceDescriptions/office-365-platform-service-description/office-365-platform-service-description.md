@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-platform-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 721676a0-5108-488e-ae0c-7316617d0006
 description: Microsoft 365 y Office 365 están disponibles en una variedad de planes para satisfacer mejor las necesidades de su organización. Si está buscando las diferencias entre los planes, incluidos los planes Exchange Online, este artículo le mostrará qué características se incluyen en cada uno de ellos.
-ms.openlocfilehash: 81734f31224024ecb0f54c4c33fe4071cffae438
-ms.sourcegitcommit: 40a8e3be736d1177d046da50639a5685aca18707
+ms.openlocfilehash: d516d9dedc812c8dee10f8eb302ddaff64ac5334
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "58402774"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671342"
 ---
 # <a name="microsoft-365-and-office-365-platform-service-description"></a>Descripción del servicio de la plataforma de Microsoft 365 y Office 365
 
@@ -98,12 +98,12 @@ Varios de los Microsoft 365 planes para empresas tienen complementos que puede c
 |**[Características del conjunto de aplicaciones de Microsoft 365](office-365-suite-features.md)** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Reservas de Microsoft  <br/> |No  <br/> |No  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Correo electrónico de Microsoft Briefing<sup>19</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft Power Automate  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>12</sup> <br/> |
+|[Microsoft Power Automate](/power-automate/us-govt)  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>12</sup> <br/> |
 |Microsoft Forms  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |API de Microsoft Graph  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft MyAnalytics<sup>17</sup>  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Microsoft Planner  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
-|Microsoft PowerApps  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> | 
+|[Microsoft PowerApps](/power-platform/admin/powerapps-us-government)  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> | 
 |Microsoft Project para la web <sup>20</sup> <br/> |Sí <br/> |No <br/>|Sí <br/> |Sí <br/> |Sí <br/> |Sí <br/> | Sí <br/> |
 |Microsoft StaffHub  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Microsoft Stream  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>11</sup> <br/> |
@@ -112,7 +112,7 @@ Varios de los Microsoft 365 planes para empresas tienen complementos que puede c
 |Microsoft Delve  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Grupos de Microsoft 365  <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
 |Bloc de notas de clase de OneNote  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |Sí<sup>13</sup> <br/> |No  <br/> |
-|Microsoft Kaizala<sup>16</sup> <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> |
+|[Microsoft Kaizala](https://products.office.com/business/microsoft-kaizala)<sup>16</sup> <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> |
 |Búsqueda de Microsoft|No  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |
 |**[Administración de cuentas de usuario](user-account-management.md)** <br/> |**Microsoft 365 Empresa Básico** <br/> |**Aplicaciones de Microsoft 365 para negocios** <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Office 365 Enterprise E1** <br/> |**Office 365 Enterprise E3** <br/> |**Office 365 Enterprise E5** <br/> |**Office 365 Enterprise F3** <br/> |
 |Identidad de la nube, identidad federada o autenticación con varios factores  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |
@@ -222,7 +222,7 @@ Varios de los Microsoft 365 planes para empresas tienen complementos que puede c
 <br/><sup>13</sup> Solo disponible en Office 365 Educación planes, incluido Office 365 E5 Educación. No está disponible en Office 365 Enterprise E5. 
 <br/><sup>14</sup> Para obtener más información, vea [Cifrado de servicio con clave de cliente](https://support.office.com/article/f2cd475a-e592-46cf-80a3-1bfb0fa17697). 
 <br/><sup>15</sup> Advanced eDiscovery se admite en los Estados Unidos y en la región de Europa occidental (Países Bajos). (Los datos de los clientes de Canadá y Asia Pacífico se exportan a Estados Unidos. Los datos de los clientes de Europa, Oriente Medio y África se exportan a Europa Occidental [Países Bajos]).
-<br/><sup>16</sup> A partir de mayo de 2019, las SKU elegibles existentes de Office 365 y Microsoft 365 se rellenarán con Kaizala Pro. A partir del 1 de junio de 2019, Kaizala Pro se incluirá en todas las SKU Office 365 y Microsoft 365 elegibles.
+<br/><sup>16</sup> A partir de mayo de 2019, las SKU elegibles existentes de Office 365 y Microsoft 365 se rellenarán con Kaizala Pro. A partir del 1 de junio de 2019, Kaizala Pro se incluirá en todas las SKU Office 365 y Microsoft 365 elegibles. Para obtener más información sobre Microsoft Kaizala, [vea Microsoft Kaizala](https://products.office.com/business/microsoft-kaizala).
 <br/><sup>17</sup> Para obtener más información, vea [MyAnalytics plans and environments](/workplace-analytics/myanalytics/overview/plans-environments).
 <br/><sup>18</sup> Incluye las características Azure Active Directory descritas en la **columna Office 365 Aplicaciones** de la página Azure Active Directory [precios.](https://azure.microsoft.com/pricing/details/active-directory/) Debe agregar Azure Active Directory Plan 1 o Plan 2, Enterprise Mobile Security o Microsoft 365 E3 o E5 para obtener las características premium de Azure AD.<br/>
 <sup>19</sup> El correo electrónico de información se proporciona automáticamente a todos los usuarios de Exchange Online. Para obtener más información, vea [Configure Briefing email](/Briefing/be-admin).<br>

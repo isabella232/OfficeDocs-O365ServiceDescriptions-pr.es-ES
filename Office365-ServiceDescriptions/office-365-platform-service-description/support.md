@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-support
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Con cada Microsoft Office 365 para empresas, empresas, educación y suscripción gubernamental, el soporte técnico de Microsoft proporciona soporte técnico global, preventa, facturación y suscripción. El soporte técnico está disponible tanto en línea Centro de administración de Microsoft 365 como por teléfono para las suscripciones de pago y de prueba. Para obtener más información, consulta Opciones de soporte técnico de Microsoft.
-ms.openlocfilehash: 55c947fde5004c876f2dfcb95ad2e9f47fe71e31da8026d91a2ab541e1aac566
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 3ade3daebeaf3986ef0bcb6b40189a09204858e0
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701659"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670035"
 ---
 # <a name="support"></a>Soporte técnico
 

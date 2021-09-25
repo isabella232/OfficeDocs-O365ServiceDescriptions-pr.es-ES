@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-planning-and-deployment
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: e44e5e61-1f5d-4e68-981d-77a42f0ea0d4
 description: Obtenga información sobre la planeación y la implementación en Microsoft Exchange Online.
-ms.openlocfilehash: 60edd1a35112f7344eaf4e0badf8a49f04c0daa99d7b11b94220ed9973b6faf6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8407f95e9a0d9cb721134fdf8cab46003339f197
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663673"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671794"
 ---
 # <a name="planning-and-deployment"></a>Planificación e implementación
 
@@ -50,7 +50,7 @@ Las organizaciones deben elegir las opciones de migración en función de sus si
   
 - **Migración de IMAP:** migre los datos de buzones de correo de sistemas de correo basados en IMAP a Exchange Online. 
     
-- Migración de **Exchange** de Exchange Server: migrar buzones de Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 y sistemas Exchange hospedados a Exchange Online en una única migración de escala. 
+- Migración de **Exchange:** migrar buzones de Exchange Server 2003, Exchange Server 2007, Exchange Server 2010, Exchange 2013 y sistemas Exchange hospedados a Exchange Online en una única migración de recorte. 
     
 - **Migración Exchange** por fases: realice una migración por fases para migrar buzones de correo de Exchange Server 2003 o Exchange Server 2007 con herramientas de migración basadas en web y cambios mínimos en la infraestructura local. 
     

@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 3f482abc-993f-41bf-8754-0f489a7e4861
 description: En respuesta a los requisitos únicos y en evolución del sector público de Estados Unidos, Microsoft ha creado planes de Office 365 Administración Pública para Estados Unidos (o Office 365 Administración Pública). En este artículo se proporciona información general sobre las características específicas de Office 365 Administración Pública entornos de Estados Unidos.
-ms.openlocfilehash: 5c98a1518149b69b625f2936ba690f3a251d4966
-ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
+ms.openlocfilehash: d97aa4d3824e594bd27fbb5d3a4a753af74353fb
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58702302"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671059"
 ---
 # <a name="office-365-government"></a>Office 365 Administración Pública
 
@@ -79,7 +79,7 @@ Office 365 Administración Pública servicios se proporcionan desde centros de d
 > [!NOTE]
 > Con el uso normal, Skype Empresarial no almacena contenido de cliente, pero si se produce dicho almacenamiento, estará en centros de datos ubicados en los Estados Unidos.
 
-Si los usuarios se encuentran dentro de LOS ESTADOS UNIDOS mientras usan Office para la Web (anteriormente conocidos como aplicaciones web de Office) o si adopta el uso de Servicios de federación de Active Directory (AD FS) 2.0 y configura directivas para ayudar a garantizar que los usuarios se conecten a los servicios a través del inicio de sesión único, cualquier contenido de cliente que se almacene temporalmente en caché en Office para la Web se ubicará en LOS ESTADOS UNIDOS.
+Si los usuarios se encuentran dentro de LOS ESTADOS UNIDOS mientras usan Office para la Web (anteriormente conocido como Office Web Apps) o si adopta el uso de Servicios de federación de Active Directory (AD FS) 2.0 y configura directivas para ayudar a garantizar que los usuarios se conecten a los servicios a través del inicio de sesión único, se localizará cualquier contenido de cliente que se almacene temporalmente en caché en Office para la Web d en EE.UU.
 
 La página Uso del sitio para SharePoint sitios está disponible para planes gubernamentales, aunque por cumplimiento, hay algunas características de esta página que solo están disponibles para clientes comerciales. Para obtener más información, vea Página de uso del sitio [para SharePoint sitios en Microsoft 365](https://support.microsoft.com/office/2fa8ddc2-c4b3-4268-8d26-a772dc55779e).
 

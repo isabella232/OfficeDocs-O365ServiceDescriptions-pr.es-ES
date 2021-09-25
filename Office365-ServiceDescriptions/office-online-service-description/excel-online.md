@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - excel-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 04e6538b-4fdc-4914-99ba-7ac10f048d37
 description: Excel para la Web (anteriormente Excel Web App) amplía la experiencia de Microsoft Excel al explorador web, donde puede trabajar con libros directamente en el sitio web donde se almacena el libro. Todos los clientes pueden ver y editar ligeramente Office archivos mediante Office para la Web.
-ms.openlocfilehash: fcb8211f8f37a6ce5b96ba2788ac72ebbd74c82b7dd857e58611547342670779
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 0f68d6142eb7e7fcb8858777a6ca11217b367289
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702019"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672771"
 ---
 # <a name="excel-for-the-web"></a>Excel para la web
 

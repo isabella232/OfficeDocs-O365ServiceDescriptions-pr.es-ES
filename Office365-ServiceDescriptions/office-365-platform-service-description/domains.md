@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-365-domains
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 5c374309-8016-4f18-8f2a-bceeb863ca67
 description: Al agregar un dominio, un asistente paso a paso le ayuda a agregar usuarios y convertir sus direcciones de correo electrónico y otros servicios al nombre de su empresa. Cuando complete el asistente, el correo electrónico empresarial empezará a llegar a Microsoft en lugar de ir a su proveedor de correo electrónico actual. Para obtener más información, consulta Agregar usuarios y dominios a Microsoft. Si Office 365 operado por 21Vianet, vea Comprobar el dominio.
-ms.openlocfilehash: 591364950fda2ebc070255a010435a74c4f2e6c41882236a1e35b987ba54c605
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 730165d82298a43af1cd9903e6bb5726e98f8ec5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54662993"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670325"
 ---
 # <a name="domains"></a>Dominios
 
@@ -49,7 +49,7 @@ Para obtener más información, vea How [Microsoft manages DNS records](/office3
   
 ## <a name="sharing-a-domain"></a>Compartir un dominio
 
-Puede pilotar algunas direcciones de correo electrónico para un dominio en Microsoft y otras en su proveedor de correo electrónico anterior. Esto solo se recomienda para su uso durante un piloto, ya que requiere pasos de configuración adicionales y tiene algunas limitaciones para servicios Microsoft. Para obtener más información, vea:
+Puede pilotar algunas direcciones de correo electrónico para un dominio en Microsoft y otras en su proveedor de correo electrónico anterior. Esto solo se recomienda para su uso durante un piloto, ya que requiere pasos de configuración adicionales y tiene algunas limitaciones para servicios Microsoft. Para más información vea:
   
 - [Piloto Microsoft 365 para una pequeña empresa](https://support.office.com/article/39cee536-6a03-40cf-b9c1-f301bb6001d7)
     

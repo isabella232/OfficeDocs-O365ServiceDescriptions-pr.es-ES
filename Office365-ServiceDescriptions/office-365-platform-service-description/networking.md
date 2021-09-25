@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-networking
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 073dea34-7fd8-4c1d-9a31-6bee87924a81
 description: Microsoft admite las siguientes características de red.
-ms.openlocfilehash: 9a10afd58fb61aafc4513baff25b9b6e4c0bb122808c56c12c98f5d62637ea76
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 63222b4554ed6abc9c20392061359bf849ca6518
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663083"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673084"
 ---
 # <a name="networking"></a>Redes
 

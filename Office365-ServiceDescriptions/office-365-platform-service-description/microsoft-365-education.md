@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ab7f06a3-cc4f-4f54-ad68-8ac92752a614
 description: Obtenga información sobre las diferencias entre los Microsoft 365 y Office 365 Educación planes.
-ms.openlocfilehash: c5bd3717da582fa2483f423b6519c72641143ad0a320c3e5697aed0c5eb1dbc8
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8db32ff04ffc142cc5be32f6ea41831eaf596288
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663003"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670315"
 ---
 # <a name="microsoft-365-education"></a>Microsoft 365 Educación
 
@@ -92,7 +92,7 @@ Cada Microsoft 365 Educación plan incluye una serie de servicios individuales, 
 |Administración de seguridad avanzada|No|Sí|Sí|Sí|Sí|No|No|No|No|
 |Intune para Educación<sup>6</sup>|No|No|No|Sí|Sí|No|No|Sí|Sí|
 |Advanced Threat Analytics|No|No|No|Sí|Sí|No|No|Sí|Sí|
-|Antivirus de Microsoft Defender|No|No|No|Sí|Sí|No|No|No|No|
+|Antivirus de Microsoft Defender|No|No|No|Sí|Sí|No|No|No|No|
 |Device Guard de Microsoft Defender|No|No|No|Sí|Sí|No|No|No|No|
 |Microsoft Defender para identity<sup>11</sup>|No|No|No|No|Sí|No|No|No|Sí|
 |Office 365 Cloud App Security|No|No|No|Sí|Sí|Sí|Sí|Sí|Sí|

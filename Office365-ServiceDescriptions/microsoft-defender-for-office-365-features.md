@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: ''
 description: Obtenga información sobre las características disponibles en Microsoft Defender para Office 365.
-ms.openlocfilehash: a4f7fe00162dc15d7f01be831842066ef448546ad36197fb0551d85dbfba73ef
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 591236d6028d57025d2dd7a9cfc5ef80d3617176
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663053"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671460"
 ---
 # <a name="microsoft-defender-for-office-365-features-service-description"></a>Descripción del servicio de características de Microsoft Defender para Office 365
 
@@ -63,7 +63,7 @@ Los vínculos seguros están disponibles para las direcciones URL en las siguien
 
 La [característica Caja fuerte documents usa](/microsoft-365/security/office-365-security/safe-docs) Microsoft Defender para [Endpoint](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) para examinar documentos y archivos que se abren en la [vista protegida](https://support.microsoft.com/office/what-is-protected-view-d6f09ac7-e6b9-4495-8e43-2bbcdbcb6653).
 
-¿Qué necesita saber antes de empezar?
+¿Qué necesita saber antes de comenzar?
 
 - Caja fuerte Los documentos ya están disponibles para los usuarios con Office versión 2004 (12730.x) o superior. Esta característica está desactivada de forma predeterminada y deberá estar habilitada por el administrador de seguridad.
 

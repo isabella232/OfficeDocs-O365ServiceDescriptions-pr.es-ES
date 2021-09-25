@@ -6,18 +6,18 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 6c1404a6-5f41-4afe-b4ce-8884348e32e9
 description: Office 365 Alemania es una opción diferenciada de los servicios Office 365 ya disponibles en toda Europa. Ayuda a satisfacer las necesidades de los clientes más regulados de Alemania, la Unión Europea (UE) y la Asociación Europea de Libre Comercio (AELC) al ofrecer nuestros servicios de productividad líderes en el sector para el trabajo digital, desde centros de datos alemanes, con residencia de datos en Alemania y medidas estrictas de acceso y control de datos a través de un modelo de administrador de datos único regido por la legislación alemana.
-ms.openlocfilehash: d2e3e06483ca0a09cfe4f5f9e6028948dc8f03983281420786c535f5f1479d48
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: a028550d0ffcef647535934962d50e0fcd931485
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701679"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671379"
 ---
-# <a name="office-365-germany"></a>Office 365 Alemania
+# <a name="office-365-germany"></a>Office 365 Germany
 
 Office 365 Alemania es una opción diferenciada de los servicios Office 365 ya disponibles en toda Europa. Ayuda a satisfacer las necesidades de los clientes más regulados de Alemania, la Unión Europea (UE) y la Asociación Europea de Libre Comercio (AELC) al ofrecer nuestros servicios de productividad líderes en el sector para el trabajo digital, desde centros de datos alemanes, con residencia de datos en Alemania y medidas estrictas de acceso y control de datos a través de un modelo de administrador de datos único regido por la legislación alemana.
 
@@ -143,7 +143,7 @@ Para obtener información específica sobre los precios y las características d
 |Explorador utilizado|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Sistema operativo utilizado|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Crear sus propios informes con Microsoft 365 web de informes|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
-|**[Actualizaciones del servicio](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Actualizaciones de servicio](service-updates.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Actualizaciones habituales para todos los clientes|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Las notificaciones se envían a Centro de mensajes cuando la acción es necesaria|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
 |Roadmap.office.com para algún servicio actualizaciones|Sí|--|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -355,7 +355,7 @@ En la siguiente tabla se enumeran las características de Exchange Online que es
 |Permisos basados en roles|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Grupos de funciones|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Directivas de asignación de roles|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
-|**[Regulación de mensajes y cumplimiento](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
+|**[Directiva y cumplimiento de mensajes](../exchange-online-service-description/message-policy-and-compliance.md)**|**Office 365 Germany Business Essentials**|**Office 365 Germany Business**|**Office 365 Germany Business Premium**|**Office 365 Germany Education A1**|**Office 365 Germany Enterprise E1**|**Office 365 Germany Enterprise E3**|**Office 365 Germany Enterprise E4**|**Office 365 Germany Enterprise K1**|
 |Archivado de buzones basados en Exchange Online|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Archivado basado en nube de buzones locales|No|No|No|Sí|Sí|Sí|Sí|No|
 |Etiquetas de retención y directivas de retención|Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -756,7 +756,7 @@ Todos los planes de Office 365 incluyen el servicio de SharePoint Online, pero t
 |Ask Me About|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Blogs personales|Sí<sup>13</sup>|No|Sí<sup>13</sup>|Sí<sup>13</sup>|Sí<sup>13</sup>|Sí<sup>13</sup>|Sí<sup>13</sup>|Sí<sup>13</sup>|
 |Reputación de comunidades, mala reputación y moderación|Sí<sup>14</sup>|No|Sí<sup>14</sup>|Sí<sup>14</sup>|Sí<sup>14</sup>|Sí<sup>14</sup>|Sí<sup>14</sup>|No<sup>14</sup>|
-|Comunidad|Sí<sup>14</sup>|No|Sí<sup>14</sup>|Sí<sup>14</sup>|Sí<sup>14</sup>|Sí<sup>14</sup>|Sí<sup>14</sup>|No|
+|Community|Sí<sup>14</sup>|No|Sí<sup>14</sup>|Sí<sup>14</sup>|Sí<sup>14</sup>|Sí<sup>14</sup>|Sí<sup>14</sup>|No|
 |Fuente de la empresa|Sí|No|Sí|Sí|Sí|Sí|Sí|No|
 |Documentar conversaciones con Yammer|No|No|No|No|No|No|No|No|
 |Follow|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|

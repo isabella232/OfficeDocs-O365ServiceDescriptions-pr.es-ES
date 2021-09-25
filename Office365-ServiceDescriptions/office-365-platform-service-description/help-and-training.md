@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-help-and-training
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: c8d5db8a-3429-4ac7-8f7a-4150ad22aa7b
 description: Microsoft Office 365 proporciona los siguientes recursos de ayuda y aprendizaje.
-ms.openlocfilehash: d2cf7dfda21fe01cd6d9197a9f5e760bf007311edc8d356e15e91e832b44735f
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e1d88e1bbebd899ffffe7ccee8824107346d1336
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663013"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671403"
 ---
 # <a name="help-and-training"></a>Help and training
 
@@ -27,7 +27,7 @@ Microsoft Office 365 proporciona los siguientes recursos de ayuda y aprendizaje.
 
 Los artículos y vídeos de ayuda están disponibles en cualquier vínculo de ayuda en línea del servicio, incluido el icono de ayuda en la barra de navegación superior del portal de Office 365 y Centro de administración de Microsoft 365. También puede buscar en toda la ayuda de Office 365 en [https://office.microsoft.com](https://go.microsoft.com/fwlink/p/?LinkId=272056). 
   
-## <a name="training"></a>Aprendizaje
+## <a name="training"></a>Formación
 
 La formación está disponible en vídeos, seminarios web y clases que permiten certificación. Para más información, visite:
   
@@ -43,7 +43,7 @@ La formación está disponible en vídeos, seminarios web y clases que permiten 
     
 - [Aptitudes de soporte técnico de administradores de Office 365: Conceptos básicos](https://www.microsoftvirtualacademy.com/training-courses/office-365-admin-support-skills-core-concepts?Prid=fusion-www)
     
-## <a name="community"></a>Comunidad
+## <a name="community"></a>Community
 
 > [!NOTE]
 > Los recursos de la comunidad se aplican a las versiones internacionales de Office 365. Si usa Office 365 operado por 21Vianet, puede usar WeChat. Consulte [Obtener soporte técnico, de facturación y de suscripción para Office 365 operado por 21Vianet](/microsoft-365/admin/contact-support-for-business-products) y vaya a la parte inferior de la página de un código QR. 

@@ -6,14 +6,14 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: SharePoint Syntex en Microsoft 365 usa inteligencia artificial avanzada (IA) y aprendizaje automático para amplificar la experiencia humana, automatizar el procesamiento de contenido y transformar el contenido en conocimiento.
-ms.openlocfilehash: e746b3189513ea4c5f594382b6ce6392d648a334
-ms.sourcegitcommit: e072b0e70346cb60f106188fe1aef54cf2b35ee2
+ms.openlocfilehash: a29e191b6200317c280601e66a01c64a6ec91ee3
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/17/2021
-ms.locfileid: "58371757"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672403"
 ---
 # <a name="sharepoint-syntex-service-description"></a>Descripción del servicio SharePoint Syntex 
 

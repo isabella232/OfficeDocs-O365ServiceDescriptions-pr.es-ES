@@ -6,15 +6,15 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Esta guía está para profesionales de TI que impulsan implementaciones de Office 365 en entidades del Gobierno Federal de Estados Unidos u otras entidades que controlan datos que están sujetos a normativas y requisitos gubernamentales, donde el uso de Microsoft 365 Government – DoD es adecuado para cumplir estos requisitos.
-ms.openlocfilehash: 4d8e4b7600abe8b41baa94462f4e8dfbebf8b277
-ms.sourcegitcommit: e3b492f18443921ed33776b2db51b888bd3bc230
+ms.openlocfilehash: 6ad0f21c8cbd9cf6690af4664c958c4ffdab7746
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/30/2021
-ms.locfileid: "58702292"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671620"
 ---
 # <a name="plan-for-microsoft-365-compliance---dod-deployments"></a>Plan para las implementaciones del Centro de cumplimiento de Microsoft 365 - DoD
 
@@ -75,7 +75,6 @@ Para satisfacer los requisitos de nuestros clientes en la nube gubernamentales, 
 | | Configuración de etiquetas de confidencialidad para la protección de solo cifrado en Outlook mensajes  | Disponible  |
 | | Cliente y escáner de etiquetado unificados  | Disponible  |
 | Análisis  | Clasificación de datos: Introducción y Explorador de contenido  | Implementando  |
-| | Análisis: clasificadores de aprendizaje automático con etiquetado automático en el lado del servicio  | En desarrollo  |
 | | Análisis: clasificadores de aprendizaje automático con etiquetado automático en Office aplicaciones/cliente  | En desarrollo |
 | Cifrado  | Base Cifrado de mensajes de Office 365 (E3)  | Disponible  |
 | | Advanced Cifrado de mensajes de Office 365 (E5)  | Disponible  |
@@ -110,9 +109,8 @@ Para satisfacer los requisitos de nuestros clientes en la nube gubernamentales, 
 | | Administración de registros: prueba de eliminación  | Disponible  |
 | | Administración de registros: control de versiones de registros  | Disponible  |
 | | Administración de registros: registros reglamentarios  | Disponible  |
-| | Administración de registros: usar la SharePoint Syntex de registros para aplicar etiquetas de registro  | En el trabajo pendiente de ingeniería  |
 | **Administración de riesgos**  | | |
-| Administración de riesgos  | Caja de seguridad del cliente  | Disponible  |
+| Caja de seguridad del cliente | Caja de seguridad del cliente  | Disponible  |
 | Cumplimiento de la comunicación  | Cumplimiento de la comunicación: capacidad para establecer un período de retención para una directiva de cumplimiento de comunicaciones (versión preliminar pública)  | En el trabajo pendiente de ingeniería  |
 | | Cumplimiento de la comunicación: obtener acceso a alertas; plantillas de aviso; panel de directivas de comunicación  | Disponible  |
 | | Cumplimiento de la comunicación: analizar Teams de chat de usuarios con buzón local  | Disponible  |
@@ -152,7 +150,8 @@ Para satisfacer los requisitos de nuestros clientes en la nube gubernamentales, 
 | | Administración de riesgos de Insider: plantillas de directiva para pérdidas de datos por parte de usuarios inconformes  | En el trabajo pendiente de ingeniería  |
 | | Administración de riesgos de Insider: plantillas de directiva para pérdidas de datos por parte de usuarios prioritarios  | Versión preliminar pública  |
 | | Administración de riesgos de Insider: plantillas de directiva para infracciones de directivas de seguridad general  | En el trabajo pendiente de ingeniería  |
-| | Administración de riesgos de Insider: plantillas de directiva para infracciones de directivas de seguridad por parte de usuarios prioritarios, usuarios que salen, usuarios descontentos (versión preliminar)  | En el trabajo pendiente de ingeniería  |
+| | Administración de riesgos de Insider: plantillas de directiva para infracciones de directivas de seguridad por parte de usuarios prioritarios y usuarios que salen | Versión preliminar pública |
+| | Administración de riesgos de Insider: plantillas de directiva para infracciones de directivas de seguridad por parte de usuarios inconformes | En el trabajo pendiente de ingeniería  |
 | | Administración de riesgos de Insider: Personalización de directivas, comprobación de estado de directivas y asistente para la creación de directivas mejoradas  | Versión preliminar pública  |
 | | Administración de riesgos de Insider: grupos de usuarios prioritarios  | Versión preliminar pública  |
 | | Administración de riesgos de Insider: admite desencadenadores nativos para la eliminación Azure Active Directory cuenta | Versión preliminar pública  |
@@ -203,7 +202,7 @@ Para satisfacer los requisitos de nuestros clientes en la nube gubernamentales, 
 | | Auditoría avanzada: retención a largo plazo en registros de auditoría (10 años)  | Implementando  |
 | | Auditoría avanzada: eventos de reenvío de correo y envío de correo  | Disponible  |
 | | Auditoría avanzada: disponibilidad del Centro de seguridad y cumplimiento  | Disponible  |
-| | Auditoría avanzada: eventos de término de búsqueda en Exchange Online y SharePoint Online  | Implementando  |
+| | Auditoría avanzada: eventos de término de búsqueda en Exchange Online y SharePoint Online  | En desarrollo  |
 | | Auditoría avanzada: Teams de mensajes  | En el trabajo pendiente de ingeniería  |
 | **Administración de cumplimiento** | | |
 | Administración de cumplimiento  | Centro de cumplimiento de Microsoft 365  | Disponible  |
@@ -211,8 +210,8 @@ Para satisfacer los requisitos de nuestros clientes en la nube gubernamentales, 
 | | Administrador de cumplimiento  | Disponible  |
 | | Compatibilidad con caracteres de doble byte  | Disponible  |
 | **Ecosistema** | | |
-| Ecosistema  | Conectores de datos de origen: HR  | Disponible  |
-| | Conectores de datos de origen: Instant Bloomberg, Bloomberg Mail, linkedin business pages, ICE Chat  | En desarrollo  |
+| Ecosistema  | Conectores de datos de origen: HR  | En desarrollo |
+| | Conectores de datos de primer nivel: error físico  | En desarrollo  |
 | | Graph API para Advanced eDiscovery  | En el trabajo pendiente de ingeniería  |
 
 <sup>1</sup> El estado identificado está sujeto a cambios a medida que se reevaluan los planes y las prioridades del proyecto.<br/>

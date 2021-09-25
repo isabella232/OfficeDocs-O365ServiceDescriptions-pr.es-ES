@@ -6,16 +6,16 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 operado por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: faa8416e26c51f2e9bab05deafb98f0620bf5c0b
-ms.sourcegitcommit: 5cc673d87bf7d32278aee85ead3d48a5b95f154a
+ms.openlocfilehash: 6de0cee34692cca6106dc854060fc11b1b219cd5
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/24/2021
-ms.locfileid: "58505714"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671362"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -65,12 +65,25 @@ Para obtener información sobre los requisitos del sistema para Office 365, vea 
 ## <a name="security-amp-compliance-center-availability-in-office-365-operated-by-21vianet"></a>Security &amp; Compliance Center availability in Office 365 operated by 21Vianet
 Microsoft 365 El Centro de cumplimiento proporciona un acceso fácil a las herramientas que necesita para administrar las necesidades de cumplimiento de su organización. Las siguientes soluciones están disponibles en el Centro de cumplimiento para planes operados por 21Vianet:
 
-- Prevención de pérdida de datos (DLP)
-- Retención
-- Auditoría con datos de Azure Active Directory y Exchange
-- Microsoft Information Protection (MIP) y etiquetas de confidencialidad para Office clientes y Outlook mediante el cliente de etiquetas unificadaSIP
+| Características | Microsoft 365 Empresa Básico operado por 21Vianet | Aplicaciones Microsoft 365 para negocios operado por 21Vianet | Microsoft 365 Empresa Estándar operado por 21Vianet | Office 365 Enterprise E1 operado por 21Vianet | Office 365 Enterprise E3 operado por 21Vianet | Office 365 Enterprise F3 operado por 21Vianet |
+|---------|---------|---------|---------|---------|---------|---------|
+| Archivado | Sí | No aplicable | Sí | Sí | Sí | No |
+| Directivas de alerta | No | N/D | No | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|Auditoría básica<sup>2</sup> | Sí | No aplicable | Sí | Sí | Sí | Sí |
+|Búsqueda de contenido | No | N/D | No | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la Empresa | No | N/D | Sí | No | Sí | No |
+|Casos de exhibición de documentos electrónicos | No | N/D | No | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+|Exportación de exhibición de documentos electrónicos | No | N/D | No | No | No<sup>1</sup> | No |
+|Retenciones de exhibición de documentos electrónicos (incluidas las retenciones de exhibición de documentos electrónicos basadas en consultas) | No | N/D | No | No | No<sup>1</sup> | No |
+|Gobierno de la<sup>información 1</sup> | Sí | No aplicable | Sí | Sí | Sí | Sí |
+|Etiquetas de confidencialidad manuales | No | N/D | No | Sí | Sí | No |
+|Cifrado de mensajes de Office 365 (OME) Basic | No | N/D | No | No | Sí | No |
+
+<sup>1 Disponibilidad</sup> próximamente.</br>
+<sup>2</sup> Auditoría con datos de Azure Active Directory y Exchange.
 
 > [!NOTE]
+>
 > - Las etiquetas de confidencialidad para proteger el contenido SharePoint sitios, Microsoft 365 grupos y Microsoft Teams no se admiten en este momento.
 > - Las etiquetas de confidencialidad para clasificar y proteger documentos y correos electrónicos con Office en la Web no se admiten en este momento.
 
@@ -310,7 +323,7 @@ En la tabla siguiente se proporcionan vínculos a comparaciones de Office para l
 > - Microsoft Office 365 ProPlus es una oferta de suscripción mensual del último conjunto de aplicaciones de escritorio de Office.
 > - Microsoft Office Los clientes locales de Web Apps Server 2013 obtienen una licencia de edición de Office para la Web si han adquirido una licencia de conjunto de escritorio de Office (como Office Profesional Plus, Office Standard o una licencia Office 365 ProPlus).
 
-| Application | Office para la Web operado por 21Vianet | Vínculo a una comparación de características detallada |
+| Aplicación | Office para la Web operado por 21Vianet | Vínculo a una comparación de características detallada |
 |:-----|:-----|:-----|
 |Word|Word para la Web operado por 21Vianet|[Word](../office-online-service-description/office-online-service-description.md#word)|
 |Excel|Excel para la Web operado por 21Vianet|[Excel](../office-online-service-description/office-online-service-description.md#excel)|
@@ -584,9 +597,6 @@ Todos los planes de Office 365 incluyen el servicio SharePoint Online, pero no t
 | Implementación de aplicaciones: aplicaciones hospedadas en la nube | Sí | Sí | Sí | Sí | Sí | Sí |
 | Implementación de aplicaciones: SharePoint hospedadas en aplicaciones | Sí | Sí | Sí | Sí | Sí | Sí |
 | Servicio de administración de aplicaciones | Sí | Sí | Sí | Sí | Sí | Sí |
-| Archivado | Sí | No aplicable | Sí | Sí | Sí | No |
-| Directivas de alerta | No | No aplicable | No | No | No | No |
-| Auditoría básica<sup>2</sup> | Sí | No aplicable | Sí | Sí | Sí | Sí |
 | BCS: alertas para listas externas | No | No | No | No | Sí | No |
 | BCS: tipos de contenido externo con ámbito de aplicación (ECT) | No | No | No | No | Sí | No |
 | BCS: Datos profesionales elementos web | No | No | No | No | Sí | No |
@@ -599,22 +609,14 @@ Todos los planes de Office 365 incluyen el servicio SharePoint Online, pero no t
 | Browser-based customizations | Sí | Sí | Sí | Sí | Sí | Sí |
 | Client Object Model (OM) | Sí | Sí | Sí | Sí | Sí | Sí |
 | Client-side rendering (CSR) | Sí | Sí | Sí | Sí | Sí | Sí |
-| Búsqueda de contenido | No | No aplicable | No | No | No | No |
 | Definiciones de sitio personalizadas | No | No | No | No | No | No |
 | Página de aprovisionamiento de sitios personalizados | No | No | No | No | No | No |
-| Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la Empresa | No | No aplicable | Sí | No | Sí | No |
 | Sitio para desarrolladores | Sí | No | Sí | Sí | Sí | Sí |
 | Aplicaciones basadas en formularios | Sí | No | Sí | Sí | Sí | Sí |
 | Soluciones de plena confianza | No | No | No | No | No | No |
-| Casos de exhibición de documentos electrónicos | No | No aplicable | No | No | No | No |
-| Exportación de exhibición de documentos electrónicos | No | No aplicable | No | No | No | No |
-| Retenciones de exhibición de documentos electrónicos (incluidas las retenciones de exhibición de documentos electrónicos basadas en consultas) | No | No aplicable | No | No | No | No |
-| Gobierno de la<sup>información 1</sup> | Sí | No aplicable | Sí | Sí | Sí | Sí |
 | InfoPath Forms Services | No | No | No | No | No<sup>14</sup> | No |
 | JavaScript Object Model | Sí | Sí | Sí | Sí | Sí | Sí |
 | List and Library APIs | Sí | Sí | Sí | Sí | Sí | Sí |
-| Etiquetas de confidencialidad manuales | No | No aplicable | No | Sí | Sí | No |
-| Cifrado de mensajes de Office 365 (OME) Basic | No | No aplicable | No | No | Sí | No |
 | Receptor de eventos remotos | Sí | No | Sí | Sí | Sí | Sí |
 | API de REST | Sí | Sí | Sí | Sí | Sí | Sí |
 | SharePoint Design Manager | Sí | No | Sí | Sí | Sí | Sí |

@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-clients-and-mobile-devices
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: fce4ac03-f30a-4152-9145-4a9ce564c966
 description: Exchange Online funciona con versiones de escritorio y móviles de Outlook, así como con Outlook en la Web.
-ms.openlocfilehash: 3e612d9f157cb4109dfc2bef9bfa462445674dd9d19954ca9fe6ac32004ad515
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 97d25b505afcdc4effb145b28eda5aab1275ce81
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664053"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672090"
 ---
 # <a name="clients-and-mobile-devices"></a>Clientes y dispositivos móviles
 

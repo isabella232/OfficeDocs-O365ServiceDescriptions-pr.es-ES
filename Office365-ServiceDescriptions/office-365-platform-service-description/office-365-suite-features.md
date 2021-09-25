@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-suite-features
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: f9d667ef-9a54-44f5-9dac-05590efba1b9
 description: Las características que se enumeran en este tema son una colección de herramientas basadas en web que le ayudan a colaborar y comunicarse de forma segura en muchos dispositivos y varios Office 365 web. Estas características ayudan a establecer nuevas conexiones dentro de la organización mediante la unificación de la creación de contenido digital, el almacenamiento y la administración con herramientas sociales para descubrir y compartir información entre usuarios.
-ms.openlocfilehash: c12977bc68ea8871779a3615b1f3f121541b01658b273c42736d67da4894d20e
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 149049a9b6937e1d8516674ba4772ba731bccd40
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664502"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671175"
 ---
 # <a name="microsoft-365-suite-features"></a>Características del conjunto de aplicaciones de Microsoft 365
 
@@ -53,7 +53,7 @@ Use la API de Microsoft Graph para compilar de forma rápida aplicaciones que se
 
 Listas Microsoft es una aplicación Microsoft 365 que te ayuda a realizar un seguimiento de la información y organizar el trabajo. Las listas son sencillas, inteligentes y flexibles, por lo que puedes estar al tanto de lo que más le importa a tu equipo. Realice un seguimiento de problemas, activos, rutinas, contactos, inventario y mucho más con vistas personalizables y reglas inteligentes para mantener a todos notificados y sincronizados. Con plantillas preparadas, puedes iniciar rápidamente listas en línea, en nuestra nueva aplicación móvil o dentro de Microsoft Teams. Como forma parte de la Microsoft 365, puede confiar en la seguridad y el cumplimiento listos para la empresa.
 
-Para obtener más información, vea:
+Para más información vea:
 
 * [Centro **Listas Microsoft recursos públicos**](https://aka.ms/MSLists)
 * [Centro **de Listas Microsoft de adopción pública**](https://aka.ms/ListsAdoption)
@@ -78,7 +78,7 @@ Microsoft Sway es una aplicación digital profesional para contar historias dise
 
 Aplicaciones Microsoft 365 para empresas es el conjunto de aplicaciones de escritorio siempre actualizado que ya conoces (incluidos Word, PowerPoint, Excel, Outlook y Teams) disponibles como suscripción. Aplicaciones Microsoft 365 para empresas incluye funcionalidades inteligentes exclusivas como [**Ideas en Excel,**](https://go.microsoft.com/fwlink/p/?linkid=2109915)Investigador en [**Word,**](https://go.microsoft.com/fwlink/p/?linkid=2109916)colaboración en tiempo [**real,**](https://go.microsoft.com/fwlink/p/?linkid=2109917)Teams como centro de trabajo en equipo y características de seguridad avanzadas. Como una licencia basada en el usuario, puede implementar Office en hasta cinco equipos pc o Mac, cinco tabletas y cinco dispositivos móviles. Con 1 TB de OneDrive almacenamiento en la nube, puede acceder y colaborar en los archivos desde cualquier lugar.
 
-Para obtener más información, vea:
+Para más información vea:
 
 * [Página Información general](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise)
 * [Página de producto (para comprar)](https://www.microsoft.com/microsoft-365/business/microsoft-365-apps-for-enterprise-product)
@@ -95,7 +95,7 @@ Microsoft Kaizala es una aplicación de administración de trabajo móvil sencil
 
 Bloc de notas de clase forma parte de OneNote y está disponible para Office 365 Educación y Office 365 E5 Educación. Cada bloc de notas incluye una biblioteca de contenido para que los profesores compartan contenido del curso, un espacio de colaboración donde los profesores y los alumnos pueden trabajar juntos, y un bloc de notas privado para cada alumno. Después de crear un bloc de notas de clase, los profesores y los alumnos pueden usar la aplicación de OneNote para tener acceso al bloc desde cualquier dispositivo.
 
-## <a name="to-do"></a>To Do
+## <a name="to-do"></a>Tareas pendientes
 
 Microsoft To Do es una aplicación de administración de tareas que permite a los clientes planear su día y administrar sus tareas , en todo el trabajo y la vida, desde cualquier dispositivo.
 

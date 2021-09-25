@@ -6,17 +6,17 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5491725f-7ebe-42b7-bb20-be71de32148f
 description: En las tablas siguientes se muestran los cambios realizados recientemente en el contenido de descripciones del servicio.
-ms.openlocfilehash: 343ea3ddeb84451bad4c6e152a920b4cc9689cdf1c357b1c02aeadee8de28f99
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 708cc4853ebf81efd48420ce56b3948d47fec3f2
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702899"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672437"
 ---
 # <a name="recent-service-descriptions-changes"></a>Cambios recientes de descripciones de servicio
 
@@ -27,8 +27,8 @@ En las tablas siguientes se muestran los cambios realizados recientemente en el 
 ||||
 |:-----|:-----|:-----|
 |**Descripción del servicio** <br/> |**Tema** <br/> |**Cambio** <br/> |
-|Plataforma Office 365  <br/> |[Office 365 Educación](office-365-platform-service-description/office-365-education.md) <br/> |Disponibilidad móvil actualizada en planes A1.  <br/> |
-||[Office 365 Educación](office-365-platform-service-description/office-365-education.md) <br/> |Referencias actualizadas de retención por juicio en el Centro de seguridad y cumplimiento educativo y Exchange Online secciones.  <br/> |
+|Plataforma Office 365  <br/> |[Office 365 Educacional](office-365-platform-service-description/office-365-education.md) <br/> |Disponibilidad móvil actualizada en planes A1.  <br/> |
+||[Office 365 Educacional](office-365-platform-service-description/office-365-education.md) <br/> |Referencias actualizadas de retención por juicio en el Centro de seguridad y cumplimiento educativo y Exchange Online secciones.  <br/> |
 |Exchange Online  <br/> |[Descripción del servicio Exchange Online](exchange-online-service-description/exchange-online-service-description.md) <br/> |Disponibilidad actualizada en Aplicaciones Microsoft 365 para negocios.  <br/> |
 |Aplicaciones de Office  <br/> |[Descripción del servicio de aplicaciones de Office](office-applications-service-description/office-applications-service-description.md) <br/> |Disponibilidad actualizada en plataformas móviles.  <br/> |
 |Workplace Analytics  <br/> |[Descripción del servicio Workplace Analytics](workplace-analytics-service-description.md) <br/> |Límite de puesto de licencia actualizado, vínculo agregado Introducción artículo, requisitos previos actualizados.  <br/> |
@@ -143,7 +143,7 @@ En las tablas siguientes se muestran los cambios realizados recientemente en el 
 ||[Office 365 Administración Pública de EE. UU.](office-365-platform-service-description/office-365-us-government/office-365-us-government.md) <br/> |Páginas actualizadas de Us Government con nuevos nombres de entorno.  <br/> |
 ||[Office 365 operado por 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Se agregó la disponibilidad de Microsoft Bookings.  <br/> |
 ||[Office 365 operado por 21Vianet](office-365-platform-service-description/office-365-operated-by-21vianet.md) <br/> |Se agregó la disponibilidad de Microsoft Stream.  <br/> |
-||[Office 365 Educación](office-365-platform-service-description/office-365-education.md) <br/> |Movió los planes de Educación para separar la página, cambió el nombre de los planes existentes (Office 365 Educación A1 y A5) y agregó Office 365 Educación A3.  <br/> |
+||[Office 365 Educacional](office-365-platform-service-description/office-365-education.md) <br/> |Movió los planes de Educación para separar la página, cambió el nombre de los planes existentes (Office 365 Educación A1 y A5) y agregó Office 365 Educación A3.  <br/> |
 |Skype Empresarial Online  <br/> |[Descripción del servicio Skype Empresarial Online](skype-for-business-online-service-description/skype-for-business-online-service-description.md) <br/> |Tabla simplificada y algunas características rebautizado: Skype Empresarial conferencia RTC cambia a Office 365 audioconferencia; Skype Empresarial Las llamadas RTC cambiaron a Office 365 plan de llamadas; Skype Empresarial Pbx en la nube cambiado a Sistema telefónico de Office 365; y Skype Empresarial facturación de consumo RTC cambiado a Office 365 créditos de comunicaciones.  <br/> |
 |Múltiple  <br/> |Múltiple  <br/> |Cambio de marca: K1 es ahora F1.  <br/> |
 |Múltiple  <br/> |Múltiple  <br/> |Se agregaron vínculos al SharePoint De límites en línea.  <br/> |

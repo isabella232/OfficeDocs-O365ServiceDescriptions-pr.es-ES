@@ -6,14 +6,14 @@ manager: gailw
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 description: Universal Print, un Microsoft 365 de impresión en la nube, elimina la necesidad de servidores de impresión locales.
-ms.openlocfilehash: 1262952b582df8ec6d3ddd97f9cf15916adaa31f65f721e1a3da2c0582c97c2c
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 85a388f811d149be6ae436c3f94421dbc1ec9284
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702439"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59673131"
 ---
 # <a name="universal-print-service-description"></a>Descripción del servicio de Impresión universal
 

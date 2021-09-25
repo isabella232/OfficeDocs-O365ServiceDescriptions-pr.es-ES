@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - sharepoint-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 5e1ee081-cab8-4c1b-9783-21c38ddcb8b0
 description: Vea qué SharePoint están disponibles en qué planes.
-ms.openlocfilehash: e5dca0f6e5ef5b7c621ac5944b7358bd8c2afaa3c2397080cd0fde19dc4348a6
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8aad0fd841a6a129264be710e5d62cd84202d0aa
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702589"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672413"
 ---
 # <a name="sharepoint-service-description"></a>Descripción del servicio SharePoint
 
@@ -68,7 +68,7 @@ A menos que se indique lo contrario, las siguientes características están disp
 - [Distribución de aplicaciones: Catálogo de aplicaciones](/sharepoint/use-app-catalog)
 - [Distribución de aplicaciones: AppSource](https://appsource.microsoft.com/marketplace/apps?page=1&src=office&product=office%3Bsharepoint)
 - [Servicios de conectividad empresarial (BCS).](/sharepoint/manage-business-connectivity-service-applications) Requiere SharePoint plan 2, Office 365 Enterprise E3 o Office 365 Enterprise E5
-- [Modelos de objetos de cliente para código controlado](/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint#client-object-models-for-managed-code)
+- [Modelos de objetos de cliente para código administrado](/sharepoint/dev/general-development/choose-the-right-api-set-in-sharepoint#client-object-models-for-managed-code)
 - [Sitio para desarrolladores](/sharepoint/dev/sp-add-ins/create-a-developer-site-on-an-existing-office-365-subscription)
 - [InfoPath Forms Services](/office/client-developer/infopath/infopath-home). Requiere SharePoint plan 2, Office 365 Enterprise E3 o Office 365 Enterprise E5
 - [OAuth](/sharepoint/dev/sp-add-ins/creating-sharepoint-add-ins-that-use-low-trust-authorization). Es posible que algunos proveedores se bloqueen en su país o región.
@@ -154,7 +154,7 @@ A menos que se indique lo contrario, las siguientes características están disp
 
 - [Accesibilidad](https://support.office.com/article/f291404a-dc7e-44de-a31f-d81b3099c2b9)
 - [Agregue Microsoft Teams a los sitios](https://support.office.com/article/24ec428e-40d7-4a1a-ab87-29be7d145865). Requiere una suscripción que incluya Office 365 y requiere que el usuario tenga una licencia para Teams.
-- [Identificación de audiencia](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
+- [Segmentación de público](https://support.office.com/article/33d84cb6-14ed-4e53-a426-74c38ea32293)
 - [Conectar sitios de grupo clásicos a nuevos Office 365 grupos](https://support.office.com/article/469c6ee0-2139-4496-9914-7e39d07ac49d). Requiere una suscripción que incluya Office 365.
 - [Crear un plan (integración de Planner).](https://support.office.com/article/73040e0a-560e-41a0-b520-47c1a3bab3cb) Requiere una suscripción que incluye Office 365 y requiere que el usuario tenga licencia para Planner.
 - [Bibliotecas de documentos](https://support.office.com/article/3b5976dd-65cf-4c9e-bf5a-713c10ca2872)

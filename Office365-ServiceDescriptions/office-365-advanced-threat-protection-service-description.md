@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-advanced-threat-protection-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender para Office 365 es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger su organización contra malware y virus desconocidos al proporcionar una protección sólida de día cero e incluye características para proteger su organización de vínculos dañinos en tiempo real.
-ms.openlocfilehash: 823527f1ef0fbd0284fb1b703d3c6e9f7dfdad440138b6d724077ad5badb9bca
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663103"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670345"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descripción del servicio de Microsoft Defender para Office 365
 
@@ -43,7 +43,7 @@ En la tabla siguiente se enumeran las principales características de Microsoft 
 |---------|--------------------------------|--------------------------------|--------------------------------|
 | *Configuración, protección y detección* | | | |
 | Directivas de seguridad preestablecidas y analizador de configuración | Sí | Sí | Sí |
-| [Datos adjuntos seguros](microsoft-defender-for-office-365-features.md#safe-attachments) | Sí | Sí | Sí |
+| [Archivos adjuntos seguros](microsoft-defender-for-office-365-features.md#safe-attachments) | Sí | Sí | Sí |
 | Caja fuerte Datos adjuntos en Teams | Sí | Sí | Sí |
 | [Vínculos seguros](microsoft-defender-for-office-365-features.md#safe-links) | Sí | Sí | Sí |
 | [Documentos seguros](microsoft-defender-for-office-365-features.md#safe-documents) | No | No | Sí |

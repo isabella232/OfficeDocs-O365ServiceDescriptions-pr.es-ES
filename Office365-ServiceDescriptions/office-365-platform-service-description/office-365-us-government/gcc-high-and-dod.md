@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 0821204d-5515-43de-8ed6-ab84bd1693c1
 description: Obtenga información sobre los compromisos y diferencias únicos de los entornos Office 365 GCC High y DoD en comparación con el entorno Office 365 comercial.
-ms.openlocfilehash: b7e3934f20d5d7c489391fac99f5c323b7f553040d4d52ff4df1826e5cb3d830
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: e23093e2fdebad45175746aa57bedc0c87728d4b
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664413"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670335"
 ---
 # <a name="office-365-gcc-high-and-dod"></a>Office 365 GCC High y DoD
 
@@ -41,7 +41,7 @@ Los suscriptores del Departamento de Defensa Office 365 recibirán servicios pro
 
 Office 365 personal no tiene acceso permanente a GCC producción de alta y doD. Cualquier personal que solicite la elevación de permisos temporales que conceda acceso al contenido del cliente debe haber pasado primero las siguientes comprobaciones en segundo plano.<br><br>
   
-| Examen de personal de Microsoft y comprobaciones de antecedentes<sup>1</sup> | Descripción |
+| Examen de personal de Microsoft y comprobaciones de antecedentes<sup>1</sup> | Description |
 |:-----|:-----|
 |EE.UU. Ciudadanía    <br/> |Comprobación de la ciudadanía estadounidense  <br/> |
 |Comprobación del historial de empleo  <br/> |Comprobación del historial de empleo (7 años)  <br/> |

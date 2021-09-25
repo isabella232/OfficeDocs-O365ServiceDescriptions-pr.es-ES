@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 16c65253-158a-46df-9724-5cd0b384494c
 description: Para cumplir los requisitos únicos y en evolución de los gobiernos federal, estatal, local y tribal de los Estados Unidos, así como los contratistas que retienen o procesan datos en nombre del Gobierno de los Estados Unidos, Microsoft ofrece Office 365 servicios de administración pública Community (GCC). Disponible a través de varios canales, incluidas las licencias por volumen, las organizaciones interesadas pasan por un proceso de validación para garantizar la elegibilidad antes de que se establezca un entorno. Las pruebas solo están disponibles para las entidades gubernamentales estadounidenses en este momento.
-ms.openlocfilehash: 83c96657bf45e68578f8bf85da257104bcb1412178bcf7f145e335dd80d47165
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: fedaed2bc6f0e4aea2d4cc1d92584b7e7c2f3c48
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701898"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671069"
 ---
 # <a name="office-365-gcc"></a>Office 365 GCC
 
@@ -35,7 +35,7 @@ Office 365 Administración Pública la acreditación del Programa federal de adm
 
 Office 365 personal no tiene acceso permanente al contenido del cliente hospedado en Office 365 Administración Pública GCC entorno. Cualquier personal que solicite la elevación de permisos temporales que conceda acceso al contenido del cliente debe haber pasado primero las siguientes comprobaciones en segundo plano.<br><br> 
   
-| Examen de personal de Microsoft y comprobaciones de antecedentes<sup>1</sup> | Descripción |
+| Examen de personal de Microsoft y comprobaciones de antecedentes<sup>1</sup> | Description |
 |:-----|:-----|
 |Ciudadanía estadounidense  <br/> |Comprobación de la ciudadanía estadounidense  <br/> |
 |Comprobación del historial de empleo  <br/> |Comprobación del historial de empleo (7 años)  <br/> |
@@ -56,7 +56,7 @@ Yammer para empresas no es un componente de Office 365 Administración Pública,
   
 Actualmente, Yammer ofrece la separación lógica de los datos de cliente en el nivel de aplicación. Sin embargo, Yammer no proporciona las mismas características de ubicación de datos y acceso a datos que Office 365 Administración Pública, no admite la acreditación fedramp y está sujeto a términos de contrato diferentes de los servicios Office 365 datos. Se recomienda revisar los términos de privacidad y descripción Yammer [servicio](../../yammer-service-description/yammer-service-description.md) al evaluar el uso adecuado de Yammer para su organización. Para saber qué Office 365 Administración Pública planes incluyen Yammer, vea [Office 365 Administración Pública](office-365-us-government.md).
   
-Si decide que el uso de Yammer es adecuado para su organización como parte de su suscripción Office 365 Administración Pública y ha comprado uno de los planes mencionados anteriormente que incluye Yammer, en el marco de su inscripción Enterprise, puede solicitar una modificación para habilitar su Yammer para la suscripción empresarial.
+Si decide que el uso de Yammer es adecuado para su organización como parte de su suscripción Office 365 Administración Pública y ha comprado uno de los planes mencionados anteriormente que incluye Yammer, en su inscripción de Enterprise, puede solicitar una modificación para habilitar su Yammer para la suscripción empresarial.
   
 ## <a name="office-365-government-gcc-customer-support"></a>Office 365 Administración Pública GCC atención al cliente
 

@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - word-online-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: e0d6c69b-dcc0-4faf-8c4a-3f1ec633217a
 description: Word para la Web (anteriormente Word Web App) amplía su experiencia de Microsoft Word al explorador web, donde puede trabajar con documentos directamente en el sitio web donde se almacena el documento.
-ms.openlocfilehash: 181135b0bfcb1ea2cf8492e3853e4914d8efb2d1f214b4747dae00de6d287b05
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4a499343c40c97f4d16575a0670dacbc4b9e5c48
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702889"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672730"
 ---
 # <a name="word-for-the-web"></a>Word para la web
 

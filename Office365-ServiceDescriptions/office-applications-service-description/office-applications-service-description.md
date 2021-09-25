@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - office-applications-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom:
 - Adm_ServiceDesc_top
 - Adm_ServiceDesc
 ms.assetid: 016abc8b-11f0-402a-aba6-32499e39e176
 description: Microsoft 365 es un servicio de suscripción que le proporciona la versión más reciente de las aplicaciones de escritorio de Office con las que ya está familiarizado, como Word, Excel y PowerPoint.
-ms.openlocfilehash: 83ccebfd18bc95694f641d02b4eb56c4bcf34e3859d408ef9550881f2b2fe873
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 6947786fcc848195fbb90afb120966c73cb4dd5f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702029"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672781"
 ---
 # <a name="office-applications-service-description"></a>Descripción del servicio de aplicaciones de Office
 
@@ -74,7 +74,7 @@ Varios de los Microsoft 365 planes para empresas tienen complementos que puede c
 |Information Rights Management con Azure Information Protection  <br/> |No  <br/> |No  <br/> |No  <br/>|No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |No<sup>2</sup> <br/> |Sí <br/> |No<sup>2</sup> <br/> |Sí  <br/> |Sí  <br/> |No<sup>2</sup> <br/> |
 |Information Rights Management mediante Windows Server AD RMS  <br/> |Sí<sup>3</sup> <br/> |Sí  <br/> |Sí <br/>| Sí<sup>3</sup> <br/>|Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |Sí<sup>3</sup> <br/> |
 |Complemento de Office, ActiveX y soporte de BHO  <br/> |Sí  <br/> |Sí  <br/> |Sí<sup>+++<sup> <br/> |Sí  <br/> |No  <br/> |No  <br/> |Sí  <br/> |Sí <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
-|OneNote acceso de cliente a blocs de notas en SharePoint Server, SharePoint Online, OneDrive para la Empresa y Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Si <sup>++</sup> <br/> |Sí <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí <br/> |No  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |
+|OneNote acceso de cliente a blocs de notas en SharePoint Server, SharePoint Online, OneDrive para la Empresa y Microsoft 365  <br/> |Sí  <br/> |Sí  <br/> |Sí <sup>++</sup> <br/> |Sí <br/> |Sí  <br/> |No  <br/> |Sí  <br/> |Sí <br/> |No  <br/> |Sí  <br/>|Sí  <br/> |No  <br/> |
 |Telemetría de Office  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Soporte sin conexión para aplicaciones cliente  <br/> |Sí  <br/> |Sí  <br/>|Sí  <br/>  |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí  <br/> |Sí <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |
 |Power Map para Excel  <br/> |No<sup>4</sup> <br/> |Sí  <br/>|Sí  <br/> |Sí  <br/> |No  <br/> |No  <br/> |No  <br/> |No <br/> |No  <br/> |Sí  <br/> |Sí  <br/> |No  <br/> |

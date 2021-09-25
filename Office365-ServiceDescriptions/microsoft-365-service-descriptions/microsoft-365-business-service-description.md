@@ -6,16 +6,16 @@ manager: gailw
 audience: ITPro
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Empresa Premium es una solución integrada que reúne la mejor productividad de su clase con capacidades avanzadas de administración de dispositivos y seguridad para ayudar a proteger su empresa. Esta descripción del servicio describe las opciones y características del plan.
-ms.openlocfilehash: 658bfe634163bb7b0df423f65973c40a3289aec9cc81134ff97ea51403ae8ee4
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8815a1ab8ec1dc7901e04e7b7a972d6ec8b78151
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663353"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671665"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descripción del servicio de Microsoft 365 Empresa Premium
 

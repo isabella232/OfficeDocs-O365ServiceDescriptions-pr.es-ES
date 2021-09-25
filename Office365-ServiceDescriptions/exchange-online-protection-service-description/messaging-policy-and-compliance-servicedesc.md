@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - messaging-policy-and-compliance-in-eop
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1074f583-523f-4dca-9012-c9b93aae96b7
 description: Lea este artículo para obtener información sobre las características de cumplimiento y directiva de mensajería en Microsoft Exchange Online Protection (EOP).
-ms.openlocfilehash: fa2e4cfc9345a2dfc7d0ebf2d12a31c5aeb1da532a889a815a0ec3d6d5880c2b
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 8bd7b752191f6304d95f079984a281b25169352f
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54664113"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672311"
 ---
 # <a name="messaging-policy-and-compliance-in-exchange-online-protection"></a>Directiva de mensajería y cumplimiento en Exchange Online Protection
 

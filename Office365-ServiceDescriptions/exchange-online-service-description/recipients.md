@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-recipients
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: da22b03a-c981-49c6-9928-4312c2c5e2ee
 description: En este tema, se describen las características relacionadas con los destinatarios que se incluyen con Microsoft Exchange Online. Incluye correo electrónico, contactos, grupos de distribución, calendarios y capacidades de programación.
-ms.openlocfilehash: 861a58b9a8e8de041bcbb66e2d41f6eab97d39f6e7719c12288e1e7dbc072eec
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 32df1af7663f4a57419432b9c8a64a87ade4e857
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54663683"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59671784"
 ---
-# <a name="recipients"></a>Destinatarios
+# <a name="recipients"></a>Recipientes
 
 En este tema, se describen las características relacionadas con los destinatarios que se incluyen con Microsoft Exchange Online. Incluye correo electrónico, contactos, grupos de distribución, calendarios y capacidades de programación.
   

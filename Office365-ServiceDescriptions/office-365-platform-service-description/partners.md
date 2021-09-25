@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-partners
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 4548fc58-0b7c-41c1-890c-d3dc41d24c64
 description: Como socio autorizado de Microsoft, Microsoft Office 365 le ofrece la oportunidad de ampliar su base de clientes y crear relaciones duraderas con ellos. Por un precio mensual o anual que los clientes deben pagarle a usted, pueden usar servicios basados en la nube, por lo que no tendrán que administrar copias de seguridad de datos, hardware de servidores o actualizaciones de servidores. Los servicios que tiene a su disposición dependen de los tipos de servicios que usted está autorizado a proporcionar.
-ms.openlocfilehash: 4a46a7b49573520574d904bb4891f4091b12e6b7810a345c3aa7227be4907c57
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: b4a0e551de714883aa5b30c248f0987d66f78f71
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54701859"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59670025"
 ---
 # <a name="partners"></a>Asociados
 

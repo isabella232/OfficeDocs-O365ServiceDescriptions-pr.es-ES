@@ -8,16 +8,16 @@ ms.topic: reference
 f1_keywords:
 - office-365-proplus-office-applications-service-description
 ms.service: o365-administration
-localization_priority: Normal
+ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 142d5d73-fac4-45a1-b742-846953943813
 description: Microsoft Office es un excelente servicio que le ayudará a dar rienda suelta a sus mejores ideas, a realizar todo lo que se proponga y a estar conectado mientras está fuera. Solo debe iniciar sesión para tener una experiencia personalizada y las aplicaciones más actualizadas de Office, con características nuevas y mejoradas que se añaden periódicamente.
-ms.openlocfilehash: 8d52eb1950b9a1c3cc49a98ffaeb156357c65ccf8b56275c6e11b608aaafc246
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 9d936a8c7e9c474aec05a39de879a74dd57c5a72
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702059"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669985"
 ---
 # <a name="office-applications"></a>Aplicaciones de Office
 
