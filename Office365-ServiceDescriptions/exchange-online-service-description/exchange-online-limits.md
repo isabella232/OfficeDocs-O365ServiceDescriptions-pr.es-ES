@@ -8,18 +8,18 @@ ms.topic: reference
 f1_keywords:
 - exchange-online-limits
 ms.service: o365-administration
-localization_priority: Priority
+ms.localizationpriority: high
 ms.custom:
 - Adm_ServiceDesc
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: c8d2fd228befb43e00b093951508e0084b12ce99
-ms.sourcegitcommit: 4ef127c684c8a6ad630a2b9bce2fe3fb25aa3e25
+ms.openlocfilehash: 1ed73cefdc275e52b03c7f297b1596eaef5606fb
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "58363597"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59672110"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -275,6 +275,7 @@ Los siguientes límites se aplican a todos los mensajes de correo electrónico.
 |Límite del tamaño de un archivo de datos adjunto - Outlook|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
 |Límite del tamaño de un archivo de datos adjunto - OWA |112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|
 |Límite del tamaño de un archivo de datos adjunto - Outlook para Mac|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
+|Límite del tamaño de un archivo de datos adjunto: nuevo Outlook para Mac|33 MB|33 MB|33 MB|33 MB|33 MB|33 MB|
 |Límite de tamaño de archivo adjunto: Outlook para iOS y Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
 |Límite de mensaje con varias partes|250 partes|250 partes|250 partes|250 partes|250 partes|250 partes|
 |Límite de profundidad de incrustación de mensajes|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|
@@ -524,7 +525,7 @@ Durante períodos de gran actividad, algunos remitentes no recibirán mensajes d
 
 | Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
 |:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Tamaño máximo de buzón de correo de arbitraje|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
+|Tamaño máximo de buzón de correo de arbitraje|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
 |Número máximo de moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|
 |Caducidad de mensajes en espera de ser moderados|2 días|2 días|2 días|2 días|2 días|2 días|
 |Máximo índice de mensajes de notificación de moderación caducada|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|
@@ -533,7 +534,7 @@ Durante períodos de gran actividad, algunos remitentes no recibirán mensajes d
 
 | Característica | Exchange Server 2013 | Plan 1 de Exchange Online | Plan 2 de Exchange Online | Quiosco de Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|Tamaño máximo de buzón de correo de arbitraje|Sin límite<sup>1</sup>|10 GB|10 GB|10 GB|
+|Tamaño máximo de buzón de correo de arbitraje|Sin límite<sup>1</sup>|10 GB|10 GB|10 GB|
 |Número máximo de moderadores|Sin límite|10 moderadores|10 moderadores|10 moderadores|
 |Caducidad de mensajes en espera de ser moderados|5 días<sup>1</sup>|2 días|2 días|2 días|
 |Máximo índice de mensajes de notificación de moderación caducada|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|

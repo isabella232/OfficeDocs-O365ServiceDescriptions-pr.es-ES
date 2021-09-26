@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 2f22b6f5-e154-4ef9-85fe-0d1daf9e27b3
 description: Consulte las características de OneDrive disponibles en cada plan.
-ms.openlocfilehash: f69eecbffac6b8c444209b338c96478422a4ef03ffcb7f33fe4193ee53330cfd
-ms.sourcegitcommit: fe808bb97ad09a91576aca8b733e3d2b75cb72e6
+ms.openlocfilehash: 4d35862b6cb6d27f866537e535b4001159d3e853
+ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54702729"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "59669972"
 ---
 # <a name="onedrive-service-description"></a>Descripción del servicio OneDrive
 
@@ -37,12 +37,14 @@ En la siguiente tabla se enumeran las principales características de OneDrive q
 
 | Característica | Panes independientes | Empresa pequeña | Empresa | Educación | Administración pública | Organizaciones sin ánimo de lucro  |
 |---------|-------------------|----------------|------------|-----------|------------|-------------|
-| Almacenamiento | Sí | Sí | Sí | Sí | Sí | Sí |
+| Almacenamiento<sup>1</sup> | Sí | Sí | Sí | Sí | Sí | Sí |
 | Características de sincronización | Sí | Sí | Sí | Sí | Sí | Sí |
 | Características de colaboración y uso compartido | Sí | Sí | Sí | Sí | Sí | Sí |
 | Características web | Sí | Sí | Sí | Sí | Sí | Sí |
 | Características móviles | Sí | Sí | Sí | Sí | Sí | Sí |
 | Características de seguridad, cumplimiento y administración de TI | Sí | Sí | Sí | Sí | Sí | Sí |
+
+<sup>1</sup> Para obtener información sobre el almacenamiento de OneDrive por usuario, compruebe OneDrive en la [Comparación de planes de trabajo moderno](https://go.microsoft.com/fwlink/?linkid=2139145).
 
 ## <a name="learn-more"></a>Más información
 
@@ -50,6 +52,7 @@ Para obtener información técnica sobre [OneDrive](https://www.microsoft.com/mi
 
 - [OneDrive](/onedrive/onedrive)
 - [Microsoft OneDrive Blog](https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/bg-p/OneDriveBlog)
+- En la mayoría de planes de suscripción, el espacio de almacenamiento predeterminado para cada usuario de OneDrive es de 1 TB. Según el plan y el número de usuarios con licencia, puede aumentar este almacenamiento hasta 5 TB. Para obtener más información, vea las **Características principales** en la [Comparativa de precios y planes de almacenamiento en la nube de OneDrive](https://www.microsoft.com/microsoft-365/onedrive/compare-onedrive-plans?activetab=tab:primaryr2).
 
 ### <a name="licensing-terms"></a>Términos de licencia
 
