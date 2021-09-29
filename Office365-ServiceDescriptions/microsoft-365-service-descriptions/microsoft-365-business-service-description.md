@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: b042d1fd-c997-46d8-8c02-1df4c932f148
 description: Microsoft 365 Empresa Premium es una solución integrada que reúne la mejor productividad de su clase con capacidades avanzadas de administración de dispositivos y seguridad para ayudar a proteger su empresa. Esta descripción del servicio describe las opciones y características del plan.
-ms.openlocfilehash: 8815a1ab8ec1dc7901e04e7b7a972d6ec8b78151
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 0699b9a6841f1972e141bb52642c10e25dd141a2
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671665"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986156"
 ---
 # <a name="microsoft-365-business-premium-service-description"></a>Descripción del servicio de Microsoft 365 Empresa Premium
 
@@ -44,7 +44,7 @@ Microsoft 365 Empresa Premium incluye básicamente todas las características di
 |Microsoft Stream  <br/> |Sí<sup>6</sup>  <br/> |Sí<sup>6</sup>  <br/> |
 |[Microsoft 365 administración](/office365/admin/admin-overview/about-the-admin-center#admin-center-features-and-settings) <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Microsoft 365 Empresa Premium** <br/> |
 |Herramienta de sincronización Conectar Azure AD<br/> |Sí  <br/> |Sí  <br/> |
-|[Activación en equipos compartidos](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation) <br/> |No <br/> |Sí  <br/> |
+|[Activación en equipos compartidos](/DeployOffice/overview-shared-computer-activation) <br/> |No <br/> |Sí  <br/> |
 |[Regulación de mensajes y cumplimiento](../exchange-online-service-description/message-policy-and-compliance.md) <br/> |**Microsoft 365 Empresa Estándar** <br/> |**Microsoft 365 Empresa Premium** <br/> |
 |Archivado a largo plazo de buzones Exchange Online basados en archivos  <br/> |No  <br/> |Sí<sup>3</sup> <br/> |
 |Plan 1 de Azure Information Protection |No <br/>|Sí<sup>2</sup> </br>|
@@ -104,7 +104,7 @@ Microsoft 365 Empresa Premium incluye básicamente todas las características di
 ### <a name="notes"></a>Notas
 <sup>1</sup> Incluye Exchange Online plan 1.<br/>
 <sup>2</sup> Azure Information Protection (AIP) habilita las características admitidas de Information Rights Management (IRM). El plan 1 de AIP se incluye en Microsoft 365 Empresa Premium. <br/>
-<sup>3</sup> Microsoft 365 Empresa Premium incluye Archivado de Exchange Online suscripción. Cada suscriptor de Archivado de Exchange Online recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. Para obtener más información, consulte [Información general del archivado ilimitado](/office365/securitycompliance/unlimited-archiving). <br/>
+<sup>3</sup> Microsoft 365 Empresa Premium incluye Exchange plan 1 y Archivado de Exchange Online solo se incluye en Exchange Plan 2 (E3/E5). El archivo basado en la nube y la retención local se pueden comprar como complemento. Cada suscriptor de Archivado de Exchange Online recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. Para obtener más información, consulte [Información general del archivado ilimitado](/office365/securitycompliance/unlimited-archiving). <br/>
 <sup>4 Disponible</sup> en [https://securescore.office.com](https://securescore.office.com) . Requiere permisos de administrador. Para obtener más información, vea [Puntuación segura de Microsoft](/office365/securitycompliance/microsoft-secure-score).<br/>
 <sup>5</sup> Administración Windows 10 dispositivos simplificada integrada en el Centro de administración de Microsoft 365. Capacidades de administración de Intune de iOS, Android, macOS y otra administración de dispositivos multiplataforma integrada en el Centro de administración de dispositivos, también con licencia para su uso con Microsoft 365 Empresa Premium. Las aplicaciones de terceros y la configuración de cosas como perfiles WiFi y certificados VPN también se pueden administrar en el Centro de administración de dispositivos. <br/>
 <sup>6</sup> Este plan viene con el Plan 2 de Microsoft Stream, que incluye portal de vídeo, transcripción de voz a texto, búsqueda profunda y detección de rostros.<br/>

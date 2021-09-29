@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporciona información general sobre las diferencias de características entre la nube del gobierno de Estados Unidos y la nube comercial, tal como se muestra en la Exchange Online de servicio.
-ms.openlocfilehash: 674d2e50b11624f206797cfef97883e9fda87df5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 2845e26e40552f364d2f8f6a0ec2746d35e13330
+ms.sourcegitcommit: 0ef110d0f0a11c1943560373e0f022364053640c
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671079"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "59986136"
 ---
 # <a name="exchange-online-for-us-government-environments"></a>Exchange Online entornos gubernamentales de Estados Unidos
 
@@ -51,7 +51,7 @@ En la tabla siguiente se describe si las características Exchange Online están
 |Permisos basados en roles|Sí|Sí|Sí||
 |Grupos de funciones|Sí|Sí|Sí||
 |Directivas de asignación de funciones|Sí|Sí|Sí||
-|**[Directiva y cumplimiento de mensajes](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**Consideraciones clave**|
+|**[Regulación de mensajes y cumplimiento](../../exchange-online-service-description/message-policy-and-compliance.md)**|**GCC**|**GCC High**|**DoD**|**Consideraciones clave**|
 |Archivado de buzones basados en Exchange Online|Sí|Sí|Sí||
 |Archivado basado en nube de buzones locales|Sí|Sí|Sí||
 |Messaging Records Management (MRM) |Sí|Sí|Sí||
@@ -121,7 +121,7 @@ En la tabla siguiente se describe si las características Exchange Online están
 |Movilidad básica y seguridad para Microsoft 365|Sí|No|No||
 |POP e IMAP|Sí|Sí|Sí||
 |SMTP|Sí|Sí|Sí||
-|Compatibilidad con aplicaciones EWS|Sí|Sí|Sí||
+|Compatibilidad con aplicaciones EWS<sup>2</sup>|Sí|Sí|Sí||
 |**[Servicios de mensajes de voz](../../exchange-online-service-description/voice-message-services.md)**|**GCC**|**GCC High**|**DoD**|**Consideraciones clave**|
 |Correo de voz|No|No|No|No se admite la integración de sistemas IP-PBX locales Exchange Online mensajería unificada.|
 |Integración entre correo de voz y FAX de terceros|No|No|No|No se admite la integración de sistemas IP-PBX locales Exchange Online mensajería unificada.|
@@ -147,7 +147,8 @@ En la tabla siguiente se describe si las características Exchange Online están
 |**[Ampliación del servicio: personalización, complementos y recursos](../../exchange-online-service-description/exchange-online-service-description.md)**|**GCC**|**GCC High**|**DoD**|**Consideraciones clave**|
 |Outlook complementos y Outlook MAPI|Sí|Sí|Sí|Solo algunos complementos de OWA y Outlook están disponibles en GCC High y DoD. Vea [Complementos en Outlook y Outlook Web App](#add-insin-outlook-and-outlook-web-app) en este artículo.|
 
-<sup>1</sup> Outlook en la Web se puede usar en escenarios en los que Outlook para Windows no puede mostrar los mensajes protegidos de IRM debido a restricciones entre límites (escenarios GCC high /non-GCC high).
+<sup>1</sup> Outlook en la Web se puede usar en escenarios en los que Outlook para Windows no puede mostrar los mensajes protegidos de IRM debido a restricciones entre límites (escenarios GCC high /non-GCC high).</br>
+<sup>2</sup> Solo se permite la salida a espacios de direcciones específicos que el cliente pueda demostrar que es el propietario, por lo que esto excluye los servicios de terceros y los amplios intervalos IP que usan los dispositivos móviles.
 
 ## <a name="feature-nuances-within-gcc-high-and-dod-environments"></a>Matices de características en GCC entornos high y DoD
 
