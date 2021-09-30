@@ -1,5 +1,5 @@
 ---
-title: Directiva y cumplimiento de mensajes
+title: Regulación de mensajes y cumplimiento
 ms.author: office365servicedesc
 author: pamelaar
 manager: gailw
@@ -12,14 +12,14 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 5c43c8eb-f8f7-4b5a-a743-b1dab7dc2fc8
 description: Obtenga información sobre la directiva de mensajes y el cumplimiento en Exchange Online.
-ms.openlocfilehash: c53f4deb052bfe149ed3adf7821ace90ded01126
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 77885b5db378734b1108c240663c0533cdffed7e
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671876"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015674"
 ---
-# <a name="message-policy-and-compliance"></a>Directiva y cumplimiento de mensajes
+# <a name="message-policy-and-compliance"></a>Regulación de mensajes y cumplimiento
 
 ## <a name="archiving-exchange-online-based-mailboxes"></a>Archivado de buzones basados en Exchange Online
 
@@ -44,7 +44,7 @@ Para obtener más información, vea:
 Solo los datos de mensajería de un usuario pueden almacenarse en cada archivo personal. La asignación de almacenamiento depende del plan de suscripción. Para obtener más información acerca de los tamaños de los buzones de archivo, vea la sección "Límites de almacenamiento de buzones" [en Exchange Online archivos.](exchange-online-limits.md)
   
 > [!IMPORTANT]
-> - Con el registro en diario, el uso de reglas de transporte o reglas de transferencia automática para copiar mensajes en un buzón de Exchange Online con fines de archivado no está permitido. Microsoft se reserva el derecho de denegar el archivado ilimitado en casos en los que no se esté utilizando un archivo de buzón en un escenario personal o en otros casos de uso inadecuado.
+> - Con el registro en diario, el uso de reglas de transporte o reglas de transferencia automática para copiar mensajes en un buzón de Exchange Online con fines de archivado no está permitido. Microsoft se reserva el derecho de denegar el almacenamiento de archivo adicional en instancias en las que no se esté utilizando un archivo de buzón en un escenario personal o en otros casos de uso inadecuado.
 > - El archivo local tiene requisitos de licencia específicos para usuarios de Outlook. Los usuarios de Outlook 2007 deberán tener actualización acumulada de Office 2007 para febrero de 2011 para poder acceder al archivo personal. 
 > - Exchange Online no admite el cmdlet _New-MailboxImportRequest_ Windows PowerShell de Exchange Server 2010 Service Pack 1 o posterior para la importación controlada por el administrador de archivos .pst en un archivo personal. Si un usuario tiene el buzón principal y el archivo en Exchange Online, un administrador puede usar PST Capture, una herramienta gratuita, para importar datos de archivos .pst al buzón principal o archivo del usuario.
 

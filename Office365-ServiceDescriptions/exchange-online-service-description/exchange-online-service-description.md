@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 7a83da3c-3b6d-4f86-ad4d-6104707cd0ec
 description: ¿Está buscando una comparación de características de suscripciones que incluyan Exchange Online? Si es así, el artículo de descripción del servicio Exchange Online es lo que estaba buscando. En él también encontrará los requisitos del sistema, y los requisitos de almacenamiento y de destinatario.
-ms.openlocfilehash: c4daf506b60198d9bf3abeaec010dc5dc3b03888
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: c0682932646cfd43781e460ceba02fdfb72c0102
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59672073"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015704"
 ---
 # <a name="exchange-online-service-description"></a>Descripción de servicio de Exchange Online
 
@@ -82,7 +82,7 @@ Para ver la disponibilidad de características Microsoft 365 Empresa Premium, [v
 |Permisos basados en roles|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Grupos de funciones|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
 |Directivas de asignación de funciones|Sí|Sí|Sí|Sí|Sí|Sí|Sí|No|
-|**[Directiva y cumplimiento de mensajes](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
+|**[Regulación de mensajes y cumplimiento](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Microsoft 365 Empresa Básico**|**Microsoft 365 Empresa Estándar**|**Office 365 Enterprise E1**|**Office 365 Enterprise E3**|**Office 365 Enterprise E5**|**Office 365 Enterprise F3**|
 |Archivado de buzones basados en Exchange Online| No|No|Sí|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|Sí<sup>9</sup>|No|
 |Archivado basado en nube de buzones locales|Sí<sup>1</sup>|Sí<sup>1</sup>|No|No|Sí|Sí|Sí|No|
 |Messaging Records Management (MRM) |Sí|Sí|Sí|Sí|Sí|Sí|Sí|Sí|
@@ -218,7 +218,7 @@ Se admite POP <sup>12,</sup> pero IMAP no. <br/>
 |Permisos basados en roles|Sí|Sí|Sí|Sí|No|
 |Grupos de funciones|Sí|Sí|Sí|Sí|No|
 |Directivas de asignación de funciones|Sí|Sí|Sí|Sí|No|
-|**[Directiva y cumplimiento de mensajes](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Quiosco de Exchange Online**|
+|**[Regulación de mensajes y cumplimiento](message-policy-and-compliance.md)**|**Exchange Server 2013**|**Exchange Server 2016**|**Exchange Online Plan &nbsp; 1**|**Exchange Online Plan &nbsp; 2**|**Quiosco de Exchange Online**|
 |Archivado de buzones basados en Exchange Online|Sí|No|Sí|Sí|No|
 |Archivado basado en nube de buzones locales|Sí<sup>5</sup>|Sí<sup>5</sup>|No|Sí|No|
 |Messaging Records Management (MRM) |Sí|Sí|Sí|Sí|Sí|
@@ -328,7 +328,7 @@ Se admite POP <sup>12,</sup> pero IMAP no. <br/>
 <sup>14</sup> Los clientes que ejecutan Exchange Server 2013 o posterior necesitan descargar e instalar la última actualización acumulativa (CU), o la CU inmediatamente anterior, para tener acceso a la toma de huellas digitales de documentos y Sugerencias de directivas en OWA y OWA para dispositivos. <br/>
 <sup>15</sup> Disponible para clientes que ejecutan Exchange Server 2013 o posterior. <br/>
 <sup>16</sup> BitLocker Drive Encryption es compatible con Exchange Server 2013, pero un administrador necesita habilitar la característica. <br/>
-<sup>17</sup> Exchange Online plan 1 tiene un [límite de tamaño en el buzón y el archivo](./exchange-online-limits.md). Archivado de Exchange Online para Exchange Online complemento agrega un archivo ilimitado basado en la nube y [la retención local](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold). <br/>
+<sup>17</sup> Exchange Online plan 1 tiene un [límite de tamaño en el buzón y el archivo](./exchange-online-limits.md). Archivado de Exchange Online para Exchange Online complemento agrega hasta 1,5 TB de archivo basado en la nube y [retención local](../exchange-online-archiving-service-description/compliance-and-security-features.md#in-place-hold-and-litigation-hold). <br/>
 <sup>18</sup> Quiosco de Exchange Online calendarios solo se puede acceder o compartir a través de OWA. <br/>
 <sup>19</sup> Cuentas conectadas son compatibles con cuentas POP IMAP, pero &amp; deshabilitadas para Outlook.com (Hotmail). <br/>
 <sup>20</sup> No se admite el uso de cmdlets Exchange Online PowerShell para personalizar listas de direcciones predeterminadas y la lista global de direcciones (GAL) predeterminada. <br/>

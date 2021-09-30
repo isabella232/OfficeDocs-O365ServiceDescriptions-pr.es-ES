@@ -9,12 +9,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Microsoft 365 Empresa Premium es la mejor oferta de Microsoft para clientes de pequeñas y medianas empresas. Microsoft 365 Empresa Premium es una solución integrada que reúne Microsoft 365 productividad, seguridad avanzada y administración de dispositivos.
-ms.openlocfilehash: 66832d3ae1a74f5551bbb689eb7ac07d197b1e2b
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: e4062493a2508b17704c48770d5e991915674426
+ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670467"
+ms.lasthandoff: 09/30/2021
+ms.locfileid: "60015663"
 ---
 # <a name="licensing-microsoft-365-for-small-and-medium-sized-businesses"></a>Licenciamiento de Microsoft 365 para pequeñas y medianas empresas
 
@@ -44,13 +44,13 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 |   | Windows Virtual Desktop | No | Sí |
 |**Protección de información** | Prevención de pérdida de datos de Microsoft | No | Sí |
 |   | Plan 1 de Azure Information Protection, cumplimiento de BitLocker | No | Sí |
-|**Cumplimiento** | Archivado de correo<sup>electrónico ilimitado 2</sup> | No | Sí |
+|**Cumplimiento** | Archivado de expansión automática<sup>2</sup> | No | Sí |
 
 **Notas**
 
 <sup>1</sup> Disponible en Estados Unidos, Reino Unido, Canadá.
 
-<sup>2 Archivado</sup> ilimitado cuando se ha activado la expansión automática.
+<sup>2</sup> Los usuarios tienen una capacidad de almacenamiento de archivo de hasta 1,5 TB cuando se activa el archivado de expansión automática.
 
 ## <a name="feature-comparison-microsoft-365-business-premium-and-office-365-e3"></a>Comparación de características: Microsoft 365 Empresa Premium y Office 365 E3
 
@@ -74,7 +74,7 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 |**Protección de la información** | Prevención de pérdida de datos de Microsoft | Sí | Sí |
 |   | Plan 1 de Azure Information Protection, cumplimiento de BitLocker | No | Sí |
 |**Derechos de CAL locales** | Suite ECAL (Exchange, SharePoint, Skype) | Sí | No |
-|**Cumplimiento** | Archivado de correo<sup>electrónico ilimitado 3</sup> | Sí | Sí |
+|**Cumplimiento** | Archivado de expansión automática<sup>3</sup> | Sí | Sí |
 
 **Notas**
 
@@ -82,7 +82,7 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 
 <sup>2</sup> Disponible en Estados Unidos, Reino Unido, Canadá.
 
-<sup>3</sup> Archivado ilimitado cuando se ha activado la expansión automática.
+<sup>3</sup> Los usuarios tienen una capacidad de almacenamiento de archivo de hasta 1,5 TB cuando se activa el archivado de expansión automática.
 
 ## <a name="feature-comparison-microsoft-365-business-standard-microsoft-365-business-premium-and-office-365-e3"></a>Comparación de características: Microsoft 365 Empresa Estándar, Microsoft 365 Empresa Premium y Office 365 E3
 
@@ -106,7 +106,7 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 |**Protección de la información**  | Prevención de pérdida de datos de Microsoft | No | Sí | Sí |
 |   | Plan 1 de Azure Information Protection, cumplimiento de BitLocker | No | Sí | No |
 |**Derechos de CAL locales** | Suite ECAL (Exchange, SharePoint, Skype) | No | No | Sí |
-|**Cumplimiento** | Archivado de correo<sup>electrónico ilimitado 3</sup> | No | Sí | Sí |
+|**Cumplimiento** | Archivado de expansión automática<sup>3</sup> | No | Sí | Sí |
 
 **Notas**
 
@@ -114,7 +114,7 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 
 <sup>2</sup> Disponible en Estados Unidos, Reino Unido, Canadá.
 
-<sup>3</sup> Archivado ilimitado cuando se ha activado la expansión automática.
+<sup>3</sup> Los usuarios tienen una capacidad de almacenamiento de archivo de hasta 1,5 TB cuando se activa el archivado de expansión automática.
 
 ## <a name="feature-comparison-microsoft-365-business-standard-and-microsoft-365-for-business-plans"></a>Comparación de características: Microsoft 365 Empresa Estándar y Microsoft 365 planes para empresas
 
@@ -141,7 +141,7 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 | **Protección de la información** | Prevención de pérdida de datos de Microsoft, Plan 1 de Azure Information Protection | No | Sí | Sí | Sí |
 |   | Azure Information Protection Plan 2, Microsoft Cloud App Security, Office 365 Cloud App Security | No | No | No | Sí |
 |**Derechos de CAL locales** | ECAL Suite (Exchange, SharePoint, Skype, Windows, Microsoft Endpoint Configuration Manager, Windows Rights Management) | No | No | Sí | Sí |
-|**Cumplimiento** | Archivado de correo<sup>electrónico ilimitado 2</sup> | No | Sí | Sí | Sí |
+|**Cumplimiento** | Archivado de expansión automática<sup>2</sup> | No | Sí | Sí | Sí |
 |   | Advanced eDiscovery, Caja de seguridad del cliente, Gobierno de datos avanzado | No | No | No | Sí |
 |**Análisis** | Power BI Pro, MyAnalytics | No | No | No | Sí |
 | | Ideas de MyAnalytics | Sí | Sí | Sí | Sí |
@@ -152,11 +152,11 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 
 <sup>1</sup> Disponible en Estados Unidos, Reino Unido, Canadá.
 
-<sup>2 Archivado</sup> ilimitado cuando se ha activado la expansión automática.
+<sup>2</sup> Los usuarios tienen una capacidad de almacenamiento de archivo de hasta 1,5 TB cuando se activa el archivado de expansión automática.
 
 ## <a name="office-client-commercial-plans"></a>Office planes comerciales de cliente
 
-| **Applications** | **Aplicaciones de Microsoft 365 para negocios** | **Aplicaciones de Microsoft 365 para empresas** |
+| **Aplicaciones** | **Aplicaciones de Microsoft 365 para negocios** | **Aplicaciones de Microsoft 365 para empresas** |
 |------------------|-------------------------|------------------------|
 | Word             | Sí                     | Sí                    |
 | Excel            | Sí                     | Sí                    |
@@ -164,7 +164,7 @@ En este artículo se comparan las opciones de licencias para las PYME, con un é
 | OneNote          | Sí                     | Sí                    |
 | Outlook          | Sí                     | Sí                    |
 | Publisher        | Sí                     | Sí                    |
-| Acceso           | Sí                     | Sí                    |
+| Access           | Sí                     | Sí                    |
 | Microsoft Teams  | Sí                     | Sí                    |
 | **Premium valor**                             | **Aplicaciones de Microsoft 365 para negocios** | **Aplicaciones de Microsoft 365 para empresas** |
 | Activación por volumen                             | No                      | No                     |
