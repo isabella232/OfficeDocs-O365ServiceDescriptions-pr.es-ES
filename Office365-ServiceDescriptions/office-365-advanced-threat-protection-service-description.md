@@ -12,12 +12,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: a8061c87-3572-49db-94ff-c8301e549cdd
 description: Microsoft Defender para Office 365 es un servicio de filtrado de correo electrónico basado en la nube que ayuda a proteger su organización contra malware y virus desconocidos al proporcionar una protección sólida de día cero e incluye características para proteger su organización de vínculos dañinos en tiempo real.
-ms.openlocfilehash: 41f726ad322050821871f286aac9c4862e33f7a7
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 1d06d2780efa1e0303ae3b6f155ec5ad0ecf56dd
+ms.sourcegitcommit: 2ef11e882b734751bceffbbcad920b765c47fc92
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670345"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60040956"
 ---
 # <a name="microsoft-defender-for-office-365-service-description"></a>Descripción del servicio de Microsoft Defender para Office 365
 
@@ -76,6 +76,23 @@ Para obtener más información acerca de Microsoft Defender para Office 365, con
 ### <a name="licensing-terms"></a>Términos de licencia
 
 Para conocer los términos y condiciones de licencia de los productos y servicios adquiridos a través de programas de licencias por volumen comerciales de Microsoft, consulte el sitio [Términos del producto](https://www.microsoft.com/licensing/terms/).
+
+Para los inquilinos del Plan 1 de Microsoft Defender para Office 365, las licencias deben adquirirse para usuarios o buzones de correo en uno o más de los siguientes escenarios:
+
+- Cualquier usuario que tiene acceso a un buzón que se beneficia de Defender para Office 365 protección.
+- Buzones compartidos que se benefician de Defender para Office 365 protección.
+- Si Caja fuerte protección de datos adjuntos para SharePoint, OneDrive para la Empresa o Teams está activada, todos los usuarios que tienen acceso a SharePoint, OneDrive para la Empresa o Teams.
+- Cualquier usuario que use Aplicaciones Microsoft 365 o Teams cuando Caja fuerte las protecciones de vínculos están habilitadas.
+
+Para los inquilinos del Plan 2 de Microsoft Defender para Office 365, las licencias deben adquirirse para usuarios o buzones que se descumenten en uno o más de los siguientes escenarios:
+
+- Todos Exchange Online usuarios del inquilino. Esto se debe a que las características y capacidades del plan 2 protegen a todos los usuarios del espacio empresarial.
+- Todos los buzones compartidos del inquilino.
+- Si Caja fuerte protección de datos adjuntos para SharePoint, OneDrive para la Empresa o Teams está activada, todos los usuarios que tienen acceso a SharePoint, OneDrive para la Empresa o Teams.
+- Cualquier usuario que use Aplicaciones Microsoft 365 o Teams cuando Caja fuerte las protecciones de vínculos están habilitadas.
+
+> [!NOTE]
+> Office 365 E5, Seguridad de Microsoft 365 E5 y Microsoft 365 E5 incluyen Microsoft Defender para licencias de P2 Office y Microsoft 365 Empresa Premium Microsoft Defender para Office 365 licencias de P1.
 
 ### <a name="messaging"></a>Mensajería 
 
