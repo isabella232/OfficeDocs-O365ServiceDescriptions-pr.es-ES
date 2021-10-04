@@ -10,12 +10,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: Obtenga información sobre la SharePoint de características para los clientes en la nube del gobierno de Estados Unidos.
-ms.openlocfilehash: 1c584c3bfd62b7573f4c9bcc0c0fb5402b2d9bef
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 3d0660316b53d9aaef8adf514c8835950150abd8
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59673008"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088513"
 ---
 # <a name="sharepoint-for-us-government-environments"></a>SharePoint entornos gubernamentales de Estados Unidos
 
@@ -72,7 +72,6 @@ Estas son las diferencias entre los sitios y las características de contenido p
 
 - Los elementos web que dependen de las conexiones a servicios de Internet, como los elementos web Amazon Kindle, mapas de Bing, Twitter y YouTube, no funcionarán como se esperaba.
 - La biblioteca de activos de la organización no está disponible
-- Agregar listas y páginas a Teams no está disponible para los GCC high y doD
 - Graph funcionalidad de SharePoint Online para GCC High está deshabilitada actualmente. Cualquier servicio que se base en Microsoft Graph puede que no esté disponible actualmente
 - Las características que dependen de las conexiones a servicios de Internet, como la pestaña imágenes de stock, no funcionarán como se esperaba
 - Las notificaciones de actividad de archivo y sitio no están disponibles
@@ -125,7 +124,7 @@ El contenido de este archivo se muestra en la siguiente captura de pantalla:
 
 SharePoint características híbridas admiten los siguientes entornos de SPO:
 
-- Público
+- Public
 - PPE
 - GCC
 - GccHigh

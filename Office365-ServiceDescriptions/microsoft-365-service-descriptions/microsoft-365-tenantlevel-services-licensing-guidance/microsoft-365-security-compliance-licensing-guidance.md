@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 description: En este artículo se proporcionan instrucciones Microsoft 365 cumplimiento normativo para ayudar a evitar posibles interrupciones del servicio debido al acceso sin licencia.
-ms.openlocfilehash: e889cdbfe23bbea76fcaf66596dad202be4918fd
-ms.sourcegitcommit: 0107453467d2f1b4971118273631248432d0aa28
+ms.openlocfilehash: 7da0766c19169e54c7377bfd7f97d34407a03658
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 10/02/2021
-ms.locfileid: "60082860"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088503"
 ---
 # <a name="microsoft-365-guidance-for-security-amp-compliance"></a>Microsoft 365 guía para el cumplimiento de &amp; la seguridad
 
@@ -568,6 +568,13 @@ Estas API permiten a los desarrolladores crear aplicaciones de seguridad y cumpl
 
 La protección de la información y las capacidades de gobierno se usan ampliamente en Microsoft Teams, especialmente a medida que las organizaciones se han desplazado al trabajo remoto. Con [Teams Export API,](/microsoftteams/export-teams-content)los datos se pueden exportar a una aplicación de archivado de cumplimiento o exhibición de documentos electrónicos de terceros para garantizar que se cumplan las prácticas de cumplimiento.
 
+### <a name="which-licenses-provide-the-rights-for-a-user-to-benefit-from-the-service"></a>¿Qué licencias proporcionan los derechos para que un usuario se beneficie del servicio?
+
+- Microsoft 365 (E5/A5)
+- Cumplimiento de Microsoft 365 E5/A5 
+- Seguridad de Microsoft 365 E5/A5
+- Gobernanza e Information Protection de Microsoft 365 E5/A5
+
 ### <a name="how-is-the-service-provisioneddeployed"></a>¿Cómo se aprovisiona o implementa el servicio?
 
 El acceso a la API se configura en el nivel de inquilino.
@@ -576,7 +583,7 @@ El acceso a la API se configura en el nivel de inquilino.
 
 Las API Graph microsoft para Teams DLP y Teams Export proporcionan un valor de nivel de inquilino. Todos los usuarios destinados a beneficiarse de este servicio deben tener licencia. Como valor agregado, estamos agregando capacidad de eded por usuario con licencia, calculado por mes y agregado en el nivel de inquilino. Para el uso más allá de la capacidad de eded, los propietarios de la aplicación se facturarán por el consumo de API.
 
-Para obtener más información sobre la capacidad de eded y las tarifas de [consumo, vea Graph requisitos para obtener acceso a los mensajes de chat.](/graph/teams-licenses)
+Para obtener más información sobre la capacidad de eded y las tarifas de consumo, [vea Graph requisitos de](/graph/teams-licenses)acceso a los mensajes de chat .
 
 ## <a name="office-365-advanced-message-encryption"></a>Cifrado de mensajes avanzado de Office 365
 

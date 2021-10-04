@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 1c2dfe91-b522-4c72-a665-9bb50303ec96
 description: Office 365 operado por 21Vianet está diseñado para satisfacer las necesidades de servicios en la nube seguros, confiables y escalables en China. Este servicio funciona con tecnología cuya licencia Microsoft ha concedido a 21Vianet.
-ms.openlocfilehash: 6de0cee34692cca6106dc854060fc11b1b219cd5
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: a3c61c6d2938fe5e4f0554e82db10d719d9ee792
+ms.sourcegitcommit: b47c4912a47ce47bb3c20e696cc3700b14464c7b
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59671362"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "60088523"
 ---
 # <a name="office-365-operated-by-21vianet"></a>Office 365 operado por 21Vianet
 
@@ -68,19 +68,19 @@ Microsoft 365 El Centro de cumplimiento proporciona un acceso fácil a las herra
 | Características | Microsoft 365 Empresa Básico operado por 21Vianet | Aplicaciones Microsoft 365 para negocios operado por 21Vianet | Microsoft 365 Empresa Estándar operado por 21Vianet | Office 365 Enterprise E1 operado por 21Vianet | Office 365 Enterprise E3 operado por 21Vianet | Office 365 Enterprise F3 operado por 21Vianet |
 |---------|---------|---------|---------|---------|---------|---------|
 | Archivado | Sí | No aplicable | Sí | Sí | Sí | No |
-| Directivas de alerta | No | N/D | No | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
+| Directivas de alerta | No | No aplicable | No | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
 |Auditoría básica<sup>2</sup> | Sí | No aplicable | Sí | Sí | Sí | Sí |
-|Búsqueda de contenido | No | N/D | No | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
-|Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la Empresa | No | N/D | Sí | No | Sí | No |
-|Casos de exhibición de documentos electrónicos | No | N/D | No | No<sup>1</sup> | No<sup>1</sup> | No<sup>1</sup> |
-|Exportación de exhibición de documentos electrónicos | No | N/D | No | No | No<sup>1</sup> | No |
-|Retenciones de exhibición de documentos electrónicos (incluidas las retenciones de exhibición de documentos electrónicos basadas en consultas) | No | N/D | No | No | No<sup>1</sup> | No |
-|Gobierno de la<sup>información 1</sup> | Sí | No aplicable | Sí | Sí | Sí | Sí |
-|Etiquetas de confidencialidad manuales | No | N/D | No | Sí | Sí | No |
-|Cifrado de mensajes de Office 365 (OME) Basic | No | N/D | No | No | Sí | No |
+|Búsqueda de contenido | No | No aplicable | No | Sí | Sí | Sí |
+|Prevención de pérdida de datos para Exchange Online, SharePoint Online y OneDrive para la Empresa | No | No aplicable | Sí | No | Sí | No |
+|Casos de exhibición de documentos electrónicos | No | No aplicable | No | Sí | Sí | Sí |
+|Exportación de exhibición de documentos electrónicos | No | No aplicable | No | No | Sí | No |
+|Retenciones de exhibición de documentos electrónicos (incluidas las retenciones de exhibición de documentos electrónicos basadas en consultas) | No | No aplicable | No | No | No<sup>1</sup> | No |
+|Información de gobierno | Sí | No aplicable | Sí | Sí | Sí | Sí |
+|Etiquetas de confidencialidad manuales | No | No aplicable | No | Sí | Sí | No |
+|Cifrado de mensajes de Office 365 (OME) Basic | No | No aplicable | No | No | Sí | No |
 
 <sup>1 Disponibilidad</sup> próximamente.</br>
-<sup>2</sup> Auditoría con datos de Azure Active Directory y Exchange.
+<sup>2</sup> Auditoría con datos de Azure Active Directory, Exchange, DLP y SharePoint.
 
 > [!NOTE]
 >
@@ -173,7 +173,7 @@ En la tabla siguiente se enumeran todas las características de plataforma para 
 | Explorador utilizado | Sí | Sí | Sí | Sí | Sí | Sí |
 | Sistema operativo utilizado | Sí | Sí | Sí | Sí | Sí | Sí |
 | Crear sus propios informes con Microsoft 365 web de informes | Sí | Sí | Sí | Sí | Sí | Sí |
-| **[Actualizaciones de servicio](service-updates.md)** | **Microsoft 365 Empresa Básico operado por 21Vianet** | **Aplicaciones Microsoft 365 para negocios operado por 21Vianet** | **Microsoft 365 Empresa Estándar operado por 21Vianet** | **Office 365 Enterprise E1 operado por 21Vianet** | **Office 365 Enterprise E3 operado por 21Vianet** | **Office 365 Enterprise F3 operado por 21Vianet** |
+| **[Actualizaciones del servicio](service-updates.md)** | **Microsoft 365 Empresa Básico operado por 21Vianet** | **Aplicaciones Microsoft 365 para negocios operado por 21Vianet** | **Microsoft 365 Empresa Estándar operado por 21Vianet** | **Office 365 Enterprise E1 operado por 21Vianet** | **Office 365 Enterprise E3 operado por 21Vianet** | **Office 365 Enterprise F3 operado por 21Vianet** |
 | Actualizaciones habituales para todos los clientes | Sí | Sí | Sí | Sí | Sí | Sí |
 | Notificaciones enviadas al Centro de mensajes cuando se requiere acción, se resuelve un problema, se implementan características o se cambia el servicio. | Sí | Sí | Sí | Sí | Sí | Sí |
 | [Roadmap.office.com](https://www.microsoft.com/microsoft-365/roadmap?rtc=2&filters=) para algunas actualizaciones de servicio | No | No | No | No | No | No |
@@ -348,7 +348,7 @@ En la siguiente tabla se enumeran los servicios de Exchange Online que están di
 | Permisos basados en roles | Sí | Sí | Sí | Sí | Sí | No |
 | Grupos de funciones | Sí | Sí | Sí | Sí | Sí | No |
 | Directivas de asignación de funciones | Sí | Sí | Sí | Sí | Sí | No |
-| **[Directiva y cumplimiento de mensajes](../exchange-online-service-description/message-policy-and-compliance.md)** | **Microsoft 365 Empresa Básico operado por 21Vianet** | **Aplicaciones Microsoft 365 para negocios operado por 21Vianet** | **Microsoft 365 Empresa Estándar operado por 21Vianet** | **Office 365 Enterprise E1 operado por 21Vianet** | **Office 365 Enterprise E3 operado por 21Vianet** | **Office 365 Enterprise F3 operado por 21Vianet** |
+| **[Regulación de mensajes y cumplimiento](../exchange-online-service-description/message-policy-and-compliance.md)** | **Microsoft 365 Empresa Básico operado por 21Vianet** | **Aplicaciones Microsoft 365 para negocios operado por 21Vianet** | **Microsoft 365 Empresa Estándar operado por 21Vianet** | **Office 365 Enterprise E1 operado por 21Vianet** | **Office 365 Enterprise E3 operado por 21Vianet** | **Office 365 Enterprise F3 operado por 21Vianet** |
 | Archivado de buzones basados en Exchange Online | Sí | Sí | Sí | Sí | Sí | No |
 | Archivado basado en nube de buzones locales | No | No | No | No | No | No |
 | Etiquetas de retención y directivas de retención | Sí | Sí | Sí | Sí | Sí | Sí |
