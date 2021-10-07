@@ -10,12 +10,12 @@ ms.localizationpriority: medium
 ms.custom: Adm_ServiceDesc
 ms.assetid: 34c5d8a8-eec7-46ae-82c7-9e9bdbe39895
 description: Obtenga información sobre los límites de SharePoint para Microsoft 365 y planes independientes.
-ms.openlocfilehash: 21034e34d483e63a474533e4c02444749e736936
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 87ef3a5a9ddf795ae8143021e054f7dd5c9d1d48
+ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59669549"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60149382"
 ---
 # <a name="sharepoint-limits"></a>Límites de SharePoint
 
@@ -40,14 +40,6 @@ Obtenga información sobre los límites de servicio en SharePoint para Microsoft
   
 ## <a name="service-limits-for-all-plans"></a>Límites de servicio para todos los planes
 
-### <a name="items-in-lists-and-libraries"></a>Elementos en listas y bibliotecas
-
-Una lista puede contener un máximo de 30 millones de elementos, mientras que una biblioteca puede contener hasta 30 millones de archivos y carpetas. Cuando una lista, biblioteca o carpeta contiene más de 100 000 elementos, no se puede interrumpir la herencia de permisos en la lista, biblioteca o carpeta. Tampoco puede volver a heredar permisos en ellas. Sí puede interrumpir la herencia en los elementos individuales de esa lista, biblioteca o carpeta, hasta el número máximo de permisos únicos en la lista o biblioteca (vea la sección siguiente). Para obtener más información sobre otras restricciones de visualización de listas grandes, consulte [Administración de grandes listas y bibliotecas en Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784).
-
-### <a name="unique-security-scopes-per-list-or-library"></a>Ámbitos de seguridad únicos por lista o biblioteca
-
-Para listas grandes, prevea tener el menor número de permisos únicos posible y permanecer por debajo de 5000 en total.
-
 ### <a name="file-size-and-file-path-length"></a>Tamaño de archivo y longitud de la ruta de acceso del archivo
 
 - **Límite de carga de archivos de 250 GB** Rige para cada archivo individual cargado en la pestaña Archivos de Microsoft Teams, bibliotecas de documentos de SharePoint, carpetas de OneDrive y conversaciones de Yammer.
@@ -55,6 +47,14 @@ Para listas grandes, prevea tener el menor número de permisos únicos posible y
 - **Archivo adjunto a un elemento de lista: 250 MB:** Se aplica a Listas Microsoft y listas de SharePoint, ambas basadas en la misma plataforma de listas.
 
 Para obtener más información sobre las restricciones y límites al usar la nueva aplicación Sincronización de OneDrive (OneDrive.exe), vea [Nombres de archivo y tipos de archivo no válidos](https://support.office.com/article/64883a5d-228e-48f5-b3d2-eb39e07630fa).
+
+### <a name="items-in-lists-and-libraries"></a>Elementos en listas y bibliotecas
+
+Una lista puede contener un máximo de 30 millones de elementos, mientras que una biblioteca puede contener hasta 30 millones de archivos y carpetas. Cuando una lista, biblioteca o carpeta contiene más de 100 000 elementos, no se puede interrumpir la herencia de permisos en la lista, biblioteca o carpeta. Tampoco puede volver a heredar permisos en él. Sí puede interrumpir la herencia en los elementos individuales de esa lista, biblioteca o carpeta, hasta el número máximo de permisos únicos en la lista o biblioteca (vea la sección siguiente). Para obtener más información sobre otras restricciones de visualización de listas grandes, consulte [Administración de grandes listas y bibliotecas en Office 365](https://support.office.com/article/b4038448-ec0e-49b7-b853-679d3d8fb784).
+
+### <a name="managed-metadata"></a>Metadatos administrados
+
+1 millón de términos totales, con un total de 2 millones de etiquetas de términos y 1 millón de propiedades de términos (estos límites son para términos globales y de nivel de sitio combinados). 1000 conjuntos de términos globales, 1000 grupos globales
 
 ### <a name="moving-and-copying-across-sites"></a>Mover y copiar entre sitios
 
@@ -64,13 +64,9 @@ Copiar o mover varios archivos en una sola operación tiene tres requisitos:
 - No más de 30 000 archivos
 - Cada archivo debe tener menos de 15 GB.
 
-### <a name="sync"></a>Sincronización
+### <a name="overall-site-metadata"></a>Metadatos generales del sitio
 
-Para obtener un rendimiento óptimo, se recomienda almacenar menos de 300 000 archivos en una única biblioteca de sitio de grupo o de OneDrive. Aunque en SharePoint Online se pueden almacenar 30 millones de documentos por biblioteca, se recomienda no almacenar más de 300 000 archivos entre todas las bibliotecas de documentos para obtener un rendimiento óptimo. Además, pueden producirse los mismos problemas de rendimiento si tiene 300 000 elementos o más en todas las bibliotecas que está sincronizando, aunque no se estén sincronizando todos los elementos de las bibliotecas. Si usa el cliente de sincronización antiguo de OneDrive para la Empresa (Groove.exe), el límite de sincronización por biblioteca es de 20 000 elementos (incluidos 5000 elementos por sitio de equipo).
-
-### <a name="versions"></a>Versiones
-
-50 000 versiones principales y 511 versiones secundarias.
+1000 GB por sitio (los metadatos rara vez alcanzan este tamaño).
 
 ### <a name="sharepoint-groups"></a>Grupos de SharePoint
 
@@ -79,24 +75,28 @@ Un usuario puede pertenecer a 5000 grupos por sitio (colección de sitios) y cad
 > [!NOTE]
 > Para los límites de grupo de Azure AD, consulte [Restricciones y límites de servicio de Azure AD](/azure/active-directory/users-groups-roles/directory-service-limits-restrictions), dado que tales límites pueden afectar a la administración de pertenencia a sitios de grupo públicos y privados.
 
-### <a name="managed-metadata"></a>Metadatos administrados
+### <a name="sharepoint-hosted-applications"></a>Aplicaciones hospedadas por SharePoint
 
-1 millón de términos totales, con un total de 2 millones de etiquetas de términos y 1 millón de propiedades de términos (estos límites son para términos globales y de nivel de sitio combinados). 1000 conjuntos de términos globales, 1000 grupos globales
+20 000 instancias por organización
 
-### <a name="overall-site-metadata"></a>Metadatos generales del sitio
+### <a name="sharepoint-workflow"></a>Flujo de trabajo de SharePoint
 
-1000 GB por sitio (los metadatos rara vez alcanzan este tamaño).
+SharePoint flujos de trabajo de 2013 se pueden ejecutar en perpetuidad por diseño si no hay ninguna condición final o una acción de detenerse explícita.
 
 ### <a name="subsites"></a>Subsitios
 
 2000 por sitio (colección de sitios). Se recomienda crear sitios y organizarlos en centros en lugar de crear subsitios. Si usa subsitios, se recomienda limitar su número (especialmente en sitios con mucho tráfico).
 
 > [!NOTE]
-> Su organización está limitada a 2000 sitios centrales. Puede que no necesite un sitio central para cada función y es importante realizar una planificación antes de crear centros. Para más información, visite [Planear los sitios centrales de SharePoint](/sharepoint/planning-hub-sites).
+> Su organización está limitada a 2000 sitios centrales. Es posible que no necesite un sitio de concentradores para cada función y es importante realizar cierta planeación antes de crear concentradores. Para obtener más información, vea [Planning your SharePoint hub sites](/sharepoint/planning-hub-sites).
 
-### <a name="sharepoint-hosted-applications"></a>Aplicaciones hospedadas por SharePoint
+### <a name="sync"></a>Sincronización
 
-20 000 instancias por organización
+Para obtener un rendimiento óptimo, se recomienda almacenar menos de 300 000 archivos en una única biblioteca de sitio de grupo o de OneDrive. Aunque en SharePoint Online se pueden almacenar 30 millones de documentos por biblioteca, se recomienda no almacenar más de 300 000 archivos entre todas las bibliotecas de documentos para obtener un rendimiento óptimo. Además, pueden producirse los mismos problemas de rendimiento si tiene 300 000 elementos o más en todas las bibliotecas que está sincronizando, aunque no se estén sincronizando todos los elementos de las bibliotecas. Si usa el cliente de sincronización antiguo de OneDrive para la Empresa (Groove.exe), el límite de sincronización por biblioteca es de 20 000 elementos (incluidos 5000 elementos por sitio de equipo).
+
+### <a name="unique-security-scopes-per-list-or-library"></a>Ámbitos de seguridad únicos por lista o biblioteca
+
+Para listas grandes, prevea tener el menor número de permisos únicos posible y permanecer por debajo de 5000 en total.
 
 ### <a name="users"></a>Usuarios
 
@@ -104,6 +104,10 @@ Un usuario puede pertenecer a 5000 grupos por sitio (colección de sitios) y cad
 
 > [!NOTE]
 > No hay ningún límite específico para el número de invitados que puede invitar a sitios de SharePoint. Para obtener más información sobre el uso compartido externo, vea [Información general sobre el uso compartido externo](/sharepoint/external-sharing-overview).
+
+### <a name="versions"></a>Versiones
+
+50 000 versiones principales y 511 versiones secundarias.
 
 ## <a name="see-also"></a>Vea también
 

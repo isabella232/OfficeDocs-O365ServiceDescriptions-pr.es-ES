@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc
 ms.assetid: 5e94a47f-0049-445f-9c8e-628d504ea72d
 description: Con cada Microsoft Office 365 para empresas, empresas, educación y suscripción gubernamental, el soporte técnico de Microsoft proporciona soporte técnico global, preventa, facturación y suscripción. El soporte técnico está disponible tanto en línea Centro de administración de Microsoft 365 como por teléfono para las suscripciones de pago y de prueba. Para obtener más información, consulta Opciones de soporte técnico de Microsoft.
-ms.openlocfilehash: 3ade3daebeaf3986ef0bcb6b40189a09204858e0
-ms.sourcegitcommit: c117bb958f5b94682fd384b4770a920c6114559b
+ms.openlocfilehash: 69057c5b8a8fedb4b6cde712e1d4da8e3f6ab4a9
+ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
 ms.translationtype: MT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "59670035"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60149392"
 ---
 # <a name="support"></a>Soporte técnico
 
@@ -102,6 +102,10 @@ La compatibilidad con planes independientes de pago se administra con el mismo n
 ### <a name="technical-support-languages"></a>Idiomas del soporte técnico
 
 Según la ubicación y el idioma, hay disponibles ingenieros de soporte durante la mayor parte del horario comercial regional y, en diversos casos, las 24 horas del día. Para obtener más información, [vea International Teléfono Numbers](/Office365/Admin/contact-support-for-business-products) and Microsoft Support [Options](https://products.office.com/business/office-365-for-business-support-options). Si se requiere asistencia de traducción adicional, los ingenieros de soporte pueden permanecer en línea y hacer que un traductor participe en la llamada.
+
+## <a name="business-assist-for-microsoft-365"></a>Ayuda empresarial para Microsoft 365
+
+Business Assist para Microsoft 365 está diseñado para que usted y sus empleados tengan acceso las 24 horas a los especialistas de pequeñas empresas a medida que crece su negocio, desde el momento de la incorporación hasta el uso diario. Obtenga más información en [Business Assist for Microsoft 365](/microsoft-365/admin/misc/business-assist).
   
 ## <a name="shared-support-responsibilities"></a>Responsabilidades compartidas de soporte
 
