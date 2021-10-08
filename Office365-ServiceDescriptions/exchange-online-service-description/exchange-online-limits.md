@@ -14,12 +14,12 @@ ms.custom:
 - Adm_ServiceDesc_top
 ms.assetid: 70b38a05-6cfa-4ced-a137-116019262fed
 description: Encuentre los límites de Exchange Online para las distintas áreas de servicio, entre los que se incluyen los límites de la libreta de direcciones, los de almacenamiento de los buzones y los de seguimiento de informes y mensajes.
-ms.openlocfilehash: 75f62c1fa0134b576beef812c2c8b657c9ab6a43
-ms.sourcegitcommit: 28c7d4dc2c98364ca9a2c9ba91744f2db89950bf
+ms.openlocfilehash: 822341c87a9a753f6c81a227d7ae339924cbe152
+ms.sourcegitcommit: 2464903b4632fd8ad2554f37c2646f124b3dd8c4
 ms.translationtype: HT
 ms.contentlocale: es-ES
-ms.lasthandoff: 09/30/2021
-ms.locfileid: "60015714"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "60149412"
 ---
 # <a name="exchange-online-limits"></a>Límites de Exchange Online
 
@@ -82,12 +82,12 @@ Los límites de Microsoft Exchange Online pertenecen a una de las categorías si
 
 ### <a name="address-book-limits"></a>Límites de la libreta de direcciones
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Límite de listas de direcciones|1000|1000|1000|1000|1000|1000|
-|Límite de libretas de direcciones sin conexión (OAB)|250|250|250|250|250|250|
-|Límite de directivas de libreta de direcciones (ABP)|250|250|250|250|250|250|
-|Límite de listas globales de direcciones|250|250|250|250|250|250|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Límite de listas de direcciones | 1000 | 1000 | 1000 | 1000 | 1000 | 1000 | 1000 |
+| Límite de libretas de direcciones sin conexión (OAB) | 250 | 250 | 250 | 250 | 250 | 250 | 250 |
+| Límite de directivas de libreta de direcciones (ABP) | 250 | 250 | 250 | 250 | 250 | 250 | 250 |
+| Límite de listas globales de direcciones | 250 | 250 | 250 | 250 | 250 | 250 | 250 |
 
 ### <a name="address-book-limits-across-standalone-plans"></a>Límites de la libreta de direcciones a través de planes independientes
 
@@ -107,14 +107,14 @@ El espacio de almacenamiento del buzón disponible para un usuario está determi
 
 ### <a name="storage-limits"></a>Límites de almacenamiento
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Buzones de usuario|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
-|Buzones de archivo<sup>7, 8</sup>|50 GB|50 GB|50 GB|1,5 TB<sup>1</sup>|1,5 TB<sup>1</sup>|No disponible<sup>4</sup>|
-|<sup>10</sup>Buzones compartidos|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50 GB<sup>2</sup>|50/100 GB<sup>2,9</sup>|50/100 GB<sup>2,9</sup>|50 GB<sup>2</sup>|
-|Buzones de recursos|50 GB<sup>3</sup>|50 GB<sup>3</sup>|50 GB<sup>3</sup>|50 GB<sup>3,9</sup>|50 GB<sup>3,9</sup>|50 GB<sup>3</sup>|
-|Buzones de carpetas públicas<sup>5</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|100 GB<sup>6</sup>|
-|Buzones de grupo|50 GB|50 GB|50 GB|50 GB|50 GB|50 GB|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|---------------------------|
+| Buzones de usuario | 50 GB | 50 GB | 50 GB | 50 GB | 100 GB | 100 GB | 2 GB |
+| Buzones de archivo<sup>7, 8</sup> | 50 GB | 50 GB | 50 GB | 50 GB | 1,5 TB<sup>1</sup> | 1,5 TB<sup>1</sup> | No disponible<sup>4</sup> |
+| <sup>10</sup>Buzones compartidos | 50 GB<sup>2</sup> | 50 GB<sup>2</sup> | 50 GB<sup>2</sup> | 50 GB<sup>2</sup> | 50/100 GB<sup>2,9</sup> | 50/100 GB<sup>2,9</sup> | 50 GB<sup>2</sup> |
+| Buzones de recursos | 50 GB<sup>3</sup> | 50 GB<sup>3</sup> | 50 GB<sup>3</sup> | 50 GB<sup>3</sup> | 50 GB<sup>3,9</sup> | 50 GB<sup>3,9</sup> | 50 GB<sup>3</sup> |
+| Buzones de carpetas públicas<sup>5</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> | 100 GB<sup>6</sup> |
+| Buzones de grupo | 50 GB | 50 GB | 50 GB | 50 GB | 50 GB | 50 GB | 50 GB |
 
 > [!NOTE]
 > <sup>1</sup> Cada usuario recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. Se agrega espacio de almacenamiento adicional incrementalmente hasta que la capacidad de almacenamiento de archivo alcanza los 1,5 TB. Para obtener más información, consulte [Información general del archivado de ampliación automática](/microsoft-365/compliance/autoexpanding-archiving). <br/> <sup>2</sup> Para acceder a un buzón de correo compartido, un usuario debe tener una licencia de Exchange Online, pero el buzón de correo compartido no requiere una licencia separada. Sin una licencia, los buzones compartidos están limitados a 50 GB. Para aumentar el límite de tamaño a 100 GB, el buzón compartido debe tener asignada una licencia de Exchange Online Plan 2. Si se asigna una licencia del plan 1 de Exchange Online con una licencia de complemento de Archivado de Exchange Online, esto le permitirá habilitar el archivado de expansión automático para una capacidad adicional de almacenamiento de archivos. Del mismo modo, si desea colocar un buzón compartido en retención por litigio, el buzón compartido debe tener una licencia de Exchange Online Plan 2 o una licencia de Exchange Online Plan 1 con una licencia complementaria de Exchange Online Archiving. Si desea aplicar funciones avanzadas como Microsoft Defender para Office 365, eDiscovery avanzado o directivas de retención automática, el buzón de correo compartido debe tener licencia para esas funciones. <br/> <sup>3</sup> Los buzones de recursos no requieren licencia. Sin embargo, sin una licencia, estos buzones están limitados a 50 GB. Para aumentar el tamaño del buzón, debe tener asignada una licencia E3 o E5. Esto aumentará el buzón en 100 GB. <br/> <sup>4</sup> Los buzones de archivo no están incluidos en Quiosco de Exchange Online. Sin embargo, se pueden adquirir como un complemento a través de Archivado de Exchange Online. Para obtener más información, vea [Descripción del servicio de Archivado de Exchange Online](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/> <sup>5</sup> El límite predeterminado de tamaño de la carpeta pública individual es de 2 GB. Puede cambiar el límite de tamaño individualmente en cada carpeta o cambiar el límite de tamaño predeterminado definido en la configuración de la organización para que el cambio sea efectivo para todas las carpetas de la organización. Nota: El tamaño máximo recomendado de una carpeta pública individual es de 25 GB. Si una carpeta pública individual supera los 25 GB, tendrá problemas durante el [proceso de división automática](https://techcommunity.microsoft.com/t5/exchange-team-blog/how-exchange-online-automatically-cares-for-your-public-folder/ba-p/2050019). <br/> <sup>6</sup> Está limitado a 1 000 buzones de carpetas públicas y el tamaño total máximo de todos los buzones de carpetas públicas es de 100 TB. Los buzones de correo de servicio de jerarquía están limitados a 100 buzones de carpetas públicas. <br/> <sup>7</sup> Los buzones de archivo solo pueden usarse para archivar correo de una sola entidad o un único usuario (como un buzón compartido) a los que se les haya aplicado una licencia. No se permiten usar los buzones de archivo para almacenar correo de varios usuarios o entidades. Por ejemplo, un administrador de TI no puede crear un buzón compartido ni permitir que los usuarios lo copien (con los campos CC o CCO, o mediante una regla de transporte) con el fin de archivarlo. Tenga en cuenta que un buzón compartido que usan varias personas en realidad no almacena correo electrónico de esos usuarios individuales. Varios usuarios tienen acceso y envían correos electrónicos como el buzón compartido. Por lo tanto, los únicos correos electrónicos que se almacenan en el buzón compartido son aquellos enviados a él o desde él, *como* el buzón compartido. <br/> <sup>8</sup> Si ha creado una directiva de retención en Exchange Online, los mensajes se moverán automáticamente al buzón de archivo de un usuario solo si el tamaño del buzón principal del usuario supera los 10 MB. La directiva de retención no se ejecutará automáticamente para los buzones cuyo tamaño sea inferior a 10 MB. <br/> <sup>9</sup> Los buzones de recursos o compartidos no requieren licencia. Sin embargo, sin una licencia, estos buzones están limitados a 50 GB. Para aumentar el tamaño del buzón, debe tener asignada una licencia E3 o E5. Esto aumentará el buzón en 100 GB. <br/> <sup>10</sup> De forma predeterminada, los buzones de correo compartidos tienen una cuenta de usuario activa asociada con una contraseña generada por el sistema (desconocida). Para bloquear el inicio de sesión para la cuenta de buzón de correo compartida asociada, consulte [Bloquear el inicio de sesión para la cuenta de buzón de correo compartido](/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)
@@ -124,14 +124,14 @@ El espacio de almacenamiento del buzón disponible para un usuario está determi
 | Característica | Exchange Server 2013 | Plan 1 de Exchange Online | Plan 2 de Exchange Online | Quiosco de Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
 |Buzones de usuario|2 GB<sup>1</sup>|50 GB|100 GB|2 GB|
-|Buzones de archivo<sup>8, 9</sup>|100 GB<sup>1</sup>|50 GB|1,5 TB<sup>2</sup>|No disponible<sup>5</sup>|
+|Buzones de archivo<sup>8,9</sup>|100 GB<sup>1</sup>|50 GB|1,5 TB<sup>2</sup>|No disponible<sup>5</sup>|
 |Buzones compartidos <sup>11</sup>|2 GB<sup>1</sup>|50 GB<sup>3</sup>|50 GB<sup>3,10</sup>|50 GB<sup>3</sup>|
 |Buzones de recursos|2 GB<sup>1</sup>|50 GB<sup>4</sup>|50 GB<sup>4,10</sup>|50 GB<sup>4</sup>|
 |Buzones de carpetas públicas|2 GB<sup>6</sup>|50 GB<sup>7</sup>|100 GB<sup>7</sup>|No disponible|
 |Buzones de grupo|50 GB|50 GB|50 GB|50 GB|
 
 > [!NOTE]
-> <sup>1</sup> Es el tamaño de buzón predeterminado para organizaciones de Exchange Server 2013. Los administradores pueden cambiar este valor para su organización. No hay un límite máximo de almacenamiento para los buzones locales. <br/> <sup>2</sup> Cada usuario recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. Se agrega espacio de almacenamiento adicional incrementalmente hasta que la capacidad de almacenamiento de archivo alcanza los 1,5 TB. Para obtener más información, consulte [Información general del archivado de ampliación automática](/microsoft-365/compliance/autoexpanding-archiving). Vea el [Mapa de ruta de Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) para obtener más información acerca de la disponibilidad del archivado de expansión automática. <br/> <sup>3</sup> Para acceder a un buzón de correo compartido, un usuario debe tener una licencia de Exchange Online, pero el buzón de correo compartido no requiere una licencia independiente. Sin una licencia, los buzones compartidos están limitados a 50 GB. Para aumentar el límite de tamaño a 100 GB, el buzón compartido debe tener asignada una licencia de Exchange Online Plan 2. La licencia de Exchange Online Plan 1 con una licencia de complemento de Archivado de Exchange Online aumentará el tamaño del buzón de archivo. Esto también le permitirá habilitar el archivo de expansión automática hasta 1,5 TB de capacidad de almacenamiento de archivos. Del mismo modo, si desea colocar un buzón compartido en retención por litigio, el buzón compartido debe tener una licencia de Exchange Online Plan 2 o una licencia de Exchange Online Plan 1 con una licencia complementaria de Exchange Online Archiving. Si desea aplicar funciones avanzadas como Microsoft Defender para Office 365, eDiscovery avanzado o directivas de retención automática, el buzón de correo compartido debe tener licencia para esas funciones. <br/> <sup>4</sup> Los buzones de recursos no requieren licencia. Sin embargo, sin una licencia, los buzones de recursos están limitados a 50 GB. Para aumentar el tamaño del buzón, debe tener asignada una licencia del Plan 2 de Exchange Online. Esto aumentará el buzón en 100 GB. <br/> <sup>5</sup> Los buzones de archivo no están incluidos en Quiosco de Exchange Online. Sin embargo, se pueden adquirir como un complemento a través de Archivado de Exchange Online. Para obtener más información, vea [Descripción del servicio de Archivado de Exchange Online](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/> <sup>6</sup> Es el tamaño de buzón predeterminado para organizaciones de Microsoft Exchange Server 2013. Los administradores pueden cambiar este valor para su organización. En Exchange Server 2013, existe un límite de 100 buzones de carpetas públicas y un tamaño total máximo de 50 TB para todos los buzones de carpetas públicas. <br/> <sup>7</sup> En Exchange Online, existe un límite de 1 000 buzones de carpetas públicas y un tamaño total máximo de 50 TB para todos los buzones de carpetas públicas.  <br/> <sup>8</sup> Solo pueden usarse los buzones de archivo para archivar correo de una sola entidad o un único usuario al que se le haya aplicado una licencia. No se permite usar el buzón de archivo para almacenar correo de varios usuarios o entidades. Por ejemplo, los administradores de TI no pueden crear buzones compartidos ni permitir que los usuarios copien (con los campos CC o CCO, o mediante una regla de transporte) buzones compartidos para archivarlos. <br/> <sup>9</sup> Si ha creado una directiva de retención en Exchange Online, los mensajes se moverán automáticamente al buzón de archivo de un usuario solo si el tamaño del buzón principal del usuario supera los 10 MB. La directiva de retención no se ejecutará automáticamente para los buzones cuyo tamaño sea inferior a 10 MB. <br/> <sup>10</sup> Los buzones de recursos o compartidos no requieren licencia. Sin embargo, sin una licencia, estos buzones están limitados a 50 GB. Para aumentar el tamaño del buzón, debe tener asignada una licencia del Plan 2 de Exchange Online. Esto aumentará el buzón en 100 GB. <br/> <sup>11</sup> De forma predeterminada, los buzones de correo compartidos tienen una cuenta de usuario activa asociada con una contraseña generada por el sistema (desconocida). Para bloquear el inicio de sesión para la cuenta de buzón de correo compartida asociada, consulte [Bloquear el inicio de sesión para la cuenta de buzón de correo compartido](/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)
+> <sup>1</sup> Es el tamaño de buzón predeterminado para organizaciones de Exchange Server 2013. Los administradores pueden cambiar este valor para su organización. No hay un límite máximo de almacenamiento para los buzones locales. <br/> <sup>2</sup> Cada usuario recibe inicialmente 100 GB de almacenamiento en el buzón de archivo. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de 100 GB. Se agrega espacio de almacenamiento adicional incrementalmente hasta que la capacidad de almacenamiento de archivo alcanza los 1,5 TB. Para más información, consulte [Información general sobre el archivado de expansión automática](/microsoft-365/compliance/autoexpanding-archiving). Consulte el [Plan de desarrollo de Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) para más información sobre la disponibilidad del archivado de expansión automática.<br/> <sup>3</sup> Para acceder a un buzón de correo compartido, un usuario debe tener una licencia de Exchange Online, pero el buzón de correo compartido no requiere una licencia independiente. Sin una licencia, los buzones compartidos están limitados a 50 GB. Para aumentar el límite de tamaño a 100 GB, el buzón compartido debe tener asignada una licencia de Exchange Online Plan 2. La licencia de Exchange Online Plan 1 con una licencia de complemento de Archivado de Exchange Online aumentará el tamaño del buzón de archivo. Esto también le permitirá habilitar el archivo de expansión automática hasta 1,5 TB de capacidad de almacenamiento de archivos. Del mismo modo, si desea colocar un buzón compartido en retención por litigio, el buzón compartido debe tener una licencia de Exchange Online Plan 2 o una licencia de Exchange Online Plan 1 con una licencia complementaria de Exchange Online Archiving. Si desea aplicar funciones avanzadas como Microsoft Defender para Office 365, eDiscovery avanzado o directivas de retención automática, el buzón de correo compartido debe tener licencia para esas funciones. <br/> <sup>4</sup> Los buzones de recursos no requieren licencia. Sin embargo, sin una licencia, los buzones de recursos están limitados a 50 GB. Para aumentar el tamaño del buzón, debe tener asignada una licencia del Plan 2 de Exchange Online. Esto aumentará el buzón en 100 GB. <br/> <sup>5</sup> Los buzones de archivo no están incluidos en Quiosco de Exchange Online. Sin embargo, se pueden adquirir como un complemento a través de Archivado de Exchange Online. Para obtener más información, vea [Descripción del servicio de Archivado de Exchange Online](../exchange-online-archiving-service-description/exchange-online-archiving-service-description.md). <br/> <sup>6</sup> Es el tamaño de buzón predeterminado para organizaciones de Microsoft Exchange Server 2013. Los administradores pueden cambiar este valor para su organización. En Exchange Server 2013, existe un límite de 100 buzones de carpetas públicas y un tamaño total máximo de 50 TB para todos los buzones de carpetas públicas. <br/> <sup>7</sup> En Exchange Online, existe un límite de 1 000 buzones de carpetas públicas y un tamaño total máximo de 50 TB para todos los buzones de carpetas públicas.  <br/> <sup>8</sup> Solo pueden usarse los buzones de archivo para archivar correo de una sola entidad o un único usuario al que se le haya aplicado una licencia. No se permite usar el buzón de archivo para almacenar correo de varios usuarios o entidades. Por ejemplo, los administradores de TI no pueden crear buzones compartidos ni permitir que los usuarios copien (con los campos CC o CCO, o mediante una regla de transporte) buzones compartidos para archivarlos. <br/> <sup>9</sup> Si ha creado una directiva de retención en Exchange Online, los mensajes se moverán automáticamente al buzón de archivo de un usuario solo si el tamaño del buzón principal del usuario supera los 10 MB. La directiva de retención no se ejecutará automáticamente para los buzones cuyo tamaño sea inferior a 10 MB. <br/> <sup>10</sup> Los buzones de recursos o compartidos no requieren licencia. Sin embargo, sin una licencia, estos buzones están limitados a 50 GB. Para aumentar el tamaño del buzón, debe tener asignada una licencia del Plan 2 de Exchange Online. Esto aumentará el buzón en 100 GB. <br/> <sup>11</sup> De forma predeterminada, los buzones de correo compartidos tienen una cuenta de usuario activa asociada con una contraseña generada por el sistema (desconocida). Para bloquear el inicio de sesión para la cuenta de buzón de correo compartida asociada, consulte [Bloquear el inicio de sesión para la cuenta de buzón de correo compartido](/office365/admin/email/create-a-shared-mailbox#block-sign-in-for-the-shared-mailbox-account)
 
 ## <a name="capacity-alerts"></a>Alertas de capacidad
 
@@ -145,11 +145,11 @@ Exchange Online ofrece tres tipos de notificaciones cuando el buzón de un usuar
 
 ### <a name="capacity-alerts"></a>Alertas de capacidad
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Advertencia|49 GB|49 GB|49 GB|98 GB|98 GB|1,96 GB|
-|Prohibir envío|49,5 GB|49,5 GB|49,5 GB|99 GB|99 GB|1,98 GB|
-|Prohibir envío y recepción|50 GB|50 GB|50 GB|100 GB|100 GB|2 GB|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Advertencia | 49 GB | 49 GB | 49 GB | 49 GB | 98 GB | 98 GB | 1,96 GB |
+| Prohibir envío | 49,5 GB | 49,5 GB | 49,5 GB | 49,5 GB | 99 GB | 99 GB | 1,98 GB |
+| Prohibir envío y recepción | 50 GB | 50 GB | 50 GB | 50 GB | 100 GB | 100 GB | 2 GB |
 
 ### <a name="capacity-alerts-across-standalone-plans"></a>Alertas de capacidad en planes independientes
 
@@ -190,26 +190,26 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 
 ### <a name="mailbox-folder-limits"></a>Límites de la carpeta de buzón de correo
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Número máximo de mensajes por carpeta de buzón de correo|1 millón|1 millón|1 millón|1 millón|1 millón|1 millón|
-|Advertencia de número de mensajes por carpeta de buzón de correo|900,000|900,000|900,000|900,000|900,000|900,000|
-|Número máximo de mensajes por carpeta de la carpeta Elementos recuperables|3 millones|3 millones|3 millones|3 millones|3 millones|3 millones|
-|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (no en espera)|30 GB|30 GB|30 GB|30 GB|30 GB|30 GB|
-|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (en espera)|100 GB|100 GB|100 GB|100 GB|100 GB|100 GB|
-|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (no en espera)|30 GB|30 GB|30 GB|1,5 TB<sup>2</sup>|1,5 TB<sup>2</sup>|30 GB|
-|Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (en espera)|100 GB<sup>1</sup>|100 GB<sup>1</sup>|100 GB<sup>1</sup>|1,5 TB<sup>2</sup>|1,5 TB<sup>2</sup>|100 GB<sup>1</sup>|
-|Advertencia de número de mensajes por carpeta en la carpeta Elementos recuperables|2,75 millones|2,75 millones|2,75 millones|2,75 millones|2,75 millones|2,75 millones|
-|Número máximo de subcarpetas por carpeta de buzón de correo|10 000<sup>2</sup>|10 000<sup>2</sup>|10 000<sup>2</sup>|10 000<sup>2</sup>|10 000<sup>2</sup>|10 000<sup>2</sup>|
-|Advertencia de número de subcarpetas por carpeta de buzón de correo|9000|9000|9000|9000|9000|9000|
-|Profundidad máxima de jerarquía de carpeta|300|300|300|300|300|300|
-|Advertencia de profundidad de jerarquía de carpeta|250|250|250|250|250|250|
-|Número máximo de carpetas públicas|500 000|500 000|500 000|500 000|500 000|No disponible|
-|Número máximo de subcarpetas por carpeta pública|10,000|10,000|10,000|10,000|10,000|No disponible|
-|Advertencia de número de subcarpetas por carpeta pública|9000|9000|9000|9000|9000|No disponible|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|-------------------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Número máximo de mensajes por carpeta de buzón de correo | 1 millón | 1 millón | 1 millón | 1 millón | 1 millón | 1 millón | 1 millón |
+| Advertencia de número de mensajes por carpeta de buzón de correo | 900,000 | 900,000 | 900,000 | 900,000 | 900,000 | 900,000 | 900,000 |
+| Número máximo de mensajes por carpeta de la carpeta Elementos recuperables | 3 millones | 3 millones | 3 millones | 3 millones | 3 millones | 3 millones | 3 millones |
+| Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (no en espera) | 30 GB | 30 GB | 30 GB | 30 GB | 30 GB | 30 GB | 30 GB |
+| Cuota de almacenamiento para la carpeta Elementos recuperables del buzón principal (en espera) | 100 GB | 100 GB | 100 GB | 100 GB | 100 GB | 100 GB | 100 GB |
+| Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (no en espera) | 30 GB | 30 GB | 30 GB | 30 GB | 1,5 TB<sup>2</sup> | 1,5 TB<sup>2</sup> | 30 GB |
+| Cuota de almacenamiento para la carpeta Elementos recuperables del buzón de archivo (en espera) | 100 GB<sup>1</sup> | 100 GB<sup>1</sup> | 100 GB<sup>1</sup> | 100 GB<sup>1</sup> | 1,5 TB<sup>2</sup> | 1,5 TB<sup>2</sup> | 100 GB<sup>1</sup> |
+| Advertencia de número de mensajes por carpeta en la carpeta Elementos recuperables | 2,75 millones | 2,75 millones | 2,75 millones | 2,75 millones | 2,75 millones | 2,75 millones | 2,75 millones |
+| Número máximo de subcarpetas por carpeta de buzón de correo | 10 000<sup>2</sup> | 10 000<sup>2</sup> | 10 000<sup>2</sup> | 10 000<sup>2</sup> | 10 000<sup>2</sup> | 10 000<sup>2</sup> | 10 000<sup>2</sup> |
+| Advertencia de número de subcarpetas por carpeta de buzón de correo | 9000 | 9000 | 9000 | 9000 | 9000 | 9000 | 9000 |
+| Profundidad máxima de jerarquía de carpeta | 300 | 300 | 300 | 300 | 300 | 300 | 300 |
+| Advertencia de profundidad de jerarquía de carpeta | 250 | 250 | 250 | 250 | 250 | 250 | 250 |
+| Número máximo de carpetas públicas | 500 000 | 500 000 | 500 000 | 500 000 | 500 000 | 500 000 | No disponible |
+| Número máximo de subcarpetas por carpeta pública | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 | 10,000 | No disponible |
+| Advertencia de número de subcarpetas por carpeta pública | 9000 | 9000 | 9000 | 9000 | 9000 | 9000 | No disponible |
 
 > [!NOTE]
-> <sup>1</sup> Es la cuota de almacenamiento de la carpeta Elementos recuperables, y no la cuota de todo el buzón de archivo. La cuota de almacenamiento máxima del buzón de archivo es de 1,5 TB para los usuarios que cuentan con una licencia de Exchange Online Plan 2 o para los usuarios que tienen una licencia de Plan 1 de Exchange Online y de Archivado de Exchange Online. Para obtener más información sobre la cuota de elementos recuperables, vea [Aumentar la cuota de elementos recuperables para los buzones de correo en retención](/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>2</sup> La cuota de almacenamiento inicial para la carpeta Elementos recuperables de un buzón de archivo es de 100 GB. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de la carpeta Elementos recuperables. Para obtener más información, consulte [Información general del archivado de ampliación automática](/microsoft-365/compliance/autoexpanding-archiving). Vea el [Plan de desarrollo de Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) para obtener información sobre la disponibilidad del archivado de expansión automática.
+> <sup>1</sup> Es la cuota de almacenamiento de la carpeta Elementos recuperables, y no la cuota de todo el buzón de archivo. La cuota de almacenamiento del buzón de archivo es de 1,5 TB para los usuarios que cuentan con una licencia de Exchange Online Plan 2 o para los usuarios que tienen una licencia de Exchange Online Plan 1 y Archivado de Exchange Online. Para obtener información sobre cómo aumentar la cuota de elementos recuperables, consulte [Aumentar la cuota de Elementos recuperables para buzones de correo retenidos](/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).<br/> <sup>2</sup> La cuota de almacenamiento inicial para la carpeta Elementos recuperables de un buzón de archivo es de 100 GB. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de la carpeta Elementos recuperables. Para obtener más información, consulte [Información general del archivado de ampliación automática](/microsoft-365/compliance/autoexpanding-archiving). Vea el [Plan de desarrollo de Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) para obtener información sobre la disponibilidad del archivado de expansión automática.
 > <sup>2</sup> Este es un límite de tienda; es una de las limitaciones de la forma del buzón. Solo puede haber 10,000 carpetas secundarias directas para un padre determinado. Esto se aplica independientemente de la migración u otros clientes que creen carpetas.
 
 ### <a name="mailbox-folder-limits-across-standalone-plans"></a>Límites de carpetas de buzones de correo de los distintos planes independientes
@@ -233,7 +233,7 @@ Estos límites se usan para limitar el tamaño de los buzones de correo y garant
 |Advertencia de número de subcarpetas por carpeta pública|N/D|900|900|No disponible|
 
 > [!NOTE]
-> <sup>1</sup> Microsoft recomienda no más de 1 000 000 de mensajes por carpeta del buzón.<br/> <sup>2</sup> Es la cuota de almacenamiento de la carpeta Elementos recuperables, y no la cuota de todo el buzón de archivo. La cuota de almacenamiento del buzón de archivo es de 1,5 TB para los usuarios que cuentan con una licencia de Exchange Online Plan 2 o para los usuarios que tienen una licencia de Plan 1 de Exchange Online y de Archivado de Exchange Online. Para obtener más información sobre la cuota de elementos recuperables, vea [Aumentar la cuota de elementos recuperables para los buzones de correo en retención](/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold). <br/> <sup>3</sup> La cuota de almacenamiento inicial para la carpeta Elementos recuperables de un buzón de archivo es de 100 GB. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de la carpeta Elementos recuperables. Para obtener más información, consulte [Información general del archivado de ampliación automática](/microsoft-365/compliance/autoexpanding-archiving). Vea el [Plan de desarrollo de Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) para obtener información sobre la disponibilidad del archivado de expansión automática.
+> <sup>1</sup> Microsoft recomienda no más de 1 000 000 de mensajes por carpeta del buzón.<br/> <sup>2</sup> Es la cuota de almacenamiento de la carpeta Elementos recuperables, y no la cuota de todo el buzón de archivo. La cuota de almacenamiento del buzón de archivo es de 1,5 TB para los usuarios que cuentan con una licencia de Exchange Online Plan 2 o para los usuarios que tienen una licencia de Exchange Online Plan 1 y Archivado de Exchange Online. Para obtener información sobre cómo aumentar la cuota de elementos recuperables, consulte [Aumentar la cuota de Elementos recuperables para buzones de correo retenidos](/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).<br/> <sup>3</sup> La cuota de almacenamiento inicial para la carpeta Elementos recuperables de un buzón de archivo es de 100 GB. Cuando el archivado de expansión automática está activado, se agrega almacenamiento adicional automáticamente cuando se alcanza la capacidad de almacenamiento de la carpeta Elementos recuperables. Para más información, consulte [Información general sobre el archivado de ampliación automática](/microsoft-365/compliance/autoexpanding-archiving). Vea el [Mapa de ruta de Microsoft 365](https://go.microsoft.com/fwlink/?LinkId=509914) para obtener información sobre la disponibilidad del archivado de expansión automática.
 
 ## <a name="message-limits"></a>Límites de mensajes
 
@@ -261,24 +261,24 @@ Los siguientes límites se aplican a todos los mensajes de correo electrónico.
 
 ### <a name="message-limits"></a>Límites de mensajes
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Límite de tamaño de mensaje - Outlook|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
-|Límite de tamaño de mensaje - OWA|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|
-|Límite de tamaño de mensaje - Outlook para Mac|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|
-|Límite de tamaño de mensaje: migración|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|150 MB <sup>1, 4</sup>|
-|Límite de tamaño de mensaje - Outlook para iOS y Android | 33 MB| 33 MB| 33 MB| 33 MB| 33 MB| 33 MB|
-|Límite de tamaño de los mensajes cifrados (para los suscriptores que usan el Cifrado de mensajes de Office 365 con nuevas funciones)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
-|Límite de tamaño de los mensajes cifrados (para los suscriptores que usan la versión heredada del Cifrado de mensajes de Office 365)<sup>5</sup>|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
-|Límite de longitud del asunto|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|255 caracteres|
-|Límite de datos adjuntos|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|250 datos adjuntos|
-|Límite del tamaño de un archivo de datos adjunto - Outlook|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
-|Límite del tamaño de un archivo de datos adjunto - OWA |112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|112 MB<sup>3, 6</sup>|
-|Límite del tamaño de un archivo de datos adjunto - Outlook para Mac|150 MB|150 MB|150 MB|150 MB|150 MB|150 MB|
-|Límite del tamaño de un archivo de datos adjunto: nuevo Outlook para Mac|33 MB|33 MB|33 MB|33 MB|33 MB|33 MB|
-|Límite de tamaño de archivo adjunto: Outlook para iOS y Android|33 MB |33 MB |33 MB |33 MB |33 MB |33 MB |
-|Límite de mensaje con varias partes|250 partes|250 partes|250 partes|250 partes|250 partes|250 partes|
-|Límite de profundidad de incrustación de mensajes|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|30 mensajes incrustados|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Límite de tamaño de mensaje - Outlook | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> |
+| Límite de tamaño de mensaje - OWA | 112 MB<sup>1,3</sup> | 112 MB<sup>1,3</sup> | 112 MB<sup>1,3</sup> | 112 MB<sup>1,3</sup> | 112 MB<sup>1,3</sup> | 112 MB<sup>1,3</sup> | 112 MB<sup>1,3</sup> |
+| Límite de tamaño de mensaje - Outlook para Mac | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> | 150 MB<sup>1,2</sup> |
+| Límite de tamaño de mensaje: migración | 150 MB<sup>1,4</sup> | 150 MB<sup>1,4</sup> | 150 MB<sup>1,4</sup> | 150 MB<sup>1,4</sup> | 150 MB<sup>1,4</sup> | 150 MB<sup>1,4</sup> | 150 MB<sup>1,4</sup> |
+| Límite de tamaño de mensaje - Outlook para iOS y Android | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB |
+| Límite de tamaño de los mensajes cifrados (para los suscriptores que usan el Cifrado de mensajes de Office 365 con nuevas funciones)<sup>5</sup> | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB |
+| Límite de tamaño de los mensajes cifrados (para los suscriptores que usan la versión heredada del Cifrado de mensajes de Office 365)<sup>5</sup> | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB |
+| Límite de longitud del asunto | 255 caracteres | 255 caracteres | 255 caracteres | 255 caracteres | 255 caracteres | 255 caracteres | 255 caracteres |
+| Límite de datos adjuntos | 250 datos adjuntos | 250 datos adjuntos | 250 datos adjuntos | 250 datos adjuntos | 250 datos adjuntos | 250 datos adjuntos | 250 datos adjuntos |
+| Límite del tamaño de un archivo de datos adjunto - Outlook | 150 MB | 150 MB | 150 MB | 150 MB | 150 MB | 150 MB | 150 MB |
+| Límite del tamaño de un archivo de datos adjunto - OWA | 112 MB<sup>3,6</sup> | 112 MB<sup>3,6</sup> | 112 MB<sup>3,6</sup> | 112 MB<sup>3,6</sup> | 112 MB<sup>3,6</sup> | 112 MB<sup>3,6</sup> | 112 MB<sup>3,6</sup> |
+| Límite del tamaño de un archivo de datos adjunto - Outlook para Mac | 150 MB | 150 MB | 150 MB | 150 MB | 150 MB | 150 MB | 150 MB |
+| Límite del tamaño de un archivo de datos adjunto: nuevo Outlook para Mac | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB |
+| Límite de tamaño de archivo adjunto: Outlook para iOS y Android | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB | 33 MB |
+| Límite de mensaje con varias partes | 250 partes | 250 partes | 250 partes | 250 partes | 250 partes | 250 partes | 250 partes |
+| Límite de profundidad de incrustación de mensajes | 30 mensajes incrustados | 30 mensajes incrustados | 30 mensajes incrustados | 30 mensajes incrustados | 30 mensajes incrustados | 30 mensajes incrustados | 30 mensajes incrustados |
 
 > [!NOTE]
 > <sup>1</sup> El tamaño máximo de mensaje predeterminado para los buzones de correo de Microsoft es de 25 MB. Los administradores de Microsoft pueden especificar un límite personalizado entre 1 MB y 150 MB. Sin embargo, el tamaño de los mensajes que puede enviar o recibir depende también de qué admite la solución o el cliente de correo electrónico. Para obtener más información sobre cómo personalizar el tamaño máximo de mensaje permitido para su organización, consulte [Microsoft admite mensajes de correo más grandes](https://go.microsoft.com/fwlink/?linkid=2144144).<br/> <sup>2</sup> Pueden enviarse y recibirse mensajes de hasta 150 MB entre los usuarios (los mensajes nunca abandonan los centros de datos de Microsoft). Los mensajes que se enrutan fuera de los centros de datos de Microsoft están sujetos a un aumento de codificación de traducción del 33 % adicional, en cuyo caso el tamaño máximo de los mensajes es 112 MB. <br/> 
@@ -291,8 +291,8 @@ Los siguientes límites se aplican a todos los mensajes de correo electrónico.
 
 | Característica | Exchange Server 2013 | Plan 1 de Exchange Online | Plan 2 de Exchange Online | Quiosco de Exchange Online |
 |:-----|:-----|:-----|:-----|:-----|
-|Límite de tamaño de mensaje - Outlook|10 MB<sup>4</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>1, 2</sup>|150 MB<sup>2</sup>|
-|Límite de tamaño de mensaje - OWA|10 MB<sup>4</sup>|112 MB<sup>1, 3</sup>|112 MB<sup>1, 3</sup>|150 MB<sup>1, 2</sup>|
+|Límite de tamaño de mensaje - Outlook|10 MB<sup>4</sup>|150 MB<sup>1,2</sup>|150 MB<sup>1,2</sup>|150 MB<sup>2</sup>|
+|Límite de tamaño de mensaje - OWA|10 MB<sup>4</sup>|112 MB<sup>1,3</sup>|112 MB<sup>1,3</sup>|150 MB<sup>1,2</sup>|
 |Límite de tamaño de mensaje - Outlook para Mac|10 MB<sup>4</sup>|150 MB|150 MB||
 |Límite de tamaño de mensaje: migración|No aplicable|150 MB<sup>5</sup>|150 MB<sup>5</sup>|150 MB<sup>5</sup>|
 |Límite de tamaño de mensaje - Outlook para iOS y Android |25 MB |33 MB |33 MB |33 MB |
@@ -325,10 +325,10 @@ Los límites de recepción se aplican al número de mensajes que puede recibir u
 - **Límite de recepción:** este límite se aplica al número de mensajes por hora *de todos los orígenes*. Esto incluye los mensajes de remitentes internos, los mensajes de Internet y los mensajes de servidores locales. Cuando se ha superado el límite de recepción de un buzón, los mensajes enviados al buzón se devolverán al remitente en un informe de no entrega (también conocido como NDR o mensaje de devolución) que indica que el buzón ha superado el umbral de entrega máximo. Pasada una hora, se actualizará el límite y el buzón podrá volver a recibir mensajes.
 - **Límite de par remitente-destinatario:** este límite se aplica al número de mensajes por hora de *un único remitente*. Esto se establece en una proporción del límite de recepción general para protegerse frente a tormentas de correo de un solo remitente.
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar Office | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Mensajes recibidos|3 600 mensajes por hora|3 600 mensajes por hora|3 600 mensajes por hora|3 600 mensajes por hora|3 600 mensajes por hora|3600 mensajes por hora|
-|Mensajes recibidos de un solo remitente|33 % de mensajes recibidos|33 % de mensajes recibidos|33 % de mensajes recibidos|33 % de mensajes recibidos|33 % de mensajes recibidos|33 % de mensajes recibidos|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|----------------------------------------|-----------------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Mensajes recibidos | 3 600 mensajes por hora | 3 600 mensajes por hora | 3 600 mensajes por hora | 3 600 mensajes por hora | 3 600 mensajes por hora | 3 600 mensajes por hora | 3600 mensajes por hora |
+| Mensajes recibidos de un solo remitente | 33 % de mensajes recibidos | 33 % de mensajes recibidos | 33 % de mensajes recibidos | 33 % de mensajes recibidos | 33 % de mensajes recibidos | 33 % de mensajes recibidos | 33 % de mensajes recibidos |
 
 ### <a name="sending-limits"></a>Límites de envío
 
@@ -353,12 +353,12 @@ Los límites de envío se aplican al número de destinatarios, número de mensaj
 
 #### <a name="sending-limits"></a>Límites de envío
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Límite de frecuencia de destinatario <sup>1</sup>|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|10 000 destinatarios por día|
-|Límite de destinatario <sup>2</sup>|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|Personalizable hasta 1000 destinatarios|
-|Límite de direcciones proxy de destinatarios|400|400|400|400|400|400|
-|Límite de frecuencia de mensajes<sup>3</sup>|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|30 mensajes por minuto|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
+| Límite de frecuencia de destinatario <sup>1</sup> | 10 000 destinatarios por día | 10 000 destinatarios por día | 10 000 destinatarios por día | 10 000 destinatarios por día | 10 000 destinatarios por día | 10 000 destinatarios por día | 10 000 destinatarios por día |
+| Límite de destinatario <sup>2</sup> | Personalizable hasta 1000 destinatarios | Personalizable hasta 1000 destinatarios | Personalizable hasta 1000 destinatarios | Personalizable hasta 1000 destinatarios | Personalizable hasta 1000 destinatarios | Personalizable hasta 1000 destinatarios | Personalizable hasta 1000 destinatarios |
+| Límite de direcciones proxy de destinatarios | 400 | 400 | 400 | 400 | 400 | 400 | 400 |
+| Límite de frecuencia de mensajes<sup>3</sup> | 30 mensajes por minuto | 30 mensajes por minuto | 30 mensajes por minuto | 30 mensajes por minuto | 30 mensajes por minuto | 30 mensajes por minuto | 30 mensajes por minuto |
 
 > [!NOTE]
 > <sup>1</sup>: Una vez que se alcanza el límite de tasa de destinatarios, no se pueden enviar mensajes desde el buzón de correo hasta que la cantidad de destinatarios a los que se enviaron mensajes en las últimas 24 horas baje por debajo del límite. Por ejemplo, un usuario envía un mensaje de correo electrónico a 5000 destinatarios a las 09:00 a.m., luego envía otro mensaje a 2500 destinatarios a las 10:00 a.m. y luego envía otro mensaje a 2500 destinatarios a las 11:00 a.m., alcanzando el límite de 10,000 mensajes. El usuario no podrá volver a enviar mensajes hasta las 09:00 a.m. del día siguiente.  
@@ -397,11 +397,11 @@ Estos límites controlan el tiempo durante el cual es posible obtener acceso a l
 
 ### <a name="retention-limits"></a>Límites de retención
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Período de retención de la carpeta Elementos eliminados|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|Sin límite<sup>1</sup>|
-|Período de retención de los elementos quitados de la carpeta Elementos eliminados|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|14 días<sup>1</sup>|
-|Período de retención de la carpeta Correo no deseado|30 días|30 días|30 días|30 días|30 días|30 días|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Período de retención de la carpeta Elementos eliminados | Sin límite<sup>1</sup> | Sin límite<sup>1</sup> | Sin límite<sup>1</sup> | Sin límite<sup>1</sup> | Sin límite<sup>1</sup> | Sin límite<sup>1</sup> | Sin límite<sup>1</sup> |
+| Período de retención de los elementos quitados de la carpeta Elementos eliminados | 14 días<sup>1</sup> | 14 días<sup>1</sup> | 14 días<sup>1</sup> | 14 días<sup>1</sup> | 14 días<sup>1</sup> | 14 días<sup>1</sup> | 14 días<sup>1</sup> |
+| Período de retención de la carpeta Correo no deseado | 30 días | 30 días | 30 días | 30 días | 30 días | 30 días | 30 días |
 
 > [!NOTE]
 > <sup>1</sup> Es el valor predeterminado para organizaciones de Microsoft 365. Los administradores pueden cambiar este valor a un máximo de 30 días para los buzones de su organización.
@@ -429,14 +429,14 @@ Estos límites se aplican a grupos de distribución en la libreta de direcciones
 
 ### <a name="distribution-group-limits"></a>Límites de grupos de distribución
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Número máximo de miembros de un grupo de distribución<sup>1</sup>|100 000 miembros|100 000 miembros|100 000 miembros|100 000 miembros|100 000 miembros|100 000 miembros|
-|Límite de envío de mensajes a un grupo de distribución grande|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|5 000 o más miembros|
-|Tamaño máximo de mensaje para grupos de distribución con entre 5 000 y 99 999 miembros.|25 MB|25 MB|25 MB|25 MB|25 MB|25 MB|
-|Tamaño máximo de mensaje para grupos de distribución con 100 000 miembros.|5 MB|5 MB|5 MB|5 MB|5 MB|5 MB|
-|Número máximo de propietarios de un grupo de distribución|10|10|10|10|10|10|
-|Número máximo de grupos que un usuario puede crear|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|300,000<sup>2</sup>|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Número máximo de miembros de un grupo de distribución<sup>1</sup> | 100 000 miembros | 100 000 miembros | 100 000 miembros | 100 000 miembros | 100 000 miembros | 100 000 miembros | 100 000 miembros |
+| Límite de envío de mensajes a un grupo de distribución grande | 5 000 o más miembros | 5 000 o más miembros | 5 000 o más miembros | 5 000 o más miembros | 5 000 o más miembros | 5 000 o más miembros | 5 000 o más miembros |
+| Tamaño máximo de mensaje para grupos de distribución con entre 5 000 y 99 999 miembros. | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB | 25 MB |
+| Tamaño máximo de mensaje para grupos de distribución con 100 000 miembros. | 5 MB | 5 MB | 5 MB | 5 MB | 5 MB | 5 MB | 5 MB |
+| Número máximo de propietarios de un grupo de distribución | 10 | 10 | 10 | 10 | 10 | 10 | 10 |
+| Número máximo de grupos que un usuario puede crear | 300,000<sup>2</sup> | 300,000<sup>2</sup> | 300,000<sup>2</sup> | 300,000<sup>2</sup> | 300,000<sup>2</sup> | 300,000<sup>2</sup> | 300,000<sup>2</sup> |
 
 > [!NOTE]
 > <sup>1</sup> Si usa Azure Active Directory DirSync, el número máximo de miembros del grupo de distribución que se pueden sincronizar de Active Directory local a Azure Active Directory es 15 000. Si usa Azure AD Connect, el número asciende a 50 000. <br/> <sup>2</sup> Este límite se aplica también a los administradores.
@@ -477,19 +477,19 @@ La lista siguiente incluye los límites que se aplican a las reglas del diario, 
 
 ### <a name="journal-transport-and-inbox-rule-limits"></a>Límites de las reglas de la bandeja de entrada, del diario y de transporte
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Número máximo de reglas del diario|300 reglas|300 reglas|300 reglas|300 reglas|300 reglas|300 reglas|
-|Número máximo de reglas de transporte|300 reglas|300 reglas|300 reglas|300 reglas|300 reglas|300 reglas|
-|Tamaño máximo de una regla de transporte individual|8 KB|8 KB|8 KB|8 KB|8 KB|8 KB|
-|Límite de caracteres para todas las expresiones regulares usadas en todas las reglas de transporte|20 KB|20 KB|20 KB|20 KB|20 KB|20 KB|
-|Límites de análisis para el contenido de datos adjuntos|1 MB|1 MB|1 MB|1 MB|1 MB|1 MB|
-|Número máximo de destinatarios agregados a un mensaje por todas las reglas de trasporte|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|100 destinatarios|
-|Límite de reenvío|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|10 destinatarios|
-|Número de veces que se redirige un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
-|Número de veces que se redirige un mensaje por las reglas de transporte|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
-|Número de veces que se redirige un mensaje|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|1 redireccionamiento|
-|Reglas de la bandeja de entrada|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|256kb<sup>1</sup>|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Número máximo de reglas del diario | 300 reglas | 300 reglas | 300 reglas | 300 reglas | 300 reglas | 300 reglas | 300 reglas |
+| Número máximo de reglas de transporte | 300 reglas | 300 reglas | 300 reglas | 300 reglas | 300 reglas | 300 reglas | 300 reglas |
+| Tamaño máximo de una regla de transporte individual | 8 KB | 8 KB | 8 KB | 8 KB | 8 KB | 8 KB | 8 KB |
+| Límite de caracteres para todas las expresiones regulares usadas en todas las reglas de transporte | 20 KB | 20 KB | 20 KB | 20 KB | 20 KB | 20 KB | 20 KB |
+| Límites de análisis para el contenido de datos adjuntos | 1 MB | 1 MB | 1 MB | 1 MB | 1 MB | 1 MB | 1 MB |
+| Número máximo de destinatarios agregados a un mensaje por todas las reglas de trasporte | 100 destinatarios | 100 destinatarios | 100 destinatarios | 100 destinatarios | 100 destinatarios | 100 destinatarios | 100 destinatarios |
+| Límite de reenvío | 10 destinatarios | 10 destinatarios | 10 destinatarios | 10 destinatarios | 10 destinatarios | 10 destinatarios | 10 destinatarios |
+| Número de veces que se redirige un mensaje | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento |
+| Número de veces que se redirige un mensaje por las reglas de transporte | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento |
+| Número de veces que se redirige un mensaje | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento | 1 redireccionamiento |
+| Reglas de la bandeja de entrada | 256kb<sup>1</sup> | 256kb<sup>1</sup> | 256kb<sup>1</sup> | 256kb<sup>1</sup> | 256kb<sup>1</sup> | 256kb<sup>1</sup> | 256kb<sup>1</sup> |
 
 > [!NOTE]
 > <sup>1</sup> Si se migró un buzón a Exchange Online, el límite de la regla de la bandeja de entrada se puede establecer en un valor inferior al valor EXO predeterminado. Si ese es el caso, se puede aumentar el valor de la regla de la bandeja de entrada. Para obtener instrucciones, consulte [Modificar el espacio utilizado por las reglas de la Bandeja de entrada en Exchange Online](/exchange/clients-and-mobile-in-exchange-online/outlook-on-the-web/increase-the-space-used-by-inbox-rules). 
@@ -523,12 +523,12 @@ Durante períodos de gran actividad, algunos remitentes no recibirán mensajes d
 
 ### <a name="moderation-limits"></a>Límites de moderación
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Tamaño máximo de buzón de correo de arbitraje|10 GB|10 GB|10 GB|10 GB|10 GB|10 GB|
-|Número máximo de moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|10 moderadores|
-|Caducidad de mensajes en espera de ser moderados|2 días|2 días|2 días|2 días|2 días|2 días|
-|Máximo índice de mensajes de notificación de moderación caducada|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|300 notificaciones de caducidad por hora|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|---------------------------------|---------------------------|-------------------------|--------------------------|--------------------------|
+| Tamaño máximo de buzón de correo de arbitraje | 10 GB | 10 GB | 10 GB | 10 GB | 10 GB | 10 GB | 10 GB |
+| Número máximo de moderadores | 10 moderadores | 10 moderadores | 10 moderadores | 10 moderadores | 10 moderadores | 10 moderadores | 10 moderadores |
+| Caducidad de mensajes en espera de ser moderados | 2 días | 2 días | 2 días | 2 días | 2 días | 2 días | 2 días |
+| Máximo índice de mensajes de notificación de moderación caducada | 300 notificaciones de caducidad por hora | 300 notificaciones de caducidad por hora | 300 notificaciones de caducidad por hora | 300 notificaciones de caducidad por hora | 300 notificaciones de caducidad por hora | 300 notificaciones de caducidad por hora | 300 notificaciones de caducidad por hora |
 
 ### <a name="moderation-limits-across-standalone-options"></a>Límites de moderación en las opciones independientes
 
@@ -552,10 +552,10 @@ Los siguientes límites se aplican a Microsoft Exchange ActiveSync, un protocolo
 
 ### <a name="exchange-activesync-limits"></a>Límites de Exchange ActiveSync
 
-| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
-|:-----|:-----|:-----|:-----|:-----|:-----|:-----|
-|Límite de dispositivos de Exchange ActiveSync|100|100|100|100|100|100|
-|Límite de eliminación de dispositivos de Exchange ActiveSync|20|20|20|20|20|20|
+| Característica | Microsoft 365 Empresa Básico | Microsoft 365 Empresa Estándar | Microsoft 365 Empresa Premium | Office 365 Enterprise E1 | Office 365 Enterprise E3 | Office 365 Enterprise E5 | Office 365 Enterprise F3 |
+|---------|------------------------------|---------------------------------|--------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Límite de dispositivos de Exchange ActiveSync | 100 | 100 | 100 | 100 | 100 | 100 | 100 |
+| Límite de eliminación de dispositivos de Exchange ActiveSync | 20 | 20 | 20 | 20 | 20 | 20 | 20 |
 
 ### <a name="exchange-activesync-limits-across-standalone-options"></a>Límites de Exchange ActiveSync en opciones independientes
 
